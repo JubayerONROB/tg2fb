@@ -60,6 +60,10 @@ VIDEO_MAX_BYTES = 20 * 1024 * 1024
 
 MAX_RETRIES = 3  # after this many failed attempts, an item is dead-lettered
 
+# Emoji the bot reacts with on the source Telegram message after a successful
+# Facebook post. Must be one of the reactions the channel allows.
+REACTION_EMOJI = "💯"
+
 logging.basicConfig(
     level=logging.INFO,
     format="%(asctime)s [%(levelname)s] %(message)s",
@@ -267,6 +271,41 @@ def get_updates(bot_token, offset):
     return payload.get("result", [])
 
 
+def react_to_messages(bot_token, chat_id, message_ids, emoji=REACTION_EMOJI):
+    """React with an emoji to the source Telegram message(s) via setMessageReaction.
+
+    Best-effort: a failed reaction is logged but never affects the post outcome.
+    Returns the number of messages reacted to.
+    """
+    if not chat_id or not message_ids:
+        log.debug("No chat_id/message_ids available; skipping reaction.")
+        return 0
+    url = f"{TELEGRAM_API}/bot{bot_token}/setMessageReaction"
+    reaction = json.dumps([{"type": "emoji", "emoji": emoji}])
+    reacted = 0
+    for message_id in message_ids:
+        if message_id is None:
+            continue
+        try:
+            resp = requests.post(
+                url,
+                data={"chat_id": chat_id, "message_id": message_id,
+                      "reaction": reaction},
+                timeout=REQUEST_TIMEOUT,
+            )
+            data = resp.json()
+            if resp.ok and data.get("ok"):
+                reacted += 1
+                log.info("Reacted %s to Telegram message %s.", emoji, message_id)
+            else:
+                log.warning("setMessageReaction failed for message %s: %s",
+                            message_id, data)
+        except (requests.RequestException, ValueError) as exc:
+            log.warning("Reaction request failed for message %s: %s",
+                        message_id, exc)
+    return reacted
+
+
 def resolve_file(bot_token, file_id):
     """Resolve a Telegram file path via getFile.
 
@@ -327,6 +366,8 @@ def _item_from_update(update):
         return None
     update_id = update.get("update_id")
     mgid = cp.get("media_group_id")
+    chat_id = (cp.get("chat") or {}).get("id")
+    message_id = cp.get("message_id")
 
     if cp.get("photo"):
         return {
@@ -334,6 +375,8 @@ def _item_from_update(update):
             "photo_file_ids": [_largest_photo_id(cp["photo"])],
             "caption": cp.get("caption") or "",
             "media_group_id": mgid,
+            "chat_id": chat_id,
+            "message_ids": [message_id],
             "update_ids": [update_id],
             "retry_count": 0,
         }
@@ -345,6 +388,8 @@ def _item_from_update(update):
             "video_file_size": video.get("file_size"),
             "caption": cp.get("caption") or "",
             "media_group_id": mgid,
+            "chat_id": chat_id,
+            "message_ids": [message_id],
             "update_ids": [update_id],
             "retry_count": 0,
         }
@@ -353,6 +398,8 @@ def _item_from_update(update):
             "type": "text",
             "caption": cp.get("text"),
             "media_group_id": None,
+            "chat_id": chat_id,
+            "message_ids": [message_id],
             "update_ids": [update_id],
             "retry_count": 0,
         }
@@ -381,6 +428,7 @@ def build_items(updates):
             existing = items[group_index[mgid]]
             existing["photo_file_ids"].extend(item["photo_file_ids"])
             existing["update_ids"].extend(item["update_ids"])
+            existing["message_ids"].extend(item["message_ids"])
             if not existing["caption"] and item["caption"]:
                 existing["caption"] = item["caption"]
             existing["type"] = (
@@ -871,9 +919,13 @@ def main(argv=None):
                  "to %s.", len(new_items), newest_update_id)
         effective = queue + new_items
         if effective:
-            result = process_item(effective[0], config, page_id, dry_run=True)
+            front = effective[0]
+            result = process_item(front, config, page_id, dry_run=True)
             if result == "dry_run":
-                posted_types.append(_posted_label(effective[0]))
+                posted_types.append(_posted_label(front))
+                log.info("[DRY-RUN] Would react %s to Telegram message(s) %s "
+                         "in chat %s.", REACTION_EMOJI,
+                         front.get("message_ids"), front.get("chat_id"))
             counts[result] = counts.get(result, 0) + 1
         else:
             log.info("[DRY-RUN] Queue is empty; nothing to simulate.")
@@ -903,6 +955,9 @@ def main(argv=None):
 
         if result == "posted":
             posted_types.append(_posted_label(item))
+            # React to the source Telegram message(s) on confirmed success.
+            react_to_messages(config["TELEGRAM_BOT_TOKEN"],
+                              item.get("chat_id"), item.get("message_ids"))
             queue.pop(0)
             save_queue(queue)
             counts["posted"] += 1
