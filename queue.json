@@ -1,21 +1,6 @@
 [
   {
     "type": "video",
-    "video_file_id": "BAACAgIAAyEFAAMBClOLWAADBmpVV_TcY_SiuHkjJfOjQT3X6zF6AALLogACqFqISuZa93r4tDdsPAQ",
-    "video_file_size": 1218026,
-    "caption": "🤖 1X unveils humanoid hands with human-like dexterity\n\nEach hand has 25 movable joints with motors hidden in the forearm, transmitting movement through tendons like a human hand. Every joint includes a force sensor, allowing the robot to feel how hard it presses on objects.\n\nThe humanoid NEO can perform tasks like assembling LEGO, handling coins, screwing in bulbs, using a screwdriver, zipping zippers, pouring tea, catching soft balls, inserting USB-C, and signing in gestures.\n\n📊@tech",
-    "media_group_id": null,
-    "chat_id": -1004468214616,
-    "message_ids": [
-      6
-    ],
-    "update_ids": [
-      378303900
-    ],
-    "retry_count": 1
-  },
-  {
-    "type": "video",
     "video_file_id": "BAACAgIAAyEFAAMBClOLWAADB2pVWCdCyGDIQVEt0BP-cE89guhrAAIfqAACMFZ4SlmPRZOug8KRPAQ",
     "video_file_size": 3768799,
     "caption": "Ⓜ️ Meta’s Muse AI blends code and images\n\nMeta’s Muse Image and Muse Video, under Meta Superintelligence lab, combine diffusion and large language models. Muse can write Python code, parse the web, generate fractal code, embed graphs, and create precise HTML layouts like menus.\n\nMuse also self-corrects image flaws using a method like Test-Time-Scaling. It ranks second on image-to-image benchmarks, just ahead of Nano Banana 2 and Reve-2, though Reve-2.1 has since surpassed it. The video model ranks top 3, beating Alibaba’s happyhorse.\n\nMuse sparked controversy by defaulting to generating Instagram user faces from @tags. Access is currently limited to US Instagram, with Europe’s rollout delayed indefinitely.\n\n📊@tech",
