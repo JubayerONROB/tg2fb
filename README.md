@@ -39,6 +39,13 @@ The script requires three variables — it fails loudly if any are missing:
 | `TELEGRAM_CHANNEL_ID` | Your channel id / username (used for reference).         |
 | `FACEBOOK_PAGE_TOKEN` | A **Page access token** with `pages_manage_posts` and `pages_read_engagement`. |
 
+Optional variables:
+
+| Variable    | Default | Description                                                     |
+| ----------- | ------- | --------------------------------------------------------------- |
+| `TRANSLATE` | off     | Set to `1`/`true` to translate posts to Bangla via Google Translate. When unset, the original text is posted as-is (trailing `@handle` promo footer still stripped). |
+| `DRY_RUN`   | off     | Set to `1`/`true` to prepare posts without publishing or advancing state. |
+
 For local runs, create a `.env` (git-ignored) or export them directly:
 
 ```bash

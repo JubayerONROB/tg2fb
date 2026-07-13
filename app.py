@@ -58,6 +58,15 @@ def is_dry_run():
     return os.environ.get("DRY_RUN", "").strip().lower() in ("1", "true", "yes", "on")
 
 
+def translation_enabled():
+    """Return True if posts should be translated to Bangla.
+
+    Defaults to OFF -- posts go out as the original text (footer stripped). Set
+    the TRANSLATE env var to 1/true to re-enable Google-Translate-to-Bangla.
+    """
+    return os.environ.get("TRANSLATE", "").strip().lower() in ("1", "true", "yes", "on")
+
+
 def load_config():
     """Read required environment variables, failing loudly if any are missing."""
     required = ["TELEGRAM_BOT_TOKEN", "TELEGRAM_CHANNEL_ID", "FACEBOOK_PAGE_TOKEN"]
@@ -406,7 +415,13 @@ def process_post(channel_post, config, page_id, dry_run):
     text = clean_source_text(raw_text)
     if raw_text and text != raw_text:
         log.debug("Stripped promo/handle footer from source text.")
-    translated = translate_text(text)
+
+    # Translate to Bangla only when TRANSLATE is enabled; otherwise post the
+    # original (footer-stripped) text as-is.
+    if translation_enabled():
+        body = translate_text(text)
+    else:
+        body = text
 
     if photos:
         image_path = download_photo(bot_token, photos)
@@ -416,28 +431,28 @@ def process_post(channel_post, config, page_id, dry_run):
                 saved = _save_dry_run_image(image_path)
                 log.info("[DRY-RUN] Would post PHOTO (logo applied). "
                          "Inspect image at: %s", saved)
-                log.info("[DRY-RUN] Caption (bn): %s", translated)
+                log.info("[DRY-RUN] Caption: %s", body)
                 _cleanup(image_path)  # keep only the dry-run copy
                 return "dry_run"
-            success = post_photo(page_id, page_token, image_path, translated)
+            success = post_photo(page_id, page_token, image_path, body)
             _cleanup(image_path)
             return "posted" if success else "failed"
         # If the download failed but we have a caption, still handle the text.
-        if translated and translated.strip():
+        if body and body.strip():
             if dry_run:
                 log.info("[DRY-RUN] Photo download failed; would post caption "
-                         "as TEXT: %s", translated)
+                         "as TEXT: %s", body)
                 return "dry_run"
             log.warning("Photo download failed; posting caption as text.")
-            return "posted" if post_text(page_id, page_token, translated) else "failed"
+            return "posted" if post_text(page_id, page_token, body) else "failed"
         log.warning("Photo download failed and no caption; skipping post.")
         return "failed"
 
-    if translated and translated.strip():
+    if body and body.strip():
         if dry_run:
-            log.info("[DRY-RUN] Would post TEXT (bn): %s", translated)
+            log.info("[DRY-RUN] Would post TEXT: %s", body)
             return "dry_run"
-        return "posted" if post_text(page_id, page_token, translated) else "failed"
+        return "posted" if post_text(page_id, page_token, body) else "failed"
 
     log.info("Post has no text or photo; nothing to publish.")
     return "skipped"
