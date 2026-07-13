@@ -562,8 +562,15 @@ def watermark_video(input_path, output_path):
         filt = (f"[1:v][0:v]scale2ref=w=main_w*{LOGO_SCALE}:h=ow/mdar[wm][vid];"
                 f"[vid][wm]overlay=W-w-{LOGO_MARGIN}:H-h-{LOGO_MARGIN}")
 
+    # Encode a Facebook-friendly MP4: H.264 + yuv420p pixel format, AAC audio,
+    # and +faststart (moov atom at the front) so the Graph API's streaming
+    # upload accepts it. Without these, /videos rejects the file with error
+    # 6000 / subcode 1363048 ("problem uploading your video file").
     cmd = ["ffmpeg", "-y", "-i", input_path, "-i", LOGO_FILE,
-           "-filter_complex", filt, "-c:a", "copy", output_path]
+           "-filter_complex", filt,
+           "-c:v", "libx264", "-pix_fmt", "yuv420p", "-movflags", "+faststart",
+           "-c:a", "aac", "-b:a", "128k",
+           output_path]
     try:
         proc = subprocess.run(cmd, capture_output=True, text=True,
                               timeout=VIDEO_UPLOAD_TIMEOUT)
