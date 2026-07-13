@@ -1,21 +1,6 @@
 [
   {
     "type": "video",
-    "video_file_id": "BAACAgIAAyEFAAMBClOLWAADB2pVWCdCyGDIQVEt0BP-cE89guhrAAIfqAACMFZ4SlmPRZOug8KRPAQ",
-    "video_file_size": 3768799,
-    "caption": "Ⓜ️ Meta’s Muse AI blends code and images\n\nMeta’s Muse Image and Muse Video, under Meta Superintelligence lab, combine diffusion and large language models. Muse can write Python code, parse the web, generate fractal code, embed graphs, and create precise HTML layouts like menus.\n\nMuse also self-corrects image flaws using a method like Test-Time-Scaling. It ranks second on image-to-image benchmarks, just ahead of Nano Banana 2 and Reve-2, though Reve-2.1 has since surpassed it. The video model ranks top 3, beating Alibaba’s happyhorse.\n\nMuse sparked controversy by defaulting to generating Instagram user faces from @tags. Access is currently limited to US Instagram, with Europe’s rollout delayed indefinitely.\n\n📊@tech",
-    "media_group_id": null,
-    "chat_id": -1004468214616,
-    "message_ids": [
-      7
-    ],
-    "update_ids": [
-      378303901
-    ],
-    "retry_count": 0
-  },
-  {
-    "type": "video",
     "video_file_id": "BAACAgIAAyEFAAMBClOLWAADCGpVWEtwuLEY-MtM55CwI0qQ1wdJAAIzmwACjnuBShE4sGtNNVQTPAQ",
     "video_file_size": 19053290,
     "caption": "🤖 OpenAI launches GPT-5.6 with three models\n\nOpenAI released GPT-5.6 with three models: Sol, Terra, and Luna. Sol scored 53.6 on Agents' Last Exam, beating Claude Fable 5 by 13.1 points at about a quarter of the cost. Terra and Luna also outperform Fable 5 at much lower cost.\n\nSol scored 80.0 on the Artificial Analysis Coding Agent index, surpassing Claude Fable 5's 77.2. It uses less than half the tokens, runs twice as fast, and costs a third less. Ultra mode runs multiple agents in parallel for faster results.\n\nGPT-5.6 can visually check rendered outputs, spotting and fixing errors before delivery. It produces cleaner presentations, documents, and tables with template support and exports to common tools.\n\nChatGPT Work launched as an agent inside.\n\n📊@tech",
@@ -45,6 +30,85 @@
     "update_ids": [
       378303903,
       378303904
+    ],
+    "retry_count": 0
+  },
+  {
+    "type": "photo",
+    "photo_file_ids": [
+      "AgACAgIAAyEFAAMBClOLWAADC2pVYC9ehF2ZveX7JZuUZHyust1AAAJ6F2sbEm6ISoq0MRE-imoaAQADAgADeQADPAQ"
+    ],
+    "caption": "🤖 OpenAI Shuts Down Atlas Browser\n\nOpenAI will disable its AI browser Atlas on August 9, less than a year after its October launch on macOS. All browser features will move into the updated ChatGPT desktop app, with users notified by email and in-app messages.\n\nAtlas offered an Agent mode to automate tasks but remained niche, limited to Macs and paid subscribers. The new ChatGPT app combines ChatGPT, Codex, and ChatGPT Work with a built-in browser that can browse sites, compare sources, open Google Workspace and Microsoft 365 files, and continue tasks while showing results.\n\n📊@tech",
+    "media_group_id": null,
+    "chat_id": -1004468214616,
+    "message_ids": [
+      11
+    ],
+    "update_ids": [
+      378303905
+    ],
+    "retry_count": 0
+  },
+  {
+    "type": "photo",
+    "photo_file_ids": [
+      "AgACAgIAAyEFAAMBClOLWAADDGpVYDkeZjEJkMG2Bw6wC15CmlpRAAKAGGsbO7h5Sqk6oJ-KO60iAQADAgADeQADPAQ"
+    ],
+    "caption": "🫢 DDR4 Memory Prices Surge Over 50%\n\nIn Q3, prices for DDR4 8Gb DRAM modules will rise over 50%, says DigiTimes. Spot prices for DDR4 16Gb sometimes exceed DDR5 with similar specs due to strong demand and limited supply.\n\nSamsung, Micron, and SK Hynix mostly stopped DDR4 production, focusing on DDR5 and AI memory. Samsung makes DDR4 in small batches, Micron runs limited output in Virginia, while Nanya and Winbond supply most DDR4 but still fall short.\n\nCorporate SSDs with DRAM boost demand. DDR3 prices also rose, with gigabit costs now above DDR5. In early July, DDR4 4Gb costs $12.75, DDR5 16Gb $47.07, and DDR3 gigabit $3.19 versus DDR5’s $2.94.\n\n📊@tech",
+    "media_group_id": null,
+    "chat_id": -1004468214616,
+    "message_ids": [
+      12
+    ],
+    "update_ids": [
+      378303906
+    ],
+    "retry_count": 0
+  },
+  {
+    "type": "photo",
+    "photo_file_ids": [
+      "AgACAgIAAyEFAAMBClOLWAADDWpVYFleaFiJ66fYnijVTEF964ieAAKUH2sbZ8hwShd1mombWscAAQEAAwIAA3kAAzwE"
+    ],
+    "caption": "🤖 12-Year-Old Launches AI Startup with Claude\n\nTwelve-year-old entrepreneur Mana Jumpala created an AI assistant bot that helps small businesses build long-term customer relationships. The service, developed using Claude, passed initial testing successfully.\n\nMana plans to apply to Y Combinator and a16z accelerators within two years and aims to raise venture funding afterward. Despite online interest, her age creates a barrier in face-to-face pitches where she is often not taken seriously.\n\n📊@tech",
+    "media_group_id": null,
+    "chat_id": -1004468214616,
+    "message_ids": [
+      13
+    ],
+    "update_ids": [
+      378303907
+    ],
+    "retry_count": 0
+  },
+  {
+    "type": "video",
+    "video_file_id": "BAACAgIAAyEFAAMBClOLWAADDmpVYGG6Vz83MjXZyQG0a8x0puKUAAKYqgAC51VYSnixfWkh73u4PAQ",
+    "video_file_size": 2510054,
+    "caption": "⚡️ AI Discovers Two New Superconductors\n\nA team at Aalto University used machine learning to identify two previously unknown superconductors, confirmed later in lab tests at Rice University. This marks a shift from decades of manual trial and error that found about 7,000 superconductors so far.\n\nSuperconductors conduct electricity without resistance or heat loss, enabling powerful magnets for MRI machines and maglev trains. The challenge remains their need for extreme cooling, limiting practical use.\n\nThe AI approach scans billions of material candidates, speeding up discovery. The goal is to find a superconductor that works at room temperature by 2033, which would revolutionize energy and computing.\n\n📊@tech",
+    "media_group_id": null,
+    "chat_id": -1004468214616,
+    "message_ids": [
+      14
+    ],
+    "update_ids": [
+      378303908
+    ],
+    "retry_count": 0
+  },
+  {
+    "type": "photo",
+    "photo_file_ids": [
+      "AgACAgQAAyEFAAMBClOLWAADD2pVYG0gdb54pXSXqFv1G6Ec22cgAAIkDmsb5TxcUgcYIMXWZkN-AQADAgADeQADPAQ"
+    ],
+    "caption": "📱 xAI launches no-code voice AI call center builder\n\nxAI released Voice Agent Builder, a no-code tool to create AI call centers using over 80 voices or a real person's clone from a 2-minute recording. It integrates with Notion, Gmail, and Google Calendar to handle bookings, confirmations, and refunds via API.\n\nThe beta service charges 5 cents per minute and provides a phone number for each agent upon signup. xAI claims its Grok Voice Think Fast 1.0 model sounds more convincing than Google's Gemini 3.1 Flash Live and OpenAI's GPT Realtime 1.5.\n\n📊@tech",
+    "media_group_id": null,
+    "chat_id": -1004468214616,
+    "message_ids": [
+      15
+    ],
+    "update_ids": [
+      378303909
     ],
     "retry_count": 0
   }
