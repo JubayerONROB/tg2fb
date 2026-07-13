@@ -1019,6 +1019,14 @@ def main(argv=None):
         # Never mutate state or the queue. Simulate posting the effective front.
         log.info("[DRY-RUN] Would enqueue %d new item(s); offset would advance "
                  "to %s.", len(new_items), newest_update_id)
+        # Preview the bold transformation for every freshly fetched item, so new
+        # posts are visible even though only the queue front gets fully simulated.
+        for idx, new_item in enumerate(new_items):
+            preview = compute_body(new_item.get("caption"), new_item.get("entities"))
+            log.info("[DRY-RUN] New item %d (%s) RAW : %s",
+                     idx + 1, new_item.get("type"), new_item.get("caption"))
+            log.info("[DRY-RUN] New item %d (%s) BOLD: %s",
+                     idx + 1, new_item.get("type"), preview)
         effective = queue + new_items
         if effective:
             front = effective[0]
