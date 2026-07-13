@@ -1,14 +1,19 @@
 #!/usr/bin/env python3
 """Telegram channel -> Facebook Page cross-posting pipeline.
 
-Fetches new channel posts via the Telegram Bot API, translates the text to
-Bangla, overlays a logo onto any attached photo, and publishes the result to a
-Facebook Page via the Meta Graph API. Processing state is persisted in
-``state.json`` so old posts are never re-published.
+Fetches new channel posts via the Telegram Bot API and enqueues them into a
+persistent FIFO queue (``queue.json``), decoupled from the Telegram fetch
+offset (``state.json``). Each run posts a small, rate-limited number of items
+(default one) to a Facebook Page via the Meta Graph API, so a burst of channel
+posts is spread out over hours instead of flooding the Page.
 
-Supports a DRY_RUN mode (env var or --dry-run) that prepares everything but
-never posts to Facebook and never advances state, so the same post can be
-re-tested repeatedly. A startup health check validates both API tokens.
+Supported media: text, a single photo, a photo album (Telegram media groups),
+and video (watermarked with ffmpeg). Photos get a logo overlay; videos get a
+persistent bottom-right watermark.
+
+A DRY_RUN mode prepares everything but never posts and never mutates state or
+the queue, so items can be re-tested repeatedly. A startup health check
+validates both API tokens.
 """
 
 import argparse
@@ -17,6 +22,7 @@ import logging
 import os
 import re
 import shutil
+import subprocess
 import sys
 
 import requests
@@ -32,14 +38,27 @@ GRAPH_API_VERSION = "v21.0"
 GRAPH_API = f"https://graph.facebook.com/{GRAPH_API_VERSION}"
 
 STATE_FILE = "state.json"
+QUEUE_FILE = "queue.json"
+DEAD_LETTER_FILE = "queue_dead_letter.json"
 LOGO_FILE = "logo.png"
-TEMP_IMAGE = "temp_post_image.jpg"
-DRY_RUN_IMAGE = "dry_run_output.jpg"  # kept on disk for inspection in dry-run
 
-LOGO_SCALE = 0.15  # logo width as a fraction of the base image width
+# Working / inspection files (all git-ignored).
+TEMP_MEDIA_PREFIX = "temp_media_"      # temp_media_0.jpg, temp_media_1.jpg, ...
+TEMP_VIDEO = "temp_video.mp4"
+WATERMARKED_VIDEO = "temp_video_wm.mp4"
+DRY_RUN_IMAGE = "dry_run_output.jpg"   # single photo / first album image
+DRY_RUN_VIDEO = "dry_run_output.mp4"
+
+LOGO_SCALE = 0.15  # logo width as a fraction of the base image/video width
 LOGO_MARGIN = 15   # px margin from the bottom-right corner
 
-REQUEST_TIMEOUT = 60  # seconds
+REQUEST_TIMEOUT = 60        # seconds for normal API calls
+VIDEO_UPLOAD_TIMEOUT = 300  # seconds for the (slower) video upload
+
+# Telegram Bot API can only download files up to 20 MB via getFile.
+VIDEO_MAX_BYTES = 20 * 1024 * 1024
+
+MAX_RETRIES = 3  # after this many failed attempts, an item is dead-lettered
 
 logging.basicConfig(
     level=logging.INFO,
@@ -65,6 +84,16 @@ def translation_enabled():
     the TRANSLATE env var to 1/true to re-enable Google-Translate-to-Bangla.
     """
     return os.environ.get("TRANSLATE", "").strip().lower() in ("1", "true", "yes", "on")
+
+
+def posts_per_run():
+    """How many queue items to post per run (default 1). Set via POSTS_PER_RUN."""
+    raw = os.environ.get("POSTS_PER_RUN", "1").strip()
+    try:
+        return max(0, int(raw))
+    except ValueError:
+        log.warning("Invalid POSTS_PER_RUN=%r; defaulting to 1.", raw)
+        return 1
 
 
 def load_config():
@@ -147,33 +176,67 @@ def run_health_check(config):
 
 
 # --------------------------------------------------------------------------- #
-# State persistence
+# JSON persistence (state / queue / dead-letter)
 # --------------------------------------------------------------------------- #
+
+def _load_json(path, default):
+    if not os.path.exists(path):
+        return default
+    try:
+        with open(path, "r", encoding="utf-8") as fh:
+            return json.load(fh)
+    except (ValueError, OSError, json.JSONDecodeError) as exc:
+        log.warning("Could not read %s (%s); using default.", path, exc)
+        return default
+
+
+def _save_json(path, data):
+    try:
+        with open(path, "w", encoding="utf-8") as fh:
+            json.dump(data, fh, ensure_ascii=False, indent=2)
+        return True
+    except OSError as exc:
+        log.error("Failed to write %s: %s", path, exc)
+        return False
+
 
 def load_state():
     """Return the last processed update_id (0 if state is absent/unreadable)."""
-    if not os.path.exists(STATE_FILE):
-        log.info("No state file found; starting from last_update_id=0.")
-        return 0
+    data = _load_json(STATE_FILE, {})
     try:
-        with open(STATE_FILE, "r", encoding="utf-8") as fh:
-            data = json.load(fh)
         last = int(data.get("last_update_id", 0))
-        log.info("Loaded state: last_update_id=%s", last)
-        return last
-    except (ValueError, OSError, json.JSONDecodeError) as exc:
-        log.warning("Could not read %s (%s); defaulting to 0.", STATE_FILE, exc)
-        return 0
+    except (ValueError, TypeError):
+        last = 0
+    log.info("Loaded state: last_update_id=%s", last)
+    return last
 
 
 def save_state(last_update_id):
     """Persist the newest processed update_id to disk."""
-    try:
-        with open(STATE_FILE, "w", encoding="utf-8") as fh:
-            json.dump({"last_update_id": last_update_id}, fh)
+    if _save_json(STATE_FILE, {"last_update_id": last_update_id}):
         log.info("Saved state: last_update_id=%s", last_update_id)
-    except OSError as exc:
-        log.error("Failed to write %s: %s", STATE_FILE, exc)
+
+
+def load_queue():
+    """Return the pending-items queue (a list)."""
+    data = _load_json(QUEUE_FILE, [])
+    return data if isinstance(data, list) else []
+
+
+def save_queue(queue):
+    """Persist the pending-items queue."""
+    _save_json(QUEUE_FILE, queue)
+
+
+def dead_letter(item):
+    """Append a permanently-failed item to the dead-letter queue."""
+    dl = _load_json(DEAD_LETTER_FILE, [])
+    if not isinstance(dl, list):
+        dl = []
+    dl.append(item)
+    _save_json(DEAD_LETTER_FILE, dl)
+    log.warning("Moved item to dead-letter queue (type=%s, update_ids=%s).",
+                item.get("type"), item.get("update_ids"))
 
 
 # --------------------------------------------------------------------------- #
@@ -204,43 +267,130 @@ def get_updates(bot_token, offset):
     return payload.get("result", [])
 
 
-def download_photo(bot_token, photos):
-    """Download the highest-resolution photo. Returns a local path or None."""
-    if not photos:
-        return None
-    # Telegram sends an ascending list of sizes; the last is the largest.
-    largest = max(photos, key=lambda p: p.get("file_size", p.get("width", 0)))
-    file_id = largest.get("file_id")
-    if not file_id:
-        return None
+def resolve_file(bot_token, file_id):
+    """Resolve a Telegram file path via getFile.
 
+    Returns (file_path or None, too_big: bool). ``too_big`` flags the Bot API's
+    "file is too big" error so callers can dead-letter instead of retrying.
+    """
     try:
         resp = requests.get(
             f"{TELEGRAM_API}/bot{bot_token}/getFile",
             params={"file_id": file_id},
             timeout=REQUEST_TIMEOUT,
         )
-        resp.raise_for_status()
         info = resp.json()
         if not info.get("ok"):
+            desc = str(info.get("description", "")).lower()
+            too_big = "too big" in desc
             log.error("getFile returned an error: %s", info)
-            return None
-        file_path = info["result"]["file_path"]
+            return None, too_big
+        return info["result"]["file_path"], False
     except (requests.RequestException, ValueError, KeyError) as exc:
         log.error("Failed to resolve Telegram file: %s", exc)
-        return None
+        return None, False
 
+
+def download_file(bot_token, file_id, dest_path):
+    """Download a Telegram file to dest_path. Returns (path or None, too_big)."""
+    file_path, too_big = resolve_file(bot_token, file_id)
+    if not file_path:
+        return None, too_big
     download_url = f"{TELEGRAM_API}/file/bot{bot_token}/{file_path}"
     try:
-        img_resp = requests.get(download_url, timeout=REQUEST_TIMEOUT)
-        img_resp.raise_for_status()
-        with open(TEMP_IMAGE, "wb") as fh:
-            fh.write(img_resp.content)
-        log.info("Downloaded photo to %s", TEMP_IMAGE)
-        return TEMP_IMAGE
+        resp = requests.get(download_url, timeout=REQUEST_TIMEOUT, stream=True)
+        resp.raise_for_status()
+        with open(dest_path, "wb") as fh:
+            for chunk in resp.iter_content(chunk_size=65536):
+                fh.write(chunk)
+        log.info("Downloaded Telegram file to %s", dest_path)
+        return dest_path, False
     except (requests.RequestException, OSError) as exc:
-        log.error("Failed to download photo: %s", exc)
+        log.error("Failed to download Telegram file: %s", exc)
+        return None, False
+
+
+# --------------------------------------------------------------------------- #
+# Queue building (Telegram updates -> queue items)
+# --------------------------------------------------------------------------- #
+
+def _largest_photo_id(photos):
+    """Return the file_id of the highest-resolution photo size."""
+    largest = max(photos, key=lambda p: p.get("file_size", p.get("width", 0)))
+    return largest.get("file_id")
+
+
+def _item_from_update(update):
+    """Convert a single update into a queue item, or None if unsupported."""
+    cp = update.get("channel_post")
+    if not cp:
         return None
+    update_id = update.get("update_id")
+    mgid = cp.get("media_group_id")
+
+    if cp.get("photo"):
+        return {
+            "type": "photo",
+            "photo_file_ids": [_largest_photo_id(cp["photo"])],
+            "caption": cp.get("caption") or "",
+            "media_group_id": mgid,
+            "update_ids": [update_id],
+            "retry_count": 0,
+        }
+    if cp.get("video"):
+        video = cp["video"]
+        return {
+            "type": "video",
+            "video_file_id": video.get("file_id"),
+            "video_file_size": video.get("file_size"),
+            "caption": cp.get("caption") or "",
+            "media_group_id": mgid,
+            "update_ids": [update_id],
+            "retry_count": 0,
+        }
+    if cp.get("text"):
+        return {
+            "type": "text",
+            "caption": cp.get("text"),
+            "media_group_id": None,
+            "update_ids": [update_id],
+            "retry_count": 0,
+        }
+    return None
+
+
+def build_items(updates):
+    """Group updates into queue items, merging same-batch photo albums.
+
+    Photos sharing a media_group_id that arrive together are merged into one
+    album item with multiple file_ids. Only stable Telegram file_ids are stored
+    (never getFile URLs, which expire).
+    """
+    items = []
+    group_index = {}  # media_group_id -> index in items (photo albums only)
+    for update in sorted(updates, key=lambda u: u.get("update_id", 0)):
+        item = _item_from_update(update)
+        if item is None:
+            uid = update.get("update_id")
+            if update.get("channel_post"):
+                log.info("Update %s has unsupported media; skipping.", uid)
+            continue
+
+        mgid = item.get("media_group_id")
+        if item["type"] == "photo" and mgid and mgid in group_index:
+            existing = items[group_index[mgid]]
+            existing["photo_file_ids"].extend(item["photo_file_ids"])
+            existing["update_ids"].extend(item["update_ids"])
+            if not existing["caption"] and item["caption"]:
+                existing["caption"] = item["caption"]
+            existing["type"] = (
+                "album" if len(existing["photo_file_ids"]) > 1 else "photo"
+            )
+        else:
+            items.append(item)
+            if item["type"] == "photo" and mgid:
+                group_index[mgid] = len(items) - 1
+    return items
 
 
 # --------------------------------------------------------------------------- #
@@ -288,8 +438,18 @@ def translate_text(text):
         return text
 
 
+def compute_body(raw_caption):
+    """Clean the footer off a caption and translate it if TRANSLATE is on."""
+    text = clean_source_text(raw_caption or "")
+    if raw_caption and text != raw_caption:
+        log.debug("Stripped promo/handle footer from source text.")
+    if translation_enabled():
+        return translate_text(text)
+    return text
+
+
 def overlay_logo(image_path):
-    """Overlay logo.png onto the bottom-right corner of the image."""
+    """Overlay logo.png onto the bottom-right corner of the image (in place)."""
     if not os.path.exists(LOGO_FILE):
         log.warning("Logo file %s not found; skipping overlay.", LOGO_FILE)
         return image_path
@@ -319,6 +479,58 @@ def overlay_logo(image_path):
         return image_path
 
 
+def _ffprobe_width(video_path):
+    """Return the video's pixel width via ffprobe, or None if unavailable."""
+    try:
+        out = subprocess.run(
+            ["ffprobe", "-v", "error", "-select_streams", "v:0",
+             "-show_entries", "stream=width", "-of", "csv=p=0", video_path],
+            capture_output=True, text=True, timeout=60,
+        )
+        return int(out.stdout.strip().splitlines()[0])
+    except (subprocess.SubprocessError, ValueError, IndexError, OSError) as exc:
+        log.debug("ffprobe width lookup failed: %s", exc)
+        return None
+
+
+def watermark_video(input_path, output_path):
+    """Burn logo.png into the bottom-right corner of a video via ffmpeg.
+
+    Returns the output path on success, or the input path (unwatermarked) if
+    ffmpeg is unavailable/fails -- so posting still proceeds.
+    """
+    if not os.path.exists(LOGO_FILE):
+        log.warning("Logo file %s not found; posting video without watermark.",
+                    LOGO_FILE)
+        return input_path
+
+    width = _ffprobe_width(input_path)
+    if width:
+        logo_w = max(1, int(width * LOGO_SCALE))
+        filt = (f"[1:v]scale={logo_w}:-1[wm];"
+                f"[0:v][wm]overlay=W-w-{LOGO_MARGIN}:H-h-{LOGO_MARGIN}")
+    else:
+        # Fallback: scale the logo relative to the main video with scale2ref.
+        filt = (f"[1:v][0:v]scale2ref=w=main_w*{LOGO_SCALE}:h=ow/mdar[wm][vid];"
+                f"[vid][wm]overlay=W-w-{LOGO_MARGIN}:H-h-{LOGO_MARGIN}")
+
+    cmd = ["ffmpeg", "-y", "-i", input_path, "-i", LOGO_FILE,
+           "-filter_complex", filt, "-c:a", "copy", output_path]
+    try:
+        proc = subprocess.run(cmd, capture_output=True, text=True,
+                              timeout=VIDEO_UPLOAD_TIMEOUT)
+        if proc.returncode == 0 and os.path.exists(output_path):
+            log.info("Watermarked video -> %s", output_path)
+            return output_path
+        log.error("ffmpeg watermark failed (rc=%s): %s",
+                  proc.returncode, proc.stderr[-500:] if proc.stderr else "")
+        return input_path
+    except (subprocess.SubprocessError, OSError) as exc:
+        log.error("ffmpeg not available or crashed (%s); posting original video.",
+                  exc)
+        return input_path
+
+
 # --------------------------------------------------------------------------- #
 # Facebook publishing
 # --------------------------------------------------------------------------- #
@@ -342,22 +554,16 @@ def resolve_page_id(page_token):
     return "me"
 
 
-def post_photo(page_id, page_token, image_path, caption):
-    """Publish a photo with caption to the Facebook Page."""
-    url = f"{GRAPH_API}/{page_id}/photos"
+def _log_graph_response(resp):
+    """Log the Graph API response body regardless of success/failure."""
     try:
-        with open(image_path, "rb") as fh:
-            resp = requests.post(
-                url,
-                data={"caption": caption or "", "access_token": page_token},
-                files={"source": fh},
-                timeout=REQUEST_TIMEOUT,
-            )
-        _log_graph_response(resp)
-        return resp.ok
-    except (requests.RequestException, OSError) as exc:
-        log.error("Failed to post photo to Facebook: %s", exc)
-        return False
+        body = resp.json()
+    except ValueError:
+        body = resp.text
+    if resp.ok:
+        log.info("Graph API response (%s): %s", resp.status_code, body)
+    else:
+        log.error("Graph API error (%s): %s", resp.status_code, body)
 
 
 def post_text(page_id, page_token, message):
@@ -376,95 +582,220 @@ def post_text(page_id, page_token, message):
         return False
 
 
-def _log_graph_response(resp):
-    """Log the Graph API response body regardless of success/failure."""
+def post_photo(page_id, page_token, image_path, caption):
+    """Publish a single photo with caption to the Facebook Page."""
+    url = f"{GRAPH_API}/{page_id}/photos"
     try:
-        body = resp.json()
-    except ValueError:
-        body = resp.text
-    if resp.ok:
-        log.info("Graph API response (%s): %s", resp.status_code, body)
-    else:
-        log.error("Graph API error (%s): %s", resp.status_code, body)
+        with open(image_path, "rb") as fh:
+            resp = requests.post(
+                url,
+                data={"caption": caption or "", "access_token": page_token},
+                files={"source": fh},
+                timeout=REQUEST_TIMEOUT,
+            )
+        _log_graph_response(resp)
+        return resp.ok
+    except (requests.RequestException, OSError) as exc:
+        log.error("Failed to post photo to Facebook: %s", exc)
+        return False
+
+
+def _upload_unpublished_photo(page_id, page_token, image_path):
+    """Upload a photo with published=false; return its media id or None."""
+    url = f"{GRAPH_API}/{page_id}/photos"
+    try:
+        with open(image_path, "rb") as fh:
+            resp = requests.post(
+                url,
+                data={"published": "false", "access_token": page_token},
+                files={"source": fh},
+                timeout=REQUEST_TIMEOUT,
+            )
+        _log_graph_response(resp)
+        if resp.ok:
+            return resp.json().get("id")
+        return None
+    except (requests.RequestException, ValueError, OSError) as exc:
+        log.error("Failed to upload album photo: %s", exc)
+        return None
+
+
+def post_album(page_id, page_token, image_paths, message):
+    """Upload each photo unpublished, then create one multi-photo feed post."""
+    media_ids = []
+    for path in image_paths:
+        media_id = _upload_unpublished_photo(page_id, page_token, path)
+        if media_id:
+            media_ids.append(media_id)
+        else:
+            log.warning("Album photo upload failed for %s; continuing.", path)
+
+    if not media_ids:
+        log.error("No album photos uploaded successfully; aborting album post.")
+        return False
+
+    data = {"message": message or "", "access_token": page_token}
+    for i, media_id in enumerate(media_ids):
+        data[f"attached_media[{i}]"] = json.dumps({"media_fbid": media_id})
+
+    url = f"{GRAPH_API}/{page_id}/feed"
+    try:
+        resp = requests.post(url, data=data, timeout=REQUEST_TIMEOUT)
+        _log_graph_response(resp)
+        return resp.ok
+    except requests.RequestException as exc:
+        log.error("Failed to create album feed post: %s", exc)
+        return False
+
+
+def post_video(page_id, page_token, video_path, description):
+    """Upload a video with description to the Facebook Page."""
+    url = f"{GRAPH_API}/{page_id}/videos"
+    try:
+        with open(video_path, "rb") as fh:
+            resp = requests.post(
+                url,
+                data={"description": description or "", "access_token": page_token},
+                files={"source": fh},
+                timeout=VIDEO_UPLOAD_TIMEOUT,
+            )
+        _log_graph_response(resp)
+        return resp.ok
+    except (requests.RequestException, OSError) as exc:
+        log.error("Failed to post video to Facebook: %s", exc)
+        return False
 
 
 # --------------------------------------------------------------------------- #
-# Per-post processing
+# Item processing
 # --------------------------------------------------------------------------- #
 
-def _save_dry_run_image(image_path):
-    """Copy the processed image to a stable path for inspection. Returns path."""
+def _cleanup(*paths):
+    """Remove temporary files if they exist."""
+    for path in paths:
+        try:
+            if path and os.path.exists(path):
+                os.remove(path)
+        except OSError as exc:
+            log.warning("Could not remove temp file %s: %s", path, exc)
+
+
+def _save_dry_run_copy(src, dest):
+    """Copy a processed file to a stable inspection path. Returns dest or src."""
     try:
-        shutil.copyfile(image_path, DRY_RUN_IMAGE)
-        return DRY_RUN_IMAGE
+        shutil.copyfile(src, dest)
+        return dest
     except OSError as exc:
-        log.warning("Could not save dry-run image copy: %s", exc)
-        return image_path
+        log.warning("Could not save dry-run copy: %s", exc)
+        return src
 
 
-def process_post(channel_post, config, page_id, dry_run):
-    """Translate, decorate, and publish/simulate a single channel post.
+def process_item(item, config, page_id, dry_run):
+    """Post (or simulate posting) one queue item.
 
-    Returns one of: "posted", "dry_run", "skipped", "failed".
+    Returns one of: "posted", "dry_run", "skipped", "failed", "dead".
+    "dead" means non-retryable (e.g. oversized video) -> dead-letter immediately.
     """
     bot_token = config["TELEGRAM_BOT_TOKEN"]
     page_token = config["FACEBOOK_PAGE_TOKEN"]
+    item_type = item.get("type")
+    body = compute_body(item.get("caption"))
 
-    photos = channel_post.get("photo")
-    raw_text = channel_post.get("caption") if photos else channel_post.get("text")
-    text = clean_source_text(raw_text)
-    if raw_text and text != raw_text:
-        log.debug("Stripped promo/handle footer from source text.")
-
-    # Translate to Bangla only when TRANSLATE is enabled; otherwise post the
-    # original (footer-stripped) text as-is.
-    if translation_enabled():
-        body = translate_text(text)
-    else:
-        body = text
-
-    if photos:
-        image_path = download_photo(bot_token, photos)
-        if image_path:
-            image_path = overlay_logo(image_path)
-            if dry_run:
-                saved = _save_dry_run_image(image_path)
-                log.info("[DRY-RUN] Would post PHOTO (logo applied). "
-                         "Inspect image at: %s", saved)
-                log.info("[DRY-RUN] Caption: %s", body)
-                _cleanup(image_path)  # keep only the dry-run copy
-                return "dry_run"
-            success = post_photo(page_id, page_token, image_path, body)
-            _cleanup(image_path)
-            return "posted" if success else "failed"
-        # If the download failed but we have a caption, still handle the text.
-        if body and body.strip():
-            if dry_run:
-                log.info("[DRY-RUN] Photo download failed; would post caption "
-                         "as TEXT: %s", body)
-                return "dry_run"
-            log.warning("Photo download failed; posting caption as text.")
-            return "posted" if post_text(page_id, page_token, body) else "failed"
-        log.warning("Photo download failed and no caption; skipping post.")
-        return "failed"
-
-    if body and body.strip():
+    # ----- text ----------------------------------------------------------- #
+    if item_type == "text":
+        if not body or not body.strip():
+            log.info("Text item has no content after cleaning; skipping.")
+            return "skipped"
         if dry_run:
             log.info("[DRY-RUN] Would post TEXT: %s", body)
             return "dry_run"
         return "posted" if post_text(page_id, page_token, body) else "failed"
 
-    log.info("Post has no text or photo; nothing to publish.")
-    return "skipped"
+    # ----- photo / album -------------------------------------------------- #
+    if item_type in ("photo", "album"):
+        file_ids = item.get("photo_file_ids") or []
+        local_paths = []
+        for i, fid in enumerate(file_ids):
+            dest = f"{TEMP_MEDIA_PREFIX}{i}.jpg"
+            path, _too_big = download_file(bot_token, fid, dest)
+            if path:
+                overlay_logo(path)
+                local_paths.append(path)
+            else:
+                log.warning("Failed to download album photo %d/%d.",
+                            i + 1, len(file_ids))
+
+        if not local_paths:
+            log.warning("No photos downloaded for %s item; will retry.", item_type)
+            return "failed"
+
+        if len(local_paths) == 1:
+            if dry_run:
+                saved = _save_dry_run_copy(local_paths[0], DRY_RUN_IMAGE)
+                log.info("[DRY-RUN] Would post PHOTO (logo applied) -> %s", saved)
+                log.info("[DRY-RUN] Caption: %s", body)
+                _cleanup(*local_paths)
+                return "dry_run"
+            ok = post_photo(page_id, page_token, local_paths[0], body)
+            _cleanup(*local_paths)
+            return "posted" if ok else "failed"
+
+        # multiple photos -> album
+        if dry_run:
+            for i, path in enumerate(local_paths):
+                _save_dry_run_copy(path, f"dry_run_output_{i}.jpg")
+            log.info("[DRY-RUN] Would post ALBUM of %d photos "
+                     "(logo applied to each).", len(local_paths))
+            log.info("[DRY-RUN] Caption: %s", body)
+            _cleanup(*local_paths)
+            return "dry_run"
+        ok = post_album(page_id, page_token, local_paths, body)
+        _cleanup(*local_paths)
+        return "posted" if ok else "failed"
+
+    # ----- video ---------------------------------------------------------- #
+    if item_type == "video":
+        size = item.get("video_file_size")
+        if isinstance(size, int) and size > VIDEO_MAX_BYTES:
+            log.warning("Video is %.1f MB, over the %d MB Bot API limit; "
+                        "dead-lettering.", size / 1e6, VIDEO_MAX_BYTES // (1024 * 1024))
+            return "dead"
+
+        path, too_big = download_file(bot_token, item.get("video_file_id"),
+                                      TEMP_VIDEO)
+        if not path:
+            if too_big:
+                log.warning("Telegram reports the video is too big to download; "
+                            "dead-lettering.")
+                return "dead"
+            log.warning("Video download failed; will retry.")
+            return "failed"
+
+        out = watermark_video(path, WATERMARKED_VIDEO)
+        if dry_run:
+            saved = _save_dry_run_copy(out, DRY_RUN_VIDEO)
+            log.info("[DRY-RUN] Would post VIDEO (watermarked) -> %s", saved)
+            log.info("[DRY-RUN] Description: %s", body)
+            _cleanup(TEMP_VIDEO, WATERMARKED_VIDEO)
+            return "dry_run"
+        ok = post_video(page_id, page_token, out, body)
+        _cleanup(TEMP_VIDEO, WATERMARKED_VIDEO)
+        return "posted" if ok else "failed"
+
+    log.warning("Unknown item type %r; dead-lettering.", item_type)
+    return "dead"
 
 
-def _cleanup(path):
-    """Remove a temporary file if it exists."""
-    try:
-        if path and os.path.exists(path):
-            os.remove(path)
-    except OSError as exc:
-        log.warning("Could not remove temp file %s: %s", path, exc)
+def _posted_label(item):
+    """Human label of an item's kind for the summary line."""
+    t = item.get("type")
+    if t == "photo":
+        return "single photo"
+    if t == "album":
+        return "album"
+    if t == "video":
+        return "video"
+    return "text"
 
 
 # --------------------------------------------------------------------------- #
@@ -485,7 +816,7 @@ def parse_args(argv=None):
     )
     parser.add_argument(
         "--dry-run", action="store_true",
-        help="Prepare posts but do not publish to Facebook or advance state.",
+        help="Prepare posts but do not publish, or mutate state/queue.",
     )
     parser.add_argument(
         "--health", action="store_true",
@@ -505,71 +836,113 @@ def main(argv=None):
         log.debug("Verbose logging enabled.")
 
     dry_run = args.dry_run or is_dry_run()
+    per_run = posts_per_run()
 
-    log.info("Starting Telegram -> Facebook cross-posting run. dry_run=%s", dry_run)
+    log.info("Starting Telegram -> Facebook run. dry_run=%s posts_per_run=%s",
+             dry_run, per_run)
     config = load_config()
 
     telegram_ok, _facebook_ok = run_health_check(config)
-
-    # --health: report status and exit without processing anything.
     if args.health:
         log.info("Health check complete (--health); exiting.")
         return 0 if telegram_ok else 1
 
+    # ----- 1. Fetch new Telegram updates and build grouped items ---------- #
     last_update_id = load_state()
-    # getUpdates offset = last processed id + 1 so we never re-fetch old posts.
     offset = last_update_id + 1 if last_update_id else 0
-
     updates = get_updates(config["TELEGRAM_BOT_TOKEN"], offset)
     fetched = len(updates)
-    if not updates:
-        log.info("No new updates to process.")
-        log.info("SUMMARY: fetched=0 processed=0 posted=0 skipped=0 failed=0 "
-                 "dry_run=%s", dry_run)
-        return 0
+    new_items = build_items(updates)
+    newest_update_id = max(
+        (uid for u in updates if (uid := u.get("update_id")) is not None),
+        default=last_update_id,
+    )
 
+    queue = load_queue()
+    queue_before = len(queue)
     page_id = resolve_page_id(config["FACEBOOK_PAGE_TOKEN"])
 
-    newest_update_id = last_update_id
-    counts = {"posted": 0, "dry_run": 0, "skipped": 0, "failed": 0}
-    processed = 0
-    for update in updates:
-        update_id = update.get("update_id", 0)
-        if update_id <= last_update_id:
-            continue
-
-        channel_post = update.get("channel_post")
-        if channel_post:
-            processed += 1
-            try:
-                result = process_post(channel_post, config, page_id, dry_run)
-                counts[result] = counts.get(result, 0) + 1
-                if result == "failed":
-                    log.warning("Post for update_id=%s failed to publish.",
-                                update_id)
-            except Exception as exc:  # one bad post must not crash the run
-                counts["failed"] += 1
-                log.exception("Unexpected error processing update_id=%s: %s",
-                              update_id, exc)
-        else:
-            log.info("Update %s has no channel_post; skipping.", update_id)
-
-        # Advance the marker regardless so failed posts aren't retried forever.
-        newest_update_id = max(newest_update_id, update_id)
+    counts = {"posted": 0, "skipped": 0, "failed": 0, "dead": 0}
+    posted_types = []
 
     if dry_run:
-        log.info("[DRY-RUN] State NOT advanced (would be %s); re-run freely.",
-                 newest_update_id)
-    elif newest_update_id > last_update_id:
+        # Never mutate state or the queue. Simulate posting the effective front.
+        log.info("[DRY-RUN] Would enqueue %d new item(s); offset would advance "
+                 "to %s.", len(new_items), newest_update_id)
+        effective = queue + new_items
+        if effective:
+            result = process_item(effective[0], config, page_id, dry_run=True)
+            if result == "dry_run":
+                posted_types.append(_posted_label(effective[0]))
+            counts[result] = counts.get(result, 0) + 1
+        else:
+            log.info("[DRY-RUN] Queue is empty; nothing to simulate.")
+        _log_summary(fetched, len(new_items), queue_before, len(queue),
+                     counts, posted_types, dry_run)
+        return 0
+
+    # ----- 2. Enqueue and advance offset (regardless of downstream) ------- #
+    if new_items:
+        queue.extend(new_items)
+        save_queue(queue)
+        log.info("Enqueued %d new item(s); queue length now %d.",
+                 len(new_items), len(queue))
+    if newest_update_id > last_update_id:
         save_state(newest_update_id)
 
-    log.info(
-        "SUMMARY: fetched=%d processed=%d posted=%d skipped=%d failed=%d "
-        "dry_run_simulated=%d dry_run=%s",
-        fetched, processed, counts["posted"], counts["skipped"],
-        counts["failed"], counts["dry_run"], dry_run,
-    )
+    # ----- 3. Post up to POSTS_PER_RUN items from the front (FIFO) -------- #
+    for _ in range(per_run):
+        if not queue:
+            break
+        item = queue[0]
+        try:
+            result = process_item(item, config, page_id, dry_run=False)
+        except Exception as exc:  # one bad item must not crash the run
+            log.exception("Unexpected error processing item: %s", exc)
+            result = "failed"
+
+        if result == "posted":
+            posted_types.append(_posted_label(item))
+            queue.pop(0)
+            save_queue(queue)
+            counts["posted"] += 1
+        elif result == "skipped":
+            queue.pop(0)
+            save_queue(queue)
+            counts["skipped"] += 1
+        elif result == "dead":
+            dead_item = queue.pop(0)
+            dead_letter(dead_item)
+            save_queue(queue)
+            counts["dead"] += 1
+        else:  # failed -> retry accounting, keep at front
+            counts["failed"] += 1
+            item["retry_count"] = item.get("retry_count", 0) + 1
+            log.warning("Item failed (attempt %d/%d, type=%s).",
+                        item["retry_count"], MAX_RETRIES, item.get("type"))
+            if item["retry_count"] >= MAX_RETRIES:
+                dead_item = queue.pop(0)
+                dead_letter(dead_item)
+                counts["dead"] += 1
+            save_queue(queue)
+            # Front is blocked; stop this run rather than spin on the same item.
+            break
+
+    _log_summary(fetched, len(new_items), queue_before, len(queue),
+                 counts, posted_types, dry_run)
     return 0
+
+
+def _log_summary(fetched, enqueued, queue_before, queue_after, counts,
+                 posted_types, dry_run):
+    log.info(
+        "SUMMARY: fetched=%d enqueued=%d queue_before=%d queue_after=%d "
+        "posted=%d skipped=%d failed=%d dead_letter=%d posted_types=%s dry_run=%s",
+        fetched, enqueued, queue_before, queue_after,
+        counts.get("posted", 0), counts.get("skipped", 0),
+        counts.get("failed", 0), counts.get("dead", 0),
+        posted_types or "[]", dry_run,
+    )
 
 
 if __name__ == "__main__":

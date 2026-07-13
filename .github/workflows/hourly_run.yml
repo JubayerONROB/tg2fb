@@ -30,6 +30,14 @@ jobs:
       - name: Check out repository
         uses: actions/checkout@v4
 
+      - name: Install ffmpeg
+        # Required for burning the logo watermark into videos. Installed
+        # explicitly so watermarking never depends on the runner image's
+        # default toolset.
+        run: |
+          sudo apt-get update
+          sudo apt-get install -y ffmpeg
+
       - name: Set up Python 3.11
         uses: actions/setup-python@v5
         with:
@@ -57,19 +65,21 @@ jobs:
           mkdir -p .github
           date -u +"%Y-%m-%dT%H:%M:%SZ" > .github/last_run.txt
 
-      - name: Commit state and heartbeat
-        # Never commit on dry-runs -- state.json/heartbeat are intentionally
+      - name: Commit state, queue and heartbeat
+        # Never commit on dry-runs -- state/queue/heartbeat are intentionally
         # untouched then.
         if: ${{ env.DRY_RUN != 'true' }}
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
-          git add state.json .github/last_run.txt
+          git add state.json queue.json .github/last_run.txt
+          # Dead-letter file only exists once something has permanently failed.
+          [ -f queue_dead_letter.json ] && git add queue_dead_letter.json || true
           if git diff --cached --quiet; then
             echo "Nothing to commit."
             exit 0
           fi
-          git commit -m "chore: update state + heartbeat [skip ci]"
+          git commit -m "chore: update state + queue + heartbeat [skip ci]"
           # Rebase onto any concurrent run's push, then push. Never fail the job
           # over a commit-back hiccup.
           git pull --rebase origin "${{ github.ref_name }}" || true

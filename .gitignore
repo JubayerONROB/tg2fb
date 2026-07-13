@@ -8,9 +8,14 @@ venv/
 # Environment / secrets
 .env
 
-# Downloaded temporary post images
+# Downloaded temporary post media
 temp_post_image.jpg
 temp_post_image.*
+temp_media_*
+temp_video.mp4
+temp_video_wm.mp4
 
 # Dry-run inspection output
 dry_run_output.jpg
+dry_run_output.mp4
+dry_run_output_*.jpg

@@ -1,23 +1,55 @@
 # Telegram → Facebook Cross-Poster
 
 Automatically mirrors posts from a Telegram channel to a Facebook Page. New
-channel posts are fetched hourly, their text/caption is translated to Bangla,
-your `logo.png` is stamped onto any attached photo, and the result is published
-to your Facebook Page. Processing state lives in `state.json` so nothing is ever
-re-posted.
+channel posts are fetched hourly into a persistent queue, and a rate-limited
+number of them (one per hour by default) are published to your Facebook Page —
+text, single photos, photo albums, and videos, each stamped with your
+`logo.png`. State lives in `state.json` (fetch offset) and `queue.json` (pending
+items) so nothing is ever re-posted or lost.
 
 ## How it works
 
 1. `app.py` calls the Telegram Bot API's `getUpdates` with an `offset` derived
    from the last processed `update_id` (stored in `state.json`, default `0`).
-2. Each new `channel_post` is translated to Bangla with `deep-translator`
-   (falls back to the original text if translation fails).
-3. Photos are downloaded at the highest resolution, and `logo.png` is overlaid
-   on the bottom-right corner (scaled to ~15% of the image width, with a 15px
-   margin, preserving transparency).
-4. Content is published to the Facebook Page via the Meta Graph API (`v21.0`) —
-   `/{page-id}/photos` for images, `/{page-id}/feed` for text.
-5. `state.json` is updated with the newest `update_id`.
+2. New `channel_post` updates are grouped into queue items — album photos that
+   share a `media_group_id` are merged into one item — and appended to
+   `queue.json`. Only stable Telegram `file_id`s are stored (never expiring
+   download URLs). The fetch offset is then advanced immediately, so nothing is
+   ever re-fetched, regardless of what happens next.
+3. The pipeline pops up to `POSTS_PER_RUN` items (default `1`) from the front of
+   the queue (FIFO) and posts them:
+   - **text** → `/{page-id}/feed`
+   - **single photo** → logo overlaid → `/{page-id}/photos`
+   - **album** → each photo logo-overlaid and uploaded unpublished, then one
+     multi-photo post via `/{page-id}/feed` with `attached_media`
+   - **video** → logo burned in as a watermark with `ffmpeg` → `/{page-id}/videos`
+4. Captions have any trailing `@handle` promo footer stripped, and are optionally
+   translated to Bangla (see the `TRANSLATE` env var).
+5. An item is removed from the queue only on confirmed success. On failure its
+   `retry_count` is incremented and it stays at the front; after 3 failed
+   attempts it is moved to `queue_dead_letter.json` so it never blocks the queue.
+
+## Queue & rate limiting
+
+Posts are **spread out over time** rather than published all at once. Because
+the scheduled workflow runs hourly and posts one item per run by default, a
+burst of ten Telegram posts becomes ten Facebook posts over ten hours — which
+looks natural on a Page and avoids tripping spam heuristics.
+
+- **`queue.json`** holds pending items; **`state.json`** holds only the Telegram
+  fetch offset. They are deliberately decoupled: fetching never depends on
+  posting succeeding.
+- **Change the rate** with the `POSTS_PER_RUN` env var (integer, default `1`).
+  For example `POSTS_PER_RUN=3` posts up to three queued items per hourly run.
+- **`queue_dead_letter.json`** collects items that failed 3 times or can't be
+  posted (e.g. an oversized video), so one bad item never stalls everything.
+
+### Video size limit
+
+The Telegram Bot API can only download files up to **20 MB** via `getFile`.
+Videos larger than that cannot be fetched, so they are logged and moved straight
+to the dead-letter queue instead of crashing the run. Videos within the limit
+are watermarked with `ffmpeg` (installed by the workflow) and uploaded.
 
 ## Setup
 
@@ -151,8 +183,11 @@ only when you want the manual run to publish for real.
 Every run ends with a one-line summary, e.g.:
 
 ```
-SUMMARY: fetched=3 processed=2 posted=1 skipped=1 failed=0 dry_run_simulated=0 dry_run=False
+SUMMARY: fetched=3 enqueued=3 queue_before=0 queue_after=2 posted=1 skipped=0 failed=0 dead_letter=0 posted_types=['single photo'] dry_run=False
 ```
+
+`posted_types` shows which kind was published (text / single photo / album /
+video), and `queue_before`/`queue_after` show the queue length around the run.
 
 ## Files
 
@@ -162,9 +197,11 @@ SUMMARY: fetched=3 processed=2 posted=1 skipped=1 failed=0 dry_run_simulated=0 d
 | `requirements.txt`                  | Python dependencies.                     |
 | `.github/workflows/hourly_run.yml`  | Hourly scheduled GitHub Actions job.     |
 | `.github/last_run.txt`              | Heartbeat timestamp; keeps the schedule alive (see Automation). |
-| `state.json`                        | Auto-generated processing state.         |
-| `logo.png`                          | Watermark overlaid on photos.            |
-| `dry_run_output.jpg`                | Processed image saved during a dry-run (git-ignored). |
+| `state.json`                        | Telegram fetch offset (last processed `update_id`). |
+| `queue.json`                        | Persistent FIFO queue of pending, not-yet-posted items. |
+| `queue_dead_letter.json`            | Items that failed 3× or can't be posted (created on demand). |
+| `logo.png`                          | Watermark overlaid on photos and videos. |
+| `dry_run_output.jpg` / `.mp4`       | Processed media saved during a dry-run (git-ignored). |
 
 ## Security
 
