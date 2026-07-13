@@ -15,6 +15,7 @@ import argparse
 import json
 import logging
 import os
+import re
 import shutil
 import sys
 
@@ -237,6 +238,31 @@ def download_photo(bot_token, photos):
 # Text / image processing
 # --------------------------------------------------------------------------- #
 
+# A trailing "promotional footer" line: mostly decoration around an @handle,
+# e.g. "📊@tech", "👉 @tech_news 👈", "@channel". Such lines are attribution
+# noise that should not be posted to Facebook (and should not be translated).
+_PROMO_LINE = re.compile(r"^[^\w@]*@\w+[^\w@]*$")
+
+
+def clean_source_text(text):
+    """Strip trailing promo/handle footer lines (e.g. '📊@tech') and whitespace.
+
+    Only *trailing* lines that are essentially just an @mention (optionally
+    wrapped in emoji/symbols) are removed, so real content that merely contains
+    an @handle mid-sentence is left untouched.
+    """
+    if not text:
+        return text
+    lines = text.splitlines()
+    while lines:
+        last = lines[-1].strip()
+        if last == "" or _PROMO_LINE.match(last):
+            lines.pop()
+        else:
+            break
+    return "\n".join(lines).strip()
+
+
 def translate_text(text):
     """Translate text to Bangla, falling back to the original on failure."""
     if not text or not text.strip():
@@ -376,7 +402,10 @@ def process_post(channel_post, config, page_id, dry_run):
     page_token = config["FACEBOOK_PAGE_TOKEN"]
 
     photos = channel_post.get("photo")
-    text = channel_post.get("caption") if photos else channel_post.get("text")
+    raw_text = channel_post.get("caption") if photos else channel_post.get("text")
+    text = clean_source_text(raw_text)
+    if raw_text and text != raw_text:
+        log.debug("Stripped promo/handle footer from source text.")
     translated = translate_text(text)
 
     if photos:
