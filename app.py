@@ -5,11 +5,17 @@ Fetches new channel posts via the Telegram Bot API, translates the text to
 Bangla, overlays a logo onto any attached photo, and publishes the result to a
 Facebook Page via the Meta Graph API. Processing state is persisted in
 ``state.json`` so old posts are never re-published.
+
+Supports a DRY_RUN mode (env var or --dry-run) that prepares everything but
+never posts to Facebook and never advances state, so the same post can be
+re-tested repeatedly. A startup health check validates both API tokens.
 """
 
+import argparse
 import json
 import logging
 import os
+import shutil
 import sys
 
 import requests
@@ -27,6 +33,7 @@ GRAPH_API = f"https://graph.facebook.com/{GRAPH_API_VERSION}"
 STATE_FILE = "state.json"
 LOGO_FILE = "logo.png"
 TEMP_IMAGE = "temp_post_image.jpg"
+DRY_RUN_IMAGE = "dry_run_output.jpg"  # kept on disk for inspection in dry-run
 
 LOGO_SCALE = 0.15  # logo width as a fraction of the base image width
 LOGO_MARGIN = 15   # px margin from the bottom-right corner
@@ -44,6 +51,11 @@ log = logging.getLogger("tg2fb")
 # --------------------------------------------------------------------------- #
 # Environment / configuration helpers
 # --------------------------------------------------------------------------- #
+
+def is_dry_run():
+    """Return True if DRY_RUN is enabled via the environment."""
+    return os.environ.get("DRY_RUN", "").strip().lower() in ("1", "true", "yes", "on")
+
 
 def load_config():
     """Read required environment variables, failing loudly if any are missing."""
@@ -63,6 +75,65 @@ def load_config():
             + ". Set them before running app.py."
         )
     return config
+
+
+# --------------------------------------------------------------------------- #
+# Health checks
+# --------------------------------------------------------------------------- #
+
+def check_telegram_token(bot_token):
+    """Validate the Telegram bot token via getMe. Returns True/False."""
+    try:
+        resp = requests.get(
+            f"{TELEGRAM_API}/bot{bot_token}/getMe", timeout=REQUEST_TIMEOUT
+        )
+        data = resp.json()
+        if resp.ok and data.get("ok"):
+            bot = data.get("result", {})
+            log.info(
+                "HEALTH: Telegram token OK -> bot @%s (id=%s)",
+                bot.get("username"), bot.get("id"),
+            )
+            return True
+        log.error("HEALTH: Telegram token INVALID -> %s", data)
+        return False
+    except (requests.RequestException, ValueError) as exc:
+        log.error("HEALTH: Telegram token check failed: %s", exc)
+        return False
+
+
+def check_facebook_token(page_token):
+    """Validate the Facebook page token via /me. Soft failure (returns bool)."""
+    try:
+        resp = requests.get(
+            f"{GRAPH_API}/me",
+            params={"access_token": page_token, "fields": "id,name"},
+            timeout=REQUEST_TIMEOUT,
+        )
+        data = resp.json()
+        if resp.ok and data.get("id"):
+            log.info(
+                "HEALTH: Facebook token OK -> %s (id=%s)",
+                data.get("name"), data.get("id"),
+            )
+            return True
+        log.warning("HEALTH: Facebook token soft-failed -> %s", data)
+        return False
+    except (requests.RequestException, ValueError) as exc:
+        log.warning("HEALTH: Facebook token check soft-failed: %s", exc)
+        return False
+
+
+def run_health_check(config):
+    """Run both token checks at startup. Returns (telegram_ok, facebook_ok)."""
+    log.info("Running startup health check...")
+    telegram_ok = check_telegram_token(config["TELEGRAM_BOT_TOKEN"])
+    facebook_ok = check_facebook_token(config["FACEBOOK_PAGE_TOKEN"])
+    if not telegram_ok:
+        log.error("HEALTH: Telegram auth is broken; getUpdates will likely fail.")
+    if not facebook_ok:
+        log.warning("HEALTH: Facebook auth is a soft failure; continuing run.")
+    return telegram_ok, facebook_ok
 
 
 # --------------------------------------------------------------------------- #
@@ -107,6 +178,7 @@ def get_updates(bot_token, offset):
         "timeout": 10,
         "allowed_updates": json.dumps(["channel_post"]),
     }
+    log.debug("Calling getUpdates with offset=%s", offset)
     try:
         resp = requests.get(url, params=params, timeout=REQUEST_TIMEOUT)
         resp.raise_for_status()
@@ -172,6 +244,7 @@ def translate_text(text):
     try:
         translated = GoogleTranslator(source="auto", target="bn").translate(text)
         if translated:
+            log.debug("Translated %d chars to Bangla.", len(text))
             return translated
         log.warning("Translation returned empty result; using original text.")
         return text
@@ -284,8 +357,21 @@ def _log_graph_response(resp):
 # Per-post processing
 # --------------------------------------------------------------------------- #
 
-def process_post(channel_post, config, page_id):
-    """Translate, decorate, and publish a single channel post."""
+def _save_dry_run_image(image_path):
+    """Copy the processed image to a stable path for inspection. Returns path."""
+    try:
+        shutil.copyfile(image_path, DRY_RUN_IMAGE)
+        return DRY_RUN_IMAGE
+    except OSError as exc:
+        log.warning("Could not save dry-run image copy: %s", exc)
+        return image_path
+
+
+def process_post(channel_post, config, page_id, dry_run):
+    """Translate, decorate, and publish/simulate a single channel post.
+
+    Returns one of: "posted", "dry_run", "skipped", "failed".
+    """
     bot_token = config["TELEGRAM_BOT_TOKEN"]
     page_token = config["FACEBOOK_PAGE_TOKEN"]
 
@@ -297,21 +383,35 @@ def process_post(channel_post, config, page_id):
         image_path = download_photo(bot_token, photos)
         if image_path:
             image_path = overlay_logo(image_path)
+            if dry_run:
+                saved = _save_dry_run_image(image_path)
+                log.info("[DRY-RUN] Would post PHOTO (logo applied). "
+                         "Inspect image at: %s", saved)
+                log.info("[DRY-RUN] Caption (bn): %s", translated)
+                _cleanup(image_path)  # keep only the dry-run copy
+                return "dry_run"
             success = post_photo(page_id, page_token, image_path, translated)
             _cleanup(image_path)
-            return success
-        # If the download failed but we have a caption, still post the text.
-        if translated:
+            return "posted" if success else "failed"
+        # If the download failed but we have a caption, still handle the text.
+        if translated and translated.strip():
+            if dry_run:
+                log.info("[DRY-RUN] Photo download failed; would post caption "
+                         "as TEXT: %s", translated)
+                return "dry_run"
             log.warning("Photo download failed; posting caption as text.")
-            return post_text(page_id, page_token, translated)
+            return "posted" if post_text(page_id, page_token, translated) else "failed"
         log.warning("Photo download failed and no caption; skipping post.")
-        return False
+        return "failed"
 
     if translated and translated.strip():
-        return post_text(page_id, page_token, translated)
+        if dry_run:
+            log.info("[DRY-RUN] Would post TEXT (bn): %s", translated)
+            return "dry_run"
+        return "posted" if post_text(page_id, page_token, translated) else "failed"
 
     log.info("Post has no text or photo; nothing to publish.")
-    return True  # nothing to do, but not a failure
+    return "skipped"
 
 
 def _cleanup(path):
@@ -324,25 +424,70 @@ def _cleanup(path):
 
 
 # --------------------------------------------------------------------------- #
+# CLI
+# --------------------------------------------------------------------------- #
+
+def parse_args(argv=None):
+    parser = argparse.ArgumentParser(
+        description="Telegram -> Facebook cross-posting pipeline."
+    )
+    parser.add_argument(
+        "--once", action="store_true",
+        help="Run a single processing pass (default behavior; explicit flag).",
+    )
+    parser.add_argument(
+        "--verbose", "-v", action="store_true",
+        help="Enable DEBUG logging so each step is shown clearly.",
+    )
+    parser.add_argument(
+        "--dry-run", action="store_true",
+        help="Prepare posts but do not publish to Facebook or advance state.",
+    )
+    parser.add_argument(
+        "--health", action="store_true",
+        help="Only run the token health check (getMe / Graph /me) and exit.",
+    )
+    return parser.parse_args(argv)
+
+
+# --------------------------------------------------------------------------- #
 # Main
 # --------------------------------------------------------------------------- #
 
-def main():
-    log.info("Starting Telegram -> Facebook cross-posting run.")
+def main(argv=None):
+    args = parse_args(argv)
+    if args.verbose:
+        logging.getLogger().setLevel(logging.DEBUG)
+        log.debug("Verbose logging enabled.")
+
+    dry_run = args.dry_run or is_dry_run()
+
+    log.info("Starting Telegram -> Facebook cross-posting run. dry_run=%s", dry_run)
     config = load_config()
+
+    telegram_ok, _facebook_ok = run_health_check(config)
+
+    # --health: report status and exit without processing anything.
+    if args.health:
+        log.info("Health check complete (--health); exiting.")
+        return 0 if telegram_ok else 1
 
     last_update_id = load_state()
     # getUpdates offset = last processed id + 1 so we never re-fetch old posts.
     offset = last_update_id + 1 if last_update_id else 0
 
     updates = get_updates(config["TELEGRAM_BOT_TOKEN"], offset)
+    fetched = len(updates)
     if not updates:
         log.info("No new updates to process.")
-        return
+        log.info("SUMMARY: fetched=0 processed=0 posted=0 skipped=0 failed=0 "
+                 "dry_run=%s", dry_run)
+        return 0
 
     page_id = resolve_page_id(config["FACEBOOK_PAGE_TOKEN"])
 
     newest_update_id = last_update_id
+    counts = {"posted": 0, "dry_run": 0, "skipped": 0, "failed": 0}
     processed = 0
     for update in updates:
         update_id = update.get("update_id", 0)
@@ -351,12 +496,15 @@ def main():
 
         channel_post = update.get("channel_post")
         if channel_post:
+            processed += 1
             try:
-                if process_post(channel_post, config, page_id):
-                    processed += 1
-                else:
-                    log.warning("Post for update_id=%s failed to publish.", update_id)
+                result = process_post(channel_post, config, page_id, dry_run)
+                counts[result] = counts.get(result, 0) + 1
+                if result == "failed":
+                    log.warning("Post for update_id=%s failed to publish.",
+                                update_id)
             except Exception as exc:  # one bad post must not crash the run
+                counts["failed"] += 1
                 log.exception("Unexpected error processing update_id=%s: %s",
                               update_id, exc)
         else:
@@ -365,15 +513,24 @@ def main():
         # Advance the marker regardless so failed posts aren't retried forever.
         newest_update_id = max(newest_update_id, update_id)
 
-    if newest_update_id > last_update_id:
+    if dry_run:
+        log.info("[DRY-RUN] State NOT advanced (would be %s); re-run freely.",
+                 newest_update_id)
+    elif newest_update_id > last_update_id:
         save_state(newest_update_id)
 
-    log.info("Run complete. Published %s post(s).", processed)
+    log.info(
+        "SUMMARY: fetched=%d processed=%d posted=%d skipped=%d failed=%d "
+        "dry_run_simulated=%d dry_run=%s",
+        fetched, processed, counts["posted"], counts["skipped"],
+        counts["failed"], counts["dry_run"], dry_run,
+    )
+    return 0
 
 
 if __name__ == "__main__":
     try:
-        main()
+        sys.exit(main())
     except SystemExit:
         raise
     except Exception as exc:  # pragma: no cover - top-level safety net

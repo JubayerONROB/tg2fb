@@ -11,3 +11,6 @@ venv/
 # Downloaded temporary post images
 temp_post_image.jpg
 temp_post_image.*
+
+# Dry-run inspection output
+dry_run_output.jpg

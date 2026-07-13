@@ -2,8 +2,13 @@ name: Hourly Telegram to Facebook Cross-Post
 
 on:
   schedule:
-    - cron: "0 * * * *"   # every hour, on the hour (UTC)
+    - cron: "0 * * * *"   # every hour, on the hour (UTC) -- always posts for real
   workflow_dispatch:        # allow manual runs for testing
+    inputs:
+      dry_run:
+        description: "Dry run: prepare posts but do NOT publish to Facebook or advance state."
+        type: boolean
+        default: true
 
 permissions:
   contents: write           # needed to commit state.json back to the repo
@@ -11,6 +16,11 @@ permissions:
 jobs:
   cross-post:
     runs-on: ubuntu-latest
+
+    # Scheduled runs always post for real (DRY_RUN=false); manual runs use the
+    # dry_run input (default true), so the Actions-tab test is safe by default.
+    env:
+      DRY_RUN: ${{ (github.event_name == 'workflow_dispatch' && inputs.dry_run) && 'true' || 'false' }}
 
     steps:
       - name: Check out repository
@@ -26,21 +36,26 @@ jobs:
           python -m pip install --upgrade pip
           pip install -r requirements.txt
 
-      - name: Run cross-poster
+      - name: Run cross-poster (DRY_RUN=${{ env.DRY_RUN }})
         env:
           TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
           TELEGRAM_CHANNEL_ID: ${{ secrets.TELEGRAM_CHANNEL_ID }}
           FACEBOOK_PAGE_TOKEN: ${{ secrets.FACEBOOK_PAGE_TOKEN }}
-        run: python app.py
+        run: python app.py --verbose
 
       - name: Commit updated state
+        # Never commit on dry-runs -- state.json is intentionally untouched then.
+        if: ${{ env.DRY_RUN != 'true' }}
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
-          git add state.json
-          if git diff --cached --quiet; then
+          if git diff --quiet -- state.json; then
             echo "No state changes to commit."
-          else
-            git commit -m "chore: update state.json [skip ci]"
-            git push
+            exit 0
           fi
+          git add state.json
+          git commit -m "chore: update state.json [skip ci]"
+          # Rebase onto any concurrent run's push, then push. Never fail the job
+          # over a commit-back hiccup.
+          git pull --rebase origin "${{ github.ref_name }}" || true
+          git push origin "HEAD:${{ github.ref_name }}" || echo "Push failed; will retry next run."
