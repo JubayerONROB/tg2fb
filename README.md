@@ -67,6 +67,29 @@ The workflow commits any change to `state.json` back to the repo so progress
 persists between runs. It needs `contents: write` permission (already set in the
 workflow).
 
+## Automation
+
+A few things to know about how the hourly schedule behaves:
+
+- **Default branch only.** GitHub runs `schedule` workflows *only* from the
+  default branch (`main`). The workflow file must be committed to `main` — a
+  scheduled run will never fire from a feature branch.
+- **Cron is best-effort.** The schedule (`17 * * * *`, hourly at :17 UTC) is a
+  hint, not a guarantee. GitHub can delay runs — often by several minutes at
+  busy times — and occasionally skip one under heavy load. An off-peak minute
+  (`:17` instead of `:00`) reduces the top-of-hour queue delay, but don't rely
+  on exact timing.
+- **60-day inactivity auto-disable + heartbeat.** GitHub automatically disables
+  scheduled workflows after **60 days with no repository activity**. To keep a
+  quiet channel from silently killing the automation, every real (non-dry-run)
+  run writes the current UTC timestamp to `.github/last_run.txt` and commits it
+  back — even when there were no new Telegram posts. That regular commit keeps
+  the repo "active" so the schedule is never auto-disabled.
+- **Confirm it's live.** After pushing to `main`, trigger one manual run
+  (**Actions → Run workflow**) to register the workflow and confirm it's
+  enabled. Scheduled runs only start appearing once GitHub has seen the
+  workflow on the default branch.
+
 ## Testing
 
 You can test the whole pipeline safely without ever posting to Facebook.
@@ -131,6 +154,7 @@ SUMMARY: fetched=3 processed=2 posted=1 skipped=1 failed=0 dry_run_simulated=0 d
 | `app.py`                            | Main cross-posting script.               |
 | `requirements.txt`                  | Python dependencies.                     |
 | `.github/workflows/hourly_run.yml`  | Hourly scheduled GitHub Actions job.     |
+| `.github/last_run.txt`              | Heartbeat timestamp; keeps the schedule alive (see Automation). |
 | `state.json`                        | Auto-generated processing state.         |
 | `logo.png`                          | Watermark overlaid on photos.            |
 | `dry_run_output.jpg`                | Processed image saved during a dry-run (git-ignored). |
