@@ -1,20 +1,5 @@
 [
   {
-    "type": "video",
-    "video_file_id": "BAACAgIAAyEFAAMBClOLWAADCGpVWEtwuLEY-MtM55CwI0qQ1wdJAAIzmwACjnuBShE4sGtNNVQTPAQ",
-    "video_file_size": 19053290,
-    "caption": "🤖 OpenAI launches GPT-5.6 with three models\n\nOpenAI released GPT-5.6 with three models: Sol, Terra, and Luna. Sol scored 53.6 on Agents' Last Exam, beating Claude Fable 5 by 13.1 points at about a quarter of the cost. Terra and Luna also outperform Fable 5 at much lower cost.\n\nSol scored 80.0 on the Artificial Analysis Coding Agent index, surpassing Claude Fable 5's 77.2. It uses less than half the tokens, runs twice as fast, and costs a third less. Ultra mode runs multiple agents in parallel for faster results.\n\nGPT-5.6 can visually check rendered outputs, spotting and fixing errors before delivery. It produces cleaner presentations, documents, and tables with template support and exports to common tools.\n\nChatGPT Work launched as an agent inside.\n\n📊@tech",
-    "media_group_id": "14271824477082909",
-    "chat_id": -1004468214616,
-    "message_ids": [
-      8
-    ],
-    "update_ids": [
-      378303902
-    ],
-    "retry_count": 0
-  },
-  {
     "type": "album",
     "photo_file_ids": [
       "AgACAgIAAyEFAAMBClOLWAADCWpVWEsAAWN5XHPd9Uu7rjqfUkLUdQACdRRrG457gUrmxO356mdoAAEBAAMCAAN5AAM8BA",
@@ -109,6 +94,422 @@
     ],
     "update_ids": [
       378303909
+    ],
+    "retry_count": 0
+  },
+  {
+    "type": "photo",
+    "photo_file_ids": [
+      "AgACAgIAAyEFAAMBClOLWAADEGpVY6lUg7paXEEmNAO0TF3l-A5VAAKPGmsb4H2RSl9zJE5nOWDxAQADAgADeQADPAQ"
+    ],
+    "caption": "🤖 OpenAI hired Apple engineers as spies\n\nOpenAI recruited former Apple employees and asked them for secret Apple data. One ex-iPhone engineer was caught after refusing to return his work laptop, which he used to download confidential Apple files while at OpenAI.\n\nHe boasted to former colleagues about retained access and made guides on copying files undetected. This may have been led by Tang Tan, OpenAI's hardware chief and former lead iPhone developer who recruited Apple staff for design documents.\n\n📊@tech",
+    "entities": [
+      {
+        "offset": 0,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5397681122542893003"
+      },
+      {
+        "offset": 3,
+        "length": 37,
+        "type": "bold"
+      },
+      {
+        "offset": 42,
+        "length": 39,
+        "type": "bold"
+      },
+      {
+        "offset": 124,
+        "length": 18,
+        "type": "bold"
+      },
+      {
+        "offset": 390,
+        "length": 8,
+        "type": "bold"
+      },
+      {
+        "offset": 506,
+        "length": 2,
+        "type": "bold"
+      },
+      {
+        "offset": 506,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5449841756596101801"
+      },
+      {
+        "offset": 508,
+        "length": 5,
+        "type": "mention"
+      },
+      {
+        "offset": 508,
+        "length": 5,
+        "type": "bold"
+      }
+    ],
+    "media_group_id": null,
+    "chat_id": -1004468214616,
+    "message_ids": [
+      16
+    ],
+    "update_ids": [
+      378303910
+    ],
+    "retry_count": 0
+  },
+  {
+    "type": "photo",
+    "photo_file_ids": [
+      "AgACAgIAAyEFAAMBClOLWAADEWpVZByoTAIt40rxXRHJgN98nxtuAAKGH2sb7vw5SlbZMzwGqLKNAQADAgADeQADPAQ"
+    ],
+    "caption": "🤖 Anthropic plans its own AI chip\n\nAnthropic is in early talks with Samsung to develop a custom AI chip. The startup already uses AWS Trainium, Google TPU, and Nvidia GPU hardware but faces scaling challenges.\n\nAnthropic builds AI models and needs more control over its infrastructure. Following OpenAI's lead, it aims to boost performance by designing dedicated silicon.\n\n📊@tech",
+    "entities": [
+      {
+        "offset": 0,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5208665212483310136"
+      },
+      {
+        "offset": 3,
+        "length": 31,
+        "type": "bold"
+      },
+      {
+        "offset": 69,
+        "length": 7,
+        "type": "bold"
+      },
+      {
+        "offset": 131,
+        "length": 12,
+        "type": "bold"
+      },
+      {
+        "offset": 145,
+        "length": 10,
+        "type": "bold"
+      },
+      {
+        "offset": 161,
+        "length": 10,
+        "type": "bold"
+      },
+      {
+        "offset": 212,
+        "length": 9,
+        "type": "bold"
+      },
+      {
+        "offset": 297,
+        "length": 6,
+        "type": "bold"
+      },
+      {
+        "offset": 374,
+        "length": 2,
+        "type": "bold"
+      },
+      {
+        "offset": 374,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5449841756596101801"
+      },
+      {
+        "offset": 376,
+        "length": 5,
+        "type": "mention"
+      },
+      {
+        "offset": 376,
+        "length": 5,
+        "type": "bold"
+      }
+    ],
+    "media_group_id": null,
+    "chat_id": -1004468214616,
+    "message_ids": [
+      17
+    ],
+    "update_ids": [
+      378303911
+    ],
+    "retry_count": 0
+  },
+  {
+    "type": "album",
+    "photo_file_ids": [
+      "AgACAgIAAyEFAAMBClOLWAADEmpVZSwBtR0AASb9WdZO9YwzZK0JegAC4B5rG1ZhOUr3b2RMEq6sAQEAAwIAA3kAAzwE",
+      "AgACAgIAAyEFAAMBClOLWAADE2pVZSyAT9qlXfFVWVJEb61o0JXQAALhHmsbVmE5SqhAilKcpXRuAQADAgADeQADPAQ"
+    ],
+    "caption": "🤖 Developer uses Codex for daily news digest\n\nEach morning, an agent prints a personalized news summary from Codex for a developer, replacing the smartphone start to the day.\n\nThe digest covers unread messages, task lists, and surf forecasts, using AI to support a digital detox.\n\n📊@tech",
+    "entities": [
+      {
+        "offset": 0,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5397681122542893003"
+      },
+      {
+        "offset": 3,
+        "length": 42,
+        "type": "bold"
+      },
+      {
+        "offset": 110,
+        "length": 5,
+        "type": "bold"
+      },
+      {
+        "offset": 250,
+        "length": 2,
+        "type": "bold"
+      },
+      {
+        "offset": 282,
+        "length": 2,
+        "type": "bold"
+      },
+      {
+        "offset": 282,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5449841756596101801"
+      },
+      {
+        "offset": 284,
+        "length": 5,
+        "type": "mention"
+      },
+      {
+        "offset": 284,
+        "length": 5,
+        "type": "bold"
+      }
+    ],
+    "media_group_id": "14271850856044093",
+    "chat_id": -1004468214616,
+    "message_ids": [
+      18,
+      19
+    ],
+    "update_ids": [
+      378303912,
+      378303913
+    ],
+    "retry_count": 0
+  },
+  {
+    "type": "photo",
+    "photo_file_ids": [
+      "AgACAgQAAyEFAAMBClOLWAADFGpVZWD_iTwNqVYHnOXep73jQhHqAALqDmsbBvA5UibD6IOpQo0AAQEAAwIAA3cAAzwE"
+    ],
+    "caption": "🇨🇳 China launches 5-year AI education plan\n\nThe State Council set a five-year plan making AI literacy a core skill for all students starting around age 6. The curriculum will cover all school grades and extend into higher education.\n\nThis move is part of Xi Jinping's strategy to secure technological dominance and compete with the US. AI literacy is framed as a matter of national competitiveness and security.\n\n📊@tech",
+    "entities": [
+      {
+        "offset": 0,
+        "length": 4,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5447548939844725331"
+      },
+      {
+        "offset": 5,
+        "length": 39,
+        "type": "bold"
+      },
+      {
+        "offset": 50,
+        "length": 13,
+        "type": "bold"
+      },
+      {
+        "offset": 70,
+        "length": 14,
+        "type": "bold"
+      },
+      {
+        "offset": 257,
+        "length": 21,
+        "type": "bold"
+      },
+      {
+        "offset": 375,
+        "length": 37,
+        "type": "bold"
+      },
+      {
+        "offset": 415,
+        "length": 2,
+        "type": "bold"
+      },
+      {
+        "offset": 415,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5449841756596101801"
+      },
+      {
+        "offset": 417,
+        "length": 5,
+        "type": "mention"
+      },
+      {
+        "offset": 417,
+        "length": 5,
+        "type": "bold"
+      }
+    ],
+    "media_group_id": null,
+    "chat_id": -1004468214616,
+    "message_ids": [
+      20
+    ],
+    "update_ids": [
+      378303914
+    ],
+    "retry_count": 0
+  },
+  {
+    "type": "video",
+    "video_file_id": "BAACAgIAAyEFAAMBClOLWAADFWpVZYqMMpzwxWA3OfNv-D6gqAkBAALCnwACVmE5SngId-w1QCzYPAQ",
+    "video_file_size": 36319,
+    "caption": "🔍 Google Builds Data Center from Old Smartphones\n\nGoogle and UC San Diego researchers are creating a data center using 2,000 recycled Pixel smartphones, launching this fall. They remove screens and batteries, using only the motherboards clustered into a computing platform.\n\nThe project runs a Linux server distro on Android hardware, turning each phone into a small server. Some smartphone cores outperform traditional server cores in benchmarks, but limited memory and I/O restrict tasks.\n\nA 20-phone cluster handled 75+ students’ workloads faster than a standard AWS backend. The full cluster aims to deliver about 50 servers at a fraction of typical costs. Reliability remains a key concern since phones aren’t built for continuous heavy use.\n\n📊@tech",
+    "entities": [
+      {
+        "offset": 0,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5431644246450908867"
+      },
+      {
+        "offset": 3,
+        "length": 46,
+        "type": "bold"
+      },
+      {
+        "offset": 51,
+        "length": 35,
+        "type": "bold"
+      },
+      {
+        "offset": 120,
+        "length": 32,
+        "type": "bold"
+      },
+      {
+        "offset": 495,
+        "length": 48,
+        "type": "bold"
+      },
+      {
+        "offset": 613,
+        "length": 47,
+        "type": "bold"
+      },
+      {
+        "offset": 749,
+        "length": 2,
+        "type": "bold"
+      },
+      {
+        "offset": 749,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5449841756596101801"
+      },
+      {
+        "offset": 751,
+        "length": 5,
+        "type": "mention"
+      },
+      {
+        "offset": 751,
+        "length": 5,
+        "type": "bold"
+      }
+    ],
+    "media_group_id": null,
+    "chat_id": -1004468214616,
+    "message_ids": [
+      21
+    ],
+    "update_ids": [
+      378303915
+    ],
+    "retry_count": 0
+  },
+  {
+    "type": "video",
+    "video_file_id": "BAACAgIAAyEFAAMBClOLWAADFmpVZZF4mKiVcbTebmhf9QRRcmdNAAKCoAAChwMoSpzzaff1pN2lPAQ",
+    "video_file_size": 30206059,
+    "caption": "🤖 Anthropic launches Claude Science for research\n\nAnthropic introduced Claude Science, an AI agent designed as an end-to-end research infrastructure. It handles literature search, data analysis, computation, visualization, and article preparation in one interface.\n\nClaude Science comes with a built-in skill base and offers various visualizations and artifact displays. It is currently in beta and available as an app for MacOS and Linux.\n\n📊@tech",
+    "entities": [
+      {
+        "offset": 0,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5208665212483310136"
+      },
+      {
+        "offset": 3,
+        "length": 46,
+        "type": "bold"
+      },
+      {
+        "offset": 72,
+        "length": 14,
+        "type": "bold"
+      },
+      {
+        "offset": 115,
+        "length": 34,
+        "type": "bold"
+      },
+      {
+        "offset": 295,
+        "length": 19,
+        "type": "bold"
+      },
+      {
+        "offset": 391,
+        "length": 4,
+        "type": "bold"
+      },
+      {
+        "offset": 442,
+        "length": 2,
+        "type": "bold"
+      },
+      {
+        "offset": 442,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5449841756596101801"
+      },
+      {
+        "offset": 444,
+        "length": 5,
+        "type": "mention"
+      },
+      {
+        "offset": 444,
+        "length": 5,
+        "type": "bold"
+      }
+    ],
+    "media_group_id": null,
+    "chat_id": -1004468214616,
+    "message_ids": [
+      22
+    ],
+    "update_ids": [
+      378303916
     ],
     "retry_count": 0
   }
