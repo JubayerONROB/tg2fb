@@ -23,8 +23,10 @@ items) so nothing is ever re-posted or lost.
    - **album** → each photo logo-overlaid and uploaded unpublished, then one
      multi-photo post via `/{page-id}/feed` with `attached_media`
    - **video** → logo burned in as a watermark with `ffmpeg` → `/{page-id}/videos`
-4. Captions have any trailing `@handle` promo footer stripped, and are optionally
-   translated to Bangla (see the `TRANSLATE` env var).
+4. Captions have Telegram `bold` spans converted to Unicode bold characters
+   (see [Bold text formatting](#bold-text-formatting)) and any trailing
+   `@handle` promo footer stripped. Translation to Bangla is optional and off by
+   default (see the `TRANSLATE` env var; it replaces bolding when enabled).
 5. An item is removed from the queue only on confirmed success. On failure its
    `retry_count` is incremented and it stays at the front; after 3 failed
    attempts it is moved to `queue_dead_letter.json` so it never blocks the queue.
@@ -50,6 +52,26 @@ The Telegram Bot API can only download files up to **20 MB** via `getFile`.
 Videos larger than that cannot be fetched, so they are logged and moved straight
 to the dead-letter queue instead of crashing the run. Videos within the limit
 are watermarked with `ffmpeg` (installed by the workflow) and uploaded.
+
+## Bold text formatting
+
+Facebook's Graph API has **no rich-text support** — you can't send real bold in
+a post `message`, `caption`, or video `description`. To preserve the bold that
+Telegram authors use, the pipeline reads Telegram's `bold` message entities and
+substitutes **Unicode "Mathematical Sans-Serif Bold" lookalike characters**
+(e.g. `Hello` → `𝗛𝗲𝗹𝗹𝗼`, `123` → `𝟭𝟮𝟯`). These are ordinary Unicode code
+points that render bold everywhere, so the styling survives into Facebook.
+
+Caveats, by design:
+
+- It only affects **Latin letters (A–Z, a–z) and digits (0–9)**. Spaces,
+  punctuation, and emoji are left as-is.
+- **Non-Latin scripts have no bold code points.** Bangla (and other non-Latin
+  text) cannot be made visually bold this way, so a bold Bangla span is posted
+  **unstyled** — this is a Unicode limitation, not a bug. The run logs a clear
+  one-line note whenever it happens, so it's obvious during testing.
+- Telegram entity offsets are in UTF-16 code units; the conversion accounts for
+  this so emoji and multi-byte characters never shift the bold ranges.
 
 ## Setup
 

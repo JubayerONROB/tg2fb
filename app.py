@@ -374,6 +374,7 @@ def _item_from_update(update):
             "type": "photo",
             "photo_file_ids": [_largest_photo_id(cp["photo"])],
             "caption": cp.get("caption") or "",
+            "entities": cp.get("caption_entities") or [],
             "media_group_id": mgid,
             "chat_id": chat_id,
             "message_ids": [message_id],
@@ -387,6 +388,7 @@ def _item_from_update(update):
             "video_file_id": video.get("file_id"),
             "video_file_size": video.get("file_size"),
             "caption": cp.get("caption") or "",
+            "entities": cp.get("caption_entities") or [],
             "media_group_id": mgid,
             "chat_id": chat_id,
             "message_ids": [message_id],
@@ -397,6 +399,7 @@ def _item_from_update(update):
         return {
             "type": "text",
             "caption": cp.get("text"),
+            "entities": cp.get("entities") or [],
             "media_group_id": None,
             "chat_id": chat_id,
             "message_ids": [message_id],
@@ -431,6 +434,7 @@ def build_items(updates):
             existing["message_ids"].extend(item["message_ids"])
             if not existing["caption"] and item["caption"]:
                 existing["caption"] = item["caption"]
+                existing["entities"] = item.get("entities") or []
             existing["type"] = (
                 "album" if len(existing["photo_file_ids"]) > 1 else "photo"
             )
@@ -470,6 +474,85 @@ def clean_source_text(text):
     return "\n".join(lines).strip()
 
 
+# Unicode "Mathematical Sans-Serif Bold" ranges -- the closest thing to real
+# bold that survives in plain text (Facebook's Graph API has no rich text).
+_BOLD_UPPER = 0x1D5D4  # 𝗔 (maps A-Z contiguously)
+_BOLD_LOWER = 0x1D5EE  # 𝗮 (maps a-z contiguously)
+_BOLD_DIGIT = 0x1D7EC  # 𝟬 (maps 0-9 contiguously)
+
+
+def to_unicode_bold(text):
+    """Map ASCII letters/digits to Unicode bold lookalikes; leave all else as-is.
+
+    Characters without a bold equivalent -- spaces, punctuation, emoji, and any
+    non-Latin script such as Bangla -- pass through completely unchanged.
+    """
+    out = []
+    for ch in text:
+        o = ord(ch)
+        if 0x41 <= o <= 0x5A:      # A-Z
+            out.append(chr(o - 0x41 + _BOLD_UPPER))
+        elif 0x61 <= o <= 0x7A:    # a-z
+            out.append(chr(o - 0x61 + _BOLD_LOWER))
+        elif 0x30 <= o <= 0x39:    # 0-9
+            out.append(chr(o - 0x30 + _BOLD_DIGIT))
+        else:
+            out.append(ch)
+    return "".join(out)
+
+
+def apply_bold_entities(text, entities):
+    """Bold the substrings that Telegram marked as `bold`, leaving the rest.
+
+    Telegram entity `offset`/`length` are measured in UTF-16 code units, not
+    Python characters, so an emoji (a surrogate pair) counts as 2. We slice the
+    UTF-16-LE byte buffer at code-unit boundaries -- which Telegram guarantees
+    never split a surrogate pair -- so bold ranges stay aligned regardless of
+    emoji or multi-byte content. Non-bold entity types (text_link, etc.) are
+    ignored.
+    """
+    if not text or not entities:
+        return text
+    spans = sorted(
+        ((e["offset"], e["length"]) for e in entities
+         if e.get("type") == "bold" and "offset" in e and "length" in e),
+        key=lambda s: s[0],
+    )
+    if not spans:
+        return text
+
+    data = text.encode("utf-16-le")  # 2 bytes per UTF-16 code unit
+    total_units = len(data) // 2
+
+    # Merge overlapping/adjacent spans, clamped to the text length.
+    merged = []
+    for off, length in spans:
+        start = max(0, min(off, total_units))
+        end = max(0, min(off + length, total_units))
+        if end <= start:
+            continue
+        if merged and start <= merged[-1][1]:
+            merged[-1] = (merged[-1][0], max(merged[-1][1], end))
+        else:
+            merged.append((start, end))
+
+    result = []
+    cursor = 0
+    for start, end in merged:
+        if cursor < start:
+            result.append(data[cursor * 2:start * 2].decode("utf-16-le"))
+        span_text = data[start * 2:end * 2].decode("utf-16-le")
+        if any(ch.isalpha() and ord(ch) > 0x7F for ch in span_text):
+            log.info("Bold span contains non-Latin text (e.g. Bangla); Unicode "
+                     "bold has no glyphs for that script -- posting it unstyled: "
+                     "%r", span_text[:60])
+        result.append(to_unicode_bold(span_text))
+        cursor = end
+    if cursor < total_units:
+        result.append(data[cursor * 2:].decode("utf-16-le"))
+    return "".join(result)
+
+
 def translate_text(text):
     """Translate text to Bangla, falling back to the original on failure."""
     if not text or not text.strip():
@@ -486,14 +569,21 @@ def translate_text(text):
         return text
 
 
-def compute_body(raw_caption):
-    """Clean the footer off a caption and translate it if TRANSLATE is on."""
-    text = clean_source_text(raw_caption or "")
-    if raw_caption and text != raw_caption:
-        log.debug("Stripped promo/handle footer from source text.")
+def compute_body(raw_caption, entities=None):
+    """Build the Facebook-bound text from a Telegram caption.
+
+    When TRANSLATE is enabled, translate to Bangla (which has no Unicode bold,
+    so bolding is skipped). Otherwise apply bold entities to the raw text first
+    -- so the UTF-16 offsets stay valid against exactly what Telegram sent --
+    then strip the trailing promo/handle footer.
+    """
     if translation_enabled():
-        return translate_text(text)
-    return text
+        return translate_text(clean_source_text(raw_caption or ""))
+    styled = apply_bold_entities(raw_caption or "", entities or [])
+    cleaned = clean_source_text(styled)
+    if raw_caption and cleaned != raw_caption:
+        log.debug("Applied bold/stripped footer from source text.")
+    return cleaned
 
 
 def overlay_logo(image_path):
@@ -754,7 +844,12 @@ def process_item(item, config, page_id, dry_run):
     bot_token = config["TELEGRAM_BOT_TOKEN"]
     page_token = config["FACEBOOK_PAGE_TOKEN"]
     item_type = item.get("type")
-    body = compute_body(item.get("caption"))
+    body = compute_body(item.get("caption"), item.get("entities"))
+
+    if dry_run:
+        # Show raw vs. transformed side by side so bold spans are easy to verify.
+        log.info("[DRY-RUN] RAW  Telegram text : %s", item.get("caption"))
+        log.info("[DRY-RUN] BOLD Facebook text : %s", body)
 
     # ----- text ----------------------------------------------------------- #
     if item_type == "text":
