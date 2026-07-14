@@ -1,68 +1,5 @@
 [
   {
-    "type": "album",
-    "photo_file_ids": [
-      "AgACAgIAAyEFAAMBClOLWAADEmpVZSwBtR0AASb9WdZO9YwzZK0JegAC4B5rG1ZhOUr3b2RMEq6sAQEAAwIAA3kAAzwE",
-      "AgACAgIAAyEFAAMBClOLWAADE2pVZSyAT9qlXfFVWVJEb61o0JXQAALhHmsbVmE5SqhAilKcpXRuAQADAgADeQADPAQ"
-    ],
-    "caption": "🤖 Developer uses Codex for daily news digest\n\nEach morning, an agent prints a personalized news summary from Codex for a developer, replacing the smartphone start to the day.\n\nThe digest covers unread messages, task lists, and surf forecasts, using AI to support a digital detox.\n\n📊@tech",
-    "entities": [
-      {
-        "offset": 0,
-        "length": 2,
-        "type": "custom_emoji",
-        "custom_emoji_id": "5397681122542893003"
-      },
-      {
-        "offset": 3,
-        "length": 42,
-        "type": "bold"
-      },
-      {
-        "offset": 110,
-        "length": 5,
-        "type": "bold"
-      },
-      {
-        "offset": 250,
-        "length": 2,
-        "type": "bold"
-      },
-      {
-        "offset": 282,
-        "length": 2,
-        "type": "bold"
-      },
-      {
-        "offset": 282,
-        "length": 2,
-        "type": "custom_emoji",
-        "custom_emoji_id": "5449841756596101801"
-      },
-      {
-        "offset": 284,
-        "length": 5,
-        "type": "mention"
-      },
-      {
-        "offset": 284,
-        "length": 5,
-        "type": "bold"
-      }
-    ],
-    "media_group_id": "14271850856044093",
-    "chat_id": -1004468214616,
-    "message_ids": [
-      18,
-      19
-    ],
-    "update_ids": [
-      378303912,
-      378303913
-    ],
-    "retry_count": 0
-  },
-  {
     "type": "photo",
     "photo_file_ids": [
       "AgACAgQAAyEFAAMBClOLWAADFGpVZWD_iTwNqVYHnOXep73jQhHqAALqDmsbBvA5UibD6IOpQo0AAQEAAwIAA3cAAzwE"
@@ -515,6 +452,132 @@
     ],
     "update_ids": [
       378303920
+    ],
+    "retry_count": 0
+  },
+  {
+    "type": "video",
+    "video_file_id": "BAACAgUAAyEFAAMBClOLWAADG2pWaoNosm0OfW3B4zySAAF5cAxagwACMicAAr3-sVY2-rR7zxpi6z0E",
+    "video_file_size": 5672006,
+    "caption": "Duolingo is cooked 💀\n\nGPT-Live fixes grammar while you speak",
+    "entities": [],
+    "media_group_id": null,
+    "chat_id": -1004468214616,
+    "message_ids": [
+      27
+    ],
+    "update_ids": [
+      378303921
+    ],
+    "retry_count": 0
+  },
+  {
+    "type": "video",
+    "video_file_id": "BAACAgQAAyEFAAMBClOLWAADHGpWckUnCtVyL4LZl06qXX2tt_uHAAJTHgACQquhUsza7BqS-JMxPQQ",
+    "video_file_size": 13838525,
+    "caption": "Deep robotics introduced Lynx, their quadruple- wheeled robot that tackles rocky riverbeds, muddy underwater terrain, and harsh outdoor environments with exceptional stability and mobility.\n\n@aipost 🏴",
+    "entities": [
+      {
+        "offset": 191,
+        "length": 7,
+        "type": "text_link",
+        "url": "https://t.me/aipost"
+      },
+      {
+        "offset": 199,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5431390559912614642"
+      }
+    ],
+    "media_group_id": null,
+    "chat_id": -1004468214616,
+    "message_ids": [
+      28
+    ],
+    "update_ids": [
+      378303922
+    ],
+    "retry_count": 0
+  },
+  {
+    "type": "photo",
+    "photo_file_ids": [
+      "AgACAgQAAyEFAAMBClOLWAADHWpWclAnZm21qqzpfU0s_xUMFeiCAAL5D2sbQquhUtoNybefg6D4AQADAgADeQADPQQ"
+    ],
+    "caption": "The biggest scam humanity has collectively accepted as normal, according to Claude.\n\n@aipost 🏴",
+    "entities": [
+      {
+        "offset": 85,
+        "length": 7,
+        "type": "text_link",
+        "url": "https://t.me/aipost"
+      },
+      {
+        "offset": 93,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5431390559912614642"
+      }
+    ],
+    "media_group_id": null,
+    "chat_id": -1004468214616,
+    "message_ids": [
+      29
+    ],
+    "update_ids": [
+      378303923
+    ],
+    "retry_count": 0
+  },
+  {
+    "type": "photo",
+    "photo_file_ids": [
+      "AgACAgQAAyEFAAMBClOLWAADHmpWcxjO9xhoGf5nP9PwkXBlVUv2AAIRD2sbum6BUsDmd6loT3uhAQADAgADeAADPQQ"
+    ],
+    "caption": "👓 Meta is building AI glasses that could remember your entire day\n\nImagine wearing glasses that quietly keep track of what you see and hear all day, then letting you ask questions like “Where did I leave my keys?” or “Who did I meet this morning?” That’s reportedly what Meta is testing with a new “super sensing” mode for its AI glasses.\n\nInstead of recording only when you press a button, the glasses could continuously capture audio and snap photos every few seconds, giving Meta AI a constant stream of context to act as a real-world memory assistant.\n\nThe report also claims Meta has debated whether the recording indicator light should remain off during passive data collection, raising concerns that people nearby may not realize they’re being recorded.\n\nSome versions may upload only metadata rather than full images or audio, but Meta is reportedly also exploring whether the collected data could be used to train future AI models.\n\n@aipost 🏴",
+    "entities": [
+      {
+        "offset": 0,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5780729683507153869"
+      },
+      {
+        "offset": 3,
+        "length": 63,
+        "type": "bold"
+      },
+      {
+        "offset": 186,
+        "length": 28,
+        "type": "italic"
+      },
+      {
+        "offset": 218,
+        "length": 30,
+        "type": "italic"
+      },
+      {
+        "offset": 943,
+        "length": 7,
+        "type": "text_link",
+        "url": "https://t.me/aipost"
+      },
+      {
+        "offset": 951,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5431390559912614642"
+      }
+    ],
+    "media_group_id": null,
+    "chat_id": -1004468214616,
+    "message_ids": [
+      30
+    ],
+    "update_ids": [
+      378303924
     ],
     "retry_count": 0
   }
