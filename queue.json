@@ -2,22 +2,6 @@
   {
     "type": "photo",
     "photo_file_ids": [
-      "AgACAgQAAyEFAAMBClOLWAADD2pVYG0gdb54pXSXqFv1G6Ec22cgAAIkDmsb5TxcUgcYIMXWZkN-AQADAgADeQADPAQ"
-    ],
-    "caption": "📱 xAI launches no-code voice AI call center builder\n\nxAI released Voice Agent Builder, a no-code tool to create AI call centers using over 80 voices or a real person's clone from a 2-minute recording. It integrates with Notion, Gmail, and Google Calendar to handle bookings, confirmations, and refunds via API.\n\nThe beta service charges 5 cents per minute and provides a phone number for each agent upon signup. xAI claims its Grok Voice Think Fast 1.0 model sounds more convincing than Google's Gemini 3.1 Flash Live and OpenAI's GPT Realtime 1.5.\n\n📊@tech",
-    "media_group_id": null,
-    "chat_id": -1004468214616,
-    "message_ids": [
-      15
-    ],
-    "update_ids": [
-      378303909
-    ],
-    "retry_count": 0
-  },
-  {
-    "type": "photo",
-    "photo_file_ids": [
       "AgACAgIAAyEFAAMBClOLWAADEGpVY6lUg7paXEEmNAO0TF3l-A5VAAKPGmsb4H2RSl9zJE5nOWDxAQADAgADeQADPAQ"
     ],
     "caption": "🤖 OpenAI hired Apple engineers as spies\n\nOpenAI recruited former Apple employees and asked them for secret Apple data. One ex-iPhone engineer was caught after refusing to return his work laptop, which he used to download confidential Apple files while at OpenAI.\n\nHe boasted to former colleagues about retained access and made guides on copying files undetected. This may have been led by Tang Tan, OpenAI's hardware chief and former lead iPhone developer who recruited Apple staff for design documents.\n\n📊@tech",
