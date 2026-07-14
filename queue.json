@@ -1,20 +1,5 @@
 [
   {
-    "type": "video",
-    "video_file_id": "BAACAgIAAyEFAAMBClOLWAADDmpVYGG6Vz83MjXZyQG0a8x0puKUAAKYqgAC51VYSnixfWkh73u4PAQ",
-    "video_file_size": 2510054,
-    "caption": "⚡️ AI Discovers Two New Superconductors\n\nA team at Aalto University used machine learning to identify two previously unknown superconductors, confirmed later in lab tests at Rice University. This marks a shift from decades of manual trial and error that found about 7,000 superconductors so far.\n\nSuperconductors conduct electricity without resistance or heat loss, enabling powerful magnets for MRI machines and maglev trains. The challenge remains their need for extreme cooling, limiting practical use.\n\nThe AI approach scans billions of material candidates, speeding up discovery. The goal is to find a superconductor that works at room temperature by 2033, which would revolutionize energy and computing.\n\n📊@tech",
-    "media_group_id": null,
-    "chat_id": -1004468214616,
-    "message_ids": [
-      14
-    ],
-    "update_ids": [
-      378303908
-    ],
-    "retry_count": 0
-  },
-  {
     "type": "photo",
     "photo_file_ids": [
       "AgACAgQAAyEFAAMBClOLWAADD2pVYG0gdb54pXSXqFv1G6Ec22cgAAIkDmsb5TxcUgcYIMXWZkN-AQADAgADeQADPAQ"
