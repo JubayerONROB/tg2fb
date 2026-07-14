@@ -1,85 +1,5 @@
 [
   {
-    "type": "photo",
-    "photo_file_ids": [
-      "AgACAgIAAyEFAAMBClOLWAADEWpVZByoTAIt40rxXRHJgN98nxtuAAKGH2sb7vw5SlbZMzwGqLKNAQADAgADeQADPAQ"
-    ],
-    "caption": "🤖 Anthropic plans its own AI chip\n\nAnthropic is in early talks with Samsung to develop a custom AI chip. The startup already uses AWS Trainium, Google TPU, and Nvidia GPU hardware but faces scaling challenges.\n\nAnthropic builds AI models and needs more control over its infrastructure. Following OpenAI's lead, it aims to boost performance by designing dedicated silicon.\n\n📊@tech",
-    "entities": [
-      {
-        "offset": 0,
-        "length": 2,
-        "type": "custom_emoji",
-        "custom_emoji_id": "5208665212483310136"
-      },
-      {
-        "offset": 3,
-        "length": 31,
-        "type": "bold"
-      },
-      {
-        "offset": 69,
-        "length": 7,
-        "type": "bold"
-      },
-      {
-        "offset": 131,
-        "length": 12,
-        "type": "bold"
-      },
-      {
-        "offset": 145,
-        "length": 10,
-        "type": "bold"
-      },
-      {
-        "offset": 161,
-        "length": 10,
-        "type": "bold"
-      },
-      {
-        "offset": 212,
-        "length": 9,
-        "type": "bold"
-      },
-      {
-        "offset": 297,
-        "length": 6,
-        "type": "bold"
-      },
-      {
-        "offset": 374,
-        "length": 2,
-        "type": "bold"
-      },
-      {
-        "offset": 374,
-        "length": 2,
-        "type": "custom_emoji",
-        "custom_emoji_id": "5449841756596101801"
-      },
-      {
-        "offset": 376,
-        "length": 5,
-        "type": "mention"
-      },
-      {
-        "offset": 376,
-        "length": 5,
-        "type": "bold"
-      }
-    ],
-    "media_group_id": null,
-    "chat_id": -1004468214616,
-    "message_ids": [
-      17
-    ],
-    "update_ids": [
-      378303911
-    ],
-    "retry_count": 0
-  },
-  {
     "type": "album",
     "photo_file_ids": [
       "AgACAgIAAyEFAAMBClOLWAADEmpVZSwBtR0AASb9WdZO9YwzZK0JegAC4B5rG1ZhOUr3b2RMEq6sAQEAAwIAA3kAAzwE",
@@ -431,6 +351,170 @@
     ],
     "update_ids": [
       378303917
+    ],
+    "retry_count": 0
+  },
+  {
+    "type": "photo",
+    "photo_file_ids": [
+      "AgACAgIAAyEFAAMBClOLWAADGWpWUHX30zCjuzw1apP71LMyCkOJAAL4GmsbMHWhSlPvnbOT_O-qAQADAgADeQADPQQ"
+    ],
+    "caption": "🍏 Apple’s Car Project Sparked AI Chips\n\nApple’s abandoned self-driving car project drove the development of its powerful AI chips. The car needed strong on-device AI without cloud reliance. Though the car’s processor never launched, its work evolved into the Neural Engine.\n\nThe Neural Engine debuted in 2017 with the iPhone X and A11 Bionic chip, handling tasks like Face ID and AR. It became the base for Apple’s on-device AI and later appeared in M-series desktop chips.\n\nApple’s AI software still trails, but its hardware leads and supports privacy by keeping data local. The upcoming M6 chip will skip Pro, Max, and Ultra versions, focusing on the M7 with a stronger Neural Engine due next year. The M7 Ultra will power a new server with up to 1.5 TB RAM.\n\n📊@tech",
+    "entities": [
+      {
+        "offset": 0,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5398012024003246287"
+      },
+      {
+        "offset": 3,
+        "length": 36,
+        "type": "bold"
+      },
+      {
+        "offset": 41,
+        "length": 42,
+        "type": "bold"
+      },
+      {
+        "offset": 260,
+        "length": 13,
+        "type": "bold"
+      },
+      {
+        "offset": 280,
+        "length": 13,
+        "type": "bold"
+      },
+      {
+        "offset": 319,
+        "length": 8,
+        "type": "bold"
+      },
+      {
+        "offset": 332,
+        "length": 10,
+        "type": "bold"
+      },
+      {
+        "offset": 590,
+        "length": 2,
+        "type": "bold"
+      },
+      {
+        "offset": 654,
+        "length": 2,
+        "type": "bold"
+      },
+      {
+        "offset": 706,
+        "length": 8,
+        "type": "bold"
+      },
+      {
+        "offset": 750,
+        "length": 10,
+        "type": "bold"
+      },
+      {
+        "offset": 763,
+        "length": 2,
+        "type": "bold"
+      },
+      {
+        "offset": 763,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5449841756596101801"
+      },
+      {
+        "offset": 765,
+        "length": 5,
+        "type": "mention"
+      },
+      {
+        "offset": 765,
+        "length": 5,
+        "type": "bold"
+      }
+    ],
+    "media_group_id": null,
+    "chat_id": -1004468214616,
+    "message_ids": [
+      25
+    ],
+    "update_ids": [
+      378303919
+    ],
+    "retry_count": 0
+  },
+  {
+    "type": "video",
+    "video_file_id": "BAACAgIAAyEFAAMBClOLWAADGmpWZHN8kbWLEOgTxR_DEgTmWb60AAJUswAC3oipSrZCyC8ISMObPQQ",
+    "video_file_size": 9836332,
+    "caption": "🍏 Apple sues OpenAI over trade secrets\n\nApple accuses OpenAI of recruiting former Apple employees to steal trade secrets for a new device designed by ex-Apple design chief Jony Ive. The lawsuit names two former Apple staff, Tang Tan and Chang Liu, alleging they brought confidential info to OpenAI and bypassed Apple's exit procedures.\n\nTang Tan reportedly asked Apple candidates to bring real device parts and share secret details during interviews. Chang Liu allegedly downloaded sensitive files after joining OpenAI. Apple also claims OpenAI sought demos of Apple's metal processing tech from its suppliers.\n\n📊@tech",
+    "entities": [
+      {
+        "offset": 0,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5398012024003246287"
+      },
+      {
+        "offset": 3,
+        "length": 36,
+        "type": "bold"
+      },
+      {
+        "offset": 225,
+        "length": 8,
+        "type": "bold"
+      },
+      {
+        "offset": 238,
+        "length": 9,
+        "type": "bold"
+      },
+      {
+        "offset": 338,
+        "length": 8,
+        "type": "bold"
+      },
+      {
+        "offset": 452,
+        "length": 9,
+        "type": "bold"
+      },
+      {
+        "offset": 613,
+        "length": 2,
+        "type": "bold"
+      },
+      {
+        "offset": 613,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5449841756596101801"
+      },
+      {
+        "offset": 615,
+        "length": 5,
+        "type": "mention"
+      },
+      {
+        "offset": 615,
+        "length": 5,
+        "type": "bold"
+      }
+    ],
+    "media_group_id": null,
+    "chat_id": -1004468214616,
+    "message_ids": [
+      26
+    ],
+    "update_ids": [
+      378303920
     ],
     "retry_count": 0
   }
