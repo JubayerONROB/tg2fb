@@ -2,22 +2,6 @@
   {
     "type": "photo",
     "photo_file_ids": [
-      "AgACAgIAAyEFAAMBClOLWAADC2pVYC9ehF2ZveX7JZuUZHyust1AAAJ6F2sbEm6ISoq0MRE-imoaAQADAgADeQADPAQ"
-    ],
-    "caption": "🤖 OpenAI Shuts Down Atlas Browser\n\nOpenAI will disable its AI browser Atlas on August 9, less than a year after its October launch on macOS. All browser features will move into the updated ChatGPT desktop app, with users notified by email and in-app messages.\n\nAtlas offered an Agent mode to automate tasks but remained niche, limited to Macs and paid subscribers. The new ChatGPT app combines ChatGPT, Codex, and ChatGPT Work with a built-in browser that can browse sites, compare sources, open Google Workspace and Microsoft 365 files, and continue tasks while showing results.\n\n📊@tech",
-    "media_group_id": null,
-    "chat_id": -1004468214616,
-    "message_ids": [
-      11
-    ],
-    "update_ids": [
-      378303905
-    ],
-    "retry_count": 0
-  },
-  {
-    "type": "photo",
-    "photo_file_ids": [
       "AgACAgIAAyEFAAMBClOLWAADDGpVYDkeZjEJkMG2Bw6wC15CmlpRAAKAGGsbO7h5Sqk6oJ-KO60iAQADAgADeQADPAQ"
     ],
     "caption": "🫢 DDR4 Memory Prices Surge Over 50%\n\nIn Q3, prices for DDR4 8Gb DRAM modules will rise over 50%, says DigiTimes. Spot prices for DDR4 16Gb sometimes exceed DDR5 with similar specs due to strong demand and limited supply.\n\nSamsung, Micron, and SK Hynix mostly stopped DDR4 production, focusing on DDR5 and AI memory. Samsung makes DDR4 in small batches, Micron runs limited output in Virginia, while Nanya and Winbond supply most DDR4 but still fall short.\n\nCorporate SSDs with DRAM boost demand. DDR3 prices also rose, with gigabit costs now above DDR5. In early July, DDR4 4Gb costs $12.75, DDR5 16Gb $47.07, and DDR3 gigabit $3.19 versus DDR5’s $2.94.\n\n📊@tech",
@@ -491,6 +475,90 @@
     ],
     "update_ids": [
       378303916
+    ],
+    "retry_count": 0
+  },
+  {
+    "type": "video",
+    "video_file_id": "BAACAgIAAyEFAAMBClOLWAADF2pVrYRFAYZD0n04t6R10ltzgQbvAALflgACB9IZSlVWCNrY8xhjPQQ",
+    "video_file_size": 3356457,
+    "caption": "Ⓜ️ Meta’s Brain2Qwerty v2 reads silent typing\n\nMeta’s Brain2Qwerty v2 reconstructs text typed silently from continuous brain signals without exact keypress timing, reaching 61% word accuracy on average and about 70% with top users.\n\nIt processes raw MEG data through an encoder, an Aligner detecting word boundaries and embeddings, then a large language model refines the output. The system costs millions and isn’t consumer-ready.\n\nAccuracy remains low for practical use, but a near-perfect scaling law shows quality improves almost logarithmically with more data, with no saturation yet. Noninvasive thought reading may just need bigger datasets.\n\n📊@tech",
+    "entities": [
+      {
+        "offset": 0,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5431901622366124338"
+      },
+      {
+        "offset": 3,
+        "length": 42,
+        "type": "bold"
+      },
+      {
+        "offset": 54,
+        "length": 15,
+        "type": "bold"
+      },
+      {
+        "offset": 173,
+        "length": 17,
+        "type": "bold"
+      },
+      {
+        "offset": 250,
+        "length": 3,
+        "type": "bold"
+      },
+      {
+        "offset": 282,
+        "length": 7,
+        "type": "bold"
+      },
+      {
+        "offset": 339,
+        "length": 20,
+        "type": "bold"
+      },
+      {
+        "offset": 479,
+        "length": 24,
+        "type": "bold"
+      },
+      {
+        "offset": 534,
+        "length": 15,
+        "type": "bold"
+      },
+      {
+        "offset": 650,
+        "length": 2,
+        "type": "bold"
+      },
+      {
+        "offset": 650,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5449841756596101801"
+      },
+      {
+        "offset": 652,
+        "length": 5,
+        "type": "mention"
+      },
+      {
+        "offset": 652,
+        "length": 5,
+        "type": "bold"
+      }
+    ],
+    "media_group_id": null,
+    "chat_id": -1004468214616,
+    "message_ids": [
+      23
+    ],
+    "update_ids": [
+      378303917
     ],
     "retry_count": 0
   }
