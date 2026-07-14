@@ -1,21 +1,5 @@
 [
   {
-    "type": "photo",
-    "photo_file_ids": [
-      "AgACAgIAAyEFAAMBClOLWAADDWpVYFleaFiJ66fYnijVTEF964ieAAKUH2sbZ8hwShd1mombWscAAQEAAwIAA3kAAzwE"
-    ],
-    "caption": "🤖 12-Year-Old Launches AI Startup with Claude\n\nTwelve-year-old entrepreneur Mana Jumpala created an AI assistant bot that helps small businesses build long-term customer relationships. The service, developed using Claude, passed initial testing successfully.\n\nMana plans to apply to Y Combinator and a16z accelerators within two years and aims to raise venture funding afterward. Despite online interest, her age creates a barrier in face-to-face pitches where she is often not taken seriously.\n\n📊@tech",
-    "media_group_id": null,
-    "chat_id": -1004468214616,
-    "message_ids": [
-      13
-    ],
-    "update_ids": [
-      378303907
-    ],
-    "retry_count": 0
-  },
-  {
     "type": "video",
     "video_file_id": "BAACAgIAAyEFAAMBClOLWAADDmpVYGG6Vz83MjXZyQG0a8x0puKUAAKYqgAC51VYSnixfWkh73u4PAQ",
     "video_file_size": 2510054,
