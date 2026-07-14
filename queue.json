@@ -67,7 +67,7 @@
     "update_ids": [
       378303914
     ],
-    "retry_count": 0
+    "retry_count": 1
   },
   {
     "type": "video",
@@ -578,6 +578,139 @@
     ],
     "update_ids": [
       378303924
+    ],
+    "retry_count": 0
+  },
+  {
+    "type": "photo",
+    "photo_file_ids": [
+      "AgACAgQAAyEFAAMBClOLWAADH2pWf8jWvjBsdfpfw4M8KXjDj1HVAAIEDWsbJopoUlX1Jirk7GsRAQADAgADeQADPQQ"
+    ],
+    "caption": "📈 AI isn’t replacing creativity, it’s flooding the world with it.\n\nA new analysis from The Economist reveals that since ChatGPT launched, generative AI has dramatically increased the amount of content being created across almost every major creative industry.\n\nBooks, music, software, scientific papers, and even legal documents are now being produced at a pace that would have been difficult to imagine just a few years ago. Amazon has seen a surge in AI-written e-books, music platforms are receiving tens of thousands of AI-generated songs every day, developers are shipping code faster with AI copilots, researchers are publishing more papers, and lawyers are using AI to draft documents in minutes instead of hours.\n\nThe result is a world where producing content is becoming incredibly cheap and incredibly fast.\n\nBut there’s a catch.\n\nAs AI removes the cost of creation, it also creates an overwhelming flood of information. Every day, the internet fills with more articles, videos, songs, apps, and documents than any person could ever consume. The challenge is no longer making content, it’s deciding what’s worth paying attention to.\n\nIronically, AI may not create a shortage of creativity. It may create a shortage of attention.\n\nSource.\n\n@aipost 🏴",
+    "entities": [
+      {
+        "offset": 0,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5287573206343914966"
+      },
+      {
+        "offset": 3,
+        "length": 63,
+        "type": "bold"
+      },
+      {
+        "offset": 1145,
+        "length": 94,
+        "type": "bold"
+      },
+      {
+        "offset": 1241,
+        "length": 6,
+        "type": "text_link",
+        "url": "https://www.economist.com/graphic-detail/2026/06/16/did-ai-write-this-article?taid=6a4b3fb97177c90001d8f35a&utm_campaign=editorial-social&utm_content=discovery.content&utm_medium=social-media.content.np&utm_source=twitter"
+      },
+      {
+        "offset": 1250,
+        "length": 7,
+        "type": "text_link",
+        "url": "https://t.me/aipost"
+      },
+      {
+        "offset": 1258,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5431390559912614642"
+      }
+    ],
+    "media_group_id": null,
+    "chat_id": -1004468214616,
+    "message_ids": [
+      31
+    ],
+    "update_ids": [
+      378303925
+    ],
+    "retry_count": 0
+  },
+  {
+    "type": "photo",
+    "photo_file_ids": [
+      "AgACAgQAAyEFAAMBClOLWAADIGpWgbG1VbqbQd97e7PAH4I-9AoWAAIED2sbum55Ui9IR53ikDerAQADAgADeQADPQQ"
+    ],
+    "caption": "⚠️China’s AI companion robots are selling faster than anyone expected\n\nUBTech’s new U1 humanoid robot reportedly received 13,000 orders on its first day.\n\nFor comparison, Unitree, the world’s biggest humanoid robot maker, shipped around 5,500 robots in all of 2025.\n\nUnlike factory robots, the U1 is designed to fight loneliness. It can recognize 20+ emotions, react with facial expressions in under 20 milliseconds, remember your routines and conversations, and stores everything locally instead of in the cloud.\n\nChina has 118 million empty-nest seniors and 90 million people living alone, making companion robots a rapidly growing market.\n\nUBTech also offers custom versions that can look and sound like a real person, a concept that feels straight out of Black Mirror. Prices can exceed $135,000, and battery life is only 2–4 hours.\n\nOne thing is becoming clear: loneliness is turning into one of AI’s biggest markets.\n\n@aipost 🏴",
+    "entities": [
+      {
+        "offset": 0,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5316554554735607106"
+      },
+      {
+        "offset": 2,
+        "length": 67,
+        "type": "bold"
+      },
+      {
+        "offset": 838,
+        "length": 84,
+        "type": "bold"
+      },
+      {
+        "offset": 924,
+        "length": 7,
+        "type": "text_link",
+        "url": "https://t.me/aipost"
+      },
+      {
+        "offset": 932,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5431390559912614642"
+      }
+    ],
+    "media_group_id": null,
+    "chat_id": -1004468214616,
+    "message_ids": [
+      32
+    ],
+    "update_ids": [
+      378303926
+    ],
+    "retry_count": 0
+  },
+  {
+    "type": "album",
+    "photo_file_ids": [
+      "AgACAgIAAyEFAAMBClOLWAADIWpWghkg4FRReoNCuqrXDxgB38Q1AALMH2sbcRRhSvVp3ivkvzVNAQADAgADeAADPQQ",
+      "AgACAgIAAyEFAAMBClOLWAADImpWghkLZNIEtUJlym8pwJFeia4sAALNH2sbcRRhSrAs8ak6r66tAQADAgADeQADPQQ",
+      "AgACAgIAAyEFAAMBClOLWAADI2pWghkFJsEbQXnGhupd2QyYpaP_AALOH2sbcRRhSgQ2bCo3IXrRAQADAgADeQADPQQ"
+    ],
+    "caption": "Anthropic has announced a breakthrough in AI interpretability, revealing access to what appears to be an internal \"workspace\" within their Claude language model.\n\nAccording to the research, this so-called \"J-space\" allows Claude to process internal thoughts that are not externally shared, drawing parallels with aspects of human consciousness. The company states it can now observe these processes directly.\n\nAnthropic's ongoing work centers on improving interpretability in AI systems—an approach they suggest is aiding the training and reinforcement learning of advanced models such as Mythos.\n\nResearchers describe a distinctive separation inside Claude, similar to the divide between conscious and non-conscious processing in the human brain, where only a small part of ongoing mental activity is accessible for reasoning.\n\n📰 @aipost",
+    "entities": [
+      {
+        "offset": 829,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5363988332466438547"
+      },
+      {
+        "offset": 832,
+        "length": 7,
+        "type": "mention"
+      }
+    ],
+    "media_group_id": "14272434378864405",
+    "chat_id": -1004468214616,
+    "message_ids": [
+      33,
+      34,
+      35
+    ],
+    "update_ids": [
+      378303927,
+      378303928,
+      378303929
     ],
     "retry_count": 0
   }
