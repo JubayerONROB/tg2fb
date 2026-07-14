@@ -1,0 +1,71 @@
+[
+  {
+    "type": "video",
+    "video_file_id": "BAACAgIAAyEFAAMBClOLWAADFmpVZZF4mKiVcbTebmhf9QRRcmdNAAKCoAAChwMoSpzzaff1pN2lPAQ",
+    "video_file_size": 30206059,
+    "caption": "🤖 Anthropic launches Claude Science for research\n\nAnthropic introduced Claude Science, an AI agent designed as an end-to-end research infrastructure. It handles literature search, data analysis, computation, visualization, and article preparation in one interface.\n\nClaude Science comes with a built-in skill base and offers various visualizations and artifact displays. It is currently in beta and available as an app for MacOS and Linux.\n\n📊@tech",
+    "entities": [
+      {
+        "offset": 0,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5208665212483310136"
+      },
+      {
+        "offset": 3,
+        "length": 46,
+        "type": "bold"
+      },
+      {
+        "offset": 72,
+        "length": 14,
+        "type": "bold"
+      },
+      {
+        "offset": 115,
+        "length": 34,
+        "type": "bold"
+      },
+      {
+        "offset": 295,
+        "length": 19,
+        "type": "bold"
+      },
+      {
+        "offset": 391,
+        "length": 4,
+        "type": "bold"
+      },
+      {
+        "offset": 442,
+        "length": 2,
+        "type": "bold"
+      },
+      {
+        "offset": 442,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5449841756596101801"
+      },
+      {
+        "offset": 444,
+        "length": 5,
+        "type": "mention"
+      },
+      {
+        "offset": 444,
+        "length": 5,
+        "type": "bold"
+      }
+    ],
+    "media_group_id": null,
+    "chat_id": -1004468214616,
+    "message_ids": [
+      22
+    ],
+    "update_ids": [
+      378303916
+    ],
+    "retry_count": 0
+  }
+]
