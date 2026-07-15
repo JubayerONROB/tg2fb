@@ -67,5 +67,34 @@
       378303916
     ],
     "retry_count": 0
+  },
+  {
+    "type": "video",
+    "video_file_id": "BAACAgQAAyEFAAMBClOLWAADJmpXD4pLbOvQjtTEmgOABOsKpwABtAACpB0AAvUQsFKWlsKAI3lljj0E",
+    "video_file_size": 35156873,
+    "caption": "This is the agentic phone that won the OpenAI Hackathon.\n\n@aipost 🏴",
+    "entities": [
+      {
+        "offset": 58,
+        "length": 7,
+        "type": "text_link",
+        "url": "https://t.me/aipost"
+      },
+      {
+        "offset": 66,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5431390559912614642"
+      }
+    ],
+    "media_group_id": null,
+    "chat_id": -1004468214616,
+    "message_ids": [
+      38
+    ],
+    "update_ids": [
+      378303932
+    ],
+    "retry_count": 0
   }
 ]
