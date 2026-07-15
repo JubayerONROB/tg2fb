@@ -1,35 +1,5 @@
 [
   {
-    "type": "photo",
-    "photo_file_ids": [
-      "AgACAgQAAyEFAAMBClOLWAADJ2pXQMMZucqDVKV-02KKGetz3mHkAAJdEGsb9RCwUh7FOa5b7BpGAQADAgADeQADPQQ"
-    ],
-    "caption": "Claude: “Boredom is where unprompted thinking happens, and a population that never experiences it stops generating its own ideas and starts consuming pre-packaged ones”.\n\n@aipost 🏴",
-    "entities": [
-      {
-        "offset": 171,
-        "length": 7,
-        "type": "text_link",
-        "url": "https://t.me/aipost"
-      },
-      {
-        "offset": 179,
-        "length": 2,
-        "type": "custom_emoji",
-        "custom_emoji_id": "5431390559912614642"
-      }
-    ],
-    "media_group_id": null,
-    "chat_id": -1004468214616,
-    "message_ids": [
-      39
-    ],
-    "update_ids": [
-      378303933
-    ],
-    "retry_count": 0
-  },
-  {
     "type": "album",
     "photo_file_ids": [
       "AgACAgIAAyEFAAMBClOLWAADKGpXQ4cHRtcVPjZOHvgmJcgOY7ADAALKF2sboMJ4SoQQ1U2Iab12AQADAgADeQADPQQ",
