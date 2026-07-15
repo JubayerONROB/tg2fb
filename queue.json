@@ -1,40 +1,5 @@
 [
   {
-    "type": "album",
-    "photo_file_ids": [
-      "AgACAgIAAyEFAAMBClOLWAADIWpWghkg4FRReoNCuqrXDxgB38Q1AALMH2sbcRRhSvVp3ivkvzVNAQADAgADeAADPQQ",
-      "AgACAgIAAyEFAAMBClOLWAADImpWghkLZNIEtUJlym8pwJFeia4sAALNH2sbcRRhSrAs8ak6r66tAQADAgADeQADPQQ",
-      "AgACAgIAAyEFAAMBClOLWAADI2pWghkFJsEbQXnGhupd2QyYpaP_AALOH2sbcRRhSgQ2bCo3IXrRAQADAgADeQADPQQ"
-    ],
-    "caption": "Anthropic has announced a breakthrough in AI interpretability, revealing access to what appears to be an internal \"workspace\" within their Claude language model.\n\nAccording to the research, this so-called \"J-space\" allows Claude to process internal thoughts that are not externally shared, drawing parallels with aspects of human consciousness. The company states it can now observe these processes directly.\n\nAnthropic's ongoing work centers on improving interpretability in AI systems—an approach they suggest is aiding the training and reinforcement learning of advanced models such as Mythos.\n\nResearchers describe a distinctive separation inside Claude, similar to the divide between conscious and non-conscious processing in the human brain, where only a small part of ongoing mental activity is accessible for reasoning.\n\n📰 @aipost",
-    "entities": [
-      {
-        "offset": 829,
-        "length": 2,
-        "type": "custom_emoji",
-        "custom_emoji_id": "5363988332466438547"
-      },
-      {
-        "offset": 832,
-        "length": 7,
-        "type": "mention"
-      }
-    ],
-    "media_group_id": "14272434378864405",
-    "chat_id": -1004468214616,
-    "message_ids": [
-      33,
-      34,
-      35
-    ],
-    "update_ids": [
-      378303927,
-      378303928,
-      378303929
-    ],
-    "retry_count": 0
-  },
-  {
     "type": "video",
     "video_file_id": "BAACAgQAAyEFAAMBClOLWAADJmpXD4pLbOvQjtTEmgOABOsKpwABtAACpB0AAvUQsFKWlsKAI3lljj0E",
     "video_file_size": 35156873,
