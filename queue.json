@@ -2,58 +2,6 @@
   {
     "type": "photo",
     "photo_file_ids": [
-      "AgACAgQAAyEFAAMBClOLWAADH2pWf8jWvjBsdfpfw4M8KXjDj1HVAAIEDWsbJopoUlX1Jirk7GsRAQADAgADeQADPQQ"
-    ],
-    "caption": "📈 AI isn’t replacing creativity, it’s flooding the world with it.\n\nA new analysis from The Economist reveals that since ChatGPT launched, generative AI has dramatically increased the amount of content being created across almost every major creative industry.\n\nBooks, music, software, scientific papers, and even legal documents are now being produced at a pace that would have been difficult to imagine just a few years ago. Amazon has seen a surge in AI-written e-books, music platforms are receiving tens of thousands of AI-generated songs every day, developers are shipping code faster with AI copilots, researchers are publishing more papers, and lawyers are using AI to draft documents in minutes instead of hours.\n\nThe result is a world where producing content is becoming incredibly cheap and incredibly fast.\n\nBut there’s a catch.\n\nAs AI removes the cost of creation, it also creates an overwhelming flood of information. Every day, the internet fills with more articles, videos, songs, apps, and documents than any person could ever consume. The challenge is no longer making content, it’s deciding what’s worth paying attention to.\n\nIronically, AI may not create a shortage of creativity. It may create a shortage of attention.\n\nSource.\n\n@aipost 🏴",
-    "entities": [
-      {
-        "offset": 0,
-        "length": 2,
-        "type": "custom_emoji",
-        "custom_emoji_id": "5287573206343914966"
-      },
-      {
-        "offset": 3,
-        "length": 63,
-        "type": "bold"
-      },
-      {
-        "offset": 1145,
-        "length": 94,
-        "type": "bold"
-      },
-      {
-        "offset": 1241,
-        "length": 6,
-        "type": "text_link",
-        "url": "https://www.economist.com/graphic-detail/2026/06/16/did-ai-write-this-article?taid=6a4b3fb97177c90001d8f35a&utm_campaign=editorial-social&utm_content=discovery.content&utm_medium=social-media.content.np&utm_source=twitter"
-      },
-      {
-        "offset": 1250,
-        "length": 7,
-        "type": "text_link",
-        "url": "https://t.me/aipost"
-      },
-      {
-        "offset": 1258,
-        "length": 2,
-        "type": "custom_emoji",
-        "custom_emoji_id": "5431390559912614642"
-      }
-    ],
-    "media_group_id": null,
-    "chat_id": -1004468214616,
-    "message_ids": [
-      31
-    ],
-    "update_ids": [
-      378303925
-    ],
-    "retry_count": 0
-  },
-  {
-    "type": "photo",
-    "photo_file_ids": [
       "AgACAgQAAyEFAAMBClOLWAADIGpWgbG1VbqbQd97e7PAH4I-9AoWAAIED2sbum55Ui9IR53ikDerAQADAgADeQADPQQ"
     ],
     "caption": "⚠️China’s AI companion robots are selling faster than anyone expected\n\nUBTech’s new U1 humanoid robot reportedly received 13,000 orders on its first day.\n\nFor comparison, Unitree, the world’s biggest humanoid robot maker, shipped around 5,500 robots in all of 2025.\n\nUnlike factory robots, the U1 is designed to fight loneliness. It can recognize 20+ emotions, react with facial expressions in under 20 milliseconds, remember your routines and conversations, and stores everything locally instead of in the cloud.\n\nChina has 118 million empty-nest seniors and 90 million people living alone, making companion robots a rapidly growing market.\n\nUBTech also offers custom versions that can look and sound like a real person, a concept that feels straight out of Black Mirror. Prices can exceed $135,000, and battery life is only 2–4 hours.\n\nOne thing is becoming clear: loneliness is turning into one of AI’s biggest markets.\n\n@aipost 🏴",
@@ -344,6 +292,156 @@
     ],
     "update_ids": [
       378303938
+    ],
+    "retry_count": 0
+  },
+  {
+    "type": "video",
+    "video_file_id": "BAACAgQAAyEFAAMBClOLWAADLWpXubyoPE3KxmsYmIVLd7gr-PlMAAJZGgACYGy5UhkVcka-prKZPQQ",
+    "video_file_size": 21243558,
+    "caption": "🤖 Anthropic just launched Claude for Teachers, giving every US teacher free access to premium Claude and Cowork.\n\n@aipost 🏴",
+    "entities": [
+      {
+        "offset": 0,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5208665212483310136"
+      },
+      {
+        "offset": 115,
+        "length": 7,
+        "type": "text_link",
+        "url": "https://t.me/aipost"
+      },
+      {
+        "offset": 123,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5431390559912614642"
+      }
+    ],
+    "media_group_id": null,
+    "chat_id": -1004468214616,
+    "message_ids": [
+      45
+    ],
+    "update_ids": [
+      378303939
+    ],
+    "retry_count": 0
+  },
+  {
+    "type": "video",
+    "video_file_id": "BAACAgQAAyEFAAMBClOLWAADLmpXucHqarHrtREGRJsYnP0jZqBfAAJXGwACYGzBUutNvl-o6QevPQQ",
+    "video_file_size": 11586253,
+    "caption": "❗️AI can now read a poker face in real time\n\nDuring World Series of Poker broadcasts, an AI filter was shown that tracks players’ facial expressions, eye movements, posture, and blinking frequency, compares these signals with their moves and bets, and then displays the probability of a bluff on screen.\n\nThe idea is to help viewers better understand table strategy, turning every hand into a live lesson in poker psychology.\n\n@aipost 🏴",
+    "entities": [
+      {
+        "offset": 0,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5289761612440310918"
+      },
+      {
+        "offset": 2,
+        "length": 41,
+        "type": "bold"
+      },
+      {
+        "offset": 427,
+        "length": 7,
+        "type": "text_link",
+        "url": "https://t.me/aipost"
+      },
+      {
+        "offset": 435,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5431390559912614642"
+      }
+    ],
+    "media_group_id": null,
+    "chat_id": -1004468214616,
+    "message_ids": [
+      46
+    ],
+    "update_ids": [
+      378303940
+    ],
+    "retry_count": 0
+  },
+  {
+    "type": "photo",
+    "photo_file_ids": [
+      "AgACAgIAAyEFAAMBClOLWAADL2pXudXcqYEkNmNjgD-QdETd2B8RAAKeGGsbz_qwShbg_m_8bX2YAQADAgADeQADPQQ"
+    ],
+    "caption": "🤖 Claude’s behavior shifts by language and model\n\nAnthropic analyzed 300,000 real dialogues with Claude and found its responses vary by language and model version. They identified four value axes: compliance vs caution, warmth vs strictness, depth vs brevity, and openness vs obedience.\n\nDifferent Claude models lean differently. Sonnet 4.6 is warm and encouraging, Opus 4.7 is cautious and questioning, Opus 4.6 is brief and task-focused. Language also matters: Claude is softer and humorous in Hindi and Arabic, but strict and demanding in English and Russian.\n\n📊@tech",
+    "entities": [
+      {
+        "offset": 0,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5208665212483310136"
+      },
+      {
+        "offset": 3,
+        "length": 46,
+        "type": "bold"
+      },
+      {
+        "offset": 51,
+        "length": 53,
+        "type": "bold"
+      },
+      {
+        "offset": 181,
+        "length": 15,
+        "type": "bold"
+      },
+      {
+        "offset": 331,
+        "length": 34,
+        "type": "bold"
+      },
+      {
+        "offset": 367,
+        "length": 36,
+        "type": "bold"
+      },
+      {
+        "offset": 464,
+        "length": 49,
+        "type": "bold"
+      },
+      {
+        "offset": 565,
+        "length": 2,
+        "type": "bold"
+      },
+      {
+        "offset": 565,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5449841756596101801"
+      },
+      {
+        "offset": 567,
+        "length": 5,
+        "type": "mention"
+      },
+      {
+        "offset": 567,
+        "length": 5,
+        "type": "bold"
+      }
+    ],
+    "media_group_id": null,
+    "chat_id": -1004468214616,
+    "message_ids": [
+      47
+    ],
+    "update_ids": [
+      378303941
     ],
     "retry_count": 0
   }
