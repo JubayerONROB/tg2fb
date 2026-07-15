@@ -1,51 +1,5 @@
 [
   {
-    "type": "photo",
-    "photo_file_ids": [
-      "AgACAgQAAyEFAAMBClOLWAADIGpWgbG1VbqbQd97e7PAH4I-9AoWAAIED2sbum55Ui9IR53ikDerAQADAgADeQADPQQ"
-    ],
-    "caption": "⚠️China’s AI companion robots are selling faster than anyone expected\n\nUBTech’s new U1 humanoid robot reportedly received 13,000 orders on its first day.\n\nFor comparison, Unitree, the world’s biggest humanoid robot maker, shipped around 5,500 robots in all of 2025.\n\nUnlike factory robots, the U1 is designed to fight loneliness. It can recognize 20+ emotions, react with facial expressions in under 20 milliseconds, remember your routines and conversations, and stores everything locally instead of in the cloud.\n\nChina has 118 million empty-nest seniors and 90 million people living alone, making companion robots a rapidly growing market.\n\nUBTech also offers custom versions that can look and sound like a real person, a concept that feels straight out of Black Mirror. Prices can exceed $135,000, and battery life is only 2–4 hours.\n\nOne thing is becoming clear: loneliness is turning into one of AI’s biggest markets.\n\n@aipost 🏴",
-    "entities": [
-      {
-        "offset": 0,
-        "length": 2,
-        "type": "custom_emoji",
-        "custom_emoji_id": "5316554554735607106"
-      },
-      {
-        "offset": 2,
-        "length": 67,
-        "type": "bold"
-      },
-      {
-        "offset": 838,
-        "length": 84,
-        "type": "bold"
-      },
-      {
-        "offset": 924,
-        "length": 7,
-        "type": "text_link",
-        "url": "https://t.me/aipost"
-      },
-      {
-        "offset": 932,
-        "length": 2,
-        "type": "custom_emoji",
-        "custom_emoji_id": "5431390559912614642"
-      }
-    ],
-    "media_group_id": null,
-    "chat_id": -1004468214616,
-    "message_ids": [
-      32
-    ],
-    "update_ids": [
-      378303926
-    ],
-    "retry_count": 0
-  },
-  {
     "type": "album",
     "photo_file_ids": [
       "AgACAgIAAyEFAAMBClOLWAADIWpWghkg4FRReoNCuqrXDxgB38Q1AALMH2sbcRRhSvVp3ivkvzVNAQADAgADeAADPQQ",
@@ -442,6 +396,38 @@
     ],
     "update_ids": [
       378303941
+    ],
+    "retry_count": 0
+  },
+  {
+    "type": "album",
+    "photo_file_ids": [
+      "AgACAgIAAyEFAAMBClOLWAADMGpXxcI5mPwmq8Dhr5n20skbGpF0AAIkG2sbwRS4Sl_HeHlBkvWaAQADAgADeAADPQQ",
+      "AgACAgIAAyEFAAMBClOLWAADMWpXxcL4CByxxufXuu0ICluS8nOVAAIlG2sbwRS4SiKx2xtJWEIdAQADAgADeAADPQQ"
+    ],
+    "caption": "OpenAI has introduced Codex Micro, its first hardware product, positioned as a compact control deck for coding tasks. \n\nThe device, priced at $230, features RGB-lit status keys, dedicated shortcuts for frequently used Codex commands, and a dial to modify reasoning effort. Codex Micro aims to streamline the management of multiple coding agents, providing a more direct interface that reduces reliance on chat switching.\n\nDeveloped in collaboration with Work Louder, Codex Micro is compatible with both Mac and Windows platforms. Users have the ability to customize button functions and joystick mappings, as well as keep pinned chats visible. Stock availability may be limited.\n\n📰 @aipost",
+    "entities": [
+      {
+        "offset": 680,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5363988332466438547"
+      },
+      {
+        "offset": 683,
+        "length": 7,
+        "type": "mention"
+      }
+    ],
+    "media_group_id": "14273097234680349",
+    "chat_id": -1004468214616,
+    "message_ids": [
+      48,
+      49
+    ],
+    "update_ids": [
+      378303942,
+      378303943
     ],
     "retry_count": 0
   }
