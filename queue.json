@@ -1,22 +1,6 @@
 [
   {
     "type": "video",
-    "video_file_id": "BAACAgUAAyEFAAMBClOLWAADG2pWaoNosm0OfW3B4zySAAF5cAxagwACMicAAr3-sVY2-rR7zxpi6z0E",
-    "video_file_size": 5672006,
-    "caption": "Duolingo is cooked 💀\n\nGPT-Live fixes grammar while you speak",
-    "entities": [],
-    "media_group_id": null,
-    "chat_id": -1004468214616,
-    "message_ids": [
-      27
-    ],
-    "update_ids": [
-      378303921
-    ],
-    "retry_count": 0
-  },
-  {
-    "type": "video",
     "video_file_id": "BAACAgQAAyEFAAMBClOLWAADHGpWckUnCtVyL4LZl06qXX2tt_uHAAJTHgACQquhUsza7BqS-JMxPQQ",
     "video_file_size": 13838525,
     "caption": "Deep robotics introduced Lynx, their quadruple- wheeled robot that tackles rocky riverbeds, muddy underwater terrain, and harsh outdoor environments with exceptional stability and mobility.\n\n@aipost 🏴",
@@ -284,6 +268,192 @@
     ],
     "update_ids": [
       378303932
+    ],
+    "retry_count": 0
+  },
+  {
+    "type": "photo",
+    "photo_file_ids": [
+      "AgACAgQAAyEFAAMBClOLWAADJ2pXQMMZucqDVKV-02KKGetz3mHkAAJdEGsb9RCwUh7FOa5b7BpGAQADAgADeQADPQQ"
+    ],
+    "caption": "Claude: “Boredom is where unprompted thinking happens, and a population that never experiences it stops generating its own ideas and starts consuming pre-packaged ones”.\n\n@aipost 🏴",
+    "entities": [
+      {
+        "offset": 171,
+        "length": 7,
+        "type": "text_link",
+        "url": "https://t.me/aipost"
+      },
+      {
+        "offset": 179,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5431390559912614642"
+      }
+    ],
+    "media_group_id": null,
+    "chat_id": -1004468214616,
+    "message_ids": [
+      39
+    ],
+    "update_ids": [
+      378303933
+    ],
+    "retry_count": 0
+  },
+  {
+    "type": "album",
+    "photo_file_ids": [
+      "AgACAgIAAyEFAAMBClOLWAADKGpXQ4cHRtcVPjZOHvgmJcgOY7ADAALKF2sboMJ4SoQQ1U2Iab12AQADAgADeQADPQQ",
+      "AgACAgIAAyEFAAMBClOLWAADKWpXQ4f1uyoUFfarVBRc97a6JTzdAALLF2sboMJ4SmlJj3SnqC8bAQADAgADeQADPQQ",
+      "AgACAgIAAyEFAAMBClOLWAADKmpXQ4dQojqkd7-DZj4MEAEI1tleAALMF2sboMJ4SqJqiRCPfHDHAQADAgADeQADPQQ",
+      "AgACAgIAAyEFAAMBClOLWAADK2pXQ4fwV1YQHqFl9cBjQ0rMupDXAALNF2sboMJ4ShJeafazSLeBAQADAgADeQADPQQ"
+    ],
+    "caption": "Anthropic just published the ultimate guide to AI loops\n\nIf you’re building with Claude Code, this is one of the best resources Anthropic has released so far.\n\nThe guide explains all four loop patterns, when to use each one, and how to avoid burning through tokens unnecessarily.\n\nThe four loop types:\n\n1️⃣ Turn-based: iterate until the current task is complete\n\n2️⃣ Goal-based: keep working until a specific goal is reached (/goal)\n\n3️⃣ Time-based: run tasks on a schedule (/loop, /schedule)\n\n4️⃣ Proactive: autonomous workflows that combine goals, schedules, verification, and sub-agents\n\nIt also covers:\n\n• how to build reliable verification checks\n• how to define clear stop conditions\n• how to avoid infinite loops and runaway token usage\n• when each loop type is the right choice\n\nIf you’re building AI agents with Claude Code, this is a guide you’ll probably come back to more than once.\n\n🔗 https://x.com/ClaudeDevs/status/2074208949205881033\n\nFollow @ainews_daily for more quality AI insights!",
+    "entities": [
+      {
+        "offset": 0,
+        "length": 55,
+        "type": "bold"
+      },
+      {
+        "offset": 81,
+        "length": 11,
+        "type": "bold"
+      },
+      {
+        "offset": 179,
+        "length": 22,
+        "type": "bold"
+      },
+      {
+        "offset": 281,
+        "length": 20,
+        "type": "bold"
+      },
+      {
+        "offset": 307,
+        "length": 10,
+        "type": "bold"
+      },
+      {
+        "offset": 367,
+        "length": 10,
+        "type": "bold"
+      },
+      {
+        "offset": 426,
+        "length": 5,
+        "type": "bot_command"
+      },
+      {
+        "offset": 438,
+        "length": 10,
+        "type": "bold"
+      },
+      {
+        "offset": 475,
+        "length": 5,
+        "type": "bot_command"
+      },
+      {
+        "offset": 482,
+        "length": 9,
+        "type": "bot_command"
+      },
+      {
+        "offset": 498,
+        "length": 9,
+        "type": "bold"
+      },
+      {
+        "offset": 899,
+        "length": 51,
+        "type": "text_link",
+        "url": "https://x.com/ClaudeDevs/status/2074208949205881033"
+      },
+      {
+        "offset": 959,
+        "length": 13,
+        "type": "mention"
+      }
+    ],
+    "media_group_id": "14272830521957789",
+    "chat_id": -1004468214616,
+    "message_ids": [
+      40,
+      41,
+      42,
+      43
+    ],
+    "update_ids": [
+      378303934,
+      378303935,
+      378303936,
+      378303937
+    ],
+    "retry_count": 0
+  },
+  {
+    "type": "video",
+    "video_file_id": "BAACAgIAAyEFAAMBClOLWAADLGpXQ_sVwDpFEn8iMK3BSapv5oFRAAJepgACT8FwSj2sV8XPWFh0PQQ",
+    "video_file_size": 10617865,
+    "caption": "NotebookLM just got a killer new feature\n\nGoogle can now turn PDFs, articles, notes, and other documents into 60-second vertical videos right inside NotebookLM.\n\nHere’s what you get:\n• AI-generated visuals powered by Nano Banana 2 Lite\n• automatic voice narration\n• the ability to choose what the video focuses on\n• support on both the web and mobile apps\n\nInstead of reading through a long document, you get a quick, scroll-friendly video that highlights the key points.\n\nThe feature is rolling out to Google AI Pro and Ultra subscribers first, with a broader release coming soon.\n\n👀 Definitely one to try.\n\n🔗 https://notebooklm.google.com/\n\nFollow @ainews_daily for more quality AI insights!",
+    "entities": [
+      {
+        "offset": 0,
+        "length": 40,
+        "type": "bold"
+      },
+      {
+        "offset": 62,
+        "length": 73,
+        "type": "bold"
+      },
+      {
+        "offset": 162,
+        "length": 20,
+        "type": "bold"
+      },
+      {
+        "offset": 217,
+        "length": 18,
+        "type": "bold"
+      },
+      {
+        "offset": 336,
+        "length": 3,
+        "type": "bold"
+      },
+      {
+        "offset": 344,
+        "length": 6,
+        "type": "bold"
+      },
+      {
+        "offset": 503,
+        "length": 23,
+        "type": "bold"
+      },
+      {
+        "offset": 613,
+        "length": 29,
+        "type": "text_link",
+        "url": "https://notebooklm.google.com/"
+      },
+      {
+        "offset": 652,
+        "length": 13,
+        "type": "mention"
+      }
+    ],
+    "media_group_id": null,
+    "chat_id": -1004468214616,
+    "message_ids": [
+      44
+    ],
+    "update_ids": [
+      378303938
     ],
     "retry_count": 0
   }
