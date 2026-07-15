@@ -2,36 +2,6 @@
   {
     "type": "photo",
     "photo_file_ids": [
-      "AgACAgQAAyEFAAMBClOLWAADHWpWclAnZm21qqzpfU0s_xUMFeiCAAL5D2sbQquhUtoNybefg6D4AQADAgADeQADPQQ"
-    ],
-    "caption": "The biggest scam humanity has collectively accepted as normal, according to Claude.\n\n@aipost 🏴",
-    "entities": [
-      {
-        "offset": 85,
-        "length": 7,
-        "type": "text_link",
-        "url": "https://t.me/aipost"
-      },
-      {
-        "offset": 93,
-        "length": 2,
-        "type": "custom_emoji",
-        "custom_emoji_id": "5431390559912614642"
-      }
-    ],
-    "media_group_id": null,
-    "chat_id": -1004468214616,
-    "message_ids": [
-      29
-    ],
-    "update_ids": [
-      378303923
-    ],
-    "retry_count": 0
-  },
-  {
-    "type": "photo",
-    "photo_file_ids": [
       "AgACAgQAAyEFAAMBClOLWAADHmpWcxjO9xhoGf5nP9PwkXBlVUv2AAIRD2sbum6BUsDmd6loT3uhAQADAgADeAADPQQ"
     ],
     "caption": "👓 Meta is building AI glasses that could remember your entire day\n\nImagine wearing glasses that quietly keep track of what you see and hear all day, then letting you ask questions like “Where did I leave my keys?” or “Who did I meet this morning?” That’s reportedly what Meta is testing with a new “super sensing” mode for its AI glasses.\n\nInstead of recording only when you press a button, the glasses could continuously capture audio and snap photos every few seconds, giving Meta AI a constant stream of context to act as a real-world memory assistant.\n\nThe report also claims Meta has debated whether the recording indicator light should remain off during passive data collection, raising concerns that people nearby may not realize they’re being recorded.\n\nSome versions may upload only metadata rather than full images or audio, but Meta is reportedly also exploring whether the collected data could be used to train future AI models.\n\n@aipost 🏴",
