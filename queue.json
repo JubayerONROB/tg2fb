@@ -1,75 +1,6 @@
 [
   {
     "type": "video",
-    "video_file_id": "BAACAgIAAyEFAAMBClOLWAADGmpWZHN8kbWLEOgTxR_DEgTmWb60AAJUswAC3oipSrZCyC8ISMObPQQ",
-    "video_file_size": 9836332,
-    "caption": "🍏 Apple sues OpenAI over trade secrets\n\nApple accuses OpenAI of recruiting former Apple employees to steal trade secrets for a new device designed by ex-Apple design chief Jony Ive. The lawsuit names two former Apple staff, Tang Tan and Chang Liu, alleging they brought confidential info to OpenAI and bypassed Apple's exit procedures.\n\nTang Tan reportedly asked Apple candidates to bring real device parts and share secret details during interviews. Chang Liu allegedly downloaded sensitive files after joining OpenAI. Apple also claims OpenAI sought demos of Apple's metal processing tech from its suppliers.\n\n📊@tech",
-    "entities": [
-      {
-        "offset": 0,
-        "length": 2,
-        "type": "custom_emoji",
-        "custom_emoji_id": "5398012024003246287"
-      },
-      {
-        "offset": 3,
-        "length": 36,
-        "type": "bold"
-      },
-      {
-        "offset": 225,
-        "length": 8,
-        "type": "bold"
-      },
-      {
-        "offset": 238,
-        "length": 9,
-        "type": "bold"
-      },
-      {
-        "offset": 338,
-        "length": 8,
-        "type": "bold"
-      },
-      {
-        "offset": 452,
-        "length": 9,
-        "type": "bold"
-      },
-      {
-        "offset": 613,
-        "length": 2,
-        "type": "bold"
-      },
-      {
-        "offset": 613,
-        "length": 2,
-        "type": "custom_emoji",
-        "custom_emoji_id": "5449841756596101801"
-      },
-      {
-        "offset": 615,
-        "length": 5,
-        "type": "mention"
-      },
-      {
-        "offset": 615,
-        "length": 5,
-        "type": "bold"
-      }
-    ],
-    "media_group_id": null,
-    "chat_id": -1004468214616,
-    "message_ids": [
-      26
-    ],
-    "update_ids": [
-      378303920
-    ],
-    "retry_count": 0
-  },
-  {
-    "type": "video",
     "video_file_id": "BAACAgUAAyEFAAMBClOLWAADG2pWaoNosm0OfW3B4zySAAF5cAxagwACMicAAr3-sVY2-rR7zxpi6z0E",
     "video_file_size": 5672006,
     "caption": "Duolingo is cooked 💀\n\nGPT-Live fixes grammar while you speak",
@@ -324,6 +255,35 @@
       378303927,
       378303928,
       378303929
+    ],
+    "retry_count": 0
+  },
+  {
+    "type": "video",
+    "video_file_id": "BAACAgQAAyEFAAMBClOLWAADJmpXD4pLbOvQjtTEmgOABOsKpwABtAACpB0AAvUQsFKWlsKAI3lljj0E",
+    "video_file_size": 35156873,
+    "caption": "This is the agentic phone that won the OpenAI Hackathon.\n\n@aipost 🏴",
+    "entities": [
+      {
+        "offset": 58,
+        "length": 7,
+        "type": "text_link",
+        "url": "https://t.me/aipost"
+      },
+      {
+        "offset": 66,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5431390559912614642"
+      }
+    ],
+    "media_group_id": null,
+    "chat_id": -1004468214616,
+    "message_ids": [
+      38
+    ],
+    "update_ids": [
+      378303932
     ],
     "retry_count": 0
   }
