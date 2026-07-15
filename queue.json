@@ -1,34 +1,5 @@
 [
   {
-    "type": "video",
-    "video_file_id": "BAACAgQAAyEFAAMBClOLWAADHGpWckUnCtVyL4LZl06qXX2tt_uHAAJTHgACQquhUsza7BqS-JMxPQQ",
-    "video_file_size": 13838525,
-    "caption": "Deep robotics introduced Lynx, their quadruple- wheeled robot that tackles rocky riverbeds, muddy underwater terrain, and harsh outdoor environments with exceptional stability and mobility.\n\n@aipost 🏴",
-    "entities": [
-      {
-        "offset": 191,
-        "length": 7,
-        "type": "text_link",
-        "url": "https://t.me/aipost"
-      },
-      {
-        "offset": 199,
-        "length": 2,
-        "type": "custom_emoji",
-        "custom_emoji_id": "5431390559912614642"
-      }
-    ],
-    "media_group_id": null,
-    "chat_id": -1004468214616,
-    "message_ids": [
-      28
-    ],
-    "update_ids": [
-      378303922
-    ],
-    "retry_count": 0
-  },
-  {
     "type": "photo",
     "photo_file_ids": [
       "AgACAgQAAyEFAAMBClOLWAADHWpWclAnZm21qqzpfU0s_xUMFeiCAAL5D2sbQquhUtoNybefg6D4AQADAgADeQADPQQ"
