@@ -44,58 +44,6 @@
     "media_group_id": null,
     "chat_id": -1004468214616,
     "message_ids": [
-      52
-    ],
-    "update_ids": [
-      378303946
-    ],
-    "retry_count": 0
-  },
-  {
-    "type": "photo",
-    "photo_file_ids": [
-      "AgACAgQAAyEFAAMBClOLWAADNGpYnUasCKdiDUX6pP1rUTOMvQ44AAJXD2sbYGzBUgkmd4vYwn1wAQADAgADeQADPQQ"
-    ],
-    "caption": "🧠 Demis Hassabis says AGI Is just years away and he’s never sounded more optimistic\n\nDemis Hassabis, CEO of Google DeepMind and the 2024 Nobel Prize winner in Chemistry for AlphaFold, has published one of his boldest essays yet on the future of AI.\n\nFor years, Hassabis has been one of the industry’s most cautious voices, often pushing back on exaggerated AGI timelines. That’s why his latest prediction carries extra weight.\n\n“AGI cannot be compared to standard technological breakthroughs, not even ones as consequential as the internet or mobile, it is much more akin to the discovery of electricity or fire.”\n\nHe argues that AGI could have 10× the impact of the Industrial Revolution, at 10× the speed, fundamentally reshaping science, medicine, and society.\n\nBut the essay isn’t just optimistic. Hassabis also warns that the race between companies and nations is accelerating AI capabilities faster than our ability to fully understand or govern them. He points to growing cybersecurity risks today, with biological and even nuclear threats potentially following, making robust safety measures and regulation increasingly urgent.\n\nOne of AI’s most respected and historically cautious figures now believes AGI is likely only a few years away and says we need to start building the institutions to manage it before it arrives.\n\n@aipost 🏴",
-    "entities": [
-      {
-        "offset": 0,
-        "length": 2,
-        "type": "custom_emoji",
-        "custom_emoji_id": "5895617412975299964"
-      },
-      {
-        "offset": 3,
-        "length": 81,
-        "type": "bold"
-      },
-      {
-        "offset": 189,
-        "length": 9,
-        "type": "text_link",
-        "url": "https://x.com/demishassabis/status/2076957440109625718?s=46"
-      },
-      {
-        "offset": 429,
-        "length": 185,
-        "type": "blockquote"
-      },
-      {
-        "offset": 1333,
-        "length": 7,
-        "type": "text_link",
-        "url": "https://t.me/aipost"
-      },
-      {
-        "offset": 1341,
-        "length": 2,
-        "type": "custom_emoji",
-        "custom_emoji_id": "5431390559912614642"
-      }
-    ],
-    "media_group_id": null,
-    "chat_id": -1004468214616,
-    "message_ids": [
       53
     ],
     "update_ids": [
