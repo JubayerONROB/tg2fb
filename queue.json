@@ -1,39 +1,5 @@
 [
   {
-    "type": "video",
-    "video_file_id": "BAACAgQAAyEFAAMBClOLWAADM2pYWMzZ_OUutXVIMYGtmedX9hJZAAJaGgACYGy5UpawoZu4Qj2yPQQ",
-    "video_file_size": 2222491,
-    "caption": "Crazy… Air humanoid Jordan\n\nMagic Lab has released a demo:\nThe full-sized humanoid robot MagicBot X1 performs a flying slam dunk.\n\n@aipost 🏴",
-    "entities": [
-      {
-        "offset": 0,
-        "length": 26,
-        "type": "bold"
-      },
-      {
-        "offset": 131,
-        "length": 7,
-        "type": "text_link",
-        "url": "https://t.me/aipost"
-      },
-      {
-        "offset": 139,
-        "length": 2,
-        "type": "custom_emoji",
-        "custom_emoji_id": "5431390559912614642"
-      }
-    ],
-    "media_group_id": null,
-    "chat_id": -1004468214616,
-    "message_ids": [
-      51
-    ],
-    "update_ids": [
-      378303945
-    ],
-    "retry_count": 0
-  },
-  {
     "type": "photo",
     "photo_file_ids": [
       "AgACAgQAAyEFAAMBClOLWAADNGpYnUasCKdiDUX6pP1rUTOMvQ44AAJXD2sbYGzBUgkmd4vYwn1wAQADAgADeQADPQQ"
@@ -531,6 +497,116 @@
     ],
     "update_ids": [
       378303953
+    ],
+    "retry_count": 0
+  },
+  {
+    "type": "video",
+    "video_file_id": "BAACAgQAAyEFAAMBClOLWAADPGpZFJNKxhhShHukL_4a1h72orUvAAIJGwACYGzJUjDImvBoENtqPQQ",
+    "video_file_size": 31647068,
+    "caption": "🗣️“AI is not a good business unless it earns real cash.”\n\nWarren Buffett, chairman and CEO of Berkshire Hathaway, says great companies generate high returns on capital for decades.\n\nThe real AI race is not about spending more, but compounding capital better. Intelligence only transforms the economy when it becomes durable cash flow.\n\n@aipost 🏴",
+    "entities": [
+      {
+        "offset": 0,
+        "length": 3,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5316756151910546445"
+      },
+      {
+        "offset": 3,
+        "length": 54,
+        "type": "bold"
+      },
+      {
+        "offset": 337,
+        "length": 7,
+        "type": "text_link",
+        "url": "https://t.me/aipost"
+      },
+      {
+        "offset": 345,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5431390559912614642"
+      }
+    ],
+    "media_group_id": null,
+    "chat_id": -1004468214616,
+    "message_ids": [
+      60
+    ],
+    "update_ids": [
+      378303954
+    ],
+    "retry_count": 0
+  },
+  {
+    "type": "photo",
+    "photo_file_ids": [
+      "AgACAgQAAyEFAAMBClOLWAADPWpZFK2Wf3_zOGdXpkgQ-khuI6RLAAInDmsbZ7K8UjWYfzqoiFQDAQADAgADeQADPQQ"
+    ],
+    "caption": "🤖 ChatGPT launches Chrome extension to rival Gemini\n\nOpenAI released a ChatGPT extension for Chrome that reads the active tab and answers questions about its content without copying text into the chat.\n\nThe extension can summarize, translate, and respond based on the open webpage, directly competing with Google's Gemini sidebar.\n\nGemini still leads by handling 10 tabs at once and integrating with Gmail, Calendar, and Drive, plus Auto Browse for form filling and bookings.\n\nThe competition now focuses on which browser better understands and acts for the user, not just on chatbot intelligence.\n\n📊@tech",
+    "entities": [
+      {
+        "offset": 0,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5397681122542893003"
+      },
+      {
+        "offset": 3,
+        "length": 49,
+        "type": "bold"
+      },
+      {
+        "offset": 72,
+        "length": 28,
+        "type": "bold"
+      },
+      {
+        "offset": 316,
+        "length": 14,
+        "type": "bold"
+      },
+      {
+        "offset": 333,
+        "length": 6,
+        "type": "bold"
+      },
+      {
+        "offset": 515,
+        "length": 48,
+        "type": "bold"
+      },
+      {
+        "offset": 600,
+        "length": 2,
+        "type": "bold"
+      },
+      {
+        "offset": 600,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5449841756596101801"
+      },
+      {
+        "offset": 602,
+        "length": 5,
+        "type": "mention"
+      },
+      {
+        "offset": 602,
+        "length": 5,
+        "type": "bold"
+      }
+    ],
+    "media_group_id": null,
+    "chat_id": -1004468214616,
+    "message_ids": [
+      61
+    ],
+    "update_ids": [
+      378303955
     ],
     "retry_count": 0
   }
