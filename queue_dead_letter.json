@@ -96,5 +96,40 @@
       378303932
     ],
     "retry_count": 0
+  },
+  {
+    "type": "video",
+    "video_file_id": "BAACAgQAAyEFAAMBClOLWAADLWpXubyoPE3KxmsYmIVLd7gr-PlMAAJZGgACYGy5UhkVcka-prKZPQQ",
+    "video_file_size": 21243558,
+    "caption": "🤖 Anthropic just launched Claude for Teachers, giving every US teacher free access to premium Claude and Cowork.\n\n@aipost 🏴",
+    "entities": [
+      {
+        "offset": 0,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5208665212483310136"
+      },
+      {
+        "offset": 115,
+        "length": 7,
+        "type": "text_link",
+        "url": "https://t.me/aipost"
+      },
+      {
+        "offset": 123,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5431390559912614642"
+      }
+    ],
+    "media_group_id": null,
+    "chat_id": -1004468214616,
+    "message_ids": [
+      45
+    ],
+    "update_ids": [
+      378303939
+    ],
+    "retry_count": 0
   }
 ]
