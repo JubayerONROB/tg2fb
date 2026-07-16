@@ -1,37 +1,5 @@
 [
   {
-    "type": "album",
-    "photo_file_ids": [
-      "AgACAgIAAyEFAAMBClOLWAADMGpXxcI5mPwmq8Dhr5n20skbGpF0AAIkG2sbwRS4Sl_HeHlBkvWaAQADAgADeAADPQQ",
-      "AgACAgIAAyEFAAMBClOLWAADMWpXxcL4CByxxufXuu0ICluS8nOVAAIlG2sbwRS4SiKx2xtJWEIdAQADAgADeAADPQQ"
-    ],
-    "caption": "OpenAI has introduced Codex Micro, its first hardware product, positioned as a compact control deck for coding tasks. \n\nThe device, priced at $230, features RGB-lit status keys, dedicated shortcuts for frequently used Codex commands, and a dial to modify reasoning effort. Codex Micro aims to streamline the management of multiple coding agents, providing a more direct interface that reduces reliance on chat switching.\n\nDeveloped in collaboration with Work Louder, Codex Micro is compatible with both Mac and Windows platforms. Users have the ability to customize button functions and joystick mappings, as well as keep pinned chats visible. Stock availability may be limited.\n\n📰 @aipost",
-    "entities": [
-      {
-        "offset": 680,
-        "length": 2,
-        "type": "custom_emoji",
-        "custom_emoji_id": "5363988332466438547"
-      },
-      {
-        "offset": 683,
-        "length": 7,
-        "type": "mention"
-      }
-    ],
-    "media_group_id": "14273097234680349",
-    "chat_id": -1004468214616,
-    "message_ids": [
-      48,
-      49
-    ],
-    "update_ids": [
-      378303942,
-      378303943
-    ],
-    "retry_count": 0
-  },
-  {
     "type": "video",
     "video_file_id": "BAACAgQAAyEFAAMBClOLWAADMmpX_NkIhYl8lZf4ttamhttK6hWnAAJCGwACYGzBUmimGnGlAAEwST0E",
     "video_file_size": 112692030,
@@ -272,6 +240,326 @@
     ],
     "update_ids": [
       378303948
+    ],
+    "retry_count": 0
+  },
+  {
+    "type": "album",
+    "photo_file_ids": [
+      "AgACAgIAAyEFAAMBClOLWAADN2pY1g9vHap8u-WTwCWH3FiNMO8GAAL8HWsb5d_ASuT389TfLIMEAQADAgADeQADPQQ",
+      "AgACAgIAAyEFAAMBClOLWAADOGpY1g8mK5MnUdEzIcCWamKa_JkfAAL9HWsb5d_ASgABl4mrhdOMFAEAAwIAA3kAAz0E"
+    ],
+    "caption": "📈 AI Token Costs Match Engineer Salaries\n\nAnalysts at a16z found that in the top 1% of companies, spending on AI tokens per employee nearly equals the average annual salary of an engineer. This cost has grown exponentially recently, suggesting engineers could soon be 'cheaper' than AI usage by the end of the year.\n\nAI tokens are the computational credits companies pay to run large language models and other AI services. Despite high token costs, companies heavily using AI increased their workforce by 10.2% within two years, while those spending less on AI saw almost no growth.\n\n📊@tech",
+    "entities": [
+      {
+        "offset": 0,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5244837092042750681"
+      },
+      {
+        "offset": 3,
+        "length": 38,
+        "type": "bold"
+      },
+      {
+        "offset": 55,
+        "length": 4,
+        "type": "bold"
+      },
+      {
+        "offset": 111,
+        "length": 22,
+        "type": "bold"
+      },
+      {
+        "offset": 318,
+        "length": 9,
+        "type": "bold"
+      },
+      {
+        "offset": 506,
+        "length": 5,
+        "type": "bold"
+      },
+      {
+        "offset": 585,
+        "length": 2,
+        "type": "bold"
+      },
+      {
+        "offset": 585,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5449841756596101801"
+      },
+      {
+        "offset": 587,
+        "length": 5,
+        "type": "mention"
+      },
+      {
+        "offset": 587,
+        "length": 5,
+        "type": "bold"
+      }
+    ],
+    "media_group_id": "14273654910637469",
+    "chat_id": -1004468214616,
+    "message_ids": [
+      55,
+      56
+    ],
+    "update_ids": [
+      378303949,
+      378303950
+    ],
+    "retry_count": 0
+  },
+  {
+    "type": "video",
+    "video_file_id": "BAACAgIAAyEFAAMBClOLWAADOWpY1h4uU7Mj6pYcd0AGE4o5_NhhAAIxlgACz_rASm9jTq24FmMoPQQ",
+    "video_file_size": 49535284,
+    "caption": "🤖 OpenAI launches Codex Micro keyboard\n\nOpenAI released the Codex Micro, a $230 keyboard made with Work Louder for users of its AI agent Codex. It has six large keys, each linked to a separate agent and showing status by color: blue means working, green means task done, orange means waiting for human input.\n\nThe keyboard lets users switch agents with one press or open the Codex window with two. Codex has over 8 million weekly users, many running multiple agents at once.\n\nManaging several agents on screen is tricky, so OpenAI built this device to track their states physically. It doesn’t write code but helps users handle multiple AI agents simultaneously.\n\n📊@tech",
+    "entities": [
+      {
+        "offset": 0,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5397681122542893003"
+      },
+      {
+        "offset": 3,
+        "length": 36,
+        "type": "bold"
+      },
+      {
+        "offset": 61,
+        "length": 11,
+        "type": "bold"
+      },
+      {
+        "offset": 76,
+        "length": 4,
+        "type": "bold"
+      },
+      {
+        "offset": 100,
+        "length": 11,
+        "type": "bold"
+      },
+      {
+        "offset": 152,
+        "length": 14,
+        "type": "bold"
+      },
+      {
+        "offset": 229,
+        "length": 18,
+        "type": "bold"
+      },
+      {
+        "offset": 249,
+        "length": 21,
+        "type": "bold"
+      },
+      {
+        "offset": 272,
+        "length": 36,
+        "type": "bold"
+      },
+      {
+        "offset": 376,
+        "length": 5,
+        "type": "bold"
+      },
+      {
+        "offset": 399,
+        "length": 5,
+        "type": "bold"
+      },
+      {
+        "offset": 414,
+        "length": 22,
+        "type": "bold"
+      },
+      {
+        "offset": 525,
+        "length": 6,
+        "type": "bold"
+      },
+      {
+        "offset": 629,
+        "length": 18,
+        "type": "bold"
+      },
+      {
+        "offset": 665,
+        "length": 2,
+        "type": "bold"
+      },
+      {
+        "offset": 665,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5449841756596101801"
+      },
+      {
+        "offset": 667,
+        "length": 5,
+        "type": "mention"
+      },
+      {
+        "offset": 667,
+        "length": 5,
+        "type": "bold"
+      }
+    ],
+    "media_group_id": null,
+    "chat_id": -1004468214616,
+    "message_ids": [
+      57
+    ],
+    "update_ids": [
+      378303951
+    ],
+    "retry_count": 0
+  },
+  {
+    "type": "video",
+    "video_file_id": "BAACAgQAAyEFAAMBClOLWAADOmpY1l2FcbxwgO6JIpl_j63hFfNwAAIGGwACYGzJUosQSR0za_35PQQ",
+    "video_file_size": 12367843,
+    "caption": "Moonshot announces Kimi K3\n\n@aipost 🏴",
+    "entities": [
+      {
+        "offset": 28,
+        "length": 7,
+        "type": "text_link",
+        "url": "https://t.me/aipost"
+      },
+      {
+        "offset": 36,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5431390559912614642"
+      }
+    ],
+    "media_group_id": null,
+    "chat_id": -1004468214616,
+    "message_ids": [
+      58
+    ],
+    "update_ids": [
+      378303952
+    ],
+    "retry_count": 0
+  },
+  {
+    "type": "video",
+    "video_file_id": "BAACAgIAAyEFAAMBClOLWAADOWpY1h4uU7Mj6pYcd0AGE4o5_NhhAAIxlgACz_rASm9jTq24FmMoPQQ",
+    "video_file_size": 49535284,
+    "caption": "🤖 OpenAI launches Codex Micro keyboard\n\nOpenAI released the Codex Micro, a $230 keyboard made with Work Louder for users of its AI agent Codex. It has six large keys, each linked to a separate agent and showing status by color: blue means working, green means task done, orange means waiting for human input.\n\nThe keyboard lets users switch agents with one press or open the Codex window with two. Codex has over 8 million weekly users, many running multiple agents at once.\n\nManaging several agents on screen is tricky, so OpenAI built this device to track their states physically. It doesn’t write code but helps users handle multiple AI agents simultaneously.\n\n📊@tech",
+    "entities": [
+      {
+        "offset": 0,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5397681122542893003"
+      },
+      {
+        "offset": 3,
+        "length": 36,
+        "type": "bold"
+      },
+      {
+        "offset": 61,
+        "length": 11,
+        "type": "bold"
+      },
+      {
+        "offset": 76,
+        "length": 4,
+        "type": "bold"
+      },
+      {
+        "offset": 100,
+        "length": 11,
+        "type": "bold"
+      },
+      {
+        "offset": 152,
+        "length": 14,
+        "type": "bold"
+      },
+      {
+        "offset": 229,
+        "length": 18,
+        "type": "bold"
+      },
+      {
+        "offset": 249,
+        "length": 21,
+        "type": "bold"
+      },
+      {
+        "offset": 272,
+        "length": 36,
+        "type": "bold"
+      },
+      {
+        "offset": 376,
+        "length": 5,
+        "type": "bold"
+      },
+      {
+        "offset": 399,
+        "length": 5,
+        "type": "bold"
+      },
+      {
+        "offset": 414,
+        "length": 22,
+        "type": "bold"
+      },
+      {
+        "offset": 525,
+        "length": 6,
+        "type": "bold"
+      },
+      {
+        "offset": 629,
+        "length": 18,
+        "type": "bold"
+      },
+      {
+        "offset": 665,
+        "length": 2,
+        "type": "bold"
+      },
+      {
+        "offset": 665,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5449841756596101801"
+      },
+      {
+        "offset": 667,
+        "length": 5,
+        "type": "mention"
+      },
+      {
+        "offset": 667,
+        "length": 5,
+        "type": "bold"
+      }
+    ],
+    "media_group_id": null,
+    "chat_id": -1004468214616,
+    "message_ids": [
+      59
+    ],
+    "update_ids": [
+      378303953
     ],
     "retry_count": 0
   }
