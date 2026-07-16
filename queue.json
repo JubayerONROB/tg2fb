@@ -1,45 +1,5 @@
 [
   {
-    "type": "video",
-    "video_file_id": "BAACAgQAAyEFAAMBClOLWAADLmpXucHqarHrtREGRJsYnP0jZqBfAAJXGwACYGzBUutNvl-o6QevPQQ",
-    "video_file_size": 11586253,
-    "caption": "❗️AI can now read a poker face in real time\n\nDuring World Series of Poker broadcasts, an AI filter was shown that tracks players’ facial expressions, eye movements, posture, and blinking frequency, compares these signals with their moves and bets, and then displays the probability of a bluff on screen.\n\nThe idea is to help viewers better understand table strategy, turning every hand into a live lesson in poker psychology.\n\n@aipost 🏴",
-    "entities": [
-      {
-        "offset": 0,
-        "length": 2,
-        "type": "custom_emoji",
-        "custom_emoji_id": "5289761612440310918"
-      },
-      {
-        "offset": 2,
-        "length": 41,
-        "type": "bold"
-      },
-      {
-        "offset": 427,
-        "length": 7,
-        "type": "text_link",
-        "url": "https://t.me/aipost"
-      },
-      {
-        "offset": 435,
-        "length": 2,
-        "type": "custom_emoji",
-        "custom_emoji_id": "5431390559912614642"
-      }
-    ],
-    "media_group_id": null,
-    "chat_id": -1004468214616,
-    "message_ids": [
-      46
-    ],
-    "update_ids": [
-      378303940
-    ],
-    "retry_count": 0
-  },
-  {
     "type": "photo",
     "photo_file_ids": [
       "AgACAgIAAyEFAAMBClOLWAADL2pXudXcqYEkNmNjgD-QdETd2B8RAAKeGGsbz_qwShbg_m_8bX2YAQADAgADeQADPQQ"
@@ -206,6 +166,187 @@
     ],
     "update_ids": [
       378303945
+    ],
+    "retry_count": 0
+  },
+  {
+    "type": "photo",
+    "photo_file_ids": [
+      "AgACAgQAAyEFAAMBClOLWAADNGpYnUasCKdiDUX6pP1rUTOMvQ44AAJXD2sbYGzBUgkmd4vYwn1wAQADAgADeQADPQQ"
+    ],
+    "caption": "🧠 Demis Hassabis says AGI Is just years away and he’s never sounded more optimistic\n\nDemis Hassabis, CEO of Google DeepMind and the 2024 Nobel Prize winner in Chemistry for AlphaFold, has published one of his boldest essays yet on the future of AI.\n\nFor years, Hassabis has been one of the industry’s most cautious voices, often pushing back on exaggerated AGI timelines. That’s why his latest prediction carries extra weight.\n\n“AGI cannot be compared to standard technological breakthroughs, not even ones as consequential as the internet or mobile, it is much more akin to the discovery of electricity or fire.”\n\nHe argues that AGI could have 10× the impact of the Industrial Revolution, at 10× the speed, fundamentally reshaping science, medicine, and society.\n\nBut the essay isn’t just optimistic. Hassabis also warns that the race between companies and nations is accelerating AI capabilities faster than our ability to fully understand or govern them. He points to growing cybersecurity risks today, with biological and even nuclear threats potentially following, making robust safety measures and regulation increasingly urgent.\n\nOne of AI’s most respected and historically cautious figures now believes AGI is likely only a few years away and says we need to start building the institutions to manage it before it arrives.\n\n@aipost 🏴",
+    "entities": [
+      {
+        "offset": 0,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5895617412975299964"
+      },
+      {
+        "offset": 3,
+        "length": 81,
+        "type": "bold"
+      },
+      {
+        "offset": 189,
+        "length": 9,
+        "type": "text_link",
+        "url": "https://x.com/demishassabis/status/2076957440109625718?s=46"
+      },
+      {
+        "offset": 429,
+        "length": 185,
+        "type": "blockquote"
+      },
+      {
+        "offset": 1333,
+        "length": 7,
+        "type": "text_link",
+        "url": "https://t.me/aipost"
+      },
+      {
+        "offset": 1341,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5431390559912614642"
+      }
+    ],
+    "media_group_id": null,
+    "chat_id": -1004468214616,
+    "message_ids": [
+      52
+    ],
+    "update_ids": [
+      378303946
+    ],
+    "retry_count": 0
+  },
+  {
+    "type": "photo",
+    "photo_file_ids": [
+      "AgACAgQAAyEFAAMBClOLWAADNGpYnUasCKdiDUX6pP1rUTOMvQ44AAJXD2sbYGzBUgkmd4vYwn1wAQADAgADeQADPQQ"
+    ],
+    "caption": "🧠 Demis Hassabis says AGI Is just years away and he’s never sounded more optimistic\n\nDemis Hassabis, CEO of Google DeepMind and the 2024 Nobel Prize winner in Chemistry for AlphaFold, has published one of his boldest essays yet on the future of AI.\n\nFor years, Hassabis has been one of the industry’s most cautious voices, often pushing back on exaggerated AGI timelines. That’s why his latest prediction carries extra weight.\n\n“AGI cannot be compared to standard technological breakthroughs, not even ones as consequential as the internet or mobile, it is much more akin to the discovery of electricity or fire.”\n\nHe argues that AGI could have 10× the impact of the Industrial Revolution, at 10× the speed, fundamentally reshaping science, medicine, and society.\n\nBut the essay isn’t just optimistic. Hassabis also warns that the race between companies and nations is accelerating AI capabilities faster than our ability to fully understand or govern them. He points to growing cybersecurity risks today, with biological and even nuclear threats potentially following, making robust safety measures and regulation increasingly urgent.\n\nOne of AI’s most respected and historically cautious figures now believes AGI is likely only a few years away and says we need to start building the institutions to manage it before it arrives.\n\n@aipost 🏴",
+    "entities": [
+      {
+        "offset": 0,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5895617412975299964"
+      },
+      {
+        "offset": 3,
+        "length": 81,
+        "type": "bold"
+      },
+      {
+        "offset": 189,
+        "length": 9,
+        "type": "text_link",
+        "url": "https://x.com/demishassabis/status/2076957440109625718?s=46"
+      },
+      {
+        "offset": 429,
+        "length": 185,
+        "type": "blockquote"
+      },
+      {
+        "offset": 1333,
+        "length": 7,
+        "type": "text_link",
+        "url": "https://t.me/aipost"
+      },
+      {
+        "offset": 1341,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5431390559912614642"
+      }
+    ],
+    "media_group_id": null,
+    "chat_id": -1004468214616,
+    "message_ids": [
+      53
+    ],
+    "update_ids": [
+      378303947
+    ],
+    "retry_count": 0
+  },
+  {
+    "type": "photo",
+    "photo_file_ids": [
+      "AgACAgQAAyEFAAMBClOLWAADNmpYndgOI_Shj6GHetwGYjwP20OTAALwD2sbYGzBUiaQ_p2aKzQUAQADAgADeQADPQQ"
+    ],
+    "caption": "📚 One of the “Godfathers of AI” wrote the book that taught a generation of AI engineers and you can read it for free.\n\nInside, you’ll learn:\n\n🧠 Neural networks\n👀 How machines “see”\n💾 How AI models remember information\n📉 Why models overfit\n📐 The math that powers modern AI\n\nYoshua Bengio is one of the three researchers widely known as the Godfathers of AI. In the 1990s, he continued researching neural networks when most of the AI community had written them off.\n\nThat persistence paid off. In 2018, Bengio received the Turing Award, often called the Nobel Prize of computing for his pioneering work in deep learning.\n\nTogether with Ian Goodfellow (the researcher who invented GANs) and Aaron Courville, he wrote Deep Learning, published by MIT Press in 2016.\n\nThe book became the standard textbook for students, researchers, and engineers entering the field.\n\nHere’s the surprising part. While you can buy a printed copy, the entire book is available online for free. Every chapter. No trial, no paywall.\n\nIt starts with the fundamentals, linear algebra, probability, and calculus before gradually building toward the concepts behind today’s large AI models.\n\nIt’s not an easy read. It’s a real university textbook. But that’s exactly why it’s so valuable.\n\nThe people who built modern AI didn’t master it from short videos or social media threads. They learned by working through books like this. Bengio helped build the deep learning revolution and then made the manual available to everyone.\n\nSource.\n\n@aipost 🏴",
+    "entities": [
+      {
+        "offset": 0,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5350481781306958339"
+      },
+      {
+        "offset": 3,
+        "length": 115,
+        "type": "bold"
+      },
+      {
+        "offset": 143,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5895617412975299964"
+      },
+      {
+        "offset": 162,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5357121491508928442"
+      },
+      {
+        "offset": 184,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "6132119538021435835"
+      },
+      {
+        "offset": 222,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5350713563512052787"
+      },
+      {
+        "offset": 244,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "6334362276610443521"
+      },
+      {
+        "offset": 1504,
+        "length": 6,
+        "type": "text_link",
+        "url": "https://www.deeplearningbook.org/"
+      },
+      {
+        "offset": 1513,
+        "length": 7,
+        "type": "text_link",
+        "url": "https://t.me/aipost"
+      },
+      {
+        "offset": 1521,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5431390559912614642"
+      }
+    ],
+    "media_group_id": null,
+    "chat_id": -1004468214616,
+    "message_ids": [
+      54
+    ],
+    "update_ids": [
+      378303948
     ],
     "retry_count": 0
   }
