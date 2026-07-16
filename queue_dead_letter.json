@@ -131,5 +131,34 @@
       378303939
     ],
     "retry_count": 0
+  },
+  {
+    "type": "video",
+    "video_file_id": "BAACAgQAAyEFAAMBClOLWAADMmpX_NkIhYl8lZf4ttamhttK6hWnAAJCGwACYGzBUmimGnGlAAEwST0E",
+    "video_file_size": 112692030,
+    "caption": "“Without AI systems, Russia would have won.”\n\nAlex Karp, co-founder and CEO of Palantir Technologies, says Europe already depends on AI for security and economic survival.\n\n@aipost 🏴",
+    "entities": [
+      {
+        "offset": 173,
+        "length": 7,
+        "type": "text_link",
+        "url": "https://t.me/aipost"
+      },
+      {
+        "offset": 181,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5431390559912614642"
+      }
+    ],
+    "media_group_id": null,
+    "chat_id": -1004468214616,
+    "message_ids": [
+      50
+    ],
+    "update_ids": [
+      378303944
+    ],
+    "retry_count": 0
   }
 ]
