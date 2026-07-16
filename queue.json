@@ -1,82 +1,5 @@
 [
   {
-    "type": "photo",
-    "photo_file_ids": [
-      "AgACAgQAAyEFAAMBClOLWAADNmpYndgOI_Shj6GHetwGYjwP20OTAALwD2sbYGzBUiaQ_p2aKzQUAQADAgADeQADPQQ"
-    ],
-    "caption": "📚 One of the “Godfathers of AI” wrote the book that taught a generation of AI engineers and you can read it for free.\n\nInside, you’ll learn:\n\n🧠 Neural networks\n👀 How machines “see”\n💾 How AI models remember information\n📉 Why models overfit\n📐 The math that powers modern AI\n\nYoshua Bengio is one of the three researchers widely known as the Godfathers of AI. In the 1990s, he continued researching neural networks when most of the AI community had written them off.\n\nThat persistence paid off. In 2018, Bengio received the Turing Award, often called the Nobel Prize of computing for his pioneering work in deep learning.\n\nTogether with Ian Goodfellow (the researcher who invented GANs) and Aaron Courville, he wrote Deep Learning, published by MIT Press in 2016.\n\nThe book became the standard textbook for students, researchers, and engineers entering the field.\n\nHere’s the surprising part. While you can buy a printed copy, the entire book is available online for free. Every chapter. No trial, no paywall.\n\nIt starts with the fundamentals, linear algebra, probability, and calculus before gradually building toward the concepts behind today’s large AI models.\n\nIt’s not an easy read. It’s a real university textbook. But that’s exactly why it’s so valuable.\n\nThe people who built modern AI didn’t master it from short videos or social media threads. They learned by working through books like this. Bengio helped build the deep learning revolution and then made the manual available to everyone.\n\nSource.\n\n@aipost 🏴",
-    "entities": [
-      {
-        "offset": 0,
-        "length": 2,
-        "type": "custom_emoji",
-        "custom_emoji_id": "5350481781306958339"
-      },
-      {
-        "offset": 3,
-        "length": 115,
-        "type": "bold"
-      },
-      {
-        "offset": 143,
-        "length": 2,
-        "type": "custom_emoji",
-        "custom_emoji_id": "5895617412975299964"
-      },
-      {
-        "offset": 162,
-        "length": 2,
-        "type": "custom_emoji",
-        "custom_emoji_id": "5357121491508928442"
-      },
-      {
-        "offset": 184,
-        "length": 2,
-        "type": "custom_emoji",
-        "custom_emoji_id": "6132119538021435835"
-      },
-      {
-        "offset": 222,
-        "length": 2,
-        "type": "custom_emoji",
-        "custom_emoji_id": "5350713563512052787"
-      },
-      {
-        "offset": 244,
-        "length": 2,
-        "type": "custom_emoji",
-        "custom_emoji_id": "6334362276610443521"
-      },
-      {
-        "offset": 1504,
-        "length": 6,
-        "type": "text_link",
-        "url": "https://www.deeplearningbook.org/"
-      },
-      {
-        "offset": 1513,
-        "length": 7,
-        "type": "text_link",
-        "url": "https://t.me/aipost"
-      },
-      {
-        "offset": 1521,
-        "length": 2,
-        "type": "custom_emoji",
-        "custom_emoji_id": "5431390559912614642"
-      }
-    ],
-    "media_group_id": null,
-    "chat_id": -1004468214616,
-    "message_ids": [
-      54
-    ],
-    "update_ids": [
-      378303948
-    ],
-    "retry_count": 0
-  },
-  {
     "type": "album",
     "photo_file_ids": [
       "AgACAgIAAyEFAAMBClOLWAADN2pY1g9vHap8u-WTwCWH3FiNMO8GAAL8HWsb5d_ASuT389TfLIMEAQADAgADeQADPQQ",
@@ -503,6 +426,79 @@
     ],
     "update_ids": [
       378303955
+    ],
+    "retry_count": 0
+  },
+  {
+    "type": "photo",
+    "photo_file_ids": [
+      "AgACAgQAAyEFAAMBClOLWAADPmpZV9y4_tWFKifC-3ULZIiTbuHBAALhDWsbYGzJUp858eNkEhqGAQADAgADeAADPQQ"
+    ],
+    "caption": "🇨🇳 China is cracking down on AI girlfriends and boyfriends\n\nChina has introduced new rules to stop people from becoming emotionally attached to AI companions.\n\nAI chatbots are now banned from encouraging emotional dependence, forming virtual romantic relationships with minors, and must alert an emergency contact if they detect a user may be in serious crisis.\n\nThe concern goes far beyond AI safety.\n\nOfficials fear that as China’s population continues to decline, more people could choose AI partners over real relationships, leading to fewer marriages and even fewer children.\n\nInterestingly, similar concerns are emerging in the U.S. California and New York now require chatbots to regularly remind users they’re not human and direct people in crisis to real support.\n\nBut China is taking things much further. The new regulations give authorities the power to ban AI companions, require government approval before launch, and shut down any chatbot they consider unsafe.\n\nThe impact is already being felt. Alibaba and ByteDance reportedly disabled some AI companion features this week to comply with the new rules.\n\n@aipost 🏴",
+    "entities": [
+      {
+        "offset": 0,
+        "length": 4,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5431782733376399004"
+      },
+      {
+        "offset": 5,
+        "length": 55,
+        "type": "bold"
+      },
+      {
+        "offset": 1122,
+        "length": 7,
+        "type": "text_link",
+        "url": "https://t.me/aipost"
+      },
+      {
+        "offset": 1130,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5431390559912614642"
+      }
+    ],
+    "media_group_id": null,
+    "chat_id": -1004468214616,
+    "message_ids": [
+      62
+    ],
+    "update_ids": [
+      378303956
+    ],
+    "retry_count": 0
+  },
+  {
+    "type": "album",
+    "photo_file_ids": [
+      "AgACAgIAAyEFAAMBClOLWAADP2pZV9wyLmuikBbF1fiX5t-WCZdoAAIvG2sbo8fJShwIJO76zVIZAQADAgADeQADPQQ",
+      "AgACAgIAAyEFAAMBClOLWAADQGpZV9wyjBmVBU2WpVXCzAXYuRTmAAIwG2sbo8fJSguqTS4MLNDIAQADAgADeQADPQQ"
+    ],
+    "caption": "Kimi K3 has released new benchmark results that place it ahead of Opus 4.8 and just below models such as GPT-5.6 and Fable 5. The published data indicates Kimi K3 is narrowing the traditional gap between Chinese open source AI and closed-source models from the United States.\n\nOpus 4.8 was launched at the end of May and, until now, was considered a leading model. However, Kimi K3’s performance suggests the difference in development pace is decreasing. This challenges the view that Chinese models are six to eight months behind their US counterparts.\n\nKimi K3 is already close to prominent Western models but is distinguished by technical features: 2.8 trillion parameters, one million context window, native multimodal support, and Kimi Delta Attention for accelerated decoding and improved training efficiency.\n\nOpen weights for Kimi K3 are scheduled for release by July 27, 2026.\n\n📰 @aipost",
+    "entities": [
+      {
+        "offset": 887,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5363988332466438547"
+      },
+      {
+        "offset": 890,
+        "length": 7,
+        "type": "mention"
+      }
+    ],
+    "media_group_id": "14273920506762261",
+    "chat_id": -1004468214616,
+    "message_ids": [
+      63,
+      64
+    ],
+    "update_ids": [
+      378303957,
+      378303958
     ],
     "retry_count": 0
   }
