@@ -1,69 +1,6 @@
 [
   {
     "type": "video",
-    "video_file_id": "BAACAgIAAyEFAAMBClOLWAADLGpXQ_sVwDpFEn8iMK3BSapv5oFRAAJepgACT8FwSj2sV8XPWFh0PQQ",
-    "video_file_size": 10617865,
-    "caption": "NotebookLM just got a killer new feature\n\nGoogle can now turn PDFs, articles, notes, and other documents into 60-second vertical videos right inside NotebookLM.\n\nHere’s what you get:\n• AI-generated visuals powered by Nano Banana 2 Lite\n• automatic voice narration\n• the ability to choose what the video focuses on\n• support on both the web and mobile apps\n\nInstead of reading through a long document, you get a quick, scroll-friendly video that highlights the key points.\n\nThe feature is rolling out to Google AI Pro and Ultra subscribers first, with a broader release coming soon.\n\n👀 Definitely one to try.\n\n🔗 https://notebooklm.google.com/\n\nFollow @ainews_daily for more quality AI insights!",
-    "entities": [
-      {
-        "offset": 0,
-        "length": 40,
-        "type": "bold"
-      },
-      {
-        "offset": 62,
-        "length": 73,
-        "type": "bold"
-      },
-      {
-        "offset": 162,
-        "length": 20,
-        "type": "bold"
-      },
-      {
-        "offset": 217,
-        "length": 18,
-        "type": "bold"
-      },
-      {
-        "offset": 336,
-        "length": 3,
-        "type": "bold"
-      },
-      {
-        "offset": 344,
-        "length": 6,
-        "type": "bold"
-      },
-      {
-        "offset": 503,
-        "length": 23,
-        "type": "bold"
-      },
-      {
-        "offset": 613,
-        "length": 29,
-        "type": "text_link",
-        "url": "https://notebooklm.google.com/"
-      },
-      {
-        "offset": 652,
-        "length": 13,
-        "type": "mention"
-      }
-    ],
-    "media_group_id": null,
-    "chat_id": -1004468214616,
-    "message_ids": [
-      44
-    ],
-    "update_ids": [
-      378303938
-    ],
-    "retry_count": 0
-  },
-  {
-    "type": "video",
     "video_file_id": "BAACAgQAAyEFAAMBClOLWAADLWpXubyoPE3KxmsYmIVLd7gr-PlMAAJZGgACYGy5UhkVcka-prKZPQQ",
     "video_file_size": 21243558,
     "caption": "🤖 Anthropic just launched Claude for Teachers, giving every US teacher free access to premium Claude and Cowork.\n\n@aipost 🏴",
