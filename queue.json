@@ -1,37 +1,5 @@
 [
   {
-    "type": "album",
-    "photo_file_ids": [
-      "AgACAgIAAyEFAAMBClOLWAADP2pZV9wyLmuikBbF1fiX5t-WCZdoAAIvG2sbo8fJShwIJO76zVIZAQADAgADeQADPQQ",
-      "AgACAgIAAyEFAAMBClOLWAADQGpZV9wyjBmVBU2WpVXCzAXYuRTmAAIwG2sbo8fJSguqTS4MLNDIAQADAgADeQADPQQ"
-    ],
-    "caption": "Kimi K3 has released new benchmark results that place it ahead of Opus 4.8 and just below models such as GPT-5.6 and Fable 5. The published data indicates Kimi K3 is narrowing the traditional gap between Chinese open source AI and closed-source models from the United States.\n\nOpus 4.8 was launched at the end of May and, until now, was considered a leading model. However, Kimi K3’s performance suggests the difference in development pace is decreasing. This challenges the view that Chinese models are six to eight months behind their US counterparts.\n\nKimi K3 is already close to prominent Western models but is distinguished by technical features: 2.8 trillion parameters, one million context window, native multimodal support, and Kimi Delta Attention for accelerated decoding and improved training efficiency.\n\nOpen weights for Kimi K3 are scheduled for release by July 27, 2026.\n\n📰 @aipost",
-    "entities": [
-      {
-        "offset": 887,
-        "length": 2,
-        "type": "custom_emoji",
-        "custom_emoji_id": "5363988332466438547"
-      },
-      {
-        "offset": 890,
-        "length": 7,
-        "type": "mention"
-      }
-    ],
-    "media_group_id": "14273920506762261",
-    "chat_id": -1004468214616,
-    "message_ids": [
-      63,
-      64
-    ],
-    "update_ids": [
-      378303957,
-      378303958
-    ],
-    "retry_count": 0
-  },
-  {
     "type": "photo",
     "photo_file_ids": [
       "AgACAgQAAyEFAAMBClOLWAADQWpZpIa2bay-SQ2jfEG9mYMGCZEvAALkDWsbYGzJUqOBRYXKvV0yAQADAgADeQADPQQ"
