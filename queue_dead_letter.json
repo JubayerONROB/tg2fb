@@ -378,5 +378,45 @@
       378303953
     ],
     "retry_count": 0
+  },
+  {
+    "type": "video",
+    "video_file_id": "BAACAgQAAyEFAAMBClOLWAADPGpZFJNKxhhShHukL_4a1h72orUvAAIJGwACYGzJUjDImvBoENtqPQQ",
+    "video_file_size": 31647068,
+    "caption": "🗣️“AI is not a good business unless it earns real cash.”\n\nWarren Buffett, chairman and CEO of Berkshire Hathaway, says great companies generate high returns on capital for decades.\n\nThe real AI race is not about spending more, but compounding capital better. Intelligence only transforms the economy when it becomes durable cash flow.\n\n@aipost 🏴",
+    "entities": [
+      {
+        "offset": 0,
+        "length": 3,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5316756151910546445"
+      },
+      {
+        "offset": 3,
+        "length": 54,
+        "type": "bold"
+      },
+      {
+        "offset": 337,
+        "length": 7,
+        "type": "text_link",
+        "url": "https://t.me/aipost"
+      },
+      {
+        "offset": 345,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5431390559912614642"
+      }
+    ],
+    "media_group_id": null,
+    "chat_id": -1004468214616,
+    "message_ids": [
+      60
+    ],
+    "update_ids": [
+      378303954
+    ],
+    "retry_count": 0
   }
 ]
