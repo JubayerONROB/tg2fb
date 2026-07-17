@@ -1,34 +1,6 @@
 [
   {
     "type": "video",
-    "video_file_id": "BAACAgIAAyEFAAMBClOLWAADRGpaH5z0cN6GbgED6o8ovR9DDz1JAAKSpgAC_fnISvXZIk7vDrtvPQQ",
-    "video_file_size": 4945721,
-    "caption": "Kimi K3 has surpassed Opus 4.8 in generating retro arcade games, achieving comparable results at roughly half the cost.\n\nAtomic Chat, a desktop application capable of running local LLMs, tasked three models—Kimi K3, GPT-5.6, and Opus 4.8—with creating self-playing versions of Road Fighter, Battle City, and Q*bert in single HTML files. Each output required integrated graphics, opponent logic, game rules, and an autonomous player within one file.\n\nPerformance metrics showed Kimi K3 and GPT-5.6 produced similar token counts (18.4K and 18.1K, costing $0.28 each), while Opus 4.8 generated 21.3K tokens at $0.54.\n\nKimi K3’s Q*bert demonstrated stable game logic, allowing effective navigation and enemy avoidance. GPT-5.6, while offering visually superior results, encountered functional issues with player logic in Road Fighter and Battle City.\n\n📰 @aipost",
-    "entities": [
-      {
-        "offset": 848,
-        "length": 2,
-        "type": "custom_emoji",
-        "custom_emoji_id": "5363988332466438547"
-      },
-      {
-        "offset": 851,
-        "length": 7,
-        "type": "mention"
-      }
-    ],
-    "media_group_id": null,
-    "chat_id": -1004468214616,
-    "message_ids": [
-      68
-    ],
-    "update_ids": [
-      378303962
-    ],
-    "retry_count": 0
-  },
-  {
-    "type": "video",
     "video_file_id": "BAACAgQAAyEFAAMBClOLWAADRWpaH62pRNKKoFGCQ4T6XSUtbqTVAAIdHQACIGjQUihdYAR-39IVPQQ",
     "video_file_size": 40666568,
     "caption": "🔥Real Steel has officially become reality\n\nChina has launched Ultimate Robot Knockout Legend (URKL), a full-fledged fighting league where humanoid robots step into the ring and battle for glory.\n\nThe tournament features 16 teams, but everyone uses the exact same robot. There are no hardware advantages.\n\nThe winner is decided by software.\n\nEach team develops its own AI, control algorithms, movement, balance, reflexes, and fighting strategy, turning every match into a battle of engineering rather than expensive hardware.\n\n💰 There’s also serious money on the line: a 10 million yuan (around $1.4 million) prize pool.\n\nAnd the fights are already delivering unforgettable moments.\n\nIn one of the first matches, a robot gets completely decapitated after taking a huge hit… then simply gets back up and keeps fighting like nothing happened. 🤯\n\nThe commentators couldn’t help but laugh: “Well… now the opponent can’t score any more headshots.”\n\nEven better, watch until the end, the winning robot actually celebrates its victory, making it look like a scene straight out of Real Steel.\n\nThis isn’t just entertainment. It’s also a showcase of how far robotics and AI have come.\n\nWould you pay to watch robot fights instead of human MMA? 🤔\n\n@aipost 🏴",
@@ -305,6 +277,69 @@
     ],
     "update_ids": [
       378303967
+    ],
+    "retry_count": 0
+  },
+  {
+    "type": "photo",
+    "photo_file_ids": [
+      "AgACAgQAAyEFAAMBClOLWAADSmpapOGE_j6pdkdwqNN5z5njUkIFAAKMDmsbIGjQUghrzvW8fS0qAQADAgADdwADPQQ"
+    ],
+    "caption": "⚖️ One of the world’s top law schools is redesigning legal education for the AI era\n\nThe University of Chicago Law School has unveiled a new AI strategy and it’s not banning AI.\n\nInstead, it’s splitting legal education into two phases:\n\n🧠 First, learn to think without AI:\n\nFirst-year students will take required classes without laptops or phones, complete in-person handwritten exams, and even defend major papers orally. The goal is to build strong reasoning and legal judgment before relying on AI tools.\n\n🤖 Then, learn to work with AI:\n\nLater in the program, students will be trained to use professional AI tools like Harvey and Legora for legal research, drafting, and document review.\n\nThe school’s message is simple: AI is becoming an essential part of legal practice, but future lawyers still need to develop the critical thinking skills that AI can’t replace.\n\n@aipost 🏴",
+    "entities": [
+      {
+        "offset": 0,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "6334444168751875695"
+      },
+      {
+        "offset": 3,
+        "length": 80,
+        "type": "bold"
+      },
+      {
+        "offset": 237,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5895617412975299964"
+      },
+      {
+        "offset": 240,
+        "length": 33,
+        "type": "bold"
+      },
+      {
+        "offset": 510,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5309832892262654231"
+      },
+      {
+        "offset": 513,
+        "length": 28,
+        "type": "bold"
+      },
+      {
+        "offset": 872,
+        "length": 7,
+        "type": "text_link",
+        "url": "https://t.me/aipost"
+      },
+      {
+        "offset": 880,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5431390559912614642"
+      }
+    ],
+    "media_group_id": null,
+    "chat_id": -1004468214616,
+    "message_ids": [
+      74
+    ],
+    "update_ids": [
+      378303968
     ],
     "retry_count": 0
   }
