@@ -1,76 +1,6 @@
 [
   {
     "type": "video",
-    "video_file_id": "BAACAgIAAyEFAAMBClOLWAADQmpaH3iY8I39NUVqvai76qrYqxMtAAIFnAACD_bISi1D89NeHIU_PQQ",
-    "video_file_size": 38901467,
-    "caption": "📺 Higgsfield launches AI film academy\n\nHiggsfield offers an interactive course revealing the full workflow behind their 95-minute film Hell Grind, shown at Cannes.\n\nThe academy focuses on practical techniques used in AI-assisted filmmaking, not just theory.\n\n📊@tech",
-    "entities": [
-      {
-        "offset": 0,
-        "length": 2,
-        "type": "custom_emoji",
-        "custom_emoji_id": "5285347429737055549"
-      },
-      {
-        "offset": 3,
-        "length": 35,
-        "type": "bold"
-      },
-      {
-        "offset": 73,
-        "length": 6,
-        "type": "text_link",
-        "url": "https://higgsfield.ai/academy/courses"
-      },
-      {
-        "offset": 73,
-        "length": 6,
-        "type": "bold"
-      },
-      {
-        "offset": 121,
-        "length": 25,
-        "type": "bold"
-      },
-      {
-        "offset": 189,
-        "length": 20,
-        "type": "bold"
-      },
-      {
-        "offset": 260,
-        "length": 2,
-        "type": "bold"
-      },
-      {
-        "offset": 260,
-        "length": 2,
-        "type": "custom_emoji",
-        "custom_emoji_id": "5449841756596101801"
-      },
-      {
-        "offset": 262,
-        "length": 5,
-        "type": "mention"
-      },
-      {
-        "offset": 262,
-        "length": 5,
-        "type": "bold"
-      }
-    ],
-    "media_group_id": null,
-    "chat_id": -1004468214616,
-    "message_ids": [
-      66
-    ],
-    "update_ids": [
-      378303960
-    ],
-    "retry_count": 0
-  },
-  {
-    "type": "video",
     "video_file_id": "BAACAgIAAyEFAAMBClOLWAADQ2paH4NGXcQxyYG35xuEfmw6QkzVAALHmgACD_bIShrjMWBagJaqPQQ",
     "video_file_size": 645668,
     "caption": "🤖 ChatGPT adds unified chat search\n\nChatGPT now supports searching across chats, projects, images, and documents in one window. The feature is live on web, iOS, and Android.\n\nUsers can apply filters to narrow results and jump directly to the matching spot in conversations or projects.\n\nThis replaces slow manual scrolling through history with keyword search that finds information in seconds.\n\n📊@tech",
@@ -290,6 +220,165 @@
     ],
     "update_ids": [
       378303964
+    ],
+    "retry_count": 0
+  },
+  {
+    "type": "video",
+    "video_file_id": "BAACAgQAAyEFAAMBClOLWAADR2paZsx76XRZB7GEalbBTIqlR_KBAAJIHQACIGjQUsw2ZAKavhSKPQQ",
+    "video_file_size": 1731155,
+    "caption": "🤖 ChatGPT just made finding old conversations way easier\n\nNo more endless scrolling through your chat history.\n\nOpenAI has rolled out unified search in ChatGPT, letting you search across chats, projects, uploaded documents, and images from a single search window. The feature is now available on web, iOS, and Android.\n\nYou can also apply filters to narrow your search and jump straight to the exact message, document, or project you’re looking for.\n\nIf you’ve been using ChatGPT for months (or years), this is one of those small updates that makes a huge difference. Finding old prompts, notes, and files now takes seconds instead of minutes.\n\n@aipost 🏴",
+    "entities": [
+      {
+        "offset": 0,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5397681122542893003"
+      },
+      {
+        "offset": 3,
+        "length": 54,
+        "type": "bold"
+      },
+      {
+        "offset": 646,
+        "length": 7,
+        "type": "text_link",
+        "url": "https://t.me/aipost"
+      },
+      {
+        "offset": 654,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5431390559912614642"
+      }
+    ],
+    "media_group_id": null,
+    "chat_id": -1004468214616,
+    "message_ids": [
+      71
+    ],
+    "update_ids": [
+      378303965
+    ],
+    "retry_count": 0
+  },
+  {
+    "type": "photo",
+    "photo_file_ids": [
+      "AgACAgQAAyEFAAMBClOLWAADSGpaZulrHVQehevGAiQ0dzC-Vn1ZAAKyDWsbwFzNUjNHpgyauENJAQADAgADeQADPQQ"
+    ],
+    "caption": "🍏 Apple opens new Siri beta to all iPhones\n\nApple released the new Siri in a public beta with iOS 27, ending its developer-only phase. This test covers 2.5 billion active Apple devices, an unprecedented scale.\n\nThe updated Siri reads mail, photos, and messages, answers based on screen content, and searches the web like ChatGPT or Gemini. It uses AI models co-developed with Google, optimized for Apple chips and running on Private Cloud Compute without saving data on servers.\n\n📊@tech",
+    "entities": [
+      {
+        "offset": 0,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5398012024003246287"
+      },
+      {
+        "offset": 3,
+        "length": 40,
+        "type": "bold"
+      },
+      {
+        "offset": 45,
+        "length": 56,
+        "type": "bold"
+      },
+      {
+        "offset": 212,
+        "length": 49,
+        "type": "bold"
+      },
+      {
+        "offset": 481,
+        "length": 2,
+        "type": "bold"
+      },
+      {
+        "offset": 481,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5449841756596101801"
+      },
+      {
+        "offset": 483,
+        "length": 5,
+        "type": "mention"
+      },
+      {
+        "offset": 483,
+        "length": 5,
+        "type": "bold"
+      }
+    ],
+    "media_group_id": null,
+    "chat_id": -1004468214616,
+    "message_ids": [
+      72
+    ],
+    "update_ids": [
+      378303966
+    ],
+    "retry_count": 0
+  },
+  {
+    "type": "photo",
+    "photo_file_ids": [
+      "AgACAgQAAyEFAAMBClOLWAADSWpafB76EVoHSDdqvWLMeONyJ3CMAAJvDmsbIGjQUrebPKiThH1vAQADAgADeAADPQQ"
+    ],
+    "caption": "❗️Black Mirror is getting a little too real\n\nJustin McLeod, the founder of Hinge, thinks the future of dating isn’t more swiping, it’s letting AI decide who you should meet.\n\nHis new startup, Overtone, doesn’t call itself a dating app. There are no profiles, no endless swiping, and no matching. Instead, it gets to know you through conversations and your own words, then introduces you to someone only when it believes there’s a genuinely strong connection.\n\nIn other words: you don’t choose, the algorithm does.\n\nIf that sounds familiar, it’s because it feels a lot like Black Mirror’s “Hang the DJ,” where an algorithm controls people’s relationships until it finds their perfect match.\n\nInvestors seem to love the idea. Overtone has already raised $18 million, with backing from Match Group, the company behind Tinder, Hinge, and OkCupid. Ironically, the same company that helped turn dating into an endless swipe is now betting on a future without swiping.\n\nWhat’s even more interesting is that the entire dating industry appears to be changing course:\n\n❤️ Bumble is moving away from swipe-first experiences.\n🤖 Facebook is testing an AI dating assistant.\n👀 Tinder is introducing eye verification to fight AI-generated fake profiles.\n\nAfter years of optimizing for engagement, the biggest apps are now trying to optimize for actual relationships.\n\n@aipost 🏴",
+    "entities": [
+      {
+        "offset": 0,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5289761612440310918"
+      },
+      {
+        "offset": 2,
+        "length": 41,
+        "type": "bold"
+      },
+      {
+        "offset": 1059,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5312138559556164615"
+      },
+      {
+        "offset": 1114,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5309832892262654231"
+      },
+      {
+        "offset": 1161,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5357121491508928442"
+      },
+      {
+        "offset": 1354,
+        "length": 7,
+        "type": "text_link",
+        "url": "https://t.me/aipost"
+      },
+      {
+        "offset": 1362,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5431390559912614642"
+      }
+    ],
+    "media_group_id": null,
+    "chat_id": -1004468214616,
+    "message_ids": [
+      73
+    ],
+    "update_ids": [
+      378303967
     ],
     "retry_count": 0
   }

@@ -418,5 +418,75 @@
       378303954
     ],
     "retry_count": 0
+  },
+  {
+    "type": "video",
+    "video_file_id": "BAACAgIAAyEFAAMBClOLWAADQmpaH3iY8I39NUVqvai76qrYqxMtAAIFnAACD_bISi1D89NeHIU_PQQ",
+    "video_file_size": 38901467,
+    "caption": "📺 Higgsfield launches AI film academy\n\nHiggsfield offers an interactive course revealing the full workflow behind their 95-minute film Hell Grind, shown at Cannes.\n\nThe academy focuses on practical techniques used in AI-assisted filmmaking, not just theory.\n\n📊@tech",
+    "entities": [
+      {
+        "offset": 0,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5285347429737055549"
+      },
+      {
+        "offset": 3,
+        "length": 35,
+        "type": "bold"
+      },
+      {
+        "offset": 73,
+        "length": 6,
+        "type": "text_link",
+        "url": "https://higgsfield.ai/academy/courses"
+      },
+      {
+        "offset": 73,
+        "length": 6,
+        "type": "bold"
+      },
+      {
+        "offset": 121,
+        "length": 25,
+        "type": "bold"
+      },
+      {
+        "offset": 189,
+        "length": 20,
+        "type": "bold"
+      },
+      {
+        "offset": 260,
+        "length": 2,
+        "type": "bold"
+      },
+      {
+        "offset": 260,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5449841756596101801"
+      },
+      {
+        "offset": 262,
+        "length": 5,
+        "type": "mention"
+      },
+      {
+        "offset": 262,
+        "length": 5,
+        "type": "bold"
+      }
+    ],
+    "media_group_id": null,
+    "chat_id": -1004468214616,
+    "message_ids": [
+      66
+    ],
+    "update_ids": [
+      378303960
+    ],
+    "retry_count": 0
   }
 ]
