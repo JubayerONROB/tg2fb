@@ -1,46 +1,5 @@
 [
   {
-    "type": "photo",
-    "photo_file_ids": [
-      "AgACAgQAAyEFAAMBClOLWAADPmpZV9y4_tWFKifC-3ULZIiTbuHBAALhDWsbYGzJUp858eNkEhqGAQADAgADeAADPQQ"
-    ],
-    "caption": "🇨🇳 China is cracking down on AI girlfriends and boyfriends\n\nChina has introduced new rules to stop people from becoming emotionally attached to AI companions.\n\nAI chatbots are now banned from encouraging emotional dependence, forming virtual romantic relationships with minors, and must alert an emergency contact if they detect a user may be in serious crisis.\n\nThe concern goes far beyond AI safety.\n\nOfficials fear that as China’s population continues to decline, more people could choose AI partners over real relationships, leading to fewer marriages and even fewer children.\n\nInterestingly, similar concerns are emerging in the U.S. California and New York now require chatbots to regularly remind users they’re not human and direct people in crisis to real support.\n\nBut China is taking things much further. The new regulations give authorities the power to ban AI companions, require government approval before launch, and shut down any chatbot they consider unsafe.\n\nThe impact is already being felt. Alibaba and ByteDance reportedly disabled some AI companion features this week to comply with the new rules.\n\n@aipost 🏴",
-    "entities": [
-      {
-        "offset": 0,
-        "length": 4,
-        "type": "custom_emoji",
-        "custom_emoji_id": "5431782733376399004"
-      },
-      {
-        "offset": 5,
-        "length": 55,
-        "type": "bold"
-      },
-      {
-        "offset": 1122,
-        "length": 7,
-        "type": "text_link",
-        "url": "https://t.me/aipost"
-      },
-      {
-        "offset": 1130,
-        "length": 2,
-        "type": "custom_emoji",
-        "custom_emoji_id": "5431390559912614642"
-      }
-    ],
-    "media_group_id": null,
-    "chat_id": -1004468214616,
-    "message_ids": [
-      62
-    ],
-    "update_ids": [
-      378303956
-    ],
-    "retry_count": 0
-  },
-  {
     "type": "album",
     "photo_file_ids": [
       "AgACAgIAAyEFAAMBClOLWAADP2pZV9wyLmuikBbF1fiX5t-WCZdoAAIvG2sbo8fJShwIJO76zVIZAQADAgADeQADPQQ",
@@ -116,6 +75,300 @@
     ],
     "update_ids": [
       378303959
+    ],
+    "retry_count": 0
+  },
+  {
+    "type": "video",
+    "video_file_id": "BAACAgIAAyEFAAMBClOLWAADQmpaH3iY8I39NUVqvai76qrYqxMtAAIFnAACD_bISi1D89NeHIU_PQQ",
+    "video_file_size": 38901467,
+    "caption": "📺 Higgsfield launches AI film academy\n\nHiggsfield offers an interactive course revealing the full workflow behind their 95-minute film Hell Grind, shown at Cannes.\n\nThe academy focuses on practical techniques used in AI-assisted filmmaking, not just theory.\n\n📊@tech",
+    "entities": [
+      {
+        "offset": 0,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5285347429737055549"
+      },
+      {
+        "offset": 3,
+        "length": 35,
+        "type": "bold"
+      },
+      {
+        "offset": 73,
+        "length": 6,
+        "type": "text_link",
+        "url": "https://higgsfield.ai/academy/courses"
+      },
+      {
+        "offset": 73,
+        "length": 6,
+        "type": "bold"
+      },
+      {
+        "offset": 121,
+        "length": 25,
+        "type": "bold"
+      },
+      {
+        "offset": 189,
+        "length": 20,
+        "type": "bold"
+      },
+      {
+        "offset": 260,
+        "length": 2,
+        "type": "bold"
+      },
+      {
+        "offset": 260,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5449841756596101801"
+      },
+      {
+        "offset": 262,
+        "length": 5,
+        "type": "mention"
+      },
+      {
+        "offset": 262,
+        "length": 5,
+        "type": "bold"
+      }
+    ],
+    "media_group_id": null,
+    "chat_id": -1004468214616,
+    "message_ids": [
+      66
+    ],
+    "update_ids": [
+      378303960
+    ],
+    "retry_count": 0
+  },
+  {
+    "type": "video",
+    "video_file_id": "BAACAgIAAyEFAAMBClOLWAADQ2paH4NGXcQxyYG35xuEfmw6QkzVAALHmgACD_bIShrjMWBagJaqPQQ",
+    "video_file_size": 645668,
+    "caption": "🤖 ChatGPT adds unified chat search\n\nChatGPT now supports searching across chats, projects, images, and documents in one window. The feature is live on web, iOS, and Android.\n\nUsers can apply filters to narrow results and jump directly to the matching spot in conversations or projects.\n\nThis replaces slow manual scrolling through history with keyword search that finds information in seconds.\n\n📊@tech",
+    "entities": [
+      {
+        "offset": 0,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5397681122542893003"
+      },
+      {
+        "offset": 3,
+        "length": 32,
+        "type": "bold"
+      },
+      {
+        "offset": 37,
+        "length": 7,
+        "type": "bold"
+      },
+      {
+        "offset": 58,
+        "length": 55,
+        "type": "bold"
+      },
+      {
+        "offset": 192,
+        "length": 7,
+        "type": "bold"
+      },
+      {
+        "offset": 222,
+        "length": 34,
+        "type": "bold"
+      },
+      {
+        "offset": 345,
+        "length": 14,
+        "type": "bold"
+      },
+      {
+        "offset": 396,
+        "length": 2,
+        "type": "bold"
+      },
+      {
+        "offset": 396,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5449841756596101801"
+      },
+      {
+        "offset": 398,
+        "length": 5,
+        "type": "mention"
+      },
+      {
+        "offset": 398,
+        "length": 5,
+        "type": "bold"
+      }
+    ],
+    "media_group_id": null,
+    "chat_id": -1004468214616,
+    "message_ids": [
+      67
+    ],
+    "update_ids": [
+      378303961
+    ],
+    "retry_count": 0
+  },
+  {
+    "type": "video",
+    "video_file_id": "BAACAgIAAyEFAAMBClOLWAADRGpaH5z0cN6GbgED6o8ovR9DDz1JAAKSpgAC_fnISvXZIk7vDrtvPQQ",
+    "video_file_size": 4945721,
+    "caption": "Kimi K3 has surpassed Opus 4.8 in generating retro arcade games, achieving comparable results at roughly half the cost.\n\nAtomic Chat, a desktop application capable of running local LLMs, tasked three models—Kimi K3, GPT-5.6, and Opus 4.8—with creating self-playing versions of Road Fighter, Battle City, and Q*bert in single HTML files. Each output required integrated graphics, opponent logic, game rules, and an autonomous player within one file.\n\nPerformance metrics showed Kimi K3 and GPT-5.6 produced similar token counts (18.4K and 18.1K, costing $0.28 each), while Opus 4.8 generated 21.3K tokens at $0.54.\n\nKimi K3’s Q*bert demonstrated stable game logic, allowing effective navigation and enemy avoidance. GPT-5.6, while offering visually superior results, encountered functional issues with player logic in Road Fighter and Battle City.\n\n📰 @aipost",
+    "entities": [
+      {
+        "offset": 848,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5363988332466438547"
+      },
+      {
+        "offset": 851,
+        "length": 7,
+        "type": "mention"
+      }
+    ],
+    "media_group_id": null,
+    "chat_id": -1004468214616,
+    "message_ids": [
+      68
+    ],
+    "update_ids": [
+      378303962
+    ],
+    "retry_count": 0
+  },
+  {
+    "type": "video",
+    "video_file_id": "BAACAgQAAyEFAAMBClOLWAADRWpaH62pRNKKoFGCQ4T6XSUtbqTVAAIdHQACIGjQUihdYAR-39IVPQQ",
+    "video_file_size": 40666568,
+    "caption": "🔥Real Steel has officially become reality\n\nChina has launched Ultimate Robot Knockout Legend (URKL), a full-fledged fighting league where humanoid robots step into the ring and battle for glory.\n\nThe tournament features 16 teams, but everyone uses the exact same robot. There are no hardware advantages.\n\nThe winner is decided by software.\n\nEach team develops its own AI, control algorithms, movement, balance, reflexes, and fighting strategy, turning every match into a battle of engineering rather than expensive hardware.\n\n💰 There’s also serious money on the line: a 10 million yuan (around $1.4 million) prize pool.\n\nAnd the fights are already delivering unforgettable moments.\n\nIn one of the first matches, a robot gets completely decapitated after taking a huge hit… then simply gets back up and keeps fighting like nothing happened. 🤯\n\nThe commentators couldn’t help but laugh: “Well… now the opponent can’t score any more headshots.”\n\nEven better, watch until the end, the winning robot actually celebrates its victory, making it look like a scene straight out of Real Steel.\n\nThis isn’t just entertainment. It’s also a showcase of how far robotics and AI have come.\n\nWould you pay to watch robot fights instead of human MMA? 🤔\n\n@aipost 🏴",
+    "entities": [
+      {
+        "offset": 0,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5363970504057191145"
+      },
+      {
+        "offset": 2,
+        "length": 40,
+        "type": "bold"
+      },
+      {
+        "offset": 527,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5289964193162759223"
+      },
+      {
+        "offset": 842,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5370745797786738962"
+      },
+      {
+        "offset": 1179,
+        "length": 58,
+        "type": "bold"
+      },
+      {
+        "offset": 1237,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5370724846936267183"
+      },
+      {
+        "offset": 1241,
+        "length": 7,
+        "type": "text_link",
+        "url": "https://t.me/aipost"
+      },
+      {
+        "offset": 1249,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5431390559912614642"
+      }
+    ],
+    "media_group_id": null,
+    "chat_id": -1004468214616,
+    "message_ids": [
+      69
+    ],
+    "update_ids": [
+      378303963
+    ],
+    "retry_count": 0
+  },
+  {
+    "type": "photo",
+    "photo_file_ids": [
+      "AgACAgUAAyEFAAMBClOLWAADRmpaIKLjl39ve6u-MXpIS0W1e2hVAALGEGsb-jrQVlDMo_EokzJAAQADAgADeQADPQQ"
+    ],
+    "caption": "The team behind AI 2027 asks: What happens after 2029?\n\nThe nonprofit AI Futures Project released AI 2040, an interactive forecast exploring five paths for the AI race over the next decade. The report presents five scenarios:\n\n• Full-speed AI race\n• Unilateral slowdown by one country\n• Geopolitical confrontation\n• International cooperation\n• Global halt to frontier AI research\n\nThe authors favor “Plan A”: U.S. and China pause frontier AI training in 2029, implement global chip tracking, and enforce unprecedented transparency from leading AI labs.\n\nCo-author and former OpenAI researcher Daniel Kokotajlo notes the biggest challenge: AI companies likely won't like it. The plan demands labs openly share more of their development.\n\nWhether you agree or not, AI 2040 is a thoughtful attempt to map AI's potential trajectory over the next decade.\n\n📖 Definitely worth the read.\n\n🔗 https://ai-2040.com",
+    "entities": [
+      {
+        "offset": 0,
+        "length": 54,
+        "type": "bold"
+      },
+      {
+        "offset": 70,
+        "length": 18,
+        "type": "bold"
+      },
+      {
+        "offset": 98,
+        "length": 7,
+        "type": "bold"
+      },
+      {
+        "offset": 210,
+        "length": 14,
+        "type": "bold"
+      },
+      {
+        "offset": 399,
+        "length": 8,
+        "type": "bold"
+      },
+      {
+        "offset": 593,
+        "length": 16,
+        "type": "bold"
+      },
+      {
+        "offset": 763,
+        "length": 7,
+        "type": "bold"
+      },
+      {
+        "offset": 885,
+        "length": 19,
+        "type": "text_link",
+        "url": "https://ai-2040.com/"
+      }
+    ],
+    "media_group_id": null,
+    "chat_id": -1004468214616,
+    "message_ids": [
+      70
+    ],
+    "update_ids": [
+      378303964
     ],
     "retry_count": 0
   }
