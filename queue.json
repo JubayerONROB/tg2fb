@@ -1,35 +1,6 @@
 [
   {
     "type": "video",
-    "video_file_id": "BAACAgQAAyEFAAMBClOLWAADOmpY1l2FcbxwgO6JIpl_j63hFfNwAAIGGwACYGzJUosQSR0za_35PQQ",
-    "video_file_size": 12367843,
-    "caption": "Moonshot announces Kimi K3\n\n@aipost 🏴",
-    "entities": [
-      {
-        "offset": 28,
-        "length": 7,
-        "type": "text_link",
-        "url": "https://t.me/aipost"
-      },
-      {
-        "offset": 36,
-        "length": 2,
-        "type": "custom_emoji",
-        "custom_emoji_id": "5431390559912614642"
-      }
-    ],
-    "media_group_id": null,
-    "chat_id": -1004468214616,
-    "message_ids": [
-      58
-    ],
-    "update_ids": [
-      378303952
-    ],
-    "retry_count": 0
-  },
-  {
-    "type": "video",
     "video_file_id": "BAACAgIAAyEFAAMBClOLWAADOWpY1h4uU7Mj6pYcd0AGE4o5_NhhAAIxlgACz_rASm9jTq24FmMoPQQ",
     "video_file_size": 49535284,
     "caption": "🤖 OpenAI launches Codex Micro keyboard\n\nOpenAI released the Codex Micro, a $230 keyboard made with Work Louder for users of its AI agent Codex. It has six large keys, each linked to a separate agent and showing status by color: blue means working, green means task done, orange means waiting for human input.\n\nThe keyboard lets users switch agents with one press or open the Codex window with two. Codex has over 8 million weekly users, many running multiple agents at once.\n\nManaging several agents on screen is tricky, so OpenAI built this device to track their states physically. It doesn’t write code but helps users handle multiple AI agents simultaneously.\n\n📊@tech",
