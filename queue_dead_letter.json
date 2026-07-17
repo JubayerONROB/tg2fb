@@ -160,5 +160,114 @@
       378303944
     ],
     "retry_count": 0
+  },
+  {
+    "type": "video",
+    "video_file_id": "BAACAgIAAyEFAAMBClOLWAADOWpY1h4uU7Mj6pYcd0AGE4o5_NhhAAIxlgACz_rASm9jTq24FmMoPQQ",
+    "video_file_size": 49535284,
+    "caption": "🤖 OpenAI launches Codex Micro keyboard\n\nOpenAI released the Codex Micro, a $230 keyboard made with Work Louder for users of its AI agent Codex. It has six large keys, each linked to a separate agent and showing status by color: blue means working, green means task done, orange means waiting for human input.\n\nThe keyboard lets users switch agents with one press or open the Codex window with two. Codex has over 8 million weekly users, many running multiple agents at once.\n\nManaging several agents on screen is tricky, so OpenAI built this device to track their states physically. It doesn’t write code but helps users handle multiple AI agents simultaneously.\n\n📊@tech",
+    "entities": [
+      {
+        "offset": 0,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5397681122542893003"
+      },
+      {
+        "offset": 3,
+        "length": 36,
+        "type": "bold"
+      },
+      {
+        "offset": 61,
+        "length": 11,
+        "type": "bold"
+      },
+      {
+        "offset": 76,
+        "length": 4,
+        "type": "bold"
+      },
+      {
+        "offset": 100,
+        "length": 11,
+        "type": "bold"
+      },
+      {
+        "offset": 152,
+        "length": 14,
+        "type": "bold"
+      },
+      {
+        "offset": 229,
+        "length": 18,
+        "type": "bold"
+      },
+      {
+        "offset": 249,
+        "length": 21,
+        "type": "bold"
+      },
+      {
+        "offset": 272,
+        "length": 36,
+        "type": "bold"
+      },
+      {
+        "offset": 376,
+        "length": 5,
+        "type": "bold"
+      },
+      {
+        "offset": 399,
+        "length": 5,
+        "type": "bold"
+      },
+      {
+        "offset": 414,
+        "length": 22,
+        "type": "bold"
+      },
+      {
+        "offset": 525,
+        "length": 6,
+        "type": "bold"
+      },
+      {
+        "offset": 629,
+        "length": 18,
+        "type": "bold"
+      },
+      {
+        "offset": 665,
+        "length": 2,
+        "type": "bold"
+      },
+      {
+        "offset": 665,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5449841756596101801"
+      },
+      {
+        "offset": 667,
+        "length": 5,
+        "type": "mention"
+      },
+      {
+        "offset": 667,
+        "length": 5,
+        "type": "bold"
+      }
+    ],
+    "media_group_id": null,
+    "chat_id": -1004468214616,
+    "message_ids": [
+      57
+    ],
+    "update_ids": [
+      378303951
+    ],
+    "retry_count": 0
   }
 ]
