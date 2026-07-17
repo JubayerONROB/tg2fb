@@ -1,52 +1,5 @@
 [
   {
-    "type": "photo",
-    "photo_file_ids": [
-      "AgACAgQAAyEFAAMBClOLWAADQWpZpIa2bay-SQ2jfEG9mYMGCZEvAALkDWsbYGzJUqOBRYXKvV0yAQADAgADeQADPQQ"
-    ],
-    "caption": "💍 Two humanoid robots just had a wedding\n\nRussia has staged what it says is its first-ever robot wedding and yes, there was even a robot dog carrying the rings.\n\nThe two humanoid robots, Robert and Matilda, exchanged AI-generated wedding vows before swapping bracelets instead of rings. Their “best man” was a robotic dog named Dogmatik, which delivered the bracelets during the ceremony. \n\nBefore you ask… no, the marriage isn’t legally recognized.\n\nThe event was actually a showcase by Russian robotics company IT-Imperial to demonstrate how humanoid robots can be given unique personalities and behaviors. Robert was designed as an office worker and blogger, while Matilda appeared as a ballerina and even performed a dance. \n\nSource. \n\n@aipost 🏴",
-    "entities": [
-      {
-        "offset": 0,
-        "length": 2,
-        "type": "custom_emoji",
-        "custom_emoji_id": "5402100905883488232"
-      },
-      {
-        "offset": 3,
-        "length": 38,
-        "type": "bold"
-      },
-      {
-        "offset": 731,
-        "length": 8,
-        "type": "text_link",
-        "url": "https://www.dexerto.com/entertainment/two-robots-just-got-married-in-bizarre-ceremony-with-robot-dog-as-ringbearer-3387543/"
-      },
-      {
-        "offset": 741,
-        "length": 7,
-        "type": "text_link",
-        "url": "https://t.me/aipost"
-      },
-      {
-        "offset": 749,
-        "length": 2,
-        "type": "custom_emoji",
-        "custom_emoji_id": "5431390559912614642"
-      }
-    ],
-    "media_group_id": null,
-    "chat_id": -1004468214616,
-    "message_ids": [
-      65
-    ],
-    "update_ids": [
-      378303959
-    ],
-    "retry_count": 0
-  },
-  {
     "type": "video",
     "video_file_id": "BAACAgIAAyEFAAMBClOLWAADQmpaH3iY8I39NUVqvai76qrYqxMtAAIFnAACD_bISi1D89NeHIU_PQQ",
     "video_file_size": 38901467,
