@@ -1,40 +1,5 @@
 [
   {
-    "type": "video",
-    "video_file_id": "BAACAgQAAyEFAAMBClOLWAADUWpbzLwg-gZZw_LDJC74fhNCIKPxAAK-HQAC-WTZUr3CaoTmwLi5PQQ",
-    "video_file_size": 3844728,
-    "caption": "🇨🇳 China announces new affordable robot girlfriend starter pack.\n\n@aipost 🏴",
-    "entities": [
-      {
-        "offset": 0,
-        "length": 4,
-        "type": "custom_emoji",
-        "custom_emoji_id": "5431782733376399004"
-      },
-      {
-        "offset": 68,
-        "length": 7,
-        "type": "text_link",
-        "url": "https://t.me/aipost"
-      },
-      {
-        "offset": 76,
-        "length": 2,
-        "type": "custom_emoji",
-        "custom_emoji_id": "5431390559912614642"
-      }
-    ],
-    "media_group_id": null,
-    "chat_id": -1004468214616,
-    "message_ids": [
-      81
-    ],
-    "update_ids": [
-      378303975
-    ],
-    "retry_count": 0
-  },
-  {
     "type": "photo",
     "photo_file_ids": [
       "AgACAgQAAyEFAAMBClOLWAADUmpbzMZwWXljqHGmEp7tqB2nhFj4AAIrDWsb-WTZUjhtn2CqPpH_AQADAgADeAADPQQ"
