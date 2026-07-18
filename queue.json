@@ -2,53 +2,6 @@
   {
     "type": "photo",
     "photo_file_ids": [
-      "AgACAgQAAyEFAAMBClOLWAADTWpa_APFuJYyfWkESWXGGTa6aqkzAAIZDWsbIGjYUsVf1GoOCRQjAQADAgADeQADPQQ"
-    ],
-    "caption": "❗️The first robot labor battle is here\n\nThe humanoid robot revolution has hit its first major obstacle… humans.\n\nWorkers at Hyundai’s giant Ulsan factory in South Korea have gone on strike over fears that Atlas, the humanoid robot from Boston Dynamics, could eventually replace manufacturing jobs.\n\nThe strike has already partially disrupted production, making this the first known factory shutdown tied to concerns over humanoid robots.\n\nWhat’s interesting is that Atlas isn’t even working in the factory yet. Hyundai plans to deploy the robots at its new factory in Georgia, USA, around 2028, but workers want guarantees now before humanoids become a normal part of the assembly line.\n\nThe union is demanding job protections, a higher retirement age, and compensation that reflects a future where robots take on more of the work.\n\nSource. \n\n@aipost 🏴",
-    "entities": [
-      {
-        "offset": 0,
-        "length": 2,
-        "type": "custom_emoji",
-        "custom_emoji_id": "5289761612440310918"
-      },
-      {
-        "offset": 2,
-        "length": 36,
-        "type": "bold"
-      },
-      {
-        "offset": 833,
-        "length": 8,
-        "type": "text_link",
-        "url": "https://www.wsj.com/business/autos/the-fight-over-humanoid-robots-has-shut-down-a-car-factory-for-the-first-time-d45ac3e1"
-      },
-      {
-        "offset": 843,
-        "length": 7,
-        "type": "text_link",
-        "url": "https://t.me/aipost"
-      },
-      {
-        "offset": 851,
-        "length": 2,
-        "type": "custom_emoji",
-        "custom_emoji_id": "5431390559912614642"
-      }
-    ],
-    "media_group_id": null,
-    "chat_id": -1004468214616,
-    "message_ids": [
-      77
-    ],
-    "update_ids": [
-      378303971
-    ],
-    "retry_count": 0
-  },
-  {
-    "type": "photo",
-    "photo_file_ids": [
       "AgACAgIAAyEFAAMBClOLWAADTmpbM6n8ZJbEorpMxoLJbWcEzO_0AAIxGGsbO7LYSl5C0Jwu7stUAQADAgADeQADPQQ"
     ],
     "caption": "🤖 Anthropic limits Fable 5 access\n\nAnthropic restricts Fable 5 to the priciest plans, Max and Team Premium, with no usage limit changes.\n\nStarting July 20, pro users switch to credit-based payments and get a one-time $100 API credit.\n\nAnthropic lacks capacity for wider access amid competition from GPT-5.6 and Kimi K3.\n\n📊@tech",
