@@ -1,45 +1,5 @@
 [
   {
-    "type": "video",
-    "video_file_id": "BAACAgQAAyEFAAMBClOLWAADR2paZsx76XRZB7GEalbBTIqlR_KBAAJIHQACIGjQUsw2ZAKavhSKPQQ",
-    "video_file_size": 1731155,
-    "caption": "🤖 ChatGPT just made finding old conversations way easier\n\nNo more endless scrolling through your chat history.\n\nOpenAI has rolled out unified search in ChatGPT, letting you search across chats, projects, uploaded documents, and images from a single search window. The feature is now available on web, iOS, and Android.\n\nYou can also apply filters to narrow your search and jump straight to the exact message, document, or project you’re looking for.\n\nIf you’ve been using ChatGPT for months (or years), this is one of those small updates that makes a huge difference. Finding old prompts, notes, and files now takes seconds instead of minutes.\n\n@aipost 🏴",
-    "entities": [
-      {
-        "offset": 0,
-        "length": 2,
-        "type": "custom_emoji",
-        "custom_emoji_id": "5397681122542893003"
-      },
-      {
-        "offset": 3,
-        "length": 54,
-        "type": "bold"
-      },
-      {
-        "offset": 646,
-        "length": 7,
-        "type": "text_link",
-        "url": "https://t.me/aipost"
-      },
-      {
-        "offset": 654,
-        "length": 2,
-        "type": "custom_emoji",
-        "custom_emoji_id": "5431390559912614642"
-      }
-    ],
-    "media_group_id": null,
-    "chat_id": -1004468214616,
-    "message_ids": [
-      71
-    ],
-    "update_ids": [
-      378303965
-    ],
-    "retry_count": 0
-  },
-  {
     "type": "photo",
     "photo_file_ids": [
       "AgACAgQAAyEFAAMBClOLWAADSGpaZulrHVQehevGAiQ0dzC-Vn1ZAAKyDWsbwFzNUjNHpgyauENJAQADAgADeQADPQQ"
