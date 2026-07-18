@@ -1,54 +1,5 @@
 [
   {
-    "type": "album",
-    "photo_file_ids": [
-      "AgACAgQAAyEFAAMBClOLWAADS2pa-_TWmO1KpFPFUYzfUN2r-ZMpAAKlDmsbIGjQUlr9G3LBP6BXAQADAgADeAADPQQ",
-      "AgACAgQAAyEFAAMBClOLWAADTGpa-_SE_i42cj3lNJbAY7_RHhCmAAKmDmsbIGjQUpFGOJ8LNJrGAQADAgADeQADPQQ"
-    ],
-    "caption": "🇪🇺 EU forces Google to hand over search data to AI rivals\n\nBrussels just dropped a hammer on Google. Under the Digital Markets Act, the EU is forcing the search giant to share its goldmine of European user data, queries, clicks, rankings, and views, with competitors, including AI chatbots from OpenAI, Perplexity, and others.\n\nNo more privacy. Starting 2027, Google must provide anonymized search intel on fair terms to level the playing field. The goal: fuel better rival AI and search engines.\n\nGoogle is fighting back hard, warning the move risks exposing sensitive user searches on health, finance, and family, claiming weak anonymization could let AI re-identify people in hours.\n\n@aipost 🏴",
-    "entities": [
-      {
-        "offset": 0,
-        "length": 4,
-        "type": "bold"
-      },
-      {
-        "offset": 0,
-        "length": 4,
-        "type": "custom_emoji",
-        "custom_emoji_id": "5228784522924930237"
-      },
-      {
-        "offset": 4,
-        "length": 55,
-        "type": "bold"
-      },
-      {
-        "offset": 689,
-        "length": 7,
-        "type": "text_link",
-        "url": "https://t.me/aipost"
-      },
-      {
-        "offset": 697,
-        "length": 2,
-        "type": "custom_emoji",
-        "custom_emoji_id": "5431390559912614642"
-      }
-    ],
-    "media_group_id": "14274781090141149",
-    "chat_id": -1004468214616,
-    "message_ids": [
-      75,
-      76
-    ],
-    "update_ids": [
-      378303969,
-      378303970
-    ],
-    "retry_count": 0
-  },
-  {
     "type": "photo",
     "photo_file_ids": [
       "AgACAgQAAyEFAAMBClOLWAADTWpa_APFuJYyfWkESWXGGTa6aqkzAAIZDWsbIGjYUsVf1GoOCRQjAQADAgADeQADPQQ"
@@ -177,6 +128,35 @@
     ],
     "update_ids": [
       378303972
+    ],
+    "retry_count": 0
+  },
+  {
+    "type": "video",
+    "video_file_id": "BAACAgQAAyEFAAMBClOLWAADT2pbVbLmOOVGH1gSvKlTJPe3UMfvAAK3HQAC-WTZUhu8wmnTEdhjPQQ",
+    "video_file_size": 13459940,
+    "caption": "BrainCo showed off its latest bionic hand at WAIC 2026. Myoelectric control still works even when the hand is detached, which isn’t new.\n\nBut the soft, skin-like finish makes this one look almost real.\n\n@aipost 🏴",
+    "entities": [
+      {
+        "offset": 203,
+        "length": 7,
+        "type": "text_link",
+        "url": "https://t.me/aipost"
+      },
+      {
+        "offset": 211,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5431390559912614642"
+      }
+    ],
+    "media_group_id": null,
+    "chat_id": -1004468214616,
+    "message_ids": [
+      79
+    ],
+    "update_ids": [
+      378303973
     ],
     "retry_count": 0
   }
