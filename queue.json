@@ -1,1 +1,127 @@
-[]
+[
+  {
+    "type": "video",
+    "video_file_id": "BAACAgQAAyEFAAMBClOLWAADUWpbzLwg-gZZw_LDJC74fhNCIKPxAAK-HQAC-WTZUr3CaoTmwLi5PQQ",
+    "video_file_size": 3844728,
+    "caption": "🇨🇳 China announces new affordable robot girlfriend starter pack.\n\n@aipost 🏴",
+    "entities": [
+      {
+        "offset": 0,
+        "length": 4,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5431782733376399004"
+      },
+      {
+        "offset": 68,
+        "length": 7,
+        "type": "text_link",
+        "url": "https://t.me/aipost"
+      },
+      {
+        "offset": 76,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5431390559912614642"
+      }
+    ],
+    "media_group_id": null,
+    "chat_id": -1004468214616,
+    "message_ids": [
+      81
+    ],
+    "update_ids": [
+      378303975
+    ],
+    "retry_count": 0
+  },
+  {
+    "type": "photo",
+    "photo_file_ids": [
+      "AgACAgQAAyEFAAMBClOLWAADUmpbzMZwWXljqHGmEp7tqB2nhFj4AAIrDWsb-WTZUjhtn2CqPpH_AQADAgADeAADPQQ"
+    ],
+    "caption": "We are still so early, roughly 98% of US households still do not pay for AI. The market is nowhere close to saturation.\n\n@aipost 🏴",
+    "entities": [
+      {
+        "offset": 121,
+        "length": 7,
+        "type": "text_link",
+        "url": "https://t.me/aipost"
+      },
+      {
+        "offset": 129,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5431390559912614642"
+      }
+    ],
+    "media_group_id": null,
+    "chat_id": -1004468214616,
+    "message_ids": [
+      82
+    ],
+    "update_ids": [
+      378303976
+    ],
+    "retry_count": 0
+  },
+  {
+    "type": "photo",
+    "photo_file_ids": [
+      "AgACAgQAAyEFAAMBClOLWAADU2pbzOf0NdHd-RSRaUDv65q5YWbYAAJzD2sbBSDZUnHFz0Rczf2GAQADAgADeQADPQQ"
+    ],
+    "caption": "📊 Elon Musk Promises to Open Source X Fully\n\nElon Musk promised to make X fully open source, not just parts like recommendation algorithms. Independent experts will verify that the open code matches the live system.\n\nX is the platform formerly known as Twitter. This move aims to build trust through full transparency of its operations.\n\n📊@tech",
+    "entities": [
+      {
+        "offset": 0,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5449841756596101801"
+      },
+      {
+        "offset": 3,
+        "length": 41,
+        "type": "bold"
+      },
+      {
+        "offset": 73,
+        "length": 1,
+        "type": "bold"
+      },
+      {
+        "offset": 218,
+        "length": 1,
+        "type": "bold"
+      },
+      {
+        "offset": 339,
+        "length": 2,
+        "type": "bold"
+      },
+      {
+        "offset": 339,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5449841756596101801"
+      },
+      {
+        "offset": 341,
+        "length": 5,
+        "type": "mention"
+      },
+      {
+        "offset": 341,
+        "length": 5,
+        "type": "bold"
+      }
+    ],
+    "media_group_id": null,
+    "chat_id": -1004468214616,
+    "message_ids": [
+      83
+    ],
+    "update_ids": [
+      378303977
+    ],
+    "retry_count": 0
+  }
+]
