@@ -2,65 +2,6 @@
   {
     "type": "photo",
     "photo_file_ids": [
-      "AgACAgQAAyEFAAMBClOLWAADSWpafB76EVoHSDdqvWLMeONyJ3CMAAJvDmsbIGjQUrebPKiThH1vAQADAgADeAADPQQ"
-    ],
-    "caption": "❗️Black Mirror is getting a little too real\n\nJustin McLeod, the founder of Hinge, thinks the future of dating isn’t more swiping, it’s letting AI decide who you should meet.\n\nHis new startup, Overtone, doesn’t call itself a dating app. There are no profiles, no endless swiping, and no matching. Instead, it gets to know you through conversations and your own words, then introduces you to someone only when it believes there’s a genuinely strong connection.\n\nIn other words: you don’t choose, the algorithm does.\n\nIf that sounds familiar, it’s because it feels a lot like Black Mirror’s “Hang the DJ,” where an algorithm controls people’s relationships until it finds their perfect match.\n\nInvestors seem to love the idea. Overtone has already raised $18 million, with backing from Match Group, the company behind Tinder, Hinge, and OkCupid. Ironically, the same company that helped turn dating into an endless swipe is now betting on a future without swiping.\n\nWhat’s even more interesting is that the entire dating industry appears to be changing course:\n\n❤️ Bumble is moving away from swipe-first experiences.\n🤖 Facebook is testing an AI dating assistant.\n👀 Tinder is introducing eye verification to fight AI-generated fake profiles.\n\nAfter years of optimizing for engagement, the biggest apps are now trying to optimize for actual relationships.\n\n@aipost 🏴",
-    "entities": [
-      {
-        "offset": 0,
-        "length": 2,
-        "type": "custom_emoji",
-        "custom_emoji_id": "5289761612440310918"
-      },
-      {
-        "offset": 2,
-        "length": 41,
-        "type": "bold"
-      },
-      {
-        "offset": 1059,
-        "length": 2,
-        "type": "custom_emoji",
-        "custom_emoji_id": "5312138559556164615"
-      },
-      {
-        "offset": 1114,
-        "length": 2,
-        "type": "custom_emoji",
-        "custom_emoji_id": "5309832892262654231"
-      },
-      {
-        "offset": 1161,
-        "length": 2,
-        "type": "custom_emoji",
-        "custom_emoji_id": "5357121491508928442"
-      },
-      {
-        "offset": 1354,
-        "length": 7,
-        "type": "text_link",
-        "url": "https://t.me/aipost"
-      },
-      {
-        "offset": 1362,
-        "length": 2,
-        "type": "custom_emoji",
-        "custom_emoji_id": "5431390559912614642"
-      }
-    ],
-    "media_group_id": null,
-    "chat_id": -1004468214616,
-    "message_ids": [
-      73
-    ],
-    "update_ids": [
-      378303967
-    ],
-    "retry_count": 0
-  },
-  {
-    "type": "photo",
-    "photo_file_ids": [
       "AgACAgQAAyEFAAMBClOLWAADSmpapOGE_j6pdkdwqNN5z5njUkIFAAKMDmsbIGjQUghrzvW8fS0qAQADAgADdwADPQQ"
     ],
     "caption": "⚖️ One of the world’s top law schools is redesigning legal education for the AI era\n\nThe University of Chicago Law School has unveiled a new AI strategy and it’s not banning AI.\n\nInstead, it’s splitting legal education into two phases:\n\n🧠 First, learn to think without AI:\n\nFirst-year students will take required classes without laptops or phones, complete in-person handwritten exams, and even defend major papers orally. The goal is to build strong reasoning and legal judgment before relying on AI tools.\n\n🤖 Then, learn to work with AI:\n\nLater in the program, students will be trained to use professional AI tools like Harvey and Legora for legal research, drafting, and document review.\n\nThe school’s message is simple: AI is becoming an essential part of legal practice, but future lawyers still need to develop the critical thinking skills that AI can’t replace.\n\n@aipost 🏴",
@@ -214,6 +155,91 @@
     ],
     "update_ids": [
       378303971
+    ],
+    "retry_count": 0
+  },
+  {
+    "type": "photo",
+    "photo_file_ids": [
+      "AgACAgIAAyEFAAMBClOLWAADTmpbM6n8ZJbEorpMxoLJbWcEzO_0AAIxGGsbO7LYSl5C0Jwu7stUAQADAgADeQADPQQ"
+    ],
+    "caption": "🤖 Anthropic limits Fable 5 access\n\nAnthropic restricts Fable 5 to the priciest plans, Max and Team Premium, with no usage limit changes.\n\nStarting July 20, pro users switch to credit-based payments and get a one-time $100 API credit.\n\nAnthropic lacks capacity for wider access amid competition from GPT-5.6 and Kimi K3.\n\n📊@tech",
+    "entities": [
+      {
+        "offset": 0,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5208665212483310136"
+      },
+      {
+        "offset": 3,
+        "length": 31,
+        "type": "bold"
+      },
+      {
+        "offset": 56,
+        "length": 7,
+        "type": "bold"
+      },
+      {
+        "offset": 87,
+        "length": 20,
+        "type": "bold"
+      },
+      {
+        "offset": 148,
+        "length": 7,
+        "type": "bold"
+      },
+      {
+        "offset": 218,
+        "length": 4,
+        "type": "bold"
+      },
+      {
+        "offset": 236,
+        "length": 9,
+        "type": "bold"
+      },
+      {
+        "offset": 300,
+        "length": 7,
+        "type": "bold"
+      },
+      {
+        "offset": 312,
+        "length": 7,
+        "type": "bold"
+      },
+      {
+        "offset": 322,
+        "length": 2,
+        "type": "bold"
+      },
+      {
+        "offset": 322,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5449841756596101801"
+      },
+      {
+        "offset": 324,
+        "length": 5,
+        "type": "mention"
+      },
+      {
+        "offset": 324,
+        "length": 5,
+        "type": "bold"
+      }
+    ],
+    "media_group_id": null,
+    "chat_id": -1004468214616,
+    "message_ids": [
+      78
+    ],
+    "update_ids": [
+      378303972
     ],
     "retry_count": 0
   }
