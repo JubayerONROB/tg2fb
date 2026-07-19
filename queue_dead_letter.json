@@ -591,5 +591,59 @@
       378303978
     ],
     "retry_count": 0
+  },
+  {
+    "type": "video",
+    "video_file_id": "BAACAgIAAyEFAAMBClOLWAADWGpc3_fEgDCNW_tDtEF7TxzBoS8vAAK3mgACuzywSkF0HokaReGvPQQ",
+    "video_file_size": 30705549,
+    "caption": "🇯🇵 Japanese Robot Floats Like a Living Whale\n\nEngineers at Keio University created a small white robot that silently floats in the air using a helium-filled shell. This design supports most of its weight, letting motors only steer it, which cuts energy use and noise.\n\nThe robot moves with soft flapping fins instead of propellers, making it safer and more lifelike. It can gently push, touch, or even hug, and it navigates spaces under ceilings, over furniture, and up stairs.\n\n📊@tech",
+    "entities": [
+      {
+        "offset": 0,
+        "length": 4,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5460965305280899224"
+      },
+      {
+        "offset": 5,
+        "length": 41,
+        "type": "bold"
+      },
+      {
+        "offset": 61,
+        "length": 15,
+        "type": "bold"
+      },
+      {
+        "offset": 481,
+        "length": 2,
+        "type": "bold"
+      },
+      {
+        "offset": 481,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5449841756596101801"
+      },
+      {
+        "offset": 483,
+        "length": 5,
+        "type": "mention"
+      },
+      {
+        "offset": 483,
+        "length": 5,
+        "type": "bold"
+      }
+    ],
+    "media_group_id": null,
+    "chat_id": -1004468214616,
+    "message_ids": [
+      88
+    ],
+    "update_ids": [
+      378303982
+    ],
+    "retry_count": 0
   }
 ]

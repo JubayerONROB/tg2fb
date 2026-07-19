@@ -1,1 +1,113 @@
-[]
+[
+  {
+    "type": "video",
+    "video_file_id": "BAACAgQAAyEFAAMBClOLWAADWWpc4Abu6nB75-kRPq2uwWEvcqfIAALLHQAC-WTZUpKEGXRcQWHGPQQ",
+    "video_file_size": 8552759,
+    "caption": "🗣Elon Musk says coding will be dead by year-end\n\n\"[Coding] is an intermediate step that actually will not be needed probably by... I'd say the end of this year.\" \n \n\"AI can create a much more efficient binary than can be done by any compiler.\"\n\n@aipost 🏴",
+    "entities": [
+      {
+        "offset": 0,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5287468155738821335"
+      },
+      {
+        "offset": 2,
+        "length": 46,
+        "type": "bold"
+      },
+      {
+        "offset": 246,
+        "length": 7,
+        "type": "text_link",
+        "url": "https://t.me/aipost"
+      },
+      {
+        "offset": 254,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5431390559912614642"
+      }
+    ],
+    "media_group_id": null,
+    "chat_id": -1004468214616,
+    "message_ids": [
+      89
+    ],
+    "update_ids": [
+      378303983
+    ],
+    "retry_count": 0
+  },
+  {
+    "type": "photo",
+    "photo_file_ids": [
+      "AgACAgQAAyEFAAMBClOLWAADWmpc4BAQ4R9OafQJtfgTzo5F_u_ZAAJBDWsb-WTZUm_dwLa7fy2oAQADAgADeAADPQQ"
+    ],
+    "caption": "American companies now use Chinese AI models more than US-made ones.\n\n@aipost 🏴",
+    "entities": [
+      {
+        "offset": 70,
+        "length": 7,
+        "type": "text_link",
+        "url": "https://t.me/aipost"
+      },
+      {
+        "offset": 78,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5431390559912614642"
+      }
+    ],
+    "media_group_id": null,
+    "chat_id": -1004468214616,
+    "message_ids": [
+      90
+    ],
+    "update_ids": [
+      378303984
+    ],
+    "retry_count": 0
+  },
+  {
+    "type": "photo",
+    "photo_file_ids": [
+      "AgACAgQAAyEFAAMBClOLWAADW2pc4B5x_C2GX33TvpIaeRflMMQFAAIDDmsb-WThUoYkXNiLerygAQADAgADdwADPQQ"
+    ],
+    "caption": "📊 U.S. data centers require:\n\n• 30x less water than U.S. golf courses.\n• 100x less than California almonds.\n• 200x less than U.S. home lawns.\n• 2,500x less than U.S. crop irrigation.\n\nWho is protesting almonds? Golf courses? Lawns? Nobody.\n\n@aipost 🏴",
+    "entities": [
+      {
+        "offset": 0,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5289720732941587857"
+      },
+      {
+        "offset": 3,
+        "length": 26,
+        "type": "bold"
+      },
+      {
+        "offset": 242,
+        "length": 7,
+        "type": "text_link",
+        "url": "https://t.me/aipost"
+      },
+      {
+        "offset": 250,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5431390559912614642"
+      }
+    ],
+    "media_group_id": null,
+    "chat_id": -1004468214616,
+    "message_ids": [
+      91
+    ],
+    "update_ids": [
+      378303985
+    ],
+    "retry_count": 0
+  }
+]
