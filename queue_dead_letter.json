@@ -551,5 +551,45 @@
       378303963
     ],
     "retry_count": 0
+  },
+  {
+    "type": "video",
+    "video_file_id": "BAACAgQAAyEFAAMBClOLWAADVGpcbxJQ8JoEDDyhqwzhwvZ2hswNAAK5HQAC-WTZUiAn2Md5rJHJPQQ",
+    "video_file_size": 21078492,
+    "caption": "🗣\"AI is like oil.\" Chamath's latest take on All-In is the simplest explanation of why AI pricing is about to collapse.\n\nHe said think of one million AI tokens as one barrel of intelligence.\n\nAnthropic sells that barrel for $56. OpenAI sells it for $26. Elon sells it for $1. Zuck sells it for $1.50. Google sells it for $1. The Chinese sell it for 50 cents.\n\nSame barrel. Wildly different prices.\n\nHis point: \"If you've made a bet around one of these folks selling extremely expensive barrels of intelligence, you may run into some downstream\ndifficulty.\"\n\nThe capability gap between the expensive models and the cheap ones is shrinking every month. The pricing gap hasn't caught up yet. When it does, someone's margins collapse.\n\n@aipost 🏴",
+    "entities": [
+      {
+        "offset": 0,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5287468155738821335"
+      },
+      {
+        "offset": 2,
+        "length": 117,
+        "type": "bold"
+      },
+      {
+        "offset": 732,
+        "length": 7,
+        "type": "text_link",
+        "url": "https://t.me/aipost"
+      },
+      {
+        "offset": 740,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5431390559912614642"
+      }
+    ],
+    "media_group_id": null,
+    "chat_id": -1004468214616,
+    "message_ids": [
+      84
+    ],
+    "update_ids": [
+      378303978
+    ],
+    "retry_count": 0
   }
 ]
