@@ -1,45 +1,5 @@
 [
   {
-    "type": "video",
-    "video_file_id": "BAACAgQAAyEFAAMBClOLWAADWWpc4Abu6nB75-kRPq2uwWEvcqfIAALLHQAC-WTZUpKEGXRcQWHGPQQ",
-    "video_file_size": 8552759,
-    "caption": "🗣Elon Musk says coding will be dead by year-end\n\n\"[Coding] is an intermediate step that actually will not be needed probably by... I'd say the end of this year.\" \n \n\"AI can create a much more efficient binary than can be done by any compiler.\"\n\n@aipost 🏴",
-    "entities": [
-      {
-        "offset": 0,
-        "length": 2,
-        "type": "custom_emoji",
-        "custom_emoji_id": "5287468155738821335"
-      },
-      {
-        "offset": 2,
-        "length": 46,
-        "type": "bold"
-      },
-      {
-        "offset": 246,
-        "length": 7,
-        "type": "text_link",
-        "url": "https://t.me/aipost"
-      },
-      {
-        "offset": 254,
-        "length": 2,
-        "type": "custom_emoji",
-        "custom_emoji_id": "5431390559912614642"
-      }
-    ],
-    "media_group_id": null,
-    "chat_id": -1004468214616,
-    "message_ids": [
-      89
-    ],
-    "update_ids": [
-      378303983
-    ],
-    "retry_count": 0
-  },
-  {
     "type": "photo",
     "photo_file_ids": [
       "AgACAgQAAyEFAAMBClOLWAADWmpc4BAQ4R9OafQJtfgTzo5F_u_ZAAJBDWsb-WTZUm_dwLa7fy2oAQADAgADeAADPQQ"
