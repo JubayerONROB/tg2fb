@@ -2,47 +2,6 @@
   {
     "type": "photo",
     "photo_file_ids": [
-      "AgACAgQAAyEFAAMBClOLWAADYWpeHBdtcz00kykNJdYEk1OZI-HcAAJDDmsbovDwUmdKwYMU3Z6IAQADAgADeQADPQQ"
-    ],
-    "caption": "🚀 Alibaba unveils Qwen 3.8\n\nAlibaba has officially announced Qwen 3.8, its next flagship AI model.\n\nThe model packs a massive 2.4 trillion parameters, and Alibaba says it will be one of the world’s most capable AI models, with only Fable expected to outperform it.\n\nA preview version, Qwen3.8-Max-Preview, is already available to test through Token Plan, Qoder, and QoderWork. A global rollout is coming soon, and Alibaba also plans to open-release the model weights.\n\n@aipost 🏴",
-    "entities": [
-      {
-        "offset": 0,
-        "length": 2,
-        "type": "custom_emoji",
-        "custom_emoji_id": "5258332798409783582"
-      },
-      {
-        "offset": 3,
-        "length": 24,
-        "type": "bold"
-      },
-      {
-        "offset": 470,
-        "length": 7,
-        "type": "text_link",
-        "url": "https://t.me/aipost"
-      },
-      {
-        "offset": 478,
-        "length": 2,
-        "type": "custom_emoji",
-        "custom_emoji_id": "5431390559912614642"
-      }
-    ],
-    "media_group_id": null,
-    "chat_id": -1004468214616,
-    "message_ids": [
-      97
-    ],
-    "update_ids": [
-      378303991
-    ],
-    "retry_count": 0
-  },
-  {
-    "type": "photo",
-    "photo_file_ids": [
       "AgACAgQAAyEFAAMBClOLWAADYmpeHpTwgedfYG4tRdmiHJVZyL9BAALzDWsb2hftUuj81gKfsabTAQADAgADeQADPQQ"
     ],
     "caption": "🤖 OpenAI Adds Full History Search to ChatGPT\n\nOpenAI introduced a new search feature in ChatGPT that covers the entire conversation history, including files, images, and projects. It works via the sidebar with filters by content type.\n\nThe feature is available on web, iOS, and Android for all plans, including free. It launched alongside GPT-5.6 and the ChatGPT Work agent, which manages ongoing projects instead of single queries.\n\n📊@tech",
@@ -167,6 +126,74 @@
     ],
     "update_ids": [
       378303993
+    ],
+    "retry_count": 0
+  },
+  {
+    "type": "album",
+    "photo_file_ids": [
+      "AgACAgQAAyEFAAMBClOLWAADZGpeRwFw150AAePS4Cnx0bjzuZovmAACgQ5rG6Lw8FLtchOmVfikegEAAwIAA3kAAz0E",
+      "AgACAgQAAyEFAAMBClOLWAADZWpeRwFI3ARf-VvdF5QoxAOO2EKcAAKCDmsbovDwUibRLbFiL0kuAQADAgADeQADPQQ"
+    ],
+    "caption": "🇦🇺 Australia is planning some of the world's toughest AI regulations \n\n• Water usage will be limited\n\n• AI data centers will be required to become net producers of energy\n\n• AI companies can't train on Australian creators' work without their permission\n\n• Proposals expected to be introduced as legislation in 2027\n\n“Australian writers, musicians, artists and journalists must retain ownership and control of their work. Our laws will spell that out, plain as day ... anything less is theft\".\n\n@aipost 🏴",
+    "entities": [
+      {
+        "offset": 0,
+        "length": 4,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5382062173323276195"
+      },
+      {
+        "offset": 5,
+        "length": 66,
+        "type": "bold"
+      },
+      {
+        "offset": 496,
+        "length": 7,
+        "type": "text_link",
+        "url": "https://t.me/aipost"
+      },
+      {
+        "offset": 504,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5431390559912614642"
+      }
+    ],
+    "media_group_id": "14276507660091053",
+    "chat_id": -1004468214616,
+    "message_ids": [
+      100,
+      101
+    ],
+    "update_ids": [
+      378303994,
+      378303995
+    ],
+    "retry_count": 0
+  },
+  {
+    "type": "photo",
+    "photo_file_ids": [
+      "AgACAgUAAyEFAAMBClOLWAADZmpeWW0U4wYzkueLaChBNXQXvAFXAAKMFmsbJyfwVjjSuLqtEneDAQADAgADeQADPQQ"
+    ],
+    "caption": "A new MIT study found a 55% drop in brain connectivity for people using ChatGPT versus those not using it, despite equal task performance. David Brooks proposes three emerging AI user types:\n\n• Productive Passengers: Outsource thinking to AI, increasing output but risking cognitive decline.\n• Reluctant Optimizers: Use AI for busywork but intervene for real thinking; the boundary shifts easily toward over-reliance.\n• Mental Marathoners: Rare users who leverage AI to deepen, not avoid, complex thinking.\n\nThe competitive edge lies not in avoiding AI, but in knowing when to close ChatGPT and think independently first.\n\n🔗: https://arxiv.org/pdf/2506.08872",
+    "entities": [
+      {
+        "offset": 627,
+        "length": 32,
+        "type": "text_link",
+        "url": "https://arxiv.org/pdf/2506.08872"
+      }
+    ],
+    "media_group_id": null,
+    "chat_id": -1004468214616,
+    "message_ids": [
+      102
+    ],
+    "update_ids": [
+      378303996
     ],
     "retry_count": 0
   }
