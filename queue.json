@@ -2,18 +2,18 @@
   {
     "type": "photo",
     "photo_file_ids": [
-      "AgACAgIAAyEFAAMBClOLWAADXmpdhandAyUGqrK2jyDJjeKDCYJWAAIKGmsb6GbpSmBHl4sTgI8xAQADAgADeQADPQQ"
+      "AgACAgIAAyEFAAMBClOLWAADX2pd08aGDopOepplD_pVeVFwJP-zAAIeHWsb6GbpSruPCcNBHw4lAQADAgADeAADPQQ"
     ],
-    "caption": "China's BrainCo has presented a new brain-to-robot artificial intelligence system that enables users to operate robots with their thoughts. \n\nThe technology employs an EEG headset to detect brain signals, which are then processed by AI into robot commands in under 200 milliseconds. This system is compatible with humanoid robots, robotic arms, and robot dogs. During a demonstration, tasks such as picking up a cup and an apple were performed successfully.\n\nIn addition, BrainCo has launched a data collection platform designed to link human actions, brain activity, and robotic responses. This initiative aims to enhance the development and training of embodied AI systems.\n\n📰 @aipost",
+    "caption": "Kimi K3 has temporarily suspended new subscriptions due to overwhelming demand, leading to a strain on its GPU computing resources.\n\nChinese-made inference chips, such as those from Huawei, are expected to see increased demand as a result of these capacity pressures. Inference capability is now a key limiting factor for Kimi K3’s continued growth.\n\nTo manage resources, Kimi K3 will prioritize computing power for existing subscribers. The current customer base will not be affected by the pause.\n\nThe company plans to expand its capacity and reopen subscriptions in phases. Future membership will be divided into two plans: one for general use and another dedicated to coding-related workloads. This adjustment is designed to align computing resources more effectively.\n\n📰 @aipost",
     "entities": [
       {
-        "offset": 677,
+        "offset": 774,
         "length": 2,
         "type": "custom_emoji",
         "custom_emoji_id": "5363988332466438547"
       },
       {
-        "offset": 680,
+        "offset": 777,
         "length": 7,
         "type": "mention"
       }
@@ -21,10 +21,10 @@
     "media_group_id": null,
     "chat_id": -1004468214616,
     "message_ids": [
-      94
+      95
     ],
     "update_ids": [
-      378303988
+      378303989
     ],
     "retry_count": 0
   }
