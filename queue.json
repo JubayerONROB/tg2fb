@@ -2,42 +2,6 @@
   {
     "type": "photo",
     "photo_file_ids": [
-      "AgACAgQAAyEFAAMBClOLWAADYGpeHAHcZ9xmDt1BZ7C4zwLrrRQrAAJFDmsbovDwUvBNPITLZLMAAQEAAwIAA3kAAz0E"
-    ],
-    "caption": "🤙 9 Simple AI prompt tips\n\n@aipost 🏴",
-    "entities": [
-      {
-        "offset": 0,
-        "length": 2,
-        "type": "custom_emoji",
-        "custom_emoji_id": "5363814085643237520"
-      },
-      {
-        "offset": 28,
-        "length": 7,
-        "type": "text_link",
-        "url": "https://t.me/aipost"
-      },
-      {
-        "offset": 36,
-        "length": 2,
-        "type": "custom_emoji",
-        "custom_emoji_id": "5431390559912614642"
-      }
-    ],
-    "media_group_id": null,
-    "chat_id": -1004468214616,
-    "message_ids": [
-      96
-    ],
-    "update_ids": [
-      378303990
-    ],
-    "retry_count": 0
-  },
-  {
-    "type": "photo",
-    "photo_file_ids": [
       "AgACAgQAAyEFAAMBClOLWAADYWpeHBdtcz00kykNJdYEk1OZI-HcAAJDDmsbovDwUmdKwYMU3Z6IAQADAgADeQADPQQ"
     ],
     "caption": "🚀 Alibaba unveils Qwen 3.8\n\nAlibaba has officially announced Qwen 3.8, its next flagship AI model.\n\nThe model packs a massive 2.4 trillion parameters, and Alibaba says it will be one of the world’s most capable AI models, with only Fable expected to outperform it.\n\nA preview version, Qwen3.8-Max-Preview, is already available to test through Token Plan, Qoder, and QoderWork. A global rollout is coming soon, and Alibaba also plans to open-release the model weights.\n\n@aipost 🏴",
