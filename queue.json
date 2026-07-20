@@ -2,29 +2,207 @@
   {
     "type": "photo",
     "photo_file_ids": [
-      "AgACAgIAAyEFAAMBClOLWAADX2pd08aGDopOepplD_pVeVFwJP-zAAIeHWsb6GbpSruPCcNBHw4lAQADAgADeAADPQQ"
+      "AgACAgQAAyEFAAMBClOLWAADYGpeHAHcZ9xmDt1BZ7C4zwLrrRQrAAJFDmsbovDwUvBNPITLZLMAAQEAAwIAA3kAAz0E"
     ],
-    "caption": "Kimi K3 has temporarily suspended new subscriptions due to overwhelming demand, leading to a strain on its GPU computing resources.\n\nChinese-made inference chips, such as those from Huawei, are expected to see increased demand as a result of these capacity pressures. Inference capability is now a key limiting factor for Kimi K3’s continued growth.\n\nTo manage resources, Kimi K3 will prioritize computing power for existing subscribers. The current customer base will not be affected by the pause.\n\nThe company plans to expand its capacity and reopen subscriptions in phases. Future membership will be divided into two plans: one for general use and another dedicated to coding-related workloads. This adjustment is designed to align computing resources more effectively.\n\n📰 @aipost",
+    "caption": "🤙 9 Simple AI prompt tips\n\n@aipost 🏴",
     "entities": [
       {
-        "offset": 774,
+        "offset": 0,
         "length": 2,
         "type": "custom_emoji",
-        "custom_emoji_id": "5363988332466438547"
+        "custom_emoji_id": "5363814085643237520"
       },
       {
-        "offset": 777,
+        "offset": 28,
         "length": 7,
-        "type": "mention"
+        "type": "text_link",
+        "url": "https://t.me/aipost"
+      },
+      {
+        "offset": 36,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5431390559912614642"
       }
     ],
     "media_group_id": null,
     "chat_id": -1004468214616,
     "message_ids": [
-      95
+      96
     ],
     "update_ids": [
-      378303989
+      378303990
+    ],
+    "retry_count": 0
+  },
+  {
+    "type": "photo",
+    "photo_file_ids": [
+      "AgACAgQAAyEFAAMBClOLWAADYWpeHBdtcz00kykNJdYEk1OZI-HcAAJDDmsbovDwUmdKwYMU3Z6IAQADAgADeQADPQQ"
+    ],
+    "caption": "🚀 Alibaba unveils Qwen 3.8\n\nAlibaba has officially announced Qwen 3.8, its next flagship AI model.\n\nThe model packs a massive 2.4 trillion parameters, and Alibaba says it will be one of the world’s most capable AI models, with only Fable expected to outperform it.\n\nA preview version, Qwen3.8-Max-Preview, is already available to test through Token Plan, Qoder, and QoderWork. A global rollout is coming soon, and Alibaba also plans to open-release the model weights.\n\n@aipost 🏴",
+    "entities": [
+      {
+        "offset": 0,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5258332798409783582"
+      },
+      {
+        "offset": 3,
+        "length": 24,
+        "type": "bold"
+      },
+      {
+        "offset": 470,
+        "length": 7,
+        "type": "text_link",
+        "url": "https://t.me/aipost"
+      },
+      {
+        "offset": 478,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5431390559912614642"
+      }
+    ],
+    "media_group_id": null,
+    "chat_id": -1004468214616,
+    "message_ids": [
+      97
+    ],
+    "update_ids": [
+      378303991
+    ],
+    "retry_count": 0
+  },
+  {
+    "type": "photo",
+    "photo_file_ids": [
+      "AgACAgQAAyEFAAMBClOLWAADYmpeHpTwgedfYG4tRdmiHJVZyL9BAALzDWsb2hftUuj81gKfsabTAQADAgADeQADPQQ"
+    ],
+    "caption": "🤖 OpenAI Adds Full History Search to ChatGPT\n\nOpenAI introduced a new search feature in ChatGPT that covers the entire conversation history, including files, images, and projects. It works via the sidebar with filters by content type.\n\nThe feature is available on web, iOS, and Android for all plans, including free. It launched alongside GPT-5.6 and the ChatGPT Work agent, which manages ongoing projects instead of single queries.\n\n📊@tech",
+    "entities": [
+      {
+        "offset": 0,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5397681122542893003"
+      },
+      {
+        "offset": 3,
+        "length": 42,
+        "type": "bold"
+      },
+      {
+        "offset": 47,
+        "length": 49,
+        "type": "bold"
+      },
+      {
+        "offset": 340,
+        "length": 34,
+        "type": "bold"
+      },
+      {
+        "offset": 435,
+        "length": 2,
+        "type": "bold"
+      },
+      {
+        "offset": 435,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5449841756596101801"
+      },
+      {
+        "offset": 437,
+        "length": 5,
+        "type": "mention"
+      },
+      {
+        "offset": 437,
+        "length": 5,
+        "type": "bold"
+      }
+    ],
+    "media_group_id": null,
+    "chat_id": -1004468214616,
+    "message_ids": [
+      98
+    ],
+    "update_ids": [
+      378303992
+    ],
+    "retry_count": 0
+  },
+  {
+    "type": "photo",
+    "photo_file_ids": [
+      "AgACAgQAAyEFAAMBClOLWAADY2peHpRtsgT3CDP2KY3DnYlBamdAAALHDWsbQ0LtUpRoIvR8wsyHAQADAgADdwADPQQ"
+    ],
+    "caption": "🔍 Google gives Gemini Notebook a cloud computer\n\nGoogle renamed NotebookLM to Gemini Notebook and added a personal cloud computer to each notebook. This lets it write and run code inside notes. The feature is available only to AI Ultra and Workspace subscribers.\n\nGemini Notebook is an AI-powered note-taking tool that integrates coding capabilities directly within notes. Internal tests show the new version outperforms the old one by 65%, and by nearly 80% in complex web searches.\n\n📊@tech",
+    "entities": [
+      {
+        "offset": 0,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5431644246450908867"
+      },
+      {
+        "offset": 3,
+        "length": 45,
+        "type": "bold"
+      },
+      {
+        "offset": 50,
+        "length": 44,
+        "type": "bold"
+      },
+      {
+        "offset": 107,
+        "length": 23,
+        "type": "bold"
+      },
+      {
+        "offset": 265,
+        "length": 15,
+        "type": "bold"
+      },
+      {
+        "offset": 410,
+        "length": 30,
+        "type": "bold"
+      },
+      {
+        "offset": 486,
+        "length": 2,
+        "type": "bold"
+      },
+      {
+        "offset": 486,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5449841756596101801"
+      },
+      {
+        "offset": 488,
+        "length": 5,
+        "type": "mention"
+      },
+      {
+        "offset": 488,
+        "length": 5,
+        "type": "bold"
+      }
+    ],
+    "media_group_id": null,
+    "chat_id": -1004468214616,
+    "message_ids": [
+      99
+    ],
+    "update_ids": [
+      378303993
     ],
     "retry_count": 0
   }
