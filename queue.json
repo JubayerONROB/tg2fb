@@ -1,45 +1,5 @@
 [
   {
-    "type": "video",
-    "video_file_id": "BAACAgQAAyEFAAMBClOLWAADXWpdhZ7Q1__8hgAB1WR83TV9WpY7VQAC8hsAAvlk4VJNmpOH1xgptT0E",
-    "video_file_size": 16095980,
-    "caption": "❗️Meta to alert parents if it’s AI detects signs of teen suicide risk\n\nA new \"Parent Alerts\" feature uses a dedicated AI system to flag high-risk conversations and notifies parents through Instagram's supervision tools. Every alert is reviewed by a human before it is sent.\n\n@aipost 🏴",
-    "entities": [
-      {
-        "offset": 0,
-        "length": 2,
-        "type": "custom_emoji",
-        "custom_emoji_id": "5289761612440310918"
-      },
-      {
-        "offset": 2,
-        "length": 67,
-        "type": "bold"
-      },
-      {
-        "offset": 275,
-        "length": 7,
-        "type": "text_link",
-        "url": "https://t.me/aipost"
-      },
-      {
-        "offset": 283,
-        "length": 2,
-        "type": "custom_emoji",
-        "custom_emoji_id": "5431390559912614642"
-      }
-    ],
-    "media_group_id": null,
-    "chat_id": -1004468214616,
-    "message_ids": [
-      93
-    ],
-    "update_ids": [
-      378303987
-    ],
-    "retry_count": 0
-  },
-  {
     "type": "photo",
     "photo_file_ids": [
       "AgACAgIAAyEFAAMBClOLWAADXmpdhandAyUGqrK2jyDJjeKDCYJWAAIKGmsb6GbpSmBHl4sTgI8xAQADAgADeQADPQQ"
