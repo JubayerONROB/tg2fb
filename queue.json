@@ -1,35 +1,6 @@
 [
   {
     "type": "video",
-    "video_file_id": "BAACAgQAAyEFAAMBClOLWAADbWpfKBbgSsT45OoCg5b77dZgy4eCAAJkHQACovDwUi7b2PZwzb6FPQQ",
-    "video_file_size": 20611699,
-    "caption": "This prediction from 1964 about our AI future is 100% accurate.\n\n@aipost 🏴",
-    "entities": [
-      {
-        "offset": 65,
-        "length": 7,
-        "type": "text_link",
-        "url": "https://t.me/aipost"
-      },
-      {
-        "offset": 73,
-        "length": 2,
-        "type": "custom_emoji",
-        "custom_emoji_id": "5431390559912614642"
-      }
-    ],
-    "media_group_id": null,
-    "chat_id": -1004468214616,
-    "message_ids": [
-      109
-    ],
-    "update_ids": [
-      378304002
-    ],
-    "retry_count": 0
-  },
-  {
-    "type": "video",
     "video_file_id": "BAACAgQAAyEFAAMBClOLWAADbmpfNtsYgHZn6Dvstwgn53_IGXigAAJpHQACovD4Uidlp-ZE6dZnPQQ",
     "video_file_size": 5114287,
     "caption": "❗️Ben Goertzel believes an 82-year-old could take a daily pill and get back the body they had at 30.\n\nHe says this'll happen in 2-4 years. He says getting old is just our body's cells slowly wearing out, not a fixed rule of nature. Scientists have already discovered old cells can turn young again in a lab.\n\nThe missing piece is only a mind smart enough to plan the repair for all 37 trillion cells in the human body. Goertzel believes a super-smart AI will do exactly that. He even said it about his own parents, who are 82 and healthy: \"If we get super-intelligence in the next 5 years, they will probably not die.\"\n\n— Ben Goertzel founder of SingularityNET\n\n@aipost 🏴",
@@ -204,6 +175,66 @@
     ],
     "update_ids": [
       378304005
+    ],
+    "retry_count": 0
+  },
+  {
+    "type": "text",
+    "caption": "The Claude Cheat Sheet Everyone Should Have\n\nClaude has added so many features over the past year that it’s easy to lose track. Here’s a practical guide to the ones worth using.\n\nChoosing the right model\n\n• Fable 5 for the most demanding tasks and long running agents\n• Opus 4.8 for advanced coding and deep analysis\n• Sonnet 5 for everyday work with the best balance of speed and quality\n• Haiku 4.5 for lightweight, fast, and affordable tasks\n\n——\n\nA prompt framework that consistently works\n\nThe best prompts usually include:\n\n• Role. Who Claude should be.\n• Context. What it needs to know.\n• Goal. What you’re trying to achieve.\n• Constraints. Any requirements or limitations.\n• Success criteria. What a great answer looks like.\n• Output format. Table, report, code, bullet points, and so on.\n\nA simple template:\n\nAct as…\nContext…\nTask…\nConstraints…\nSuccess criteria…\nOutput format…\n\nThe more context you provide, the better Claude performs.\n\n——\n\nUse examples whenever you can\n\n• Zero shot. No examples.\n• One shot. One example.\n• Few shot. A few strong examples.\n\nAnthropic recommends focusing on better examples, not more examples.\n\n——\n\nProjects\n\nProjects combine chats, files, instructions, and memory into one workspace, so Claude remembers the context across conversations.\n\nPerfect for long term work.\n\n——\n\nArtifacts\n\nClaude can generate:\n\n• Documents\n• Code\n• HTML pages\n• SVGs\n• Interactive mini apps\n\nEverything can be edited directly inside the chat.\n\n——\n\nMCP and Connectors\n\nClaude can work with external services including:\n\n• Google Drive\n• Gmail\n• Slack\n• GitHub\n\nYou can also connect your own tools through MCP.\n\n——\n\nClaude Code\n\nClaude Code lives inside your terminal and IDE.\n\nIt can:\n\n• Write and edit code\n• Run tests\n• Review pull requests\n• Create commits\n• Work on multiple coding tasks at the same time\n\n——\n\nSkills and Memory\n\nUse Skills for workflows you repeat often.\n\nUse Projects and CLAUDE.md to give Claude long term context about your codebase or project.\n\n——\n\nPrompt ideas\n\n• Compare X and Y in a table.\n• Write a first draft, then improve it.\n• Find weak points and rewrite them.\n• Summarize this in five bullet points.\n• Explain it like I’m new to the topic.\n\n——\n\nSimple habits that make Claude better\n\n• Start with the objective, then add details.\n• Tell Claude exactly what success looks like.\n• Break complex work into smaller tasks.\n• Ask it to review its own output.\n• Use external tools when they’re a better fit.\n\nMost people only scratch the surface of what Claude can do. A few small changes to the way you prompt it can make a much bigger difference than switching models.",
+    "entities": [
+      {
+        "offset": 1914,
+        "length": 9,
+        "type": "url"
+      }
+    ],
+    "media_group_id": null,
+    "chat_id": -1004468214616,
+    "message_ids": [
+      113
+    ],
+    "update_ids": [
+      378304006
+    ],
+    "retry_count": 0
+  },
+  {
+    "type": "video",
+    "video_file_id": "BAACAgQAAyEFAAMBClOLWAADcmpfirRNHkZ7smjnv3DSUfCtOIbZAAKlIQAC-b74UnBFIT911xHVPQQ",
+    "video_file_size": 60451935,
+    "caption": "❗️Former Google CEO Eric Schmidt drops a chilling warning on AI's future.\n\n\"Within 5 years, AI could handle infinite context, chain-of-thought reasoning for 1000-step solutions, and millions of agents working together.\n\nEventually, they'll develop their own language... and we won't understand what they're doing.\"\n\nHis final words: \"Pull the plug.\"\n\nThis is the man who ran Google talking about the singularity.\n\n@aipost 🏴",
+    "entities": [
+      {
+        "offset": 0,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5289761612440310918"
+      },
+      {
+        "offset": 2,
+        "length": 70,
+        "type": "bold"
+      },
+      {
+        "offset": 414,
+        "length": 7,
+        "type": "text_link",
+        "url": "https://t.me/aipost"
+      },
+      {
+        "offset": 422,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5431390559912614642"
+      }
+    ],
+    "media_group_id": null,
+    "chat_id": -1004468214616,
+    "message_ids": [
+      114
+    ],
+    "update_ids": [
+      378304007
     ],
     "retry_count": 0
   }
