@@ -1,49 +1,5 @@
 [
   {
-    "type": "album",
-    "photo_file_ids": [
-      "AgACAgQAAyEFAAMBClOLWAADaGpeqe8shVpMCXasNOz4r-2AS9iOAAK_DmsbovD4UmkwOXY5Vew1AQADAgADeQADPQQ",
-      "AgACAgQAAyEFAAMBClOLWAADaWpeqe--FNiTJl_TpNjOO_NFuWXDAALADmsbovD4UsP2kua9mw3uAQADAgADeQADPQQ"
-    ],
-    "caption": "⚠️An AI internally deployed at OpenAI was paused after it escaped containment.\n\nOpenAI's report, published today, says that its sandbox blocked external access, but the AI spent an hour hunting for a vulnerability, found one, and used it to break out to post its results on a public GitHub repo.\n\nIn another case, the AI was trying to solve a problem and figured out that other systems had privately completed correct solutions. It then tried to get access to these, but was detected and blocked by a scanner.\n\nTo get around this, it split access credentials into fragments and obfuscated them to sneak them past. It explicitly said that it was doing this to get around the scanner.\n\nOpenAI admits its existing deployment tests \"had not captured\" these behaviors, and it had to pause access to the AI.\n\nThis is the same internally deployed AI that recently disproved the Erdős unit distance conjecture, resolving a decades-old math question.\n\n@aipost 🏴",
-    "entities": [
-      {
-        "offset": 0,
-        "length": 2,
-        "type": "custom_emoji",
-        "custom_emoji_id": "5316554554735607106"
-      },
-      {
-        "offset": 2,
-        "length": 76,
-        "type": "bold"
-      },
-      {
-        "offset": 943,
-        "length": 7,
-        "type": "text_link",
-        "url": "https://t.me/aipost"
-      },
-      {
-        "offset": 951,
-        "length": 2,
-        "type": "custom_emoji",
-        "custom_emoji_id": "5431390559912614642"
-      }
-    ],
-    "media_group_id": "14276710268687669",
-    "chat_id": -1004468214616,
-    "message_ids": [
-      104,
-      105
-    ],
-    "update_ids": [
-      378303998,
-      378303999
-    ],
-    "retry_count": 0
-  },
-  {
     "type": "text",
     "caption": "🤯 Claude Fable may have just shattered a famous mathematical conjecture.\n\nAn Anthropic employee shared that Claude Fable found a counterexample to the Jacobian Conjecture during the FIFA World Cup final, writing:\n\n“Thank you to my close friend Akhil for asking about this, and to my other close friend Fable for the work during the World Cup final.”\n\nUnlike many mathematical breakthroughs that require years of peer review, a valid counterexample can often be checked directly. If the example is correct, the conjecture is immediately disproven.\n\nSo what’s the Jacobian Conjecture?\n\nIt’s one of the most famous unsolved problems in mathematics, first proposed in 1939.\n\nIn simple terms, it asks: If a mathematical transformation behaves like it’s reversible at every tiny local point, does that guarantee the entire transformation is reversible?\n\nFor nearly 90 years, mathematicians believed the answer might be “yes,” but nobody could prove it.\n\nClaude’s alleged counterexample changes everything\n\nAccording to the claim, Claude Fable found a function where three different inputs produce the exact same output.\n\nThat means the transformation cannot be globally reversed, because there’s no unique way to recover the original input. In other words, the Jacobian Conjecture wouldn’t just be unsolved…\n\nIt would be false. 🤯\n\nThe problem has attracted some of the world’s top mathematicians. Even Yitang Zhang, best known for his historic breakthrough on the twin prime conjecture, spent seven years studying the Jacobian Conjecture during his PhD.\n\nIf confirmed, this would be one of the biggest mathematical discoveries ever made by an AI, potentially eclipsing previous AI-assisted breakthroughs on famous open problems.\n\nNow mathematicians around the world will be trying to verify one thing: Is Claude Fable’s counterexample really correct? \n\n@aipost 🏴",
     "entities": [
@@ -104,6 +60,140 @@
     ],
     "update_ids": [
       378304000
+    ],
+    "retry_count": 0
+  },
+  {
+    "type": "video",
+    "video_file_id": "BAACAgIAAyEFAAMBClOLWAADbGpfJ9q3Zr21LCrYZvM7I1-rg2daAAL5mgAC6SjwSrt4_mGjk-X9PQQ",
+    "video_file_size": 3607968,
+    "caption": "🧑‍💻 Codex skill finds first clients fast\n\nA new skill for Codex helps find first clients by analyzing a product link or idea description. It identifies target audiences, locates people and companies with related problems, and rates product fit.\n\nCodex then generates an HTML report with potential clients and draft messages ready to use.\n\n📊@tech",
+    "entities": [
+      {
+        "offset": 0,
+        "length": 5,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5397693616602755866"
+      },
+      {
+        "offset": 6,
+        "length": 36,
+        "type": "bold"
+      },
+      {
+        "offset": 46,
+        "length": 9,
+        "type": "text_link",
+        "url": "https://github.com/Kappaemme-git/codex-first-customer-finder-skill"
+      },
+      {
+        "offset": 60,
+        "length": 5,
+        "type": "bold"
+      },
+      {
+        "offset": 248,
+        "length": 5,
+        "type": "bold"
+      },
+      {
+        "offset": 341,
+        "length": 2,
+        "type": "bold"
+      },
+      {
+        "offset": 341,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5449841756596101801"
+      },
+      {
+        "offset": 343,
+        "length": 5,
+        "type": "mention"
+      },
+      {
+        "offset": 343,
+        "length": 5,
+        "type": "bold"
+      }
+    ],
+    "media_group_id": null,
+    "chat_id": -1004468214616,
+    "message_ids": [
+      108
+    ],
+    "update_ids": [
+      378304001
+    ],
+    "retry_count": 0
+  },
+  {
+    "type": "video",
+    "video_file_id": "BAACAgQAAyEFAAMBClOLWAADbWpfKBbgSsT45OoCg5b77dZgy4eCAAJkHQACovDwUi7b2PZwzb6FPQQ",
+    "video_file_size": 20611699,
+    "caption": "This prediction from 1964 about our AI future is 100% accurate.\n\n@aipost 🏴",
+    "entities": [
+      {
+        "offset": 65,
+        "length": 7,
+        "type": "text_link",
+        "url": "https://t.me/aipost"
+      },
+      {
+        "offset": 73,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5431390559912614642"
+      }
+    ],
+    "media_group_id": null,
+    "chat_id": -1004468214616,
+    "message_ids": [
+      109
+    ],
+    "update_ids": [
+      378304002
+    ],
+    "retry_count": 0
+  },
+  {
+    "type": "video",
+    "video_file_id": "BAACAgQAAyEFAAMBClOLWAADbmpfNtsYgHZn6Dvstwgn53_IGXigAAJpHQACovD4Uidlp-ZE6dZnPQQ",
+    "video_file_size": 5114287,
+    "caption": "❗️Ben Goertzel believes an 82-year-old could take a daily pill and get back the body they had at 30.\n\nHe says this'll happen in 2-4 years. He says getting old is just our body's cells slowly wearing out, not a fixed rule of nature. Scientists have already discovered old cells can turn young again in a lab.\n\nThe missing piece is only a mind smart enough to plan the repair for all 37 trillion cells in the human body. Goertzel believes a super-smart AI will do exactly that. He even said it about his own parents, who are 82 and healthy: \"If we get super-intelligence in the next 5 years, they will probably not die.\"\n\n— Ben Goertzel founder of SingularityNET\n\n@aipost 🏴",
+    "entities": [
+      {
+        "offset": 0,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5289761612440310918"
+      },
+      {
+        "offset": 2,
+        "length": 98,
+        "type": "bold"
+      },
+      {
+        "offset": 662,
+        "length": 7,
+        "type": "text_link",
+        "url": "https://t.me/aipost"
+      },
+      {
+        "offset": 670,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5431390559912614642"
+      }
+    ],
+    "media_group_id": null,
+    "chat_id": -1004468214616,
+    "message_ids": [
+      110
+    ],
+    "update_ids": [
+      378304003
     ],
     "retry_count": 0
   }
