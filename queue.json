@@ -1,71 +1,6 @@
 [
   {
     "type": "video",
-    "video_file_id": "BAACAgIAAyEFAAMBClOLWAADbGpfJ9q3Zr21LCrYZvM7I1-rg2daAAL5mgAC6SjwSrt4_mGjk-X9PQQ",
-    "video_file_size": 3607968,
-    "caption": "🧑‍💻 Codex skill finds first clients fast\n\nA new skill for Codex helps find first clients by analyzing a product link or idea description. It identifies target audiences, locates people and companies with related problems, and rates product fit.\n\nCodex then generates an HTML report with potential clients and draft messages ready to use.\n\n📊@tech",
-    "entities": [
-      {
-        "offset": 0,
-        "length": 5,
-        "type": "custom_emoji",
-        "custom_emoji_id": "5397693616602755866"
-      },
-      {
-        "offset": 6,
-        "length": 36,
-        "type": "bold"
-      },
-      {
-        "offset": 46,
-        "length": 9,
-        "type": "text_link",
-        "url": "https://github.com/Kappaemme-git/codex-first-customer-finder-skill"
-      },
-      {
-        "offset": 60,
-        "length": 5,
-        "type": "bold"
-      },
-      {
-        "offset": 248,
-        "length": 5,
-        "type": "bold"
-      },
-      {
-        "offset": 341,
-        "length": 2,
-        "type": "bold"
-      },
-      {
-        "offset": 341,
-        "length": 2,
-        "type": "custom_emoji",
-        "custom_emoji_id": "5449841756596101801"
-      },
-      {
-        "offset": 343,
-        "length": 5,
-        "type": "mention"
-      },
-      {
-        "offset": 343,
-        "length": 5,
-        "type": "bold"
-      }
-    ],
-    "media_group_id": null,
-    "chat_id": -1004468214616,
-    "message_ids": [
-      108
-    ],
-    "update_ids": [
-      378304001
-    ],
-    "retry_count": 0
-  },
-  {
-    "type": "video",
     "video_file_id": "BAACAgQAAyEFAAMBClOLWAADbWpfKBbgSsT45OoCg5b77dZgy4eCAAJkHQACovDwUi7b2PZwzb6FPQQ",
     "video_file_size": 20611699,
     "caption": "This prediction from 1964 about our AI future is 100% accurate.\n\n@aipost 🏴",
@@ -130,6 +65,145 @@
     ],
     "update_ids": [
       378304003
+    ],
+    "retry_count": 0
+  },
+  {
+    "type": "video",
+    "video_file_id": "BAACAgQAAyEFAAMBClOLWAADb2pfZuwY5sYSb4D_Zseu_fIdWwbUAAJxHQACovD4UtjDwqRtllECPQQ",
+    "video_file_size": 10176750,
+    "caption": "🌍 Someone just open-sourced a Palantir-style global intelligence platform for free.\n\nPalantir charges governments millions of dollars for software that tracks world events in real time.\n\nNow, a developer named Elie has built an open-source alternative called World Monitor and released it on GitHub.\n\nHere’s what it does:\n\nA live 3D globe streaming data from 500+ news sources across 15 categories, with every update automatically summarized by AI.\n\nIt tracks everything from:\n\n🪖 Military activity\n💰 Economic shocks\n🌪️ Natural disasters\n💻 Cyber incidents\n✈️ Flight traffic\n🚢 Global shipping routes\n\nYou can also stack 56 interactive map layers to visualize different datasets at once. The platform calculates a real-time geopolitical stress index for 31 countries, updating as major events unfold.\n\nIt also monitors 29 global stock exchanges, commodities, and cryptocurrency markets from a single dashboard. It runs local AI with Ollama, meaning you don’t need an API key or cloud service to use its AI features.\n\nWorld Monitor is available as a native desktop app for Windows, macOS, and Linux, supports 25 languages, and is designed to work almost immediately after installation.\n\nSource. \n\n@aipost 🏴",
+    "entities": [
+      {
+        "offset": 0,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5316878305075404851"
+      },
+      {
+        "offset": 3,
+        "length": 81,
+        "type": "bold"
+      },
+      {
+        "offset": 302,
+        "length": 20,
+        "type": "bold"
+      },
+      {
+        "offset": 479,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5357188789351490453"
+      },
+      {
+        "offset": 500,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5289964193162759223"
+      },
+      {
+        "offset": 541,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5972055534352733289"
+      },
+      {
+        "offset": 560,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5201833057681680044"
+      },
+      {
+        "offset": 1020,
+        "length": 167,
+        "type": "bold"
+      },
+      {
+        "offset": 1189,
+        "length": 8,
+        "type": "text_link",
+        "url": "https://github.com/koala73/worldmonitor"
+      },
+      {
+        "offset": 1199,
+        "length": 7,
+        "type": "text_link",
+        "url": "https://t.me/aipost"
+      },
+      {
+        "offset": 1207,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5431390559912614642"
+      }
+    ],
+    "media_group_id": null,
+    "chat_id": -1004468214616,
+    "message_ids": [
+      111
+    ],
+    "update_ids": [
+      378304004
+    ],
+    "retry_count": 0
+  },
+  {
+    "type": "video",
+    "video_file_id": "BAACAgIAAyEFAAMBClOLWAADcGpfZv6uzX0YB48YiBWKYh3mhMSRAAKvoQAC_3vpSjeod5HcgxiqPQQ",
+    "video_file_size": 9710105,
+    "caption": "🪐 NASA’s Psyche Probe Captures Mars Time-Lapse\n\nIn May, the interplanetary probe Psyche flew past Mars and took thousands of images with its multispectral camera, creating a detailed time-lapse of the planet. The footage shows Mars from a thin crescent to its icy southern pole.\n\nPsyche is headed to the metallic asteroid Psyche in the belt between Mars and Jupiter, arriving in 2029. The Mars flyby acted as a gravity assist, boosting the probe’s speed and adjusting its trajectory with minimal fuel use.\n\n📊@tech",
+    "entities": [
+      {
+        "offset": 0,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5201949335331288100"
+      },
+      {
+        "offset": 3,
+        "length": 44,
+        "type": "bold"
+      },
+      {
+        "offset": 82,
+        "length": 50,
+        "type": "bold"
+      },
+      {
+        "offset": 412,
+        "length": 14,
+        "type": "bold"
+      },
+      {
+        "offset": 508,
+        "length": 2,
+        "type": "bold"
+      },
+      {
+        "offset": 508,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5449841756596101801"
+      },
+      {
+        "offset": 510,
+        "length": 5,
+        "type": "mention"
+      },
+      {
+        "offset": 510,
+        "length": 5,
+        "type": "bold"
+      }
+    ],
+    "media_group_id": null,
+    "chat_id": -1004468214616,
+    "message_ids": [
+      112
+    ],
+    "update_ids": [
+      378304005
     ],
     "retry_count": 0
   }
