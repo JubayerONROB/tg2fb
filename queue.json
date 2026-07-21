@@ -1,46 +1,6 @@
 [
   {
     "type": "video",
-    "video_file_id": "BAACAgQAAyEFAAMBClOLWAADbmpfNtsYgHZn6Dvstwgn53_IGXigAAJpHQACovD4Uidlp-ZE6dZnPQQ",
-    "video_file_size": 5114287,
-    "caption": "❗️Ben Goertzel believes an 82-year-old could take a daily pill and get back the body they had at 30.\n\nHe says this'll happen in 2-4 years. He says getting old is just our body's cells slowly wearing out, not a fixed rule of nature. Scientists have already discovered old cells can turn young again in a lab.\n\nThe missing piece is only a mind smart enough to plan the repair for all 37 trillion cells in the human body. Goertzel believes a super-smart AI will do exactly that. He even said it about his own parents, who are 82 and healthy: \"If we get super-intelligence in the next 5 years, they will probably not die.\"\n\n— Ben Goertzel founder of SingularityNET\n\n@aipost 🏴",
-    "entities": [
-      {
-        "offset": 0,
-        "length": 2,
-        "type": "custom_emoji",
-        "custom_emoji_id": "5289761612440310918"
-      },
-      {
-        "offset": 2,
-        "length": 98,
-        "type": "bold"
-      },
-      {
-        "offset": 662,
-        "length": 7,
-        "type": "text_link",
-        "url": "https://t.me/aipost"
-      },
-      {
-        "offset": 670,
-        "length": 2,
-        "type": "custom_emoji",
-        "custom_emoji_id": "5431390559912614642"
-      }
-    ],
-    "media_group_id": null,
-    "chat_id": -1004468214616,
-    "message_ids": [
-      110
-    ],
-    "update_ids": [
-      378304003
-    ],
-    "retry_count": 0
-  },
-  {
-    "type": "video",
     "video_file_id": "BAACAgQAAyEFAAMBClOLWAADb2pfZuwY5sYSb4D_Zseu_fIdWwbUAAJxHQACovD4UtjDwqRtllECPQQ",
     "video_file_size": 10176750,
     "caption": "🌍 Someone just open-sourced a Palantir-style global intelligence platform for free.\n\nPalantir charges governments millions of dollars for software that tracks world events in real time.\n\nNow, a developer named Elie has built an open-source alternative called World Monitor and released it on GitHub.\n\nHere’s what it does:\n\nA live 3D globe streaming data from 500+ news sources across 15 categories, with every update automatically summarized by AI.\n\nIt tracks everything from:\n\n🪖 Military activity\n💰 Economic shocks\n🌪️ Natural disasters\n💻 Cyber incidents\n✈️ Flight traffic\n🚢 Global shipping routes\n\nYou can also stack 56 interactive map layers to visualize different datasets at once. The platform calculates a real-time geopolitical stress index for 31 countries, updating as major events unfold.\n\nIt also monitors 29 global stock exchanges, commodities, and cryptocurrency markets from a single dashboard. It runs local AI with Ollama, meaning you don’t need an API key or cloud service to use its AI features.\n\nWorld Monitor is available as a native desktop app for Windows, macOS, and Linux, supports 25 languages, and is designed to work almost immediately after installation.\n\nSource. \n\n@aipost 🏴",
