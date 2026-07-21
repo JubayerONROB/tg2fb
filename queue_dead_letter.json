@@ -645,5 +645,45 @@
       378303982
     ],
     "retry_count": 0
+  },
+  {
+    "type": "video",
+    "video_file_id": "BAACAgQAAyEFAAMBClOLWAADZ2peqePZ1KtvGb0Y_uVIuBg7bEi_AAJnHQACovDwUupJQ662z6mYPQQ",
+    "video_file_size": 32950363,
+    "caption": "🗣Christopher Nolan says AI is a “Trojan horse that everybody knows the Greeks are inside”\n\n“The funny thing with AI, I think it's actually pretty fascinating to see how in the last few years it's taken over Wall Street and the world of business and investment. I've never seen a technology advancing so rapidly, so completely rejected by the public”\n\n“Everybody's suspicion of it is so extreme, particularly young people. The reactions to AI videos online. People my children's age immediately calling it ‘AI slop’ and coining that term and just putting it in a box, which I think is a very healthy skepticism”\n\n“Technology is always going to give us great gifts, but it has to be viewed with skepticism. The motives of the people giving it to us also have to be viewed with skepticism. That's when we'll get the best out of a new technology rather than just blind faith that everything's going to be great”.\n\n@aipost 🏴",
+    "entities": [
+      {
+        "offset": 0,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5287468155738821335"
+      },
+      {
+        "offset": 2,
+        "length": 88,
+        "type": "bold"
+      },
+      {
+        "offset": 911,
+        "length": 7,
+        "type": "text_link",
+        "url": "https://t.me/aipost"
+      },
+      {
+        "offset": 919,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5431390559912614642"
+      }
+    ],
+    "media_group_id": null,
+    "chat_id": -1004468214616,
+    "message_ids": [
+      103
+    ],
+    "update_ids": [
+      378303997
+    ],
+    "retry_count": 0
   }
 ]
