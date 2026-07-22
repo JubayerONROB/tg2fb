@@ -1,34 +1,30 @@
 [
   {
-    "type": "album",
+    "type": "photo",
     "photo_file_ids": [
-      "AgACAgQAAyEFAAMBClOLWAADc2pfwEFWkmrdqI_qMaIPHnTkDXhpAALBDWsb-b74Uog0Qc-QasTnAQADAgADeQADPQQ",
-      "AgACAgQAAyEFAAMBClOLWAADdGpfwEHWb9oogRRmisaIYASswQLwAALCDWsb-b74Usw7B_ufeV47AQADAgADeQADPQQ"
+      "AgACAgIAAyEFAAMBClOLWAADdWpgF8wkuch82GUaC0-CtS1GJxYOAAJGGGsbBt4BSyQRukfgv_IDAQADAgADeQADPQQ"
     ],
-    "caption": "a16z & Y Combinator share their million-dollar AI startup ideas for 2026.\n\n@aipost 🏴",
+    "caption": "Google has introduced three new Gemini models, each designed to enhance speed, efficiency, and specialized tasks across AI applications.\n\nGemini 3.6 Flash offers 17% fewer output tokens than its 3.5 predecessor along with improved coding, general knowledge, multimodal, and computer-use abilities. DeepSWE coding test results for 3.6 Flash increased to 49% from 37%, and OSWorld-Verified rose to 83% from 78.4%. Computer-use functionality is now integrated. Pricing is set at $1.50 per million input tokens and $7.50 per million output tokens.\n\nGemini 3.5 Flash-Lite is positioned as the most economical 3.5 model, producing 350 output tokens per second at $0.30 per million inputs and $2.50 per million outputs.\n\nGemini 3.5 Flash Cyber focuses on cybersecurity, designed to identify and fix vulnerabilities. This model is available only to governments and trusted partners.\n\n📰 @aipost",
     "entities": [
       {
-        "offset": 75,
-        "length": 7,
-        "type": "text_link",
-        "url": "https://t.me/aipost"
-      },
-      {
-        "offset": 83,
+        "offset": 876,
         "length": 2,
         "type": "custom_emoji",
-        "custom_emoji_id": "5431390559912614642"
+        "custom_emoji_id": "5363988332466438547"
+      },
+      {
+        "offset": 879,
+        "length": 7,
+        "type": "mention"
       }
     ],
-    "media_group_id": "14277280265202037",
+    "media_group_id": null,
     "chat_id": -1004468214616,
     "message_ids": [
-      115,
-      116
+      117
     ],
     "update_ids": [
-      378304008,
-      378304009
+      378304010
     ],
     "retry_count": 0
   }
