@@ -1,30 +1,47 @@
 [
   {
-    "type": "photo",
-    "photo_file_ids": [
-      "AgACAgIAAyEFAAMBClOLWAADdWpgF8wkuch82GUaC0-CtS1GJxYOAAJGGGsbBt4BSyQRukfgv_IDAQADAgADeQADPQQ"
-    ],
-    "caption": "Google has introduced three new Gemini models, each designed to enhance speed, efficiency, and specialized tasks across AI applications.\n\nGemini 3.6 Flash offers 17% fewer output tokens than its 3.5 predecessor along with improved coding, general knowledge, multimodal, and computer-use abilities. DeepSWE coding test results for 3.6 Flash increased to 49% from 37%, and OSWorld-Verified rose to 83% from 78.4%. Computer-use functionality is now integrated. Pricing is set at $1.50 per million input tokens and $7.50 per million output tokens.\n\nGemini 3.5 Flash-Lite is positioned as the most economical 3.5 model, producing 350 output tokens per second at $0.30 per million inputs and $2.50 per million outputs.\n\nGemini 3.5 Flash Cyber focuses on cybersecurity, designed to identify and fix vulnerabilities. This model is available only to governments and trusted partners.\n\n📰 @aipost",
+    "type": "video",
+    "video_file_id": "BAACAgQAAyEFAAMBClOLWAADdmpgP2UJV-T9UsrsbnKO8rKIHPwZAAJdHgAC-b4AAVPlBIInlBbO4j0E",
+    "video_file_size": 14203962,
+    "caption": "🧠 Five brain chips helped a paralyzed man move and feel again.\n\nKeith Thomas was left paralyzed from the chest down after breaking his neck. For years, he couldn’t use his hands. Now, thanks to five tiny brain implants, he’s picking up objects again.\n\nTwo of the implants send signals from his brain directly to his arms and hands, bypassing the damaged part of his spinal cord. The other three restore his sense of touch by transmitting signals from sensors on his skin back to his brain.\n\nBut here’s the part that stunned researchers: Even after the implants were removed, some of the movement and sensation remained.\n\nScientists believe the treatment may have encouraged the brain and nervous system to build new pathways, suggesting these implants could eventually do more than temporarily restore function, they might actually help the body relearn how to move.\n\nSource.\n\n@aipost 🏴",
     "entities": [
       {
-        "offset": 876,
+        "offset": 0,
         "length": 2,
         "type": "custom_emoji",
-        "custom_emoji_id": "5363988332466438547"
+        "custom_emoji_id": "5371053287380361807"
       },
       {
-        "offset": 879,
+        "offset": 3,
+        "length": 60,
+        "type": "bold"
+      },
+      {
+        "offset": 869,
+        "length": 6,
+        "type": "text_link",
+        "url": "https://www.theguardian.com/science/2026/jul/16/neural-bypass-brain-implant-paralysed-man-feed-himself-drink-from-cup"
+      },
+      {
+        "offset": 878,
         "length": 7,
-        "type": "mention"
+        "type": "text_link",
+        "url": "https://t.me/aipost"
+      },
+      {
+        "offset": 886,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5431390559912614642"
       }
     ],
     "media_group_id": null,
     "chat_id": -1004468214616,
     "message_ids": [
-      117
+      118
     ],
     "update_ids": [
-      378304010
+      378304011
     ],
     "retry_count": 0
   }
