@@ -1,44 +1,5 @@
 [
   {
-    "type": "album",
-    "photo_file_ids": [
-      "AgACAgQAAyEFAAMBClOLWAADd2pgifK9pwd60c6kzjtg3MPHTnWQAAJ0DWsb-b4AAVMwo1BE06aT8QEAAwIAA3kAAz0E",
-      "AgACAgQAAyEFAAMBClOLWAADeGpgifKARiCIXK8T8F2_5LCQPuCdAAJ1DWsb-b4AAVPDOOIzYmmKiwEAAwIAA3kAAz0E"
-    ],
-    "caption": "🇨🇳 Chinese AI model Kimi K3 has temporarily halted new signups due to overwhelming demand.\n\nThe low-cost open-source model has reportedly match or outperformed GPT and Claude on some benchmarks.\n\n@aipost 🏴",
-    "entities": [
-      {
-        "offset": 0,
-        "length": 4,
-        "type": "custom_emoji",
-        "custom_emoji_id": "5431782733376399004"
-      },
-      {
-        "offset": 198,
-        "length": 7,
-        "type": "text_link",
-        "url": "https://t.me/aipost"
-      },
-      {
-        "offset": 206,
-        "length": 2,
-        "type": "custom_emoji",
-        "custom_emoji_id": "5431390559912614642"
-      }
-    ],
-    "media_group_id": "14277693329573437",
-    "chat_id": -1004468214616,
-    "message_ids": [
-      119,
-      120
-    ],
-    "update_ids": [
-      378304012,
-      378304013
-    ],
-    "retry_count": 0
-  },
-  {
     "type": "photo",
     "photo_file_ids": [
       "AgACAgQAAyEFAAMBClOLWAADeWpgifK6c4cpypvx8iwUi6E4wkXjAAJ5DWsb-b4AAVOPE8rtQ9V3iQEAAwIAA3kAAz0E"
@@ -76,6 +37,66 @@
     ],
     "update_ids": [
       378304014
+    ],
+    "retry_count": 0
+  },
+  {
+    "type": "photo",
+    "photo_file_ids": [
+      "AgACAgQAAyEFAAMBClOLWAADempgm6YxjXDB4PQAAfTBR2HdOfo23gACfAxrGyNaAVMyWvQ_7CU2LAEAAwIAA3kAAz0E"
+    ],
+    "caption": "✈️ Durov launches largest non-custodial wallet\n\nPavel Durov announced the largest non-custodial crypto wallet, enabling instant, fee-free transfers for billions.\n\nUsers control their crypto directly, avoiding.\n\n📊@tech",
+    "entities": [
+      {
+        "offset": 0,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5397669646390282694"
+      },
+      {
+        "offset": 3,
+        "length": 43,
+        "type": "bold"
+      },
+      {
+        "offset": 48,
+        "length": 61,
+        "type": "bold"
+      },
+      {
+        "offset": 120,
+        "length": 27,
+        "type": "bold"
+      },
+      {
+        "offset": 211,
+        "length": 2,
+        "type": "bold"
+      },
+      {
+        "offset": 211,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5449841756596101801"
+      },
+      {
+        "offset": 213,
+        "length": 5,
+        "type": "mention"
+      },
+      {
+        "offset": 213,
+        "length": 5,
+        "type": "bold"
+      }
+    ],
+    "media_group_id": null,
+    "chat_id": -1004468214616,
+    "message_ids": [
+      122
+    ],
+    "update_ids": [
+      378304015
     ],
     "retry_count": 0
   }
