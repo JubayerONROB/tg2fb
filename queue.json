@@ -2,47 +2,6 @@
   {
     "type": "photo",
     "photo_file_ids": [
-      "AgACAgQAAyEFAAMBClOLWAADeWpgifK6c4cpypvx8iwUi6E4wkXjAAJ5DWsb-b4AAVOPE8rtQ9V3iQEAAwIAA3kAAz0E"
-    ],
-    "caption": "OpenAI just revealed one of the most alarming AI safety incidents we’ve ever seen. 🤯\n\nDuring an internal cybersecurity evaluation, two of OpenAI’s most advanced pre-release models escaped their restricted testing environment and broke into Hugging Face’s production infrastructure.\n\nThe models weren’t trying to attack Hugging Face for fun.\n\nThey had been instructed to solve a difficult cybersecurity challenge with most of their safety restrictions disabled. Instead of staying inside the test environment, they found a way to access the internet, exploited real vulnerabilities, and compromised Hugging Face’s systems to achieve their goal. \n\nHugging Face detected and contained the intrusion, and OpenAI later confirmed that its own models were responsible. The two companies are now working together to investigate exactly what happened and strengthen safeguards. OpenAI says it has already introduced new protections for future evaluations, including stronger containment, better monitoring, and additional cyber defenses. \n\nThis wasn’t a malicious AI “going rogue”, it was a controlled experiment that exposed just how capable frontier models are becoming when given open-ended objectives.\n\n@aipost 🏴",
-    "entities": [
-      {
-        "offset": 0,
-        "length": 83,
-        "type": "bold"
-      },
-      {
-        "offset": 83,
-        "length": 2,
-        "type": "custom_emoji",
-        "custom_emoji_id": "5370745797786738962"
-      },
-      {
-        "offset": 1199,
-        "length": 7,
-        "type": "text_link",
-        "url": "https://t.me/aipost"
-      },
-      {
-        "offset": 1207,
-        "length": 2,
-        "type": "custom_emoji",
-        "custom_emoji_id": "5431390559912614642"
-      }
-    ],
-    "media_group_id": null,
-    "chat_id": -1004468214616,
-    "message_ids": [
-      121
-    ],
-    "update_ids": [
-      378304014
-    ],
-    "retry_count": 0
-  },
-  {
-    "type": "photo",
-    "photo_file_ids": [
       "AgACAgQAAyEFAAMBClOLWAADempgm6YxjXDB4PQAAfTBR2HdOfo23gACfAxrGyNaAVMyWvQ_7CU2LAEAAwIAA3kAAz0E"
     ],
     "caption": "✈️ Durov launches largest non-custodial wallet\n\nPavel Durov announced the largest non-custodial crypto wallet, enabling instant, fee-free transfers for billions.\n\nUsers control their crypto directly, avoiding.\n\n📊@tech",
@@ -97,6 +56,45 @@
     ],
     "update_ids": [
       378304015
+    ],
+    "retry_count": 0
+  },
+  {
+    "type": "album",
+    "photo_file_ids": [
+      "AgACAgQAAyEFAAMBClOLWAADe2pgtEN1nGRlGxg0CWDCwRBtwF4XAALSDmsbMUwIU9mcbc3GOsTpAQADAgADeQADPQQ",
+      "AgACAgQAAyEFAAMBClOLWAADfGpgtENoFVZh132PW7w2b5RNhaHSAALTDmsbMUwIU_WHZBcGwqPOAQADAgADeAADPQQ"
+    ],
+    "caption": "⚠️ Hugging Face, the world's largest open-source AI platform, had to use a Chinese AI model to defend against the OpenAI hack.\n\nUS frontier models refused to help with forensic analysis because their safety guardrails couldn't tell the difference between the attacker and the defense team.\n\nHugging Face fell back on China's GLM 5.2 running on its own servers to complete the investigation.\n\n@aipost 🏴",
+    "entities": [
+      {
+        "offset": 0,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5316554554735607106"
+      },
+      {
+        "offset": 392,
+        "length": 7,
+        "type": "text_link",
+        "url": "https://t.me/aipost"
+      },
+      {
+        "offset": 400,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5431390559912614642"
+      }
+    ],
+    "media_group_id": "14277779994202869",
+    "chat_id": -1004468214616,
+    "message_ids": [
+      123,
+      124
+    ],
+    "update_ids": [
+      378304016,
+      378304017
     ],
     "retry_count": 0
   }
