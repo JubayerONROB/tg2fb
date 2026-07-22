@@ -1,45 +1,5 @@
 [
   {
-    "type": "video",
-    "video_file_id": "BAACAgQAAyEFAAMBClOLWAADcmpfirRNHkZ7smjnv3DSUfCtOIbZAAKlIQAC-b74UnBFIT911xHVPQQ",
-    "video_file_size": 60451935,
-    "caption": "❗️Former Google CEO Eric Schmidt drops a chilling warning on AI's future.\n\n\"Within 5 years, AI could handle infinite context, chain-of-thought reasoning for 1000-step solutions, and millions of agents working together.\n\nEventually, they'll develop their own language... and we won't understand what they're doing.\"\n\nHis final words: \"Pull the plug.\"\n\nThis is the man who ran Google talking about the singularity.\n\n@aipost 🏴",
-    "entities": [
-      {
-        "offset": 0,
-        "length": 2,
-        "type": "custom_emoji",
-        "custom_emoji_id": "5289761612440310918"
-      },
-      {
-        "offset": 2,
-        "length": 70,
-        "type": "bold"
-      },
-      {
-        "offset": 414,
-        "length": 7,
-        "type": "text_link",
-        "url": "https://t.me/aipost"
-      },
-      {
-        "offset": 422,
-        "length": 2,
-        "type": "custom_emoji",
-        "custom_emoji_id": "5431390559912614642"
-      }
-    ],
-    "media_group_id": null,
-    "chat_id": -1004468214616,
-    "message_ids": [
-      114
-    ],
-    "update_ids": [
-      378304007
-    ],
-    "retry_count": 0
-  },
-  {
     "type": "album",
     "photo_file_ids": [
       "AgACAgQAAyEFAAMBClOLWAADc2pfwEFWkmrdqI_qMaIPHnTkDXhpAALBDWsb-b74Uog0Qc-QasTnAQADAgADeQADPQQ",
