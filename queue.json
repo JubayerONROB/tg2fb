@@ -1,65 +1,5 @@
 [
   {
-    "type": "photo",
-    "photo_file_ids": [
-      "AgACAgQAAyEFAAMBClOLWAADempgm6YxjXDB4PQAAfTBR2HdOfo23gACfAxrGyNaAVMyWvQ_7CU2LAEAAwIAA3kAAz0E"
-    ],
-    "caption": "✈️ Durov launches largest non-custodial wallet\n\nPavel Durov announced the largest non-custodial crypto wallet, enabling instant, fee-free transfers for billions.\n\nUsers control their crypto directly, avoiding.\n\n📊@tech",
-    "entities": [
-      {
-        "offset": 0,
-        "length": 2,
-        "type": "custom_emoji",
-        "custom_emoji_id": "5397669646390282694"
-      },
-      {
-        "offset": 3,
-        "length": 43,
-        "type": "bold"
-      },
-      {
-        "offset": 48,
-        "length": 61,
-        "type": "bold"
-      },
-      {
-        "offset": 120,
-        "length": 27,
-        "type": "bold"
-      },
-      {
-        "offset": 211,
-        "length": 2,
-        "type": "bold"
-      },
-      {
-        "offset": 211,
-        "length": 2,
-        "type": "custom_emoji",
-        "custom_emoji_id": "5449841756596101801"
-      },
-      {
-        "offset": 213,
-        "length": 5,
-        "type": "mention"
-      },
-      {
-        "offset": 213,
-        "length": 5,
-        "type": "bold"
-      }
-    ],
-    "media_group_id": null,
-    "chat_id": -1004468214616,
-    "message_ids": [
-      122
-    ],
-    "update_ids": [
-      378304015
-    ],
-    "retry_count": 0
-  },
-  {
     "type": "album",
     "photo_file_ids": [
       "AgACAgQAAyEFAAMBClOLWAADe2pgtEN1nGRlGxg0CWDCwRBtwF4XAALSDmsbMUwIU9mcbc3GOsTpAQADAgADeQADPQQ",
@@ -95,6 +35,89 @@
     "update_ids": [
       378304016,
       378304017
+    ],
+    "retry_count": 0
+  },
+  {
+    "type": "photo",
+    "photo_file_ids": [
+      "AgACAgQAAyEFAAMBClOLWAADfWpg1IxvbLo9jNKZ0n3baPc4JafgAAKWDWsb-b4AAVOEYgbBGzeUnQEAAwIAA3kAAz0E"
+    ],
+    "caption": "🤖 Anthropic is giving scientists up to $50,000 in AI credits to help solve rare diseases.\n\nInstead of funding research with cash, Anthropic is handing researchers something they increasingly need just as much: AI compute.\n\nThe company has launched a new grant program focused on rare genetic diseases, offering selected teams up to $50,000 in Claude API credits over six months.\n\nThere are two tracks:\n\n• Basic research for scientists, clinicians, patient organizations, and data scientists studying how rare diseases work.\n• Drug development for early-stage biotech companies trying to speed up treatments.\n\nRare diseases are notoriously difficult to study because patient populations are tiny and data is scarce. Anthropic believes AI can help researchers uncover hidden patterns, analyze massive amounts of scientific literature, and accelerate discoveries that would otherwise take much longer.\n\nApplications are open until August 2, and accepted teams will gain access to Claude Opus and other approved models for biological research.\n\nI wonder, what is Anthropic's motivation for giving away this money, and what benefit do they gain from it? 🤔\n\nSource. \n\n@aipost 🏴",
+    "entities": [
+      {
+        "offset": 0,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5208665212483310136"
+      },
+      {
+        "offset": 3,
+        "length": 87,
+        "type": "bold"
+      },
+      {
+        "offset": 381,
+        "length": 21,
+        "type": "bold"
+      },
+      {
+        "offset": 406,
+        "length": 14,
+        "type": "bold"
+      },
+      {
+        "offset": 527,
+        "length": 16,
+        "type": "bold"
+      },
+      {
+        "offset": 929,
+        "length": 8,
+        "type": "bold"
+      },
+      {
+        "offset": 1042,
+        "length": 108,
+        "type": "bold"
+      },
+      {
+        "offset": 1150,
+        "length": 2,
+        "type": "bold"
+      },
+      {
+        "offset": 1150,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5846197380373810711"
+      },
+      {
+        "offset": 1154,
+        "length": 8,
+        "type": "text_link",
+        "url": "https://www.anthropic.com/news/rare-disease-research-grants"
+      },
+      {
+        "offset": 1164,
+        "length": 7,
+        "type": "text_link",
+        "url": "https://t.me/aipost"
+      },
+      {
+        "offset": 1172,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5431390559912614642"
+      }
+    ],
+    "media_group_id": null,
+    "chat_id": -1004468214616,
+    "message_ids": [
+      125
+    ],
+    "update_ids": [
+      378304018
     ],
     "retry_count": 0
   }
