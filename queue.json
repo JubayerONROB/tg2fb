@@ -1,35 +1,69 @@
 [
   {
-    "type": "video",
-    "video_file_id": "BAACAgQAAyEFAAMBClOLWAADdmpgP2UJV-T9UsrsbnKO8rKIHPwZAAJdHgAC-b4AAVPlBIInlBbO4j0E",
-    "video_file_size": 14203962,
-    "caption": "🧠 Five brain chips helped a paralyzed man move and feel again.\n\nKeith Thomas was left paralyzed from the chest down after breaking his neck. For years, he couldn’t use his hands. Now, thanks to five tiny brain implants, he’s picking up objects again.\n\nTwo of the implants send signals from his brain directly to his arms and hands, bypassing the damaged part of his spinal cord. The other three restore his sense of touch by transmitting signals from sensors on his skin back to his brain.\n\nBut here’s the part that stunned researchers: Even after the implants were removed, some of the movement and sensation remained.\n\nScientists believe the treatment may have encouraged the brain and nervous system to build new pathways, suggesting these implants could eventually do more than temporarily restore function, they might actually help the body relearn how to move.\n\nSource.\n\n@aipost 🏴",
+    "type": "album",
+    "photo_file_ids": [
+      "AgACAgQAAyEFAAMBClOLWAADd2pgifK9pwd60c6kzjtg3MPHTnWQAAJ0DWsb-b4AAVMwo1BE06aT8QEAAwIAA3kAAz0E",
+      "AgACAgQAAyEFAAMBClOLWAADeGpgifKARiCIXK8T8F2_5LCQPuCdAAJ1DWsb-b4AAVPDOOIzYmmKiwEAAwIAA3kAAz0E"
+    ],
+    "caption": "🇨🇳 Chinese AI model Kimi K3 has temporarily halted new signups due to overwhelming demand.\n\nThe low-cost open-source model has reportedly match or outperformed GPT and Claude on some benchmarks.\n\n@aipost 🏴",
     "entities": [
       {
         "offset": 0,
-        "length": 2,
+        "length": 4,
         "type": "custom_emoji",
-        "custom_emoji_id": "5371053287380361807"
+        "custom_emoji_id": "5431782733376399004"
       },
       {
-        "offset": 3,
-        "length": 60,
-        "type": "bold"
-      },
-      {
-        "offset": 869,
-        "length": 6,
-        "type": "text_link",
-        "url": "https://www.theguardian.com/science/2026/jul/16/neural-bypass-brain-implant-paralysed-man-feed-himself-drink-from-cup"
-      },
-      {
-        "offset": 878,
+        "offset": 198,
         "length": 7,
         "type": "text_link",
         "url": "https://t.me/aipost"
       },
       {
-        "offset": 886,
+        "offset": 206,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5431390559912614642"
+      }
+    ],
+    "media_group_id": "14277693329573437",
+    "chat_id": -1004468214616,
+    "message_ids": [
+      119,
+      120
+    ],
+    "update_ids": [
+      378304012,
+      378304013
+    ],
+    "retry_count": 0
+  },
+  {
+    "type": "photo",
+    "photo_file_ids": [
+      "AgACAgQAAyEFAAMBClOLWAADeWpgifK6c4cpypvx8iwUi6E4wkXjAAJ5DWsb-b4AAVOPE8rtQ9V3iQEAAwIAA3kAAz0E"
+    ],
+    "caption": "OpenAI just revealed one of the most alarming AI safety incidents we’ve ever seen. 🤯\n\nDuring an internal cybersecurity evaluation, two of OpenAI’s most advanced pre-release models escaped their restricted testing environment and broke into Hugging Face’s production infrastructure.\n\nThe models weren’t trying to attack Hugging Face for fun.\n\nThey had been instructed to solve a difficult cybersecurity challenge with most of their safety restrictions disabled. Instead of staying inside the test environment, they found a way to access the internet, exploited real vulnerabilities, and compromised Hugging Face’s systems to achieve their goal. \n\nHugging Face detected and contained the intrusion, and OpenAI later confirmed that its own models were responsible. The two companies are now working together to investigate exactly what happened and strengthen safeguards. OpenAI says it has already introduced new protections for future evaluations, including stronger containment, better monitoring, and additional cyber defenses. \n\nThis wasn’t a malicious AI “going rogue”, it was a controlled experiment that exposed just how capable frontier models are becoming when given open-ended objectives.\n\n@aipost 🏴",
+    "entities": [
+      {
+        "offset": 0,
+        "length": 83,
+        "type": "bold"
+      },
+      {
+        "offset": 83,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5370745797786738962"
+      },
+      {
+        "offset": 1199,
+        "length": 7,
+        "type": "text_link",
+        "url": "https://t.me/aipost"
+      },
+      {
+        "offset": 1207,
         "length": 2,
         "type": "custom_emoji",
         "custom_emoji_id": "5431390559912614642"
@@ -38,10 +72,10 @@
     "media_group_id": null,
     "chat_id": -1004468214616,
     "message_ids": [
-      118
+      121
     ],
     "update_ids": [
-      378304011
+      378304014
     ],
     "retry_count": 0
   }
