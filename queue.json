@@ -1,35 +1,5 @@
 [
   {
-    "type": "photo",
-    "photo_file_ids": [
-      "AgACAgQAAyEFAAMBClOLWAADhGph55IugrLiNYsa_pwKLonHEp3tAAISDWsb5wMQU3Qu5txXfy0DAQADAgADeQADPQQ"
-    ],
-    "caption": "AI isn’t draining the planet the way many people think. Your breakfast may use more water than a year of chatting with ChatGPT.\n\n@aipost 🏴",
-    "entities": [
-      {
-        "offset": 129,
-        "length": 7,
-        "type": "text_link",
-        "url": "https://t.me/aipost"
-      },
-      {
-        "offset": 137,
-        "length": 2,
-        "type": "custom_emoji",
-        "custom_emoji_id": "5431390559912614642"
-      }
-    ],
-    "media_group_id": null,
-    "chat_id": -1004468214616,
-    "message_ids": [
-      132
-    ],
-    "update_ids": [
-      378304025
-    ],
-    "retry_count": 1
-  },
-  {
     "type": "video",
     "video_file_id": "BAACAgQAAyEFAAMBClOLWAADhWpiBnEhDhNQ7m0KHNHQ_g3kklQgAAK-GwAC5wMQU7mUnPJw9cZPPQQ",
     "video_file_size": 35340171,
