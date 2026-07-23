@@ -1,34 +1,5 @@
 [
   {
-    "type": "photo",
-    "photo_file_ids": [
-      "AgACAgIAAyEFAAMBClOLWAADhmpiKo3j9tcJ93_XpPJGA0MRN0_XAAIhGWsbyCQQS9QN4rHGa8AnAQADAgADeAADPQQ"
-    ],
-    "caption": "The robotics industry is projected to experience a 370-fold expansion by 2040, with general-purpose and humanoid robots driving this growth. According to McKinsey forecasts, the sector could move from a market size under $1 billion today to $370 billion within 16 years.\n\nThe report indicates growth will remain steady through the late 2020s before accelerating in the 2030s. China is expected to secure the largest market share, followed by Europe, North America, Japan, South Korea, and others.\n\nThis shift is supported by recent advances in AI, sensors, and battery technology, making humanoid robotics more practical and scalable.\n\nKey suppliers include Harmonic Drive Systems, MinebeaMitsumi, Nabtesco, Rockwell Automation, and Cognex, providing critical components across robot manufacturing and deployment.\n\n📰 @aipost",
-    "entities": [
-      {
-        "offset": 815,
-        "length": 2,
-        "type": "custom_emoji",
-        "custom_emoji_id": "5363988332466438547"
-      },
-      {
-        "offset": 818,
-        "length": 7,
-        "type": "mention"
-      }
-    ],
-    "media_group_id": null,
-    "chat_id": -1004468214616,
-    "message_ids": [
-      134
-    ],
-    "update_ids": [
-      378304027
-    ],
-    "retry_count": 0
-  },
-  {
     "type": "video",
     "video_file_id": "BAACAgIAAyEFAAMBClOLWAADh2piPNg4SeLd2RRsqGb0oeZW4B5UAAJlswACpZ8JSzPkF_JYhvavPQQ",
     "video_file_size": 230362,
