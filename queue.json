@@ -1,35 +1,5 @@
 [
   {
-    "type": "photo",
-    "photo_file_ids": [
-      "AgACAgQAAyEFAAMBClOLWAADgGphkc1hGPjK030wdv2oXyGNW2jTAAKdDWsb-b4AAVOOVEFlAQhLIwEAAwIAA3kAAz0E"
-    ],
-    "caption": "Anthropic launches a feature that lets users teach Claude skills by recording their screen.\n\n@aipost 🏴",
-    "entities": [
-      {
-        "offset": 93,
-        "length": 7,
-        "type": "text_link",
-        "url": "https://t.me/aipost"
-      },
-      {
-        "offset": 101,
-        "length": 2,
-        "type": "custom_emoji",
-        "custom_emoji_id": "5431390559912614642"
-      }
-    ],
-    "media_group_id": null,
-    "chat_id": -1004468214616,
-    "message_ids": [
-      128
-    ],
-    "update_ids": [
-      378304021
-    ],
-    "retry_count": 0
-  },
-  {
     "type": "video",
     "video_file_id": "BAACAgQAAyEFAAMBClOLWAADgWphkeAizAABZFdrerLI5OtrSeCvIgACmh4AAvm-AAFTssnTMNRJfBI9BA",
     "video_file_size": 6886671,
@@ -55,6 +25,76 @@
     ],
     "update_ids": [
       378304022
+    ],
+    "retry_count": 0
+  },
+  {
+    "type": "photo",
+    "photo_file_ids": [
+      "AgACAgIAAyEFAAMBClOLWAADgmph1uFF0gw8N5wlQ57Jri3Efg1FAALgGWsb3S4BS5Cou3u-S17sAQADAgADdwADPQQ"
+    ],
+    "caption": "🤖 Claude Code Adds iOS Simulator Testing\n\nAnthropic integrated iOS Simulator support into Claude Code Desktop. Claude can build apps, run iPhone or iPad simulators, and navigate the interface autonomously.\n\nClaude interacts with the app by tapping buttons, switching screens, and verifying changes. It fixes issues and reruns tests automatically.\n\nThe simulator runs alongside the chat window, letting developers take control and then hand it back to Claude.\n\nClaude handles most of the development and testing cycle within one interface.\n\n📊@tech",
+    "entities": [
+      {
+        "offset": 0,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5208665212483310136"
+      },
+      {
+        "offset": 3,
+        "length": 38,
+        "type": "bold"
+      },
+      {
+        "offset": 43,
+        "length": 67,
+        "type": "bold"
+      },
+      {
+        "offset": 208,
+        "length": 48,
+        "type": "bold"
+      },
+      {
+        "offset": 349,
+        "length": 44,
+        "type": "bold"
+      },
+      {
+        "offset": 461,
+        "length": 56,
+        "type": "bold"
+      },
+      {
+        "offset": 541,
+        "length": 2,
+        "type": "bold"
+      },
+      {
+        "offset": 541,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5449841756596101801"
+      },
+      {
+        "offset": 543,
+        "length": 5,
+        "type": "mention"
+      },
+      {
+        "offset": 543,
+        "length": 5,
+        "type": "bold"
+      }
+    ],
+    "media_group_id": null,
+    "chat_id": -1004468214616,
+    "message_ids": [
+      130
+    ],
+    "update_ids": [
+      378304023
     ],
     "retry_count": 0
   }
