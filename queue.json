@@ -1,1 +1,61 @@
-[]
+[
+  {
+    "type": "photo",
+    "photo_file_ids": [
+      "AgACAgQAAyEFAAMBClOLWAADgGphkc1hGPjK030wdv2oXyGNW2jTAAKdDWsb-b4AAVOOVEFlAQhLIwEAAwIAA3kAAz0E"
+    ],
+    "caption": "Anthropic launches a feature that lets users teach Claude skills by recording their screen.\n\n@aipost 🏴",
+    "entities": [
+      {
+        "offset": 93,
+        "length": 7,
+        "type": "text_link",
+        "url": "https://t.me/aipost"
+      },
+      {
+        "offset": 101,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5431390559912614642"
+      }
+    ],
+    "media_group_id": null,
+    "chat_id": -1004468214616,
+    "message_ids": [
+      128
+    ],
+    "update_ids": [
+      378304021
+    ],
+    "retry_count": 0
+  },
+  {
+    "type": "video",
+    "video_file_id": "BAACAgQAAyEFAAMBClOLWAADgWphkeAizAABZFdrerLI5OtrSeCvIgACmh4AAvm-AAFTssnTMNRJfBI9BA",
+    "video_file_size": 6886671,
+    "caption": "Jensen Huang to an 11-year-old: Don’t fear AI, engage it to boost your productivity as the world changes.\n\n“Your superpowers? Curiosity and generosity. Stay curious, keep asking questions, and share what you learn. Those will take you far in the AI era.“\n\n@aipost 🏴",
+    "entities": [
+      {
+        "offset": 256,
+        "length": 7,
+        "type": "text_link",
+        "url": "https://t.me/aipost"
+      },
+      {
+        "offset": 264,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5431390559912614642"
+      }
+    ],
+    "media_group_id": null,
+    "chat_id": -1004468214616,
+    "message_ids": [
+      129
+    ],
+    "update_ids": [
+      378304022
+    ],
+    "retry_count": 0
+  }
+]
