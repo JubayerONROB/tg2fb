@@ -27,7 +27,7 @@
     "update_ids": [
       378304025
     ],
-    "retry_count": 0
+    "retry_count": 1
   },
   {
     "type": "video",
@@ -232,6 +232,52 @@
     ],
     "update_ids": [
       378304029
+    ],
+    "retry_count": 0
+  },
+  {
+    "type": "photo",
+    "photo_file_ids": [
+      "AgACAgQAAyEFAAMBClOLWAADiWpiT2ozNRw5TgFWM212MAEi7sx7AAImDWsb5wMQU52H899OTmA2AQADAgADeQADPQQ"
+    ],
+    "caption": "🙃 Elon Musk is extremely unhappy with Nolan’s “Odyssey”, he wants to make his own AI version\n\nElon Musk said that his AI model Grok Imagine will create a full-length film adaptation of “The Odyssey” by the end of 2026.\n\nMusk made the statement after the release of Christopher Nolan’s adaptation of “The Odyssey”, which sparked heated debates among viewers and critics.\n\nThe film, starring Matt Damon as Odysseus, received mixed reactions: some viewers criticized the modern interpretation of the ancient epic, the casting choices, and the departure from Greek traditions.\n\nSocial media users also actively discussed the film’s visual style, costumes, and the director’s creative decisions, including the casting and reinterpretation of ancient Greek heroes.\n\nIn Greece, the film was met with a very cold reaction. Viewers and politicians are asking: why are there almost no Greek actors in a story about ancient Greece?\n\nIf Musk’s project is completed, it could become one of the first attempts to create a full-length movie using generative AI.\n\n@aipost 🏴",
+    "entities": [
+      {
+        "offset": 0,
+        "length": 2,
+        "type": "bold"
+      },
+      {
+        "offset": 0,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5289701946754633864"
+      },
+      {
+        "offset": 2,
+        "length": 91,
+        "type": "bold"
+      },
+      {
+        "offset": 1049,
+        "length": 7,
+        "type": "text_link",
+        "url": "https://t.me/aipost"
+      },
+      {
+        "offset": 1057,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5431390559912614642"
+      }
+    ],
+    "media_group_id": null,
+    "chat_id": -1004468214616,
+    "message_ids": [
+      137
+    ],
+    "update_ids": [
+      378304030
     ],
     "retry_count": 0
   }
