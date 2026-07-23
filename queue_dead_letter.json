@@ -725,5 +725,34 @@
       378304007
     ],
     "retry_count": 0
+  },
+  {
+    "type": "video",
+    "video_file_id": "BAACAgQAAyEFAAMBClOLWAADg2ph53g1b93bM1oOO_1E8TOTXmwiAAKVHgAC-b4AAVOLNEeD_Gx5dj0E",
+    "video_file_size": 23796401,
+    "caption": "A robot massages a man’s arms, showing that even massage therapists may not be spared from automation.\n\n@aipost 🏴",
+    "entities": [
+      {
+        "offset": 104,
+        "length": 7,
+        "type": "text_link",
+        "url": "https://t.me/aipost"
+      },
+      {
+        "offset": 112,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5431390559912614642"
+      }
+    ],
+    "media_group_id": null,
+    "chat_id": -1004468214616,
+    "message_ids": [
+      131
+    ],
+    "update_ids": [
+      378304024
+    ],
+    "retry_count": 0
   }
 ]

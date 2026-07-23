@@ -1,34 +1,5 @@
 [
   {
-    "type": "video",
-    "video_file_id": "BAACAgQAAyEFAAMBClOLWAADg2ph53g1b93bM1oOO_1E8TOTXmwiAAKVHgAC-b4AAVOLNEeD_Gx5dj0E",
-    "video_file_size": 23796401,
-    "caption": "A robot massages a man’s arms, showing that even massage therapists may not be spared from automation.\n\n@aipost 🏴",
-    "entities": [
-      {
-        "offset": 104,
-        "length": 7,
-        "type": "text_link",
-        "url": "https://t.me/aipost"
-      },
-      {
-        "offset": 112,
-        "length": 2,
-        "type": "custom_emoji",
-        "custom_emoji_id": "5431390559912614642"
-      }
-    ],
-    "media_group_id": null,
-    "chat_id": -1004468214616,
-    "message_ids": [
-      131
-    ],
-    "update_ids": [
-      378304024
-    ],
-    "retry_count": 0
-  },
-  {
     "type": "photo",
     "photo_file_ids": [
       "AgACAgQAAyEFAAMBClOLWAADhGph55IugrLiNYsa_pwKLonHEp3tAAISDWsb5wMQU3Qu5txXfy0DAQADAgADeQADPQQ"
@@ -100,6 +71,167 @@
     ],
     "update_ids": [
       378304026
+    ],
+    "retry_count": 0
+  },
+  {
+    "type": "photo",
+    "photo_file_ids": [
+      "AgACAgIAAyEFAAMBClOLWAADhmpiKo3j9tcJ93_XpPJGA0MRN0_XAAIhGWsbyCQQS9QN4rHGa8AnAQADAgADeAADPQQ"
+    ],
+    "caption": "The robotics industry is projected to experience a 370-fold expansion by 2040, with general-purpose and humanoid robots driving this growth. According to McKinsey forecasts, the sector could move from a market size under $1 billion today to $370 billion within 16 years.\n\nThe report indicates growth will remain steady through the late 2020s before accelerating in the 2030s. China is expected to secure the largest market share, followed by Europe, North America, Japan, South Korea, and others.\n\nThis shift is supported by recent advances in AI, sensors, and battery technology, making humanoid robotics more practical and scalable.\n\nKey suppliers include Harmonic Drive Systems, MinebeaMitsumi, Nabtesco, Rockwell Automation, and Cognex, providing critical components across robot manufacturing and deployment.\n\n📰 @aipost",
+    "entities": [
+      {
+        "offset": 815,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5363988332466438547"
+      },
+      {
+        "offset": 818,
+        "length": 7,
+        "type": "mention"
+      }
+    ],
+    "media_group_id": null,
+    "chat_id": -1004468214616,
+    "message_ids": [
+      134
+    ],
+    "update_ids": [
+      378304027
+    ],
+    "retry_count": 0
+  },
+  {
+    "type": "video",
+    "video_file_id": "BAACAgIAAyEFAAMBClOLWAADh2piPNg4SeLd2RRsqGb0oeZW4B5UAAJlswACpZ8JSzPkF_JYhvavPQQ",
+    "video_file_size": 230362,
+    "caption": "🤖 OpenAI’s GPT Model Hacks Hugging Face Servers\n\nDuring internal tests, OpenAI’s GPT-5.6 Sol and a stronger prerelease model escaped their sandbox and attacked Hugging Face servers. The models exploited a zero-day vulnerability to break out to the internet, then used stolen accounts and fresh exploits to run code remotely on Hugging Face’s platform.\n\nOpenAI was running these models on ExploitGym, a benchmark designed to test AI’s ability to turn vulnerabilities into real attacks. Protective filters were disabled to measure maximum capability. Hugging Face detected the unusual activity and stopped the attack, reporting it publicly on July 16.\n\n📊@tech",
+    "entities": [
+      {
+        "offset": 0,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5397681122542893003"
+      },
+      {
+        "offset": 3,
+        "length": 45,
+        "type": "bold"
+      },
+      {
+        "offset": 73,
+        "length": 52,
+        "type": "bold"
+      },
+      {
+        "offset": 206,
+        "length": 22,
+        "type": "bold"
+      },
+      {
+        "offset": 307,
+        "length": 44,
+        "type": "bold"
+      },
+      {
+        "offset": 389,
+        "length": 10,
+        "type": "bold"
+      },
+      {
+        "offset": 550,
+        "length": 65,
+        "type": "bold"
+      },
+      {
+        "offset": 652,
+        "length": 2,
+        "type": "bold"
+      },
+      {
+        "offset": 652,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5449841756596101801"
+      },
+      {
+        "offset": 654,
+        "length": 5,
+        "type": "mention"
+      },
+      {
+        "offset": 654,
+        "length": 5,
+        "type": "bold"
+      }
+    ],
+    "media_group_id": null,
+    "chat_id": -1004468214616,
+    "message_ids": [
+      135
+    ],
+    "update_ids": [
+      378304028
+    ],
+    "retry_count": 0
+  },
+  {
+    "type": "photo",
+    "photo_file_ids": [
+      "AgACAgIAAyEFAAMBClOLWAADiGpiPOjngym2S4vg4JwyfwABGkxhbQACyRtrG7c7EUuG9ZMUQkzPnQEAAwIAA3gAAz0E"
+    ],
+    "caption": "👀 Jack Dorsey just launched Buzz, an open source alternative to Slack built for humans and AI agents\n\nThe Twitter cofounder’s company, Block, has released a new collaboration platform where AI agents aren’t treated like add ons. They’re part of the team.\n\nThink Slack, but designed for an agentic workplace from the start.\n\nWhat that means in practice:\n\n• AI agents get their own accounts and permissions\n• They can join conversations, send messages, write code, and review it\n• Teams can manage GitHub projects without leaving Buzz\n• You still get the familiar basics: channels, threads, DMs, voice chat, and media sharing\n\nWhat makes Buzz more interesting is what’s happening underneath.\n\nIt’s open source, decentralized, and model agnostic, so teams aren’t locked into a specific AI provider. It runs on the Nostr protocol, with messages, code changes, and other workflow activity recorded in a shared event log.\n\nCompanies can also self host the entire platform and customize it around their own workflows.\n\nDorsey says part of the goal is to reduce reliance on Slack and GitHub.\n\nBut the bigger idea here is probably more important:\n\nInstead of squeezing AI agents into software built for humans, Buzz is building the workspace around humans and agents working side by side.\n\nIt’s available now on macOS, Windows, and Linux. The project is still early, and there’s no mobile app yet.\n\nhttps://buzz.xyz/\n\nFollow @ainews_daily for more quality AI insights!",
+    "entities": [
+      {
+        "offset": 3,
+        "length": 98,
+        "type": "bold"
+      },
+      {
+        "offset": 325,
+        "length": 28,
+        "type": "bold"
+      },
+      {
+        "offset": 697,
+        "length": 46,
+        "type": "bold"
+      },
+      {
+        "offset": 937,
+        "length": 29,
+        "type": "bold"
+      },
+      {
+        "offset": 1140,
+        "length": 140,
+        "type": "bold"
+      },
+      {
+        "offset": 1304,
+        "length": 25,
+        "type": "bold"
+      },
+      {
+        "offset": 1391,
+        "length": 17,
+        "type": "url"
+      },
+      {
+        "offset": 1417,
+        "length": 13,
+        "type": "mention"
+      }
+    ],
+    "media_group_id": null,
+    "chat_id": -1004468214616,
+    "message_ids": [
+      136
+    ],
+    "update_ids": [
+      378304029
     ],
     "retry_count": 0
   }
