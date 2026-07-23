@@ -1,50 +1,5 @@
 [
   {
-    "type": "video",
-    "video_file_id": "BAACAgQAAyEFAAMBClOLWAADhWpiBnEhDhNQ7m0KHNHQ_g3kklQgAAK-GwAC5wMQU7mUnPJw9cZPPQQ",
-    "video_file_size": 35340171,
-    "caption": "🇨🇳 Imagine drawing a math equation on a blackboard... and watching it instantly come to life.\n\nAt the 2026 World AI Conference in Shanghai, a company unveiled an AI-powered blackboard that transforms handwritten equations into live graphs and simple sketches into interactive 3D models in real time. \n\nIf this technology reaches classrooms, math lessons could look very different in the future.\n\n@aipost 🏴",
-    "entities": [
-      {
-        "offset": 0,
-        "length": 4,
-        "type": "bold"
-      },
-      {
-        "offset": 0,
-        "length": 4,
-        "type": "custom_emoji",
-        "custom_emoji_id": "5431782733376399004"
-      },
-      {
-        "offset": 4,
-        "length": 91,
-        "type": "bold"
-      },
-      {
-        "offset": 398,
-        "length": 7,
-        "type": "text_link",
-        "url": "https://t.me/aipost"
-      },
-      {
-        "offset": 406,
-        "length": 2,
-        "type": "custom_emoji",
-        "custom_emoji_id": "5431390559912614642"
-      }
-    ],
-    "media_group_id": null,
-    "chat_id": -1004468214616,
-    "message_ids": [
-      133
-    ],
-    "update_ids": [
-      378304026
-    ],
-    "retry_count": 0
-  },
-  {
     "type": "photo",
     "photo_file_ids": [
       "AgACAgIAAyEFAAMBClOLWAADhmpiKo3j9tcJ93_XpPJGA0MRN0_XAAIhGWsbyCQQS9QN4rHGa8AnAQADAgADeAADPQQ"
@@ -248,6 +203,47 @@
     ],
     "update_ids": [
       378304030
+    ],
+    "retry_count": 0
+  },
+  {
+    "type": "photo",
+    "photo_file_ids": [
+      "AgACAgQAAyEFAAMBClOLWAADimpijNSXA-h7mQ5FDlocP7bQgudWAAIeDWsb5wMQU5htHk27qlznAQADAgADeAADPQQ"
+    ],
+    "caption": "❗️Uber just admitted what many companies have been hinting at.\n\nThe company has cut 10% of its customer service workforce, saying the move is part of simplifying operations and embracing AI.\n\nWhat’s notable is that this is the first time Uber has directly linked layoffs to automation.\n\nAccording to Megha Yethadka, who leads Uber’s global community operations, the team’s biggest problem wasn’t just staffing, it was complexity. She told employees the organization had become too fragmented and siloed, making it difficult for AI to deliver meaningful improvements.\n\nHer message was simple: before AI can replace or enhance work at scale, companies need to redesign how that work is organized.\n\n@aipost 🏴",
+    "entities": [
+      {
+        "offset": 0,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5289761612440310918"
+      },
+      {
+        "offset": 2,
+        "length": 60,
+        "type": "bold"
+      },
+      {
+        "offset": 696,
+        "length": 7,
+        "type": "text_link",
+        "url": "https://t.me/aipost"
+      },
+      {
+        "offset": 704,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5431390559912614642"
+      }
+    ],
+    "media_group_id": null,
+    "chat_id": -1004468214616,
+    "message_ids": [
+      138
+    ],
+    "update_ids": [
+      378304031
     ],
     "retry_count": 0
   }

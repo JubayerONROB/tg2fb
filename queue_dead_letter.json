@@ -754,5 +754,50 @@
       378304024
     ],
     "retry_count": 0
+  },
+  {
+    "type": "video",
+    "video_file_id": "BAACAgQAAyEFAAMBClOLWAADhWpiBnEhDhNQ7m0KHNHQ_g3kklQgAAK-GwAC5wMQU7mUnPJw9cZPPQQ",
+    "video_file_size": 35340171,
+    "caption": "🇨🇳 Imagine drawing a math equation on a blackboard... and watching it instantly come to life.\n\nAt the 2026 World AI Conference in Shanghai, a company unveiled an AI-powered blackboard that transforms handwritten equations into live graphs and simple sketches into interactive 3D models in real time. \n\nIf this technology reaches classrooms, math lessons could look very different in the future.\n\n@aipost 🏴",
+    "entities": [
+      {
+        "offset": 0,
+        "length": 4,
+        "type": "bold"
+      },
+      {
+        "offset": 0,
+        "length": 4,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5431782733376399004"
+      },
+      {
+        "offset": 4,
+        "length": 91,
+        "type": "bold"
+      },
+      {
+        "offset": 398,
+        "length": 7,
+        "type": "text_link",
+        "url": "https://t.me/aipost"
+      },
+      {
+        "offset": 406,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5431390559912614642"
+      }
+    ],
+    "media_group_id": null,
+    "chat_id": -1004468214616,
+    "message_ids": [
+      133
+    ],
+    "update_ids": [
+      378304026
+    ],
+    "retry_count": 0
   }
 ]
