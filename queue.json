@@ -1,34 +1,5 @@
 [
   {
-    "type": "video",
-    "video_file_id": "BAACAgQAAyEFAAMBClOLWAADgWphkeAizAABZFdrerLI5OtrSeCvIgACmh4AAvm-AAFTssnTMNRJfBI9BA",
-    "video_file_size": 6886671,
-    "caption": "Jensen Huang to an 11-year-old: Don’t fear AI, engage it to boost your productivity as the world changes.\n\n“Your superpowers? Curiosity and generosity. Stay curious, keep asking questions, and share what you learn. Those will take you far in the AI era.“\n\n@aipost 🏴",
-    "entities": [
-      {
-        "offset": 256,
-        "length": 7,
-        "type": "text_link",
-        "url": "https://t.me/aipost"
-      },
-      {
-        "offset": 264,
-        "length": 2,
-        "type": "custom_emoji",
-        "custom_emoji_id": "5431390559912614642"
-      }
-    ],
-    "media_group_id": null,
-    "chat_id": -1004468214616,
-    "message_ids": [
-      129
-    ],
-    "update_ids": [
-      378304022
-    ],
-    "retry_count": 0
-  },
-  {
     "type": "photo",
     "photo_file_ids": [
       "AgACAgIAAyEFAAMBClOLWAADgmph1uFF0gw8N5wlQ57Jri3Efg1FAALgGWsb3S4BS5Cou3u-S17sAQADAgADdwADPQQ"
@@ -95,6 +66,65 @@
     ],
     "update_ids": [
       378304023
+    ],
+    "retry_count": 0
+  },
+  {
+    "type": "video",
+    "video_file_id": "BAACAgQAAyEFAAMBClOLWAADg2ph53g1b93bM1oOO_1E8TOTXmwiAAKVHgAC-b4AAVOLNEeD_Gx5dj0E",
+    "video_file_size": 23796401,
+    "caption": "A robot massages a man’s arms, showing that even massage therapists may not be spared from automation.\n\n@aipost 🏴",
+    "entities": [
+      {
+        "offset": 104,
+        "length": 7,
+        "type": "text_link",
+        "url": "https://t.me/aipost"
+      },
+      {
+        "offset": 112,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5431390559912614642"
+      }
+    ],
+    "media_group_id": null,
+    "chat_id": -1004468214616,
+    "message_ids": [
+      131
+    ],
+    "update_ids": [
+      378304024
+    ],
+    "retry_count": 0
+  },
+  {
+    "type": "photo",
+    "photo_file_ids": [
+      "AgACAgQAAyEFAAMBClOLWAADhGph55IugrLiNYsa_pwKLonHEp3tAAISDWsb5wMQU3Qu5txXfy0DAQADAgADeQADPQQ"
+    ],
+    "caption": "AI isn’t draining the planet the way many people think. Your breakfast may use more water than a year of chatting with ChatGPT.\n\n@aipost 🏴",
+    "entities": [
+      {
+        "offset": 129,
+        "length": 7,
+        "type": "text_link",
+        "url": "https://t.me/aipost"
+      },
+      {
+        "offset": 137,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5431390559912614642"
+      }
+    ],
+    "media_group_id": null,
+    "chat_id": -1004468214616,
+    "message_ids": [
+      132
+    ],
+    "update_ids": [
+      378304025
     ],
     "retry_count": 0
   }
