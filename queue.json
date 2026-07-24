@@ -1,45 +1,5 @@
 [
   {
-    "type": "video",
-    "video_file_id": "BAACAgQAAyEFAAMBClOLWAADjWpi_48SdOgr3Z0iqZT1X1FFiDEpAAKwGwAC5wMQUxlRWLq9iigpPQQ",
-    "video_file_size": 26630019,
-    "caption": "🤖 OpenAI chairman Bret Taylor talks to about 100 CEOs every month. \n\nHis answer to the cheap open-weight model panic: cheaper to train does not mean cheaper to use, and the number that decides it is token efficiency.\n\n\"One thing that I think is a little bit overblown about these open weight models is they're not necessarily cheaper to run. Whether or not they're cheaper to train, you don't care. Because you're using just as many tokens. In fact, they may be less efficient.\"\n\n\"There's this thing called token efficiency. And it turns out the frontier models are much, much more token efficient.\"\n\n\"A token is to intelligence like a watt is to electricity... how many tokens does it take to complete a task? Not every token is actually equal.\"\n\n\"For a lot of tasks, it turns out these frontier models from OpenAI and Anthropic are actually just better than these open weight models... just having open weights isn't actually the main thing driving any of those costs.\"\n\nLater in the same interview he goes after the billing unit itself: \"It would be like if you signed up for Gmail and you paid for CPU cycle or something... where the world is going is paying for outcomes.\"\n\nThe unresolved column: the chart CNBC airs mid-answer, from Artificial Analysis, prices a completed task at $0.94 on Kimi K3 against $2.75 on Claude Fable 5, efficiency folded in. If that gap holds, the premium he is defending gets earned on quality, not price.\n\n@aipost 🏴",
-    "entities": [
-      {
-        "offset": 0,
-        "length": 2,
-        "type": "custom_emoji",
-        "custom_emoji_id": "5397681122542893003"
-      },
-      {
-        "offset": 3,
-        "length": 65,
-        "type": "bold"
-      },
-      {
-        "offset": 1443,
-        "length": 7,
-        "type": "text_link",
-        "url": "https://t.me/aipost"
-      },
-      {
-        "offset": 1451,
-        "length": 2,
-        "type": "custom_emoji",
-        "custom_emoji_id": "5431390559912614642"
-      }
-    ],
-    "media_group_id": null,
-    "chat_id": -1004468214616,
-    "message_ids": [
-      141
-    ],
-    "update_ids": [
-      378304034
-    ],
-    "retry_count": 0
-  },
-  {
     "type": "photo",
     "photo_file_ids": [
       "AgACAgQAAyEFAAMBClOLWAADjmpjArcNEdwIIjwa9aKitARVcupBAALMDmsbS5AYUyVGqz28G8GIAQADAgADeQADPQQ"
@@ -186,6 +146,110 @@
     ],
     "update_ids": [
       378304037
+    ],
+    "retry_count": 0
+  },
+  {
+    "type": "video",
+    "video_file_id": "BAACAgQAAyEFAAMBClOLWAADkWpjapw3mz8HDmaRJ996k-izWfFsAAIdHQACS5AYU1Bm-tbfCSpZPQQ",
+    "video_file_size": 23076709,
+    "caption": "Neuralink patients controlling their wheelchairs just by thinking. \n\n@aipost 🏴",
+    "entities": [
+      {
+        "offset": 69,
+        "length": 7,
+        "type": "text_link",
+        "url": "https://t.me/aipost"
+      },
+      {
+        "offset": 77,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5431390559912614642"
+      }
+    ],
+    "media_group_id": null,
+    "chat_id": -1004468214616,
+    "message_ids": [
+      145
+    ],
+    "update_ids": [
+      378304038
+    ],
+    "retry_count": 0
+  },
+  {
+    "type": "photo",
+    "photo_file_ids": [
+      "AgACAgIAAyEFAAMBClOLWAADkmpjaq0gGAaukvK3nduEdR-6J2Q7AAIBGmsb9zEJS_smTIhYcCN_AQADAgADeQADPQQ"
+    ],
+    "caption": "🤖 OpenAI Faces Lawsuit Over ChatGPT Medical Advice\n\nA US pastor sued OpenAI and Sam Altman after ChatGPT allegedly downplayed his lung embolism symptoms and discouraged him from seeking medical help. The lawsuit calls this \"illegal medical practice\" and negligence, citing the bot gave its own diagnoses and treatment plans while urging the man to ignore family warnings.\n\nChatGPT is not designed for medical diagnosis but reportedly handles 230 million medical queries weekly. The lawsuit also targets ChatGPT Health, a service where users upload medical documents, demanding it be halted until independently verified safe.\n\n📊@tech",
+    "entities": [
+      {
+        "offset": 0,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5397681122542893003"
+      },
+      {
+        "offset": 3,
+        "length": 48,
+        "type": "bold"
+      },
+      {
+        "offset": 70,
+        "length": 6,
+        "type": "bold"
+      },
+      {
+        "offset": 81,
+        "length": 10,
+        "type": "bold"
+      },
+      {
+        "offset": 98,
+        "length": 7,
+        "type": "bold"
+      },
+      {
+        "offset": 374,
+        "length": 7,
+        "type": "bold"
+      },
+      {
+        "offset": 504,
+        "length": 14,
+        "type": "bold"
+      },
+      {
+        "offset": 627,
+        "length": 2,
+        "type": "bold"
+      },
+      {
+        "offset": 627,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5449841756596101801"
+      },
+      {
+        "offset": 629,
+        "length": 5,
+        "type": "mention"
+      },
+      {
+        "offset": 629,
+        "length": 5,
+        "type": "bold"
+      }
+    ],
+    "media_group_id": null,
+    "chat_id": -1004468214616,
+    "message_ids": [
+      146
+    ],
+    "update_ids": [
+      378304039
     ],
     "retry_count": 0
   }
