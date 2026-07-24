@@ -1,35 +1,5 @@
 [
   {
-    "type": "photo",
-    "photo_file_ids": [
-      "AgACAgQAAyEFAAMBClOLWAADjmpjArcNEdwIIjwa9aKitARVcupBAALMDmsbS5AYUyVGqz28G8GIAQADAgADeQADPQQ"
-    ],
-    "caption": "The AI race isn’t just about GPUs anymore. It’s about talent. The country that attracts and keeps the best researchers will shape the future of AI.\n\n@aipost 🏴",
-    "entities": [
-      {
-        "offset": 149,
-        "length": 7,
-        "type": "text_link",
-        "url": "https://t.me/aipost"
-      },
-      {
-        "offset": 157,
-        "length": 2,
-        "type": "custom_emoji",
-        "custom_emoji_id": "5431390559912614642"
-      }
-    ],
-    "media_group_id": null,
-    "chat_id": -1004468214616,
-    "message_ids": [
-      142
-    ],
-    "update_ids": [
-      378304035
-    ],
-    "retry_count": 0
-  },
-  {
     "type": "video",
     "video_file_id": "BAACAgIAAyEFAAMBClOLWAADj2pjKEeMW7owVSS3wfQKUHZ-MVYrAALpqAACA9IQSzAT4_IhttlEPQQ",
     "video_file_size": 3575616,
@@ -250,6 +220,91 @@
     ],
     "update_ids": [
       378304039
+    ],
+    "retry_count": 0
+  },
+  {
+    "type": "video",
+    "video_file_id": "BAACAgQAAyEFAAMBClOLWAADk2pjgZv1Q7y-qfc044LYNiytxGXJAALZHAACS5AYU63ARiRSSzeEPQQ",
+    "video_file_size": 5620913,
+    "caption": "🙃 Elon Musk on Anthropic:\n\n\"I think Dario is a very principled person &amp; he cares about things a lot. He cares about the future of the world. I think everyone I've met at Anthropic so far has been like, no one set off my evil detector. They always seem like they're well-intentioned\".\n\n@aipost 🏴",
+    "entities": [
+      {
+        "offset": 0,
+        "length": 2,
+        "type": "bold"
+      },
+      {
+        "offset": 0,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5289701946754633864"
+      },
+      {
+        "offset": 2,
+        "length": 24,
+        "type": "bold"
+      },
+      {
+        "offset": 290,
+        "length": 7,
+        "type": "text_link",
+        "url": "https://t.me/aipost"
+      },
+      {
+        "offset": 298,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5431390559912614642"
+      }
+    ],
+    "media_group_id": null,
+    "chat_id": -1004468214616,
+    "message_ids": [
+      147
+    ],
+    "update_ids": [
+      378304040
+    ],
+    "retry_count": 0
+  },
+  {
+    "type": "video",
+    "video_file_id": "BAACAgQAAyEFAAMBClOLWAADlGpjgdM7yrQ6p93hziyFpp4P1y-hAALbHAACS5AYU5-0iHFRqo72PQQ",
+    "video_file_size": 31451697,
+    "caption": "🙃 Elon Musk on Sam Altman:\n\n\"I'm not a fan of Sam Altman because if you started a non-profit that was meant to be an open source AI company and it somehow got turned into an 800 billion dollar for-profit company with closed source, I think you'd be like, well, wait a second, that's the exact opposite of what I donated the money for. That's my issue. I think it's a legitimate one.\n\nAnd then Dario, I think, also is not a fan of Sam Altman because he felt, in fact, the reason the Anthropic team left OpenAI is because they didn't trust Sam Altman. Otherwise Anthropic wouldn't exist. They would still be at OpenAI. But at the end of the day, if we have to talk, we'll talk.I mean, set aside our personal differences for the good of the world.\"\n\n@aipost 🏴",
+    "entities": [
+      {
+        "offset": 0,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5289701946754633864"
+      },
+      {
+        "offset": 3,
+        "length": 24,
+        "type": "bold"
+      },
+      {
+        "offset": 748,
+        "length": 7,
+        "type": "text_link",
+        "url": "https://t.me/aipost"
+      },
+      {
+        "offset": 756,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5431390559912614642"
+      }
+    ],
+    "media_group_id": null,
+    "chat_id": -1004468214616,
+    "message_ids": [
+      148
+    ],
+    "update_ids": [
+      378304041
     ],
     "retry_count": 0
   }
