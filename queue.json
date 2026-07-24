@@ -1,46 +1,5 @@
 [
   {
-    "type": "photo",
-    "photo_file_ids": [
-      "AgACAgQAAyEFAAMBClOLWAADkGpjOTFHw_DEff7eWVDJnkiWWj2dAALRDmsbS5AYU69duZX_NTxVAQADAgADeAADPQQ"
-    ],
-    "caption": "🇨🇳 China just hit a new AI milestone.\n\nRedNote, the company behind Xiaohongshu, says its new AI model dots-note-3.0 became the first to score a perfect 42/42 on the International Mathematical Olympiad.\n\nThat matters because the IMO isn’t multiple choice. Every solution requires a complete written proof, and human judges inspect every line. Missing a single logical step costs points.\n\nUnlike most AI math benchmarks that only check the final answer, this model generated, tested, broke, and refined its own proofs using an agentic loop with Python before submitting them.\n\nEven more impressive? The winning model is the smallest in the dots3 family.\n\n@aipost 🏴",
-    "entities": [
-      {
-        "offset": 0,
-        "length": 4,
-        "type": "custom_emoji",
-        "custom_emoji_id": "5431782733376399004"
-      },
-      {
-        "offset": 5,
-        "length": 34,
-        "type": "bold"
-      },
-      {
-        "offset": 655,
-        "length": 7,
-        "type": "text_link",
-        "url": "https://t.me/aipost"
-      },
-      {
-        "offset": 663,
-        "length": 2,
-        "type": "custom_emoji",
-        "custom_emoji_id": "5431390559912614642"
-      }
-    ],
-    "media_group_id": null,
-    "chat_id": -1004468214616,
-    "message_ids": [
-      144
-    ],
-    "update_ids": [
-      378304037
-    ],
-    "retry_count": 0
-  },
-  {
     "type": "video",
     "video_file_id": "BAACAgQAAyEFAAMBClOLWAADkWpjapw3mz8HDmaRJ996k-izWfFsAAIdHQACS5AYU1Bm-tbfCSpZPQQ",
     "video_file_size": 23076709,
