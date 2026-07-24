@@ -839,5 +839,34 @@
       378304034
     ],
     "retry_count": 0
+  },
+  {
+    "type": "video",
+    "video_file_id": "BAACAgQAAyEFAAMBClOLWAADkWpjapw3mz8HDmaRJ996k-izWfFsAAIdHQACS5AYU1Bm-tbfCSpZPQQ",
+    "video_file_size": 23076709,
+    "caption": "Neuralink patients controlling their wheelchairs just by thinking. \n\n@aipost 🏴",
+    "entities": [
+      {
+        "offset": 69,
+        "length": 7,
+        "type": "text_link",
+        "url": "https://t.me/aipost"
+      },
+      {
+        "offset": 77,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5431390559912614642"
+      }
+    ],
+    "media_group_id": null,
+    "chat_id": -1004468214616,
+    "message_ids": [
+      145
+    ],
+    "update_ids": [
+      378304038
+    ],
+    "retry_count": 0
   }
 ]
