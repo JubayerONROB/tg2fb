@@ -1,46 +1,5 @@
 [
   {
-    "type": "photo",
-    "photo_file_ids": [
-      "AgACAgQAAyEFAAMBClOLWAADimpijNSXA-h7mQ5FDlocP7bQgudWAAIeDWsb5wMQU5htHk27qlznAQADAgADeAADPQQ"
-    ],
-    "caption": "❗️Uber just admitted what many companies have been hinting at.\n\nThe company has cut 10% of its customer service workforce, saying the move is part of simplifying operations and embracing AI.\n\nWhat’s notable is that this is the first time Uber has directly linked layoffs to automation.\n\nAccording to Megha Yethadka, who leads Uber’s global community operations, the team’s biggest problem wasn’t just staffing, it was complexity. She told employees the organization had become too fragmented and siloed, making it difficult for AI to deliver meaningful improvements.\n\nHer message was simple: before AI can replace or enhance work at scale, companies need to redesign how that work is organized.\n\n@aipost 🏴",
-    "entities": [
-      {
-        "offset": 0,
-        "length": 2,
-        "type": "custom_emoji",
-        "custom_emoji_id": "5289761612440310918"
-      },
-      {
-        "offset": 2,
-        "length": 60,
-        "type": "bold"
-      },
-      {
-        "offset": 696,
-        "length": 7,
-        "type": "text_link",
-        "url": "https://t.me/aipost"
-      },
-      {
-        "offset": 704,
-        "length": 2,
-        "type": "custom_emoji",
-        "custom_emoji_id": "5431390559912614642"
-      }
-    ],
-    "media_group_id": null,
-    "chat_id": -1004468214616,
-    "message_ids": [
-      138
-    ],
-    "update_ids": [
-      378304031
-    ],
-    "retry_count": 0
-  },
-  {
     "type": "album",
     "photo_file_ids": [
       "AgACAgQAAyEFAAMBClOLWAADi2piob1w_RtWSplSD4Hn_nCnTHkwAAIcDWsb5wMQU_PZCZ_HHf5XAQADAgADeQADPQQ",
@@ -151,6 +110,85 @@
     ],
     "update_ids": [
       378304035
+    ],
+    "retry_count": 0
+  },
+  {
+    "type": "video",
+    "video_file_id": "BAACAgIAAyEFAAMBClOLWAADj2pjKEeMW7owVSS3wfQKUHZ-MVYrAALpqAACA9IQSzAT4_IhttlEPQQ",
+    "video_file_size": 3575616,
+    "caption": "🤩  AI helps fix OLED blue pixel efficiency\n\nResearchers from Nagoya and Kyushu universities used AI to design new blue-emitting molecules for OLEDs. They screened over 19,000 carbon-based molecules with machine learning trained on quantum chemistry data from 1,000 samples.\n\nThe team synthesized two top candidates that achieved nearly 100% luminescence efficiency in films and produced pure blue light matching the Rec. 2020 standard. One molecule reached an external quantum efficiency of 35.2%.\n\nThis method bypasses the usual chemical complexity and degradation issues of blue OLED pixels. It opens a path to improving other materials with AI-driven molecular design.\n\n📊@tech",
+    "entities": [
+      {
+        "offset": 0,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5062237034194666464"
+      },
+      {
+        "offset": 4,
+        "length": 39,
+        "type": "bold"
+      },
+      {
+        "offset": 45,
+        "length": 47,
+        "type": "bold"
+      },
+      {
+        "offset": 98,
+        "length": 40,
+        "type": "bold"
+      },
+      {
+        "offset": 330,
+        "length": 35,
+        "type": "bold"
+      },
+      {
+        "offset": 417,
+        "length": 18,
+        "type": "bold"
+      },
+      {
+        "offset": 461,
+        "length": 36,
+        "type": "bold"
+      },
+      {
+        "offset": 512,
+        "length": 61,
+        "type": "bold"
+      },
+      {
+        "offset": 674,
+        "length": 2,
+        "type": "bold"
+      },
+      {
+        "offset": 674,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5449841756596101801"
+      },
+      {
+        "offset": 676,
+        "length": 5,
+        "type": "mention"
+      },
+      {
+        "offset": 676,
+        "length": 5,
+        "type": "bold"
+      }
+    ],
+    "media_group_id": null,
+    "chat_id": -1004468214616,
+    "message_ids": [
+      143
+    ],
+    "update_ids": [
+      378304036
     ],
     "retry_count": 0
   }
