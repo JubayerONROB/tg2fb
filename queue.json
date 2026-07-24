@@ -2,64 +2,6 @@
   {
     "type": "photo",
     "photo_file_ids": [
-      "AgACAgIAAyEFAAMBClOLWAADiGpiPOjngym2S4vg4JwyfwABGkxhbQACyRtrG7c7EUuG9ZMUQkzPnQEAAwIAA3gAAz0E"
-    ],
-    "caption": "👀 Jack Dorsey just launched Buzz, an open source alternative to Slack built for humans and AI agents\n\nThe Twitter cofounder’s company, Block, has released a new collaboration platform where AI agents aren’t treated like add ons. They’re part of the team.\n\nThink Slack, but designed for an agentic workplace from the start.\n\nWhat that means in practice:\n\n• AI agents get their own accounts and permissions\n• They can join conversations, send messages, write code, and review it\n• Teams can manage GitHub projects without leaving Buzz\n• You still get the familiar basics: channels, threads, DMs, voice chat, and media sharing\n\nWhat makes Buzz more interesting is what’s happening underneath.\n\nIt’s open source, decentralized, and model agnostic, so teams aren’t locked into a specific AI provider. It runs on the Nostr protocol, with messages, code changes, and other workflow activity recorded in a shared event log.\n\nCompanies can also self host the entire platform and customize it around their own workflows.\n\nDorsey says part of the goal is to reduce reliance on Slack and GitHub.\n\nBut the bigger idea here is probably more important:\n\nInstead of squeezing AI agents into software built for humans, Buzz is building the workspace around humans and agents working side by side.\n\nIt’s available now on macOS, Windows, and Linux. The project is still early, and there’s no mobile app yet.\n\nhttps://buzz.xyz/\n\nFollow @ainews_daily for more quality AI insights!",
-    "entities": [
-      {
-        "offset": 3,
-        "length": 98,
-        "type": "bold"
-      },
-      {
-        "offset": 325,
-        "length": 28,
-        "type": "bold"
-      },
-      {
-        "offset": 697,
-        "length": 46,
-        "type": "bold"
-      },
-      {
-        "offset": 937,
-        "length": 29,
-        "type": "bold"
-      },
-      {
-        "offset": 1140,
-        "length": 140,
-        "type": "bold"
-      },
-      {
-        "offset": 1304,
-        "length": 25,
-        "type": "bold"
-      },
-      {
-        "offset": 1391,
-        "length": 17,
-        "type": "url"
-      },
-      {
-        "offset": 1417,
-        "length": 13,
-        "type": "mention"
-      }
-    ],
-    "media_group_id": null,
-    "chat_id": -1004468214616,
-    "message_ids": [
-      136
-    ],
-    "update_ids": [
-      378304029
-    ],
-    "retry_count": 0
-  },
-  {
-    "type": "photo",
-    "photo_file_ids": [
       "AgACAgQAAyEFAAMBClOLWAADiWpiT2ozNRw5TgFWM212MAEi7sx7AAImDWsb5wMQU52H899OTmA2AQADAgADeQADPQQ"
     ],
     "caption": "🙃 Elon Musk is extremely unhappy with Nolan’s “Odyssey”, he wants to make his own AI version\n\nElon Musk said that his AI model Grok Imagine will create a full-length film adaptation of “The Odyssey” by the end of 2026.\n\nMusk made the statement after the release of Christopher Nolan’s adaptation of “The Odyssey”, which sparked heated debates among viewers and critics.\n\nThe film, starring Matt Damon as Odysseus, received mixed reactions: some viewers criticized the modern interpretation of the ancient epic, the casting choices, and the departure from Greek traditions.\n\nSocial media users also actively discussed the film’s visual style, costumes, and the director’s creative decisions, including the casting and reinterpretation of ancient Greek heroes.\n\nIn Greece, the film was met with a very cold reaction. Viewers and politicians are asking: why are there almost no Greek actors in a story about ancient Greece?\n\nIf Musk’s project is completed, it could become one of the first attempts to create a full-length movie using generative AI.\n\n@aipost 🏴",
