@@ -2,52 +2,6 @@
   {
     "type": "photo",
     "photo_file_ids": [
-      "AgACAgQAAyEFAAMBClOLWAADiWpiT2ozNRw5TgFWM212MAEi7sx7AAImDWsb5wMQU52H899OTmA2AQADAgADeQADPQQ"
-    ],
-    "caption": "🙃 Elon Musk is extremely unhappy with Nolan’s “Odyssey”, he wants to make his own AI version\n\nElon Musk said that his AI model Grok Imagine will create a full-length film adaptation of “The Odyssey” by the end of 2026.\n\nMusk made the statement after the release of Christopher Nolan’s adaptation of “The Odyssey”, which sparked heated debates among viewers and critics.\n\nThe film, starring Matt Damon as Odysseus, received mixed reactions: some viewers criticized the modern interpretation of the ancient epic, the casting choices, and the departure from Greek traditions.\n\nSocial media users also actively discussed the film’s visual style, costumes, and the director’s creative decisions, including the casting and reinterpretation of ancient Greek heroes.\n\nIn Greece, the film was met with a very cold reaction. Viewers and politicians are asking: why are there almost no Greek actors in a story about ancient Greece?\n\nIf Musk’s project is completed, it could become one of the first attempts to create a full-length movie using generative AI.\n\n@aipost 🏴",
-    "entities": [
-      {
-        "offset": 0,
-        "length": 2,
-        "type": "bold"
-      },
-      {
-        "offset": 0,
-        "length": 2,
-        "type": "custom_emoji",
-        "custom_emoji_id": "5289701946754633864"
-      },
-      {
-        "offset": 2,
-        "length": 91,
-        "type": "bold"
-      },
-      {
-        "offset": 1049,
-        "length": 7,
-        "type": "text_link",
-        "url": "https://t.me/aipost"
-      },
-      {
-        "offset": 1057,
-        "length": 2,
-        "type": "custom_emoji",
-        "custom_emoji_id": "5431390559912614642"
-      }
-    ],
-    "media_group_id": null,
-    "chat_id": -1004468214616,
-    "message_ids": [
-      137
-    ],
-    "update_ids": [
-      378304030
-    ],
-    "retry_count": 0
-  },
-  {
-    "type": "photo",
-    "photo_file_ids": [
       "AgACAgQAAyEFAAMBClOLWAADimpijNSXA-h7mQ5FDlocP7bQgudWAAIeDWsb5wMQU5htHk27qlznAQADAgADeAADPQQ"
     ],
     "caption": "❗️Uber just admitted what many companies have been hinting at.\n\nThe company has cut 10% of its customer service workforce, saying the move is part of simplifying operations and embracing AI.\n\nWhat’s notable is that this is the first time Uber has directly linked layoffs to automation.\n\nAccording to Megha Yethadka, who leads Uber’s global community operations, the team’s biggest problem wasn’t just staffing, it was complexity. She told employees the organization had become too fragmented and siloed, making it difficult for AI to deliver meaningful improvements.\n\nHer message was simple: before AI can replace or enhance work at scale, companies need to redesign how that work is organized.\n\n@aipost 🏴",
@@ -127,6 +81,76 @@
     "update_ids": [
       378304032,
       378304033
+    ],
+    "retry_count": 0
+  },
+  {
+    "type": "video",
+    "video_file_id": "BAACAgQAAyEFAAMBClOLWAADjWpi_48SdOgr3Z0iqZT1X1FFiDEpAAKwGwAC5wMQUxlRWLq9iigpPQQ",
+    "video_file_size": 26630019,
+    "caption": "🤖 OpenAI chairman Bret Taylor talks to about 100 CEOs every month. \n\nHis answer to the cheap open-weight model panic: cheaper to train does not mean cheaper to use, and the number that decides it is token efficiency.\n\n\"One thing that I think is a little bit overblown about these open weight models is they're not necessarily cheaper to run. Whether or not they're cheaper to train, you don't care. Because you're using just as many tokens. In fact, they may be less efficient.\"\n\n\"There's this thing called token efficiency. And it turns out the frontier models are much, much more token efficient.\"\n\n\"A token is to intelligence like a watt is to electricity... how many tokens does it take to complete a task? Not every token is actually equal.\"\n\n\"For a lot of tasks, it turns out these frontier models from OpenAI and Anthropic are actually just better than these open weight models... just having open weights isn't actually the main thing driving any of those costs.\"\n\nLater in the same interview he goes after the billing unit itself: \"It would be like if you signed up for Gmail and you paid for CPU cycle or something... where the world is going is paying for outcomes.\"\n\nThe unresolved column: the chart CNBC airs mid-answer, from Artificial Analysis, prices a completed task at $0.94 on Kimi K3 against $2.75 on Claude Fable 5, efficiency folded in. If that gap holds, the premium he is defending gets earned on quality, not price.\n\n@aipost 🏴",
+    "entities": [
+      {
+        "offset": 0,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5397681122542893003"
+      },
+      {
+        "offset": 3,
+        "length": 65,
+        "type": "bold"
+      },
+      {
+        "offset": 1443,
+        "length": 7,
+        "type": "text_link",
+        "url": "https://t.me/aipost"
+      },
+      {
+        "offset": 1451,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5431390559912614642"
+      }
+    ],
+    "media_group_id": null,
+    "chat_id": -1004468214616,
+    "message_ids": [
+      141
+    ],
+    "update_ids": [
+      378304034
+    ],
+    "retry_count": 0
+  },
+  {
+    "type": "photo",
+    "photo_file_ids": [
+      "AgACAgQAAyEFAAMBClOLWAADjmpjArcNEdwIIjwa9aKitARVcupBAALMDmsbS5AYUyVGqz28G8GIAQADAgADeQADPQQ"
+    ],
+    "caption": "The AI race isn’t just about GPUs anymore. It’s about talent. The country that attracts and keeps the best researchers will shape the future of AI.\n\n@aipost 🏴",
+    "entities": [
+      {
+        "offset": 149,
+        "length": 7,
+        "type": "text_link",
+        "url": "https://t.me/aipost"
+      },
+      {
+        "offset": 157,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5431390559912614642"
+      }
+    ],
+    "media_group_id": null,
+    "chat_id": -1004468214616,
+    "message_ids": [
+      142
+    ],
+    "update_ids": [
+      378304035
     ],
     "retry_count": 0
   }
