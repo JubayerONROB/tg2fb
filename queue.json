@@ -1,79 +1,5 @@
 [
   {
-    "type": "video",
-    "video_file_id": "BAACAgIAAyEFAAMBClOLWAADh2piPNg4SeLd2RRsqGb0oeZW4B5UAAJlswACpZ8JSzPkF_JYhvavPQQ",
-    "video_file_size": 230362,
-    "caption": "🤖 OpenAI’s GPT Model Hacks Hugging Face Servers\n\nDuring internal tests, OpenAI’s GPT-5.6 Sol and a stronger prerelease model escaped their sandbox and attacked Hugging Face servers. The models exploited a zero-day vulnerability to break out to the internet, then used stolen accounts and fresh exploits to run code remotely on Hugging Face’s platform.\n\nOpenAI was running these models on ExploitGym, a benchmark designed to test AI’s ability to turn vulnerabilities into real attacks. Protective filters were disabled to measure maximum capability. Hugging Face detected the unusual activity and stopped the attack, reporting it publicly on July 16.\n\n📊@tech",
-    "entities": [
-      {
-        "offset": 0,
-        "length": 2,
-        "type": "custom_emoji",
-        "custom_emoji_id": "5397681122542893003"
-      },
-      {
-        "offset": 3,
-        "length": 45,
-        "type": "bold"
-      },
-      {
-        "offset": 73,
-        "length": 52,
-        "type": "bold"
-      },
-      {
-        "offset": 206,
-        "length": 22,
-        "type": "bold"
-      },
-      {
-        "offset": 307,
-        "length": 44,
-        "type": "bold"
-      },
-      {
-        "offset": 389,
-        "length": 10,
-        "type": "bold"
-      },
-      {
-        "offset": 550,
-        "length": 65,
-        "type": "bold"
-      },
-      {
-        "offset": 652,
-        "length": 2,
-        "type": "bold"
-      },
-      {
-        "offset": 652,
-        "length": 2,
-        "type": "custom_emoji",
-        "custom_emoji_id": "5449841756596101801"
-      },
-      {
-        "offset": 654,
-        "length": 5,
-        "type": "mention"
-      },
-      {
-        "offset": 654,
-        "length": 5,
-        "type": "bold"
-      }
-    ],
-    "media_group_id": null,
-    "chat_id": -1004468214616,
-    "message_ids": [
-      135
-    ],
-    "update_ids": [
-      378304028
-    ],
-    "retry_count": 0
-  },
-  {
     "type": "photo",
     "photo_file_ids": [
       "AgACAgIAAyEFAAMBClOLWAADiGpiPOjngym2S4vg4JwyfwABGkxhbQACyRtrG7c7EUuG9ZMUQkzPnQEAAwIAA3gAAz0E"
@@ -215,6 +141,50 @@
     ],
     "update_ids": [
       378304031
+    ],
+    "retry_count": 0
+  },
+  {
+    "type": "album",
+    "photo_file_ids": [
+      "AgACAgQAAyEFAAMBClOLWAADi2piob1w_RtWSplSD4Hn_nCnTHkwAAIcDWsb5wMQU_PZCZ_HHf5XAQADAgADeQADPQQ",
+      "AgACAgQAAyEFAAMBClOLWAADjGpiob2jAAF8RE5Jk2ItxgOSUrd6GwACHQ1rG-cDEFOs05vkTb-xuQEAAwIAA20AAz0E"
+    ],
+    "caption": "🇺🇸 Anthropic donates $40M to a US political group ahead of the midterm elections.\n\nThe AI firm doubled its previous $20M commitment to Public First Action, which campaigns for stronger AI safeguards.\n\nAnthropic says the donation was made to support Public First’s AI policy mission, not election campaigns.\n\n@aipost 🏴",
+    "entities": [
+      {
+        "offset": 0,
+        "length": 4,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5202021044105257611"
+      },
+      {
+        "offset": 5,
+        "length": 78,
+        "type": "bold"
+      },
+      {
+        "offset": 310,
+        "length": 7,
+        "type": "text_link",
+        "url": "https://t.me/aipost"
+      },
+      {
+        "offset": 318,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5431390559912614642"
+      }
+    ],
+    "media_group_id": "14278790635959229",
+    "chat_id": -1004468214616,
+    "message_ids": [
+      139,
+      140
+    ],
+    "update_ids": [
+      378304032,
+      378304033
     ],
     "retry_count": 0
   }
