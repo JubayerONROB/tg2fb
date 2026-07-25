@@ -868,5 +868,45 @@
       378304038
     ],
     "retry_count": 0
+  },
+  {
+    "type": "video",
+    "video_file_id": "BAACAgQAAyEFAAMBClOLWAADlGpjgdM7yrQ6p93hziyFpp4P1y-hAALbHAACS5AYU5-0iHFRqo72PQQ",
+    "video_file_size": 31451697,
+    "caption": "🙃 Elon Musk on Sam Altman:\n\n\"I'm not a fan of Sam Altman because if you started a non-profit that was meant to be an open source AI company and it somehow got turned into an 800 billion dollar for-profit company with closed source, I think you'd be like, well, wait a second, that's the exact opposite of what I donated the money for. That's my issue. I think it's a legitimate one.\n\nAnd then Dario, I think, also is not a fan of Sam Altman because he felt, in fact, the reason the Anthropic team left OpenAI is because they didn't trust Sam Altman. Otherwise Anthropic wouldn't exist. They would still be at OpenAI. But at the end of the day, if we have to talk, we'll talk.I mean, set aside our personal differences for the good of the world.\"\n\n@aipost 🏴",
+    "entities": [
+      {
+        "offset": 0,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5289701946754633864"
+      },
+      {
+        "offset": 3,
+        "length": 24,
+        "type": "bold"
+      },
+      {
+        "offset": 748,
+        "length": 7,
+        "type": "text_link",
+        "url": "https://t.me/aipost"
+      },
+      {
+        "offset": 756,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5431390559912614642"
+      }
+    ],
+    "media_group_id": null,
+    "chat_id": -1004468214616,
+    "message_ids": [
+      148
+    ],
+    "update_ids": [
+      378304041
+    ],
+    "retry_count": 0
   }
 ]
