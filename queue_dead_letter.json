@@ -959,5 +959,45 @@
       378304043
     ],
     "retry_count": 0
+  },
+  {
+    "type": "video",
+    "video_file_id": "BAACAgQAAyEFAAMBClOLWAADl2pkNKX98862wi5RdF6cJkplNcCKAALlHAACS5AYU_RzgpC72KDaPQQ",
+    "video_file_size": 29478916,
+    "caption": "🙃 Elon Musk compares humans to chimpanzees in the age of AI.\n\nMusk says AI will soon be so far ahead of humans that the intelligence gap will be greater than the gap between humans and chimpanzees.\n\n\"Even if there was a stop button, we probably shouldn't press it. The most likely outcome is incredible abundance for all.\"\n\n@aipost 🏴",
+    "entities": [
+      {
+        "offset": 0,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5289701946754633864"
+      },
+      {
+        "offset": 3,
+        "length": 58,
+        "type": "bold"
+      },
+      {
+        "offset": 325,
+        "length": 7,
+        "type": "text_link",
+        "url": "https://t.me/aipost"
+      },
+      {
+        "offset": 333,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5431390559912614642"
+      }
+    ],
+    "media_group_id": null,
+    "chat_id": -1004468214616,
+    "message_ids": [
+      151
+    ],
+    "update_ids": [
+      378304044
+    ],
+    "retry_count": 0
   }
 ]
