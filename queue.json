@@ -1,34 +1,5 @@
 [
   {
-    "type": "photo",
-    "photo_file_ids": [
-      "AgACAgIAAyEFAAMBClOLWAADlWpjpbdvAAFgKMR09Ki-T_xktsp1fQACLRhrG8gkIEuHOI25eCs0jQEAAwIAA3kAAz0E"
-    ],
-    "caption": "Claude Opus 5 has been introduced as a new advanced AI model. It is reported to surpass Fable 5 in the majority of evaluation benchmarks.\n\nAccording to available information, Claude Opus 5 demonstrates performance at a level close to Fable 5 but is available at half the cost. The model is described as both thoughtful and proactive in its capabilities.\n\nNo additional details on release timing or specific features have been provided.\n\n📰 @aipost",
-    "entities": [
-      {
-        "offset": 437,
-        "length": 2,
-        "type": "custom_emoji",
-        "custom_emoji_id": "5363988332466438547"
-      },
-      {
-        "offset": 440,
-        "length": 7,
-        "type": "mention"
-      }
-    ],
-    "media_group_id": null,
-    "chat_id": -1004468214616,
-    "message_ids": [
-      149
-    ],
-    "update_ids": [
-      378304042
-    ],
-    "retry_count": 0
-  },
-  {
     "type": "video",
     "video_file_id": "BAACAgQAAyEFAAMBClOLWAADlmpj40mVe0iRjrKw_Sjz-TaQ6L7eAAIgHQACS5AYU0TD6ZAL-E7GPQQ",
     "video_file_size": 26227522,
@@ -76,6 +47,75 @@
     ],
     "update_ids": [
       378304043
+    ],
+    "retry_count": 0
+  },
+  {
+    "type": "video",
+    "video_file_id": "BAACAgQAAyEFAAMBClOLWAADl2pkNKX98862wi5RdF6cJkplNcCKAALlHAACS5AYU_RzgpC72KDaPQQ",
+    "video_file_size": 29478916,
+    "caption": "🙃 Elon Musk compares humans to chimpanzees in the age of AI.\n\nMusk says AI will soon be so far ahead of humans that the intelligence gap will be greater than the gap between humans and chimpanzees.\n\n\"Even if there was a stop button, we probably shouldn't press it. The most likely outcome is incredible abundance for all.\"\n\n@aipost 🏴",
+    "entities": [
+      {
+        "offset": 0,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5289701946754633864"
+      },
+      {
+        "offset": 3,
+        "length": 58,
+        "type": "bold"
+      },
+      {
+        "offset": 325,
+        "length": 7,
+        "type": "text_link",
+        "url": "https://t.me/aipost"
+      },
+      {
+        "offset": 333,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5431390559912614642"
+      }
+    ],
+    "media_group_id": null,
+    "chat_id": -1004468214616,
+    "message_ids": [
+      151
+    ],
+    "update_ids": [
+      378304044
+    ],
+    "retry_count": 0
+  },
+  {
+    "type": "photo",
+    "photo_file_ids": [
+      "AgACAgIAAyEFAAMBClOLWAADmGpkPQu2NetfbH8PoU1TQlAKPFInAALpF2sbyCQgSwSXfhlHLY2sAQADAgADeQADPQQ"
+    ],
+    "caption": "A recent test shows Opus 5 achieved a 30.2% score on the ARC-AGI 3 benchmark.\n\nThis result is notable in the ongoing evaluation of artificial general intelligence (AGI) capabilities. The benchmark is designed to assess reasoning and problem-solving skills in AI systems.\n\nDevelopments such as this contribute to the discussion about how close AGI is to becoming a practical reality.\n\n📰 @aipost",
+    "entities": [
+      {
+        "offset": 384,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5363988332466438547"
+      },
+      {
+        "offset": 387,
+        "length": 7,
+        "type": "mention"
+      }
+    ],
+    "media_group_id": null,
+    "chat_id": -1004468214616,
+    "message_ids": [
+      152
+    ],
+    "update_ids": [
+      378304045
     ],
     "retry_count": 0
   }
