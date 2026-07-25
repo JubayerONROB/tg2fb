@@ -1,57 +1,6 @@
 [
   {
     "type": "video",
-    "video_file_id": "BAACAgQAAyEFAAMBClOLWAADlmpj40mVe0iRjrKw_Sjz-TaQ6L7eAAIgHQACS5AYU0TD6ZAL-E7GPQQ",
-    "video_file_size": 26227522,
-    "caption": "❗️The future of mining just arrived.\n\nThe US has launched Copper One, a fully autonomous copper mine where Boston Dynamics robots, self-driving heavy machinery, and AI systems handle almost everything, from digging and transporting ore to processing it and managing the site’s infrastructure.\n\nHuman workers barely need to step in. If the project succeeds, the company plans to build 10 more autonomous mines over the next decade, potentially reshaping one of the world’s oldest industries with AI and robotics.\n\nWe’re watching factories go autonomous. Warehouses are next. Now… even mines are starting to run themselves.\n\nWhat industry do you think AI and robots will transform next? 🤔\n\n@aipost 🏴",
-    "entities": [
-      {
-        "offset": 0,
-        "length": 2,
-        "type": "custom_emoji",
-        "custom_emoji_id": "5289761612440310918"
-      },
-      {
-        "offset": 2,
-        "length": 34,
-        "type": "bold"
-      },
-      {
-        "offset": 623,
-        "length": 62,
-        "type": "bold"
-      },
-      {
-        "offset": 685,
-        "length": 2,
-        "type": "custom_emoji",
-        "custom_emoji_id": "5370724846936267183"
-      },
-      {
-        "offset": 689,
-        "length": 7,
-        "type": "text_link",
-        "url": "https://t.me/aipost"
-      },
-      {
-        "offset": 697,
-        "length": 2,
-        "type": "custom_emoji",
-        "custom_emoji_id": "5431390559912614642"
-      }
-    ],
-    "media_group_id": null,
-    "chat_id": -1004468214616,
-    "message_ids": [
-      150
-    ],
-    "update_ids": [
-      378304043
-    ],
-    "retry_count": 0
-  },
-  {
-    "type": "video",
     "video_file_id": "BAACAgQAAyEFAAMBClOLWAADl2pkNKX98862wi5RdF6cJkplNcCKAALlHAACS5AYU_RzgpC72KDaPQQ",
     "video_file_size": 29478916,
     "caption": "🙃 Elon Musk compares humans to chimpanzees in the age of AI.\n\nMusk says AI will soon be so far ahead of humans that the intelligence gap will be greater than the gap between humans and chimpanzees.\n\n\"Even if there was a stop button, we probably shouldn't press it. The most likely outcome is incredible abundance for all.\"\n\n@aipost 🏴",
@@ -116,6 +65,107 @@
     ],
     "update_ids": [
       378304045
+    ],
+    "retry_count": 0
+  },
+  {
+    "type": "album",
+    "photo_file_ids": [
+      "AgACAgQAAyEFAAMBClOLWAADmWpkaogs72w0GmtdiByUe29tyIwuAAL4DGsbS5AgU2Bur5deQk12AQADAgADeQADPQQ",
+      "AgACAgQAAyEFAAMBClOLWAADmmpkaohXcCVBSjZ1FPUIS3NPmO_EAAL5DGsbS5AgU1hyvzb4UARTAQADAgADeQADPQQ",
+      "AgACAgQAAyEFAAMBClOLWAADm2pkaoiOTtfMpvH1-rtXLspPMo85AAL6DGsbS5AgUxoOgGPkvX_3AQADAgADeQADPQQ"
+    ],
+    "caption": "🚀Jensen Huang just made NVIDIA’s stance on open AI crystal clear.\n\nThe NVIDIA CEO shared a letter explaining why the company believes open AI models are essential to the future of the technology.\n\nHis message is simple:\n\nAI will transform every industry, power every company, and eventually be built by every country.\n\nAccording to NVIDIA, frontier open models are just as important as frontier closed models. Open models improve safety through greater transparency, strengthen cybersecurity, accelerate innovation, speed up the spread of AI worldwide, and give countries the ability to build AI on their own terms instead of depending entirely on a handful of providers.\n\n\n@aipost 🏴",
+    "entities": [
+      {
+        "offset": 0,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5258332798409783582"
+      },
+      {
+        "offset": 2,
+        "length": 64,
+        "type": "bold"
+      },
+      {
+        "offset": 675,
+        "length": 7,
+        "type": "text_link",
+        "url": "https://t.me/aipost"
+      },
+      {
+        "offset": 683,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5431390559912614642"
+      }
+    ],
+    "media_group_id": "14279726146448549",
+    "chat_id": -1004468214616,
+    "message_ids": [
+      153,
+      154,
+      155
+    ],
+    "update_ids": [
+      378304046,
+      378304047,
+      378304048
+    ],
+    "retry_count": 0
+  },
+  {
+    "type": "video",
+    "video_file_id": "BAACAgIAAyEFAAMBClOLWAADnGpkfBTxzC_h4cIyjnVkRw6LNfAaAALqqAACA9IQSwWyYgrVh1zdPQQ",
+    "video_file_size": 14992630,
+    "caption": "🔍 Google adds video selfie for account recovery\n\nGoogle is rolling out a new account recovery method using video selfies. Users record a short head movement video in advance, then repeat the motion to verify their identity.\n\nThe reference video is stored encrypted in the cloud and can be deleted anytime. This replaces the need to remember multiple passwords.\n\n📊@tech",
+    "entities": [
+      {
+        "offset": 0,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5431644246450908867"
+      },
+      {
+        "offset": 3,
+        "length": 45,
+        "type": "bold"
+      },
+      {
+        "offset": 50,
+        "length": 71,
+        "type": "bold"
+      },
+      {
+        "offset": 363,
+        "length": 2,
+        "type": "bold"
+      },
+      {
+        "offset": 363,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5449841756596101801"
+      },
+      {
+        "offset": 365,
+        "length": 5,
+        "type": "mention"
+      },
+      {
+        "offset": 365,
+        "length": 5,
+        "type": "bold"
+      }
+    ],
+    "media_group_id": null,
+    "chat_id": -1004468214616,
+    "message_ids": [
+      156
+    ],
+    "update_ids": [
+      378304049
     ],
     "retry_count": 0
   }

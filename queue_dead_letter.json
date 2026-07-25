@@ -908,5 +908,56 @@
       378304041
     ],
     "retry_count": 0
+  },
+  {
+    "type": "video",
+    "video_file_id": "BAACAgQAAyEFAAMBClOLWAADlmpj40mVe0iRjrKw_Sjz-TaQ6L7eAAIgHQACS5AYU0TD6ZAL-E7GPQQ",
+    "video_file_size": 26227522,
+    "caption": "❗️The future of mining just arrived.\n\nThe US has launched Copper One, a fully autonomous copper mine where Boston Dynamics robots, self-driving heavy machinery, and AI systems handle almost everything, from digging and transporting ore to processing it and managing the site’s infrastructure.\n\nHuman workers barely need to step in. If the project succeeds, the company plans to build 10 more autonomous mines over the next decade, potentially reshaping one of the world’s oldest industries with AI and robotics.\n\nWe’re watching factories go autonomous. Warehouses are next. Now… even mines are starting to run themselves.\n\nWhat industry do you think AI and robots will transform next? 🤔\n\n@aipost 🏴",
+    "entities": [
+      {
+        "offset": 0,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5289761612440310918"
+      },
+      {
+        "offset": 2,
+        "length": 34,
+        "type": "bold"
+      },
+      {
+        "offset": 623,
+        "length": 62,
+        "type": "bold"
+      },
+      {
+        "offset": 685,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5370724846936267183"
+      },
+      {
+        "offset": 689,
+        "length": 7,
+        "type": "text_link",
+        "url": "https://t.me/aipost"
+      },
+      {
+        "offset": 697,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5431390559912614642"
+      }
+    ],
+    "media_group_id": null,
+    "chat_id": -1004468214616,
+    "message_ids": [
+      150
+    ],
+    "update_ids": [
+      378304043
+    ],
+    "retry_count": 0
   }
 ]
