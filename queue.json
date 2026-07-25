@@ -1,59 +1,5 @@
 [
   {
-    "type": "video",
-    "video_file_id": "BAACAgIAAyEFAAMBClOLWAADnGpkfBTxzC_h4cIyjnVkRw6LNfAaAALqqAACA9IQSwWyYgrVh1zdPQQ",
-    "video_file_size": 14992630,
-    "caption": "🔍 Google adds video selfie for account recovery\n\nGoogle is rolling out a new account recovery method using video selfies. Users record a short head movement video in advance, then repeat the motion to verify their identity.\n\nThe reference video is stored encrypted in the cloud and can be deleted anytime. This replaces the need to remember multiple passwords.\n\n📊@tech",
-    "entities": [
-      {
-        "offset": 0,
-        "length": 2,
-        "type": "custom_emoji",
-        "custom_emoji_id": "5431644246450908867"
-      },
-      {
-        "offset": 3,
-        "length": 45,
-        "type": "bold"
-      },
-      {
-        "offset": 50,
-        "length": 71,
-        "type": "bold"
-      },
-      {
-        "offset": 363,
-        "length": 2,
-        "type": "bold"
-      },
-      {
-        "offset": 363,
-        "length": 2,
-        "type": "custom_emoji",
-        "custom_emoji_id": "5449841756596101801"
-      },
-      {
-        "offset": 365,
-        "length": 5,
-        "type": "mention"
-      },
-      {
-        "offset": 365,
-        "length": 5,
-        "type": "bold"
-      }
-    ],
-    "media_group_id": null,
-    "chat_id": -1004468214616,
-    "message_ids": [
-      156
-    ],
-    "update_ids": [
-      378304049
-    ],
-    "retry_count": 0
-  },
-  {
     "type": "photo",
     "photo_file_ids": [
       "AgACAgQAAyEFAAMBClOLWAADnWpkpTCDSDgtOEHt9jBb9u_Y7sJlAAJZDmsbS5AoU-UCPChtyrZxAQADAgADeQADPQQ"
@@ -126,6 +72,112 @@
     ],
     "update_ids": [
       378304050
+    ],
+    "retry_count": 0
+  },
+  {
+    "type": "photo",
+    "photo_file_ids": [
+      "AgACAgQAAyEFAAMBClOLWAADnmpkzVBLTdGfAxjKmBbhabiPuerjAAJlDmsbS5AoU3kAAedmsqgtLgEAAwIAA3gAAz0E"
+    ],
+    "caption": "🇺🇸 The U.S. Congress wants a mandatory kill switch for frontier AI.\n\nA bipartisan bill introduced in the House would require the most powerful AI systems to include a working shutdown mechanism, one that can disable the model if it becomes dangerous.\n\nThe proposal targets frontier models that cost more than $100 million to train and generate at least $500 million in annual revenue.\n\nIf covered, AI developers would be required to maintain the ability to:\n\n• Stop model inference.\n• Cut off user access.\n• Completely shut down the system when necessary.\n\nThe Department of Homeland Security would oversee enforcement, with emergency shutdowns requiring consultation with the Department of Commerce and the Director of National Intelligence. In most cases, regulators would first try less drastic measures, such as limiting compute or disabling specific capabilities, before ordering a full shutdown.\n\nThe bill also introduces strict reporting rules. Developers would have 15 days to report major incidents, preserve model weights and telemetry after any shutdown order, and face fines of up to $2 million per day or $20 million for ignoring an emergency shutdown order.\n\nSupporters argue that recent advances in autonomous AI agents make these safeguards increasingly necessary. Polling cited by the bill’s backers says 86% of American voters support requiring advanced AI systems to have a legal kill switch.\n\nBut critics point out a major limitation.\n\nA kill switch only works if the AI system remains under the developer’s control. API-hosted models can usually be disabled, but once open-weight models have been downloaded and run elsewhere, there may be no practical way to shut them down remotely.\n\n@aipost 🏴",
+    "entities": [
+      {
+        "offset": 0,
+        "length": 4,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5202021044105257611"
+      },
+      {
+        "offset": 5,
+        "length": 64,
+        "type": "bold"
+      },
+      {
+        "offset": 1709,
+        "length": 7,
+        "type": "text_link",
+        "url": "https://t.me/aipost"
+      },
+      {
+        "offset": 1717,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5431390559912614642"
+      }
+    ],
+    "media_group_id": null,
+    "chat_id": -1004468214616,
+    "message_ids": [
+      158
+    ],
+    "update_ids": [
+      378304051
+    ],
+    "retry_count": 0
+  },
+  {
+    "type": "photo",
+    "photo_file_ids": [
+      "AgACAgIAAyEFAAMBClOLWAADn2pk0GODhEp-NpL_1zQuJK8R-yUnAAJwGGsb9zEZS56uEIfRv6uGAQADAgADeQADPQQ"
+    ],
+    "caption": "🚀 Falcon 9 Upper Stage to Hit Moon Soon\n\nOn August 5, the upper stage of a Falcon 9 rocket will crash into the Moon near Einstein crater. This event will be visible from Earth with ground telescopes.\n\nThe stage launched in January 2025 carrying two lunar landers, Blue Ghost by Firefly and Hakuto-R by ispace. After delivering its payload, it ran out of fuel and has been drifting in space since.\n\nThe 12-meter long, 4-meter wide, 4-ton stage will hit the surface at about 8700 km/h. Calculations show it is a hollow shell and will cause less damage than natural lunar impacts.\n\n📊@tech",
+    "entities": [
+      {
+        "offset": 0,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5316571734604790521"
+      },
+      {
+        "offset": 3,
+        "length": 37,
+        "type": "bold"
+      },
+      {
+        "offset": 59,
+        "length": 32,
+        "type": "bold"
+      },
+      {
+        "offset": 224,
+        "length": 12,
+        "type": "bold"
+      },
+      {
+        "offset": 403,
+        "length": 40,
+        "type": "bold"
+      },
+      {
+        "offset": 580,
+        "length": 2,
+        "type": "bold"
+      },
+      {
+        "offset": 580,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5449841756596101801"
+      },
+      {
+        "offset": 582,
+        "length": 5,
+        "type": "mention"
+      },
+      {
+        "offset": 582,
+        "length": 5,
+        "type": "bold"
+      }
+    ],
+    "media_group_id": null,
+    "chat_id": -1004468214616,
+    "message_ids": [
+      159
+    ],
+    "update_ids": [
+      378304052
     ],
     "retry_count": 0
   }
