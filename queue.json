@@ -1,52 +1,5 @@
 [
   {
-    "type": "album",
-    "photo_file_ids": [
-      "AgACAgQAAyEFAAMBClOLWAADmWpkaogs72w0GmtdiByUe29tyIwuAAL4DGsbS5AgU2Bur5deQk12AQADAgADeQADPQQ",
-      "AgACAgQAAyEFAAMBClOLWAADmmpkaohXcCVBSjZ1FPUIS3NPmO_EAAL5DGsbS5AgU1hyvzb4UARTAQADAgADeQADPQQ",
-      "AgACAgQAAyEFAAMBClOLWAADm2pkaoiOTtfMpvH1-rtXLspPMo85AAL6DGsbS5AgUxoOgGPkvX_3AQADAgADeQADPQQ"
-    ],
-    "caption": "🚀Jensen Huang just made NVIDIA’s stance on open AI crystal clear.\n\nThe NVIDIA CEO shared a letter explaining why the company believes open AI models are essential to the future of the technology.\n\nHis message is simple:\n\nAI will transform every industry, power every company, and eventually be built by every country.\n\nAccording to NVIDIA, frontier open models are just as important as frontier closed models. Open models improve safety through greater transparency, strengthen cybersecurity, accelerate innovation, speed up the spread of AI worldwide, and give countries the ability to build AI on their own terms instead of depending entirely on a handful of providers.\n\n\n@aipost 🏴",
-    "entities": [
-      {
-        "offset": 0,
-        "length": 2,
-        "type": "custom_emoji",
-        "custom_emoji_id": "5258332798409783582"
-      },
-      {
-        "offset": 2,
-        "length": 64,
-        "type": "bold"
-      },
-      {
-        "offset": 675,
-        "length": 7,
-        "type": "text_link",
-        "url": "https://t.me/aipost"
-      },
-      {
-        "offset": 683,
-        "length": 2,
-        "type": "custom_emoji",
-        "custom_emoji_id": "5431390559912614642"
-      }
-    ],
-    "media_group_id": "14279726146448549",
-    "chat_id": -1004468214616,
-    "message_ids": [
-      153,
-      154,
-      155
-    ],
-    "update_ids": [
-      378304046,
-      378304047,
-      378304048
-    ],
-    "retry_count": 0
-  },
-  {
     "type": "video",
     "video_file_id": "BAACAgIAAyEFAAMBClOLWAADnGpkfBTxzC_h4cIyjnVkRw6LNfAaAALqqAACA9IQSwWyYgrVh1zdPQQ",
     "video_file_size": 14992630,
