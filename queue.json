@@ -2,47 +2,6 @@
   {
     "type": "photo",
     "photo_file_ids": [
-      "AgACAgQAAyEFAAMBClOLWAADnmpkzVBLTdGfAxjKmBbhabiPuerjAAJlDmsbS5AoU3kAAedmsqgtLgEAAwIAA3gAAz0E"
-    ],
-    "caption": "🇺🇸 The U.S. Congress wants a mandatory kill switch for frontier AI.\n\nA bipartisan bill introduced in the House would require the most powerful AI systems to include a working shutdown mechanism, one that can disable the model if it becomes dangerous.\n\nThe proposal targets frontier models that cost more than $100 million to train and generate at least $500 million in annual revenue.\n\nIf covered, AI developers would be required to maintain the ability to:\n\n• Stop model inference.\n• Cut off user access.\n• Completely shut down the system when necessary.\n\nThe Department of Homeland Security would oversee enforcement, with emergency shutdowns requiring consultation with the Department of Commerce and the Director of National Intelligence. In most cases, regulators would first try less drastic measures, such as limiting compute or disabling specific capabilities, before ordering a full shutdown.\n\nThe bill also introduces strict reporting rules. Developers would have 15 days to report major incidents, preserve model weights and telemetry after any shutdown order, and face fines of up to $2 million per day or $20 million for ignoring an emergency shutdown order.\n\nSupporters argue that recent advances in autonomous AI agents make these safeguards increasingly necessary. Polling cited by the bill’s backers says 86% of American voters support requiring advanced AI systems to have a legal kill switch.\n\nBut critics point out a major limitation.\n\nA kill switch only works if the AI system remains under the developer’s control. API-hosted models can usually be disabled, but once open-weight models have been downloaded and run elsewhere, there may be no practical way to shut them down remotely.\n\n@aipost 🏴",
-    "entities": [
-      {
-        "offset": 0,
-        "length": 4,
-        "type": "custom_emoji",
-        "custom_emoji_id": "5202021044105257611"
-      },
-      {
-        "offset": 5,
-        "length": 64,
-        "type": "bold"
-      },
-      {
-        "offset": 1709,
-        "length": 7,
-        "type": "text_link",
-        "url": "https://t.me/aipost"
-      },
-      {
-        "offset": 1717,
-        "length": 2,
-        "type": "custom_emoji",
-        "custom_emoji_id": "5431390559912614642"
-      }
-    ],
-    "media_group_id": null,
-    "chat_id": -1004468214616,
-    "message_ids": [
-      158
-    ],
-    "update_ids": [
-      378304051
-    ],
-    "retry_count": 0
-  },
-  {
-    "type": "photo",
-    "photo_file_ids": [
       "AgACAgIAAyEFAAMBClOLWAADn2pk0GODhEp-NpL_1zQuJK8R-yUnAAJwGGsb9zEZS56uEIfRv6uGAQADAgADeQADPQQ"
     ],
     "caption": "🚀 Falcon 9 Upper Stage to Hit Moon Soon\n\nOn August 5, the upper stage of a Falcon 9 rocket will crash into the Moon near Einstein crater. This event will be visible from Earth with ground telescopes.\n\nThe stage launched in January 2025 carrying two lunar landers, Blue Ghost by Firefly and Hakuto-R by ispace. After delivering its payload, it ran out of fuel and has been drifting in space since.\n\nThe 12-meter long, 4-meter wide, 4-ton stage will hit the surface at about 8700 km/h. Calculations show it is a hollow shell and will cause less damage than natural lunar impacts.\n\n📊@tech",
@@ -102,6 +61,47 @@
     ],
     "update_ids": [
       378304052
+    ],
+    "retry_count": 0
+  },
+  {
+    "type": "photo",
+    "photo_file_ids": [
+      "AgACAgQAAyEFAAMBClOLWAADoGpk-GYqqCQlwuzy7XF3YWFncGicAAJiDmsbS5AoU6OpUmnQ03VuAQADAgADeQADPQQ"
+    ],
+    "caption": "🇺🇸 American AI is facing a pricing problem.\n\nFor years, the best AI models came from U.S. companies and customers paid premium prices for them.\n\nNow China is changing the equation.\n\nMoonshot AI’s latest Kimi K3 charges just $15 per million output tokens, roughly half the price of OpenAI’s GPT-5.6 Sol. Other leading Chinese models are even cheaper, costing just a quarter or less of comparable American models.\n\nThe cost advantage isn’t the only reason they’re gaining traction.\n\nMany Chinese models are released as open-weight models, allowing companies to run them on their own infrastructure, customize them, and keep sensitive data in-house instead of relying on a third-party API.\n\nThat’s one reason companies such as Airbnb, DoorDash, Siemens, and Microsoft are increasingly exploring Chinese models for workloads where performance is close enough and cost matters more.\n\nInvestors are paying attention too.\n\nFollowing Kimi K3’s launch, the semiconductor index dropped 1.6%, capping a 10% weekly decline and leaving it about 20% below its June peak. Kimi wasn’t the sole cause, but it reinforced growing concerns that AI models may be becoming commoditized faster than expected.\n\nThe numbers make the debate even more interesting.\n\nThe U.S. invested 23× more than China in private AI last year, yet its top models reportedly held only a 2.7% performance lead. Meanwhile, America’s five largest hyperscalers are expected to spend more than $725 billion on AI this year.\n\n@aipost 🏴",
+    "entities": [
+      {
+        "offset": 0,
+        "length": 4,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5202021044105257611"
+      },
+      {
+        "offset": 5,
+        "length": 40,
+        "type": "bold"
+      },
+      {
+        "offset": 1479,
+        "length": 7,
+        "type": "text_link",
+        "url": "https://t.me/aipost"
+      },
+      {
+        "offset": 1487,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5431390559912614642"
+      }
+    ],
+    "media_group_id": null,
+    "chat_id": -1004468214616,
+    "message_ids": [
+      160
+    ],
+    "update_ids": [
+      378304053
     ],
     "retry_count": 0
   }
