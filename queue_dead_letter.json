@@ -1027,5 +1027,45 @@
       378304058
     ],
     "retry_count": 0
+  },
+  {
+    "type": "video",
+    "video_file_id": "BAACAgQAAyEFAAMBClOLWAADqmpl9SeCM-RnVBv5IOGt7mGt-srNAALsGwAC5gIwUy4opaF5YWiSPQQ",
+    "video_file_size": 176201309,
+    "caption": "🗣Kimi CEO: \"AI is Accelerating Faster Than Ever. A new Scaling Era has Begun.\"\n\n- AI is improving in two dimensions, vertical scaling and horizontal scaling.\n\n- Reasoning has advanced dramatically. AI now solves complex math and coding tasks that were nearly impossible just a year ago.\n\n- Context windows have exploded from roughly 4K to 8K tokens to 128K+ tokens, allowing models to understand far longer documents and conversations.\n\n- Progress is no longer driven only by larger models. Better post-training, reinforcement learning, higher-quality data and inference-time reasoning are now accelerating capabilities.\n\n- Multimodal AI is advancing rapidly. Systems can now generate videos, transform research papers into realistic podcasts and seamlessly work across text, images, audio and video.\n\n- OpenAI's o1 introduced a new paradigm. Experts described it as AI demonstrating System 2 reasoning, enabling deliberate thinking, self-correction, exploration of multiple solution paths, and reflection.\n\n- A new scaling law has emerged. Beyond pre-training, reinforcement learning and inference-time search now provide another predictable path for improving intelligence.\n\n- AGI has entered a new stage. According to Professor Ju Jun's framework, AI has moved from L1 Chatbots toward L2 Reasoners, representing a major qualitative leap.\n\n- Zhilin Yang (CEO of Kimi): \"The most important significance is that it raises the upper limit of what AI can achieve.\"\n\n- Professor Ju Jun: \"The progress curve is getting steeper and steeper.\"\n\n- Industry experts: \"We're in the middle of an acceleration process, and the pace of AI development is still increasing.\"\n\n@aipost 🏴",
+    "entities": [
+      {
+        "offset": 0,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5287468155738821335"
+      },
+      {
+        "offset": 2,
+        "length": 77,
+        "type": "bold"
+      },
+      {
+        "offset": 1662,
+        "length": 7,
+        "type": "text_link",
+        "url": "https://t.me/aipost"
+      },
+      {
+        "offset": 1670,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5431390559912614642"
+      }
+    ],
+    "media_group_id": null,
+    "chat_id": -1004468214616,
+    "message_ids": [
+      170
+    ],
+    "update_ids": [
+      378304063
+    ],
+    "retry_count": 0
   }
 ]
