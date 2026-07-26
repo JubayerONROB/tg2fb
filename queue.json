@@ -1,33 +1,5 @@
 [
   {
-    "type": "video",
-    "video_file_id": "BAACAgIAAyEFAAMBClOLWAADpmpllSsDb70M7M5QyDgqhnNWE85qAAJKrQACJP4pS5zOQN4EmiL9PQQ",
-    "video_file_size": 16072638,
-    "caption": "Boris Cherny has contributed significantly to software development this year with the assistance of Claude Code. Since November of last year, Cherny reports that all of his code has been written using Claude Code, following the launch of Opus 4.5.\n\nDuring this period, Cherny has merged about 1,700 pull requests, added 400,000 lines of code, and removed 250,000 lines. In addition, he has used 8 billion tokens while coding, noting that much of his programming activity now occurs on his mobile phone.\n\n📰 @aipost",
-    "entities": [
-      {
-        "offset": 504,
-        "length": 2,
-        "type": "custom_emoji",
-        "custom_emoji_id": "5363988332466438547"
-      },
-      {
-        "offset": 507,
-        "length": 7,
-        "type": "mention"
-      }
-    ],
-    "media_group_id": null,
-    "chat_id": -1004468214616,
-    "message_ids": [
-      166
-    ],
-    "update_ids": [
-      378304059
-    ],
-    "retry_count": 0
-  },
-  {
     "type": "album",
     "photo_file_ids": [
       "AgACAgQAAyEFAAMBClOLWAADp2plw8AeiguD1RjPDoWEXtu7lAc1AAIrDWsb5gIwU2Vc4C8rPukVAQADAgADeQADPQQ",
