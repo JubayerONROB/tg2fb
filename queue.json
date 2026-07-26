@@ -1,34 +1,6 @@
 [
   {
     "type": "video",
-    "video_file_id": "BAACAgIAAyEFAAMBClOLWAADpWpllR6p9_int0VWAAFMDpMr-ax2IAACAq0AAiT-KUuiKrVBjP5GOz0E",
-    "video_file_size": 52208584,
-    "caption": "Sam Altman has reportedly stated that \"we are now in the singularity.\" This term refers to a hypothetical point when artificial intelligence surpasses human intelligence, fundamentally changing technology and society.\n\nDespite this claim, the majority of people outside specialized technology circles remain unaware of these developments. Most do not yet understand the significance or potential impact of such advancements.\n\n📰 @aipost",
-    "entities": [
-      {
-        "offset": 426,
-        "length": 2,
-        "type": "custom_emoji",
-        "custom_emoji_id": "5363988332466438547"
-      },
-      {
-        "offset": 429,
-        "length": 7,
-        "type": "mention"
-      }
-    ],
-    "media_group_id": null,
-    "chat_id": -1004468214616,
-    "message_ids": [
-      165
-    ],
-    "update_ids": [
-      378304058
-    ],
-    "retry_count": 0
-  },
-  {
-    "type": "video",
     "video_file_id": "BAACAgIAAyEFAAMBClOLWAADpmpllSsDb70M7M5QyDgqhnNWE85qAAJKrQACJP4pS5zOQN4EmiL9PQQ",
     "video_file_size": 16072638,
     "caption": "Boris Cherny has contributed significantly to software development this year with the assistance of Claude Code. Since November of last year, Cherny reports that all of his code has been written using Claude Code, following the launch of Opus 4.5.\n\nDuring this period, Cherny has merged about 1,700 pull requests, added 400,000 lines of code, and removed 250,000 lines. In addition, he has used 8 billion tokens while coding, noting that much of his programming activity now occurs on his mobile phone.\n\n📰 @aipost",
@@ -52,6 +24,48 @@
     ],
     "update_ids": [
       378304059
+    ],
+    "retry_count": 0
+  },
+  {
+    "type": "album",
+    "photo_file_ids": [
+      "AgACAgQAAyEFAAMBClOLWAADp2plw8AeiguD1RjPDoWEXtu7lAc1AAIrDWsb5gIwU2Vc4C8rPukVAQADAgADeQADPQQ",
+      "AgACAgQAAyEFAAMBClOLWAADqGplw8BZBlyF5gj-82Bcybnm9wuKAAIsDWsb5gIwU2hDhExsKm7nAQADAgADeAADPQQ",
+      "AgACAgQAAyEFAAMBClOLWAADqWplw8C83i4fmzTD4tYL4Kzb1BSCAAItDWsb5gIwU8Git6Zrd9UYAQADAgADeAADPQQ"
+    ],
+    "caption": "🇨🇳 Xi Jinping's tech czar warned Chinese AI companies that anyone who resisted using domestic chips is \"a traitor,\" per WSJ.\n\nChina has cut its dependence on foreign AI chips from 90% in 2021 to under 60% by 2025, with plans to reach 25% by 2030.\n\nHuawei says it will ship 1.5 MILLION AI chips this year, doubling its 2025 volume.\n\n@aipost 🏴",
+    "entities": [
+      {
+        "offset": 0,
+        "length": 4,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5431782733376399004"
+      },
+      {
+        "offset": 334,
+        "length": 7,
+        "type": "text_link",
+        "url": "https://t.me/aipost"
+      },
+      {
+        "offset": 342,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5431390559912614642"
+      }
+    ],
+    "media_group_id": "14280433158412541",
+    "chat_id": -1004468214616,
+    "message_ids": [
+      167,
+      168,
+      169
+    ],
+    "update_ids": [
+      378304060,
+      378304061,
+      378304062
     ],
     "retry_count": 0
   }

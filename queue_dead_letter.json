@@ -999,5 +999,33 @@
       378304044
     ],
     "retry_count": 0
+  },
+  {
+    "type": "video",
+    "video_file_id": "BAACAgIAAyEFAAMBClOLWAADpWpllR6p9_int0VWAAFMDpMr-ax2IAACAq0AAiT-KUuiKrVBjP5GOz0E",
+    "video_file_size": 52208584,
+    "caption": "Sam Altman has reportedly stated that \"we are now in the singularity.\" This term refers to a hypothetical point when artificial intelligence surpasses human intelligence, fundamentally changing technology and society.\n\nDespite this claim, the majority of people outside specialized technology circles remain unaware of these developments. Most do not yet understand the significance or potential impact of such advancements.\n\n📰 @aipost",
+    "entities": [
+      {
+        "offset": 426,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5363988332466438547"
+      },
+      {
+        "offset": 429,
+        "length": 7,
+        "type": "mention"
+      }
+    ],
+    "media_group_id": null,
+    "chat_id": -1004468214616,
+    "message_ids": [
+      165
+    ],
+    "update_ids": [
+      378304058
+    ],
+    "retry_count": 0
   }
 ]
