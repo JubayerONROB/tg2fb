@@ -1067,5 +1067,45 @@
       378304063
     ],
     "retry_count": 0
+  },
+  {
+    "type": "video",
+    "video_file_id": "BAACAgQAAyEFAAMBClOLWAADq2pmK58StMrtNyIJbsl6czXQ8fB5AALxGwAC5gIwUwarpeGj5LNCPQQ",
+    "video_file_size": 33868685,
+    "caption": "❗️Elon Musk explains why AI and robots are the future of the economy?\n\n“You can think of the economy as digital and physical intelligence. AI is advancing very rapidly, but it is still somewhat confined to the digital realm. You need end effectors in the form of humanoid robots. Then you can go from intelligence manifesting itself digitally to shaping atoms. An economy is the production of goods and the provision of services. If you have vast numbers of robots with vast amounts of digital intelligence, you have a quasi-infinite economy.”\n\n@aipost 🏴",
+    "entities": [
+      {
+        "offset": 0,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5289761612440310918"
+      },
+      {
+        "offset": 2,
+        "length": 67,
+        "type": "bold"
+      },
+      {
+        "offset": 545,
+        "length": 7,
+        "type": "text_link",
+        "url": "https://t.me/aipost"
+      },
+      {
+        "offset": 553,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5431390559912614642"
+      }
+    ],
+    "media_group_id": null,
+    "chat_id": -1004468214616,
+    "message_ids": [
+      171
+    ],
+    "update_ids": [
+      378304064
+    ],
+    "retry_count": 0
   }
 ]
