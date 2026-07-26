@@ -1,1 +1,58 @@
-[]
+[
+  {
+    "type": "video",
+    "video_file_id": "BAACAgIAAyEFAAMBClOLWAADpWpllR6p9_int0VWAAFMDpMr-ax2IAACAq0AAiT-KUuiKrVBjP5GOz0E",
+    "video_file_size": 52208584,
+    "caption": "Sam Altman has reportedly stated that \"we are now in the singularity.\" This term refers to a hypothetical point when artificial intelligence surpasses human intelligence, fundamentally changing technology and society.\n\nDespite this claim, the majority of people outside specialized technology circles remain unaware of these developments. Most do not yet understand the significance or potential impact of such advancements.\n\n📰 @aipost",
+    "entities": [
+      {
+        "offset": 426,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5363988332466438547"
+      },
+      {
+        "offset": 429,
+        "length": 7,
+        "type": "mention"
+      }
+    ],
+    "media_group_id": null,
+    "chat_id": -1004468214616,
+    "message_ids": [
+      165
+    ],
+    "update_ids": [
+      378304058
+    ],
+    "retry_count": 0
+  },
+  {
+    "type": "video",
+    "video_file_id": "BAACAgIAAyEFAAMBClOLWAADpmpllSsDb70M7M5QyDgqhnNWE85qAAJKrQACJP4pS5zOQN4EmiL9PQQ",
+    "video_file_size": 16072638,
+    "caption": "Boris Cherny has contributed significantly to software development this year with the assistance of Claude Code. Since November of last year, Cherny reports that all of his code has been written using Claude Code, following the launch of Opus 4.5.\n\nDuring this period, Cherny has merged about 1,700 pull requests, added 400,000 lines of code, and removed 250,000 lines. In addition, he has used 8 billion tokens while coding, noting that much of his programming activity now occurs on his mobile phone.\n\n📰 @aipost",
+    "entities": [
+      {
+        "offset": 504,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5363988332466438547"
+      },
+      {
+        "offset": 507,
+        "length": 7,
+        "type": "mention"
+      }
+    ],
+    "media_group_id": null,
+    "chat_id": -1004468214616,
+    "message_ids": [
+      166
+    ],
+    "update_ids": [
+      378304059
+    ],
+    "retry_count": 0
+  }
+]
