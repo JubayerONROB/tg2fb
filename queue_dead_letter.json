@@ -1107,5 +1107,34 @@
       378304064
     ],
     "retry_count": 0
+  },
+  {
+    "type": "video",
+    "video_file_id": "BAACAgQAAyEFAAMBClOLWAADrWpm5qmx8cpSwBr1r49pFpVibib6AALjGwAC5gIwU4wGrI3qh512PQQ",
+    "video_file_size": 24146638,
+    "caption": "Japan just experienced its first AGI moment. An autonomous fighting robot tried to runway from a cage fight. Surreal.\n\n@aipost 🏴",
+    "entities": [
+      {
+        "offset": 119,
+        "length": 7,
+        "type": "text_link",
+        "url": "https://t.me/aipost"
+      },
+      {
+        "offset": 127,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5431390559912614642"
+      }
+    ],
+    "media_group_id": null,
+    "chat_id": -1004468214616,
+    "message_ids": [
+      173
+    ],
+    "update_ids": [
+      378304066
+    ],
+    "retry_count": 0
   }
 ]
