@@ -1136,5 +1136,45 @@
       378304066
     ],
     "retry_count": 0
+  },
+  {
+    "type": "video",
+    "video_file_id": "BAACAgQAAyEFAAMBClOLWAADrmpm5q-SEriTpJDZJQ5tFSR0acGAAALrGwAC5gIwU1z44LQIGecwPQQ",
+    "video_file_size": 24222610,
+    "caption": "🎤 ChatGPT voice is becoming your computer’s AI command center\n\nOpenAI has upgraded ChatGPT Voice from a voice assistant into a hands-free control system for your computer.\n\nPowered by GPT-Live, the feature lets you talk naturally while ChatGPT launches tasks, monitors progress, and coordinates multiple AI agents running across ChatGPT Work and Codex. Your conversation continues while those agents work in the background, and ChatGPT can explain what’s happening, report results, and take new instructions, all without sending you back to the keyboard.\n\nOn macOS, it goes even further. ChatGPT can understand the app currently on your screen using screen context, and after pairing your iPhone with your Mac, you can leave your desk and continue managing tasks remotely with your voice.\n\nThe update is rolling out globally for Plus, Pro, Business, Edu, and Enterprise users on both macOS and Windows.\n\n@aipost 🏴",
+    "entities": [
+      {
+        "offset": 0,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5321004106494526877"
+      },
+      {
+        "offset": 3,
+        "length": 59,
+        "type": "bold"
+      },
+      {
+        "offset": 905,
+        "length": 7,
+        "type": "text_link",
+        "url": "https://t.me/aipost"
+      },
+      {
+        "offset": 913,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5431390559912614642"
+      }
+    ],
+    "media_group_id": null,
+    "chat_id": -1004468214616,
+    "message_ids": [
+      174
+    ],
+    "update_ids": [
+      378304067
+    ],
+    "retry_count": 0
   }
 ]
