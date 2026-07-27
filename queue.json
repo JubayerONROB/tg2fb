@@ -2,53 +2,6 @@
   {
     "type": "photo",
     "photo_file_ids": [
-      "AgACAgQAAyEFAAMBClOLWAADr2pm6UAZdWAno1u2PPPO4kfSN2GLAAIuDWsb5gIwU58zC4PhQ1_1AQADAgADeAADPQQ"
-    ],
-    "caption": "🥺 ChatGPT faces another major lawsuit over medical advice\n\nOpenAI and CEO Sam Altman are being sued after a U.S. pastor claimed ChatGPT downplayed symptoms of a life-threatening pulmonary embolism and discouraged him from seeking medical care.\n\nThe lawsuit argues ChatGPT crossed into practicing medicine without a license and calls for its health features to be suspended until they’re independently verified as safe.\n\nOpenAI says ChatGPT isn’t meant to diagnose or treat medical conditions, but the case adds to growing legal scrutiny over the chatbot’s health advice.\n\nSource. \n\n@aipost 🏴",
-    "entities": [
-      {
-        "offset": 0,
-        "length": 2,
-        "type": "custom_emoji",
-        "custom_emoji_id": "5291894093767542370"
-      },
-      {
-        "offset": 3,
-        "length": 55,
-        "type": "bold"
-      },
-      {
-        "offset": 573,
-        "length": 8,
-        "type": "text_link",
-        "url": "https://www.bbc.com/news/articles/cwylp3nxp5yo"
-      },
-      {
-        "offset": 583,
-        "length": 7,
-        "type": "text_link",
-        "url": "https://t.me/aipost"
-      },
-      {
-        "offset": 591,
-        "length": 2,
-        "type": "custom_emoji",
-        "custom_emoji_id": "5431390559912614642"
-      }
-    ],
-    "media_group_id": null,
-    "chat_id": -1004468214616,
-    "message_ids": [
-      175
-    ],
-    "update_ids": [
-      378304068
-    ],
-    "retry_count": 0
-  },
-  {
-    "type": "photo",
-    "photo_file_ids": [
       "AgACAgIAAyEFAAMBClOLWAADsGpnEYt8wCX26IFBD82Tndt44luNAAJUHWsbBgoxSxGmRuA97M9QAQADAgADeAADPQQ"
     ],
     "caption": "🤖 Altman to Present New OpenAI Model in DC\n\nSam Altman is heading to Washington to show the White House a new internal OpenAI model. This is likely the same model that leaked into Hugging Face's environment.\n\nThe model is pitched as capable of solving long-standing math problems and making complex business tasks cheaper and more efficient for US companies.\n\n📊@tech",
@@ -148,6 +101,245 @@
     ],
     "update_ids": [
       378304070
+    ],
+    "retry_count": 0
+  },
+  {
+    "type": "photo",
+    "photo_file_ids": [
+      "AgACAgIAAyEFAAMBClOLWAADsGpnEYt8wCX26IFBD82Tndt44luNAAJUHWsbBgoxSxGmRuA97M9QAQADAgADeAADPQQ"
+    ],
+    "caption": "🤖 Altman to Present New OpenAI Model in DC\n\nSam Altman is heading to Washington to show the White House a new internal OpenAI model. This is likely the same model that leaked into Hugging Face's environment.\n\nThe model is pitched as capable of solving long-standing math problems and making complex business tasks cheaper and more efficient for US companies.\n\n📊@tech",
+    "entities": [
+      {
+        "offset": 0,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5397681122542893003"
+      },
+      {
+        "offset": 3,
+        "length": 40,
+        "type": "bold"
+      },
+      {
+        "offset": 45,
+        "length": 10,
+        "type": "bold"
+      },
+      {
+        "offset": 107,
+        "length": 25,
+        "type": "bold"
+      },
+      {
+        "offset": 245,
+        "length": 35,
+        "type": "bold"
+      },
+      {
+        "offset": 285,
+        "length": 56,
+        "type": "bold"
+      },
+      {
+        "offset": 361,
+        "length": 2,
+        "type": "bold"
+      },
+      {
+        "offset": 361,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5449841756596101801"
+      },
+      {
+        "offset": 363,
+        "length": 5,
+        "type": "mention"
+      },
+      {
+        "offset": 363,
+        "length": 5,
+        "type": "bold"
+      }
+    ],
+    "media_group_id": null,
+    "chat_id": -1004468214616,
+    "message_ids": [
+      178
+    ],
+    "update_ids": [
+      378304071
+    ],
+    "retry_count": 0
+  },
+  {
+    "type": "video",
+    "video_file_id": "BAACAgIAAyEFAAMBClOLWAADs2pnVK4bLQ0Mq-DneIEjg1W1f8Z3AAJyrQACXV8oS_FH05ZrOMcKPQQ",
+    "video_file_size": 10150544,
+    "caption": "🎓 AI Schoolboard Unveiled at WAIC\n\nThe AI-powered schoolboard debuted at WAIC 2026 in China. It recognizes handwriting, corrects materials, and explains topics using AI.\n\nIt turns lessons into interactive sessions, aiding both teachers and students.\n\n📊@tech",
+    "entities": [
+      {
+        "offset": 0,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5258334872878980409"
+      },
+      {
+        "offset": 3,
+        "length": 31,
+        "type": "bold"
+      },
+      {
+        "offset": 40,
+        "length": 22,
+        "type": "bold"
+      },
+      {
+        "offset": 74,
+        "length": 9,
+        "type": "bold"
+      },
+      {
+        "offset": 97,
+        "length": 22,
+        "type": "bold"
+      },
+      {
+        "offset": 121,
+        "length": 18,
+        "type": "bold"
+      },
+      {
+        "offset": 145,
+        "length": 24,
+        "type": "bold"
+      },
+      {
+        "offset": 194,
+        "length": 20,
+        "type": "bold"
+      },
+      {
+        "offset": 252,
+        "length": 2,
+        "type": "bold"
+      },
+      {
+        "offset": 252,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5449841756596101801"
+      },
+      {
+        "offset": 254,
+        "length": 5,
+        "type": "mention"
+      },
+      {
+        "offset": 254,
+        "length": 5,
+        "type": "bold"
+      }
+    ],
+    "media_group_id": null,
+    "chat_id": -1004468214616,
+    "message_ids": [
+      179
+    ],
+    "update_ids": [
+      378304072
+    ],
+    "retry_count": 0
+  },
+  {
+    "type": "photo",
+    "photo_file_ids": [
+      "AgACAgUAAyEFAAMBClOLWAADtGpnWpiA10h7XBU97SxvFPcZGTCtAAKsFWsbEho4V6XKJMfGTaUTAQADAgADeQADPQQ"
+    ],
+    "caption": "You know Neuro-sama, the AI that streams games and chats with thousands of fans live? She's closed source, so when the stream ends, she's gone. Meet Airi, the open-source version you actually own and run yourself.\nAiri is a fully autonomous AI companion with an animated avatar. It talks to you in real time, remembers past conversations, and yes, it actually plays games with you. Tell it to build a cabin in Minecraft and it plans the path, gathers resources, and builds it.\nHere's what you get out of the box:\n-Real-time voice chat with sub-500ms response time\n-Animated Live2D or 3D avatar with blinking and emotion expressions\n-Plays Minecraft and Factorio autonomously\n-Discord and Telegram integration\n-30+ LLM providers supported, swap models with one config change\nIt runs on Web, Desktop, and Mobile. No cloud required. Swap the AI brain anytime, from Claude to a local Ollama model. It's free, MIT licensed, and already has 17.5k stars on GitHub.",
+    "entities": [
+      {
+        "offset": 9,
+        "length": 10,
+        "type": "bold"
+      },
+      {
+        "offset": 149,
+        "length": 4,
+        "type": "bold"
+      },
+      {
+        "offset": 710,
+        "length": 17,
+        "type": "bold"
+      },
+      {
+        "offset": 935,
+        "length": 11,
+        "type": "bold"
+      }
+    ],
+    "media_group_id": null,
+    "chat_id": -1004468214616,
+    "message_ids": [
+      180
+    ],
+    "update_ids": [
+      378304073
+    ],
+    "retry_count": 0
+  },
+  {
+    "type": "photo",
+    "photo_file_ids": [
+      "AgACAgQAAyEFAAMBClOLWAADtWpnXzaLgubt3VcSeHGH5AABeeMl3AACkg1rGwzfOFNz41ggAxkAAT8BAAMCAAN5AAM9BA"
+    ],
+    "caption": "❗️Satya Nadella just picked a side in AI’s biggest debate.\n\nMicrosoft says open-weight AI models are critical to keeping America competitive.\n\nHere’s why:\n\nIf only a handful of companies own the most powerful AI models, they also control the prices, access, infrastructure, and ultimately the future of AI.\n\nOpen-weight models flip that equation.\n\nDevelopers can download them, customize them, run them on their own hardware, and build products without relying on a single AI provider.\n\nOf course, that comes with security risks.\n\nBut Microsoft argues that putting the future of AI in the hands of just a few closed labs could be an even greater danger.\n\nSource.\n\n@aipost 🏴",
+    "entities": [
+      {
+        "offset": 0,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5289761612440310918"
+      },
+      {
+        "offset": 2,
+        "length": 56,
+        "type": "bold"
+      },
+      {
+        "offset": 143,
+        "length": 11,
+        "type": "bold"
+      },
+      {
+        "offset": 655,
+        "length": 6,
+        "type": "text_link",
+        "url": "https://www.microsoft.com/en-us/corporate-responsibility/topics/open-weight/"
+      },
+      {
+        "offset": 664,
+        "length": 7,
+        "type": "text_link",
+        "url": "https://t.me/aipost"
+      },
+      {
+        "offset": 672,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5431390559912614642"
+      }
+    ],
+    "media_group_id": null,
+    "chat_id": -1004468214616,
+    "message_ids": [
+      181
+    ],
+    "update_ids": [
+      378304074
     ],
     "retry_count": 0
   }
