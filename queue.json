@@ -2,44 +2,6 @@
   {
     "type": "photo",
     "photo_file_ids": [
-      "AgACAgUAAyEFAAMBClOLWAADtGpnWpiA10h7XBU97SxvFPcZGTCtAAKsFWsbEho4V6XKJMfGTaUTAQADAgADeQADPQQ"
-    ],
-    "caption": "You know Neuro-sama, the AI that streams games and chats with thousands of fans live? She's closed source, so when the stream ends, she's gone. Meet Airi, the open-source version you actually own and run yourself.\nAiri is a fully autonomous AI companion with an animated avatar. It talks to you in real time, remembers past conversations, and yes, it actually plays games with you. Tell it to build a cabin in Minecraft and it plans the path, gathers resources, and builds it.\nHere's what you get out of the box:\n-Real-time voice chat with sub-500ms response time\n-Animated Live2D or 3D avatar with blinking and emotion expressions\n-Plays Minecraft and Factorio autonomously\n-Discord and Telegram integration\n-30+ LLM providers supported, swap models with one config change\nIt runs on Web, Desktop, and Mobile. No cloud required. Swap the AI brain anytime, from Claude to a local Ollama model. It's free, MIT licensed, and already has 17.5k stars on GitHub.",
-    "entities": [
-      {
-        "offset": 9,
-        "length": 10,
-        "type": "bold"
-      },
-      {
-        "offset": 149,
-        "length": 4,
-        "type": "bold"
-      },
-      {
-        "offset": 710,
-        "length": 17,
-        "type": "bold"
-      },
-      {
-        "offset": 935,
-        "length": 11,
-        "type": "bold"
-      }
-    ],
-    "media_group_id": null,
-    "chat_id": -1004468214616,
-    "message_ids": [
-      180
-    ],
-    "update_ids": [
-      378304073
-    ],
-    "retry_count": 0
-  },
-  {
-    "type": "photo",
-    "photo_file_ids": [
       "AgACAgQAAyEFAAMBClOLWAADtWpnXzaLgubt3VcSeHGH5AABeeMl3AACkg1rGwzfOFNz41ggAxkAAT8BAAMCAAN5AAM9BA"
     ],
     "caption": "❗️Satya Nadella just picked a side in AI’s biggest debate.\n\nMicrosoft says open-weight AI models are critical to keeping America competitive.\n\nHere’s why:\n\nIf only a handful of companies own the most powerful AI models, they also control the prices, access, infrastructure, and ultimately the future of AI.\n\nOpen-weight models flip that equation.\n\nDevelopers can download them, customize them, run them on their own hardware, and build products without relying on a single AI provider.\n\nOf course, that comes with security risks.\n\nBut Microsoft argues that putting the future of AI in the hands of just a few closed labs could be an even greater danger.\n\nSource.\n\n@aipost 🏴",
