@@ -1176,5 +1176,40 @@
       378304067
     ],
     "retry_count": 0
+  },
+  {
+    "type": "video",
+    "video_file_id": "BAACAgQAAyEFAAMBClOLWAADsWpnLjqvgSBafdclahyIXjZVkaUZAAKRGwACDN84U4JsAhxWsxSUPQQ",
+    "video_file_size": 23071582,
+    "caption": "🗣 Sam Altman reveals he flew to 28 countries in 35 days after GPT-4 launched because world leaders were asking whether to shut AI down, and ended the trip waking up convinced he was back in his childhood bed.\n\n“Three years ago we had just launched GPT-4. The world was melting down. Everybody was freaking out.”\n\n“World leaders were like, do we need to take control and shut things down? Is this thing waking up?”\n\n“I think we did 28 countries, 35 days. I lived on an airplane.”\n\n“By the end of it, the last few days, I started having this vision, feeling, whatever, of being in my childhood bed. I would sort of vaguely wake up and I would think I was in my childhood bed in my childhood room. And I was like, okay, this is some deep ‘it’s time to go home’ thing.”\n\n@aipost 🏴",
+    "entities": [
+      {
+        "offset": 0,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5287468155738821335"
+      },
+      {
+        "offset": 768,
+        "length": 7,
+        "type": "text_link",
+        "url": "https://t.me/aipost"
+      },
+      {
+        "offset": 776,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5431390559912614642"
+      }
+    ],
+    "media_group_id": null,
+    "chat_id": -1004468214616,
+    "message_ids": [
+      177
+    ],
+    "update_ids": [
+      378304070
+    ],
+    "retry_count": 0
   }
 ]

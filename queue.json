@@ -1,40 +1,5 @@
 [
   {
-    "type": "video",
-    "video_file_id": "BAACAgQAAyEFAAMBClOLWAADsWpnLjqvgSBafdclahyIXjZVkaUZAAKRGwACDN84U4JsAhxWsxSUPQQ",
-    "video_file_size": 23071582,
-    "caption": "🗣 Sam Altman reveals he flew to 28 countries in 35 days after GPT-4 launched because world leaders were asking whether to shut AI down, and ended the trip waking up convinced he was back in his childhood bed.\n\n“Three years ago we had just launched GPT-4. The world was melting down. Everybody was freaking out.”\n\n“World leaders were like, do we need to take control and shut things down? Is this thing waking up?”\n\n“I think we did 28 countries, 35 days. I lived on an airplane.”\n\n“By the end of it, the last few days, I started having this vision, feeling, whatever, of being in my childhood bed. I would sort of vaguely wake up and I would think I was in my childhood bed in my childhood room. And I was like, okay, this is some deep ‘it’s time to go home’ thing.”\n\n@aipost 🏴",
-    "entities": [
-      {
-        "offset": 0,
-        "length": 2,
-        "type": "custom_emoji",
-        "custom_emoji_id": "5287468155738821335"
-      },
-      {
-        "offset": 768,
-        "length": 7,
-        "type": "text_link",
-        "url": "https://t.me/aipost"
-      },
-      {
-        "offset": 776,
-        "length": 2,
-        "type": "custom_emoji",
-        "custom_emoji_id": "5431390559912614642"
-      }
-    ],
-    "media_group_id": null,
-    "chat_id": -1004468214616,
-    "message_ids": [
-      177
-    ],
-    "update_ids": [
-      378304070
-    ],
-    "retry_count": 0
-  },
-  {
     "type": "photo",
     "photo_file_ids": [
       "AgACAgIAAyEFAAMBClOLWAADsGpnEYt8wCX26IFBD82Tndt44luNAAJUHWsbBgoxSxGmRuA97M9QAQADAgADeAADPQQ"
@@ -270,6 +235,120 @@
     ],
     "update_ids": [
       378304074
+    ],
+    "retry_count": 0
+  },
+  {
+    "type": "album",
+    "photo_file_ids": [
+      "AgACAgIAAyEFAAMBClOLWAADtmpnk8LIC4Mps4sEWXVJolSecwPgAALYG2sbSSM5S1a9zkpBx2DsAQADAgADeQADPQQ",
+      "AgACAgIAAyEFAAMBClOLWAADt2pnk8KbE6lFgXppKA1i_EXwRJWwAALlG2sbSSM5S0cQtXv7I0lKAQADAgADeQADPQQ",
+      "AgACAgIAAyEFAAMBClOLWAADuGpnk8KFwp_i_7GjKAltUKdHfMmRAALZG2sbSSM5S6ykPD2CzgLrAQADAgADeQADPQQ"
+    ],
+    "caption": "China has launched production of deep ultraviolet (DUV) lithography machines for the first time.\n\nAccording to available information, the country plans to produce five DUV units this year and increase output to 20 units in the following year. DUV lithography is key for advanced semiconductor manufacturing, a sector historically dominated by ASML, which previously held an effective monopoly.\n\nThe announcement has had an immediate impact on global chip equipment stocks. ASML shares dropped by 8.3%, ASM International by 7.3%, BE Semiconductor by 9.9%, Applied Materials by 6.7%, and Lam Research by 7.9%.\n\n📰 @aipost",
+    "entities": [
+      {
+        "offset": 609,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5363988332466438547"
+      },
+      {
+        "offset": 612,
+        "length": 7,
+        "type": "mention"
+      }
+    ],
+    "media_group_id": "14281383441458717",
+    "chat_id": -1004468214616,
+    "message_ids": [
+      182,
+      183,
+      184
+    ],
+    "update_ids": [
+      378304075,
+      378304076,
+      378304077
+    ],
+    "retry_count": 0
+  },
+  {
+    "type": "video",
+    "video_file_id": "BAACAgIAAyEFAAMBClOLWAADuWpnk97ISr6T0UYC9lAPaz92j4geAAJ0mwAC9zEZS5BVXhDqttbhPQQ",
+    "video_file_size": 13918305,
+    "caption": "🧠 Neuralink demos mind-controlled wheelchair\n\nNeuralink showed participants in clinical trials controlling an electric wheelchair using only their thoughts. An implant reads movement intentions in real time and moves a cursor on a screen to direct the chair.\n\nThe cursor controls an app displaying a live camera feed from the wheelchair’s perspective. Moving the cursor up drives forward, down reverses, left and right steer, and pushing the cursor further increases speed.\n\nThis “telepathic wheelchair control” is still early stage but aims to restore independent mobility for people with paralysis. Even moving around a room without help is a big step.\n\n📊@tech",
+    "entities": [
+      {
+        "offset": 0,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5431477541590288199"
+      },
+      {
+        "offset": 3,
+        "length": 42,
+        "type": "bold"
+      },
+      {
+        "offset": 47,
+        "length": 9,
+        "type": "bold"
+      },
+      {
+        "offset": 80,
+        "length": 15,
+        "type": "bold"
+      },
+      {
+        "offset": 161,
+        "length": 33,
+        "type": "bold"
+      },
+      {
+        "offset": 265,
+        "length": 22,
+        "type": "bold"
+      },
+      {
+        "offset": 482,
+        "length": 29,
+        "type": "bold"
+      },
+      {
+        "offset": 546,
+        "length": 28,
+        "type": "bold"
+      },
+      {
+        "offset": 657,
+        "length": 2,
+        "type": "bold"
+      },
+      {
+        "offset": 657,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5449841756596101801"
+      },
+      {
+        "offset": 659,
+        "length": 5,
+        "type": "mention"
+      },
+      {
+        "offset": 659,
+        "length": 5,
+        "type": "bold"
+      }
+    ],
+    "media_group_id": null,
+    "chat_id": -1004468214616,
+    "message_ids": [
+      185
+    ],
+    "update_ids": [
+      378304078
     ],
     "retry_count": 0
   }
