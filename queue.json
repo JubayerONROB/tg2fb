@@ -1,75 +1,5 @@
 [
   {
-    "type": "photo",
-    "photo_file_ids": [
-      "AgACAgIAAyEFAAMBClOLWAADsGpnEYt8wCX26IFBD82Tndt44luNAAJUHWsbBgoxSxGmRuA97M9QAQADAgADeAADPQQ"
-    ],
-    "caption": "🤖 Altman to Present New OpenAI Model in DC\n\nSam Altman is heading to Washington to show the White House a new internal OpenAI model. This is likely the same model that leaked into Hugging Face's environment.\n\nThe model is pitched as capable of solving long-standing math problems and making complex business tasks cheaper and more efficient for US companies.\n\n📊@tech",
-    "entities": [
-      {
-        "offset": 0,
-        "length": 2,
-        "type": "custom_emoji",
-        "custom_emoji_id": "5397681122542893003"
-      },
-      {
-        "offset": 3,
-        "length": 40,
-        "type": "bold"
-      },
-      {
-        "offset": 45,
-        "length": 10,
-        "type": "bold"
-      },
-      {
-        "offset": 107,
-        "length": 25,
-        "type": "bold"
-      },
-      {
-        "offset": 245,
-        "length": 35,
-        "type": "bold"
-      },
-      {
-        "offset": 285,
-        "length": 56,
-        "type": "bold"
-      },
-      {
-        "offset": 361,
-        "length": 2,
-        "type": "bold"
-      },
-      {
-        "offset": 361,
-        "length": 2,
-        "type": "custom_emoji",
-        "custom_emoji_id": "5449841756596101801"
-      },
-      {
-        "offset": 363,
-        "length": 5,
-        "type": "mention"
-      },
-      {
-        "offset": 363,
-        "length": 5,
-        "type": "bold"
-      }
-    ],
-    "media_group_id": null,
-    "chat_id": -1004468214616,
-    "message_ids": [
-      178
-    ],
-    "update_ids": [
-      378304071
-    ],
-    "retry_count": 0
-  },
-  {
     "type": "video",
     "video_file_id": "BAACAgIAAyEFAAMBClOLWAADs2pnVK4bLQ0Mq-DneIEjg1W1f8Z3AAJyrQACXV8oS_FH05ZrOMcKPQQ",
     "video_file_size": 10150544,
@@ -349,6 +279,45 @@
     ],
     "update_ids": [
       378304078
+    ],
+    "retry_count": 0
+  },
+  {
+    "type": "album",
+    "photo_file_ids": [
+      "AgACAgQAAyEFAAMBClOLWAADumpnt3AkmAZwqtAerw99uTmEpPQRAAKYDWsbDN84UxVQ1j54gdWCAQADAgADeAADPQQ",
+      "AgACAgQAAyEFAAMBClOLWAADu2pnt3CPb_bfz9lBX_LhKguiuEcIAAKZDWsbDN84Uzec7DuQh6DuAQADAgADeQADPQQ"
+    ],
+    "caption": "❗️Microsoft says it takes \"18 months to build a data center but 8 years to get a grid connection\" in Britain.\n\nIt was revealed that Britain has just 2GW of data center capacity, a third of America's per person. \n\nThe UK hopes to reach 6GW by 2030 while America targets over 90GW, per The Economist.\n\n@aipost 🏴",
+    "entities": [
+      {
+        "offset": 0,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5289761612440310918"
+      },
+      {
+        "offset": 300,
+        "length": 7,
+        "type": "text_link",
+        "url": "https://t.me/aipost"
+      },
+      {
+        "offset": 308,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5431390559912614642"
+      }
+    ],
+    "media_group_id": "14281456518696165",
+    "chat_id": -1004468214616,
+    "message_ids": [
+      186,
+      187
+    ],
+    "update_ids": [
+      378304079,
+      378304080
     ],
     "retry_count": 0
   }
