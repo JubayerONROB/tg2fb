@@ -1211,5 +1211,45 @@
       378304070
     ],
     "retry_count": 0
+  },
+  {
+    "type": "video",
+    "video_file_id": "BAACAgQAAyEFAAMBClOLWAADvWpoNZ7_7C41sZYWSZCM5hvAhKWDAAKxGwACDN84U_NTheSlqnNxPQQ",
+    "video_file_size": 21675368,
+    "caption": "🧠 Demis Hassabis says DeepMind had no choice but to sell.\n\nBefore AI became a trillion-dollar race, DeepMind was struggling to survive. Demis Hassabis says he realized staying independent would require $7 billion in funding.\n\nThe problem? They could barely raise $10 million at a time. After DeepMind’s breakthrough Atari demos, Big Tech started aggressively recruiting its researchers.\n\nThey had no product, no revenue, and were focused entirely on building AGI. Hassabis says he paid himself nothing, while engineers earning around $100,000 a year were suddenly receiving offers of $10 million… or even $50 million annually.\n\nAt that point, competing as an independent company became almost impossible. That’s why DeepMind joined Google in 2014. Looking back, it wasn’t just a business decision.\n\nIt was a reminder that building frontier AI has always been as much about capital and talent as it is about breakthrough research.\n\n@aipost 🏴",
+    "entities": [
+      {
+        "offset": 0,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5895617412975299964"
+      },
+      {
+        "offset": 3,
+        "length": 55,
+        "type": "bold"
+      },
+      {
+        "offset": 932,
+        "length": 7,
+        "type": "text_link",
+        "url": "https://t.me/aipost"
+      },
+      {
+        "offset": 940,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5431390559912614642"
+      }
+    ],
+    "media_group_id": null,
+    "chat_id": -1004468214616,
+    "message_ids": [
+      189
+    ],
+    "update_ids": [
+      378304082
+    ],
+    "retry_count": 0
   }
 ]
