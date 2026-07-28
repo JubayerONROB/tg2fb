@@ -2,35 +2,6 @@
   {
     "type": "photo",
     "photo_file_ids": [
-      "AgACAgIAAyEFAAMBClOLWAADvmpoPYZJ_QdW4Qd5wGh7m_nk1RoZAAIZHWsbSSM5S4HRS3g1gZPiAQADAgADeQADPQQ"
-    ],
-    "caption": "A new milestone has been reached in the open source AI space. Open models from China are now outperforming recently released competitors, such as Opus 4.8, just two months after their debut.\n\nKimi K3, now holding the top spot among open weights models at 57 in the Artificial Analysis Intelligence Index, has made its weights publicly available. The 2.6T parameter model, released under the 'Kimi K3 License,' is labeled as 'Commercial Use Restricted.'\n\nThis licensing means businesses offering model-as-a-service solutions with over $20 million in annual revenue must seek additional agreements. Products exceeding 100 million monthly active users or generating $20 million in monthly revenue must clearly display \"Kimi K3\" in their user interface.\n\nA technical report outlining the model's architecture and training methods has also been released.\n\n📰 @aipost",
-    "entities": [
-      {
-        "offset": 851,
-        "length": 2,
-        "type": "custom_emoji",
-        "custom_emoji_id": "5363988332466438547"
-      },
-      {
-        "offset": 854,
-        "length": 7,
-        "type": "mention"
-      }
-    ],
-    "media_group_id": null,
-    "chat_id": -1004468214616,
-    "message_ids": [
-      192
-    ],
-    "update_ids": [
-      378304085
-    ],
-    "retry_count": 0
-  },
-  {
-    "type": "photo",
-    "photo_file_ids": [
       "AgACAgIAAyEFAAMBClOLWAADwWpoeMglcBiNu4SnfvhxAnMi2vBuAAKUH2sbrqk5S7z9Cc_7dk9jAQADAgADeQADPQQ"
     ],
     "caption": "OpenAI research shows that 43.5% of occupation-specific ChatGPT messages from U.S. business users related to tasks typically handled by a different profession. This indicates users are leveraging the model to address specialist work outside their primary field.\n\nFinancial calculations and computer troubleshooting were among the top three most common tasks handled beyond users’ professions in all groups. Marketing-related tasks also appeared frequently across various occupations.\n\nThe data captured messages within ChatGPT Business, not finished work, so it does not measure quality, productivity, or impact on jobs.\n\nResearchers note that, especially in small businesses, employees often solve problems outside their usual roles. AI is emerging as a versatile support tool across different functions.\n\n📰 @aipost",
@@ -243,6 +214,47 @@
     ],
     "update_ids": [
       378304091
+    ],
+    "retry_count": 0
+  },
+  {
+    "type": "photo",
+    "photo_file_ids": [
+      "AgACAgQAAyEFAAMBClOLWAADx2ppI01hbsfT3jeDx2-Ps7IJCky1AALeD2sbaMdIUxU0vYkZbM5wAQADAgADeAADPQQ"
+    ],
+    "caption": "❗️Plot twist: AI isn’t replacing as many workers as companies expected.\n\nFor the last year, the message was everywhere: AI agents are coming, jobs are disappearing, and companies are preparing for a much smaller workforce. Now… some of those same companies are quietly hiring again.\n\nWhy? Because they discovered something that sounds obvious in hindsight: an AI agent doesn’t replace an employee, it replaces pieces of what that employee does.\n\nA coding AI still needs engineers to tell it what to build, review its code, and fix what it gets wrong.\n\nA sales AI still can’t build trust, read a room, or close every deal. And when AI makes a mistake, guess who gets the phone call? A human.\n\nThat’s why companies like Alphabet, Booz Allen, ServiceNow, and even CSX are expanding hiring in key areas instead of shrinking them.\n\nThis doesn’t mean the AI job revolution is over. Routine work will continue to disappear, and many roles will change dramatically.\n\nBut the companies using AI at scale are learning that the winning strategy isn’t replacing people. It’s pairing the right people with the right AI.\n\n@aipost 🏴",
+    "entities": [
+      {
+        "offset": 0,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5289761612440310918"
+      },
+      {
+        "offset": 2,
+        "length": 69,
+        "type": "bold"
+      },
+      {
+        "offset": 1108,
+        "length": 7,
+        "type": "text_link",
+        "url": "https://t.me/aipost"
+      },
+      {
+        "offset": 1116,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5431390559912614642"
+      }
+    ],
+    "media_group_id": null,
+    "chat_id": -1004468214616,
+    "message_ids": [
+      199
+    ],
+    "update_ids": [
+      378304092
     ],
     "retry_count": 0
   }
