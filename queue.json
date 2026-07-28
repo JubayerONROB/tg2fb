@@ -1,84 +1,5 @@
 [
   {
-    "type": "video",
-    "video_file_id": "BAACAgIAAyEFAAMBClOLWAADuWpnk97ISr6T0UYC9lAPaz92j4geAAJ0mwAC9zEZS5BVXhDqttbhPQQ",
-    "video_file_size": 13918305,
-    "caption": "🧠 Neuralink demos mind-controlled wheelchair\n\nNeuralink showed participants in clinical trials controlling an electric wheelchair using only their thoughts. An implant reads movement intentions in real time and moves a cursor on a screen to direct the chair.\n\nThe cursor controls an app displaying a live camera feed from the wheelchair’s perspective. Moving the cursor up drives forward, down reverses, left and right steer, and pushing the cursor further increases speed.\n\nThis “telepathic wheelchair control” is still early stage but aims to restore independent mobility for people with paralysis. Even moving around a room without help is a big step.\n\n📊@tech",
-    "entities": [
-      {
-        "offset": 0,
-        "length": 2,
-        "type": "custom_emoji",
-        "custom_emoji_id": "5431477541590288199"
-      },
-      {
-        "offset": 3,
-        "length": 42,
-        "type": "bold"
-      },
-      {
-        "offset": 47,
-        "length": 9,
-        "type": "bold"
-      },
-      {
-        "offset": 80,
-        "length": 15,
-        "type": "bold"
-      },
-      {
-        "offset": 161,
-        "length": 33,
-        "type": "bold"
-      },
-      {
-        "offset": 265,
-        "length": 22,
-        "type": "bold"
-      },
-      {
-        "offset": 482,
-        "length": 29,
-        "type": "bold"
-      },
-      {
-        "offset": 546,
-        "length": 28,
-        "type": "bold"
-      },
-      {
-        "offset": 657,
-        "length": 2,
-        "type": "bold"
-      },
-      {
-        "offset": 657,
-        "length": 2,
-        "type": "custom_emoji",
-        "custom_emoji_id": "5449841756596101801"
-      },
-      {
-        "offset": 659,
-        "length": 5,
-        "type": "mention"
-      },
-      {
-        "offset": 659,
-        "length": 5,
-        "type": "bold"
-      }
-    ],
-    "media_group_id": null,
-    "chat_id": -1004468214616,
-    "message_ids": [
-      185
-    ],
-    "update_ids": [
-      378304078
-    ],
-    "retry_count": 0
-  },
-  {
     "type": "album",
     "photo_file_ids": [
       "AgACAgQAAyEFAAMBClOLWAADumpnt3AkmAZwqtAerw99uTmEpPQRAAKYDWsbDN84UxVQ1j54gdWCAQADAgADeAADPQQ",
@@ -240,6 +161,145 @@
     ],
     "update_ids": [
       378304083
+    ],
+    "retry_count": 0
+  },
+  {
+    "type": "photo",
+    "photo_file_ids": [
+      "AgACAgIAAyEFAAMBClOLWAADv2poYrj8PPvNyTniZdEjlxi6XFg1AAJBHGsbVmc4S4Ov-mbklbF5AQADAgADeQADPQQ"
+    ],
+    "caption": "🤖 Anthropic launches free Claude Code course\n\nAnthropic released a free course showing real scenarios of Claude Code in action. It teaches how to turn Claude Code into a full AI agent that writes code, works with GitHub, automates routine tasks, uses hooks and skills, and handles long tasks with minimal human control.\n\nThe course has about 15 short lessons and ends with a certificate. It aims to help developers quickly master Claude Code and use it effectively.\n\n📊@tech",
+    "entities": [
+      {
+        "offset": 0,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5208665212483310136"
+      },
+      {
+        "offset": 3,
+        "length": 42,
+        "type": "bold"
+      },
+      {
+        "offset": 47,
+        "length": 21,
+        "type": "bold"
+      },
+      {
+        "offset": 68,
+        "length": 11,
+        "type": "text_link",
+        "url": "https://anthropic.skilljar.com/claude-code-in-action"
+      },
+      {
+        "offset": 68,
+        "length": 11,
+        "type": "bold"
+      },
+      {
+        "offset": 106,
+        "length": 11,
+        "type": "bold"
+      },
+      {
+        "offset": 152,
+        "length": 11,
+        "type": "bold"
+      },
+      {
+        "offset": 337,
+        "length": 22,
+        "type": "bold"
+      },
+      {
+        "offset": 468,
+        "length": 2,
+        "type": "bold"
+      },
+      {
+        "offset": 468,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5449841756596101801"
+      },
+      {
+        "offset": 470,
+        "length": 5,
+        "type": "mention"
+      },
+      {
+        "offset": 470,
+        "length": 5,
+        "type": "bold"
+      }
+    ],
+    "media_group_id": null,
+    "chat_id": -1004468214616,
+    "message_ids": [
+      191
+    ],
+    "update_ids": [
+      378304084
+    ],
+    "retry_count": 0
+  },
+  {
+    "type": "photo",
+    "photo_file_ids": [
+      "AgACAgIAAyEFAAMBClOLWAADvmpoPYZJ_QdW4Qd5wGh7m_nk1RoZAAIZHWsbSSM5S4HRS3g1gZPiAQADAgADeQADPQQ"
+    ],
+    "caption": "A new milestone has been reached in the open source AI space. Open models from China are now outperforming recently released competitors, such as Opus 4.8, just two months after their debut.\n\nKimi K3, now holding the top spot among open weights models at 57 in the Artificial Analysis Intelligence Index, has made its weights publicly available. The 2.6T parameter model, released under the 'Kimi K3 License,' is labeled as 'Commercial Use Restricted.'\n\nThis licensing means businesses offering model-as-a-service solutions with over $20 million in annual revenue must seek additional agreements. Products exceeding 100 million monthly active users or generating $20 million in monthly revenue must clearly display \"Kimi K3\" in their user interface.\n\nA technical report outlining the model's architecture and training methods has also been released.\n\n📰 @aipost",
+    "entities": [
+      {
+        "offset": 851,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5363988332466438547"
+      },
+      {
+        "offset": 854,
+        "length": 7,
+        "type": "mention"
+      }
+    ],
+    "media_group_id": null,
+    "chat_id": -1004468214616,
+    "message_ids": [
+      192
+    ],
+    "update_ids": [
+      378304085
+    ],
+    "retry_count": 0
+  },
+  {
+    "type": "photo",
+    "photo_file_ids": [
+      "AgACAgIAAyEFAAMBClOLWAADwWpoeMglcBiNu4SnfvhxAnMi2vBuAAKUH2sbrqk5S7z9Cc_7dk9jAQADAgADeQADPQQ"
+    ],
+    "caption": "OpenAI research shows that 43.5% of occupation-specific ChatGPT messages from U.S. business users related to tasks typically handled by a different profession. This indicates users are leveraging the model to address specialist work outside their primary field.\n\nFinancial calculations and computer troubleshooting were among the top three most common tasks handled beyond users’ professions in all groups. Marketing-related tasks also appeared frequently across various occupations.\n\nThe data captured messages within ChatGPT Business, not finished work, so it does not measure quality, productivity, or impact on jobs.\n\nResearchers note that, especially in small businesses, employees often solve problems outside their usual roles. AI is emerging as a versatile support tool across different functions.\n\n📰 @aipost",
+    "entities": [
+      {
+        "offset": 807,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5363988332466438547"
+      },
+      {
+        "offset": 810,
+        "length": 7,
+        "type": "mention"
+      }
+    ],
+    "media_group_id": null,
+    "chat_id": -1004468214616,
+    "message_ids": [
+      193
+    ],
+    "update_ids": [
+      378304086
     ],
     "retry_count": 0
   }
