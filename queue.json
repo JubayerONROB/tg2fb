@@ -2,35 +2,6 @@
   {
     "type": "photo",
     "photo_file_ids": [
-      "AgACAgIAAyEFAAMBClOLWAADwWpoeMglcBiNu4SnfvhxAnMi2vBuAAKUH2sbrqk5S7z9Cc_7dk9jAQADAgADeQADPQQ"
-    ],
-    "caption": "OpenAI research shows that 43.5% of occupation-specific ChatGPT messages from U.S. business users related to tasks typically handled by a different profession. This indicates users are leveraging the model to address specialist work outside their primary field.\n\nFinancial calculations and computer troubleshooting were among the top three most common tasks handled beyond users’ professions in all groups. Marketing-related tasks also appeared frequently across various occupations.\n\nThe data captured messages within ChatGPT Business, not finished work, so it does not measure quality, productivity, or impact on jobs.\n\nResearchers note that, especially in small businesses, employees often solve problems outside their usual roles. AI is emerging as a versatile support tool across different functions.\n\n📰 @aipost",
-    "entities": [
-      {
-        "offset": 807,
-        "length": 2,
-        "type": "custom_emoji",
-        "custom_emoji_id": "5363988332466438547"
-      },
-      {
-        "offset": 810,
-        "length": 7,
-        "type": "mention"
-      }
-    ],
-    "media_group_id": null,
-    "chat_id": -1004468214616,
-    "message_ids": [
-      193
-    ],
-    "update_ids": [
-      378304086
-    ],
-    "retry_count": 0
-  },
-  {
-    "type": "photo",
-    "photo_file_ids": [
       "AgACAgQAAyEFAAMBClOLWAADwmpolSTWtWYOa0VyFdMhFgXSmfU9AALpDGsbDN9AU5t2wnNejVLrAQADAgADeQADPQQ"
     ],
     "caption": "🤖 Anthropic explains why it still won’t release frontier open-weight AI models\n\nWhile much of the AI industry is rallying behind open-weight models, Anthropic is holding its ground.\n\nThe company says today’s most powerful AI systems are becoming capable enough that releasing their weights could make it much easier for bad actors to build dangerous cyber, biological, or autonomous attack tools. Instead of full public releases, Anthropic argues for controlled access through APIs, where safety measures can be monitored and updated.\n\nAt the same time, Anthropic says it isn’t against open-weight AI. It supports open research and believes open-weight models have an important role in innovation. The company says it may release open-weight models in the future but only when they can be deployed with what it considers adequate safety protections.\n\n@aipost 🏴",
