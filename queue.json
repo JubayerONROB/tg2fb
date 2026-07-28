@@ -1,44 +1,5 @@
 [
   {
-    "type": "album",
-    "photo_file_ids": [
-      "AgACAgQAAyEFAAMBClOLWAADumpnt3AkmAZwqtAerw99uTmEpPQRAAKYDWsbDN84UxVQ1j54gdWCAQADAgADeAADPQQ",
-      "AgACAgQAAyEFAAMBClOLWAADu2pnt3CPb_bfz9lBX_LhKguiuEcIAAKZDWsbDN84Uzec7DuQh6DuAQADAgADeQADPQQ"
-    ],
-    "caption": "❗️Microsoft says it takes \"18 months to build a data center but 8 years to get a grid connection\" in Britain.\n\nIt was revealed that Britain has just 2GW of data center capacity, a third of America's per person. \n\nThe UK hopes to reach 6GW by 2030 while America targets over 90GW, per The Economist.\n\n@aipost 🏴",
-    "entities": [
-      {
-        "offset": 0,
-        "length": 2,
-        "type": "custom_emoji",
-        "custom_emoji_id": "5289761612440310918"
-      },
-      {
-        "offset": 300,
-        "length": 7,
-        "type": "text_link",
-        "url": "https://t.me/aipost"
-      },
-      {
-        "offset": 308,
-        "length": 2,
-        "type": "custom_emoji",
-        "custom_emoji_id": "5431390559912614642"
-      }
-    ],
-    "media_group_id": "14281456518696165",
-    "chat_id": -1004468214616,
-    "message_ids": [
-      186,
-      187
-    ],
-    "update_ids": [
-      378304079,
-      378304080
-    ],
-    "retry_count": 0
-  },
-  {
     "type": "photo",
     "photo_file_ids": [
       "AgACAgQAAyEFAAMBClOLWAADvGpoNXLIzKLoVXhJOihg7_WmUxqCAAJtDGsbDN9AUyW0t94LnvA4AQADAgADeQADPQQ"
@@ -300,6 +261,47 @@
     ],
     "update_ids": [
       378304086
+    ],
+    "retry_count": 0
+  },
+  {
+    "type": "photo",
+    "photo_file_ids": [
+      "AgACAgQAAyEFAAMBClOLWAADwmpolSTWtWYOa0VyFdMhFgXSmfU9AALpDGsbDN9AU5t2wnNejVLrAQADAgADeQADPQQ"
+    ],
+    "caption": "🤖 Anthropic explains why it still won’t release frontier open-weight AI models\n\nWhile much of the AI industry is rallying behind open-weight models, Anthropic is holding its ground.\n\nThe company says today’s most powerful AI systems are becoming capable enough that releasing their weights could make it much easier for bad actors to build dangerous cyber, biological, or autonomous attack tools. Instead of full public releases, Anthropic argues for controlled access through APIs, where safety measures can be monitored and updated.\n\nAt the same time, Anthropic says it isn’t against open-weight AI. It supports open research and believes open-weight models have an important role in innovation. The company says it may release open-weight models in the future but only when they can be deployed with what it considers adequate safety protections.\n\n@aipost 🏴",
+    "entities": [
+      {
+        "offset": 0,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5208665212483310136"
+      },
+      {
+        "offset": 3,
+        "length": 76,
+        "type": "bold"
+      },
+      {
+        "offset": 852,
+        "length": 7,
+        "type": "text_link",
+        "url": "https://t.me/aipost"
+      },
+      {
+        "offset": 860,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5431390559912614642"
+      }
+    ],
+    "media_group_id": null,
+    "chat_id": -1004468214616,
+    "message_ids": [
+      194
+    ],
+    "update_ids": [
+      378304087
     ],
     "retry_count": 0
   }
