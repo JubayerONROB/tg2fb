@@ -1,57 +1,5 @@
 [
   {
-    "type": "photo",
-    "photo_file_ids": [
-      "AgACAgQAAyEFAAMBClOLWAADtWpnXzaLgubt3VcSeHGH5AABeeMl3AACkg1rGwzfOFNz41ggAxkAAT8BAAMCAAN5AAM9BA"
-    ],
-    "caption": "❗️Satya Nadella just picked a side in AI’s biggest debate.\n\nMicrosoft says open-weight AI models are critical to keeping America competitive.\n\nHere’s why:\n\nIf only a handful of companies own the most powerful AI models, they also control the prices, access, infrastructure, and ultimately the future of AI.\n\nOpen-weight models flip that equation.\n\nDevelopers can download them, customize them, run them on their own hardware, and build products without relying on a single AI provider.\n\nOf course, that comes with security risks.\n\nBut Microsoft argues that putting the future of AI in the hands of just a few closed labs could be an even greater danger.\n\nSource.\n\n@aipost 🏴",
-    "entities": [
-      {
-        "offset": 0,
-        "length": 2,
-        "type": "custom_emoji",
-        "custom_emoji_id": "5289761612440310918"
-      },
-      {
-        "offset": 2,
-        "length": 56,
-        "type": "bold"
-      },
-      {
-        "offset": 143,
-        "length": 11,
-        "type": "bold"
-      },
-      {
-        "offset": 655,
-        "length": 6,
-        "type": "text_link",
-        "url": "https://www.microsoft.com/en-us/corporate-responsibility/topics/open-weight/"
-      },
-      {
-        "offset": 664,
-        "length": 7,
-        "type": "text_link",
-        "url": "https://t.me/aipost"
-      },
-      {
-        "offset": 672,
-        "length": 2,
-        "type": "custom_emoji",
-        "custom_emoji_id": "5431390559912614642"
-      }
-    ],
-    "media_group_id": null,
-    "chat_id": -1004468214616,
-    "message_ids": [
-      181
-    ],
-    "update_ids": [
-      378304074
-    ],
-    "retry_count": 0
-  },
-  {
     "type": "album",
     "photo_file_ids": [
       "AgACAgIAAyEFAAMBClOLWAADtmpnk8LIC4Mps4sEWXVJolSecwPgAALYG2sbSSM5S1a9zkpBx2DsAQADAgADeQADPQQ",
