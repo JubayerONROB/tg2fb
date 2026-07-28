@@ -1,40 +1,5 @@
 [
   {
-    "type": "album",
-    "photo_file_ids": [
-      "AgACAgIAAyEFAAMBClOLWAADtmpnk8LIC4Mps4sEWXVJolSecwPgAALYG2sbSSM5S1a9zkpBx2DsAQADAgADeQADPQQ",
-      "AgACAgIAAyEFAAMBClOLWAADt2pnk8KbE6lFgXppKA1i_EXwRJWwAALlG2sbSSM5S0cQtXv7I0lKAQADAgADeQADPQQ",
-      "AgACAgIAAyEFAAMBClOLWAADuGpnk8KFwp_i_7GjKAltUKdHfMmRAALZG2sbSSM5S6ykPD2CzgLrAQADAgADeQADPQQ"
-    ],
-    "caption": "China has launched production of deep ultraviolet (DUV) lithography machines for the first time.\n\nAccording to available information, the country plans to produce five DUV units this year and increase output to 20 units in the following year. DUV lithography is key for advanced semiconductor manufacturing, a sector historically dominated by ASML, which previously held an effective monopoly.\n\nThe announcement has had an immediate impact on global chip equipment stocks. ASML shares dropped by 8.3%, ASM International by 7.3%, BE Semiconductor by 9.9%, Applied Materials by 6.7%, and Lam Research by 7.9%.\n\n📰 @aipost",
-    "entities": [
-      {
-        "offset": 609,
-        "length": 2,
-        "type": "custom_emoji",
-        "custom_emoji_id": "5363988332466438547"
-      },
-      {
-        "offset": 612,
-        "length": 7,
-        "type": "mention"
-      }
-    ],
-    "media_group_id": "14281383441458717",
-    "chat_id": -1004468214616,
-    "message_ids": [
-      182,
-      183,
-      184
-    ],
-    "update_ids": [
-      378304075,
-      378304076,
-      378304077
-    ],
-    "retry_count": 0
-  },
-  {
     "type": "video",
     "video_file_id": "BAACAgIAAyEFAAMBClOLWAADuWpnk97ISr6T0UYC9lAPaz92j4geAAJ0mwAC9zEZS5BVXhDqttbhPQQ",
     "video_file_size": 13918305,
@@ -149,6 +114,132 @@
     "update_ids": [
       378304079,
       378304080
+    ],
+    "retry_count": 0
+  },
+  {
+    "type": "photo",
+    "photo_file_ids": [
+      "AgACAgQAAyEFAAMBClOLWAADvGpoNXLIzKLoVXhJOihg7_WmUxqCAAJtDGsbDN9AUyW0t94LnvA4AQADAgADeQADPQQ"
+    ],
+    "caption": "🇨🇳🇺🇸Beijing is hitting back at Washington’s threats to investigate and punish Chinese AI firms...\n\nChina’s Commerce Ministry labeled the U.S. approach as “AI hegemonism” and warned it will take all necessary countermeasures if restrictions are imposed.\n\nThe dispute centers on allegations that companies like Moonshot AI improperly extracted advanced American AI models to power their own systems.\n\nChinese authorities and the companies reject these accusations, insisting their advances are the result of independent research and innovation.\n\n@aipost 🏴",
+    "entities": [
+      {
+        "offset": 0,
+        "length": 4,
+        "type": "bold"
+      },
+      {
+        "offset": 0,
+        "length": 4,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5431782733376399004"
+      },
+      {
+        "offset": 4,
+        "length": 4,
+        "type": "bold"
+      },
+      {
+        "offset": 4,
+        "length": 4,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5202021044105257611"
+      },
+      {
+        "offset": 8,
+        "length": 93,
+        "type": "bold"
+      },
+      {
+        "offset": 548,
+        "length": 7,
+        "type": "text_link",
+        "url": "https://t.me/aipost"
+      },
+      {
+        "offset": 556,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5431390559912614642"
+      }
+    ],
+    "media_group_id": null,
+    "chat_id": -1004468214616,
+    "message_ids": [
+      188
+    ],
+    "update_ids": [
+      378304081
+    ],
+    "retry_count": 0
+  },
+  {
+    "type": "video",
+    "video_file_id": "BAACAgQAAyEFAAMBClOLWAADvWpoNZ7_7C41sZYWSZCM5hvAhKWDAAKxGwACDN84U_NTheSlqnNxPQQ",
+    "video_file_size": 21675368,
+    "caption": "🧠 Demis Hassabis says DeepMind had no choice but to sell.\n\nBefore AI became a trillion-dollar race, DeepMind was struggling to survive. Demis Hassabis says he realized staying independent would require $7 billion in funding.\n\nThe problem? They could barely raise $10 million at a time. After DeepMind’s breakthrough Atari demos, Big Tech started aggressively recruiting its researchers.\n\nThey had no product, no revenue, and were focused entirely on building AGI. Hassabis says he paid himself nothing, while engineers earning around $100,000 a year were suddenly receiving offers of $10 million… or even $50 million annually.\n\nAt that point, competing as an independent company became almost impossible. That’s why DeepMind joined Google in 2014. Looking back, it wasn’t just a business decision.\n\nIt was a reminder that building frontier AI has always been as much about capital and talent as it is about breakthrough research.\n\n@aipost 🏴",
+    "entities": [
+      {
+        "offset": 0,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5895617412975299964"
+      },
+      {
+        "offset": 3,
+        "length": 55,
+        "type": "bold"
+      },
+      {
+        "offset": 932,
+        "length": 7,
+        "type": "text_link",
+        "url": "https://t.me/aipost"
+      },
+      {
+        "offset": 940,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5431390559912614642"
+      }
+    ],
+    "media_group_id": null,
+    "chat_id": -1004468214616,
+    "message_ids": [
+      189
+    ],
+    "update_ids": [
+      378304082
+    ],
+    "retry_count": 0
+  },
+  {
+    "type": "photo",
+    "photo_file_ids": [
+      "AgACAgIAAyEFAAMBClOLWAADvmpoPYZJ_QdW4Qd5wGh7m_nk1RoZAAIZHWsbSSM5S4HRS3g1gZPiAQADAgADeQADPQQ"
+    ],
+    "caption": "A new milestone has been reached in the open source AI space. Open models from China are now outperforming recently released competitors, such as Opus 4.8, just two months after their debut.\n\nKimi K3, now holding the top spot among open weights models at 57 in the Artificial Analysis Intelligence Index, has made its weights publicly available. The 2.6T parameter model, released under the 'Kimi K3 License,' is labeled as 'Commercial Use Restricted.'\n\nThis licensing means businesses offering model-as-a-service solutions with over $20 million in annual revenue must seek additional agreements. Products exceeding 100 million monthly active users or generating $20 million in monthly revenue must clearly display \"Kimi K3\" in their user interface.\n\nA technical report outlining the model's architecture and training methods has also been released.\n\n📰 @aipost",
+    "entities": [
+      {
+        "offset": 851,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5363988332466438547"
+      },
+      {
+        "offset": 854,
+        "length": 7,
+        "type": "mention"
+      }
+    ],
+    "media_group_id": null,
+    "chat_id": -1004468214616,
+    "message_ids": [
+      190
+    ],
+    "update_ids": [
+      378304083
     ],
     "retry_count": 0
   }
