@@ -1,85 +1,5 @@
 [
   {
-    "type": "photo",
-    "photo_file_ids": [
-      "AgACAgIAAyEFAAMBClOLWAADzWpp9C769SkI-YBWtxsO_q6w58qEAAI5G2sbMaZBS4x9tt9dcwQcAQADAgADeQADPQQ"
-    ],
-    "caption": "🖥 Microsoft launches AI for code vulnerability detection\n\nMicrosoft integrated MAI-Cyber-1-Flash into MDASH, an AI agent system that finds, verifies, and helps fix vulnerabilities in large codebases. The lightweight model handles up to 90% of tasks, while the toughest 10% go to GPT-5.4, speeding up protection and cutting costs.\n\nThe MAI-Cyber-1-Flash and GPT-5.4 combo scored 96% on CyberGym, 12 points above Mythos and better than Gemini and standalone GPT models. This setup also halves the cost compared to Microsoft’s previous system using GPT-5.4, GPT-5.4 mini, and GPT-5.3 Codex.\n\n📊@tech",
-    "entities": [
-      {
-        "offset": 0,
-        "length": 2,
-        "type": "custom_emoji",
-        "custom_emoji_id": "5433621112523077530"
-      },
-      {
-        "offset": 3,
-        "length": 54,
-        "type": "bold"
-      },
-      {
-        "offset": 80,
-        "length": 17,
-        "type": "bold"
-      },
-      {
-        "offset": 103,
-        "length": 5,
-        "type": "bold"
-      },
-      {
-        "offset": 280,
-        "length": 7,
-        "type": "bold"
-      },
-      {
-        "offset": 336,
-        "length": 29,
-        "type": "bold"
-      },
-      {
-        "offset": 379,
-        "length": 15,
-        "type": "bold"
-      },
-      {
-        "offset": 485,
-        "length": 15,
-        "type": "bold"
-      },
-      {
-        "offset": 590,
-        "length": 2,
-        "type": "bold"
-      },
-      {
-        "offset": 590,
-        "length": 2,
-        "type": "custom_emoji",
-        "custom_emoji_id": "5449841756596101801"
-      },
-      {
-        "offset": 592,
-        "length": 5,
-        "type": "mention"
-      },
-      {
-        "offset": 592,
-        "length": 5,
-        "type": "bold"
-      }
-    ],
-    "media_group_id": null,
-    "chat_id": -1004468214616,
-    "message_ids": [
-      205
-    ],
-    "update_ids": [
-      378304098
-    ],
-    "retry_count": 0
-  },
-  {
     "type": "album",
     "photo_file_ids": [
       "AgACAgQAAyEFAAMBClOLWAADzmpqGt0tMV26YrP_0RyLBXHIAydzAALLDWsbaMdQU4FbGViFIdPCAQADAgADeAADPQQ",
@@ -224,6 +144,46 @@
     ],
     "update_ids": [
       378304102
+    ],
+    "retry_count": 0
+  },
+  {
+    "type": "video",
+    "video_file_id": "BAACAgQAAyEFAAMBClOLWAAD0mpqcWQi3BXvZuLmE7RM-SV352GhAAIyHAACaMdQUwybJd4lkymqPQQ",
+    "video_file_size": 7762490,
+    "caption": "🤖 ChatGPT just became a lot more personal with Health mode\n\nOpenAI has launched Health mode, allowing ChatGPT to connect with your Apple Health data and medical records to provide answers based on your actual health information, not just general advice.\n\nUsers can link Apple Health, One Medical, or Function Health to share blood tests, medications, doctor visits, sleep, workouts, and other health data. ChatGPT can then compare test results over time, explain medical terms, and even recommend allergy-safe restaurants based on your profile.\n\nOpenAI says around 300 million people ask ChatGPT health questions every week, with most conversations starting outside dedicated health chats. Health mode brings that context directly into everyday conversations.\n\nFree users get GPT-5.5 Instant, which can recognize when it’s time to see a real doctor. Paid users get GPT-5.6 Sol, offering deeper analysis and more detailed explanations for complex health questions.\n\n@aipost 🏴",
+    "entities": [
+      {
+        "offset": 0,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5397681122542893003"
+      },
+      {
+        "offset": 3,
+        "length": 56,
+        "type": "bold"
+      },
+      {
+        "offset": 966,
+        "length": 7,
+        "type": "text_link",
+        "url": "https://t.me/aipost"
+      },
+      {
+        "offset": 974,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5431390559912614642"
+      }
+    ],
+    "media_group_id": null,
+    "chat_id": -1004468214616,
+    "message_ids": [
+      210
+    ],
+    "update_ids": [
+      378304103
     ],
     "retry_count": 0
   }
