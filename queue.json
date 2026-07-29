@@ -2,35 +2,6 @@
   {
     "type": "photo",
     "photo_file_ids": [
-      "AgACAgIAAyEFAAMBClOLWAADy2ppyoi_rR0-bW5yXs3QBY2ejTwbAAIZIGsbUaNISxF6jTrQv1M4AQADAgADeAADPQQ"
-    ],
-    "caption": "Mark Zuckerberg has published an article in The Wall Street Journal discussing concerns about superintelligent systems.\n\nHe warns that if just a few institutions hold highly advanced AI, they could gain disproportionate economic and political power. According to Zuckerberg, history shows that trusting a single powerful entity to act benevolently rarely produces safe or beneficial results.\n\nZuckerberg uses the example of one individual possessing a superintelligent lawyer. This scenario, he suggests, would create significant courtroom advantages even if the individual's case lacked merit, ultimately resulting in a less fair society.\n\nHe states that the future should benefit everyone and indicates plans to share further ideas on a positive path forward for superintelligence.\n\n📰 @aipost",
-    "entities": [
-      {
-        "offset": 785,
-        "length": 2,
-        "type": "custom_emoji",
-        "custom_emoji_id": "5363988332466438547"
-      },
-      {
-        "offset": 788,
-        "length": 7,
-        "type": "mention"
-      }
-    ],
-    "media_group_id": null,
-    "chat_id": -1004468214616,
-    "message_ids": [
-      203
-    ],
-    "update_ids": [
-      378304096
-    ],
-    "retry_count": 0
-  },
-  {
-    "type": "photo",
-    "photo_file_ids": [
       "AgACAgIAAyEFAAMBClOLWAADzGpp8_rLHe18nrLu6M3PFpw2BDxdAAJxGmsbUaNQS_3cFgQx9HB3AQADAgADeAADPQQ"
     ],
     "caption": "A group of 1,132 employees from major AI laboratories—including senior staff at OpenAI, Anthropic, Google, and Meta—have issued a warning about the risks of rapid, automated AI research. They state that accelerating AI development could push technological progress beyond the control of any individual or organization.\n\nThese experts are urging the United States government to establish coordinated technical and political measures with other nations. Their proposal calls for mechanisms capable of slowing AI advances intentionally, as no company or state is likely to step back from aggressive research on its own.\n\nThe group notes that current trends suggest technology may soon progress at a scale and speed that exceeds human understanding. They stress the importance of global cooperation and state that participation from China is essential for any effective response.\n\n📰 @aipost",
@@ -242,6 +213,46 @@
     ],
     "update_ids": [
       378304101
+    ],
+    "retry_count": 0
+  },
+  {
+    "type": "video",
+    "video_file_id": "BAACAgQAAyEFAAMBClOLWAAD0WpqPyZCa4Bq94Dnvtwmd-8oZ351AAImHAACaMdQU4cgMnEZw6SyPQQ",
+    "video_file_size": 11668857,
+    "caption": "🤖 Grok can now build and publish apps from a single prompt\n\nDescribe an idea, and Grok will generate a working web app, publish it, and give it its own domain, all in minutes.\n\nThe new Build Mode works on the web, iPhone, and Android. Behind the scenes, Grok uses a coding agent with specialized subagents, browser tools, and Grok Imagine for image generation.\n\nYou can build dashboards, productivity tools, games, and other web apps, then keep them on a Grok domain, connect your own custom domain, or export the full source code to GitHub.\n\nFor now, Build Mode is available exclusively to SuperGrok Heavy subscribers.\n\n@aipost 🏴",
+    "entities": [
+      {
+        "offset": 0,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5208963802904693870"
+      },
+      {
+        "offset": 3,
+        "length": 56,
+        "type": "bold"
+      },
+      {
+        "offset": 622,
+        "length": 7,
+        "type": "text_link",
+        "url": "https://t.me/aipost"
+      },
+      {
+        "offset": 630,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5431390559912614642"
+      }
+    ],
+    "media_group_id": null,
+    "chat_id": -1004468214616,
+    "message_ids": [
+      209
+    ],
+    "update_ids": [
+      378304102
     ],
     "retry_count": 0
   }
