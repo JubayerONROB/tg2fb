@@ -1,38 +1,5 @@
 [
   {
-    "type": "album",
-    "photo_file_ids": [
-      "AgACAgQAAyEFAAMBClOLWAADxGpoxvn7ChKVa55ZLdX2DteAuNYQAAKDDWsbDN9AU2Q3Yrt_0HtkAQADAgADeQADPQQ",
-      "AgACAgQAAyEFAAMBClOLWAADxWpoxvlQUv8uDgk-KZcCWPi2ShssAAKEDWsbDN9AU1Ja1pshmOrcAQADAgADeQADPQQ"
-    ],
-    "caption": "Elon Musk says Neuralink will eliminate the need for sleep by 2028.\n\n@aipost 🏴",
-    "entities": [
-      {
-        "offset": 69,
-        "length": 7,
-        "type": "text_link",
-        "url": "https://t.me/aipost"
-      },
-      {
-        "offset": 77,
-        "length": 2,
-        "type": "custom_emoji",
-        "custom_emoji_id": "5431390559912614642"
-      }
-    ],
-    "media_group_id": "14282012616210981",
-    "chat_id": -1004468214616,
-    "message_ids": [
-      196,
-      197
-    ],
-    "update_ids": [
-      378304089,
-      378304090
-    ],
-    "retry_count": 0
-  },
-  {
     "type": "photo",
     "photo_file_ids": [
       "AgACAgQAAyEFAAMBClOLWAADxmpo4xQUSR7TnjymLQY-F_JTsRnxAALHDWsbDN9AU2eE1y0VQd6tAQADAgADeAADPQQ"
