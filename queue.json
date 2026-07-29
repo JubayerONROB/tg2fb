@@ -2,52 +2,6 @@
   {
     "type": "photo",
     "photo_file_ids": [
-      "AgACAgQAAyEFAAMBClOLWAADxmpo4xQUSR7TnjymLQY-F_JTsRnxAALHDWsbDN9AU2eE1y0VQd6tAQADAgADeAADPQQ"
-    ],
-    "caption": "⚡️Microsoft’s new AI cybersecurity system just hit a 96% score on CyberGym.\n\nThat’s 12 points higher than Anthropic’s Mythos while costing roughly half as much as Microsoft’s previous system.\n\nThe secret? Microsoft didn’t rely on one giant AI model.\n\nInstead:\n\n• MAI-Cyber-1-Flash handles about 90% of security tasks.\n• Only the toughest 10% are escalated to GPT-5.4.\n\nBehind the scenes, a system called MDASH orchestrates 100+ specialized AI agents that:\n\n• Search code for vulnerabilities\n• Investigate and debate whether issues are real\n• Remove duplicate findings\n• Test whether bugs are actually exploitable\n• Gather evidence before reporting results\n\n@aipost 🏴",
-    "entities": [
-      {
-        "offset": 0,
-        "length": 2,
-        "type": "custom_emoji",
-        "custom_emoji_id": "5366360391364412817"
-      },
-      {
-        "offset": 2,
-        "length": 73,
-        "type": "bold"
-      },
-      {
-        "offset": 251,
-        "length": 8,
-        "type": "bold"
-      },
-      {
-        "offset": 657,
-        "length": 7,
-        "type": "text_link",
-        "url": "https://t.me/aipost"
-      },
-      {
-        "offset": 665,
-        "length": 2,
-        "type": "custom_emoji",
-        "custom_emoji_id": "5431390559912614642"
-      }
-    ],
-    "media_group_id": null,
-    "chat_id": -1004468214616,
-    "message_ids": [
-      198
-    ],
-    "update_ids": [
-      378304091
-    ],
-    "retry_count": 0
-  },
-  {
-    "type": "photo",
-    "photo_file_ids": [
       "AgACAgQAAyEFAAMBClOLWAADx2ppI01hbsfT3jeDx2-Ps7IJCky1AALeD2sbaMdIUxU0vYkZbM5wAQADAgADeAADPQQ"
     ],
     "caption": "❗️Plot twist: AI isn’t replacing as many workers as companies expected.\n\nFor the last year, the message was everywhere: AI agents are coming, jobs are disappearing, and companies are preparing for a much smaller workforce. Now… some of those same companies are quietly hiring again.\n\nWhy? Because they discovered something that sounds obvious in hindsight: an AI agent doesn’t replace an employee, it replaces pieces of what that employee does.\n\nA coding AI still needs engineers to tell it what to build, review its code, and fix what it gets wrong.\n\nA sales AI still can’t build trust, read a room, or close every deal. And when AI makes a mistake, guess who gets the phone call? A human.\n\nThat’s why companies like Alphabet, Booz Allen, ServiceNow, and even CSX are expanding hiring in key areas instead of shrinking them.\n\nThis doesn’t mean the AI job revolution is over. Routine work will continue to disappear, and many roles will change dramatically.\n\nBut the companies using AI at scale are learning that the winning strategy isn’t replacing people. It’s pairing the right people with the right AI.\n\n@aipost 🏴",
@@ -83,6 +37,142 @@
     ],
     "update_ids": [
       378304092
+    ],
+    "retry_count": 0
+  },
+  {
+    "type": "album",
+    "photo_file_ids": [
+      "AgACAgQAAyEFAAMBClOLWAADyGppo_FGq4uag-av4Fd6CtzRuXziAALiD2sbaMdIUwwdIDMQSOFEAQADAgADeAADPQQ",
+      "AgACAgQAAyEFAAMBClOLWAADyWppo_EXlmfAZYKE9ovau6pbGx24AALjD2sbaMdIU0s8HlmB64Y_AQADAgADeQADPQQ"
+    ],
+    "caption": "Georgia residents are outraged over an OpenAI $20 billion data center they had no say in\n\nHundreds of residents packed an open house meeting, while a petition collected over 15,000 signatures\n\n@aipost 🏴",
+    "entities": [
+      {
+        "offset": 193,
+        "length": 7,
+        "type": "text_link",
+        "url": "https://t.me/aipost"
+      },
+      {
+        "offset": 201,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5431390559912614642"
+      }
+    ],
+    "media_group_id": "14282465163744381",
+    "chat_id": -1004468214616,
+    "message_ids": [
+      200,
+      201
+    ],
+    "update_ids": [
+      378304093,
+      378304094
+    ],
+    "retry_count": 0
+  },
+  {
+    "type": "video",
+    "video_file_id": "BAACAgIAAyEFAAMBClOLWAADympprvMt3Bom7oovTp4JYWw5A49ZAAI-pgACMaZJSxrvhRtsdQVRPQQ",
+    "video_file_size": 12818803,
+    "caption": "🤖 Grok launches Build Mode for instant apps\n\nGrok introduced Build Mode, letting users describe an idea and get a ready app published with its own  domain. This works on Grok’s site, iPhone, or Android.\n\nThe system uses Grok Build, a coding agent with subagents, browser tools, and image generation via Grok Imagine. Apps can be dashboards, productivity tools, games, or other web apps.\n\nUsers can keep the app on a domain, link a custom domain, or export the source code to GitHub. Build Mode is available now for SuperGrok Heavy users.\n\n📊@tech",
+    "entities": [
+      {
+        "offset": 0,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5397681122542893003"
+      },
+      {
+        "offset": 3,
+        "length": 41,
+        "type": "bold"
+      },
+      {
+        "offset": 62,
+        "length": 10,
+        "type": "bold"
+      },
+      {
+        "offset": 148,
+        "length": 7,
+        "type": "bold"
+      },
+      {
+        "offset": 221,
+        "length": 10,
+        "type": "bold"
+      },
+      {
+        "offset": 304,
+        "length": 12,
+        "type": "bold"
+      },
+      {
+        "offset": 516,
+        "length": 15,
+        "type": "bold"
+      },
+      {
+        "offset": 540,
+        "length": 2,
+        "type": "bold"
+      },
+      {
+        "offset": 540,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5449841756596101801"
+      },
+      {
+        "offset": 542,
+        "length": 5,
+        "type": "mention"
+      },
+      {
+        "offset": 542,
+        "length": 5,
+        "type": "bold"
+      }
+    ],
+    "media_group_id": null,
+    "chat_id": -1004468214616,
+    "message_ids": [
+      202
+    ],
+    "update_ids": [
+      378304095
+    ],
+    "retry_count": 0
+  },
+  {
+    "type": "photo",
+    "photo_file_ids": [
+      "AgACAgIAAyEFAAMBClOLWAADy2ppyoi_rR0-bW5yXs3QBY2ejTwbAAIZIGsbUaNISxF6jTrQv1M4AQADAgADeAADPQQ"
+    ],
+    "caption": "Mark Zuckerberg has published an article in The Wall Street Journal discussing concerns about superintelligent systems.\n\nHe warns that if just a few institutions hold highly advanced AI, they could gain disproportionate economic and political power. According to Zuckerberg, history shows that trusting a single powerful entity to act benevolently rarely produces safe or beneficial results.\n\nZuckerberg uses the example of one individual possessing a superintelligent lawyer. This scenario, he suggests, would create significant courtroom advantages even if the individual's case lacked merit, ultimately resulting in a less fair society.\n\nHe states that the future should benefit everyone and indicates plans to share further ideas on a positive path forward for superintelligence.\n\n📰 @aipost",
+    "entities": [
+      {
+        "offset": 785,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5363988332466438547"
+      },
+      {
+        "offset": 788,
+        "length": 7,
+        "type": "mention"
+      }
+    ],
+    "media_group_id": null,
+    "chat_id": -1004468214616,
+    "message_ids": [
+      203
+    ],
+    "update_ids": [
+      378304096
     ],
     "retry_count": 0
   }
