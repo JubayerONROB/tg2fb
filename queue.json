@@ -2,35 +2,6 @@
   {
     "type": "photo",
     "photo_file_ids": [
-      "AgACAgIAAyEFAAMBClOLWAADzGpp8_rLHe18nrLu6M3PFpw2BDxdAAJxGmsbUaNQS_3cFgQx9HB3AQADAgADeAADPQQ"
-    ],
-    "caption": "A group of 1,132 employees from major AI laboratories—including senior staff at OpenAI, Anthropic, Google, and Meta—have issued a warning about the risks of rapid, automated AI research. They state that accelerating AI development could push technological progress beyond the control of any individual or organization.\n\nThese experts are urging the United States government to establish coordinated technical and political measures with other nations. Their proposal calls for mechanisms capable of slowing AI advances intentionally, as no company or state is likely to step back from aggressive research on its own.\n\nThe group notes that current trends suggest technology may soon progress at a scale and speed that exceeds human understanding. They stress the importance of global cooperation and state that participation from China is essential for any effective response.\n\n📰 @aipost",
-    "entities": [
-      {
-        "offset": 877,
-        "length": 2,
-        "type": "custom_emoji",
-        "custom_emoji_id": "5363988332466438547"
-      },
-      {
-        "offset": 880,
-        "length": 7,
-        "type": "mention"
-      }
-    ],
-    "media_group_id": null,
-    "chat_id": -1004468214616,
-    "message_ids": [
-      204
-    ],
-    "update_ids": [
-      378304097
-    ],
-    "retry_count": 0
-  },
-  {
-    "type": "photo",
-    "photo_file_ids": [
       "AgACAgIAAyEFAAMBClOLWAADzWpp9C769SkI-YBWtxsO_q6w58qEAAI5G2sbMaZBS4x9tt9dcwQcAQADAgADeQADPQQ"
     ],
     "caption": "🖥 Microsoft launches AI for code vulnerability detection\n\nMicrosoft integrated MAI-Cyber-1-Flash into MDASH, an AI agent system that finds, verifies, and helps fix vulnerabilities in large codebases. The lightweight model handles up to 90% of tasks, while the toughest 10% go to GPT-5.4, speeding up protection and cutting costs.\n\nThe MAI-Cyber-1-Flash and GPT-5.4 combo scored 96% on CyberGym, 12 points above Mythos and better than Gemini and standalone GPT models. This setup also halves the cost compared to Microsoft’s previous system using GPT-5.4, GPT-5.4 mini, and GPT-5.3 Codex.\n\n📊@tech",
