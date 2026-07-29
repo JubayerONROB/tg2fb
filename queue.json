@@ -1,79 +1,5 @@
 [
   {
-    "type": "video",
-    "video_file_id": "BAACAgIAAyEFAAMBClOLWAADympprvMt3Bom7oovTp4JYWw5A49ZAAI-pgACMaZJSxrvhRtsdQVRPQQ",
-    "video_file_size": 12818803,
-    "caption": "🤖 Grok launches Build Mode for instant apps\n\nGrok introduced Build Mode, letting users describe an idea and get a ready app published with its own  domain. This works on Grok’s site, iPhone, or Android.\n\nThe system uses Grok Build, a coding agent with subagents, browser tools, and image generation via Grok Imagine. Apps can be dashboards, productivity tools, games, or other web apps.\n\nUsers can keep the app on a domain, link a custom domain, or export the source code to GitHub. Build Mode is available now for SuperGrok Heavy users.\n\n📊@tech",
-    "entities": [
-      {
-        "offset": 0,
-        "length": 2,
-        "type": "custom_emoji",
-        "custom_emoji_id": "5397681122542893003"
-      },
-      {
-        "offset": 3,
-        "length": 41,
-        "type": "bold"
-      },
-      {
-        "offset": 62,
-        "length": 10,
-        "type": "bold"
-      },
-      {
-        "offset": 148,
-        "length": 7,
-        "type": "bold"
-      },
-      {
-        "offset": 221,
-        "length": 10,
-        "type": "bold"
-      },
-      {
-        "offset": 304,
-        "length": 12,
-        "type": "bold"
-      },
-      {
-        "offset": 516,
-        "length": 15,
-        "type": "bold"
-      },
-      {
-        "offset": 540,
-        "length": 2,
-        "type": "bold"
-      },
-      {
-        "offset": 540,
-        "length": 2,
-        "type": "custom_emoji",
-        "custom_emoji_id": "5449841756596101801"
-      },
-      {
-        "offset": 542,
-        "length": 5,
-        "type": "mention"
-      },
-      {
-        "offset": 542,
-        "length": 5,
-        "type": "bold"
-      }
-    ],
-    "media_group_id": null,
-    "chat_id": -1004468214616,
-    "message_ids": [
-      202
-    ],
-    "update_ids": [
-      378304095
-    ],
-    "retry_count": 0
-  },
-  {
     "type": "photo",
     "photo_file_ids": [
       "AgACAgIAAyEFAAMBClOLWAADy2ppyoi_rR0-bW5yXs3QBY2ejTwbAAIZIGsbUaNISxF6jTrQv1M4AQADAgADeAADPQQ"
@@ -208,6 +134,114 @@
     ],
     "update_ids": [
       378304098
+    ],
+    "retry_count": 0
+  },
+  {
+    "type": "album",
+    "photo_file_ids": [
+      "AgACAgQAAyEFAAMBClOLWAADzmpqGt0tMV26YrP_0RyLBXHIAydzAALLDWsbaMdQU4FbGViFIdPCAQADAgADeAADPQQ",
+      "AgACAgQAAyEFAAMBClOLWAADz2pqGt36L7Sa8qa-IEU8yCQGEr60AALMDWsbaMdQU5RaPe4HKyX5AQADAgADeAADPQQ"
+    ],
+    "caption": "🇺🇸 The Pentagon is building AI data centers on at least a dozen military bases across the US.\n\nThe Army and Air Force are opening federal land to commercial developers in exchange for access to computing power.\n\nFort Bliss in Texas will host the Pentagon's first ever hyperscale data center.\n\n@aipost 🏴",
+    "entities": [
+      {
+        "offset": 0,
+        "length": 4,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5202021044105257611"
+      },
+      {
+        "offset": 295,
+        "length": 7,
+        "type": "text_link",
+        "url": "https://t.me/aipost"
+      },
+      {
+        "offset": 303,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5431390559912614642"
+      }
+    ],
+    "media_group_id": "14282708715512205",
+    "chat_id": -1004468214616,
+    "message_ids": [
+      206,
+      207
+    ],
+    "update_ids": [
+      378304099,
+      378304100
+    ],
+    "retry_count": 0
+  },
+  {
+    "type": "video",
+    "video_file_id": "BAACAgIAAyEFAAMBClOLWAAD0GpqJptIGANQIdC8mcSUUIpiRoNnAALCmgACQYFQS4SuTvFRnxB8PQQ",
+    "video_file_size": 336027,
+    "caption": "🔍 Google Pixel 11 lineup details leak\n\nGoogle plans to launch four Pixel 11 models: Pixel 11, 11 Pro, 11 Pro XL, and 11 Pro Fold. Screen sizes and resolutions remain similar to the previous generation, but brightness will increase to 3100 nits on the base model and 3600 nits on Pro versions. The foldable model features dual screens with 3600 nits outside and 3500 nits inside.\n\nThe Pixel 11 series runs on the new Tensor G6 chip built on a 2nm TSMC process, featuring a seven-core CPU with an ARM C1-Ultra core at 4.11 GHz, PowerVR graphics, Titan M3 security chip, and MediaTek M90 modem. Storage starts at 256 GB, eliminating the 128 GB option and raising the entry price to match last year's 256 GB model.\n\n📊@tech",
+    "entities": [
+      {
+        "offset": 0,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5431644246450908867"
+      },
+      {
+        "offset": 3,
+        "length": 35,
+        "type": "bold"
+      },
+      {
+        "offset": 85,
+        "length": 44,
+        "type": "bold"
+      },
+      {
+        "offset": 207,
+        "length": 85,
+        "type": "bold"
+      },
+      {
+        "offset": 417,
+        "length": 42,
+        "type": "bold"
+      },
+      {
+        "offset": 593,
+        "length": 24,
+        "type": "bold"
+      },
+      {
+        "offset": 713,
+        "length": 2,
+        "type": "bold"
+      },
+      {
+        "offset": 713,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5449841756596101801"
+      },
+      {
+        "offset": 715,
+        "length": 5,
+        "type": "mention"
+      },
+      {
+        "offset": 715,
+        "length": 5,
+        "type": "bold"
+      }
+    ],
+    "media_group_id": null,
+    "chat_id": -1004468214616,
+    "message_ids": [
+      208
+    ],
+    "update_ids": [
+      378304101
     ],
     "retry_count": 0
   }
