@@ -1,44 +1,5 @@
 [
   {
-    "type": "album",
-    "photo_file_ids": [
-      "AgACAgQAAyEFAAMBClOLWAADzmpqGt0tMV26YrP_0RyLBXHIAydzAALLDWsbaMdQU4FbGViFIdPCAQADAgADeAADPQQ",
-      "AgACAgQAAyEFAAMBClOLWAADz2pqGt36L7Sa8qa-IEU8yCQGEr60AALMDWsbaMdQU5RaPe4HKyX5AQADAgADeAADPQQ"
-    ],
-    "caption": "🇺🇸 The Pentagon is building AI data centers on at least a dozen military bases across the US.\n\nThe Army and Air Force are opening federal land to commercial developers in exchange for access to computing power.\n\nFort Bliss in Texas will host the Pentagon's first ever hyperscale data center.\n\n@aipost 🏴",
-    "entities": [
-      {
-        "offset": 0,
-        "length": 4,
-        "type": "custom_emoji",
-        "custom_emoji_id": "5202021044105257611"
-      },
-      {
-        "offset": 295,
-        "length": 7,
-        "type": "text_link",
-        "url": "https://t.me/aipost"
-      },
-      {
-        "offset": 303,
-        "length": 2,
-        "type": "custom_emoji",
-        "custom_emoji_id": "5431390559912614642"
-      }
-    ],
-    "media_group_id": "14282708715512205",
-    "chat_id": -1004468214616,
-    "message_ids": [
-      206,
-      207
-    ],
-    "update_ids": [
-      378304099,
-      378304100
-    ],
-    "retry_count": 0
-  },
-  {
     "type": "video",
     "video_file_id": "BAACAgIAAyEFAAMBClOLWAAD0GpqJptIGANQIdC8mcSUUIpiRoNnAALCmgACQYFQS4SuTvFRnxB8PQQ",
     "video_file_size": 336027,
