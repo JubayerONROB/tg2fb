@@ -1,46 +1,5 @@
 [
   {
-    "type": "photo",
-    "photo_file_ids": [
-      "AgACAgQAAyEFAAMBClOLWAADx2ppI01hbsfT3jeDx2-Ps7IJCky1AALeD2sbaMdIUxU0vYkZbM5wAQADAgADeAADPQQ"
-    ],
-    "caption": "❗️Plot twist: AI isn’t replacing as many workers as companies expected.\n\nFor the last year, the message was everywhere: AI agents are coming, jobs are disappearing, and companies are preparing for a much smaller workforce. Now… some of those same companies are quietly hiring again.\n\nWhy? Because they discovered something that sounds obvious in hindsight: an AI agent doesn’t replace an employee, it replaces pieces of what that employee does.\n\nA coding AI still needs engineers to tell it what to build, review its code, and fix what it gets wrong.\n\nA sales AI still can’t build trust, read a room, or close every deal. And when AI makes a mistake, guess who gets the phone call? A human.\n\nThat’s why companies like Alphabet, Booz Allen, ServiceNow, and even CSX are expanding hiring in key areas instead of shrinking them.\n\nThis doesn’t mean the AI job revolution is over. Routine work will continue to disappear, and many roles will change dramatically.\n\nBut the companies using AI at scale are learning that the winning strategy isn’t replacing people. It’s pairing the right people with the right AI.\n\n@aipost 🏴",
-    "entities": [
-      {
-        "offset": 0,
-        "length": 2,
-        "type": "custom_emoji",
-        "custom_emoji_id": "5289761612440310918"
-      },
-      {
-        "offset": 2,
-        "length": 69,
-        "type": "bold"
-      },
-      {
-        "offset": 1108,
-        "length": 7,
-        "type": "text_link",
-        "url": "https://t.me/aipost"
-      },
-      {
-        "offset": 1116,
-        "length": 2,
-        "type": "custom_emoji",
-        "custom_emoji_id": "5431390559912614642"
-      }
-    ],
-    "media_group_id": null,
-    "chat_id": -1004468214616,
-    "message_ids": [
-      199
-    ],
-    "update_ids": [
-      378304092
-    ],
-    "retry_count": 0
-  },
-  {
     "type": "album",
     "photo_file_ids": [
       "AgACAgQAAyEFAAMBClOLWAADyGppo_FGq4uag-av4Fd6CtzRuXziAALiD2sbaMdIUwwdIDMQSOFEAQADAgADeAADPQQ",
