@@ -1,52 +1,5 @@
 [
   {
-    "type": "album",
-    "photo_file_ids": [
-      "AgACAgQAAyEFAAMBClOLWAAD2mprMl4mgAhQAVs4Inuczp4-JkPRAAJRDmsb3PhYU5M-kQSb0-0iAQADAgADeQADPQQ",
-      "AgACAgQAAyEFAAMBClOLWAAD22prMl5xHXjJn9xVx7Z50cAjvboSAAJSDmsb3PhYU4C_70u6LuALAQADAgADeAADPQQ",
-      "AgACAgQAAyEFAAMBClOLWAAD3GprMl68Ctcfxx1JjYufgXhbgKuoAAJTDmsb3PhYU-39iq7V8N-6AQADAgADeAADPQQ"
-    ],
-    "caption": "❗️Scientists warn SpaceX's plan to launch 1 MILLION data center satellites could turn Earth's atmosphere into a \"fire pit,\" per NBC News.\n\nEach satellite burns up on re-entry, pumping vaporized metal into the upper atmosphere at a scale never seen before.\n\nSpaceX has no prototype yet, the first test satellite is not expected until 2027.\n\n@aipost 🏴",
-    "entities": [
-      {
-        "offset": 0,
-        "length": 2,
-        "type": "custom_emoji",
-        "custom_emoji_id": "5289761612440310918"
-      },
-      {
-        "offset": 2,
-        "length": 135,
-        "type": "bold"
-      },
-      {
-        "offset": 340,
-        "length": 7,
-        "type": "text_link",
-        "url": "https://t.me/aipost"
-      },
-      {
-        "offset": 348,
-        "length": 2,
-        "type": "custom_emoji",
-        "custom_emoji_id": "5431390559912614642"
-      }
-    ],
-    "media_group_id": "14283281139124885",
-    "chat_id": -1004468214616,
-    "message_ids": [
-      218,
-      219,
-      220
-    ],
-    "update_ids": [
-      378304111,
-      378304112,
-      378304113
-    ],
-    "retry_count": 0
-  },
-  {
     "type": "video",
     "video_file_id": "BAACAgIAAyEFAAMBClOLWAAD3WprSUaFWcChuzsTKrYB9f-vb0gOAAIfogACadBAS8A6AAH3SobQiz0E",
     "video_file_size": 4295706,
@@ -229,6 +182,46 @@
     ],
     "update_ids": [
       378304118
+    ],
+    "retry_count": 0
+  },
+  {
+    "type": "video",
+    "video_file_id": "BAACAgQAAyEFAAMBClOLWAAD4mprw-7wwIYIjKFM2Frv4MBKLei2AAKaHQAC3PhYUxOFgPin5lNxPQQ",
+    "video_file_size": 7605257,
+    "caption": "🤖 This humanoid robot can feel you before you touch it\n\nItalian startup Generative Bionics has unveiled Gene.01, a humanoid robot covered in sensor skin that can detect touch, temperature, proximity, and force. That means it can sense people before physical contact and adjust its movements in real time.\n\nInstead of learning from videos, Gene.01 learns the way humans often do: through physical guidance. Simply holding its hand and showing it the right motion teaches the robot how much grip strength to use, tackling one of the biggest challenges in humanoid robotics.\n\nBuilt on research from the Italian Institute of Technology published in Nature Machine Intelligence, the team went from concept to a working humanoid in just six months.\n\nGene.01 is designed as a flexible platform, allowing developers to swap AI models, outer shells, and even limbs to create robots for different industries and tasks.\n\n@aipost 🏴",
+    "entities": [
+      {
+        "offset": 0,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5309832892262654231"
+      },
+      {
+        "offset": 3,
+        "length": 52,
+        "type": "bold"
+      },
+      {
+        "offset": 911,
+        "length": 7,
+        "type": "text_link",
+        "url": "https://t.me/aipost"
+      },
+      {
+        "offset": 919,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5431390559912614642"
+      }
+    ],
+    "media_group_id": null,
+    "chat_id": -1004468214616,
+    "message_ids": [
+      226
+    ],
+    "update_ids": [
+      378304119
     ],
     "retry_count": 0
   }
