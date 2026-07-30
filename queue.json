@@ -1,75 +1,6 @@
 [
   {
     "type": "video",
-    "video_file_id": "BAACAgIAAyEFAAMBClOLWAAD0GpqJptIGANQIdC8mcSUUIpiRoNnAALCmgACQYFQS4SuTvFRnxB8PQQ",
-    "video_file_size": 336027,
-    "caption": "🔍 Google Pixel 11 lineup details leak\n\nGoogle plans to launch four Pixel 11 models: Pixel 11, 11 Pro, 11 Pro XL, and 11 Pro Fold. Screen sizes and resolutions remain similar to the previous generation, but brightness will increase to 3100 nits on the base model and 3600 nits on Pro versions. The foldable model features dual screens with 3600 nits outside and 3500 nits inside.\n\nThe Pixel 11 series runs on the new Tensor G6 chip built on a 2nm TSMC process, featuring a seven-core CPU with an ARM C1-Ultra core at 4.11 GHz, PowerVR graphics, Titan M3 security chip, and MediaTek M90 modem. Storage starts at 256 GB, eliminating the 128 GB option and raising the entry price to match last year's 256 GB model.\n\n📊@tech",
-    "entities": [
-      {
-        "offset": 0,
-        "length": 2,
-        "type": "custom_emoji",
-        "custom_emoji_id": "5431644246450908867"
-      },
-      {
-        "offset": 3,
-        "length": 35,
-        "type": "bold"
-      },
-      {
-        "offset": 85,
-        "length": 44,
-        "type": "bold"
-      },
-      {
-        "offset": 207,
-        "length": 85,
-        "type": "bold"
-      },
-      {
-        "offset": 417,
-        "length": 42,
-        "type": "bold"
-      },
-      {
-        "offset": 593,
-        "length": 24,
-        "type": "bold"
-      },
-      {
-        "offset": 713,
-        "length": 2,
-        "type": "bold"
-      },
-      {
-        "offset": 713,
-        "length": 2,
-        "type": "custom_emoji",
-        "custom_emoji_id": "5449841756596101801"
-      },
-      {
-        "offset": 715,
-        "length": 5,
-        "type": "mention"
-      },
-      {
-        "offset": 715,
-        "length": 5,
-        "type": "bold"
-      }
-    ],
-    "media_group_id": null,
-    "chat_id": -1004468214616,
-    "message_ids": [
-      208
-    ],
-    "update_ids": [
-      378304101
-    ],
-    "retry_count": 0
-  },
-  {
-    "type": "video",
     "video_file_id": "BAACAgQAAyEFAAMBClOLWAAD0WpqPyZCa4Bq94Dnvtwmd-8oZ351AAImHAACaMdQU4cgMnEZw6SyPQQ",
     "video_file_size": 11668857,
     "caption": "🤖 Grok can now build and publish apps from a single prompt\n\nDescribe an idea, and Grok will generate a working web app, publish it, and give it its own domain, all in minutes.\n\nThe new Build Mode works on the web, iPhone, and Android. Behind the scenes, Grok uses a coding agent with specialized subagents, browser tools, and Grok Imagine for image generation.\n\nYou can build dashboards, productivity tools, games, and other web apps, then keep them on a Grok domain, connect your own custom domain, or export the full source code to GitHub.\n\nFor now, Build Mode is available exclusively to SuperGrok Heavy subscribers.\n\n@aipost 🏴",
@@ -145,6 +76,39 @@
     ],
     "update_ids": [
       378304103
+    ],
+    "retry_count": 0
+  },
+  {
+    "type": "album",
+    "photo_file_ids": [
+      "AgACAgQAAyEFAAMBClOLWAAD02pqi9bPjzHjfRLqk1nwB7MfKnI6AALaDWsbaMdQU_AQdD7e-p0NAQADAgADeQADPQQ",
+      "AgACAgQAAyEFAAMBClOLWAAD1Gpqi9Z478D4ArfEqG1gpUR7A3RKAALbDWsbaMdQU2budAABEqJaKgEAAwIAA3gAAz0E"
+    ],
+    "caption": "AI companies are buying books free of AI-slop in bulk, scanning them to train AI models, and then destroying the original.\n\nA federal judge in 2025 ruled that the practice qualifies as fair use.\n\n@aipost 🏴",
+    "entities": [
+      {
+        "offset": 196,
+        "length": 7,
+        "type": "text_link",
+        "url": "https://t.me/aipost"
+      },
+      {
+        "offset": 204,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5431390559912614642"
+      }
+    ],
+    "media_group_id": "14282940087604637",
+    "chat_id": -1004468214616,
+    "message_ids": [
+      211,
+      212
+    ],
+    "update_ids": [
+      378304104,
+      378304105
     ],
     "retry_count": 0
   }
