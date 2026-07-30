@@ -1,70 +1,5 @@
 [
   {
-    "type": "photo",
-    "photo_file_ids": [
-      "AgACAgQAAyEFAAMBClOLWAAD2WprBmNu1WZslcc7UEOwgWLSqPhPAAKLDWsbaI1FU-zH0RQb1x75AQADAgADeAADPQQ"
-    ],
-    "caption": "Ⓜ️ Meta AI joins Threads private chats\n\nThreads added a private chat with Meta AI, letting users send posts, photos, or videos for one-on-one discussion. This feature was already on Facebook, Instagram, and WhatsApp before arriving on Threads.\n\nIn five countries, Meta AI also posts publicly in Threads feeds under @meta.ai. Users cannot block these posts, only mute them. The AI’s presence in feeds is permanent, unlike the optional private chats.\n\n📊@tech",
-    "entities": [
-      {
-        "offset": 0,
-        "length": 2,
-        "type": "custom_emoji",
-        "custom_emoji_id": "5431901622366124338"
-      },
-      {
-        "offset": 3,
-        "length": 35,
-        "type": "bold"
-      },
-      {
-        "offset": 40,
-        "length": 41,
-        "type": "bold"
-      },
-      {
-        "offset": 264,
-        "length": 51,
-        "type": "bold"
-      },
-      {
-        "offset": 315,
-        "length": 8,
-        "type": "code"
-      },
-      {
-        "offset": 450,
-        "length": 2,
-        "type": "bold"
-      },
-      {
-        "offset": 450,
-        "length": 2,
-        "type": "custom_emoji",
-        "custom_emoji_id": "5449841756596101801"
-      },
-      {
-        "offset": 452,
-        "length": 5,
-        "type": "mention"
-      },
-      {
-        "offset": 452,
-        "length": 5,
-        "type": "bold"
-      }
-    ],
-    "media_group_id": null,
-    "chat_id": -1004468214616,
-    "message_ids": [
-      217
-    ],
-    "update_ids": [
-      378304110
-    ],
-    "retry_count": 0
-  },
-  {
     "type": "album",
     "photo_file_ids": [
       "AgACAgQAAyEFAAMBClOLWAAD2mprMl4mgAhQAVs4Inuczp4-JkPRAAJRDmsb3PhYU5M-kQSb0-0iAQADAgADeQADPQQ",
@@ -265,6 +200,35 @@
     ],
     "update_ids": [
       378304117
+    ],
+    "retry_count": 0
+  },
+  {
+    "type": "photo",
+    "photo_file_ids": [
+      "AgACAgIAAyEFAAMBClOLWAAD4WprtFWO5vF7Mi77SS2VVFres_o5AAIwIWsbrkpYSwGQmExu-xKcAQADAgADeQADPQQ"
+    ],
+    "caption": "Seedance 2.5 will be released tomorrow. This update marks a new stage for the AI video generation tool.\n\nCurrently, Seedance 2.0 is regarded as the most advanced version available. The upcoming 2.5 release is expected to take the lead in the field and introduce support for creating longer video clips.\n\nThe launch will end the anticipation around this significant software update.\n\n📰 @aipost",
+    "entities": [
+      {
+        "offset": 383,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5363988332466438547"
+      },
+      {
+        "offset": 386,
+        "length": 7,
+        "type": "mention"
+      }
+    ],
+    "media_group_id": null,
+    "chat_id": -1004468214616,
+    "message_ids": [
+      225
+    ],
+    "update_ids": [
+      378304118
     ],
     "retry_count": 0
   }
