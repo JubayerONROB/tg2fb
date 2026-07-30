@@ -1,40 +1,5 @@
 [
   {
-    "type": "video",
-    "video_file_id": "BAACAgQAAyEFAAMBClOLWAAD2GprBlaloSdzhS3eAAGuvptP9NkGkQACOxwAAmjHUFOmQZk3b9-MaT0E",
-    "video_file_size": 18108271,
-    "caption": "🗣Sam Altman explains the recent Hugging Face security incident involving an unreleased OpenAI model (potentially GPT-6):\n\n\"this is the first security incident i've felt very viscerally and i've been surprised more people don't feel it that way too\".  \n\n@aipost 🏴",
-    "entities": [
-      {
-        "offset": 0,
-        "length": 2,
-        "type": "custom_emoji",
-        "custom_emoji_id": "5287468155738821335"
-      },
-      {
-        "offset": 254,
-        "length": 7,
-        "type": "text_link",
-        "url": "https://t.me/aipost"
-      },
-      {
-        "offset": 262,
-        "length": 2,
-        "type": "custom_emoji",
-        "custom_emoji_id": "5431390559912614642"
-      }
-    ],
-    "media_group_id": null,
-    "chat_id": -1004468214616,
-    "message_ids": [
-      216
-    ],
-    "update_ids": [
-      378304109
-    ],
-    "retry_count": 0
-  },
-  {
     "type": "photo",
     "photo_file_ids": [
       "AgACAgQAAyEFAAMBClOLWAAD2WprBmNu1WZslcc7UEOwgWLSqPhPAAKLDWsbaI1FU-zH0RQb1x75AQADAgADeAADPQQ"
@@ -271,6 +236,35 @@
     "update_ids": [
       378304115,
       378304116
+    ],
+    "retry_count": 0
+  },
+  {
+    "type": "video",
+    "video_file_id": "BAACAgQAAyEFAAMBClOLWAAD4GprmnyxlaE0szqkhV8VmvWwOVpNAAJrHQAC3PhYU2L_ZhEdyX_SPQQ",
+    "video_file_size": 6345047,
+    "caption": "“I mean there could be, yeah,” Open AI CEO Sam Altman responds when asked if more companies could’ve been hacked by OpenAI.\n\n@aipost 🏴",
+    "entities": [
+      {
+        "offset": 125,
+        "length": 7,
+        "type": "text_link",
+        "url": "https://t.me/aipost"
+      },
+      {
+        "offset": 133,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5431390559912614642"
+      }
+    ],
+    "media_group_id": null,
+    "chat_id": -1004468214616,
+    "message_ids": [
+      224
+    ],
+    "update_ids": [
+      378304117
     ],
     "retry_count": 0
   }
