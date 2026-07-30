@@ -1,52 +1,5 @@
 [
   {
-    "type": "photo",
-    "photo_file_ids": [
-      "AgACAgQAAyEFAAMBClOLWAAD1Wpq52nocMwAAVsRdGwlq-Jow8jkswAC6w1rG2jHUFMbUdlqRUAGWAEAAwIAA3kAAz0E"
-    ],
-    "caption": "❗️OpenAI and Anthropic just found common ground… and it’s against Meta and xAI.\n\nThe Trump administration has until August 1 to define what counts as a “frontier AI model.”\n\nUnder the proposed framework, companies developing these powerful models would have to submit them for government evaluation at least 30 days before release.\n\nOpenAI and Anthropic are pushing for the rules to apply equally to everyone. Their argument is simple: if they have to wait 30 days before launching a new model, competitors like Meta and xAI shouldn’t be able to ship similar systems immediately without the same oversight.\n\nSource. \n\n@aipost 🏴",
-    "entities": [
-      {
-        "offset": 0,
-        "length": 2,
-        "type": "custom_emoji",
-        "custom_emoji_id": "5289761612440310918"
-      },
-      {
-        "offset": 2,
-        "length": 77,
-        "type": "bold"
-      },
-      {
-        "offset": 608,
-        "length": 8,
-        "type": "text_link",
-        "url": "https://www.theinformation.com/newsletters/ai-agenda/openai-anthropic-quietly-teaming-washington?rc=bfliih"
-      },
-      {
-        "offset": 618,
-        "length": 7,
-        "type": "text_link",
-        "url": "https://t.me/aipost"
-      },
-      {
-        "offset": 626,
-        "length": 2,
-        "type": "custom_emoji",
-        "custom_emoji_id": "5431390559912614642"
-      }
-    ],
-    "media_group_id": null,
-    "chat_id": -1004468214616,
-    "message_ids": [
-      213
-    ],
-    "update_ids": [
-      378304106
-    ],
-    "retry_count": 0
-  },
-  {
     "type": "video",
     "video_file_id": "BAACAgQAAyEFAAMBClOLWAAD1mpq54uyCjsT53ag_TS1qd5loiTqAAJXHQACaMdQU5GXlBku8ddiPQQ",
     "video_file_size": 42773629,
@@ -206,6 +159,53 @@
     ],
     "update_ids": [
       378304110
+    ],
+    "retry_count": 0
+  },
+  {
+    "type": "album",
+    "photo_file_ids": [
+      "AgACAgQAAyEFAAMBClOLWAAD2mprMl4mgAhQAVs4Inuczp4-JkPRAAJRDmsb3PhYU5M-kQSb0-0iAQADAgADeQADPQQ",
+      "AgACAgQAAyEFAAMBClOLWAAD22prMl5xHXjJn9xVx7Z50cAjvboSAAJSDmsb3PhYU4C_70u6LuALAQADAgADeAADPQQ",
+      "AgACAgQAAyEFAAMBClOLWAAD3GprMl68Ctcfxx1JjYufgXhbgKuoAAJTDmsb3PhYU-39iq7V8N-6AQADAgADeAADPQQ"
+    ],
+    "caption": "❗️Scientists warn SpaceX's plan to launch 1 MILLION data center satellites could turn Earth's atmosphere into a \"fire pit,\" per NBC News.\n\nEach satellite burns up on re-entry, pumping vaporized metal into the upper atmosphere at a scale never seen before.\n\nSpaceX has no prototype yet, the first test satellite is not expected until 2027.\n\n@aipost 🏴",
+    "entities": [
+      {
+        "offset": 0,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5289761612440310918"
+      },
+      {
+        "offset": 2,
+        "length": 135,
+        "type": "bold"
+      },
+      {
+        "offset": 340,
+        "length": 7,
+        "type": "text_link",
+        "url": "https://t.me/aipost"
+      },
+      {
+        "offset": 348,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5431390559912614642"
+      }
+    ],
+    "media_group_id": "14283281139124885",
+    "chat_id": -1004468214616,
+    "message_ids": [
+      218,
+      219,
+      220
+    ],
+    "update_ids": [
+      378304111,
+      378304112,
+      378304113
     ],
     "retry_count": 0
   }
