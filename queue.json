@@ -1,22 +1,5 @@
 [
   {
-    "type": "photo",
-    "photo_file_ids": [
-      "AgACAgUAAyEFAAMBClOLWAAD12pq8so-1txRh3By6Z38ruhNoCqYAAJSFGsbxX9YV_8K9PKTHQMcAQADAgADeQADPQQ"
-    ],
-    "caption": "These YouTube channels will guide you step by step to master AI\n\nWhether you're building Agentic AI workflows or just starting with Python, this llist covers everything:\n\n1. Agentic AI & ChatGPT\nWatch creators like Krish Naik and Freecodecamp for hands-on projects with GPT, LLMs & automation tools.\n\n 2. Machine Learning & Deep Learning\nExplore channels like StatQuest, Yannic Kilcher and DeepLearningAI for algorithm intuition & implementation walkthroughs.\n\n 3. Python & Data Science\nFrom Corey Schafer to Ken Jee, these channels help you master the foundations of Python, analytics and deployment.\n\n 4. Math for AI\nNeed help with the math behind the models? Start with 3Blue1Brown, Khan Academy & PatrickJMT.\n\n 5. Bug data and Data Engineering \nFollow Alex The Analyst, edureka, Data Engineering to scale your AI pipelines and manage large datasets.\n\n 6. Tools, Productivity & AI Assistants\nStay up to date with Ansh Mehra, Jeff Su, Skill Leap AI & Howtoai to explore ChatGPT hacks, AI agents & productivity automation.",
-    "entities": [],
-    "media_group_id": null,
-    "chat_id": -1004468214616,
-    "message_ids": [
-      215
-    ],
-    "update_ids": [
-      378304108
-    ],
-    "retry_count": 0
-  },
-  {
     "type": "video",
     "video_file_id": "BAACAgQAAyEFAAMBClOLWAAD2GprBlaloSdzhS3eAAGuvptP9NkGkQACOxwAAmjHUFOmQZk3b9-MaT0E",
     "video_file_size": 18108271,
@@ -249,6 +232,45 @@
     ],
     "update_ids": [
       378304114
+    ],
+    "retry_count": 0
+  },
+  {
+    "type": "album",
+    "photo_file_ids": [
+      "AgACAgQAAyEFAAMBClOLWAAD3mprYz1m-VD73kKrJnsOYj6dsmanAAJcDmsb3PhYU8z3FutyzG-0AQADAgADeQADPQQ",
+      "AgACAgQAAyEFAAMBClOLWAAD32prYz2iEt7GPHW7OjDdULMKJ-iEAAJdDmsb3PhYU9KgsPMvKOaXAQADAgADeQADPQQ"
+    ],
+    "caption": "A California startup built a teleoperated rescue robot for wildfires and collapsed buildings, gave it a goat skull and glowing eyes, and then photographed it staring through a glass office door.\n\nThey also published where to shoot it if it doesn't stop...\n\nSource.\n\n@aipost 🏴",
+    "entities": [
+      {
+        "offset": 257,
+        "length": 6,
+        "type": "text_link",
+        "url": "https://www.satyress.com/"
+      },
+      {
+        "offset": 266,
+        "length": 7,
+        "type": "text_link",
+        "url": "https://t.me/aipost"
+      },
+      {
+        "offset": 274,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5431390559912614642"
+      }
+    ],
+    "media_group_id": "14283381225972877",
+    "chat_id": -1004468214616,
+    "message_ids": [
+      222,
+      223
+    ],
+    "update_ids": [
+      378304115,
+      378304116
     ],
     "retry_count": 0
   }
