@@ -1,46 +1,6 @@
 [
   {
     "type": "video",
-    "video_file_id": "BAACAgQAAyEFAAMBClOLWAAD0WpqPyZCa4Bq94Dnvtwmd-8oZ351AAImHAACaMdQU4cgMnEZw6SyPQQ",
-    "video_file_size": 11668857,
-    "caption": "🤖 Grok can now build and publish apps from a single prompt\n\nDescribe an idea, and Grok will generate a working web app, publish it, and give it its own domain, all in minutes.\n\nThe new Build Mode works on the web, iPhone, and Android. Behind the scenes, Grok uses a coding agent with specialized subagents, browser tools, and Grok Imagine for image generation.\n\nYou can build dashboards, productivity tools, games, and other web apps, then keep them on a Grok domain, connect your own custom domain, or export the full source code to GitHub.\n\nFor now, Build Mode is available exclusively to SuperGrok Heavy subscribers.\n\n@aipost 🏴",
-    "entities": [
-      {
-        "offset": 0,
-        "length": 2,
-        "type": "custom_emoji",
-        "custom_emoji_id": "5208963802904693870"
-      },
-      {
-        "offset": 3,
-        "length": 56,
-        "type": "bold"
-      },
-      {
-        "offset": 622,
-        "length": 7,
-        "type": "text_link",
-        "url": "https://t.me/aipost"
-      },
-      {
-        "offset": 630,
-        "length": 2,
-        "type": "custom_emoji",
-        "custom_emoji_id": "5431390559912614642"
-      }
-    ],
-    "media_group_id": null,
-    "chat_id": -1004468214616,
-    "message_ids": [
-      209
-    ],
-    "update_ids": [
-      378304102
-    ],
-    "retry_count": 0
-  },
-  {
-    "type": "video",
     "video_file_id": "BAACAgQAAyEFAAMBClOLWAAD0mpqcWQi3BXvZuLmE7RM-SV352GhAAIyHAACaMdQUwybJd4lkymqPQQ",
     "video_file_size": 7762490,
     "caption": "🤖 ChatGPT just became a lot more personal with Health mode\n\nOpenAI has launched Health mode, allowing ChatGPT to connect with your Apple Health data and medical records to provide answers based on your actual health information, not just general advice.\n\nUsers can link Apple Health, One Medical, or Function Health to share blood tests, medications, doctor visits, sleep, workouts, and other health data. ChatGPT can then compare test results over time, explain medical terms, and even recommend allergy-safe restaurants based on your profile.\n\nOpenAI says around 300 million people ask ChatGPT health questions every week, with most conversations starting outside dedicated health chats. Health mode brings that context directly into everyday conversations.\n\nFree users get GPT-5.5 Instant, which can recognize when it’s time to see a real doctor. Paid users get GPT-5.6 Sol, offering deeper analysis and more detailed explanations for complex health questions.\n\n@aipost 🏴",
