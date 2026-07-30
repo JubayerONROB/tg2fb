@@ -1251,5 +1251,51 @@
       378304082
     ],
     "retry_count": 0
+  },
+  {
+    "type": "video",
+    "video_file_id": "BAACAgQAAyEFAAMBClOLWAAD1mpq54uyCjsT53ag_TS1qd5loiTqAAJXHQACaMdQU5GXlBku8ddiPQQ",
+    "video_file_size": 42773629,
+    "caption": "🤖 OpenAI is giving away GPT-5.6 to 100,000 researchers for free.\n\nOpenAI has launched ChatGPT for Academic Researchers, a new program that gives scientists, mathematicians, and engineers free access to its frontier AI models.\n\nThe rollout starts with 10,000 researchers and will expand to 100,000 by 2027.\n\nParticipants get access to the GPT-5.6 family, business-grade privacy (their data isn’t used to train models by default), support for up to 4 collaborators, plus training and hands-on guidance.\n\nThe goal? Help researchers spend less time on paperwork and more time making discoveries, from writing grant proposals to testing new ideas.\n\nSource.\n\n@aipost 🏴",
+    "entities": [
+      {
+        "offset": 0,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5397681122542893003"
+      },
+      {
+        "offset": 3,
+        "length": 62,
+        "type": "bold"
+      },
+      {
+        "offset": 645,
+        "length": 6,
+        "type": "text_link",
+        "url": "https://openai.com/index/chatgpt-for-academic-researchers/"
+      },
+      {
+        "offset": 654,
+        "length": 7,
+        "type": "text_link",
+        "url": "https://t.me/aipost"
+      },
+      {
+        "offset": 662,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5431390559912614642"
+      }
+    ],
+    "media_group_id": null,
+    "chat_id": -1004468214616,
+    "message_ids": [
+      214
+    ],
+    "update_ids": [
+      378304107
+    ],
+    "retry_count": 0
   }
 ]

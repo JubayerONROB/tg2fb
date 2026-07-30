@@ -1,51 +1,5 @@
 [
   {
-    "type": "video",
-    "video_file_id": "BAACAgQAAyEFAAMBClOLWAAD1mpq54uyCjsT53ag_TS1qd5loiTqAAJXHQACaMdQU5GXlBku8ddiPQQ",
-    "video_file_size": 42773629,
-    "caption": "🤖 OpenAI is giving away GPT-5.6 to 100,000 researchers for free.\n\nOpenAI has launched ChatGPT for Academic Researchers, a new program that gives scientists, mathematicians, and engineers free access to its frontier AI models.\n\nThe rollout starts with 10,000 researchers and will expand to 100,000 by 2027.\n\nParticipants get access to the GPT-5.6 family, business-grade privacy (their data isn’t used to train models by default), support for up to 4 collaborators, plus training and hands-on guidance.\n\nThe goal? Help researchers spend less time on paperwork and more time making discoveries, from writing grant proposals to testing new ideas.\n\nSource.\n\n@aipost 🏴",
-    "entities": [
-      {
-        "offset": 0,
-        "length": 2,
-        "type": "custom_emoji",
-        "custom_emoji_id": "5397681122542893003"
-      },
-      {
-        "offset": 3,
-        "length": 62,
-        "type": "bold"
-      },
-      {
-        "offset": 645,
-        "length": 6,
-        "type": "text_link",
-        "url": "https://openai.com/index/chatgpt-for-academic-researchers/"
-      },
-      {
-        "offset": 654,
-        "length": 7,
-        "type": "text_link",
-        "url": "https://t.me/aipost"
-      },
-      {
-        "offset": 662,
-        "length": 2,
-        "type": "custom_emoji",
-        "custom_emoji_id": "5431390559912614642"
-      }
-    ],
-    "media_group_id": null,
-    "chat_id": -1004468214616,
-    "message_ids": [
-      214
-    ],
-    "update_ids": [
-      378304107
-    ],
-    "retry_count": 0
-  },
-  {
     "type": "photo",
     "photo_file_ids": [
       "AgACAgUAAyEFAAMBClOLWAAD12pq8so-1txRh3By6Z38ruhNoCqYAAJSFGsbxX9YV_8K9PKTHQMcAQADAgADeQADPQQ"
@@ -206,6 +160,95 @@
       378304111,
       378304112,
       378304113
+    ],
+    "retry_count": 0
+  },
+  {
+    "type": "video",
+    "video_file_id": "BAACAgIAAyEFAAMBClOLWAAD3WprSUaFWcChuzsTKrYB9f-vb0gOAAIfogACadBAS8A6AAH3SobQiz0E",
+    "video_file_size": 4295706,
+    "caption": "🤖 Italian Startup Builds Robot with Sensor Skin\n\nItalian startup Generative Bionics created the robot Gene.01 covered in sensor skin that tracks touch, temperature, proximity, and force. This lets it detect humans before contact and adjust movements.\n\nGene.01 learns by physical guidance instead of video. Holding its hand and moving it teaches the robot the right grip strength, solving a key challenge in humanoid robotics.\n\nThe robot is based on research from the Italian Institute of Technology published in Nature Machine Intelligence. It took six months to build Gene.01 from concept to a working humanoid.\n\nGene.01 is a platform for specialized robots with customizable AI, outer shells, and interchangeable limbs for different tasks.\n\n📊@tech",
+    "entities": [
+      {
+        "offset": 0,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5296447931627352804"
+      },
+      {
+        "offset": 3,
+        "length": 45,
+        "type": "bold"
+      },
+      {
+        "offset": 66,
+        "length": 18,
+        "type": "bold"
+      },
+      {
+        "offset": 103,
+        "length": 7,
+        "type": "bold"
+      },
+      {
+        "offset": 122,
+        "length": 11,
+        "type": "bold"
+      },
+      {
+        "offset": 253,
+        "length": 7,
+        "type": "bold"
+      },
+      {
+        "offset": 468,
+        "length": 31,
+        "type": "bold"
+      },
+      {
+        "offset": 513,
+        "length": 27,
+        "type": "bold"
+      },
+      {
+        "offset": 550,
+        "length": 10,
+        "type": "bold"
+      },
+      {
+        "offset": 615,
+        "length": 7,
+        "type": "bold"
+      },
+      {
+        "offset": 744,
+        "length": 2,
+        "type": "bold"
+      },
+      {
+        "offset": 744,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5449841756596101801"
+      },
+      {
+        "offset": 746,
+        "length": 5,
+        "type": "mention"
+      },
+      {
+        "offset": 746,
+        "length": 5,
+        "type": "bold"
+      }
+    ],
+    "media_group_id": null,
+    "chat_id": -1004468214616,
+    "message_ids": [
+      221
+    ],
+    "update_ids": [
+      378304114
     ],
     "retry_count": 0
   }
