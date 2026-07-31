@@ -1,35 +1,6 @@
 [
   {
     "type": "video",
-    "video_file_id": "BAACAgQAAyEFAAMBClOLWAAD6GpsvkN3xJsSLv4ph7PWCWGWozpsAAKeHQAC3PhYU4GWacH_d2CLPQQ",
-    "video_file_size": 14131067,
-    "caption": "Sam Altman on China distilling US AI models: \"This is not in my top 10 list of worries.\"\n\nHe says the money OpenAI makes selling AI will be more than enough to keep building it.\n\n@aipost 🏴",
-    "entities": [
-      {
-        "offset": 179,
-        "length": 7,
-        "type": "text_link",
-        "url": "https://t.me/aipost"
-      },
-      {
-        "offset": 187,
-        "length": 2,
-        "type": "custom_emoji",
-        "custom_emoji_id": "5431390559912614642"
-      }
-    ],
-    "media_group_id": null,
-    "chat_id": -1004468214616,
-    "message_ids": [
-      232
-    ],
-    "update_ids": [
-      378304125
-    ],
-    "retry_count": 0
-  },
-  {
-    "type": "video",
     "video_file_id": "BAACAgQAAyEFAAMBClOLWAAD6Wps3UeyW3Rs02EUe6djbORoO1EXAAKaHgACpvNpU-_M5PLA_O1pPQQ",
     "video_file_size": 25674375,
     "caption": "⚡️This robot just tied a knot with its own hands\n\nIt also unscrewed a lightbulb and sealed a bag of grapes without being programmed for any of them.\n\nThe robot runs on Google DeepMind's Gemini Robotics 2 with 22 finger joints, all controlled by a single AI model.\n\n@aipost 🏴",
