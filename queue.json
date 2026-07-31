@@ -1,46 +1,5 @@
 [
   {
-    "type": "photo",
-    "photo_file_ids": [
-      "AgACAgQAAyEFAAMBClOLWAAD5GpsKOI8XzvWQPT937PGMmijR3sGAAKhDmsb3PhYU0IQfLrDclKPAQADAgADeQADPQQ"
-    ],
-    "caption": "❗️The team that built AlphaFold is no longer together.\n\nGoogle DeepMind has quietly broken up the original AlphaFold team as it shifts its scientific focus toward Gemini-powered AI.\n\nOver the past year, many of the researchers behind AlphaFold have been reassigned to projects in genomics, enzyme design, nuclear fusion, and Gemini. Others have joined Isomorphic Labs, Alphabet’s AI drug-discovery company.\n\nSome have left Google altogether, including Nobel Prize winner John Jumper, along with researchers Jonas Adler and Alexander Pritzel, who are now at Anthropic.\n\nBut don’t mistake this for the end of AlphaFold.\n\nThe project is still going strong. Its database now contains more than 200 million predicted protein structures, while AlphaFold 3 and AI-driven drug discovery continue under DeepMind and Isomorphic Labs.\n\n@aipost 🏴",
-    "entities": [
-      {
-        "offset": 0,
-        "length": 2,
-        "type": "custom_emoji",
-        "custom_emoji_id": "5289761612440310918"
-      },
-      {
-        "offset": 2,
-        "length": 52,
-        "type": "bold"
-      },
-      {
-        "offset": 825,
-        "length": 7,
-        "type": "text_link",
-        "url": "https://t.me/aipost"
-      },
-      {
-        "offset": 833,
-        "length": 2,
-        "type": "custom_emoji",
-        "custom_emoji_id": "5431390559912614642"
-      }
-    ],
-    "media_group_id": null,
-    "chat_id": -1004468214616,
-    "message_ids": [
-      228
-    ],
-    "update_ids": [
-      378304121
-    ],
-    "retry_count": 0
-  },
-  {
     "type": "video",
     "video_file_id": "BAACAgIAAyEFAAMBClOLWAAD5WpsQvoGYCcsLhk--t6PESFZEDiyAALkpgACf4ZhSwFLeZme2urTPQQ",
     "video_file_size": 9538312,
@@ -138,6 +97,35 @@
     ],
     "update_ids": [
       378304124
+    ],
+    "retry_count": 0
+  },
+  {
+    "type": "video",
+    "video_file_id": "BAACAgQAAyEFAAMBClOLWAAD6GpsvkN3xJsSLv4ph7PWCWGWozpsAAKeHQAC3PhYU4GWacH_d2CLPQQ",
+    "video_file_size": 14131067,
+    "caption": "Sam Altman on China distilling US AI models: \"This is not in my top 10 list of worries.\"\n\nHe says the money OpenAI makes selling AI will be more than enough to keep building it.\n\n@aipost 🏴",
+    "entities": [
+      {
+        "offset": 179,
+        "length": 7,
+        "type": "text_link",
+        "url": "https://t.me/aipost"
+      },
+      {
+        "offset": 187,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5431390559912614642"
+      }
+    ],
+    "media_group_id": null,
+    "chat_id": -1004468214616,
+    "message_ids": [
+      232
+    ],
+    "update_ids": [
+      378304125
     ],
     "retry_count": 0
   }
