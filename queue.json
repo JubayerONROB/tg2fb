@@ -1,33 +1,5 @@
 [
   {
-    "type": "video",
-    "video_file_id": "BAACAgIAAyEFAAMBClOLWAAD5WpsQvoGYCcsLhk--t6PESFZEDiyAALkpgACf4ZhSwFLeZme2urTPQQ",
-    "video_file_size": 9538312,
-    "caption": "Google DeepMind has announced Gemini Robotics 2, a new AI system designed to control the full-body movements of humanoid robots, including walking, crouching, and manipulating objects with five-fingered hands.\n\nThe system integrates three main models. Gemini Robotics 2 translates visual input and instructions into coordinated movement. ER 2 manages complex, multi-minute tasks, tracking hundreds of decisions while coordinating multiple robots. On-Device 2 operates locally and can adjust to a new two-armed robot using fewer than 200 training examples gathered over several hours.\n\nRobotics 2 has been tested on different versions of Apptronik’s Apollo humanoid and the Franka Duo robot, using the same system checkpoint.\n\nReported performance varies, with whole-body task success rates from 45.7% to 76.3%. In manipulation tasks, results range from 32% for dustpan use to 92% for unscrewing a light bulb.\n\n📰 @aipost",
-    "entities": [
-      {
-        "offset": 910,
-        "length": 2,
-        "type": "custom_emoji",
-        "custom_emoji_id": "5363988332466438547"
-      },
-      {
-        "offset": 913,
-        "length": 7,
-        "type": "mention"
-      }
-    ],
-    "media_group_id": null,
-    "chat_id": -1004468214616,
-    "message_ids": [
-      229
-    ],
-    "update_ids": [
-      378304122
-    ],
-    "retry_count": 0
-  },
-  {
     "type": "photo",
     "photo_file_ids": [
       "AgACAgIAAyEFAAMBClOLWAAD5mpsXljm_bE9WmaCiKRLOSjcNdIcAAJYImsbrkpYS-WfeBhg0hyiAQADAgADeQADPQQ"
@@ -126,6 +98,46 @@
     ],
     "update_ids": [
       378304125
+    ],
+    "retry_count": 0
+  },
+  {
+    "type": "video",
+    "video_file_id": "BAACAgQAAyEFAAMBClOLWAAD6Wps3UeyW3Rs02EUe6djbORoO1EXAAKaHgACpvNpU-_M5PLA_O1pPQQ",
+    "video_file_size": 25674375,
+    "caption": "⚡️This robot just tied a knot with its own hands\n\nIt also unscrewed a lightbulb and sealed a bag of grapes without being programmed for any of them.\n\nThe robot runs on Google DeepMind's Gemini Robotics 2 with 22 finger joints, all controlled by a single AI model.\n\n@aipost 🏴",
+    "entities": [
+      {
+        "offset": 0,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5366360391364412817"
+      },
+      {
+        "offset": 2,
+        "length": 46,
+        "type": "bold"
+      },
+      {
+        "offset": 265,
+        "length": 7,
+        "type": "text_link",
+        "url": "https://t.me/aipost"
+      },
+      {
+        "offset": 273,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5431390559912614642"
+      }
+    ],
+    "media_group_id": null,
+    "chat_id": -1004468214616,
+    "message_ids": [
+      233
+    ],
+    "update_ids": [
+      378304126
     ],
     "retry_count": 0
   }
