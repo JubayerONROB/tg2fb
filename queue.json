@@ -1,34 +1,5 @@
 [
   {
-    "type": "photo",
-    "photo_file_ids": [
-      "AgACAgIAAyEFAAMBClOLWAAD4WprtFWO5vF7Mi77SS2VVFres_o5AAIwIWsbrkpYSwGQmExu-xKcAQADAgADeQADPQQ"
-    ],
-    "caption": "Seedance 2.5 will be released tomorrow. This update marks a new stage for the AI video generation tool.\n\nCurrently, Seedance 2.0 is regarded as the most advanced version available. The upcoming 2.5 release is expected to take the lead in the field and introduce support for creating longer video clips.\n\nThe launch will end the anticipation around this significant software update.\n\n📰 @aipost",
-    "entities": [
-      {
-        "offset": 383,
-        "length": 2,
-        "type": "custom_emoji",
-        "custom_emoji_id": "5363988332466438547"
-      },
-      {
-        "offset": 386,
-        "length": 7,
-        "type": "mention"
-      }
-    ],
-    "media_group_id": null,
-    "chat_id": -1004468214616,
-    "message_ids": [
-      225
-    ],
-    "update_ids": [
-      378304118
-    ],
-    "retry_count": 0
-  },
-  {
     "type": "video",
     "video_file_id": "BAACAgQAAyEFAAMBClOLWAAD4mprw-7wwIYIjKFM2Frv4MBKLei2AAKaHQAC3PhYUxOFgPin5lNxPQQ",
     "video_file_size": 7605257,
@@ -175,6 +146,35 @@
     ],
     "update_ids": [
       378304122
+    ],
+    "retry_count": 0
+  },
+  {
+    "type": "photo",
+    "photo_file_ids": [
+      "AgACAgIAAyEFAAMBClOLWAAD5mpsXljm_bE9WmaCiKRLOSjcNdIcAAJYImsbrkpYS-WfeBhg0hyiAQADAgADeQADPQQ"
+    ],
+    "caption": "OpenAI has introduced significant changes to its AI model pricing, directly impacting Luna and Terra tiers. Luna’s price has been reduced by 80% to $0.20 or $1.20 per million tokens. Terra has seen a 20% decrease, now available at $2 or $12 per million tokens. Luna is now 25 times less expensive than Sol.\n\nThe Sonnet 5 release stands out as unusually costly and less effective compared to these updates. \n\nMeanwhile, the newly launched GPT-5.6 Sol Fast offers up to 2.5x faster inference, with only a 2x price increase, resulting in a 25% improvement in speed-to-cost efficiency and maintaining the same intelligence.\n\nOpenAI’s approach targets both budget and premium markets, updating pricing and performance across the board.\n\n📰 @aipost",
+    "entities": [
+      {
+        "offset": 732,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5363988332466438547"
+      },
+      {
+        "offset": 735,
+        "length": 7,
+        "type": "mention"
+      }
+    ],
+    "media_group_id": null,
+    "chat_id": -1004468214616,
+    "message_ids": [
+      230
+    ],
+    "update_ids": [
+      378304123
     ],
     "retry_count": 0
   }
