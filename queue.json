@@ -1,44 +1,5 @@
 [
   {
-    "type": "album",
-    "photo_file_ids": [
-      "AgACAgQAAyEFAAMBClOLWAAD3mprYz1m-VD73kKrJnsOYj6dsmanAAJcDmsb3PhYU8z3FutyzG-0AQADAgADeQADPQQ",
-      "AgACAgQAAyEFAAMBClOLWAAD32prYz2iEt7GPHW7OjDdULMKJ-iEAAJdDmsb3PhYU9KgsPMvKOaXAQADAgADeQADPQQ"
-    ],
-    "caption": "A California startup built a teleoperated rescue robot for wildfires and collapsed buildings, gave it a goat skull and glowing eyes, and then photographed it staring through a glass office door.\n\nThey also published where to shoot it if it doesn't stop...\n\nSource.\n\n@aipost 🏴",
-    "entities": [
-      {
-        "offset": 257,
-        "length": 6,
-        "type": "text_link",
-        "url": "https://www.satyress.com/"
-      },
-      {
-        "offset": 266,
-        "length": 7,
-        "type": "text_link",
-        "url": "https://t.me/aipost"
-      },
-      {
-        "offset": 274,
-        "length": 2,
-        "type": "custom_emoji",
-        "custom_emoji_id": "5431390559912614642"
-      }
-    ],
-    "media_group_id": "14283381225972877",
-    "chat_id": -1004468214616,
-    "message_ids": [
-      222,
-      223
-    ],
-    "update_ids": [
-      378304115,
-      378304116
-    ],
-    "retry_count": 0
-  },
-  {
     "type": "video",
     "video_file_id": "BAACAgQAAyEFAAMBClOLWAAD4GprmnyxlaE0szqkhV8VmvWwOVpNAAJrHQAC3PhYU2L_ZhEdyX_SPQQ",
     "video_file_size": 6345047,
