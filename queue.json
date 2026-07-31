@@ -1,34 +1,5 @@
 [
   {
-    "type": "video",
-    "video_file_id": "BAACAgQAAyEFAAMBClOLWAAD4GprmnyxlaE0szqkhV8VmvWwOVpNAAJrHQAC3PhYU2L_ZhEdyX_SPQQ",
-    "video_file_size": 6345047,
-    "caption": "“I mean there could be, yeah,” Open AI CEO Sam Altman responds when asked if more companies could’ve been hacked by OpenAI.\n\n@aipost 🏴",
-    "entities": [
-      {
-        "offset": 125,
-        "length": 7,
-        "type": "text_link",
-        "url": "https://t.me/aipost"
-      },
-      {
-        "offset": 133,
-        "length": 2,
-        "type": "custom_emoji",
-        "custom_emoji_id": "5431390559912614642"
-      }
-    ],
-    "media_group_id": null,
-    "chat_id": -1004468214616,
-    "message_ids": [
-      224
-    ],
-    "update_ids": [
-      378304117
-    ],
-    "retry_count": 0
-  },
-  {
     "type": "photo",
     "photo_file_ids": [
       "AgACAgIAAyEFAAMBClOLWAAD4WprtFWO5vF7Mi77SS2VVFres_o5AAIwIWsbrkpYSwGQmExu-xKcAQADAgADeQADPQQ"
@@ -94,6 +65,116 @@
     ],
     "update_ids": [
       378304119
+    ],
+    "retry_count": 0
+  },
+  {
+    "type": "photo",
+    "photo_file_ids": [
+      "AgACAgQAAyEFAAMBClOLWAAD42psKNbAPq05VeWGO56GjgVnqk4yAALwDmsb3PhYU81l6Op6RbDeAQADAgADeQADPQQ"
+    ],
+    "caption": "🚀 Mark Zuckerberg fired another shot in the AI war\n\nWhat if the biggest threat to AI isn’t the technology… but the speed limit? That’s essentially Mark Zuckerberg’s argument.\n\nThe Meta CEO says the U.S. should accelerate AI development, not slow it down. He warns that forcing frontier AI models to sit through a 30-day government review before release could leave American companies racing with the handbrake on.\n\nBut that’s not all.\n\nZuckerberg also defended open-weight AI, arguing that powerful models shouldn’t be locked away by a handful of companies. In his view, giving more developers access leads to faster innovation and keeps the AI race competitive.\n\nThat puts Meta on a collision course with companies like OpenAI and Anthropic, which support stricter oversight for the most advanced models because of safety and national security concerns.\n\n@aipost 🏴",
+    "entities": [
+      {
+        "offset": 0,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5258332798409783582"
+      },
+      {
+        "offset": 3,
+        "length": 48,
+        "type": "bold"
+      },
+      {
+        "offset": 857,
+        "length": 7,
+        "type": "text_link",
+        "url": "https://t.me/aipost"
+      },
+      {
+        "offset": 865,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5431390559912614642"
+      }
+    ],
+    "media_group_id": null,
+    "chat_id": -1004468214616,
+    "message_ids": [
+      227
+    ],
+    "update_ids": [
+      378304120
+    ],
+    "retry_count": 0
+  },
+  {
+    "type": "photo",
+    "photo_file_ids": [
+      "AgACAgQAAyEFAAMBClOLWAAD5GpsKOI8XzvWQPT937PGMmijR3sGAAKhDmsb3PhYU0IQfLrDclKPAQADAgADeQADPQQ"
+    ],
+    "caption": "❗️The team that built AlphaFold is no longer together.\n\nGoogle DeepMind has quietly broken up the original AlphaFold team as it shifts its scientific focus toward Gemini-powered AI.\n\nOver the past year, many of the researchers behind AlphaFold have been reassigned to projects in genomics, enzyme design, nuclear fusion, and Gemini. Others have joined Isomorphic Labs, Alphabet’s AI drug-discovery company.\n\nSome have left Google altogether, including Nobel Prize winner John Jumper, along with researchers Jonas Adler and Alexander Pritzel, who are now at Anthropic.\n\nBut don’t mistake this for the end of AlphaFold.\n\nThe project is still going strong. Its database now contains more than 200 million predicted protein structures, while AlphaFold 3 and AI-driven drug discovery continue under DeepMind and Isomorphic Labs.\n\n@aipost 🏴",
+    "entities": [
+      {
+        "offset": 0,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5289761612440310918"
+      },
+      {
+        "offset": 2,
+        "length": 52,
+        "type": "bold"
+      },
+      {
+        "offset": 825,
+        "length": 7,
+        "type": "text_link",
+        "url": "https://t.me/aipost"
+      },
+      {
+        "offset": 833,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5431390559912614642"
+      }
+    ],
+    "media_group_id": null,
+    "chat_id": -1004468214616,
+    "message_ids": [
+      228
+    ],
+    "update_ids": [
+      378304121
+    ],
+    "retry_count": 0
+  },
+  {
+    "type": "video",
+    "video_file_id": "BAACAgIAAyEFAAMBClOLWAAD5WpsQvoGYCcsLhk--t6PESFZEDiyAALkpgACf4ZhSwFLeZme2urTPQQ",
+    "video_file_size": 9538312,
+    "caption": "Google DeepMind has announced Gemini Robotics 2, a new AI system designed to control the full-body movements of humanoid robots, including walking, crouching, and manipulating objects with five-fingered hands.\n\nThe system integrates three main models. Gemini Robotics 2 translates visual input and instructions into coordinated movement. ER 2 manages complex, multi-minute tasks, tracking hundreds of decisions while coordinating multiple robots. On-Device 2 operates locally and can adjust to a new two-armed robot using fewer than 200 training examples gathered over several hours.\n\nRobotics 2 has been tested on different versions of Apptronik’s Apollo humanoid and the Franka Duo robot, using the same system checkpoint.\n\nReported performance varies, with whole-body task success rates from 45.7% to 76.3%. In manipulation tasks, results range from 32% for dustpan use to 92% for unscrewing a light bulb.\n\n📰 @aipost",
+    "entities": [
+      {
+        "offset": 910,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5363988332466438547"
+      },
+      {
+        "offset": 913,
+        "length": 7,
+        "type": "mention"
+      }
+    ],
+    "media_group_id": null,
+    "chat_id": -1004468214616,
+    "message_ids": [
+      229
+    ],
+    "update_ids": [
+      378304122
     ],
     "retry_count": 0
   }
