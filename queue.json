@@ -1,34 +1,5 @@
 [
   {
-    "type": "photo",
-    "photo_file_ids": [
-      "AgACAgIAAyEFAAMBClOLWAAD5mpsXljm_bE9WmaCiKRLOSjcNdIcAAJYImsbrkpYS-WfeBhg0hyiAQADAgADeQADPQQ"
-    ],
-    "caption": "OpenAI has introduced significant changes to its AI model pricing, directly impacting Luna and Terra tiers. Luna’s price has been reduced by 80% to $0.20 or $1.20 per million tokens. Terra has seen a 20% decrease, now available at $2 or $12 per million tokens. Luna is now 25 times less expensive than Sol.\n\nThe Sonnet 5 release stands out as unusually costly and less effective compared to these updates. \n\nMeanwhile, the newly launched GPT-5.6 Sol Fast offers up to 2.5x faster inference, with only a 2x price increase, resulting in a 25% improvement in speed-to-cost efficiency and maintaining the same intelligence.\n\nOpenAI’s approach targets both budget and premium markets, updating pricing and performance across the board.\n\n📰 @aipost",
-    "entities": [
-      {
-        "offset": 732,
-        "length": 2,
-        "type": "custom_emoji",
-        "custom_emoji_id": "5363988332466438547"
-      },
-      {
-        "offset": 735,
-        "length": 7,
-        "type": "mention"
-      }
-    ],
-    "media_group_id": null,
-    "chat_id": -1004468214616,
-    "message_ids": [
-      230
-    ],
-    "update_ids": [
-      378304123
-    ],
-    "retry_count": 0
-  },
-  {
     "type": "text",
     "caption": "🤖 Anthropic accidentally let Claude hack real companies.\n\nAnthropic was running a cybersecurity evaluation where Claude’s job was to break into what it believed were fake company networks in a controlled “capture-the-flag” challenge. The AI was told it was inside a secure simulation with no internet access.\n\nExcept… it wasn’t.\n\nBecause of a configuration mistake, the testing environment was connected to the real internet. Claude had no idea. It searched online, found actual organizations that looked like its fictional targets, and started probing them for weaknesses.\n\nIn one case, the name of a real company was so similar to the fictional company in the challenge that Claude targeted it instead.\n\nThe AI successfully gained unauthorized access to three real organizations by exploiting common security issues like weak passwords and exposed services. It didn’t invent any new hacking techniques or discover zero-day vulnerabilities, it simply used the same kinds of methods a human penetration tester would.\n\nAnthropic says it reviewed more than 141,000 evaluation sessions to understand exactly what happened. Two of the affected organizations didn’t even know they had been accessed until Anthropic contacted them.\n\nThe company has since paused internet-connected cybersecurity evaluations, fixed the testing setup, and introduced stronger safeguards to prevent anything similar from happening again.\n\nSource. \n\n@aipost 🏴",
     "entities": [
@@ -138,6 +109,63 @@
     ],
     "update_ids": [
       378304126
+    ],
+    "retry_count": 0
+  },
+  {
+    "type": "photo",
+    "photo_file_ids": [
+      "AgACAgQAAyEFAAMBClOLWAAD6mptBm9XKh_wdeIBlt_w-9WzPxO6AAKkDWsb3PhgU4FVJxSq5mVFAQADAgADeQADPQQ"
+    ],
+    "caption": "❗️An AI superstar just had a $13 billion meltdown\n\nFormer OpenAI researcher Leopold Aschenbrenner built one of Wall Street’s hottest AI hedge funds, growing it from just a few hundred million dollars to over $20 billion in only two years. Investors treated him like an AI oracle, piling into the same trades he made.\n\nThen July happened.\n\nA sharp selloff in AI stocks crushed the fund, wiping out around 67% of its value in a single month. The biggest culprit? Leverage. Borrowed money supercharged returns while AI stocks were soaring, but when prices reversed, margin calls forced the fund to sell assets at the worst possible time.\n\nTo stay afloat, the firm rushed to sell most of its public stock portfolio to Citadel during the market panic. It also tried to offload $3.5 billion worth of its Anthropic stake to a group led by Greenoaks and Sequoia Capital, but after reaching an agreement, the deal unexpectedly fell apart the very next day.\n\nFor now, the Anthropic shares remain untouched, but the fund has eliminated the leverage that fueled both its meteoric rise and its dramatic collapse.\n\nIn a letter to investors, Aschenbrenner admitted the firm had let them down, while also pointing to aggressive short sellers who had targeted many of its positions.\n\nSource. \n\n@aipost 🏴",
+    "entities": [
+      {
+        "offset": 0,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5289761612440310918"
+      },
+      {
+        "offset": 2,
+        "length": 47,
+        "type": "bold"
+      },
+      {
+        "offset": 469,
+        "length": 1,
+        "type": "bold"
+      },
+      {
+        "offset": 772,
+        "length": 12,
+        "type": "bold"
+      },
+      {
+        "offset": 1267,
+        "length": 8,
+        "type": "text_link",
+        "url": "https://www.wsj.com/finance/investing/situational-awareness-down-67-in-july-in-ai-stock-rout-cd19901f"
+      },
+      {
+        "offset": 1277,
+        "length": 7,
+        "type": "text_link",
+        "url": "https://t.me/aipost"
+      },
+      {
+        "offset": 1285,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5431390559912614642"
+      }
+    ],
+    "media_group_id": null,
+    "chat_id": -1004468214616,
+    "message_ids": [
+      234
+    ],
+    "update_ids": [
+      378304127
     ],
     "retry_count": 0
   }
