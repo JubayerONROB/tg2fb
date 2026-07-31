@@ -1,49 +1,5 @@
 [
   {
-    "type": "text",
-    "caption": "🤖 Anthropic accidentally let Claude hack real companies.\n\nAnthropic was running a cybersecurity evaluation where Claude’s job was to break into what it believed were fake company networks in a controlled “capture-the-flag” challenge. The AI was told it was inside a secure simulation with no internet access.\n\nExcept… it wasn’t.\n\nBecause of a configuration mistake, the testing environment was connected to the real internet. Claude had no idea. It searched online, found actual organizations that looked like its fictional targets, and started probing them for weaknesses.\n\nIn one case, the name of a real company was so similar to the fictional company in the challenge that Claude targeted it instead.\n\nThe AI successfully gained unauthorized access to three real organizations by exploiting common security issues like weak passwords and exposed services. It didn’t invent any new hacking techniques or discover zero-day vulnerabilities, it simply used the same kinds of methods a human penetration tester would.\n\nAnthropic says it reviewed more than 141,000 evaluation sessions to understand exactly what happened. Two of the affected organizations didn’t even know they had been accessed until Anthropic contacted them.\n\nThe company has since paused internet-connected cybersecurity evaluations, fixed the testing setup, and introduced stronger safeguards to prevent anything similar from happening again.\n\nSource. \n\n@aipost 🏴",
-    "entities": [
-      {
-        "offset": 0,
-        "length": 2,
-        "type": "custom_emoji",
-        "custom_emoji_id": "5208665212483310136"
-      },
-      {
-        "offset": 3,
-        "length": 54,
-        "type": "bold"
-      },
-      {
-        "offset": 1414,
-        "length": 8,
-        "type": "text_link",
-        "url": "https://www.anthropic.com/news/investigating-incidents-cybersecurity-evals"
-      },
-      {
-        "offset": 1424,
-        "length": 7,
-        "type": "text_link",
-        "url": "https://t.me/aipost"
-      },
-      {
-        "offset": 1432,
-        "length": 2,
-        "type": "custom_emoji",
-        "custom_emoji_id": "5431390559912614642"
-      }
-    ],
-    "media_group_id": null,
-    "chat_id": -1004468214616,
-    "message_ids": [
-      231
-    ],
-    "update_ids": [
-      378304124
-    ],
-    "retry_count": 0
-  },
-  {
     "type": "video",
     "video_file_id": "BAACAgQAAyEFAAMBClOLWAAD6GpsvkN3xJsSLv4ph7PWCWGWozpsAAKeHQAC3PhYU4GWacH_d2CLPQQ",
     "video_file_size": 14131067,
