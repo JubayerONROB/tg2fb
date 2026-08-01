@@ -2,47 +2,6 @@
   {
     "type": "photo",
     "photo_file_ids": [
-      "AgACAgQAAyEFAAMBClOLWAAD7Wptg2BSH7ab2kUAAcG0HugGpFH7eQACtw1rG9z4YFMbBzDeqlRO2wEAAwIAA3kAAz0E"
-    ],
-    "caption": "📢 The internet isn’t just for humans anymore, it’s being rewritten for AI\n\nImagine opening a website and discovering that some of the “ads” weren’t meant for you at all.\n\nThat’s exactly what Time is experimenting with.\n\nThe publication has introduced a new type of advertisement designed specifically for AI assistants like ChatGPT, Gemini, and Claude. Instead of flashy banners or videos, these ads are simple, fact-filled text that AI models can use when answering users’ questions about brands.\n\nIt’s a sign of how quickly the web is changing.\n\nFor years, companies fought to rank #1 on Google. Now they’re chasing something entirely different: making sure AI mentions their brand when someone asks for a recommendation or explanation.\n\n@aipost 🏴",
-    "entities": [
-      {
-        "offset": 0,
-        "length": 2,
-        "type": "custom_emoji",
-        "custom_emoji_id": "5289992252184100112"
-      },
-      {
-        "offset": 3,
-        "length": 71,
-        "type": "bold"
-      },
-      {
-        "offset": 741,
-        "length": 7,
-        "type": "text_link",
-        "url": "https://t.me/aipost"
-      },
-      {
-        "offset": 749,
-        "length": 2,
-        "type": "custom_emoji",
-        "custom_emoji_id": "5431390559912614642"
-      }
-    ],
-    "media_group_id": null,
-    "chat_id": -1004468214616,
-    "message_ids": [
-      237
-    ],
-    "update_ids": [
-      378304130
-    ],
-    "retry_count": 0
-  },
-  {
-    "type": "photo",
-    "photo_file_ids": [
       "AgACAgIAAyEFAAMBClOLWAAD7mptp-RyzEYMmeNQ7fNYdYoLI_pfAAJSGGsbJMlIS98FhvPfQ8EQAQADAgADeAADPQQ"
     ],
     "caption": "😐 Grok 4.6 Launch Set for Next Week\n\nElon Musk announced that Grok 4.6 will launch on August 7 with 1.5T parameters. Grok 4.7 is planned to follow just weeks later.\n\nAround the same time, rumors surfaced about Composer 3, developed by Cursor under SpaceX. It was trained from scratch on the Colossus 2 cluster and aims to match Opus 5 and GPT-5.6 Sol quality at a fraction of the cost.\n\n📊@tech",
@@ -279,6 +238,36 @@
     ],
     "update_ids": [
       378304134
+    ],
+    "retry_count": 0
+  },
+  {
+    "type": "photo",
+    "photo_file_ids": [
+      "AgACAgQAAyEFAAMBClOLWAAD8mptzLEoVXCmiammEEBkBEP5g3k-AALrDWsbSvNpUz82Ft66EssfAQADAgADeQADPQQ"
+    ],
+    "caption": "Ursula von der Leyen on X.\n\n@aipost 🏴",
+    "entities": [
+      {
+        "offset": 28,
+        "length": 7,
+        "type": "text_link",
+        "url": "https://t.me/aipost"
+      },
+      {
+        "offset": 36,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5431390559912614642"
+      }
+    ],
+    "media_group_id": null,
+    "chat_id": -1004468214616,
+    "message_ids": [
+      242
+    ],
+    "update_ids": [
+      378304135
     ],
     "retry_count": 0
   }
