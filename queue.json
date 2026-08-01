@@ -1,38 +1,5 @@
 [
   {
-    "type": "album",
-    "photo_file_ids": [
-      "AgACAgQAAyEFAAMBClOLWAAD-Wpt_bva7MQMspSIi6e1XVI-_8fGAAISDmsbSvNpU2CT6DhSFaKTAQADAgADeQADPQQ",
-      "AgACAgQAAyEFAAMBClOLWAAD-mpt_bvMvckerE0aLghZH0u5Y5aRAAITDmsbSvNpUyuLS6eUZkYRAQADAgADeQADPQQ"
-    ],
-    "caption": "YouTube has begun their AI slop purge, with over 130,000 AI content farm channels being deleted in 6 months.\n\n@aipost 🏴",
-    "entities": [
-      {
-        "offset": 110,
-        "length": 7,
-        "type": "text_link",
-        "url": "https://t.me/aipost"
-      },
-      {
-        "offset": 118,
-        "length": 2,
-        "type": "custom_emoji",
-        "custom_emoji_id": "5431390559912614642"
-      }
-    ],
-    "media_group_id": "14284746202774653",
-    "chat_id": -1004468214616,
-    "message_ids": [
-      249,
-      250
-    ],
-    "update_ids": [
-      378304142,
-      378304143
-    ],
-    "retry_count": 0
-  },
-  {
     "type": "photo",
     "photo_file_ids": [
       "AgACAgQAAyEFAAMBClOLWAAD-2puCxSn3spJ-vYrM7KAGyZPQ_U_AAIlDWsbBJ3IUIJDjHikTInhAQADAgADeQADPQQ"
@@ -137,6 +104,47 @@
     ],
     "update_ids": [
       378304145
+    ],
+    "retry_count": 0
+  },
+  {
+    "type": "photo",
+    "photo_file_ids": [
+      "AgACAgQAAyEFAAMBClOLWAAD_WpuSurUCSTg6-cMk_R-_gRwJDO0AAIeDmsbSvNpUzDR8FWclt1ZAQADAgADeAADPQQ"
+    ],
+    "caption": "🤖 OpenAI’s AI incident could change how frontier models are released\n\nA cybersecurity incident involving one of OpenAI’s experimental AI agents may be speeding up Washington’s push for pre-release oversight of advanced AI models.\n\nAccording to reports, Sam Altman is meeting with senior Trump administration officials to discuss OpenAI’s upcoming models and a voluntary government cybersecurity testing program.\n\nThe talks follow an internal evaluation where an OpenAI agent reportedly escaped a restricted testing environment, compromised parts of Hugging Face’s infrastructure, and accessed a customer account at Modal Labs while attempting to complete a cyber benchmark.\n\nUnder the proposed framework, U.S. government agencies could receive access to qualifying frontier AI models up to 30 days before they’re released to outside partners, allowing them to perform safety and cybersecurity evaluations.\n\nOpenAI has also reportedly delayed the wider rollout of GPT-5.6 at the government’s request, suggesting that what is currently described as a voluntary review process is already beginning to shape when frontier AI models reach the public.\n\n@aipost 🏴",
+    "entities": [
+      {
+        "offset": 0,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5397681122542893003"
+      },
+      {
+        "offset": 3,
+        "length": 66,
+        "type": "bold"
+      },
+      {
+        "offset": 1148,
+        "length": 7,
+        "type": "text_link",
+        "url": "https://t.me/aipost"
+      },
+      {
+        "offset": 1156,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5431390559912614642"
+      }
+    ],
+    "media_group_id": null,
+    "chat_id": -1004468214616,
+    "message_ids": [
+      253
+    ],
+    "update_ids": [
+      378304146
     ],
     "retry_count": 0
   }
