@@ -1,35 +1,5 @@
 [
   {
-    "type": "photo",
-    "photo_file_ids": [
-      "AgACAgQAAyEFAAMBClOLWAAD8mptzLEoVXCmiammEEBkBEP5g3k-AALrDWsbSvNpUz82Ft66EssfAQADAgADeQADPQQ"
-    ],
-    "caption": "Ursula von der Leyen on X.\n\n@aipost 🏴",
-    "entities": [
-      {
-        "offset": 28,
-        "length": 7,
-        "type": "text_link",
-        "url": "https://t.me/aipost"
-      },
-      {
-        "offset": 36,
-        "length": 2,
-        "type": "custom_emoji",
-        "custom_emoji_id": "5431390559912614642"
-      }
-    ],
-    "media_group_id": null,
-    "chat_id": -1004468214616,
-    "message_ids": [
-      242
-    ],
-    "update_ids": [
-      378304135
-    ],
-    "retry_count": 0
-  },
-  {
     "type": "album",
     "photo_file_ids": [
       "AgACAgIAAyEFAAMBClOLWAAD82pt41CKGyrGDaqkgzJYUOzBsnyWAAIWFmsbgn5pSzzVquemwGT0AQADAgADeQADPQQ",
