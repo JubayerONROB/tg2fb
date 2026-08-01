@@ -2,58 +2,6 @@
   {
     "type": "photo",
     "photo_file_ids": [
-      "AgACAgQAAyEFAAMBClOLWAAD_GpuHyHzMzoDIf9BxYcddb8im9phAAIYDmsbSvNpU4fM5iNAN4PmAQADAgADeQADPQQ"
-    ],
-    "caption": "🤯 GPT-5.6 Sol helps break a 150-year-old math conjecture\n\nFor nearly 150 years, mathematicians believed a famous idea proposed by physicist James Clerk Maxwell was true.\n\nNot anymore.\n\nIn a new paper, The Maxwell Conjecture is False, researchers constructed a configuration of five point charges with 24 non-degenerate critical points, shattering Maxwell’s long-standing prediction that the maximum should be 16.\n\nOpenAI’s GPT-5.6 Sol provided the key idea that led the team to the breakthrough.\n\nThe researchers emphasized that the AI didn’t produce the proof itself. Instead, GPT-5.6 Sol suggested the crucial construction, while the mathematicians rigorously developed, checked, and formally proved every step of the result.\n\nThe discovery overturns a conjecture that had stood since the 1870s, proving that Maxwell’s proposed upper bound of (n − 1)² critical points is not universally true. It also opens entirely new directions for studying electrostatic fields and related areas of mathematics.\n\nThe authors even acknowledged the AI’s contribution in the paper:\n\n“We are grateful to OpenAI’s GPT-5.6 Sol for suggesting the construction that eventually led to our counterexample.”\n\nSource.\n\n@aipost 🏴",
-    "entities": [
-      {
-        "offset": 0,
-        "length": 2,
-        "type": "custom_emoji",
-        "custom_emoji_id": "5370745797786738962"
-      },
-      {
-        "offset": 3,
-        "length": 54,
-        "type": "bold"
-      },
-      {
-        "offset": 1070,
-        "length": 116,
-        "type": "italic"
-      },
-      {
-        "offset": 1188,
-        "length": 6,
-        "type": "text_link",
-        "url": "https://officechai.com/ai/gpt-5-6-sol-helps-mathematicians-prove-that-150-year-old-maxwell-conjecture-is-false/"
-      },
-      {
-        "offset": 1197,
-        "length": 7,
-        "type": "text_link",
-        "url": "https://t.me/aipost"
-      },
-      {
-        "offset": 1205,
-        "length": 2,
-        "type": "custom_emoji",
-        "custom_emoji_id": "5431390559912614642"
-      }
-    ],
-    "media_group_id": null,
-    "chat_id": -1004468214616,
-    "message_ids": [
-      252
-    ],
-    "update_ids": [
-      378304145
-    ],
-    "retry_count": 0
-  },
-  {
-    "type": "photo",
-    "photo_file_ids": [
       "AgACAgQAAyEFAAMBClOLWAAD_WpuSurUCSTg6-cMk_R-_gRwJDO0AAIeDmsbSvNpUzDR8FWclt1ZAQADAgADeAADPQQ"
     ],
     "caption": "🤖 OpenAI’s AI incident could change how frontier models are released\n\nA cybersecurity incident involving one of OpenAI’s experimental AI agents may be speeding up Washington’s push for pre-release oversight of advanced AI models.\n\nAccording to reports, Sam Altman is meeting with senior Trump administration officials to discuss OpenAI’s upcoming models and a voluntary government cybersecurity testing program.\n\nThe talks follow an internal evaluation where an OpenAI agent reportedly escaped a restricted testing environment, compromised parts of Hugging Face’s infrastructure, and accessed a customer account at Modal Labs while attempting to complete a cyber benchmark.\n\nUnder the proposed framework, U.S. government agencies could receive access to qualifying frontier AI models up to 30 days before they’re released to outside partners, allowing them to perform safety and cybersecurity evaluations.\n\nOpenAI has also reportedly delayed the wider rollout of GPT-5.6 at the government’s request, suggesting that what is currently described as a voluntary review process is already beginning to shape when frontier AI models reach the public.\n\n@aipost 🏴",
@@ -89,6 +37,39 @@
     ],
     "update_ids": [
       378304146
+    ],
+    "retry_count": 0
+  },
+  {
+    "type": "album",
+    "photo_file_ids": [
+      "AgACAgQAAyEFAAMBClOLWAAD_mpuc8EJXjdIeT1OfZKy_H3vOQQeAAIfDmsbSvNpUy8YBC_I-D9tAQADAgADbQADPQQ",
+      "AgACAgQAAyEFAAMBClOLWAAD_2puc8ESrzxWjtJtMj192i5t4-33AAIgDmsbSvNpU6EFhyyo5yjZAQADAgADeAADPQQ"
+    ],
+    "caption": "LinkedIn rolls out a \"Seems like AI slop\" button as it cracks down on low-quality AI-generated content flooding the platform.\n\nThe move comes after studies found LinkedIn to be the most AI-saturated major social network, with over 40% of long-form posts reportedly flagged as fully AI-generated \"slop.\"\n\n@aipost 🏴",
+    "entities": [
+      {
+        "offset": 304,
+        "length": 7,
+        "type": "text_link",
+        "url": "https://t.me/aipost"
+      },
+      {
+        "offset": 312,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5431390559912614642"
+      }
+    ],
+    "media_group_id": "14284987916196981",
+    "chat_id": -1004468214616,
+    "message_ids": [
+      254,
+      255
+    ],
+    "update_ids": [
+      378304147,
+      378304148
     ],
     "retry_count": 0
   }
