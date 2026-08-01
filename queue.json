@@ -1,33 +1,5 @@
 [
   {
-    "type": "video",
-    "video_file_id": "BAACAgIAAyEFAAMBClOLWAAD8WptqB7nSsrHUmJMdadeiDEj9rhtAAKzpAACf4ZxS3HD6AYn6sbWPQQ",
-    "video_file_size": 11673223,
-    "caption": "Boris Cherny, the creator behind Claude Code, has launched his longest-running prompt to date.\n\nThis automated run has been active for 15 consecutive days. Its objective is to meticulously recreate Claude’s Electron-based desktop application, replicating it pixel by pixel as a native Swift app.\n\n📰 @aipost",
-    "entities": [
-      {
-        "offset": 297,
-        "length": 2,
-        "type": "custom_emoji",
-        "custom_emoji_id": "5363988332466438547"
-      },
-      {
-        "offset": 300,
-        "length": 7,
-        "type": "mention"
-      }
-    ],
-    "media_group_id": null,
-    "chat_id": -1004468214616,
-    "message_ids": [
-      241
-    ],
-    "update_ids": [
-      378304134
-    ],
-    "retry_count": 0
-  },
-  {
     "type": "photo",
     "photo_file_ids": [
       "AgACAgQAAyEFAAMBClOLWAAD8mptzLEoVXCmiammEEBkBEP5g3k-AALrDWsbSvNpUz82Ft66EssfAQADAgADeQADPQQ"
@@ -228,6 +200,58 @@
     ],
     "update_ids": [
       378304144
+    ],
+    "retry_count": 0
+  },
+  {
+    "type": "photo",
+    "photo_file_ids": [
+      "AgACAgQAAyEFAAMBClOLWAAD_GpuHyHzMzoDIf9BxYcddb8im9phAAIYDmsbSvNpU4fM5iNAN4PmAQADAgADeQADPQQ"
+    ],
+    "caption": "🤯 GPT-5.6 Sol helps break a 150-year-old math conjecture\n\nFor nearly 150 years, mathematicians believed a famous idea proposed by physicist James Clerk Maxwell was true.\n\nNot anymore.\n\nIn a new paper, The Maxwell Conjecture is False, researchers constructed a configuration of five point charges with 24 non-degenerate critical points, shattering Maxwell’s long-standing prediction that the maximum should be 16.\n\nOpenAI’s GPT-5.6 Sol provided the key idea that led the team to the breakthrough.\n\nThe researchers emphasized that the AI didn’t produce the proof itself. Instead, GPT-5.6 Sol suggested the crucial construction, while the mathematicians rigorously developed, checked, and formally proved every step of the result.\n\nThe discovery overturns a conjecture that had stood since the 1870s, proving that Maxwell’s proposed upper bound of (n − 1)² critical points is not universally true. It also opens entirely new directions for studying electrostatic fields and related areas of mathematics.\n\nThe authors even acknowledged the AI’s contribution in the paper:\n\n“We are grateful to OpenAI’s GPT-5.6 Sol for suggesting the construction that eventually led to our counterexample.”\n\nSource.\n\n@aipost 🏴",
+    "entities": [
+      {
+        "offset": 0,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5370745797786738962"
+      },
+      {
+        "offset": 3,
+        "length": 54,
+        "type": "bold"
+      },
+      {
+        "offset": 1070,
+        "length": 116,
+        "type": "italic"
+      },
+      {
+        "offset": 1188,
+        "length": 6,
+        "type": "text_link",
+        "url": "https://officechai.com/ai/gpt-5-6-sol-helps-mathematicians-prove-that-150-year-old-maxwell-conjecture-is-false/"
+      },
+      {
+        "offset": 1197,
+        "length": 7,
+        "type": "text_link",
+        "url": "https://t.me/aipost"
+      },
+      {
+        "offset": 1205,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5431390559912614642"
+      }
+    ],
+    "media_group_id": null,
+    "chat_id": -1004468214616,
+    "message_ids": [
+      252
+    ],
+    "update_ids": [
+      378304145
     ],
     "retry_count": 0
   }
