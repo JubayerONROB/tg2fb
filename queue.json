@@ -1,45 +1,5 @@
 [
   {
-    "type": "video",
-    "video_file_id": "BAACAgQAAyEFAAMBClOLWAAD6Wps3UeyW3Rs02EUe6djbORoO1EXAAKaHgACpvNpU-_M5PLA_O1pPQQ",
-    "video_file_size": 25674375,
-    "caption": "⚡️This robot just tied a knot with its own hands\n\nIt also unscrewed a lightbulb and sealed a bag of grapes without being programmed for any of them.\n\nThe robot runs on Google DeepMind's Gemini Robotics 2 with 22 finger joints, all controlled by a single AI model.\n\n@aipost 🏴",
-    "entities": [
-      {
-        "offset": 0,
-        "length": 2,
-        "type": "custom_emoji",
-        "custom_emoji_id": "5366360391364412817"
-      },
-      {
-        "offset": 2,
-        "length": 46,
-        "type": "bold"
-      },
-      {
-        "offset": 265,
-        "length": 7,
-        "type": "text_link",
-        "url": "https://t.me/aipost"
-      },
-      {
-        "offset": 273,
-        "length": 2,
-        "type": "custom_emoji",
-        "custom_emoji_id": "5431390559912614642"
-      }
-    ],
-    "media_group_id": null,
-    "chat_id": -1004468214616,
-    "message_ids": [
-      233
-    ],
-    "update_ids": [
-      378304126
-    ],
-    "retry_count": 0
-  },
-  {
     "type": "photo",
     "photo_file_ids": [
       "AgACAgQAAyEFAAMBClOLWAAD6mptBm9XKh_wdeIBlt_w-9WzPxO6AAKkDWsb3PhgU4FVJxSq5mVFAQADAgADeQADPQQ"
