@@ -1,40 +1,5 @@
 [
   {
-    "type": "video",
-    "video_file_id": "BAACAgQAAyEFAAMBClOLWAAD7Gptg1HG8a3fDI59PTyEJb1xvtQ4AAKlJwAC3PhgU-KsOpsSRHWbPQQ",
-    "video_file_size": 11255975,
-    "caption": "🗣Sam Altman: \"say in month 23 we have something everybody agrees is superintelligence. what happens in month 24?\n\nmy answer is: not very much\"\n\nThe cult of the 'machine god' expects change much faster than it will, even though much of that progress was coming anyway.\n\n@aipost 🏴",
-    "entities": [
-      {
-        "offset": 0,
-        "length": 2,
-        "type": "custom_emoji",
-        "custom_emoji_id": "5287468155738821335"
-      },
-      {
-        "offset": 270,
-        "length": 7,
-        "type": "text_link",
-        "url": "https://t.me/aipost"
-      },
-      {
-        "offset": 278,
-        "length": 2,
-        "type": "custom_emoji",
-        "custom_emoji_id": "5431390559912614642"
-      }
-    ],
-    "media_group_id": null,
-    "chat_id": -1004468214616,
-    "message_ids": [
-      236
-    ],
-    "update_ids": [
-      378304129
-    ],
-    "retry_count": 0
-  },
-  {
     "type": "photo",
     "photo_file_ids": [
       "AgACAgQAAyEFAAMBClOLWAAD7Wptg2BSH7ab2kUAAcG0HugGpFH7eQACtw1rG9z4YFMbBzDeqlRO2wEAAwIAA3kAAz0E"
@@ -72,6 +37,248 @@
     ],
     "update_ids": [
       378304130
+    ],
+    "retry_count": 0
+  },
+  {
+    "type": "photo",
+    "photo_file_ids": [
+      "AgACAgIAAyEFAAMBClOLWAAD7mptp-RyzEYMmeNQ7fNYdYoLI_pfAAJSGGsbJMlIS98FhvPfQ8EQAQADAgADeAADPQQ"
+    ],
+    "caption": "😐 Grok 4.6 Launch Set for Next Week\n\nElon Musk announced that Grok 4.6 will launch on August 7 with 1.5T parameters. Grok 4.7 is planned to follow just weeks later.\n\nAround the same time, rumors surfaced about Composer 3, developed by Cursor under SpaceX. It was trained from scratch on the Colossus 2 cluster and aims to match Opus 5 and GPT-5.6 Sol quality at a fraction of the cost.\n\n📊@tech",
+    "entities": [
+      {
+        "offset": 0,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5902340522852227618"
+      },
+      {
+        "offset": 3,
+        "length": 33,
+        "type": "bold"
+      },
+      {
+        "offset": 63,
+        "length": 8,
+        "type": "bold"
+      },
+      {
+        "offset": 101,
+        "length": 15,
+        "type": "bold"
+      },
+      {
+        "offset": 211,
+        "length": 10,
+        "type": "bold"
+      },
+      {
+        "offset": 236,
+        "length": 6,
+        "type": "bold"
+      },
+      {
+        "offset": 292,
+        "length": 10,
+        "type": "bold"
+      },
+      {
+        "offset": 388,
+        "length": 2,
+        "type": "bold"
+      },
+      {
+        "offset": 388,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5449841756596101801"
+      },
+      {
+        "offset": 390,
+        "length": 5,
+        "type": "mention"
+      },
+      {
+        "offset": 390,
+        "length": 5,
+        "type": "bold"
+      }
+    ],
+    "media_group_id": null,
+    "chat_id": -1004468214616,
+    "message_ids": [
+      238
+    ],
+    "update_ids": [
+      378304131
+    ],
+    "retry_count": 0
+  },
+  {
+    "type": "photo",
+    "photo_file_ids": [
+      "AgACAgIAAyEFAAMBClOLWAAD72ptp-4lEnlSAAF02b2Xm3_YUXlh-wAC6R1rG2nQSEtmZmT9d33acgEAAwIAA3gAAz0E"
+    ],
+    "caption": "💻 Radeon RX 9050 Returns with 4GB VRAM\n\nASRock listed the Radeon RX 9050 with 4GB of video memory, the first modern card with this capacity in years. It features RDNA 4 architecture, 16 compute units, and a boost clock up to 2600 MHz, but only a 64-bit memory bus and 18 GB/s bandwidth.\n\nThe 4GB VRAM is well below current AAA game recommendations, limiting play to 1080p with no future-proofing. The card appeared in a Best Buy prebuilt priced at $889, paired with 8GB DDR4 RAM, a 500GB SSD, and a Ryzen 5 5500 CPU.\n\nHigher memory costs and component shortages force manufacturers to cut specs rather than raise prices. The 4GB card is a sign of how tight the market remains, making this low VRAM configuration acceptable again.\n\n📊@tech",
+    "entities": [
+      {
+        "offset": 0,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5803401351278892713"
+      },
+      {
+        "offset": 3,
+        "length": 36,
+        "type": "bold"
+      },
+      {
+        "offset": 59,
+        "length": 39,
+        "type": "bold"
+      },
+      {
+        "offset": 163,
+        "length": 19,
+        "type": "bold"
+      },
+      {
+        "offset": 293,
+        "length": 8,
+        "type": "bold"
+      },
+      {
+        "offset": 449,
+        "length": 4,
+        "type": "bold"
+      },
+      {
+        "offset": 519,
+        "length": 43,
+        "type": "bold"
+      },
+      {
+        "offset": 732,
+        "length": 2,
+        "type": "bold"
+      },
+      {
+        "offset": 732,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5449841756596101801"
+      },
+      {
+        "offset": 734,
+        "length": 5,
+        "type": "mention"
+      },
+      {
+        "offset": 734,
+        "length": 5,
+        "type": "bold"
+      }
+    ],
+    "media_group_id": null,
+    "chat_id": -1004468214616,
+    "message_ids": [
+      239
+    ],
+    "update_ids": [
+      378304132
+    ],
+    "retry_count": 0
+  },
+  {
+    "type": "video",
+    "video_file_id": "BAACAgIAAyEFAAMBClOLWAAD8Gptp_eDaVMMxDXh3vHbF3WDu_c7AALOpQACQ0pASz9-NpWhRuavPQQ",
+    "video_file_size": 2791195,
+    "caption": "📱 Honor Robot Phone Unboxed Early\n\nA Weibo video shows the Honor Robot Phone before launch. Its robotic arm unfolds in 0.8 seconds when the lens cover slides open, with an on-screen animation, and folds flush when idle.\n\nHonor’s phone features 360-degree stabilization via a three-axis optical system, a four-degree mechanical gimbal, a coprocessor, and AI, reaching a CIPA rating of 5.5. It has a 200MP main sensor on the gimbal, a 50MP ultrawide, and a 200MP periscope lens, color-tuned with ARRI cinema cameras.\n\nPreorders in China need a 1000 yuan deposit and include lifetime YOYO AI SVIP, a year of free gimbal replacement, accessories, 24-month installments, and trade-in options. The price is undisclosed. The official reveal is in August.\n\n📊@tech",
+    "entities": [
+      {
+        "offset": 0,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5819099456745770209"
+      },
+      {
+        "offset": 3,
+        "length": 31,
+        "type": "bold"
+      },
+      {
+        "offset": 60,
+        "length": 17,
+        "type": "bold"
+      },
+      {
+        "offset": 222,
+        "length": 5,
+        "type": "bold"
+      },
+      {
+        "offset": 543,
+        "length": 17,
+        "type": "bold"
+      },
+      {
+        "offset": 750,
+        "length": 2,
+        "type": "bold"
+      },
+      {
+        "offset": 750,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5449841756596101801"
+      },
+      {
+        "offset": 752,
+        "length": 5,
+        "type": "mention"
+      },
+      {
+        "offset": 752,
+        "length": 5,
+        "type": "bold"
+      }
+    ],
+    "media_group_id": null,
+    "chat_id": -1004468214616,
+    "message_ids": [
+      240
+    ],
+    "update_ids": [
+      378304133
+    ],
+    "retry_count": 0
+  },
+  {
+    "type": "video",
+    "video_file_id": "BAACAgIAAyEFAAMBClOLWAAD8WptqB7nSsrHUmJMdadeiDEj9rhtAAKzpAACf4ZxS3HD6AYn6sbWPQQ",
+    "video_file_size": 11673223,
+    "caption": "Boris Cherny, the creator behind Claude Code, has launched his longest-running prompt to date.\n\nThis automated run has been active for 15 consecutive days. Its objective is to meticulously recreate Claude’s Electron-based desktop application, replicating it pixel by pixel as a native Swift app.\n\n📰 @aipost",
+    "entities": [
+      {
+        "offset": 297,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5363988332466438547"
+      },
+      {
+        "offset": 300,
+        "length": 7,
+        "type": "mention"
+      }
+    ],
+    "media_group_id": null,
+    "chat_id": -1004468214616,
+    "message_ids": [
+      241
+    ],
+    "update_ids": [
+      378304134
     ],
     "retry_count": 0
   }
