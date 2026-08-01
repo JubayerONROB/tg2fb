@@ -2,62 +2,6 @@
   {
     "type": "photo",
     "photo_file_ids": [
-      "AgACAgQAAyEFAAMBClOLWAAD-2puCxSn3spJ-vYrM7KAGyZPQ_U_AAIlDWsbBJ3IUIJDjHikTInhAQADAgADeQADPQQ"
-    ],
-    "caption": "💡 Microsoft builds glass data storage with 10,000-year lifespan\n\nMicrosoft developed a glass-based data storage system using laser-written 3D pixels inside transparent glass. The company says it is the first to offer a full end-to-end system for writing, storing, and reading this format.\n\nData is written with a femtosecond laser that alters the glass structure through ultra-short pulses. The changes do not damage the material and can only be detected optically. Reading requires a microscope, while convolutional neural networks help reduce errors caused by noisy light signals.\n\nTests suggest the medium can preserve data for up to 10,000 years, compared to 40–50 years for typical storage without maintenance. Density reaches about 4.8 TB on a ~12 cm² disk. \n\nStorage consumes virtually no energy once written.\n\n📊 @tech",
-    "entities": [
-      {
-        "offset": 0,
-        "length": 2,
-        "type": "custom_emoji",
-        "custom_emoji_id": "5258466217273871977"
-      },
-      {
-        "offset": 3,
-        "length": 61,
-        "type": "bold"
-      },
-      {
-        "offset": 819,
-        "length": 2,
-        "type": "bold"
-      },
-      {
-        "offset": 819,
-        "length": 2,
-        "type": "custom_emoji",
-        "custom_emoji_id": "5449841756596101801"
-      },
-      {
-        "offset": 821,
-        "length": 1,
-        "type": "bold"
-      },
-      {
-        "offset": 822,
-        "length": 5,
-        "type": "text_link",
-        "url": "https://t.me/tech"
-      },
-      {
-        "offset": 822,
-        "length": 5,
-        "type": "bold"
-      }
-    ],
-    "media_group_id": null,
-    "chat_id": -1004468214616,
-    "message_ids": [
-      251
-    ],
-    "update_ids": [
-      378304144
-    ],
-    "retry_count": 0
-  },
-  {
-    "type": "photo",
-    "photo_file_ids": [
       "AgACAgQAAyEFAAMBClOLWAAD_GpuHyHzMzoDIf9BxYcddb8im9phAAIYDmsbSvNpU4fM5iNAN4PmAQADAgADeQADPQQ"
     ],
     "caption": "🤯 GPT-5.6 Sol helps break a 150-year-old math conjecture\n\nFor nearly 150 years, mathematicians believed a famous idea proposed by physicist James Clerk Maxwell was true.\n\nNot anymore.\n\nIn a new paper, The Maxwell Conjecture is False, researchers constructed a configuration of five point charges with 24 non-degenerate critical points, shattering Maxwell’s long-standing prediction that the maximum should be 16.\n\nOpenAI’s GPT-5.6 Sol provided the key idea that led the team to the breakthrough.\n\nThe researchers emphasized that the AI didn’t produce the proof itself. Instead, GPT-5.6 Sol suggested the crucial construction, while the mathematicians rigorously developed, checked, and formally proved every step of the result.\n\nThe discovery overturns a conjecture that had stood since the 1870s, proving that Maxwell’s proposed upper bound of (n − 1)² critical points is not universally true. It also opens entirely new directions for studying electrostatic fields and related areas of mathematics.\n\nThe authors even acknowledged the AI’s contribution in the paper:\n\n“We are grateful to OpenAI’s GPT-5.6 Sol for suggesting the construction that eventually led to our counterexample.”\n\nSource.\n\n@aipost 🏴",
