@@ -1,29 +1,36 @@
 [
   {
-    "type": "video",
-    "video_file_id": "BAACAgQAAyEFAAMBClOLWAACAQVqb0qM7IZ8J0f_0CV0QWBN5c45PgACSiEAAgdleFOMt9DP_NpxMT0E",
-    "video_file_size": 66286565,
-    "caption": "🗣\"Modern AI was built on one simple idea: machines can learn.\"\n\nIlya Sutskever says that in the early 2000s, computers couldn't truly learn, and many weren't even sure artificial learning was possible.\n\n\"He believed neural networks offered the best long-term path because they could learn from data, improve automatically, and scale with increasingly powerful parallel computers.\"\n\n\"Back then, models had only dozens or hundreds of neurons, a million parameters was considered huge, and researchers trained them on CPUs using MATLAB.\"\n\n@aipost 🏴",
+    "type": "photo",
+    "photo_file_ids": [
+      "AgACAgQAAyEFAAMBClOLWAACAQZqb1zHsGP4Dn4AAYDphgf2EBUG7A0AAv4NaxsHZXhT6ZhHJaknmZoBAAMCAAN3AAM9BA"
+    ],
+    "caption": "🇪🇺 Europe is putting AI giants on notice\n\nThe EU has started talks with OpenAI and Anthropic as it prepares to enforce the world’s first comprehensive AI law.\n\nFrom August 2, developers of the most advanced AI models will have to meet strict new rules on AI safety, transparency, and risk management. The move comes after a string of high-profile AI agent incidents raised concerns about how powerful these systems are becoming.\n\nCompanies that fail to comply could face eye-watering penalties of up to 7% of their global annual revenue.\n\nSource.\n\n@aipost 🏴",
     "entities": [
       {
         "offset": 0,
-        "length": 2,
+        "length": 4,
         "type": "custom_emoji",
-        "custom_emoji_id": "5287468155738821335"
+        "custom_emoji_id": "5228784522924930237"
       },
       {
-        "offset": 2,
-        "length": 61,
+        "offset": 5,
+        "length": 37,
         "type": "bold"
       },
       {
-        "offset": 537,
+        "offset": 541,
+        "length": 6,
+        "type": "text_link",
+        "url": "https://www.reuters.com/world/eu-says-necessary-monitor-high-risk-ai-systems-after-openai-anthropic-ai-hacking-2026-07-31"
+      },
+      {
+        "offset": 550,
         "length": 7,
         "type": "text_link",
         "url": "https://t.me/aipost"
       },
       {
-        "offset": 545,
+        "offset": 558,
         "length": 2,
         "type": "custom_emoji",
         "custom_emoji_id": "5431390559912614642"
@@ -32,10 +39,10 @@
     "media_group_id": null,
     "chat_id": -1004468214616,
     "message_ids": [
-      261
+      262
     ],
     "update_ids": [
-      378304154
+      378304155
     ],
     "retry_count": 0
   }
