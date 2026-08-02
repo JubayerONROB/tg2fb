@@ -1,48 +1,144 @@
 [
   {
-    "type": "photo",
-    "photo_file_ids": [
-      "AgACAgQAAyEFAAMBClOLWAACAQZqb1zHsGP4Dn4AAYDphgf2EBUG7A0AAv4NaxsHZXhT6ZhHJaknmZoBAAMCAAN3AAM9BA"
-    ],
-    "caption": "🇪🇺 Europe is putting AI giants on notice\n\nThe EU has started talks with OpenAI and Anthropic as it prepares to enforce the world’s first comprehensive AI law.\n\nFrom August 2, developers of the most advanced AI models will have to meet strict new rules on AI safety, transparency, and risk management. The move comes after a string of high-profile AI agent incidents raised concerns about how powerful these systems are becoming.\n\nCompanies that fail to comply could face eye-watering penalties of up to 7% of their global annual revenue.\n\nSource.\n\n@aipost 🏴",
+    "type": "video",
+    "video_file_id": "BAACAgIAAyEFAAMBClOLWAACAQdqb2rLyoSmHRa_7Dx0tNp1meX3XwACKKQAAt85cEtc5Tq2y8nb_j0E",
+    "video_file_size": 20316665,
+    "caption": "🤖 ChatGPT Chrome extension reads tabs and pages\n\nThe ChatGPT extension for Chrome now sees open tabs and interacts with page content. You can highlight any text, right-click, and select \"Ask ChatGPT\" to get answers.\n\nThe sidebar opens automatically without manual setup. The built-in browser also suggests site addresses as you type, making it more intuitive and faster.\n\n📊@tech",
     "entities": [
       {
         "offset": 0,
-        "length": 4,
+        "length": 2,
         "type": "custom_emoji",
-        "custom_emoji_id": "5228784522924930237"
+        "custom_emoji_id": "5397681122542893003"
       },
       {
-        "offset": 5,
-        "length": 37,
+        "offset": 3,
+        "length": 45,
         "type": "bold"
       },
       {
-        "offset": 541,
-        "length": 6,
-        "type": "text_link",
-        "url": "https://www.reuters.com/world/eu-says-necessary-monitor-high-risk-ai-systems-after-openai-anthropic-ai-hacking-2026-07-31"
+        "offset": 54,
+        "length": 28,
+        "type": "bold"
       },
       {
-        "offset": 550,
-        "length": 7,
-        "type": "text_link",
-        "url": "https://t.me/aipost"
+        "offset": 143,
+        "length": 18,
+        "type": "bold"
       },
       {
-        "offset": 558,
+        "offset": 222,
+        "length": 27,
+        "type": "bold"
+      },
+      {
+        "offset": 276,
+        "length": 16,
+        "type": "bold"
+      },
+      {
+        "offset": 373,
+        "length": 2,
+        "type": "bold"
+      },
+      {
+        "offset": 373,
         "length": 2,
         "type": "custom_emoji",
-        "custom_emoji_id": "5431390559912614642"
+        "custom_emoji_id": "5449841756596101801"
+      },
+      {
+        "offset": 375,
+        "length": 5,
+        "type": "mention"
+      },
+      {
+        "offset": 375,
+        "length": 5,
+        "type": "bold"
       }
     ],
     "media_group_id": null,
     "chat_id": -1004468214616,
     "message_ids": [
-      262
+      263
     ],
     "update_ids": [
-      378304155
+      378304156
+    ],
+    "retry_count": 0
+  },
+  {
+    "type": "album",
+    "photo_file_ids": [
+      "AgACAgIAAyEFAAMBClOLWAACAQhqb2raMKoGz9F29gVZ9DuzM5Hf3AACQRprG7nteEuWFF_CdJnORwEAAwIAA3cAAz0E",
+      "AgACAgIAAyEFAAMBClOLWAACAQlqb2raw9iwJKSKZilwF3YV7KWtJwACQhprG7nteEsLQYO_EdRy9AEAAwIAA3cAAz0E",
+      "AgACAgIAAyEFAAMBClOLWAACAQpqb2raUDmyItKJ9Xq3SaJrPm8l-gACQxprG7nteEutSRM0Kglh7gEAAwIAA3cAAz0E",
+      "AgACAgIAAyEFAAMBClOLWAACAQtqb2raoV7Vf6ZkOVYBv8-hri3g7gACRBprG7nteEvb-jGfmY2Y1gEAAwIAA3cAAz0E"
+    ],
+    "caption": "🚘 Audi unveils largest SUV with ChatGPT system\n\nAudi introduced the Q9, its biggest SUV ever, larger than the BMW X7 and Mercedes GLS. It features a media system with built-in ChatGPT and will launch in Europe from €108,000 by the end of the year.\n\nThe base model has a V6 engine with 429 hp, reaching 100 km/h in 4.9 seconds. The top SQ9 version uses a V8 with 591 hp and does 0-100 km/h in 3.8 seconds. A hybrid with a V6 and 48V electric motor is also available.\n\n📊@tech",
+    "entities": [
+      {
+        "offset": 0,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5240391452999043895"
+      },
+      {
+        "offset": 3,
+        "length": 44,
+        "type": "bold"
+      },
+      {
+        "offset": 49,
+        "length": 22,
+        "type": "bold"
+      },
+      {
+        "offset": 271,
+        "length": 21,
+        "type": "bold"
+      },
+      {
+        "offset": 355,
+        "length": 14,
+        "type": "bold"
+      },
+      {
+        "offset": 468,
+        "length": 2,
+        "type": "bold"
+      },
+      {
+        "offset": 468,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5449841756596101801"
+      },
+      {
+        "offset": 470,
+        "length": 5,
+        "type": "mention"
+      },
+      {
+        "offset": 470,
+        "length": 5,
+        "type": "bold"
+      }
+    ],
+    "media_group_id": "14285493968358189",
+    "chat_id": -1004468214616,
+    "message_ids": [
+      264,
+      265,
+      266,
+      267
+    ],
+    "update_ids": [
+      378304157,
+      378304158,
+      378304159,
+      378304160
     ],
     "retry_count": 0
   }
