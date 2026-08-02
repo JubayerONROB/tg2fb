@@ -1,30 +1,34 @@
 [
   {
-    "type": "photo",
+    "type": "album",
     "photo_file_ids": [
-      "AgACAgIAAyEFAAMBClOLWAACAQFqbsG_D9LKqSPqNSjgbNPicB0xnQACyBVrG4FreEtiP55QJoEg7QEAAwIAA3kAAz0E"
+      "AgACAgQAAyEFAAMBClOLWAACAQJqbvsKYbw43wRywnfi9Qo9yzmeMQACGQ5rG0rzaVNeMw5niEbfmwEAAwIAA3gAAz0E",
+      "AgACAgQAAyEFAAMBClOLWAACAQNqbvsKfJKQ2NGG41x7DqFE64KBXgACGg5rG0rzaVOa0nwv5-oGTwEAAwIAA3gAAz0E"
     ],
-    "caption": "DeepSeek V4-Flash is reported to complete benchmark tasks with a total cost 105 times lower than Fable 5, according to recent analyses. \n\nWhile its price per token is already lower, questions often arise regarding overall task costs, as greater efficiency may depend on the number of steps required. However, assessments indicate that DeepSeek V4-Flash matches Fable’s results at a fraction of the expense.\n\nThis development could signal a significant new phase for DeepSeek products within the competitive landscape of large language models.\n\n📰 @aipost",
+    "caption": "Boomers are beginning to gift their children AI-generated children’s stories featuring relatives, per WIRED\n\nOne Reddit user says their mother, against their wishes, has been feeding AI images of their daughter to make children’s books.\n\n@aipost 🏴",
     "entities": [
       {
-        "offset": 544,
-        "length": 2,
-        "type": "custom_emoji",
-        "custom_emoji_id": "5363988332466438547"
+        "offset": 238,
+        "length": 7,
+        "type": "text_link",
+        "url": "https://t.me/aipost"
       },
       {
-        "offset": 547,
-        "length": 7,
-        "type": "mention"
+        "offset": 246,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5431390559912614642"
       }
     ],
-    "media_group_id": null,
+    "media_group_id": "14285264978583453",
     "chat_id": -1004468214616,
     "message_ids": [
-      257
+      258,
+      259
     ],
     "update_ids": [
-      378304150
+      378304151,
+      378304152
     ],
     "retry_count": 0
   }
