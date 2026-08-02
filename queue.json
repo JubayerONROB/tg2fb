@@ -2,18 +2,18 @@
   {
     "type": "photo",
     "photo_file_ids": [
-      "AgACAgIAAyEFAAMBClOLWAACAQABam61qudEmzRtU3TqKnnRv4FOa6YAAr8YaxuBa3BLRV2ybq_vBjgBAAMCAAN5AAM9BA"
+      "AgACAgIAAyEFAAMBClOLWAACAQFqbsG_D9LKqSPqNSjgbNPicB0xnQACyBVrG4FreEtiP55QJoEg7QEAAwIAA3kAAz0E"
     ],
-    "caption": "A new study by Yale and the University of Chicago has found that large language models (LLMs) differ from human researchers in the range, not the quality, of research ideas they generate. The research involved analyzing 11,683 published papers and using the same body of prior work as a basis for both LLMs and humans to create new research ideas.\n\nResearchers compared the motivations and methods suggested by LLMs with those found in human-authored papers. While human ideas covered a broad set of research patterns—such as mechanism explanations, failure tests, and system development—LLMs narrowed in on linking separate pieces of prior work.\n\nData showed 12.1% of human ideas focused mainly on connecting prior research, but LLM-generated ideas took this approach 47.1% to 64.2% of the time. Additional reasoning steps did not reduce this tendency.\n\n📰 @aipost",
+    "caption": "DeepSeek V4-Flash is reported to complete benchmark tasks with a total cost 105 times lower than Fable 5, according to recent analyses. \n\nWhile its price per token is already lower, questions often arise regarding overall task costs, as greater efficiency may depend on the number of steps required. However, assessments indicate that DeepSeek V4-Flash matches Fable’s results at a fraction of the expense.\n\nThis development could signal a significant new phase for DeepSeek products within the competitive landscape of large language models.\n\n📰 @aipost",
     "entities": [
       {
-        "offset": 855,
+        "offset": 544,
         "length": 2,
         "type": "custom_emoji",
         "custom_emoji_id": "5363988332466438547"
       },
       {
-        "offset": 858,
+        "offset": 547,
         "length": 7,
         "type": "mention"
       }
@@ -21,10 +21,10 @@
     "media_group_id": null,
     "chat_id": -1004468214616,
     "message_ids": [
-      256
+      257
     ],
     "update_ids": [
-      378304149
+      378304150
     ],
     "retry_count": 0
   }
