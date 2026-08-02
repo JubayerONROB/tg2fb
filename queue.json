@@ -1,1 +1,42 @@
-[]
+[
+  {
+    "type": "video",
+    "video_file_id": "BAACAgQAAyEFAAMBClOLWAACAQVqb0qM7IZ8J0f_0CV0QWBN5c45PgACSiEAAgdleFOMt9DP_NpxMT0E",
+    "video_file_size": 66286565,
+    "caption": "🗣\"Modern AI was built on one simple idea: machines can learn.\"\n\nIlya Sutskever says that in the early 2000s, computers couldn't truly learn, and many weren't even sure artificial learning was possible.\n\n\"He believed neural networks offered the best long-term path because they could learn from data, improve automatically, and scale with increasingly powerful parallel computers.\"\n\n\"Back then, models had only dozens or hundreds of neurons, a million parameters was considered huge, and researchers trained them on CPUs using MATLAB.\"\n\n@aipost 🏴",
+    "entities": [
+      {
+        "offset": 0,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5287468155738821335"
+      },
+      {
+        "offset": 2,
+        "length": 61,
+        "type": "bold"
+      },
+      {
+        "offset": 537,
+        "length": 7,
+        "type": "text_link",
+        "url": "https://t.me/aipost"
+      },
+      {
+        "offset": 545,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5431390559912614642"
+      }
+    ],
+    "media_group_id": null,
+    "chat_id": -1004468214616,
+    "message_ids": [
+      261
+    ],
+    "update_ids": [
+      378304154
+    ],
+    "retry_count": 0
+  }
+]
