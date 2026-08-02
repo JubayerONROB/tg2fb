@@ -1,46 +1,6 @@
 [
   {
     "type": "video",
-    "video_file_id": "BAACAgQAAyEFAAMBClOLWAACAQxqb4z0rX2_Km97fu12RGuxK0SevgACTyEAAgdleFPgN4ShMs3Imj0E",
-    "video_file_size": 8778669,
-    "caption": "🔥 You can now hire a humanoid robot to clean your house for $30 an hour\n\nSan Francisco startup Tau Robotics is deploying humanoid robots for home cleaning. \n\nA human operator controls each robot remotely while AI assists with navigation.\n\n@aipost 🏴",
-    "entities": [
-      {
-        "offset": 0,
-        "length": 2,
-        "type": "custom_emoji",
-        "custom_emoji_id": "5363970504057191145"
-      },
-      {
-        "offset": 3,
-        "length": 69,
-        "type": "bold"
-      },
-      {
-        "offset": 240,
-        "length": 7,
-        "type": "text_link",
-        "url": "https://t.me/aipost"
-      },
-      {
-        "offset": 248,
-        "length": 2,
-        "type": "custom_emoji",
-        "custom_emoji_id": "5431390559912614642"
-      }
-    ],
-    "media_group_id": null,
-    "chat_id": -1004468214616,
-    "message_ids": [
-      268
-    ],
-    "update_ids": [
-      378304161
-    ],
-    "retry_count": 0
-  },
-  {
-    "type": "video",
     "video_file_id": "BAACAgIAAyEFAAMBClOLWAACAQ1qb5ctT--gct6lnrphWXMLkcsnGQACIp8AAi1xeUswIs6DyAPF1T0E",
     "video_file_size": 2939349,
     "caption": "Advancements in large language models remain a frequent topic of discussion. Simultaneously, significant progress is occurring in the field of robotics.\n\nExperts highlight that robotics may have an even greater impact than current AI developments. This technological shift is expected to transform various sectors in the near future.\n\nIndustry observers note that both artificial intelligence and robotics are moving rapidly, with each field shaping the landscape of innovation. Progress in robotics is expected to reach a scale comparable to, or surpassing, that of large language model technology.\n\n📰 @aipost",
