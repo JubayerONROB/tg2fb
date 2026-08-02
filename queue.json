@@ -1,75 +1,69 @@
 [
   {
-    "type": "album",
-    "photo_file_ids": [
-      "AgACAgIAAyEFAAMBClOLWAACAQhqb2raMKoGz9F29gVZ9DuzM5Hf3AACQRprG7nteEuWFF_CdJnORwEAAwIAA3cAAz0E",
-      "AgACAgIAAyEFAAMBClOLWAACAQlqb2raw9iwJKSKZilwF3YV7KWtJwACQhprG7nteEsLQYO_EdRy9AEAAwIAA3cAAz0E",
-      "AgACAgIAAyEFAAMBClOLWAACAQpqb2raUDmyItKJ9Xq3SaJrPm8l-gACQxprG7nteEutSRM0Kglh7gEAAwIAA3cAAz0E",
-      "AgACAgIAAyEFAAMBClOLWAACAQtqb2raoV7Vf6ZkOVYBv8-hri3g7gACRBprG7nteEvb-jGfmY2Y1gEAAwIAA3cAAz0E"
-    ],
-    "caption": "🚘 Audi unveils largest SUV with ChatGPT system\n\nAudi introduced the Q9, its biggest SUV ever, larger than the BMW X7 and Mercedes GLS. It features a media system with built-in ChatGPT and will launch in Europe from €108,000 by the end of the year.\n\nThe base model has a V6 engine with 429 hp, reaching 100 km/h in 4.9 seconds. The top SQ9 version uses a V8 with 591 hp and does 0-100 km/h in 3.8 seconds. A hybrid with a V6 and 48V electric motor is also available.\n\n📊@tech",
+    "type": "video",
+    "video_file_id": "BAACAgQAAyEFAAMBClOLWAACAQxqb4z0rX2_Km97fu12RGuxK0SevgACTyEAAgdleFPgN4ShMs3Imj0E",
+    "video_file_size": 8778669,
+    "caption": "🔥 You can now hire a humanoid robot to clean your house for $30 an hour\n\nSan Francisco startup Tau Robotics is deploying humanoid robots for home cleaning. \n\nA human operator controls each robot remotely while AI assists with navigation.\n\n@aipost 🏴",
     "entities": [
       {
         "offset": 0,
         "length": 2,
         "type": "custom_emoji",
-        "custom_emoji_id": "5240391452999043895"
+        "custom_emoji_id": "5363970504057191145"
       },
       {
         "offset": 3,
-        "length": 44,
+        "length": 69,
         "type": "bold"
       },
       {
-        "offset": 49,
-        "length": 22,
-        "type": "bold"
+        "offset": 240,
+        "length": 7,
+        "type": "text_link",
+        "url": "https://t.me/aipost"
       },
       {
-        "offset": 271,
-        "length": 21,
-        "type": "bold"
-      },
-      {
-        "offset": 355,
-        "length": 14,
-        "type": "bold"
-      },
-      {
-        "offset": 468,
-        "length": 2,
-        "type": "bold"
-      },
-      {
-        "offset": 468,
+        "offset": 248,
         "length": 2,
         "type": "custom_emoji",
-        "custom_emoji_id": "5449841756596101801"
-      },
-      {
-        "offset": 470,
-        "length": 5,
-        "type": "mention"
-      },
-      {
-        "offset": 470,
-        "length": 5,
-        "type": "bold"
+        "custom_emoji_id": "5431390559912614642"
       }
     ],
-    "media_group_id": "14285493968358189",
+    "media_group_id": null,
     "chat_id": -1004468214616,
     "message_ids": [
-      264,
-      265,
-      266,
-      267
+      268
     ],
     "update_ids": [
-      378304157,
-      378304158,
-      378304159,
-      378304160
+      378304161
+    ],
+    "retry_count": 0
+  },
+  {
+    "type": "video",
+    "video_file_id": "BAACAgIAAyEFAAMBClOLWAACAQ1qb5ctT--gct6lnrphWXMLkcsnGQACIp8AAi1xeUswIs6DyAPF1T0E",
+    "video_file_size": 2939349,
+    "caption": "Advancements in large language models remain a frequent topic of discussion. Simultaneously, significant progress is occurring in the field of robotics.\n\nExperts highlight that robotics may have an even greater impact than current AI developments. This technological shift is expected to transform various sectors in the near future.\n\nIndustry observers note that both artificial intelligence and robotics are moving rapidly, with each field shaping the landscape of innovation. Progress in robotics is expected to reach a scale comparable to, or surpassing, that of large language model technology.\n\n📰 @aipost",
+    "entities": [
+      {
+        "offset": 601,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5363988332466438547"
+      },
+      {
+        "offset": 604,
+        "length": 7,
+        "type": "mention"
+      }
+    ],
+    "media_group_id": null,
+    "chat_id": -1004468214616,
+    "message_ids": [
+      269
+    ],
+    "update_ids": [
+      378304162
     ],
     "retry_count": 0
   }
