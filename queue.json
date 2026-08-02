@@ -1,34 +1,30 @@
 [
   {
-    "type": "album",
+    "type": "photo",
     "photo_file_ids": [
-      "AgACAgQAAyEFAAMBClOLWAAD_mpuc8EJXjdIeT1OfZKy_H3vOQQeAAIfDmsbSvNpUy8YBC_I-D9tAQADAgADbQADPQQ",
-      "AgACAgQAAyEFAAMBClOLWAAD_2puc8ESrzxWjtJtMj192i5t4-33AAIgDmsbSvNpU6EFhyyo5yjZAQADAgADeAADPQQ"
+      "AgACAgIAAyEFAAMBClOLWAACAQABam61qudEmzRtU3TqKnnRv4FOa6YAAr8YaxuBa3BLRV2ybq_vBjgBAAMCAAN5AAM9BA"
     ],
-    "caption": "LinkedIn rolls out a \"Seems like AI slop\" button as it cracks down on low-quality AI-generated content flooding the platform.\n\nThe move comes after studies found LinkedIn to be the most AI-saturated major social network, with over 40% of long-form posts reportedly flagged as fully AI-generated \"slop.\"\n\n@aipost 🏴",
+    "caption": "A new study by Yale and the University of Chicago has found that large language models (LLMs) differ from human researchers in the range, not the quality, of research ideas they generate. The research involved analyzing 11,683 published papers and using the same body of prior work as a basis for both LLMs and humans to create new research ideas.\n\nResearchers compared the motivations and methods suggested by LLMs with those found in human-authored papers. While human ideas covered a broad set of research patterns—such as mechanism explanations, failure tests, and system development—LLMs narrowed in on linking separate pieces of prior work.\n\nData showed 12.1% of human ideas focused mainly on connecting prior research, but LLM-generated ideas took this approach 47.1% to 64.2% of the time. Additional reasoning steps did not reduce this tendency.\n\n📰 @aipost",
     "entities": [
       {
-        "offset": 304,
-        "length": 7,
-        "type": "text_link",
-        "url": "https://t.me/aipost"
-      },
-      {
-        "offset": 312,
+        "offset": 855,
         "length": 2,
         "type": "custom_emoji",
-        "custom_emoji_id": "5431390559912614642"
+        "custom_emoji_id": "5363988332466438547"
+      },
+      {
+        "offset": 858,
+        "length": 7,
+        "type": "mention"
       }
     ],
-    "media_group_id": "14284987916196981",
+    "media_group_id": null,
     "chat_id": -1004468214616,
     "message_ids": [
-      254,
-      255
+      256
     ],
     "update_ids": [
-      378304147,
-      378304148
+      378304149
     ],
     "retry_count": 0
   }
