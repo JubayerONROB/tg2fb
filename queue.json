@@ -2,76 +2,6 @@
   {
     "type": "photo",
     "photo_file_ids": [
-      "AgACAgIAAyEFAAMBClOLWAACARNqcE7lNruklgABs8oDds6w7GVxE8wAAn8faxvP1IFLSVRyd2V6GvIBAAMCAAN5AAM9BA"
-    ],
-    "caption": "🤖 Gravity Falls Creator Trolls Sam Altman\n\nSam Altman shared a ChatGPT hack to connect the bot to family calendars and create daily podcasts about kids' interests and events.\n\nAlex Hirsch, creator of Gravity Falls, replied suggesting it’s better to just talk to your kids instead.\n\n📊@tech",
-    "entities": [
-      {
-        "offset": 0,
-        "length": 2,
-        "type": "custom_emoji",
-        "custom_emoji_id": "5397681122542893003"
-      },
-      {
-        "offset": 3,
-        "length": 39,
-        "type": "bold"
-      },
-      {
-        "offset": 44,
-        "length": 10,
-        "type": "bold"
-      },
-      {
-        "offset": 64,
-        "length": 7,
-        "type": "bold"
-      },
-      {
-        "offset": 177,
-        "length": 11,
-        "type": "bold"
-      },
-      {
-        "offset": 201,
-        "length": 13,
-        "type": "bold"
-      },
-      {
-        "offset": 283,
-        "length": 2,
-        "type": "bold"
-      },
-      {
-        "offset": 283,
-        "length": 2,
-        "type": "custom_emoji",
-        "custom_emoji_id": "5449841756596101801"
-      },
-      {
-        "offset": 285,
-        "length": 5,
-        "type": "mention"
-      },
-      {
-        "offset": 285,
-        "length": 5,
-        "type": "bold"
-      }
-    ],
-    "media_group_id": null,
-    "chat_id": -1004468214616,
-    "message_ids": [
-      275
-    ],
-    "update_ids": [
-      378304168
-    ],
-    "retry_count": 0
-  },
-  {
-    "type": "photo",
-    "photo_file_ids": [
       "AgACAgIAAyEFAAMBClOLWAACARRqcFdbJTDhynoL5rKAVq1-gYEBvQACIBtrGzf-iEszHYt9tYCuDQEAAwIAA3kAAz0E"
     ],
     "caption": "Alibaba has introduced Qwen3.8-Max, a new AI model with 2.4 trillion parameters, which recently operated autonomously for 16 days. According to reports, the model completed 265 commits, 127 pull requests, and 151 issues during a continuous develop-test-repair-merge cycle.\n\nQwen3.8-Max’s operational cost is cited as 80% lower than GPT-5.6 Sol and 88% below Claude Fable 5 for output, with prices at $2 per million input tokens and $6 per million output tokens. For comparison, GPT-5.6 Sol lists $5/$30 and Claude Fable 5 lists $10/$50 for input/output tokens respectively.\n\nThe model demonstrates broad capabilities in coding, professional tasks, and computer-based work. Open weights for Qwen3.8-Max are expected next week.\n\n📰 @aipost",
@@ -187,6 +117,66 @@
     ],
     "update_ids": [
       378304171
+    ],
+    "retry_count": 0
+  },
+  {
+    "type": "photo",
+    "photo_file_ids": [
+      "AgACAgQAAyEFAAMBClOLWAACARdqcMwkwJTMuLcouQn3-TqRCCQnAgACkw1rG6uwhFMv2v0aNlR6_wEAAwIAA3gAAz0E"
+    ],
+    "caption": "🤖 OpenAI launches Presence for real-world AI agents\n\nOpenAI introduced Presence, a product that puts AI agents directly into customer support and internal company workflows instead of keeping them hidden in demos or internal GPTs.\n\nPresence is tailored for business use, with OpenAI engineers customizing setups when standard configurations fall short. Access is limited as companies are selected manually, with no clarity on compliance with the European AI Act.\n\n📊@tech",
+    "entities": [
+      {
+        "offset": 0,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5397681122542893003"
+      },
+      {
+        "offset": 3,
+        "length": 49,
+        "type": "bold"
+      },
+      {
+        "offset": 72,
+        "length": 8,
+        "type": "bold"
+      },
+      {
+        "offset": 277,
+        "length": 16,
+        "type": "bold"
+      },
+      {
+        "offset": 465,
+        "length": 2,
+        "type": "bold"
+      },
+      {
+        "offset": 465,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5449841756596101801"
+      },
+      {
+        "offset": 467,
+        "length": 5,
+        "type": "mention"
+      },
+      {
+        "offset": 467,
+        "length": 5,
+        "type": "bold"
+      }
+    ],
+    "media_group_id": null,
+    "chat_id": -1004468214616,
+    "message_ids": [
+      279
+    ],
+    "update_ids": [
+      378304172
     ],
     "retry_count": 0
   }
