@@ -1,1 +1,47 @@
-[]
+[
+  {
+    "type": "video",
+    "video_file_id": "BAACAgQAAyEFAAMBClOLWAACAQ9qcAJ_HFzEfhdVAAGIMMJFCs9duYoAAlEhAAIHZXhTL0AKUoK9IHk9BA",
+    "video_file_size": 20385838,
+    "caption": "💰 Warren Buffett just gave AI a brutal reality check\n\nWhile the biggest AI companies are spending hundreds of billions building models and data centers, Warren Buffett says he has a much simpler alternative.\n\nHe could park Berkshire Hathaway’s cash in U.S. Treasury bonds and collect $20–40 billion a year with virtually no risk.\n\nThat becomes his benchmark for every investment.\n\n“A good business earns a lot more than the returns on essentially riskless investments.”\n\nIn other words, if you’re pouring billions into AI, you shouldn’t just beat Treasury bonds, you should beat them by a huge margin to justify all the risk.\n\nBuffett points to American Express as the kind of business he loves. While many banks generate returns on capital of around 13–14%, American Express has consistently delivered 30%+ without taking dramatically more risk.\n\nThat’s the magic Buffett looks for: high returns that last for decades.\n\nAnd that’s where AI faces its biggest challenge.\n\n@aipost 🏴",
+    "entities": [
+      {
+        "offset": 0,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5289964193162759223"
+      },
+      {
+        "offset": 3,
+        "length": 50,
+        "type": "bold"
+      },
+      {
+        "offset": 919,
+        "length": 1,
+        "type": "bold"
+      },
+      {
+        "offset": 972,
+        "length": 7,
+        "type": "text_link",
+        "url": "https://t.me/aipost"
+      },
+      {
+        "offset": 980,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5431390559912614642"
+      }
+    ],
+    "media_group_id": null,
+    "chat_id": -1004468214616,
+    "message_ids": [
+      271
+    ],
+    "update_ids": [
+      378304164
+    ],
+    "retry_count": 0
+  }
+]

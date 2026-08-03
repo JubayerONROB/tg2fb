@@ -1377,5 +1377,40 @@
       378304154
     ],
     "retry_count": 0
+  },
+  {
+    "type": "video",
+    "video_file_id": "BAACAgQAAyEFAAMBClOLWAACAQ5qcAJ3UE6C19umCmviGITpb9OwBwACTSEAAgdleFOzxY9CbB013D0E",
+    "video_file_size": 30409952,
+    "caption": "❗️Hugging Face CEO speaks out in support of open models in his first appearance following the OpenAI breach.\n\nClem Delangue live on CNN explains how Hugging Face shielded itself from the rogue OpenAI agents that escaped their sandbox and infiltrated live production systems, adding that closed models like Claude failed to stop the attack because of their guardrails.\n\nHe argued that banning open models would only weaken cybersecurity defenders, startups, researchers, and smaller companies that rely on affordable, controllable on-premise AI to compete and protect themselves.\n\n@aipost 🏴",
+    "entities": [
+      {
+        "offset": 0,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5289761612440310918"
+      },
+      {
+        "offset": 580,
+        "length": 7,
+        "type": "text_link",
+        "url": "https://t.me/aipost"
+      },
+      {
+        "offset": 588,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5431390559912614642"
+      }
+    ],
+    "media_group_id": null,
+    "chat_id": -1004468214616,
+    "message_ids": [
+      270
+    ],
+    "update_ids": [
+      378304163
+    ],
+    "retry_count": 0
   }
 ]
