@@ -1,34 +1,5 @@
 [
   {
-    "type": "photo",
-    "photo_file_ids": [
-      "AgACAgIAAyEFAAMBClOLWAACARRqcFdbJTDhynoL5rKAVq1-gYEBvQACIBtrGzf-iEszHYt9tYCuDQEAAwIAA3kAAz0E"
-    ],
-    "caption": "Alibaba has introduced Qwen3.8-Max, a new AI model with 2.4 trillion parameters, which recently operated autonomously for 16 days. According to reports, the model completed 265 commits, 127 pull requests, and 151 issues during a continuous develop-test-repair-merge cycle.\n\nQwen3.8-Max’s operational cost is cited as 80% lower than GPT-5.6 Sol and 88% below Claude Fable 5 for output, with prices at $2 per million input tokens and $6 per million output tokens. For comparison, GPT-5.6 Sol lists $5/$30 and Claude Fable 5 lists $10/$50 for input/output tokens respectively.\n\nThe model demonstrates broad capabilities in coding, professional tasks, and computer-based work. Open weights for Qwen3.8-Max are expected next week.\n\n📰 @aipost",
-    "entities": [
-      {
-        "offset": 727,
-        "length": 2,
-        "type": "custom_emoji",
-        "custom_emoji_id": "5363988332466438547"
-      },
-      {
-        "offset": 730,
-        "length": 7,
-        "type": "mention"
-      }
-    ],
-    "media_group_id": null,
-    "chat_id": -1004468214616,
-    "message_ids": [
-      276
-    ],
-    "update_ids": [
-      378304169
-    ],
-    "retry_count": 0
-  },
-  {
     "type": "video",
     "video_file_id": "BAACAgQAAyEFAAMBClOLWAACARVqcHfURXdq1AV5mEG1qiigCiU4owACRCEAAgdleFMYng5Wf8TWXz0E",
     "video_file_size": 16468538,
@@ -177,6 +148,66 @@
     ],
     "update_ids": [
       378304172
+    ],
+    "retry_count": 0
+  },
+  {
+    "type": "video",
+    "video_file_id": "BAACAgQAAyEFAAMBClOLWAACARhqcNdN6Q3D13mn2tZWoe0cR2LdrgACcCIAAgdlgFM_p1Ps3Aik7D0E",
+    "video_file_size": 48329996,
+    "caption": "❗️Peter Thiel thinks we got AI completely backwards\n\nFor years, everyone assumed AI would replace writers, marketers, and people in the humanities first. Peter Thiel wasn’t convinced. His argument is that people most at risk were mathematicians.\n\nAt first, that sounded crazy. Today, it doesn’t. Math is almost the perfect playground for AI:\n\n• Every problem has a way to verify the answer. The model instantly knows if it’s right or wrong.\n\n• It can explore millions of possible solution paths in seconds, something no human can match.\n\n• The feedback loop is immediate. Find a proof, verify it, learn from it, repeat. That’s exactly the kind of cycle AI improves at incredibly fast.\n\nWriting is different. Good writing isn’t just about being correct. It’s about taste, context, emotion, timing, culture, and knowing what not to say. There isn’t always a single right answer, which makes improvement much messier.\n\nAnd now we’re seeing the evidence.\n\nAI is helping generate original mathematical proofs at a pace that would have seemed impossible just a few years ago. Problems that once defined PhD-level research are increasingly being tackled by frontier models.\n\n@aipost 🏴",
+    "entities": [
+      {
+        "offset": 0,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5289761612440310918"
+      },
+      {
+        "offset": 2,
+        "length": 49,
+        "type": "bold"
+      },
+      {
+        "offset": 345,
+        "length": 45,
+        "type": "bold"
+      },
+      {
+        "offset": 444,
+        "length": 62,
+        "type": "bold"
+      },
+      {
+        "offset": 540,
+        "length": 31,
+        "type": "bold"
+      },
+      {
+        "offset": 823,
+        "length": 3,
+        "type": "italic"
+      },
+      {
+        "offset": 1168,
+        "length": 7,
+        "type": "text_link",
+        "url": "https://t.me/aipost"
+      },
+      {
+        "offset": 1176,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5431390559912614642"
+      }
+    ],
+    "media_group_id": null,
+    "chat_id": -1004468214616,
+    "message_ids": [
+      280
+    ],
+    "update_ids": [
+      378304173
     ],
     "retry_count": 0
   }
