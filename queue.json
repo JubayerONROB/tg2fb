@@ -1,45 +1,5 @@
 [
   {
-    "type": "video",
-    "video_file_id": "BAACAgQAAyEFAAMBClOLWAACARVqcHfURXdq1AV5mEG1qiigCiU4owACRCEAAgdleFMYng5Wf8TWXz0E",
-    "video_file_size": 16468538,
-    "caption": "🗣\"AI will spark a Cambrian explosion of programming languages.\"\n\nBoris Cherny, Head of Agentic Coding at Anthropic, says AI is accelerating innovation across software, just as it's already accelerating breakthroughs in fields like material discovery.\n\n\"Instead of converging on a single dominant programming language, AI may enable an explosion of new languages and entirely new ways of thinking about computing.\"\n\n@aipost 🏴",
-    "entities": [
-      {
-        "offset": 0,
-        "length": 2,
-        "type": "custom_emoji",
-        "custom_emoji_id": "5287468155738821335"
-      },
-      {
-        "offset": 2,
-        "length": 62,
-        "type": "bold"
-      },
-      {
-        "offset": 416,
-        "length": 7,
-        "type": "text_link",
-        "url": "https://t.me/aipost"
-      },
-      {
-        "offset": 424,
-        "length": 2,
-        "type": "custom_emoji",
-        "custom_emoji_id": "5431390559912614642"
-      }
-    ],
-    "media_group_id": null,
-    "chat_id": -1004468214616,
-    "message_ids": [
-      277
-    ],
-    "update_ids": [
-      378304170
-    ],
-    "retry_count": 0
-  },
-  {
     "type": "photo",
     "photo_file_ids": [
       "AgACAgQAAyEFAAMBClOLWAACARZqcJ_FFWxR96r0F3gUPDURuhV9kAACig1rGwdlgFNMxCtlw4KeRAEAAwIAA3gAAz0E"
@@ -208,6 +168,36 @@
     ],
     "update_ids": [
       378304173
+    ],
+    "retry_count": 0
+  },
+  {
+    "type": "photo",
+    "photo_file_ids": [
+      "AgACAgQAAyEFAAMBClOLWAACARlqcQABHGdJun8YnQ8dE5dz4czDsYcAAlsNaxsHZYBTMy0pVR36HJUBAAMCAAN3AAM9BA"
+    ],
+    "caption": "What happens when AI becomes good enough to build smarter AI?\n\nThen those smarter AIs build even smarter ones. That’s the core idea behind the AI singularity and some investors believe we’ve already entered that loop.\n\nThe next 18 months could be unlike anything we’ve seen before.\n\n@aipost 🏴",
+    "entities": [
+      {
+        "offset": 283,
+        "length": 7,
+        "type": "text_link",
+        "url": "https://t.me/aipost"
+      },
+      {
+        "offset": 291,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5431390559912614642"
+      }
+    ],
+    "media_group_id": null,
+    "chat_id": -1004468214616,
+    "message_ids": [
+      281
+    ],
+    "update_ids": [
+      378304174
     ],
     "retry_count": 0
   }
