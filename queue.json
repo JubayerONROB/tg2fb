@@ -2,58 +2,6 @@
   {
     "type": "photo",
     "photo_file_ids": [
-      "AgACAgQAAyEFAAMBClOLWAACARZqcJ_FFWxR96r0F3gUPDURuhV9kAACig1rGwdlgFNMxCtlw4KeRAEAAwIAA3gAAz0E"
-    ],
-    "caption": "❗️A private Snapchat message led to an arrest in under an hour\n\nA 22-year-old student teacher in Illinois was having a rough day after a student walked up to her laptop during class and deleted her lesson plan.\n\nFrustrated, she vented in what she believed was a private Snapchat group with her boyfriend and two roommates, joking, “Should I shoot him?” followed by a gun emoji.\n\nLess than an hour later, police walked into her school.\n\nAccording to reports, Snapchat’s AI flagged the message as a potential threat and alerted authorities. By the time deputies arrived, she immediately handed over her phone and explained it was a terrible joke made in frustration. Investigators concluded she wasn’t actually a threat, and school officials agreed. Despite that, she was arrested on a disorderly conduct charge, released the next day, and ultimately lost her student teaching placement.\n\nThe case has sparked a debate over AI-powered moderation and digital privacy. While platforms use automated systems to detect potential threats and help prevent violence, many users are surprised to learn that messages shared in “private” chats can still be analyzed for safety purposes.\n\nAI is no longer just recommending videos or answering questions, it’s increasingly involved in making safety decisions that can trigger real-world consequences.\n\nSource. \n\n@aipost 🏴",
-    "entities": [
-      {
-        "offset": 0,
-        "length": 2,
-        "type": "custom_emoji",
-        "custom_emoji_id": "5289761612440310918"
-      },
-      {
-        "offset": 2,
-        "length": 60,
-        "type": "bold"
-      },
-      {
-        "offset": 331,
-        "length": 21,
-        "type": "italic"
-      },
-      {
-        "offset": 1338,
-        "length": 8,
-        "type": "text_link",
-        "url": "https://www.eyerys.com/articles/timeline/eavesdropping-private-how-snapchats-ai-flagged-dark-joke-led-teacher-spending-night-jail"
-      },
-      {
-        "offset": 1348,
-        "length": 7,
-        "type": "text_link",
-        "url": "https://t.me/aipost"
-      },
-      {
-        "offset": 1356,
-        "length": 2,
-        "type": "custom_emoji",
-        "custom_emoji_id": "5431390559912614642"
-      }
-    ],
-    "media_group_id": null,
-    "chat_id": -1004468214616,
-    "message_ids": [
-      278
-    ],
-    "update_ids": [
-      378304171
-    ],
-    "retry_count": 0
-  },
-  {
-    "type": "photo",
-    "photo_file_ids": [
       "AgACAgQAAyEFAAMBClOLWAACARdqcMwkwJTMuLcouQn3-TqRCCQnAgACkw1rG6uwhFMv2v0aNlR6_wEAAwIAA3gAAz0E"
     ],
     "caption": "🤖 OpenAI launches Presence for real-world AI agents\n\nOpenAI introduced Presence, a product that puts AI agents directly into customer support and internal company workflows instead of keeping them hidden in demos or internal GPTs.\n\nPresence is tailored for business use, with OpenAI engineers customizing setups when standard configurations fall short. Access is limited as companies are selected manually, with no clarity on compliance with the European AI Act.\n\n📊@tech",
