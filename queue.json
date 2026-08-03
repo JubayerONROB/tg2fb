@@ -1,34 +1,207 @@
 [
   {
-    "type": "album",
+    "type": "photo",
     "photo_file_ids": [
-      "AgACAgQAAyEFAAMBClOLWAACARBqcBGrWiKXNsAVvwq3l1u5Ien0zQACuw1rGwdleFNjpFNc8rLB4wEAAwIAA3kAAz0E",
-      "AgACAgQAAyEFAAMBClOLWAACARFqcBGrT0AsZdJ37EJm5mHdzTo31AACvA1rGwdleFPi42LXIAp1mQEAAwIAA3gAAz0E"
+      "AgACAgIAAyEFAAMBClOLWAACARJqcE6jnRzwfM5-7n88GlHpTOUQUAACdxlrG78hgUuoLaftAa8BUwEAAwIAA3kAAz0E"
     ],
-    "caption": "Researchers found 40% of top TikTok health related videos are AI-generated, typically spreading fake medical advice.\n\n@aipost 🏴",
+    "caption": "🧠 The 2026 International Olympiad in Artificial Intelligence starts today. \n\nAs a token of support for those who will reinvent our civilization, we'll issue 🏆 240 exclusive Intelligence Cups to the winners.\n\n💵 We guarantee minimum buyback prices ($1,000 per Gold Cup, etc.), but the cups' limited supply may make them worth much more on the secondary market.\n\nGood luck, AI coders! 🍀",
     "entities": [
       {
-        "offset": 118,
+        "offset": 0,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5927026418616636353"
+      },
+      {
+        "offset": 38,
+        "length": 23,
+        "type": "bold"
+      },
+      {
+        "offset": 158,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5409008750893734809"
+      },
+      {
+        "offset": 161,
+        "length": 3,
+        "type": "bold"
+      },
+      {
+        "offset": 175,
+        "length": 17,
+        "type": "bold"
+      },
+      {
+        "offset": 210,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5409048419211682843"
+      },
+      {
+        "offset": 251,
+        "length": 5,
+        "type": "bold"
+      },
+      {
+        "offset": 261,
+        "length": 8,
+        "type": "bold"
+      },
+      {
+        "offset": 385,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5406595657878220722"
+      }
+    ],
+    "media_group_id": null,
+    "chat_id": -1004468214616,
+    "message_ids": [
+      274
+    ],
+    "update_ids": [
+      378304167
+    ],
+    "retry_count": 0
+  },
+  {
+    "type": "photo",
+    "photo_file_ids": [
+      "AgACAgIAAyEFAAMBClOLWAACARNqcE7lNruklgABs8oDds6w7GVxE8wAAn8faxvP1IFLSVRyd2V6GvIBAAMCAAN5AAM9BA"
+    ],
+    "caption": "🤖 Gravity Falls Creator Trolls Sam Altman\n\nSam Altman shared a ChatGPT hack to connect the bot to family calendars and create daily podcasts about kids' interests and events.\n\nAlex Hirsch, creator of Gravity Falls, replied suggesting it’s better to just talk to your kids instead.\n\n📊@tech",
+    "entities": [
+      {
+        "offset": 0,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5397681122542893003"
+      },
+      {
+        "offset": 3,
+        "length": 39,
+        "type": "bold"
+      },
+      {
+        "offset": 44,
+        "length": 10,
+        "type": "bold"
+      },
+      {
+        "offset": 64,
+        "length": 7,
+        "type": "bold"
+      },
+      {
+        "offset": 177,
+        "length": 11,
+        "type": "bold"
+      },
+      {
+        "offset": 201,
+        "length": 13,
+        "type": "bold"
+      },
+      {
+        "offset": 283,
+        "length": 2,
+        "type": "bold"
+      },
+      {
+        "offset": 283,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5449841756596101801"
+      },
+      {
+        "offset": 285,
+        "length": 5,
+        "type": "mention"
+      },
+      {
+        "offset": 285,
+        "length": 5,
+        "type": "bold"
+      }
+    ],
+    "media_group_id": null,
+    "chat_id": -1004468214616,
+    "message_ids": [
+      275
+    ],
+    "update_ids": [
+      378304168
+    ],
+    "retry_count": 0
+  },
+  {
+    "type": "photo",
+    "photo_file_ids": [
+      "AgACAgIAAyEFAAMBClOLWAACARRqcFdbJTDhynoL5rKAVq1-gYEBvQACIBtrGzf-iEszHYt9tYCuDQEAAwIAA3kAAz0E"
+    ],
+    "caption": "Alibaba has introduced Qwen3.8-Max, a new AI model with 2.4 trillion parameters, which recently operated autonomously for 16 days. According to reports, the model completed 265 commits, 127 pull requests, and 151 issues during a continuous develop-test-repair-merge cycle.\n\nQwen3.8-Max’s operational cost is cited as 80% lower than GPT-5.6 Sol and 88% below Claude Fable 5 for output, with prices at $2 per million input tokens and $6 per million output tokens. For comparison, GPT-5.6 Sol lists $5/$30 and Claude Fable 5 lists $10/$50 for input/output tokens respectively.\n\nThe model demonstrates broad capabilities in coding, professional tasks, and computer-based work. Open weights for Qwen3.8-Max are expected next week.\n\n📰 @aipost",
+    "entities": [
+      {
+        "offset": 727,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5363988332466438547"
+      },
+      {
+        "offset": 730,
+        "length": 7,
+        "type": "mention"
+      }
+    ],
+    "media_group_id": null,
+    "chat_id": -1004468214616,
+    "message_ids": [
+      276
+    ],
+    "update_ids": [
+      378304169
+    ],
+    "retry_count": 0
+  },
+  {
+    "type": "video",
+    "video_file_id": "BAACAgQAAyEFAAMBClOLWAACARVqcHfURXdq1AV5mEG1qiigCiU4owACRCEAAgdleFMYng5Wf8TWXz0E",
+    "video_file_size": 16468538,
+    "caption": "🗣\"AI will spark a Cambrian explosion of programming languages.\"\n\nBoris Cherny, Head of Agentic Coding at Anthropic, says AI is accelerating innovation across software, just as it's already accelerating breakthroughs in fields like material discovery.\n\n\"Instead of converging on a single dominant programming language, AI may enable an explosion of new languages and entirely new ways of thinking about computing.\"\n\n@aipost 🏴",
+    "entities": [
+      {
+        "offset": 0,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5287468155738821335"
+      },
+      {
+        "offset": 2,
+        "length": 62,
+        "type": "bold"
+      },
+      {
+        "offset": 416,
         "length": 7,
         "type": "text_link",
         "url": "https://t.me/aipost"
       },
       {
-        "offset": 126,
+        "offset": 424,
         "length": 2,
         "type": "custom_emoji",
         "custom_emoji_id": "5431390559912614642"
       }
     ],
-    "media_group_id": "14285835609225917",
+    "media_group_id": null,
     "chat_id": -1004468214616,
     "message_ids": [
-      272,
-      273
+      277
     ],
     "update_ids": [
-      378304165,
-      378304166
+      378304170
     ],
     "retry_count": 0
   }
