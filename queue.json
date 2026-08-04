@@ -1,19 +1,29 @@
 [
   {
-    "type": "photo",
-    "photo_file_ids": [
-      "AgACAgQAAyEFAAMBClOLWAACARlqcQABHGdJun8YnQ8dE5dz4czDsYcAAlsNaxsHZYBTMy0pVR36HJUBAAMCAAN3AAM9BA"
-    ],
-    "caption": "What happens when AI becomes good enough to build smarter AI?\n\nThen those smarter AIs build even smarter ones. That’s the core idea behind the AI singularity and some investors believe we’ve already entered that loop.\n\nThe next 18 months could be unlike anything we’ve seen before.\n\n@aipost 🏴",
+    "type": "video",
+    "video_file_id": "BAACAgQAAyEFAAMBClOLWAACARpqcZEHfu-U8ioecfs3p28HjaL7qgACFB4AAlP8iVPUgTWHt9GsvT0E",
+    "video_file_size": 46646589,
+    "caption": "🗣Emad Mostaque said AI had already found 121 years of missing algebra in Einstein's equations. \n\nA billion parameter model trained on nothing past 1911 got to general relativity by itself.\n\nOpenAI's Astra solved ten open problems in mathematics and theoretical computer science, most stuck for decades, on about $2,000 of compute.\n\nThe machines are doing math humans couldn't.\n\n@aipost 🏴",
     "entities": [
       {
-        "offset": 283,
+        "offset": 0,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5287468155738821335"
+      },
+      {
+        "offset": 2,
+        "length": 94,
+        "type": "bold"
+      },
+      {
+        "offset": 379,
         "length": 7,
         "type": "text_link",
         "url": "https://t.me/aipost"
       },
       {
-        "offset": 291,
+        "offset": 387,
         "length": 2,
         "type": "custom_emoji",
         "custom_emoji_id": "5431390559912614642"
@@ -22,10 +32,90 @@
     "media_group_id": null,
     "chat_id": -1004468214616,
     "message_ids": [
-      281
+      282
     ],
     "update_ids": [
-      378304174
+      378304175
+    ],
+    "retry_count": 0
+  },
+  {
+    "type": "photo",
+    "photo_file_ids": [
+      "AgACAgQAAyEFAAMBClOLWAACARtqcZESJuLry7o81rEE6Pin6jWO0AACJA1rG1P8iVPARsLnh6gwVwEAAwIAA3kAAz0E"
+    ],
+    "caption": "❗️AI benchmarking is becoming a multi-billion dollar industry.\n\nAs the number of AI models multiplies, benchmarking is becoming its own market.\n\nThis market now stands at $1.2 billion and is expected to grow to $9.6 billion by 2035. This also implies over 8x growth over then next ten years.\n\nInstead of judging a model on a fixed benchmark score, companies now want proof that it performs well against real people in real conditions.\n\nIn the next phase of AI, it will not be enough to simply build the best models. The companies that can accurately measure and compare them may become just as critical to the ecosystem.\n\n@aipost 🏴",
+    "entities": [
+      {
+        "offset": 0,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5289761612440310918"
+      },
+      {
+        "offset": 2,
+        "length": 60,
+        "type": "bold"
+      },
+      {
+        "offset": 622,
+        "length": 7,
+        "type": "text_link",
+        "url": "https://t.me/aipost"
+      },
+      {
+        "offset": 630,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5431390559912614642"
+      }
+    ],
+    "media_group_id": null,
+    "chat_id": -1004468214616,
+    "message_ids": [
+      283
+    ],
+    "update_ids": [
+      378304176
+    ],
+    "retry_count": 0
+  },
+  {
+    "type": "album",
+    "photo_file_ids": [
+      "AgACAgQAAyEFAAMBClOLWAACARxqcaWWMbOShgyc0Kb3QWKnSd0EXAACJw1rG1P8iVOGg_ycTBDfkAEAAwIAA3gAAz0E",
+      "AgACAgQAAyEFAAMBClOLWAACAR1qcaWWDRbFsCiDC1_kGe_AAbTMOQACKA1rG1P8iVNPlkCFP36zqQEAAwIAA3gAAz0E"
+    ],
+    "caption": "⚠️ An FBI counterintelligence agent stole $1 MILLION in crypto from a suspect's wallets and asked ChatGPT how to leave the country.\n\nPatrick Yaroch used passcodes obtained during a criminal probe to make a dozen transfers from wallets tied to an \"adversarial nation\".\n\nHe then asked ChatGPT what to do with a \"bucket of money\" and how to move to Europe, and booked a flight to Portugal after it recommended it.\n\nYaroch confessed saying he had been \"spinning out of control\" and it was \"eating him up inside.\"\n\n@aipost 🏴",
+    "entities": [
+      {
+        "offset": 0,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5366332658760580843"
+      },
+      {
+        "offset": 510,
+        "length": 7,
+        "type": "text_link",
+        "url": "https://t.me/aipost"
+      },
+      {
+        "offset": 518,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5431390559912614642"
+      }
+    ],
+    "media_group_id": "14286662835124765",
+    "chat_id": -1004468214616,
+    "message_ids": [
+      284,
+      285
+    ],
+    "update_ids": [
+      378304177,
+      378304178
     ],
     "retry_count": 0
   }
