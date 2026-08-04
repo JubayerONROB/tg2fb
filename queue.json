@@ -1,59 +1,147 @@
 [
   {
-    "type": "photo",
+    "type": "album",
     "photo_file_ids": [
-      "AgACAgIAAyEFAAMBClOLWAACAR5qcf8zuE57aS8Tqj-7RB7JPlXVTAAC7RlrG7VfkEvsBMZYWnPUzwEAAwIAA3gAAz0E"
+      "AgACAgIAAyEFAAMBClOLWAACAR9qciRGT9Qku5f52Dqo3HK2pMIp4QACcx9rG4NniUtYAe1spyOafQEAAwIAA3kAAz0E",
+      "AgACAgIAAyEFAAMBClOLWAACASBqciRGVAABSjZ51RShuPzCQcgJDa8AAnQfaxuDZ4lLKojE6U6Yo8EBAAMCAAN5AAM9BA"
     ],
-    "caption": "OpenAI says its new model solved 10 math problems that had remained open for decades\n\nThis week, Sam Altman introduced Astra, a new multi-agent system that managed to solve and formally prove 10 difficult mathematical problems, some of which had gone unsolved for decades.\n\nThe most impressive part is that Astra didn’t just come up with answers. It translated every proof into Lean, a formal proof language that allows mathematicians to verify each step.\n\nAnd the cost was surprisingly low: according to OpenAI, solving all ten problems required less than $2,000 worth of tokens at Sol pricing.\n\nAstra works by combining multiple agents that explore different ideas, challenge each other’s reasoning, and gradually build a rigorous proof together.\n\nOpenAI says the system was also tested on other unsolved problems, although it wasn’t able to solve them yet.\n\nThe bigger takeaway is that we’re starting to see AI systems move beyond solving textbook exercises and into territory that looks a lot more like real mathematical research.\n\nAstra will also be the first OpenAI model to go through the company’s new government approval process before release.\n\nOpenAI has already published both the research paper and the full Lean proofs. 👀\n🔗: https://openai.com/index/ten-advances-in-mathematics/\n🔗: https://github.com/openai/ten-proofs\n\nFollow @ainews_daily for more quality AI insights!",
+    "caption": "🇨🇳 China's Market for Renting Human Faces to AI\n\nIn China, people rent out their faces for AI ads, games, and microdramas, earning between $15 and $700. Producers select faces by age, gender, and type, from \"ordinary neighbor\" to \"supermodel.\"\n\nThis trend follows a surge in AI content: over 95% of 128,000 Chinese microdramas in the first three months of the year used AI. Real faces help characters avoid looking identical.\n\nLawyers warn that sharing biometric data risks losing control over how one’s appearance is used later.\n\n📊@tech",
     "entities": [
       {
         "offset": 0,
-        "length": 84,
+        "length": 4,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5447548939844725331"
+      },
+      {
+        "offset": 5,
+        "length": 44,
         "type": "bold"
       },
       {
-        "offset": 119,
+        "offset": 68,
+        "length": 20,
+        "type": "bold"
+      },
+      {
+        "offset": 141,
+        "length": 12,
+        "type": "bold"
+      },
+      {
+        "offset": 289,
+        "length": 39,
+        "type": "bold"
+      },
+      {
+        "offset": 447,
+        "length": 22,
+        "type": "bold"
+      },
+      {
+        "offset": 533,
+        "length": 2,
+        "type": "bold"
+      },
+      {
+        "offset": 533,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5449841756596101801"
+      },
+      {
+        "offset": 535,
+        "length": 5,
+        "type": "mention"
+      },
+      {
+        "offset": 535,
         "length": 5,
         "type": "bold"
-      },
-      {
-        "offset": 192,
-        "length": 34,
-        "type": "bold"
-      },
-      {
-        "offset": 378,
-        "length": 4,
-        "type": "bold"
-      },
-      {
-        "offset": 547,
-        "length": 32,
-        "type": "bold"
-      },
-      {
-        "offset": 1241,
-        "length": 53,
-        "type": "url"
-      },
-      {
-        "offset": 1299,
-        "length": 36,
-        "type": "url"
-      },
-      {
-        "offset": 1344,
-        "length": 13,
-        "type": "mention"
       }
     ],
-    "media_group_id": null,
+    "media_group_id": "14286922291059597",
     "chat_id": -1004468214616,
     "message_ids": [
-      286
+      287,
+      288
     ],
     "update_ids": [
-      378304179
+      378304180,
+      378304181
+    ],
+    "retry_count": 0
+  },
+  {
+    "type": "album",
+    "photo_file_ids": [
+      "AgACAgIAAyEFAAMBClOLWAACASFqciRN9pDOh6MmSV5Nua0EriFGlgACfB9rG4NniUsnxz1m7qc5cQEAAwIAA3kAAz0E",
+      "AgACAgIAAyEFAAMBClOLWAACASJqciRN4A3L5KT9iU5zQOCMQXfcCQACfR9rG4NniUur7LLGd6DJ8QEAAwIAA3kAAz0E"
+    ],
+    "caption": "💻 Pocketbyte: Modular Computer the Size of a Card\n\nPocketbyte is a tiny portable computer measuring about 75 × 55 mm, roughly the size of a credit card. It runs on an ESP32-S3 processor with 8 MB PSRAM, has a 2.8-inch IPS screen, 1500 mAh battery, microSD slot for up to 32 GB, a mono speaker, and a 3.5 mm jack.\n\nIts key feature is a modular pin connector that lets you attach hardware like a gamepad for retro emulators, a BlackBerry-style QWERTY keyboard, or a development board to control other electronics. The software is open source, based on FreeRTOS, supports Arduino, and apps can be installed via Wi-Fi from a built-in store.\n\n📊@tech",
+    "entities": [
+      {
+        "offset": 0,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5972055534352733289"
+      },
+      {
+        "offset": 3,
+        "length": 47,
+        "type": "bold"
+      },
+      {
+        "offset": 52,
+        "length": 10,
+        "type": "bold"
+      },
+      {
+        "offset": 168,
+        "length": 18,
+        "type": "bold"
+      },
+      {
+        "offset": 336,
+        "length": 21,
+        "type": "bold"
+      },
+      {
+        "offset": 529,
+        "length": 11,
+        "type": "bold"
+      },
+      {
+        "offset": 639,
+        "length": 2,
+        "type": "bold"
+      },
+      {
+        "offset": 639,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5449841756596101801"
+      },
+      {
+        "offset": 641,
+        "length": 5,
+        "type": "mention"
+      },
+      {
+        "offset": 641,
+        "length": 5,
+        "type": "bold"
+      }
+    ],
+    "media_group_id": "14286922350916461",
+    "chat_id": -1004468214616,
+    "message_ids": [
+      289,
+      290
+    ],
+    "update_ids": [
+      378304182,
+      378304183
     ],
     "retry_count": 0
   }
