@@ -2,79 +2,6 @@
   {
     "type": "album",
     "photo_file_ids": [
-      "AgACAgIAAyEFAAMBClOLWAACAR9qciRGT9Qku5f52Dqo3HK2pMIp4QACcx9rG4NniUtYAe1spyOafQEAAwIAA3kAAz0E",
-      "AgACAgIAAyEFAAMBClOLWAACASBqciRGVAABSjZ51RShuPzCQcgJDa8AAnQfaxuDZ4lLKojE6U6Yo8EBAAMCAAN5AAM9BA"
-    ],
-    "caption": "🇨🇳 China's Market for Renting Human Faces to AI\n\nIn China, people rent out their faces for AI ads, games, and microdramas, earning between $15 and $700. Producers select faces by age, gender, and type, from \"ordinary neighbor\" to \"supermodel.\"\n\nThis trend follows a surge in AI content: over 95% of 128,000 Chinese microdramas in the first three months of the year used AI. Real faces help characters avoid looking identical.\n\nLawyers warn that sharing biometric data risks losing control over how one’s appearance is used later.\n\n📊@tech",
-    "entities": [
-      {
-        "offset": 0,
-        "length": 4,
-        "type": "custom_emoji",
-        "custom_emoji_id": "5447548939844725331"
-      },
-      {
-        "offset": 5,
-        "length": 44,
-        "type": "bold"
-      },
-      {
-        "offset": 68,
-        "length": 20,
-        "type": "bold"
-      },
-      {
-        "offset": 141,
-        "length": 12,
-        "type": "bold"
-      },
-      {
-        "offset": 289,
-        "length": 39,
-        "type": "bold"
-      },
-      {
-        "offset": 447,
-        "length": 22,
-        "type": "bold"
-      },
-      {
-        "offset": 533,
-        "length": 2,
-        "type": "bold"
-      },
-      {
-        "offset": 533,
-        "length": 2,
-        "type": "custom_emoji",
-        "custom_emoji_id": "5449841756596101801"
-      },
-      {
-        "offset": 535,
-        "length": 5,
-        "type": "mention"
-      },
-      {
-        "offset": 535,
-        "length": 5,
-        "type": "bold"
-      }
-    ],
-    "media_group_id": "14286922291059597",
-    "chat_id": -1004468214616,
-    "message_ids": [
-      287,
-      288
-    ],
-    "update_ids": [
-      378304180,
-      378304181
-    ],
-    "retry_count": 0
-  },
-  {
-    "type": "album",
-    "photo_file_ids": [
       "AgACAgIAAyEFAAMBClOLWAACASFqciRN9pDOh6MmSV5Nua0EriFGlgACfB9rG4NniUsnxz1m7qc5cQEAAwIAA3kAAz0E",
       "AgACAgIAAyEFAAMBClOLWAACASJqciRN4A3L5KT9iU5zQOCMQXfcCQACfR9rG4NniUur7LLGd6DJ8QEAAwIAA3kAAz0E"
     ],
@@ -142,6 +69,110 @@
     "update_ids": [
       378304182,
       378304183
+    ],
+    "retry_count": 0
+  },
+  {
+    "type": "photo",
+    "photo_file_ids": [
+      "AgACAgQAAyEFAAMBClOLWAACASNqcj8-qJZ_0zdY6IQFWHCmTBMeBgACFA5rG1P8iVMNr_wopSNLUQEAAwIAA3kAAz0E"
+    ],
+    "caption": "❗️15 U.S. attorneys general are turning up the heat on OpenAI\n\nThe fallout from OpenAI’s recent AI security incidents isn’t over yet.\n\nA coalition of 15 state attorneys general has formally ordered the company to preserve a huge range of evidence tied to the Hugging Face breach and earlier containment failures. That includes internal chats, model logs, safety procedures, technical documents, and other records that could become crucial if legal action follows.\n\nThe coalition is also demanding that OpenAI pause any evaluations that encourage AI models to explore advanced cyberattack techniques until the company can prove those systems are securely contained.\n\nThey’re also calling for stronger protections for whistleblowers, saying employees who report dangerous or unlawful behavior should be protected from retaliation.\n\nPerhaps most notably, regulators want OpenAI to preserve evidence related to earlier reports of unauthorized network access, exposed credentials, and claims that one AI agent left “escape instructions” for future versions of itself.\n\nThe attorneys general say these incidents may have violated consumer-protection and data-privacy laws. No lawsuit has been filed yet, but an evidence-preservation order is often the first sign that regulators are preparing for a potentially major legal battle.\n\n@aipost 🏴",
+    "entities": [
+      {
+        "offset": 0,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5289761612440310918"
+      },
+      {
+        "offset": 2,
+        "length": 59,
+        "type": "bold"
+      },
+      {
+        "offset": 1326,
+        "length": 7,
+        "type": "text_link",
+        "url": "https://t.me/aipost"
+      },
+      {
+        "offset": 1334,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5431390559912614642"
+      }
+    ],
+    "media_group_id": null,
+    "chat_id": -1004468214616,
+    "message_ids": [
+      291
+    ],
+    "update_ids": [
+      378304184
+    ],
+    "retry_count": 0
+  },
+  {
+    "type": "photo",
+    "photo_file_ids": [
+      "AgACAgQAAyEFAAMBClOLWAACASRqcj9E9hgc9gfuKkVMlwwdBM9B8AACFg5rG1P8iVNa-Lwv_V-W1AEAAwIAA3kAAz0E"
+    ],
+    "caption": "⚠️ OpenAI fires back in Apple’s trade secrets lawsuit\n\nAfter Apple accused OpenAI of stealing confidential hardware secrets through former engineer Chang Liu, OpenAI released internal messages that appear to show Apple employees continuing to rely on Liu weeks after he had already left the company.\n\nAccording to the messages, Apple employees asked Liu to locate internal files, explain product design decisions, and answer technical questions. One employee even wrote:\n\n“Of course, I could ask several folks, but you are the best. Even if you don’t work here anymore.”\n\nOpenAI also claims Apple made another embarrassing mistake. Apple alleged it reached out to OpenAI before filing the lawsuit and received no response. But emails released by OpenAI suggest Apple’s outside lawyer accidentally thanked OpenAI’s General Counsel for a phone call that never actually happened before later apologizing for the mix-up.\n\nThat said, these revelations don’t disprove Apple’s core allegations that trade secrets were taken. Instead, they shift some attention back to Apple, raising uncomfortable questions about its own security practices.\n\nIf Apple believed Liu had access to highly sensitive information, why were employees still asking him for confidential help after he had already left the company? 🤔\n\nSource. \n\n@aipost 🏴",
+    "entities": [
+      {
+        "offset": 0,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5366332658760580843"
+      },
+      {
+        "offset": 3,
+        "length": 50,
+        "type": "bold"
+      },
+      {
+        "offset": 1135,
+        "length": 163,
+        "type": "bold"
+      },
+      {
+        "offset": 1298,
+        "length": 2,
+        "type": "bold"
+      },
+      {
+        "offset": 1298,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5370724846936267183"
+      },
+      {
+        "offset": 1302,
+        "length": 8,
+        "type": "text_link",
+        "url": "https://openai.com/index/apple-is-getting-this-wrong/"
+      },
+      {
+        "offset": 1312,
+        "length": 7,
+        "type": "text_link",
+        "url": "https://t.me/aipost"
+      },
+      {
+        "offset": 1320,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5431390559912614642"
+      }
+    ],
+    "media_group_id": null,
+    "chat_id": -1004468214616,
+    "message_ids": [
+      292
+    ],
+    "update_ids": [
+      378304185
     ],
     "retry_count": 0
   }
