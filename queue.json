@@ -1,40 +1,59 @@
 [
   {
-    "type": "album",
+    "type": "photo",
     "photo_file_ids": [
-      "AgACAgQAAyEFAAMBClOLWAACARxqcaWWMbOShgyc0Kb3QWKnSd0EXAACJw1rG1P8iVOGg_ycTBDfkAEAAwIAA3gAAz0E",
-      "AgACAgQAAyEFAAMBClOLWAACAR1qcaWWDRbFsCiDC1_kGe_AAbTMOQACKA1rG1P8iVNPlkCFP36zqQEAAwIAA3gAAz0E"
+      "AgACAgIAAyEFAAMBClOLWAACAR5qcf8zuE57aS8Tqj-7RB7JPlXVTAAC7RlrG7VfkEvsBMZYWnPUzwEAAwIAA3gAAz0E"
     ],
-    "caption": "⚠️ An FBI counterintelligence agent stole $1 MILLION in crypto from a suspect's wallets and asked ChatGPT how to leave the country.\n\nPatrick Yaroch used passcodes obtained during a criminal probe to make a dozen transfers from wallets tied to an \"adversarial nation\".\n\nHe then asked ChatGPT what to do with a \"bucket of money\" and how to move to Europe, and booked a flight to Portugal after it recommended it.\n\nYaroch confessed saying he had been \"spinning out of control\" and it was \"eating him up inside.\"\n\n@aipost 🏴",
+    "caption": "OpenAI says its new model solved 10 math problems that had remained open for decades\n\nThis week, Sam Altman introduced Astra, a new multi-agent system that managed to solve and formally prove 10 difficult mathematical problems, some of which had gone unsolved for decades.\n\nThe most impressive part is that Astra didn’t just come up with answers. It translated every proof into Lean, a formal proof language that allows mathematicians to verify each step.\n\nAnd the cost was surprisingly low: according to OpenAI, solving all ten problems required less than $2,000 worth of tokens at Sol pricing.\n\nAstra works by combining multiple agents that explore different ideas, challenge each other’s reasoning, and gradually build a rigorous proof together.\n\nOpenAI says the system was also tested on other unsolved problems, although it wasn’t able to solve them yet.\n\nThe bigger takeaway is that we’re starting to see AI systems move beyond solving textbook exercises and into territory that looks a lot more like real mathematical research.\n\nAstra will also be the first OpenAI model to go through the company’s new government approval process before release.\n\nOpenAI has already published both the research paper and the full Lean proofs. 👀\n🔗: https://openai.com/index/ten-advances-in-mathematics/\n🔗: https://github.com/openai/ten-proofs\n\nFollow @ainews_daily for more quality AI insights!",
     "entities": [
       {
         "offset": 0,
-        "length": 2,
-        "type": "custom_emoji",
-        "custom_emoji_id": "5366332658760580843"
+        "length": 84,
+        "type": "bold"
       },
       {
-        "offset": 510,
-        "length": 7,
-        "type": "text_link",
-        "url": "https://t.me/aipost"
+        "offset": 119,
+        "length": 5,
+        "type": "bold"
       },
       {
-        "offset": 518,
-        "length": 2,
-        "type": "custom_emoji",
-        "custom_emoji_id": "5431390559912614642"
+        "offset": 192,
+        "length": 34,
+        "type": "bold"
+      },
+      {
+        "offset": 378,
+        "length": 4,
+        "type": "bold"
+      },
+      {
+        "offset": 547,
+        "length": 32,
+        "type": "bold"
+      },
+      {
+        "offset": 1241,
+        "length": 53,
+        "type": "url"
+      },
+      {
+        "offset": 1299,
+        "length": 36,
+        "type": "url"
+      },
+      {
+        "offset": 1344,
+        "length": 13,
+        "type": "mention"
       }
     ],
-    "media_group_id": "14286662835124765",
+    "media_group_id": null,
     "chat_id": -1004468214616,
     "message_ids": [
-      284,
-      285
+      286
     ],
     "update_ids": [
-      378304177,
-      378304178
+      378304179
     ],
     "retry_count": 0
   }
