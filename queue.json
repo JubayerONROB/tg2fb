@@ -1,46 +1,5 @@
 [
   {
-    "type": "photo",
-    "photo_file_ids": [
-      "AgACAgQAAyEFAAMBClOLWAACARtqcZESJuLry7o81rEE6Pin6jWO0AACJA1rG1P8iVPARsLnh6gwVwEAAwIAA3kAAz0E"
-    ],
-    "caption": "❗️AI benchmarking is becoming a multi-billion dollar industry.\n\nAs the number of AI models multiplies, benchmarking is becoming its own market.\n\nThis market now stands at $1.2 billion and is expected to grow to $9.6 billion by 2035. This also implies over 8x growth over then next ten years.\n\nInstead of judging a model on a fixed benchmark score, companies now want proof that it performs well against real people in real conditions.\n\nIn the next phase of AI, it will not be enough to simply build the best models. The companies that can accurately measure and compare them may become just as critical to the ecosystem.\n\n@aipost 🏴",
-    "entities": [
-      {
-        "offset": 0,
-        "length": 2,
-        "type": "custom_emoji",
-        "custom_emoji_id": "5289761612440310918"
-      },
-      {
-        "offset": 2,
-        "length": 60,
-        "type": "bold"
-      },
-      {
-        "offset": 622,
-        "length": 7,
-        "type": "text_link",
-        "url": "https://t.me/aipost"
-      },
-      {
-        "offset": 630,
-        "length": 2,
-        "type": "custom_emoji",
-        "custom_emoji_id": "5431390559912614642"
-      }
-    ],
-    "media_group_id": null,
-    "chat_id": -1004468214616,
-    "message_ids": [
-      283
-    ],
-    "update_ids": [
-      378304176
-    ],
-    "retry_count": 0
-  },
-  {
     "type": "album",
     "photo_file_ids": [
       "AgACAgQAAyEFAAMBClOLWAACARxqcaWWMbOShgyc0Kb3QWKnSd0EXAACJw1rG1P8iVOGg_ycTBDfkAEAAwIAA3gAAz0E",
