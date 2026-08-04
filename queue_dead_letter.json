@@ -1472,5 +1472,45 @@
       378304173
     ],
     "retry_count": 0
+  },
+  {
+    "type": "video",
+    "video_file_id": "BAACAgQAAyEFAAMBClOLWAACARpqcZEHfu-U8ioecfs3p28HjaL7qgACFB4AAlP8iVPUgTWHt9GsvT0E",
+    "video_file_size": 46646589,
+    "caption": "🗣Emad Mostaque said AI had already found 121 years of missing algebra in Einstein's equations. \n\nA billion parameter model trained on nothing past 1911 got to general relativity by itself.\n\nOpenAI's Astra solved ten open problems in mathematics and theoretical computer science, most stuck for decades, on about $2,000 of compute.\n\nThe machines are doing math humans couldn't.\n\n@aipost 🏴",
+    "entities": [
+      {
+        "offset": 0,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5287468155738821335"
+      },
+      {
+        "offset": 2,
+        "length": 94,
+        "type": "bold"
+      },
+      {
+        "offset": 379,
+        "length": 7,
+        "type": "text_link",
+        "url": "https://t.me/aipost"
+      },
+      {
+        "offset": 387,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5431390559912614642"
+      }
+    ],
+    "media_group_id": null,
+    "chat_id": -1004468214616,
+    "message_ids": [
+      282
+    ],
+    "update_ids": [
+      378304175
+    ],
+    "retry_count": 0
   }
 ]
