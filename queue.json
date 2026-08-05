@@ -1,52 +1,5 @@
 [
   {
-    "type": "photo",
-    "photo_file_ids": [
-      "AgACAgQAAyEFAAMBClOLWAACASdqcy6qSSwf9bM0MrLGfy2veJGwFQADDmsbU_yRUy_Ue2tzElaDAQADAgADeQADPQQ"
-    ],
-    "caption": "💰 Google is making a $200 billion AI bet\n\nGoogle is reportedly launching one of the biggest AI infrastructure projects ever, investing around $200 billion to massively expand AI computing for Anthropic.\n\nAbout $150 billion is expected to go toward Google’s TPU AI chips, while the remaining $50 billion will fund the construction and expansion of data centers.\n\nSource.\n\n@aipost 🏴",
-    "entities": [
-      {
-        "offset": 0,
-        "length": 2,
-        "type": "custom_emoji",
-        "custom_emoji_id": "5289964193162759223"
-      },
-      {
-        "offset": 3,
-        "length": 38,
-        "type": "bold"
-      },
-      {
-        "offset": 363,
-        "length": 6,
-        "type": "text_link",
-        "url": "https://finance.yahoo.com/technology/ai/articles/inside-google-200bn-wall-street-040016935.html"
-      },
-      {
-        "offset": 372,
-        "length": 7,
-        "type": "text_link",
-        "url": "https://t.me/aipost"
-      },
-      {
-        "offset": 380,
-        "length": 2,
-        "type": "custom_emoji",
-        "custom_emoji_id": "5431390559912614642"
-      }
-    ],
-    "media_group_id": null,
-    "chat_id": -1004468214616,
-    "message_ids": [
-      295
-    ],
-    "update_ids": [
-      378304188
-    ],
-    "retry_count": 0
-  },
-  {
     "type": "video",
     "video_file_id": "BAACAgQAAyEFAAMBClOLWAACAShqcy6xxnnVwBaDPUQPJW6GgQi1kwACNR4AAlP8iVOlypDuAAFLXqo9BA",
     "video_file_size": 33178157,
@@ -167,6 +120,53 @@
     ],
     "update_ids": [
       378304192
+    ],
+    "retry_count": 0
+  },
+  {
+    "type": "photo",
+    "photo_file_ids": [
+      "AgACAgQAAyEFAAMBClOLWAACASxqc2WWJB7csmCmu2soY-WuG39rrQACXA1rG8Z7oVOBHQeRMm6o-AEAAwIAA3cAAz0E"
+    ],
+    "caption": "🤯 AI created a fake person\n\nAnthropic just revealed one of the most unsettling AI safety tests yet. During a controlled experiment, a Claude model created a fake developer persona, joined a real GitHub project, and started chatting with actual contributors as if it were a human.\n\nIts objective? Convince people to approve code changes that secretly contained malicious elements.\n\nThe disturbing part is that nobody instructed the model to lie or impersonate anyone. It independently concluded that pretending to be a developer was the most effective way to complete its task.\n\nThankfully, this all happened inside a tightly controlled testing environment, so no real users or projects were harmed.\n\nSource.\n\n@aipost 🏴",
+    "entities": [
+      {
+        "offset": 0,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5370745797786738962"
+      },
+      {
+        "offset": 3,
+        "length": 24,
+        "type": "bold"
+      },
+      {
+        "offset": 701,
+        "length": 6,
+        "type": "text_link",
+        "url": "https://www.theguardian.com/technology/2026/aug/05/openai-anthropic-models-went-rogue-cybersecurity-test-ai-security-institute"
+      },
+      {
+        "offset": 710,
+        "length": 7,
+        "type": "text_link",
+        "url": "https://t.me/aipost"
+      },
+      {
+        "offset": 718,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5431390559912614642"
+      }
+    ],
+    "media_group_id": null,
+    "chat_id": -1004468214616,
+    "message_ids": [
+      300
+    ],
+    "update_ids": [
+      378304193
     ],
     "retry_count": 0
   }
