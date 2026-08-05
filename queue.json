@@ -1,60 +1,5 @@
 [
   {
-    "type": "album",
-    "photo_file_ids": [
-      "AgACAgQAAyEFAAMBClOLWAACASlqcy63Yz0FmHXvKY-Ve6KG_hiySQACNw5rG8Z7mVMS4SEfTdsh4QEAAwIAA3gAAz0E",
-      "AgACAgQAAyEFAAMBClOLWAACASpqcy63NLUEGv8yjEHvKtnbtPhPKgACOA5rG8Z7mVOdmfPTebE-tQEAAwIAA3gAAz0E"
-    ],
-    "caption": "🇨🇳 China’s new AI side hustle? Renting out your face \n\nIn China, some people are making money by renting out their faces to AI. Companies pay anywhere from $15 to $700 to use someone’s face in AI-generated ads, video games, and the country’s booming AI microdrama industry. Producers can even filter faces by age, gender, and appearance, from the “friendly neighbor” look to a glamorous supermodel.\n\nThe demand is exploding. In just the first three months of the year, more than 95% of China’s 128,000 microdramas used AI. Using real human faces helps AI characters look more natural instead of producing the same generic faces over and over.\n\nBut there’s a catch. Lawyers warn that once you hand over your biometric data, you may lose control over where your face appears in the future.\n\nWould you rent your face to AI for a few hundred dollars? 🤔\n\n@aipost 🏴",
-    "entities": [
-      {
-        "offset": 0,
-        "length": 4,
-        "type": "custom_emoji",
-        "custom_emoji_id": "5431782733376399004"
-      },
-      {
-        "offset": 5,
-        "length": 50,
-        "type": "bold"
-      },
-      {
-        "offset": 791,
-        "length": 58,
-        "type": "bold"
-      },
-      {
-        "offset": 849,
-        "length": 2,
-        "type": "custom_emoji",
-        "custom_emoji_id": "5370724846936267183"
-      },
-      {
-        "offset": 853,
-        "length": 7,
-        "type": "text_link",
-        "url": "https://t.me/aipost"
-      },
-      {
-        "offset": 861,
-        "length": 2,
-        "type": "custom_emoji",
-        "custom_emoji_id": "5431390559912614642"
-      }
-    ],
-    "media_group_id": "14287467962393021",
-    "chat_id": -1004468214616,
-    "message_ids": [
-      297,
-      298
-    ],
-    "update_ids": [
-      378304190,
-      378304191
-    ],
-    "retry_count": 0
-  },
-  {
     "type": "video",
     "video_file_id": "BAACAgQAAyEFAAMBClOLWAACAStqcz2ZanO1MlttEVg0qXY98dVMWgACnh0AAsZ7mVMUIBvXhZyBdT0E",
     "video_file_size": 10810354,
@@ -138,6 +83,47 @@
     ],
     "update_ids": [
       378304193
+    ],
+    "retry_count": 0
+  },
+  {
+    "type": "photo",
+    "photo_file_ids": [
+      "AgACAgQAAyEFAAMBClOLWAACAS1qc43LS-aKMDDufIHMZ2WcsKVFAQACSQ1rG8Z7oVNk2H8tlwttuAEAAwIAA3kAAz0E"
+    ],
+    "caption": "🔥Ilya Sutskever’s company is going to release a model in August. \n\nThey stated in their website that their only goal and mission, is to develop superintelligence. That is their sole focus. In that sense, this model release will be far more than “just” another model release. \n\n\"SSI [Safe Superintelligence] is our mission, our name, and our entire product roadmap, because it is our sole focus. Our team, investors, and business model are all aligned to achieve SSI.\"\n\n@aipost 🏴",
+    "entities": [
+      {
+        "offset": 0,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5363970504057191145"
+      },
+      {
+        "offset": 2,
+        "length": 64,
+        "type": "bold"
+      },
+      {
+        "offset": 470,
+        "length": 7,
+        "type": "text_link",
+        "url": "https://t.me/aipost"
+      },
+      {
+        "offset": 478,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5431390559912614642"
+      }
+    ],
+    "media_group_id": null,
+    "chat_id": -1004468214616,
+    "message_ids": [
+      301
+    ],
+    "update_ids": [
+      378304194
     ],
     "retry_count": 0
   }
