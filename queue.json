@@ -2,69 +2,6 @@
   {
     "type": "photo",
     "photo_file_ids": [
-      "AgACAgQAAyEFAAMBClOLWAACASRqcj9E9hgc9gfuKkVMlwwdBM9B8AACFg5rG1P8iVNa-Lwv_V-W1AEAAwIAA3kAAz0E"
-    ],
-    "caption": "⚠️ OpenAI fires back in Apple’s trade secrets lawsuit\n\nAfter Apple accused OpenAI of stealing confidential hardware secrets through former engineer Chang Liu, OpenAI released internal messages that appear to show Apple employees continuing to rely on Liu weeks after he had already left the company.\n\nAccording to the messages, Apple employees asked Liu to locate internal files, explain product design decisions, and answer technical questions. One employee even wrote:\n\n“Of course, I could ask several folks, but you are the best. Even if you don’t work here anymore.”\n\nOpenAI also claims Apple made another embarrassing mistake. Apple alleged it reached out to OpenAI before filing the lawsuit and received no response. But emails released by OpenAI suggest Apple’s outside lawyer accidentally thanked OpenAI’s General Counsel for a phone call that never actually happened before later apologizing for the mix-up.\n\nThat said, these revelations don’t disprove Apple’s core allegations that trade secrets were taken. Instead, they shift some attention back to Apple, raising uncomfortable questions about its own security practices.\n\nIf Apple believed Liu had access to highly sensitive information, why were employees still asking him for confidential help after he had already left the company? 🤔\n\nSource. \n\n@aipost 🏴",
-    "entities": [
-      {
-        "offset": 0,
-        "length": 2,
-        "type": "custom_emoji",
-        "custom_emoji_id": "5366332658760580843"
-      },
-      {
-        "offset": 3,
-        "length": 50,
-        "type": "bold"
-      },
-      {
-        "offset": 1135,
-        "length": 163,
-        "type": "bold"
-      },
-      {
-        "offset": 1298,
-        "length": 2,
-        "type": "bold"
-      },
-      {
-        "offset": 1298,
-        "length": 2,
-        "type": "custom_emoji",
-        "custom_emoji_id": "5370724846936267183"
-      },
-      {
-        "offset": 1302,
-        "length": 8,
-        "type": "text_link",
-        "url": "https://openai.com/index/apple-is-getting-this-wrong/"
-      },
-      {
-        "offset": 1312,
-        "length": 7,
-        "type": "text_link",
-        "url": "https://t.me/aipost"
-      },
-      {
-        "offset": 1320,
-        "length": 2,
-        "type": "custom_emoji",
-        "custom_emoji_id": "5431390559912614642"
-      }
-    ],
-    "media_group_id": null,
-    "chat_id": -1004468214616,
-    "message_ids": [
-      292
-    ],
-    "update_ids": [
-      378304185
-    ],
-    "retry_count": 0
-  },
-  {
-    "type": "photo",
-    "photo_file_ids": [
       "AgACAgQAAyEFAAMBClOLWAACASVqcnV7y_jl-xadbysS7ZYhWfEZJQACHQ5rG1P8iVO7OXAMByXymwEAAwIAA3kAAz0E"
     ],
     "caption": "🇮🇱 Israel is paying millions to influence AI chatbots\n\nFormer Trump campaign manager Brad Parscale is leading a $46.5 million Israeli government campaign to influence AI chatbots by publishing hundreds of pro-Israel articles across a network of websites.\n\nThe sites are designed primarily for AI systems, not human readers. \n\nParscale's contract explicitly aimed to shape \"GPT conversations,\" and his team claims they are already seeing success.\n\nAI tools including Perplexity, Microsoft Copilot, Gemini, and sometimes ChatGPT or Claude have cited these websites in responses about Gaza and U.S.-Israel relations. Some chatbots identified the sites as Israeli government-funded, while others did not.\n\n@aipost 🏴",
