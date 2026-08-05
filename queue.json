@@ -1,1 +1,173 @@
-[]
+[
+  {
+    "type": "photo",
+    "photo_file_ids": [
+      "AgACAgQAAyEFAAMBClOLWAACASdqcy6qSSwf9bM0MrLGfy2veJGwFQADDmsbU_yRUy_Ue2tzElaDAQADAgADeQADPQQ"
+    ],
+    "caption": "💰 Google is making a $200 billion AI bet\n\nGoogle is reportedly launching one of the biggest AI infrastructure projects ever, investing around $200 billion to massively expand AI computing for Anthropic.\n\nAbout $150 billion is expected to go toward Google’s TPU AI chips, while the remaining $50 billion will fund the construction and expansion of data centers.\n\nSource.\n\n@aipost 🏴",
+    "entities": [
+      {
+        "offset": 0,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5289964193162759223"
+      },
+      {
+        "offset": 3,
+        "length": 38,
+        "type": "bold"
+      },
+      {
+        "offset": 363,
+        "length": 6,
+        "type": "text_link",
+        "url": "https://finance.yahoo.com/technology/ai/articles/inside-google-200bn-wall-street-040016935.html"
+      },
+      {
+        "offset": 372,
+        "length": 7,
+        "type": "text_link",
+        "url": "https://t.me/aipost"
+      },
+      {
+        "offset": 380,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5431390559912614642"
+      }
+    ],
+    "media_group_id": null,
+    "chat_id": -1004468214616,
+    "message_ids": [
+      295
+    ],
+    "update_ids": [
+      378304188
+    ],
+    "retry_count": 0
+  },
+  {
+    "type": "video",
+    "video_file_id": "BAACAgQAAyEFAAMBClOLWAACAShqcy6xxnnVwBaDPUQPJW6GgQi1kwACNR4AAlP8iVOlypDuAAFLXqo9BA",
+    "video_file_size": 33178157,
+    "caption": "This could be the first ever panic attack by an AI in human history.\n\n@aipost 🏴",
+    "entities": [
+      {
+        "offset": 70,
+        "length": 7,
+        "type": "text_link",
+        "url": "https://t.me/aipost"
+      },
+      {
+        "offset": 78,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5431390559912614642"
+      }
+    ],
+    "media_group_id": null,
+    "chat_id": -1004468214616,
+    "message_ids": [
+      296
+    ],
+    "update_ids": [
+      378304189
+    ],
+    "retry_count": 0
+  },
+  {
+    "type": "album",
+    "photo_file_ids": [
+      "AgACAgQAAyEFAAMBClOLWAACASlqcy63Yz0FmHXvKY-Ve6KG_hiySQACNw5rG8Z7mVMS4SEfTdsh4QEAAwIAA3gAAz0E",
+      "AgACAgQAAyEFAAMBClOLWAACASpqcy63NLUEGv8yjEHvKtnbtPhPKgACOA5rG8Z7mVOdmfPTebE-tQEAAwIAA3gAAz0E"
+    ],
+    "caption": "🇨🇳 China’s new AI side hustle? Renting out your face \n\nIn China, some people are making money by renting out their faces to AI. Companies pay anywhere from $15 to $700 to use someone’s face in AI-generated ads, video games, and the country’s booming AI microdrama industry. Producers can even filter faces by age, gender, and appearance, from the “friendly neighbor” look to a glamorous supermodel.\n\nThe demand is exploding. In just the first three months of the year, more than 95% of China’s 128,000 microdramas used AI. Using real human faces helps AI characters look more natural instead of producing the same generic faces over and over.\n\nBut there’s a catch. Lawyers warn that once you hand over your biometric data, you may lose control over where your face appears in the future.\n\nWould you rent your face to AI for a few hundred dollars? 🤔\n\n@aipost 🏴",
+    "entities": [
+      {
+        "offset": 0,
+        "length": 4,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5431782733376399004"
+      },
+      {
+        "offset": 5,
+        "length": 50,
+        "type": "bold"
+      },
+      {
+        "offset": 791,
+        "length": 58,
+        "type": "bold"
+      },
+      {
+        "offset": 849,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5370724846936267183"
+      },
+      {
+        "offset": 853,
+        "length": 7,
+        "type": "text_link",
+        "url": "https://t.me/aipost"
+      },
+      {
+        "offset": 861,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5431390559912614642"
+      }
+    ],
+    "media_group_id": "14287467962393021",
+    "chat_id": -1004468214616,
+    "message_ids": [
+      297,
+      298
+    ],
+    "update_ids": [
+      378304190,
+      378304191
+    ],
+    "retry_count": 0
+  },
+  {
+    "type": "video",
+    "video_file_id": "BAACAgQAAyEFAAMBClOLWAACAStqcz2ZanO1MlttEVg0qXY98dVMWgACnh0AAsZ7mVMUIBvXhZyBdT0E",
+    "video_file_size": 10810354,
+    "caption": "🥺 Sam Altman says the heaviest AI user on the planet six and a half years ago used what the average person on Earth uses today:\n\n\"Six and a half years ago, the world token leader was an OpenAI employee using about 100,000 tokens a month.\"\n\n\"And this seemed ludicrous at the time. The worldwide average per capita is like zero.\"\n\n\"Now, the worldwide average of tokens per month, which I think tokens are the dumbest metric, but it's what we have. It's like 100,000.\"\n\n\"And the token leader at OpenAI uses something in the hundreds of billions.\"\n\n\"If that happens again, which I think it probably will, then in another six and a half years, the average person uses, let's say, 500 billion tokens a month.\"\n\nIf he is right, the average person's AI usage grows five million times over the next six and a half years, and OpenAI is already building the capacity for it.\n\nThat is the number enterprise boards should be planning against this year. Demand at that scale changes what a reasonable AI budget looks like.\n\n@aipost 🏴",
+    "entities": [
+      {
+        "offset": 0,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5291894093767542370"
+      },
+      {
+        "offset": 3,
+        "length": 125,
+        "type": "bold"
+      },
+      {
+        "offset": 1011,
+        "length": 7,
+        "type": "text_link",
+        "url": "https://t.me/aipost"
+      },
+      {
+        "offset": 1019,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5431390559912614642"
+      }
+    ],
+    "media_group_id": null,
+    "chat_id": -1004468214616,
+    "message_ids": [
+      299
+    ],
+    "update_ids": [
+      378304192
+    ],
+    "retry_count": 0
+  }
+]
