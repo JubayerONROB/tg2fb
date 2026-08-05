@@ -1512,5 +1512,34 @@
       378304175
     ],
     "retry_count": 0
+  },
+  {
+    "type": "video",
+    "video_file_id": "BAACAgQAAyEFAAMBClOLWAACAShqcy6xxnnVwBaDPUQPJW6GgQi1kwACNR4AAlP8iVOlypDuAAFLXqo9BA",
+    "video_file_size": 33178157,
+    "caption": "This could be the first ever panic attack by an AI in human history.\n\n@aipost 🏴",
+    "entities": [
+      {
+        "offset": 70,
+        "length": 7,
+        "type": "text_link",
+        "url": "https://t.me/aipost"
+      },
+      {
+        "offset": 78,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5431390559912614642"
+      }
+    ],
+    "media_group_id": null,
+    "chat_id": -1004468214616,
+    "message_ids": [
+      296
+    ],
+    "update_ids": [
+      378304189
+    ],
+    "retry_count": 0
   }
 ]
