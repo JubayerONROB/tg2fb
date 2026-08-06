@@ -1,52 +1,5 @@
 [
   {
-    "type": "photo",
-    "photo_file_ids": [
-      "AgACAgQAAyEFAAMBClOLWAACATFqdFo67m3phTiSiHxu4sYfThbrAANjDWsbxnuhU0AAARwAAat9OHcBAAMCAANtAAM9BA"
-    ],
-    "caption": "🤖 Anthropic doesn’t just want to build smarter AI anymore, it wants to build the chips too.\n\nThe company has officially confirmed it’s creating an in-house silicon team to design custom AI chips for Claude. That’s a huge shift from relying entirely on Nvidia and other chipmakers.\n\nWhy? Because the company that controls both the AI model and the hardware has a massive advantage. Custom chips can make Claude faster, cheaper to run, and far more efficient.\n\nDon’t expect Anthropic to ditch Nvidia overnight, though. It says it will keep using a mix of hardware from partners like Nvidia, Google, AWS, and AMD while developing its own chips.\n\nSource. \n\n@aipost 🏴",
-    "entities": [
-      {
-        "offset": 0,
-        "length": 2,
-        "type": "custom_emoji",
-        "custom_emoji_id": "5208665212483310136"
-      },
-      {
-        "offset": 3,
-        "length": 89,
-        "type": "bold"
-      },
-      {
-        "offset": 644,
-        "length": 8,
-        "type": "text_link",
-        "url": "https://africa.businessinsider.com/news/its-official-anthropic-is-building-an-in-house-chip-team-for-claude/dchek1w"
-      },
-      {
-        "offset": 654,
-        "length": 7,
-        "type": "text_link",
-        "url": "https://t.me/aipost"
-      },
-      {
-        "offset": 662,
-        "length": 2,
-        "type": "custom_emoji",
-        "custom_emoji_id": "5431390559912614642"
-      }
-    ],
-    "media_group_id": null,
-    "chat_id": -1004468214616,
-    "message_ids": [
-      305
-    ],
-    "update_ids": [
-      378304198
-    ],
-    "retry_count": 0
-  },
-  {
     "type": "album",
     "photo_file_ids": [
       "AgACAgIAAyEFAAMBClOLWAACATJqdFo_1nz5jMgwFI3uFQTjROKy-wACzBVrGx0joEueZSyh9LnlnAEAAwIAA3kAAz0E",
@@ -75,6 +28,156 @@
     "update_ids": [
       378304199,
       378304200
+    ],
+    "retry_count": 0
+  },
+  {
+    "type": "photo",
+    "photo_file_ids": [
+      "AgACAgIAAyEFAAMBClOLWAACATRqdI47_-AB1HF36L_9RlHVYSCyxwACdBhrG5e1mUtbGumVhe303gEAAwIAA3kAAz0E"
+    ],
+    "caption": "🤩 Cloudflare Launches Wallets for AI Agents\n\nCloudflare opened name reservations for Cloudflare Wallets, letting users secure permanent payment addresses like yourname-cloudflare-pay to manage AI agent funds.\n\nUsers fund a main wallet and create virtual wallets for each AI agent with spending limits and approved recipients. Agents pay for APIs and digital content within set limits.\n\nPayments use the x402 protocol in HTTP requests, linking transactions to digital identities without manual card handling. Sellers can identify agents and their organizations.\n\nThese wallets provide AI agents with clear authority and accountability. Payment features will launch after name reservations close.\n\n📊@tech",
+    "entities": [
+      {
+        "offset": 0,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "4994511593279587621"
+      },
+      {
+        "offset": 3,
+        "length": 41,
+        "type": "bold"
+      },
+      {
+        "offset": 46,
+        "length": 10,
+        "type": "bold"
+      },
+      {
+        "offset": 86,
+        "length": 18,
+        "type": "bold"
+      },
+      {
+        "offset": 272,
+        "length": 8,
+        "type": "bold"
+      },
+      {
+        "offset": 404,
+        "length": 13,
+        "type": "bold"
+      },
+      {
+        "offset": 460,
+        "length": 18,
+        "type": "bold"
+      },
+      {
+        "offset": 636,
+        "length": 16,
+        "type": "bold"
+      },
+      {
+        "offset": 697,
+        "length": 2,
+        "type": "bold"
+      },
+      {
+        "offset": 697,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5449841756596101801"
+      },
+      {
+        "offset": 699,
+        "length": 5,
+        "type": "mention"
+      },
+      {
+        "offset": 699,
+        "length": 5,
+        "type": "bold"
+      }
+    ],
+    "media_group_id": null,
+    "chat_id": -1004468214616,
+    "message_ids": [
+      308
+    ],
+    "update_ids": [
+      378304201
+    ],
+    "retry_count": 0
+  },
+  {
+    "type": "photo",
+    "photo_file_ids": [
+      "AgACAgIAAyEFAAMBClOLWAACATVqdI5Lsk4sa_lGCKMtedOjpRUW-wACRh5rG12umEtdP_PtRHed1wEAAwIAA3gAAz0E"
+    ],
+    "caption": "🍏 Apple caps AI-driven bug reports\n\nApple has set a limit on the number of vulnerability reports submitted through its internal security portal. This change comes after a surge of AI-generated submissions overwhelmed the team, causing real bugs from human researchers to get lost in the flood.\n\nThe company’s bug bounty program rewards those who find system flaws. But the volume of AI-discovered issues became unmanageable, forcing Apple to add a 30-day cooldown period and require special approval for excess reports.\n\n📊@tech",
+    "entities": [
+      {
+        "offset": 0,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5398012024003246287"
+      },
+      {
+        "offset": 3,
+        "length": 32,
+        "type": "bold"
+      },
+      {
+        "offset": 37,
+        "length": 60,
+        "type": "bold"
+      },
+      {
+        "offset": 181,
+        "length": 45,
+        "type": "bold"
+      },
+      {
+        "offset": 310,
+        "length": 18,
+        "type": "bold"
+      },
+      {
+        "offset": 449,
+        "length": 22,
+        "type": "bold"
+      },
+      {
+        "offset": 522,
+        "length": 2,
+        "type": "bold"
+      },
+      {
+        "offset": 522,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5449841756596101801"
+      },
+      {
+        "offset": 524,
+        "length": 5,
+        "type": "mention"
+      },
+      {
+        "offset": 524,
+        "length": 5,
+        "type": "bold"
+      }
+    ],
+    "media_group_id": null,
+    "chat_id": -1004468214616,
+    "message_ids": [
+      309
+    ],
+    "update_ids": [
+      378304202
     ],
     "retry_count": 0
   }
