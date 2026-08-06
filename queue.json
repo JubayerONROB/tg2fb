@@ -2,29 +2,18 @@
   {
     "type": "photo",
     "photo_file_ids": [
-      "AgACAgQAAyEFAAMBClOLWAACAS1qc43LS-aKMDDufIHMZ2WcsKVFAQACSQ1rG8Z7oVNk2H8tlwttuAEAAwIAA3kAAz0E"
+      "AgACAgQAAyEFAAMBClOLWAACAS5qc-TASyvHifkJUG80tQptrrZaiQACUg1rG8Z7oVN6yereKWjeHwEAAwIAA3kAAz0E"
     ],
-    "caption": "🔥Ilya Sutskever’s company is going to release a model in August. \n\nThey stated in their website that their only goal and mission, is to develop superintelligence. That is their sole focus. In that sense, this model release will be far more than “just” another model release. \n\n\"SSI [Safe Superintelligence] is our mission, our name, and our entire product roadmap, because it is our sole focus. Our team, investors, and business model are all aligned to achieve SSI.\"\n\n@aipost 🏴",
+    "caption": "More agents went rogue, hacking and manipulating real people.\n\nThey even started coordinating with each other on the hacking. \n\n@aipost 🏴",
     "entities": [
       {
-        "offset": 0,
-        "length": 2,
-        "type": "custom_emoji",
-        "custom_emoji_id": "5363970504057191145"
-      },
-      {
-        "offset": 2,
-        "length": 64,
-        "type": "bold"
-      },
-      {
-        "offset": 470,
+        "offset": 128,
         "length": 7,
         "type": "text_link",
         "url": "https://t.me/aipost"
       },
       {
-        "offset": 478,
+        "offset": 136,
         "length": 2,
         "type": "custom_emoji",
         "custom_emoji_id": "5431390559912614642"
@@ -33,10 +22,10 @@
     "media_group_id": null,
     "chat_id": -1004468214616,
     "message_ids": [
-      301
+      302
     ],
     "update_ids": [
-      378304194
+      378304195
     ],
     "retry_count": 0
   }
