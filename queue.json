@@ -1,1 +1,81 @@
-[]
+[
+  {
+    "type": "photo",
+    "photo_file_ids": [
+      "AgACAgQAAyEFAAMBClOLWAACATFqdFo67m3phTiSiHxu4sYfThbrAANjDWsbxnuhU0AAARwAAat9OHcBAAMCAANtAAM9BA"
+    ],
+    "caption": "🤖 Anthropic doesn’t just want to build smarter AI anymore, it wants to build the chips too.\n\nThe company has officially confirmed it’s creating an in-house silicon team to design custom AI chips for Claude. That’s a huge shift from relying entirely on Nvidia and other chipmakers.\n\nWhy? Because the company that controls both the AI model and the hardware has a massive advantage. Custom chips can make Claude faster, cheaper to run, and far more efficient.\n\nDon’t expect Anthropic to ditch Nvidia overnight, though. It says it will keep using a mix of hardware from partners like Nvidia, Google, AWS, and AMD while developing its own chips.\n\nSource. \n\n@aipost 🏴",
+    "entities": [
+      {
+        "offset": 0,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5208665212483310136"
+      },
+      {
+        "offset": 3,
+        "length": 89,
+        "type": "bold"
+      },
+      {
+        "offset": 644,
+        "length": 8,
+        "type": "text_link",
+        "url": "https://africa.businessinsider.com/news/its-official-anthropic-is-building-an-in-house-chip-team-for-claude/dchek1w"
+      },
+      {
+        "offset": 654,
+        "length": 7,
+        "type": "text_link",
+        "url": "https://t.me/aipost"
+      },
+      {
+        "offset": 662,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5431390559912614642"
+      }
+    ],
+    "media_group_id": null,
+    "chat_id": -1004468214616,
+    "message_ids": [
+      305
+    ],
+    "update_ids": [
+      378304198
+    ],
+    "retry_count": 0
+  },
+  {
+    "type": "album",
+    "photo_file_ids": [
+      "AgACAgIAAyEFAAMBClOLWAACATJqdFo_1nz5jMgwFI3uFQTjROKy-wACzBVrGx0joEueZSyh9LnlnAEAAwIAA3kAAz0E",
+      "AgACAgIAAyEFAAMBClOLWAACATNqdFo_zAvNEqb27sFywCixC-f7KQACyxVrGx0joEs7K1BrM4kpeAEAAwIAA3kAAz0E"
+    ],
+    "caption": "Sir Demis Hassabis has stepped back from his day-to-day leadership at Google DeepMind. He will now serve as Chair of Google DeepMind and Chief Scientist at Alphabet.\n\nHassabis is refocusing his efforts on artificial general intelligence, scientific advancements, and health—particularly through Isomorphic Labs. He has stated the pursuit of AGI and curing all diseases are now his main priorities.\n\nAccording to Hassabis, “We have arrived at a pivotal moment in human history,” and he believes \"AGI is close at hand.\" His new roles reflect a shift toward fundamental technological and medical breakthroughs.\n\n📰 @aipost",
+    "entities": [
+      {
+        "offset": 609,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5363988332466438547"
+      },
+      {
+        "offset": 612,
+        "length": 7,
+        "type": "mention"
+      }
+    ],
+    "media_group_id": "14288081407363069",
+    "chat_id": -1004468214616,
+    "message_ids": [
+      306,
+      307
+    ],
+    "update_ids": [
+      378304199,
+      378304200
+    ],
+    "retry_count": 0
+  }
+]
