@@ -2,86 +2,6 @@
   {
     "type": "photo",
     "photo_file_ids": [
-      "AgACAgIAAyEFAAMBClOLWAACATRqdI47_-AB1HF36L_9RlHVYSCyxwACdBhrG5e1mUtbGumVhe303gEAAwIAA3kAAz0E"
-    ],
-    "caption": "🤩 Cloudflare Launches Wallets for AI Agents\n\nCloudflare opened name reservations for Cloudflare Wallets, letting users secure permanent payment addresses like yourname-cloudflare-pay to manage AI agent funds.\n\nUsers fund a main wallet and create virtual wallets for each AI agent with spending limits and approved recipients. Agents pay for APIs and digital content within set limits.\n\nPayments use the x402 protocol in HTTP requests, linking transactions to digital identities without manual card handling. Sellers can identify agents and their organizations.\n\nThese wallets provide AI agents with clear authority and accountability. Payment features will launch after name reservations close.\n\n📊@tech",
-    "entities": [
-      {
-        "offset": 0,
-        "length": 2,
-        "type": "custom_emoji",
-        "custom_emoji_id": "4994511593279587621"
-      },
-      {
-        "offset": 3,
-        "length": 41,
-        "type": "bold"
-      },
-      {
-        "offset": 46,
-        "length": 10,
-        "type": "bold"
-      },
-      {
-        "offset": 86,
-        "length": 18,
-        "type": "bold"
-      },
-      {
-        "offset": 272,
-        "length": 8,
-        "type": "bold"
-      },
-      {
-        "offset": 404,
-        "length": 13,
-        "type": "bold"
-      },
-      {
-        "offset": 460,
-        "length": 18,
-        "type": "bold"
-      },
-      {
-        "offset": 636,
-        "length": 16,
-        "type": "bold"
-      },
-      {
-        "offset": 697,
-        "length": 2,
-        "type": "bold"
-      },
-      {
-        "offset": 697,
-        "length": 2,
-        "type": "custom_emoji",
-        "custom_emoji_id": "5449841756596101801"
-      },
-      {
-        "offset": 699,
-        "length": 5,
-        "type": "mention"
-      },
-      {
-        "offset": 699,
-        "length": 5,
-        "type": "bold"
-      }
-    ],
-    "media_group_id": null,
-    "chat_id": -1004468214616,
-    "message_ids": [
-      308
-    ],
-    "update_ids": [
-      378304201
-    ],
-    "retry_count": 0
-  },
-  {
-    "type": "photo",
-    "photo_file_ids": [
       "AgACAgIAAyEFAAMBClOLWAACATVqdI5Lsk4sa_lGCKMtedOjpRUW-wACRh5rG12umEtdP_PtRHed1wEAAwIAA3gAAz0E"
     ],
     "caption": "🍏 Apple caps AI-driven bug reports\n\nApple has set a limit on the number of vulnerability reports submitted through its internal security portal. This change comes after a surge of AI-generated submissions overwhelmed the team, causing real bugs from human researchers to get lost in the flood.\n\nThe company’s bug bounty program rewards those who find system flaws. But the volume of AI-discovered issues became unmanageable, forcing Apple to add a 30-day cooldown period and require special approval for excess reports.\n\n📊@tech",
@@ -146,6 +66,91 @@
     ],
     "update_ids": [
       378304202
+    ],
+    "retry_count": 0
+  },
+  {
+    "type": "video",
+    "video_file_id": "BAACAgQAAyEFAAMBClOLWAACATZqdVk-pLGSFeALjkLKTbv2tLTEbQACXR8AAsZ7qVM0PPN94xIjQT0E",
+    "video_file_size": 44526051,
+    "caption": "😐 Jensen Huang wants to outlive himself\n\nNvidia CEO Jensen Huang says he’s already building an AI version of himself.\n\nHis plan? Upload everything he’s ever written, said, and created into an AI, then one day beam that digital “Jensen” to a humanoid robot already waiting in space. \n\nTo Huang, your body is just the hardware. The real “you” is the information.\n\nHe also believes we’re much closer to solving biology than most people think, predicting that within about five years we’ll understand the human body well enough to dramatically accelerate cures for diseases like cancer and Alzheimer’s. In his words, the “end of disease” is a reasonable expectation.\n\nAnd he’s just as optimistic about the future beyond Earth, saying cleaner energy, faster space travel, even eventually traveling at the speed of light, are all within humanity’s reach.\n\nDespite building the chips powering today’s AI revolution, Huang says his biggest bet isn’t on technology, it’s on people. He believes humans are fundamentally kind, creative, and far more likely to build than destroy.\n\nHis final thought summed it all up perfectly: “How can you not be romantic about that?”\n\n@aipost 🏴",
+    "entities": [
+      {
+        "offset": 0,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5292058161518251626"
+      },
+      {
+        "offset": 3,
+        "length": 37,
+        "type": "bold"
+      },
+      {
+        "offset": 1117,
+        "length": 41,
+        "type": "bold"
+      },
+      {
+        "offset": 1160,
+        "length": 7,
+        "type": "text_link",
+        "url": "https://t.me/aipost"
+      },
+      {
+        "offset": 1168,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5431390559912614642"
+      }
+    ],
+    "media_group_id": null,
+    "chat_id": -1004468214616,
+    "message_ids": [
+      310
+    ],
+    "update_ids": [
+      378304203
+    ],
+    "retry_count": 0
+  },
+  {
+    "type": "video",
+    "video_file_id": "BAACAgQAAyEFAAMBClOLWAACATdqdVk-_9YGs-OnTF04tfGP6xLxfwACah8AAsZ7qVOfy5O9b91mVD0E",
+    "video_file_size": 12641066,
+    "caption": "🚀 Elon Musk says even the biggest AI optimist wasn’t optimistic enough\n\nElon Musk says futurist Ray Kurzweil, famous for making bold AI predictions decades ago, may have actually underestimated how fast AI is advancing.\n\nAccording to Musk, dedicated AI computing power is currently growing 10x every six months, or nearly 100x every year for the next few years.\n\nTo put that into perspective, Moore’s Law, the trend that powered the internet, smartphones, and the modern tech industry predicted computing would only double every two years. AI is now moving at a completely different pace.\n\nMusk also believes the world’s computing infrastructure is being rewritten in real time. Instead of powering traditional workloads, many of today’s data centers could soon be converted almost entirely to AI.\n\nIf that happens, AI won’t just be another industry, it will become the foundation that every other industry runs on.\n\n@aipost 🏴",
+    "entities": [
+      {
+        "offset": 0,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5258332798409783582"
+      },
+      {
+        "offset": 2,
+        "length": 69,
+        "type": "bold"
+      },
+      {
+        "offset": 918,
+        "length": 7,
+        "type": "text_link",
+        "url": "https://t.me/aipost"
+      },
+      {
+        "offset": 926,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5431390559912614642"
+      }
+    ],
+    "media_group_id": null,
+    "chat_id": -1004468214616,
+    "message_ids": [
+      311
+    ],
+    "update_ids": [
+      378304204
     ],
     "retry_count": 0
   }
