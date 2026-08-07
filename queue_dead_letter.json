@@ -1541,5 +1541,50 @@
       378304189
     ],
     "retry_count": 0
+  },
+  {
+    "type": "video",
+    "video_file_id": "BAACAgQAAyEFAAMBClOLWAACATZqdVk-pLGSFeALjkLKTbv2tLTEbQACXR8AAsZ7qVM0PPN94xIjQT0E",
+    "video_file_size": 44526051,
+    "caption": "😐 Jensen Huang wants to outlive himself\n\nNvidia CEO Jensen Huang says he’s already building an AI version of himself.\n\nHis plan? Upload everything he’s ever written, said, and created into an AI, then one day beam that digital “Jensen” to a humanoid robot already waiting in space. \n\nTo Huang, your body is just the hardware. The real “you” is the information.\n\nHe also believes we’re much closer to solving biology than most people think, predicting that within about five years we’ll understand the human body well enough to dramatically accelerate cures for diseases like cancer and Alzheimer’s. In his words, the “end of disease” is a reasonable expectation.\n\nAnd he’s just as optimistic about the future beyond Earth, saying cleaner energy, faster space travel, even eventually traveling at the speed of light, are all within humanity’s reach.\n\nDespite building the chips powering today’s AI revolution, Huang says his biggest bet isn’t on technology, it’s on people. He believes humans are fundamentally kind, creative, and far more likely to build than destroy.\n\nHis final thought summed it all up perfectly: “How can you not be romantic about that?”\n\n@aipost 🏴",
+    "entities": [
+      {
+        "offset": 0,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5292058161518251626"
+      },
+      {
+        "offset": 3,
+        "length": 37,
+        "type": "bold"
+      },
+      {
+        "offset": 1117,
+        "length": 41,
+        "type": "bold"
+      },
+      {
+        "offset": 1160,
+        "length": 7,
+        "type": "text_link",
+        "url": "https://t.me/aipost"
+      },
+      {
+        "offset": 1168,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5431390559912614642"
+      }
+    ],
+    "media_group_id": null,
+    "chat_id": -1004468214616,
+    "message_ids": [
+      310
+    ],
+    "update_ids": [
+      378304203
+    ],
+    "retry_count": 0
   }
 ]
