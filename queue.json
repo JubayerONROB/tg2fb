@@ -1,1 +1,154 @@
-[]
+[
+  {
+    "type": "album",
+    "photo_file_ids": [
+      "AgACAgIAAyEFAAMBClOLWAACATlqdiFTLvuhk9ARXTsxlOM44irLBAACnRtrGyzuqEvxUMAGqWyR0AEAAwIAA3cAAz0E",
+      "AgACAgIAAyEFAAMBClOLWAACATpqdiFTYTi-4S8cW-Cqi6O4gsKdfgACnhtrGyzuqEuAHl7FGpTLFwEAAwIAA3cAAz0E"
+    ],
+    "caption": "Ⓜ️ Meta unveils Muse Code and Spark 1.2\n\nMeta launched Muse Code for long tasks, able to work hours on large repos, edit many files, verify results, and run background subagents. It ran nonstop for 24 hours in tests, making 1000+ tool calls and optimizing NVIDIA Hopper GPU cores.\n\nMuse Spark 1.2 has more compute and supports more dev environments. It improved code generation, debugging, repo handling, and autonomous exploration. Both models were trained together to boost synergy.\n\nAll actions are logged locally for exact reproduction and continuation after restarts. A multimodal mode lets users upload videos, which Muse Code converts into full websites with visuals and booking features.\n\n📊@tech",
+    "entities": [
+      {
+        "offset": 0,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5431901622366124338"
+      },
+      {
+        "offset": 3,
+        "length": 36,
+        "type": "bold"
+      },
+      {
+        "offset": 55,
+        "length": 9,
+        "type": "bold"
+      },
+      {
+        "offset": 282,
+        "length": 14,
+        "type": "bold"
+      },
+      {
+        "offset": 623,
+        "length": 9,
+        "type": "bold"
+      },
+      {
+        "offset": 697,
+        "length": 2,
+        "type": "bold"
+      },
+      {
+        "offset": 697,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5449841756596101801"
+      },
+      {
+        "offset": 699,
+        "length": 5,
+        "type": "mention"
+      },
+      {
+        "offset": 699,
+        "length": 5,
+        "type": "bold"
+      }
+    ],
+    "media_group_id": "14289013404260989",
+    "chat_id": -1004468214616,
+    "message_ids": [
+      313,
+      314
+    ],
+    "update_ids": [
+      378304206,
+      378304207
+    ],
+    "retry_count": 0
+  },
+  {
+    "type": "video",
+    "video_file_id": "BAACAgIAAyEFAAMBClOLWAACATtqdiFbn-k7zSClri0OeaM2KKEzzgACCp4AApE0oEsJpaVOlvKBzD0E",
+    "video_file_size": 3172796,
+    "caption": "🚀 SpaceX and Nvidia build AI satellite hardware\n\nSpaceX and Nvidia are creating hardware for the Starmind AI1 satellite to run AI tasks in low Earth orbit without ground servers. It uses Nvidia's Vera processors and Rubin GPUs, with the Space-1 Vera Rubin module offering up to 25 times the AI power of the H100. Commercial launches are planned by the end of the year.\n\nSpaceX aims to build a network of up to a million satellites, forming a space-based supercomputer linked by petabit-scale lasers. The FCC filing proposes deployment between 500 and 2000 km altitude, making it the largest space project to date compared to about 15,000 active satellites now.\n\n📊@tech",
+    "entities": [
+      {
+        "offset": 0,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5425096654707521936"
+      },
+      {
+        "offset": 3,
+        "length": 45,
+        "type": "bold"
+      },
+      {
+        "offset": 50,
+        "length": 17,
+        "type": "bold"
+      },
+      {
+        "offset": 98,
+        "length": 22,
+        "type": "bold"
+      },
+      {
+        "offset": 197,
+        "length": 30,
+        "type": "bold"
+      },
+      {
+        "offset": 238,
+        "length": 25,
+        "type": "bold"
+      },
+      {
+        "offset": 411,
+        "length": 20,
+        "type": "bold"
+      },
+      {
+        "offset": 505,
+        "length": 3,
+        "type": "bold"
+      },
+      {
+        "offset": 544,
+        "length": 24,
+        "type": "bold"
+      },
+      {
+        "offset": 663,
+        "length": 2,
+        "type": "bold"
+      },
+      {
+        "offset": 663,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5449841756596101801"
+      },
+      {
+        "offset": 665,
+        "length": 5,
+        "type": "mention"
+      },
+      {
+        "offset": 665,
+        "length": 5,
+        "type": "bold"
+      }
+    ],
+    "media_group_id": null,
+    "chat_id": -1004468214616,
+    "message_ids": [
+      315
+    ],
+    "update_ids": [
+      378304208
+    ],
+    "retry_count": 0
+  }
+]

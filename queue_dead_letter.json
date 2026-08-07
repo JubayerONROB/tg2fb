@@ -1586,5 +1586,45 @@
       378304203
     ],
     "retry_count": 0
+  },
+  {
+    "type": "video",
+    "video_file_id": "BAACAgQAAyEFAAMBClOLWAACAThqdh4yRGfPfcgWyTnR_4sfA565nAACih4AAjOyqFNOUBJA4gd1Nj0E",
+    "video_file_size": 40496284,
+    "caption": "🗣\"Superintelligence won't arrive all at once. It will emerge through automation.\"\n\nAndrej Karpathy says superintelligence is best understood as the long-term continuation of automation.\n\nFirst, AI automates digital work. Then physical work. Eventually, even scientific discovery, invention, and decision making become increasingly automated.\n\nThe biggest challenge may not be a single AI taking over.\n\nIt could be a gradual loss of human understanding and control as billions of autonomous AI systems interact, compete, and make decisions at a scale and speed no human can fully comprehend.\n\nSuperintelligence may not look like one all-powerful AI. It may look like an economy of autonomous intelligences. \n\n@aipost 🏴",
+    "entities": [
+      {
+        "offset": 0,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5287468155738821335"
+      },
+      {
+        "offset": 2,
+        "length": 80,
+        "type": "bold"
+      },
+      {
+        "offset": 709,
+        "length": 7,
+        "type": "text_link",
+        "url": "https://t.me/aipost"
+      },
+      {
+        "offset": 717,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5431390559912614642"
+      }
+    ],
+    "media_group_id": null,
+    "chat_id": -1004468214616,
+    "message_ids": [
+      312
+    ],
+    "update_ids": [
+      378304205
+    ],
+    "retry_count": 0
   }
 ]
