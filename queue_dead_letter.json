@@ -1626,5 +1626,45 @@
       378304205
     ],
     "retry_count": 0
+  },
+  {
+    "type": "video",
+    "video_file_id": "BAACAgQAAyEFAAMBClOLWAACAUBqdtsP5Wn1As6Z-iQksrRAvSLCGAACpR4AAjOyqFPRYlFWgV3d8j0E",
+    "video_file_size": 21127931,
+    "caption": "🙃 Elon Musk: “Consciousness isn’t a switch, it’s a continuum”\n\nElon Musk just challenged one of the biggest assumptions in the AI debate: there may never be a single moment when AI suddenly becomes “conscious.”\n\nHis argument is simple. Humans don’t wake up one day as conscious beings. A zygote isn’t conscious in the same way an adult is, and no one can point to the exact day they crossed that invisible line. Consciousness appears to grow gradually, not arrive all at once.\n\nIf that’s true, Musk says we’re asking the wrong question about AI. We’ve been waiting for a dramatic “awakening”, a clear moment when a machine crosses the line. But what if there is no line? What if consciousness is a spectrum, and AI is simply moving along it with every new model, training run, and architectural breakthrough?\n\nHe then zooms out even further.\n\nThe universe began with quarks, leptons, and hydrogen. Over billions of years, stars forged the heavier elements that eventually became planets, life, and us. The atoms in our bodies were once inside stars. In Musk’s view, humans aren’t separate from that process, we’re simply one stage of it.\n\nNow, those same atoms have built machines capable of learning, reasoning, and creating.\n\n@aipost 🏴",
+    "entities": [
+      {
+        "offset": 0,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5289701946754633864"
+      },
+      {
+        "offset": 3,
+        "length": 59,
+        "type": "bold"
+      },
+      {
+        "offset": 1229,
+        "length": 7,
+        "type": "text_link",
+        "url": "https://t.me/aipost"
+      },
+      {
+        "offset": 1237,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5431390559912614642"
+      }
+    ],
+    "media_group_id": null,
+    "chat_id": -1004468214616,
+    "message_ids": [
+      320
+    ],
+    "update_ids": [
+      378304213
+    ],
+    "retry_count": 0
   }
 ]
