@@ -1,45 +1,5 @@
 [
   {
-    "type": "photo",
-    "photo_file_ids": [
-      "AgACAgQAAyEFAAMBClOLWAACAUJqdts1xAtnQ2RV8Z2R8vsOt6FJNQACyA1rGzOyqFOXOHUgpOY0QgEAAwIAA3cAAz0E"
-    ],
-    "caption": "The biggest AI risk jsn’t job loss, it’s cognitive atrophy.\n\nFor thousands of years, literacy has been one of humanity’s greatest intellectual achievements. Not just reading, but writing, the ability to transform thoughts into language.\n\nWriting is a two-way process. It doesn’t simply communicate ideas; it shapes them. The effort of organizing thoughts, choosing words, and refining arguments strengthens reasoning itself.\n\nOutsourcing that process is like outsourcing every workout to a robot and expecting to stay fit. Intelligence is a muscle. Without regular use, it weakens.\n\nAI can dramatically accelerate research, learning, brainstorming, and editing. But relying on it to generate every idea or write every sentence comes with a hidden cost: growing dependence. Over time, original thinking gives way to increasingly generic output that converges toward the statistical average of the internet, the same patterns found across countless blog posts, Reddit threads, and AI-generated text.\n\nThe real opportunity isn’t replacing thought with AI. It’s using AI to expand knowledge while preserving the mental work that develops judgment, creativity, and a unique voice.\n\nUse AI to research. Use AI to challenge assumptions. Use AI to refine ideas. But don’t outsource the thinking that gives those ideas value in the first place.\n\n@aipost 🏴",
-    "entities": [
-      {
-        "offset": 0,
-        "length": 59,
-        "type": "bold"
-      },
-      {
-        "offset": 1177,
-        "length": 158,
-        "type": "bold"
-      },
-      {
-        "offset": 1337,
-        "length": 7,
-        "type": "text_link",
-        "url": "https://t.me/aipost"
-      },
-      {
-        "offset": 1345,
-        "length": 2,
-        "type": "custom_emoji",
-        "custom_emoji_id": "5431390559912614642"
-      }
-    ],
-    "media_group_id": null,
-    "chat_id": -1004468214616,
-    "message_ids": [
-      322
-    ],
-    "update_ids": [
-      378304215
-    ],
-    "retry_count": 0
-  },
-  {
     "type": "video",
     "video_file_id": "BAACAgQAAyEFAAMBClOLWAACAUNqdts61U_-m1ag3TAxLAShHsiMsQACxR4AAjOyqFNeRfu2cnV36T0E",
     "video_file_size": 14494826,
