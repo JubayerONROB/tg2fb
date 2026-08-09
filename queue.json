@@ -1,56 +1,5 @@
 [
   {
-    "type": "video",
-    "video_file_id": "BAACAgQAAyEFAAMBClOLWAACAUlqeDRdgwbOONqF4y15D5-Ji0CLeAACyx4AAjOyqFMaeXBXVmg1dD0E",
-    "video_file_size": 2789668,
-    "caption": "AI just designed viruses that have never existed before… and they actually worked. 🤯\n\nFor the first time, scientists have used AI to create fully functional virus genomes from scratch, not by copying nature, but by inventing entirely new genetic designs.\n\nResearchers from Stanford and the Arc Institute used genome language models called Evo 1 and Evo 2 to design complete genomes for Phi X174, a harmless bacteriophage that infects Escherichia coli (E. coli). To minimize biosafety risks, the models were trained only on around 2 million bacteriophage genomes, excluding viruses that infect humans, animals, or plants.\n\nInstead of generating individual genes or proteins like previous AI systems, Evo created entire viral genomes, exploring genetic possibilities that evolution has never produced.\n\nThe researchers generated thousands of designs, synthesized 302 AI-created genomes, and tested them in the lab.\n\nThe result? 16 of them came to life.\n\nThose AI-designed viruses successfully infected E. coli, replicated inside the bacteria, and produced new infectious offspring, proving that completely novel virus genomes designed by AI can function in the real world.\n\nThe implications are huge. This could speed up the development of phage therapies to fight antibiotic-resistant bacteria, enable custom-designed bacteriophages for medicine, and unlock entirely new tools for synthetic biology.\n\nSource.\n\n@aipost 🏴",
-    "entities": [
-      {
-        "offset": 0,
-        "length": 83,
-        "type": "bold"
-      },
-      {
-        "offset": 83,
-        "length": 2,
-        "type": "custom_emoji",
-        "custom_emoji_id": "5417840930231165592"
-      },
-      {
-        "offset": 950,
-        "length": 1,
-        "type": "bold"
-      },
-      {
-        "offset": 1401,
-        "length": 6,
-        "type": "text_link",
-        "url": "https://biz.chosun.com/en/en-science/2026/08/07/FH3OH3BFPBGKTIVLIWSBJE56EU/"
-      },
-      {
-        "offset": 1410,
-        "length": 7,
-        "type": "text_link",
-        "url": "https://t.me/aipost"
-      },
-      {
-        "offset": 1418,
-        "length": 2,
-        "type": "custom_emoji",
-        "custom_emoji_id": "5431390559912614642"
-      }
-    ],
-    "media_group_id": "14290100974690133",
-    "chat_id": -1004468214616,
-    "message_ids": [
-      329
-    ],
-    "update_ids": [
-      378304222
-    ],
-    "retry_count": 0
-  },
-  {
     "type": "album",
     "photo_file_ids": [
       "AgACAgQAAyEFAAMBClOLWAACAUpqeDRdTVWI-BrTDITqqd0RYlkabgAC7g1rGzOyqFOSVucTUgqsfQEAAwIAA3cAAz0E",
@@ -297,6 +246,68 @@
     "update_ids": [
       378304232,
       378304233
+    ],
+    "retry_count": 0
+  },
+  {
+    "type": "album",
+    "photo_file_ids": [
+      "AgACAgQAAyEFAAMBClOLWAACAVVqeH6eWvs5B-8QbKuZ1xc0Zu7geQAC8RJrG-8ouVM6x8nc9CmguwEAAwIAA3kAAz0E",
+      "AgACAgQAAyEFAAMBClOLWAACAVZqeH6erDxK4uPL4yZlrlgHr9a1_gAC8hJrG-8ouVOh1_BOebnLlwEAAwIAA3kAAz0E"
+    ],
+    "caption": "New Orleans, the largest city in Louisiana is testing out AI to answer 911 calls.\n\nIts intended to handle the increase of calls related to one incident.\n\n@aipost 🏴",
+    "entities": [
+      {
+        "offset": 154,
+        "length": 7,
+        "type": "text_link",
+        "url": "https://t.me/aipost"
+      },
+      {
+        "offset": 162,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5431390559912614642"
+      }
+    ],
+    "media_group_id": "14290253040434885",
+    "chat_id": -1004468214616,
+    "message_ids": [
+      341,
+      342
+    ],
+    "update_ids": [
+      378304234,
+      378304235
+    ],
+    "retry_count": 0
+  },
+  {
+    "type": "video",
+    "video_file_id": "BAACAgQAAyEFAAMBClOLWAACAVdqeH6rskc9Q86RzGHOg1oKXTUDPAAC3h0AAu8ouVPHfgbGj-62gT0E",
+    "video_file_size": 13515745,
+    "caption": "ELON MUSK: \"We're running out of test questions to ask AI. Everything has become trivial. The ultimate reasoning test for the AI is going to be reality. Can it create a car, or a rocket, or a new medication? Does it work? Reality is the ultimate judge.\"\n\n@aipost 🏴",
+    "entities": [
+      {
+        "offset": 255,
+        "length": 7,
+        "type": "text_link",
+        "url": "https://t.me/aipost"
+      },
+      {
+        "offset": 263,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5431390559912614642"
+      }
+    ],
+    "media_group_id": null,
+    "chat_id": -1004468214616,
+    "message_ids": [
+      343
+    ],
+    "update_ids": [
+      378304236
     ],
     "retry_count": 0
   }
