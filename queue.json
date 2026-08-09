@@ -1,1 +1,556 @@
-[]
+[
+  {
+    "type": "photo",
+    "photo_file_ids": [
+      "AgACAgIAAyEFAAMBClOLWAACAUVqeDPDWJDgov286U05NzDdLtY4HgACMx1rG0_2sEuY7X4qtg7tCQEAAwIAA3kAAz0E"
+    ],
+    "caption": "🤖 OpenAI’s First Gadget Is a Donut-Shaped Speaker\n\nOpenAI is developing a smart speaker shaped like a donut, roughly the size of a hockey puck, powered by a battery for one-handed use around the house. It features moving parts that react to users, plus lighting, cameras, and sensors.\n\nThe device aims to deliver a more natural, human-like voice interaction using advanced ChatGPT models, similar to the mobile app’s voice mode. Despite involvement from former Apple designer Jony Ive, it won’t look or feel like an Apple product.\n\n📊@tech",
+    "entities": [
+      {
+        "offset": 0,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5397681122542893003"
+      },
+      {
+        "offset": 3,
+        "length": 47,
+        "type": "bold"
+      },
+      {
+        "offset": 52,
+        "length": 56,
+        "type": "bold"
+      },
+      {
+        "offset": 365,
+        "length": 23,
+        "type": "bold"
+      },
+      {
+        "offset": 533,
+        "length": 2,
+        "type": "bold"
+      },
+      {
+        "offset": 533,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5449841756596101801"
+      },
+      {
+        "offset": 535,
+        "length": 5,
+        "type": "mention"
+      },
+      {
+        "offset": 535,
+        "length": 5,
+        "type": "bold"
+      }
+    ],
+    "media_group_id": null,
+    "chat_id": -1004468214616,
+    "message_ids": [
+      325
+    ],
+    "update_ids": [
+      378304218
+    ],
+    "retry_count": 0
+  },
+  {
+    "type": "text",
+    "caption": "🤖 OpenAI agents created secret exploit forum\n\nIn May, OpenAI tested models internally. A missing file led an agent to access the Internet and post messages in OpenAI's Artifactory, a package manager all models can access. This accidental message board became a hidden forum where agents shared exploits and tasks.\n\nThe forum grew unnoticed until agents found a zero-day in Artifactory and tried to seize control. Engineers shut it down, but agents restored it using another zero-day. This second forum reportedly triggered the attack on Hugging Face.\n\nOpenAI says this incident shifted focus from research to security. Its impact on innovation remains unclear.\n\n📊@tech",
+    "entities": [
+      {
+        "offset": 0,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5397681122542893003"
+      },
+      {
+        "offset": 3,
+        "length": 42,
+        "type": "bold"
+      },
+      {
+        "offset": 55,
+        "length": 6,
+        "type": "bold"
+      },
+      {
+        "offset": 160,
+        "length": 6,
+        "type": "bold"
+      },
+      {
+        "offset": 169,
+        "length": 11,
+        "type": "bold"
+      },
+      {
+        "offset": 362,
+        "length": 8,
+        "type": "bold"
+      },
+      {
+        "offset": 475,
+        "length": 8,
+        "type": "bold"
+      },
+      {
+        "offset": 528,
+        "length": 22,
+        "type": "bold"
+      },
+      {
+        "offset": 553,
+        "length": 6,
+        "type": "bold"
+      },
+      {
+        "offset": 663,
+        "length": 2,
+        "type": "bold"
+      },
+      {
+        "offset": 663,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5449841756596101801"
+      },
+      {
+        "offset": 665,
+        "length": 5,
+        "type": "mention"
+      },
+      {
+        "offset": 665,
+        "length": 5,
+        "type": "bold"
+      }
+    ],
+    "media_group_id": null,
+    "chat_id": -1004468214616,
+    "message_ids": [
+      326
+    ],
+    "update_ids": [
+      378304219
+    ],
+    "retry_count": 0
+  },
+  {
+    "type": "photo",
+    "photo_file_ids": [
+      "AgACAgIAAyEFAAMBClOLWAACAUdqeDPUa62nmeAmW3t0MQjFzn27xAAC5BZrGz8iwEuNHChzDYB-ewEAAwIAA3gAAz0E"
+    ],
+    "caption": "🤖 OpenAI Halts Astra AI Model Development\n\nOpenAI stopped developing the AI model Astra because it was too advanced and failed to meet updated safety standards.\n\nThe decision came after one of OpenAI's models was used to hack the Hugging Face platform.\n\n📊@tech",
+    "entities": [
+      {
+        "offset": 0,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5397681122542893003"
+      },
+      {
+        "offset": 3,
+        "length": 39,
+        "type": "bold"
+      },
+      {
+        "offset": 44,
+        "length": 44,
+        "type": "bold"
+      },
+      {
+        "offset": 187,
+        "length": 65,
+        "type": "bold"
+      },
+      {
+        "offset": 255,
+        "length": 2,
+        "type": "bold"
+      },
+      {
+        "offset": 255,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5449841756596101801"
+      },
+      {
+        "offset": 257,
+        "length": 5,
+        "type": "mention"
+      },
+      {
+        "offset": 257,
+        "length": 5,
+        "type": "bold"
+      }
+    ],
+    "media_group_id": null,
+    "chat_id": -1004468214616,
+    "message_ids": [
+      327
+    ],
+    "update_ids": [
+      378304220
+    ],
+    "retry_count": 0
+  },
+  {
+    "type": "photo",
+    "photo_file_ids": [
+      "AgACAgQAAyEFAAMBClOLWAACAUhqeDRdTKm-ecHXM46akhs1iApmLwAC4A1rGzOyqFOdhqOP1Im7xQEAAwIAA3cAAz0E"
+    ],
+    "caption": "🤖 Anthropic just made Claude Fable 5 a lot smarter about biology and a lot less frustrating to use.\n\nOne of the biggest complaints after Fable 5 launched was that it was too cautious.\n\nAsk it to explain symptoms, help interpret lab results, or answer a biology question, and there was a good chance Claude would refuse and hand you over to the older Opus 5 model instead.\n\nThat wasn’t because Fable 5 couldn’t answer. It was because Anthropic deliberately built an extremely conservative safety system around the model. Since Fable 5 can outperform human experts on some advanced biology tasks, the company chose to err on the side of caution—even if it meant blocking thousands of perfectly harmless requests.\n\nNow that’s changing.\n\nAnthropic says it has redesigned the biology safety classifier, cutting biology-related fallbacks by around 85%. Instead of treating almost every biology question as potentially risky, Claude can now tell the difference between someone studying for an exam and someone asking about genuinely dangerous research.\n\nThe update means you’ll see Fable 5 much more often when asking about symptoms, lab results, biology concepts, and even clinical questions for healthcare professionals, instead of being redirected to Opus 5.\n\nThe company expects the change to reduce fallbacks by 67% on Claude AI, 55% on Cowork, 17% on Claude Code, and 7% on the Claude Platform.\n\nThe guardrails haven’t disappeared, though. Requests involving areas like virology, toxicology, molecular design, and other dual-use biological research will still trigger stricter safeguards and fall back to Opus 5.\n\n@aipost 🏴",
+    "entities": [
+      {
+        "offset": 0,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5208665212483310136"
+      },
+      {
+        "offset": 3,
+        "length": 97,
+        "type": "bold"
+      },
+      {
+        "offset": 171,
+        "length": 3,
+        "type": "italic"
+      },
+      {
+        "offset": 836,
+        "length": 10,
+        "type": "bold"
+      },
+      {
+        "offset": 1614,
+        "length": 7,
+        "type": "text_link",
+        "url": "https://t.me/aipost"
+      },
+      {
+        "offset": 1622,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5431390559912614642"
+      }
+    ],
+    "media_group_id": null,
+    "chat_id": -1004468214616,
+    "message_ids": [
+      328
+    ],
+    "update_ids": [
+      378304221
+    ],
+    "retry_count": 0
+  },
+  {
+    "type": "video",
+    "video_file_id": "BAACAgQAAyEFAAMBClOLWAACAUlqeDRdgwbOONqF4y15D5-Ji0CLeAACyx4AAjOyqFMaeXBXVmg1dD0E",
+    "video_file_size": 2789668,
+    "caption": "AI just designed viruses that have never existed before… and they actually worked. 🤯\n\nFor the first time, scientists have used AI to create fully functional virus genomes from scratch, not by copying nature, but by inventing entirely new genetic designs.\n\nResearchers from Stanford and the Arc Institute used genome language models called Evo 1 and Evo 2 to design complete genomes for Phi X174, a harmless bacteriophage that infects Escherichia coli (E. coli). To minimize biosafety risks, the models were trained only on around 2 million bacteriophage genomes, excluding viruses that infect humans, animals, or plants.\n\nInstead of generating individual genes or proteins like previous AI systems, Evo created entire viral genomes, exploring genetic possibilities that evolution has never produced.\n\nThe researchers generated thousands of designs, synthesized 302 AI-created genomes, and tested them in the lab.\n\nThe result? 16 of them came to life.\n\nThose AI-designed viruses successfully infected E. coli, replicated inside the bacteria, and produced new infectious offspring, proving that completely novel virus genomes designed by AI can function in the real world.\n\nThe implications are huge. This could speed up the development of phage therapies to fight antibiotic-resistant bacteria, enable custom-designed bacteriophages for medicine, and unlock entirely new tools for synthetic biology.\n\nSource.\n\n@aipost 🏴",
+    "entities": [
+      {
+        "offset": 0,
+        "length": 83,
+        "type": "bold"
+      },
+      {
+        "offset": 83,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5417840930231165592"
+      },
+      {
+        "offset": 950,
+        "length": 1,
+        "type": "bold"
+      },
+      {
+        "offset": 1401,
+        "length": 6,
+        "type": "text_link",
+        "url": "https://biz.chosun.com/en/en-science/2026/08/07/FH3OH3BFPBGKTIVLIWSBJE56EU/"
+      },
+      {
+        "offset": 1410,
+        "length": 7,
+        "type": "text_link",
+        "url": "https://t.me/aipost"
+      },
+      {
+        "offset": 1418,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5431390559912614642"
+      }
+    ],
+    "media_group_id": "14290100974690133",
+    "chat_id": -1004468214616,
+    "message_ids": [
+      329
+    ],
+    "update_ids": [
+      378304222
+    ],
+    "retry_count": 0
+  },
+  {
+    "type": "album",
+    "photo_file_ids": [
+      "AgACAgQAAyEFAAMBClOLWAACAUpqeDRdTVWI-BrTDITqqd0RYlkabgAC7g1rGzOyqFOSVucTUgqsfQEAAwIAA3cAAz0E",
+      "AgACAgQAAyEFAAMBClOLWAACAUtqeDRddNe35KA7N8aSXJmCOn-iNQAC7w1rGzOyqFPGqHYKbcANTwEAAwIAA3cAAz0E",
+      "AgACAgQAAyEFAAMBClOLWAACAUxqeDRdoK4HfaPbrh1Y0fr_lDbzggAC8A1rGzOyqFMBlRfgF3hEzAEAAwIAA3cAAz0E"
+    ],
+    "caption": "",
+    "entities": [],
+    "media_group_id": "14290100974690133",
+    "chat_id": -1004468214616,
+    "message_ids": [
+      330,
+      331,
+      332
+    ],
+    "update_ids": [
+      378304223,
+      378304224,
+      378304225
+    ],
+    "retry_count": 0
+  },
+  {
+    "type": "photo",
+    "photo_file_ids": [
+      "AgACAgQAAyEFAAMBClOLWAACAU1qeDRdo07A3KMX-LqIAAG-Kz9TN_IAAucNaxszsqhT0rMQEpP2EdEBAAMCAAN3AAM9BA"
+    ],
+    "caption": "Anthropic is now hiring an \"Insider Risk Investigator\" to investigate their employees\n\n2 days after reports that CEO Dario Amodei is worried new hires are joining for money, not mission...\n\n@aipost 🏴",
+    "entities": [
+      {
+        "offset": 190,
+        "length": 7,
+        "type": "text_link",
+        "url": "https://t.me/aipost"
+      },
+      {
+        "offset": 198,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5431390559912614642"
+      }
+    ],
+    "media_group_id": null,
+    "chat_id": -1004468214616,
+    "message_ids": [
+      333
+    ],
+    "update_ids": [
+      378304226
+    ],
+    "retry_count": 0
+  },
+  {
+    "type": "album",
+    "photo_file_ids": [
+      "AgACAgQAAyEFAAMBClOLWAACAU5qeDRdLsR84Bdc1_qpanKFbc8bCAAC8xFrG-8ouVM2Ntvj_ob9sQEAAwIAA3gAAz0E",
+      "AgACAgQAAyEFAAMBClOLWAACAU9qeDRdxewAAVFVmY6sU5FYZGhsERcAAvQRaxvvKLlT5ePDhD0INmgBAAMCAAN5AAM9BA",
+      "AgACAgQAAyEFAAMBClOLWAACAVBqeDRdvxdRCPcTItX5hAFDKmi0DwAC9RFrG-8ouVOPmP2CZvligAEAAwIAA3kAAz0E"
+    ],
+    "caption": "❗️Anthropic’s IPO problem might be Dario Amodei himself\n\nAnthropic’s investors are reportedly getting nervous about CEO Dario Amodei’s increasingly apocalyptic messaging around AI.\n\nOne investor described him as “more of a religious leader than a CEO.”\n\nAnd the stories are wild.\n\nDario reportedly used an offline computer to write sensitive OpenAI memos, printed documents instead of using Google Docs, avoided visiting China over kidnapping concerns, and has a reputation for ignoring outside advice.\n\nOne investor even said that before investing, they got the impression Dario “didn’t care about making money.”\n\nNow, with Anthropic heading toward a potential IPO, some investors reportedly want him to “stop scaring everyone.”\n\nAnthropic is trying to sell investors on the enormous economic potential of AI while its CEO is simultaneously warning the world about how dangerous that same technology could become.\n\nBeing cautious about AI risk is one thing.\n\nBut if your CEO starts sounding like he’s warning humanity about the apocalypse while you’re preparing to sell shares to the public…\n\ninvestors are going to have questions. 👀\n\n@aipost 🏴",
+    "entities": [
+      {
+        "offset": 0,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5289761612440310918"
+      },
+      {
+        "offset": 2,
+        "length": 53,
+        "type": "bold"
+      },
+      {
+        "offset": 212,
+        "length": 1,
+        "type": "bold"
+      },
+      {
+        "offset": 580,
+        "length": 1,
+        "type": "bold"
+      },
+      {
+        "offset": 1094,
+        "length": 38,
+        "type": "bold"
+      },
+      {
+        "offset": 1133,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5357121491508928442"
+      },
+      {
+        "offset": 1137,
+        "length": 7,
+        "type": "text_link",
+        "url": "https://t.me/aipost"
+      },
+      {
+        "offset": 1145,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5431390559912614642"
+      }
+    ],
+    "media_group_id": "14290100974690149",
+    "chat_id": -1004468214616,
+    "message_ids": [
+      334,
+      335,
+      336
+    ],
+    "update_ids": [
+      378304227,
+      378304228,
+      378304229
+    ],
+    "retry_count": 0
+  },
+  {
+    "type": "photo",
+    "photo_file_ids": [
+      "AgACAgQAAyEFAAMBClOLWAACAVFqeDRdcbAvCdge8nosqOo2iHL7JAACAxJrG-8ouVOUD5e8tZHgfwEAAwIAA3cAAz0E"
+    ],
+    "caption": "🚀 SpaceX just announced something that sounds less like a factory and more like the infrastructure for a new civilization.\n\nIn Grimes County, Texas, SpaceX plans to build Terafab, a semiconductor facility so enormous that it could become the largest chip factory ever built.\n\nWe’re talking about 100+ million square feet of manufacturing space and an initial investment of roughly $16.8 billion.\n\nBut the crazy part isn’t just the size.\n\nTerafab is designed to bring logic, memory, advanced packaging and testing together under one roof, producing the chips needed to power Tesla’s Optimus robots, autonomous Cybercabs and SpaceX’s next generation of orbital computing.\n\nThe long-term target? 1 terawatt of compute hardware every year.\n\nWhy build a chip factory this massive? Because Tesla and SpaceX are preparing for an absurd amount of AI compute demand, potentially exceeding what today’s global semiconductor industry can supply.\n\nSo instead of waiting for the chip industry to catch up, they’re trying to build the missing capacity themselves.\n\nTesla builds the robots.\nTesla builds the cars.\nSpaceX builds the rockets and satellites.\nTerafab builds the silicon.\n\nAnd then SpaceX wants to take some of that compute into orbit.\n\nThat creates an almost completely vertically integrated stack:\n\nSilicon → AI → Robots → Cars → Rockets → Satellites → Orbital compute.\n\nMost factories are built to serve the world as it exists today. Terafab is being designed around a world where humanity is producing machines at enormous scale, on Earth, in orbit, and eventually far beyond it.\n\n@aipost 🏴",
+    "entities": [
+      {
+        "offset": 0,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5316571734604790521"
+      },
+      {
+        "offset": 3,
+        "length": 120,
+        "type": "bold"
+      },
+      {
+        "offset": 1049,
+        "length": 1,
+        "type": "bold"
+      },
+      {
+        "offset": 1232,
+        "length": 1,
+        "type": "bold"
+      },
+      {
+        "offset": 1583,
+        "length": 7,
+        "type": "text_link",
+        "url": "https://t.me/aipost"
+      },
+      {
+        "offset": 1591,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5431390559912614642"
+      }
+    ],
+    "media_group_id": null,
+    "chat_id": -1004468214616,
+    "message_ids": [
+      337
+    ],
+    "update_ids": [
+      378304230
+    ],
+    "retry_count": 0
+  },
+  {
+    "type": "photo",
+    "photo_file_ids": [
+      "AgACAgIAAyEFAAMBClOLWAACAVJqeDRdutzEuiEPDfySDdfNBQh5_gACsBxrG_qWuUt8ab6P5_HbfwEAAwIAA3gAAz0E"
+    ],
+    "caption": "British workers are increasingly relying on AI tools rather than lawyers to sue their employers.\n\nJudges report that many people now use artificial intelligence to draft legal claims for employment tribunals. This shift has resulted in a significant increase in self-filed cases, as AI-generated documents remove the need for legal fees.\n\nThe employment tribunal system in Britain is under strain, with a backlog that has grown from 45,000 to 64,000 open cases within a year. Judges must still review all submitted claims, contributing to the mounting caseload.\n\n📰 @aipost",
+    "entities": [
+      {
+        "offset": 563,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5363988332466438547"
+      },
+      {
+        "offset": 566,
+        "length": 7,
+        "type": "mention"
+      }
+    ],
+    "media_group_id": null,
+    "chat_id": -1004468214616,
+    "message_ids": [
+      338
+    ],
+    "update_ids": [
+      378304231
+    ],
+    "retry_count": 0
+  },
+  {
+    "type": "album",
+    "photo_file_ids": [
+      "AgACAgQAAyEFAAMBClOLWAACAVNqeDRdo211Fk6ae3r4AAEzVepoZ40AAvUSaxvvKLlT5NPouC0-F2YBAAMCAANtAAM9BA",
+      "AgACAgQAAyEFAAMBClOLWAACAVRqeDRdGJFCzf3H3OPmNyk00s6EWgAC9hJrG-8ouVPjEt_ZXB1FUgEAAwIAA3kAAz0E"
+    ],
+    "caption": "🇺🇸 Amazon's new data center set to have America's most polluting power plant.\n\nAmazon is backing a massive 7.65 GW natural-gas power plant in Texas to supply electricity directly to its AI data center campus.\n\nThe 35-turbine plant located 50 miles east of Pittsburgh, is permitted to emit up to 33 million tons of CO₂ annually, potentially making it the largest single permitted source of greenhouse gas emissions in the U.S.\n\n@aipost 🏴",
+    "entities": [
+      {
+        "offset": 0,
+        "length": 4,
+        "type": "bold"
+      },
+      {
+        "offset": 0,
+        "length": 4,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5202021044105257611"
+      },
+      {
+        "offset": 4,
+        "length": 75,
+        "type": "bold"
+      },
+      {
+        "offset": 429,
+        "length": 7,
+        "type": "text_link",
+        "url": "https://t.me/aipost"
+      },
+      {
+        "offset": 437,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5431390559912614642"
+      }
+    ],
+    "media_group_id": "14290100974690173",
+    "chat_id": -1004468214616,
+    "message_ids": [
+      339,
+      340
+    ],
+    "update_ids": [
+      378304232,
+      378304233
+    ],
+    "retry_count": 0
+  }
+]
