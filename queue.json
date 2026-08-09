@@ -1,38 +1,5 @@
 [
   {
-    "type": "album",
-    "photo_file_ids": [
-      "AgACAgQAAyEFAAMBClOLWAACAVVqeH6eWvs5B-8QbKuZ1xc0Zu7geQAC8RJrG-8ouVM6x8nc9CmguwEAAwIAA3kAAz0E",
-      "AgACAgQAAyEFAAMBClOLWAACAVZqeH6erDxK4uPL4yZlrlgHr9a1_gAC8hJrG-8ouVOh1_BOebnLlwEAAwIAA3kAAz0E"
-    ],
-    "caption": "New Orleans, the largest city in Louisiana is testing out AI to answer 911 calls.\n\nIts intended to handle the increase of calls related to one incident.\n\n@aipost 🏴",
-    "entities": [
-      {
-        "offset": 154,
-        "length": 7,
-        "type": "text_link",
-        "url": "https://t.me/aipost"
-      },
-      {
-        "offset": 162,
-        "length": 2,
-        "type": "custom_emoji",
-        "custom_emoji_id": "5431390559912614642"
-      }
-    ],
-    "media_group_id": "14290253040434885",
-    "chat_id": -1004468214616,
-    "message_ids": [
-      341,
-      342
-    ],
-    "update_ids": [
-      378304234,
-      378304235
-    ],
-    "retry_count": 0
-  },
-  {
     "type": "video",
     "video_file_id": "BAACAgQAAyEFAAMBClOLWAACAVdqeH6rskc9Q86RzGHOg1oKXTUDPAAC3h0AAu8ouVPHfgbGj-62gT0E",
     "video_file_size": 13515745,
