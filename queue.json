@@ -1,34 +1,5 @@
 [
   {
-    "type": "video",
-    "video_file_id": "BAACAgQAAyEFAAMBClOLWAACAVdqeH6rskc9Q86RzGHOg1oKXTUDPAAC3h0AAu8ouVPHfgbGj-62gT0E",
-    "video_file_size": 13515745,
-    "caption": "ELON MUSK: \"We're running out of test questions to ask AI. Everything has become trivial. The ultimate reasoning test for the AI is going to be reality. Can it create a car, or a rocket, or a new medication? Does it work? Reality is the ultimate judge.\"\n\n@aipost 🏴",
-    "entities": [
-      {
-        "offset": 255,
-        "length": 7,
-        "type": "text_link",
-        "url": "https://t.me/aipost"
-      },
-      {
-        "offset": 263,
-        "length": 2,
-        "type": "custom_emoji",
-        "custom_emoji_id": "5431390559912614642"
-      }
-    ],
-    "media_group_id": null,
-    "chat_id": -1004468214616,
-    "message_ids": [
-      343
-    ],
-    "update_ids": [
-      378304236
-    ],
-    "retry_count": 0
-  },
-  {
     "type": "photo",
     "photo_file_ids": [
       "AgACAgQAAyEFAAMBClOLWAACAVhqeKvbcOLqSSnHvwABkrywBAcqiqIAAvQPaxvvKMFT4XBHU5x_LUUBAAMCAAN5AAM9BA"
