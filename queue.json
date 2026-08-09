@@ -1,28 +1,5 @@
 [
   {
-    "type": "album",
-    "photo_file_ids": [
-      "AgACAgQAAyEFAAMBClOLWAACAUpqeDRdTVWI-BrTDITqqd0RYlkabgAC7g1rGzOyqFOSVucTUgqsfQEAAwIAA3cAAz0E",
-      "AgACAgQAAyEFAAMBClOLWAACAUtqeDRddNe35KA7N8aSXJmCOn-iNQAC7w1rGzOyqFPGqHYKbcANTwEAAwIAA3cAAz0E",
-      "AgACAgQAAyEFAAMBClOLWAACAUxqeDRdoK4HfaPbrh1Y0fr_lDbzggAC8A1rGzOyqFMBlRfgF3hEzAEAAwIAA3cAAz0E"
-    ],
-    "caption": "",
-    "entities": [],
-    "media_group_id": "14290100974690133",
-    "chat_id": -1004468214616,
-    "message_ids": [
-      330,
-      331,
-      332
-    ],
-    "update_ids": [
-      378304223,
-      378304224,
-      378304225
-    ],
-    "retry_count": 0
-  },
-  {
     "type": "photo",
     "photo_file_ids": [
       "AgACAgQAAyEFAAMBClOLWAACAU1qeDRdo07A3KMX-LqIAAG-Kz9TN_IAAucNaxszsqhT0rMQEpP2EdEBAAMCAAN3AAM9BA"
