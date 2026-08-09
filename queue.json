@@ -2,66 +2,6 @@
   {
     "type": "photo",
     "photo_file_ids": [
-      "AgACAgIAAyEFAAMBClOLWAACAUdqeDPUa62nmeAmW3t0MQjFzn27xAAC5BZrGz8iwEuNHChzDYB-ewEAAwIAA3gAAz0E"
-    ],
-    "caption": "🤖 OpenAI Halts Astra AI Model Development\n\nOpenAI stopped developing the AI model Astra because it was too advanced and failed to meet updated safety standards.\n\nThe decision came after one of OpenAI's models was used to hack the Hugging Face platform.\n\n📊@tech",
-    "entities": [
-      {
-        "offset": 0,
-        "length": 2,
-        "type": "custom_emoji",
-        "custom_emoji_id": "5397681122542893003"
-      },
-      {
-        "offset": 3,
-        "length": 39,
-        "type": "bold"
-      },
-      {
-        "offset": 44,
-        "length": 44,
-        "type": "bold"
-      },
-      {
-        "offset": 187,
-        "length": 65,
-        "type": "bold"
-      },
-      {
-        "offset": 255,
-        "length": 2,
-        "type": "bold"
-      },
-      {
-        "offset": 255,
-        "length": 2,
-        "type": "custom_emoji",
-        "custom_emoji_id": "5449841756596101801"
-      },
-      {
-        "offset": 257,
-        "length": 5,
-        "type": "mention"
-      },
-      {
-        "offset": 257,
-        "length": 5,
-        "type": "bold"
-      }
-    ],
-    "media_group_id": null,
-    "chat_id": -1004468214616,
-    "message_ids": [
-      327
-    ],
-    "update_ids": [
-      378304220
-    ],
-    "retry_count": 0
-  },
-  {
-    "type": "photo",
-    "photo_file_ids": [
       "AgACAgQAAyEFAAMBClOLWAACAUhqeDRdTKm-ecHXM46akhs1iApmLwAC4A1rGzOyqFOdhqOP1Im7xQEAAwIAA3cAAz0E"
     ],
     "caption": "🤖 Anthropic just made Claude Fable 5 a lot smarter about biology and a lot less frustrating to use.\n\nOne of the biggest complaints after Fable 5 launched was that it was too cautious.\n\nAsk it to explain symptoms, help interpret lab results, or answer a biology question, and there was a good chance Claude would refuse and hand you over to the older Opus 5 model instead.\n\nThat wasn’t because Fable 5 couldn’t answer. It was because Anthropic deliberately built an extremely conservative safety system around the model. Since Fable 5 can outperform human experts on some advanced biology tasks, the company chose to err on the side of caution—even if it meant blocking thousands of perfectly harmless requests.\n\nNow that’s changing.\n\nAnthropic says it has redesigned the biology safety classifier, cutting biology-related fallbacks by around 85%. Instead of treating almost every biology question as potentially risky, Claude can now tell the difference between someone studying for an exam and someone asking about genuinely dangerous research.\n\nThe update means you’ll see Fable 5 much more often when asking about symptoms, lab results, biology concepts, and even clinical questions for healthcare professionals, instead of being redirected to Opus 5.\n\nThe company expects the change to reduce fallbacks by 67% on Claude AI, 55% on Cowork, 17% on Claude Code, and 7% on the Claude Platform.\n\nThe guardrails haven’t disappeared, though. Requests involving areas like virology, toxicology, molecular design, and other dual-use biological research will still trigger stricter safeguards and fall back to Opus 5.\n\n@aipost 🏴",
