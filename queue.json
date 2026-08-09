@@ -2,57 +2,6 @@
   {
     "type": "photo",
     "photo_file_ids": [
-      "AgACAgQAAyEFAAMBClOLWAACAVFqeDRdcbAvCdge8nosqOo2iHL7JAACAxJrG-8ouVOUD5e8tZHgfwEAAwIAA3cAAz0E"
-    ],
-    "caption": "🚀 SpaceX just announced something that sounds less like a factory and more like the infrastructure for a new civilization.\n\nIn Grimes County, Texas, SpaceX plans to build Terafab, a semiconductor facility so enormous that it could become the largest chip factory ever built.\n\nWe’re talking about 100+ million square feet of manufacturing space and an initial investment of roughly $16.8 billion.\n\nBut the crazy part isn’t just the size.\n\nTerafab is designed to bring logic, memory, advanced packaging and testing together under one roof, producing the chips needed to power Tesla’s Optimus robots, autonomous Cybercabs and SpaceX’s next generation of orbital computing.\n\nThe long-term target? 1 terawatt of compute hardware every year.\n\nWhy build a chip factory this massive? Because Tesla and SpaceX are preparing for an absurd amount of AI compute demand, potentially exceeding what today’s global semiconductor industry can supply.\n\nSo instead of waiting for the chip industry to catch up, they’re trying to build the missing capacity themselves.\n\nTesla builds the robots.\nTesla builds the cars.\nSpaceX builds the rockets and satellites.\nTerafab builds the silicon.\n\nAnd then SpaceX wants to take some of that compute into orbit.\n\nThat creates an almost completely vertically integrated stack:\n\nSilicon → AI → Robots → Cars → Rockets → Satellites → Orbital compute.\n\nMost factories are built to serve the world as it exists today. Terafab is being designed around a world where humanity is producing machines at enormous scale, on Earth, in orbit, and eventually far beyond it.\n\n@aipost 🏴",
-    "entities": [
-      {
-        "offset": 0,
-        "length": 2,
-        "type": "custom_emoji",
-        "custom_emoji_id": "5316571734604790521"
-      },
-      {
-        "offset": 3,
-        "length": 120,
-        "type": "bold"
-      },
-      {
-        "offset": 1049,
-        "length": 1,
-        "type": "bold"
-      },
-      {
-        "offset": 1232,
-        "length": 1,
-        "type": "bold"
-      },
-      {
-        "offset": 1583,
-        "length": 7,
-        "type": "text_link",
-        "url": "https://t.me/aipost"
-      },
-      {
-        "offset": 1591,
-        "length": 2,
-        "type": "custom_emoji",
-        "custom_emoji_id": "5431390559912614642"
-      }
-    ],
-    "media_group_id": null,
-    "chat_id": -1004468214616,
-    "message_ids": [
-      337
-    ],
-    "update_ids": [
-      378304230
-    ],
-    "retry_count": 0
-  },
-  {
-    "type": "photo",
-    "photo_file_ids": [
       "AgACAgIAAyEFAAMBClOLWAACAVJqeDRdutzEuiEPDfySDdfNBQh5_gACsBxrG_qWuUt8ab6P5_HbfwEAAwIAA3gAAz0E"
     ],
     "caption": "British workers are increasingly relying on AI tools rather than lawyers to sue their employers.\n\nJudges report that many people now use artificial intelligence to draft legal claims for employment tribunals. This shift has resulted in a significant increase in self-filed cases, as AI-generated documents remove the need for legal fees.\n\nThe employment tribunal system in Britain is under strain, with a backlog that has grown from 45,000 to 64,000 open cases within a year. Judges must still review all submitted claims, contributing to the mounting caseload.\n\n📰 @aipost",
