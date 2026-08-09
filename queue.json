@@ -1,73 +1,5 @@
 [
   {
-    "type": "album",
-    "photo_file_ids": [
-      "AgACAgQAAyEFAAMBClOLWAACAU5qeDRdLsR84Bdc1_qpanKFbc8bCAAC8xFrG-8ouVM2Ntvj_ob9sQEAAwIAA3gAAz0E",
-      "AgACAgQAAyEFAAMBClOLWAACAU9qeDRdxewAAVFVmY6sU5FYZGhsERcAAvQRaxvvKLlT5ePDhD0INmgBAAMCAAN5AAM9BA",
-      "AgACAgQAAyEFAAMBClOLWAACAVBqeDRdvxdRCPcTItX5hAFDKmi0DwAC9RFrG-8ouVOPmP2CZvligAEAAwIAA3kAAz0E"
-    ],
-    "caption": "❗️Anthropic’s IPO problem might be Dario Amodei himself\n\nAnthropic’s investors are reportedly getting nervous about CEO Dario Amodei’s increasingly apocalyptic messaging around AI.\n\nOne investor described him as “more of a religious leader than a CEO.”\n\nAnd the stories are wild.\n\nDario reportedly used an offline computer to write sensitive OpenAI memos, printed documents instead of using Google Docs, avoided visiting China over kidnapping concerns, and has a reputation for ignoring outside advice.\n\nOne investor even said that before investing, they got the impression Dario “didn’t care about making money.”\n\nNow, with Anthropic heading toward a potential IPO, some investors reportedly want him to “stop scaring everyone.”\n\nAnthropic is trying to sell investors on the enormous economic potential of AI while its CEO is simultaneously warning the world about how dangerous that same technology could become.\n\nBeing cautious about AI risk is one thing.\n\nBut if your CEO starts sounding like he’s warning humanity about the apocalypse while you’re preparing to sell shares to the public…\n\ninvestors are going to have questions. 👀\n\n@aipost 🏴",
-    "entities": [
-      {
-        "offset": 0,
-        "length": 2,
-        "type": "custom_emoji",
-        "custom_emoji_id": "5289761612440310918"
-      },
-      {
-        "offset": 2,
-        "length": 53,
-        "type": "bold"
-      },
-      {
-        "offset": 212,
-        "length": 1,
-        "type": "bold"
-      },
-      {
-        "offset": 580,
-        "length": 1,
-        "type": "bold"
-      },
-      {
-        "offset": 1094,
-        "length": 38,
-        "type": "bold"
-      },
-      {
-        "offset": 1133,
-        "length": 2,
-        "type": "custom_emoji",
-        "custom_emoji_id": "5357121491508928442"
-      },
-      {
-        "offset": 1137,
-        "length": 7,
-        "type": "text_link",
-        "url": "https://t.me/aipost"
-      },
-      {
-        "offset": 1145,
-        "length": 2,
-        "type": "custom_emoji",
-        "custom_emoji_id": "5431390559912614642"
-      }
-    ],
-    "media_group_id": "14290100974690149",
-    "chat_id": -1004468214616,
-    "message_ids": [
-      334,
-      335,
-      336
-    ],
-    "update_ids": [
-      378304227,
-      378304228,
-      378304229
-    ],
-    "retry_count": 0
-  },
-  {
     "type": "photo",
     "photo_file_ids": [
       "AgACAgQAAyEFAAMBClOLWAACAVFqeDRdcbAvCdge8nosqOo2iHL7JAACAxJrG-8ouVOUD5e8tZHgfwEAAwIAA3cAAz0E"
@@ -255,6 +187,87 @@
     ],
     "update_ids": [
       378304236
+    ],
+    "retry_count": 0
+  },
+  {
+    "type": "photo",
+    "photo_file_ids": [
+      "AgACAgQAAyEFAAMBClOLWAACAVhqeKvbcOLqSSnHvwABkrywBAcqiqIAAvQPaxvvKMFT4XBHU5x_LUUBAAMCAAN5AAM9BA"
+    ],
+    "caption": "🇨🇳 China just built a virtual society with 1 BILLION AI people.\n\nResearchers built Light Society, a system where AI agents have personalities, memories, beliefs and human-like behavior.\n\nInstead of using one giant model for everyone, it combines powerful LLMs with smaller models to make the simulation efficient enough to run over 1 billion agents.\n\nThey gave the agents real-world demographic data, then simulated things like trust, opinions and information spreading.\n\nAnd the results reportedly looked surprisingly similar to real human social behavior. \n\nNow imagine running a virtual population to test:\n\n🗳️ Elections\n📉 Market panic\n🔥 Misinformation\n🚨 Crisis reactions\n🌐 Global trends\n\nWe’re not at “predict the future” yet, but AI just took another step toward simulating society itself. 🤯\n\nSource. \n\n@aipost 🏴",
+    "entities": [
+      {
+        "offset": 0,
+        "length": 4,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5431782733376399004"
+      },
+      {
+        "offset": 5,
+        "length": 60,
+        "type": "bold"
+      },
+      {
+        "offset": 562,
+        "length": 49,
+        "type": "bold"
+      },
+      {
+        "offset": 627,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5350713563512052787"
+      },
+      {
+        "offset": 643,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5316924123786524990"
+      },
+      {
+        "offset": 681,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5316832074047441823"
+      },
+      {
+        "offset": 800,
+        "length": 1,
+        "type": "bold"
+      },
+      {
+        "offset": 802,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5370745797786738962"
+      },
+      {
+        "offset": 806,
+        "length": 8,
+        "type": "text_link",
+        "url": "https://arxiv.org/pdf/2506.12078"
+      },
+      {
+        "offset": 816,
+        "length": 7,
+        "type": "text_link",
+        "url": "https://t.me/aipost"
+      },
+      {
+        "offset": 824,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5431390559912614642"
+      }
+    ],
+    "media_group_id": null,
+    "chat_id": -1004468214616,
+    "message_ids": [
+      344
+    ],
+    "update_ids": [
+      378304237
     ],
     "retry_count": 0
   }
