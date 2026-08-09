@@ -2,55 +2,6 @@
   {
     "type": "album",
     "photo_file_ids": [
-      "AgACAgQAAyEFAAMBClOLWAACAVNqeDRdo211Fk6ae3r4AAEzVepoZ40AAvUSaxvvKLlT5NPouC0-F2YBAAMCAANtAAM9BA",
-      "AgACAgQAAyEFAAMBClOLWAACAVRqeDRdGJFCzf3H3OPmNyk00s6EWgAC9hJrG-8ouVPjEt_ZXB1FUgEAAwIAA3kAAz0E"
-    ],
-    "caption": "🇺🇸 Amazon's new data center set to have America's most polluting power plant.\n\nAmazon is backing a massive 7.65 GW natural-gas power plant in Texas to supply electricity directly to its AI data center campus.\n\nThe 35-turbine plant located 50 miles east of Pittsburgh, is permitted to emit up to 33 million tons of CO₂ annually, potentially making it the largest single permitted source of greenhouse gas emissions in the U.S.\n\n@aipost 🏴",
-    "entities": [
-      {
-        "offset": 0,
-        "length": 4,
-        "type": "bold"
-      },
-      {
-        "offset": 0,
-        "length": 4,
-        "type": "custom_emoji",
-        "custom_emoji_id": "5202021044105257611"
-      },
-      {
-        "offset": 4,
-        "length": 75,
-        "type": "bold"
-      },
-      {
-        "offset": 429,
-        "length": 7,
-        "type": "text_link",
-        "url": "https://t.me/aipost"
-      },
-      {
-        "offset": 437,
-        "length": 2,
-        "type": "custom_emoji",
-        "custom_emoji_id": "5431390559912614642"
-      }
-    ],
-    "media_group_id": "14290100974690173",
-    "chat_id": -1004468214616,
-    "message_ids": [
-      339,
-      340
-    ],
-    "update_ids": [
-      378304232,
-      378304233
-    ],
-    "retry_count": 0
-  },
-  {
-    "type": "album",
-    "photo_file_ids": [
       "AgACAgQAAyEFAAMBClOLWAACAVVqeH6eWvs5B-8QbKuZ1xc0Zu7geQAC8RJrG-8ouVM6x8nc9CmguwEAAwIAA3kAAz0E",
       "AgACAgQAAyEFAAMBClOLWAACAVZqeH6erDxK4uPL4yZlrlgHr9a1_gAC8hJrG-8ouVOh1_BOebnLlwEAAwIAA3kAAz0E"
     ],
@@ -188,6 +139,52 @@
     ],
     "update_ids": [
       378304237
+    ],
+    "retry_count": 0
+  },
+  {
+    "type": "photo",
+    "photo_file_ids": [
+      "AgACAgQAAyEFAAMBClOLWAACAVlqeNWJBtEWFrP-UNiD9jLW2awCPwACZRBrG-8owVMUD-iQoXSjAgEAAwIAA3kAAz0E"
+    ],
+    "caption": "💰 Databricks says AI costs could drop by up to 90%\n\nAI companies might be spending way too much money on tasks that don’t actually need a powerful model.\n\nDatabricks found that its Smart Router can automatically send simpler tasks to cheaper models while saving the expensive frontier models for harder problems. That alone cut average task costs by more than 30% while keeping roughly the same quality.\n\nThen they optimized the coding setup and caching, cutting generated tokens by nearly 50% without seeing a drop in quality.\n\nPut it all together, and Databricks says some workloads could see up to 90% lower AI costs.\n\nThe big idea is simple: you don’t need a Ferrari to drive to the grocery store.\n\n@aipost 🏴",
+    "entities": [
+      {
+        "offset": 0,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5289964193162759223"
+      },
+      {
+        "offset": 3,
+        "length": 48,
+        "type": "bold"
+      },
+      {
+        "offset": 623,
+        "length": 79,
+        "type": "bold"
+      },
+      {
+        "offset": 704,
+        "length": 7,
+        "type": "text_link",
+        "url": "https://t.me/aipost"
+      },
+      {
+        "offset": 712,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5431390559912614642"
+      }
+    ],
+    "media_group_id": null,
+    "chat_id": -1004468214616,
+    "message_ids": [
+      345
+    ],
+    "update_ids": [
+      378304238
     ],
     "retry_count": 0
   }
