@@ -1,35 +1,5 @@
 [
   {
-    "type": "photo",
-    "photo_file_ids": [
-      "AgACAgQAAyEFAAMBClOLWAACAU1qeDRdo07A3KMX-LqIAAG-Kz9TN_IAAucNaxszsqhT0rMQEpP2EdEBAAMCAAN3AAM9BA"
-    ],
-    "caption": "Anthropic is now hiring an \"Insider Risk Investigator\" to investigate their employees\n\n2 days after reports that CEO Dario Amodei is worried new hires are joining for money, not mission...\n\n@aipost 🏴",
-    "entities": [
-      {
-        "offset": 190,
-        "length": 7,
-        "type": "text_link",
-        "url": "https://t.me/aipost"
-      },
-      {
-        "offset": 198,
-        "length": 2,
-        "type": "custom_emoji",
-        "custom_emoji_id": "5431390559912614642"
-      }
-    ],
-    "media_group_id": null,
-    "chat_id": -1004468214616,
-    "message_ids": [
-      333
-    ],
-    "update_ids": [
-      378304226
-    ],
-    "retry_count": 0
-  },
-  {
     "type": "album",
     "photo_file_ids": [
       "AgACAgQAAyEFAAMBClOLWAACAU5qeDRdLsR84Bdc1_qpanKFbc8bCAAC8xFrG-8ouVM2Ntvj_ob9sQEAAwIAA3gAAz0E",
