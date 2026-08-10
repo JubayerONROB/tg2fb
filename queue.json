@@ -1,1 +1,206 @@
-[]
+[
+  {
+    "type": "video",
+    "video_file_id": "BAACAgIAAyEFAAMBClOLWAACAWJqehBRoRHEbqhE-vCw9O5wZ6c6TwACybgAAnR1uEtkgLPgaJlyMD0E",
+    "video_file_size": 18033160,
+    "caption": "🤖 Adobe Packs Creative Cloud Into ChatGPT\n\nAdobe released a single plugin for ChatGPT with over 70 features from Photoshop, Premiere, Lightroom, Illustrator, Acrobat, Express, and Firefly. Instead of multiple integrations, ChatGPT now picks the right tool for each task automatically.\n\nThe plugin works in ChatGPT Work and Codex. Some tools are available without login, but signing in unlocks generative features, Creative Cloud files, and saved projects.\n\nThis turns ChatGPT into a unified control center for Adobe software. Deep editing still requires the original apps, but most routine tasks can start directly in the chat.\n\n📊@tech",
+    "entities": [
+      {
+        "offset": 0,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5397681122542893003"
+      },
+      {
+        "offset": 3,
+        "length": 39,
+        "type": "bold"
+      },
+      {
+        "offset": 61,
+        "length": 47,
+        "type": "bold"
+      },
+      {
+        "offset": 291,
+        "length": 38,
+        "type": "bold"
+      },
+      {
+        "offset": 469,
+        "length": 56,
+        "type": "bold"
+      },
+      {
+        "offset": 630,
+        "length": 2,
+        "type": "bold"
+      },
+      {
+        "offset": 630,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5449841756596101801"
+      },
+      {
+        "offset": 632,
+        "length": 5,
+        "type": "mention"
+      },
+      {
+        "offset": 632,
+        "length": 5,
+        "type": "bold"
+      }
+    ],
+    "media_group_id": null,
+    "chat_id": -1004468214616,
+    "message_ids": [
+      354
+    ],
+    "update_ids": [
+      378304247
+    ],
+    "retry_count": 0
+  },
+  {
+    "type": "video",
+    "video_file_id": "BAACAgIAAyEFAAMBClOLWAACAWNqehBV8Euq0AABMZcVba55mm6kDSoAAqieAAIMb5BLhCM7glrvmPo9BA",
+    "video_file_size": 2939349,
+    "caption": "🤖 Figure 03 robot climbs stairs autonomously\n\nFigure released a video showing its humanoid robot Figure 03 climbing stairs fully autonomously. The company did not share technical details or allow independent verification of the demo.\n\nThe robot uses an updated AI model called Helix System 0, which adds vision to its previous proprioception-based control. Stereo cameras create a 3D map of the environment, letting the robot see the terrain and adjust its posture in real time.\n\nTraining happened entirely in simulation with reinforcement learning on random surfaces. Figure claims the skills transfer directly to the real robot without extra tuning.\n\n📊@tech",
+    "entities": [
+      {
+        "offset": 0,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5296447931627352804"
+      },
+      {
+        "offset": 3,
+        "length": 42,
+        "type": "bold"
+      },
+      {
+        "offset": 98,
+        "length": 44,
+        "type": "bold"
+      },
+      {
+        "offset": 278,
+        "length": 14,
+        "type": "bold"
+      },
+      {
+        "offset": 527,
+        "length": 22,
+        "type": "bold"
+      },
+      {
+        "offset": 654,
+        "length": 2,
+        "type": "bold"
+      },
+      {
+        "offset": 654,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5449841756596101801"
+      },
+      {
+        "offset": 656,
+        "length": 5,
+        "type": "mention"
+      },
+      {
+        "offset": 656,
+        "length": 5,
+        "type": "bold"
+      }
+    ],
+    "media_group_id": null,
+    "chat_id": -1004468214616,
+    "message_ids": [
+      355
+    ],
+    "update_ids": [
+      378304248
+    ],
+    "retry_count": 0
+  },
+  {
+    "type": "video",
+    "video_file_id": "BAACAgIAAyEFAAMBClOLWAACAWRqehBfhtxhPeYZG3kotVYdy5-JqwACuZ4AAuilwUtD3wsVvIxOWj0E",
+    "video_file_size": 2964924,
+    "caption": "😂 Top Meme on Runaway Agents\n\n📊@tech",
+    "entities": [
+      {
+        "offset": 3,
+        "length": 26,
+        "type": "bold"
+      },
+      {
+        "offset": 31,
+        "length": 2,
+        "type": "bold"
+      },
+      {
+        "offset": 31,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5449841756596101801"
+      },
+      {
+        "offset": 33,
+        "length": 5,
+        "type": "mention"
+      },
+      {
+        "offset": 33,
+        "length": 5,
+        "type": "bold"
+      }
+    ],
+    "media_group_id": "14291075834883085",
+    "chat_id": -1004468214616,
+    "message_ids": [
+      356
+    ],
+    "update_ids": [
+      378304249
+    ],
+    "retry_count": 0
+  },
+  {
+    "type": "photo",
+    "photo_file_ids": [
+      "AgACAgIAAyEFAAMBClOLWAACAWVqehBfIm_jYD_y2vzO6FGqdyXKZwACtx1rG-ilwUtqss2As3bG0AEAAwIAA3kAAz0E"
+    ],
+    "caption": "",
+    "entities": [],
+    "media_group_id": "14291075834883085",
+    "chat_id": -1004468214616,
+    "message_ids": [
+      357
+    ],
+    "update_ids": [
+      378304250
+    ],
+    "retry_count": 0
+  },
+  {
+    "type": "video",
+    "video_file_id": "BAACAgIAAyEFAAMBClOLWAACAWZqehBfvCocelIyznESIDD9okwe7gACup4AAuilwUuku_HcvheTiD0E",
+    "video_file_size": 14432985,
+    "caption": "",
+    "entities": [],
+    "media_group_id": "14291075834883085",
+    "chat_id": -1004468214616,
+    "message_ids": [
+      358
+    ],
+    "update_ids": [
+      378304251
+    ],
+    "retry_count": 0
+  }
+]
