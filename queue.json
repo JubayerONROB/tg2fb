@@ -1,1 +1,35 @@
-[]
+[
+  {
+    "type": "album",
+    "photo_file_ids": [
+      "AgACAgQAAyEFAAMBClOLWAACAV9qeeFLHplgX6UvaYWOz28mN04nSQAC9w9rG5JH0FMFNehIka7b2gEAAwIAA3kAAz0E",
+      "AgACAgQAAyEFAAMBClOLWAACAWBqeeFLcxnnqbpLdrWJm07aqkZ2TgAC-A9rG5JH0FPtiGIjY1BYHgEAAwIAA3kAAz0E"
+    ],
+    "caption": "This man spent $6,000 on a billboard promoting an 'AI' chatbot that is actually just him.\n\nTucker Bryant created ChatTJB as a joke and personally answered more than 30,000 questions, even drawing custom pictures for some users.\n\n@aipost 🏴",
+    "entities": [
+      {
+        "offset": 229,
+        "length": 7,
+        "type": "text_link",
+        "url": "https://t.me/aipost"
+      },
+      {
+        "offset": 237,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5431390559912614642"
+      }
+    ],
+    "media_group_id": "14290979422622917",
+    "chat_id": -1004468214616,
+    "message_ids": [
+      351,
+      352
+    ],
+    "update_ids": [
+      378304244,
+      378304245
+    ],
+    "retry_count": 0
+  }
+]
