@@ -1,45 +1,5 @@
 [
   {
-    "type": "video",
-    "video_file_id": "BAACAgQAAyEFAAMBClOLWAACAVxqeXpcP-P2VeW5ynOh62LsKy0EGwAC6CAAAu8owVNLU36GxRNXQz0E",
-    "video_file_size": 16973704,
-    "caption": "🗣Palantir CEO warns against banning Chinese AI in the US.\n\n\"We don't want to do what Europe did.\"  \n\n\"Europe said you can only buy technology from Europe. How's that worked out?\"  \n\nThe US needs competition to keep AI labs honest, not protectionism, per CNBC.\n\n@aipost 🏴",
-    "entities": [
-      {
-        "offset": 0,
-        "length": 2,
-        "type": "custom_emoji",
-        "custom_emoji_id": "5287468155738821335"
-      },
-      {
-        "offset": 2,
-        "length": 56,
-        "type": "bold"
-      },
-      {
-        "offset": 262,
-        "length": 7,
-        "type": "text_link",
-        "url": "https://t.me/aipost"
-      },
-      {
-        "offset": 270,
-        "length": 2,
-        "type": "custom_emoji",
-        "custom_emoji_id": "5431390559912614642"
-      }
-    ],
-    "media_group_id": null,
-    "chat_id": -1004468214616,
-    "message_ids": [
-      348
-    ],
-    "update_ids": [
-      378304241
-    ],
-    "retry_count": 0
-  },
-  {
     "type": "photo",
     "photo_file_ids": [
       "AgACAgQAAyEFAAMBClOLWAACAV1qeXpmbHg0skJ0LnwIHLXfdn3vyAACaRBrG-8owVNZkRKiRqtwXQEAAwIAA3kAAz0E"
