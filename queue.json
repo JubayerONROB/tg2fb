@@ -1,1 +1,130 @@
-[]
+[
+  {
+    "type": "photo",
+    "photo_file_ids": [
+      "AgACAgQAAyEFAAMBClOLWAACAVtqeXpXXafbtMLovfNukxV3LRfgUQACaBBrG-8owVMMjU9DtDKkBAEAAwIAA3gAAz0E"
+    ],
+    "caption": "🤖 OpenAI just bought a startup to make ChatGPT better at PowerPoint\n\nOpenAI has acquired NextSlide, a presentation startup founded roughly a year ago, and moved its entire team into ChatGPT.\n\nNextSlide built software that could take a simple prompt, notes, documents or research and turn them into editable presentations.\n\nThat’s exactly where ChatGPT has struggled. Its generated PowerPoint files have often looked like someone dumped text onto a bunch of white slides and called it a day. \n\n@aipost 🏴",
+    "entities": [
+      {
+        "offset": 0,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5397681122542893003"
+      },
+      {
+        "offset": 3,
+        "length": 65,
+        "type": "bold"
+      },
+      {
+        "offset": 494,
+        "length": 7,
+        "type": "text_link",
+        "url": "https://t.me/aipost"
+      },
+      {
+        "offset": 502,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5431390559912614642"
+      }
+    ],
+    "media_group_id": null,
+    "chat_id": -1004468214616,
+    "message_ids": [
+      347
+    ],
+    "update_ids": [
+      378304240
+    ],
+    "retry_count": 0
+  },
+  {
+    "type": "video",
+    "video_file_id": "BAACAgQAAyEFAAMBClOLWAACAVxqeXpcP-P2VeW5ynOh62LsKy0EGwAC6CAAAu8owVNLU36GxRNXQz0E",
+    "video_file_size": 16973704,
+    "caption": "🗣Palantir CEO warns against banning Chinese AI in the US.\n\n\"We don't want to do what Europe did.\"  \n\n\"Europe said you can only buy technology from Europe. How's that worked out?\"  \n\nThe US needs competition to keep AI labs honest, not protectionism, per CNBC.\n\n@aipost 🏴",
+    "entities": [
+      {
+        "offset": 0,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5287468155738821335"
+      },
+      {
+        "offset": 2,
+        "length": 56,
+        "type": "bold"
+      },
+      {
+        "offset": 262,
+        "length": 7,
+        "type": "text_link",
+        "url": "https://t.me/aipost"
+      },
+      {
+        "offset": 270,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5431390559912614642"
+      }
+    ],
+    "media_group_id": null,
+    "chat_id": -1004468214616,
+    "message_ids": [
+      348
+    ],
+    "update_ids": [
+      378304241
+    ],
+    "retry_count": 0
+  },
+  {
+    "type": "photo",
+    "photo_file_ids": [
+      "AgACAgQAAyEFAAMBClOLWAACAV1qeXpmbHg0skJ0LnwIHLXfdn3vyAACaRBrG-8owVNZkRKiRqtwXQEAAwIAA3kAAz0E"
+    ],
+    "caption": "🧠 AI just helped crack a 25-year-old math problem\n\nA Microsoft researcher revisited a theoretical problem in wireless communications that had been open since the early 2000s.\n\nThe challenge: how can a receiver recover the exact original message from a noisy signal when dozens of signals are interfering with each other?\n\nGPT-5.6 reportedly produced an initial proof in around 30 minutes. 🤯\n\nClaude Fable 5 then independently suggested a different approach, and the two models were used to challenge, simplify and improve the arguments.\n\nThe final proof uses a surprisingly simple idea: make an initial guess from the noisy signal, then repeatedly make small corrections until the exact message is recovered.\n\nWhat makes this important is that the new approach reaches the same fundamental recovery limit as the theoretically optimal method, but without its enormous computational cost.\n\nAI didn’t invent an entirely new branch of mathematics, it did something arguably just as interesting: it connected existing ideas in a way humans had missed for 25 years.\n\n@aipost 🏴",
+    "entities": [
+      {
+        "offset": 0,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5237889595894414384"
+      },
+      {
+        "offset": 3,
+        "length": 47,
+        "type": "bold"
+      },
+      {
+        "offset": 390,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5370745797786738962"
+      },
+      {
+        "offset": 1063,
+        "length": 7,
+        "type": "text_link",
+        "url": "https://t.me/aipost"
+      },
+      {
+        "offset": 1071,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5431390559912614642"
+      }
+    ],
+    "media_group_id": null,
+    "chat_id": -1004468214616,
+    "message_ids": [
+      349
+    ],
+    "update_ids": [
+      378304242
+    ],
+    "retry_count": 0
+  }
+]
