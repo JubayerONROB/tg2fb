@@ -1,46 +1,5 @@
 [
   {
-    "type": "photo",
-    "photo_file_ids": [
-      "AgACAgQAAyEFAAMBClOLWAACAVtqeXpXXafbtMLovfNukxV3LRfgUQACaBBrG-8owVMMjU9DtDKkBAEAAwIAA3gAAz0E"
-    ],
-    "caption": "🤖 OpenAI just bought a startup to make ChatGPT better at PowerPoint\n\nOpenAI has acquired NextSlide, a presentation startup founded roughly a year ago, and moved its entire team into ChatGPT.\n\nNextSlide built software that could take a simple prompt, notes, documents or research and turn them into editable presentations.\n\nThat’s exactly where ChatGPT has struggled. Its generated PowerPoint files have often looked like someone dumped text onto a bunch of white slides and called it a day. \n\n@aipost 🏴",
-    "entities": [
-      {
-        "offset": 0,
-        "length": 2,
-        "type": "custom_emoji",
-        "custom_emoji_id": "5397681122542893003"
-      },
-      {
-        "offset": 3,
-        "length": 65,
-        "type": "bold"
-      },
-      {
-        "offset": 494,
-        "length": 7,
-        "type": "text_link",
-        "url": "https://t.me/aipost"
-      },
-      {
-        "offset": 502,
-        "length": 2,
-        "type": "custom_emoji",
-        "custom_emoji_id": "5431390559912614642"
-      }
-    ],
-    "media_group_id": null,
-    "chat_id": -1004468214616,
-    "message_ids": [
-      347
-    ],
-    "update_ids": [
-      378304240
-    ],
-    "retry_count": 0
-  },
-  {
     "type": "video",
     "video_file_id": "BAACAgQAAyEFAAMBClOLWAACAVxqeXpcP-P2VeW5ynOh62LsKy0EGwAC6CAAAu8owVNLU36GxRNXQz0E",
     "video_file_size": 16973704,
