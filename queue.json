@@ -1,48 +1,5 @@
 [
   {
-    "type": "video",
-    "video_file_id": "BAACAgIAAyEFAAMBClOLWAACAWRqehBfhtxhPeYZG3kotVYdy5-JqwACuZ4AAuilwUtD3wsVvIxOWj0E",
-    "video_file_size": 2964924,
-    "caption": "😂 Top Meme on Runaway Agents\n\n📊@tech",
-    "entities": [
-      {
-        "offset": 3,
-        "length": 26,
-        "type": "bold"
-      },
-      {
-        "offset": 31,
-        "length": 2,
-        "type": "bold"
-      },
-      {
-        "offset": 31,
-        "length": 2,
-        "type": "custom_emoji",
-        "custom_emoji_id": "5449841756596101801"
-      },
-      {
-        "offset": 33,
-        "length": 5,
-        "type": "mention"
-      },
-      {
-        "offset": 33,
-        "length": 5,
-        "type": "bold"
-      }
-    ],
-    "media_group_id": "14291075834883085",
-    "chat_id": -1004468214616,
-    "message_ids": [
-      356
-    ],
-    "update_ids": [
-      378304249
-    ],
-    "retry_count": 0
-  },
-  {
     "type": "photo",
     "photo_file_ids": [
       "AgACAgIAAyEFAAMBClOLWAACAWVqehBfIm_jYD_y2vzO6FGqdyXKZwACtx1rG-ilwUtqss2As3bG0AEAAwIAA3kAAz0E"
