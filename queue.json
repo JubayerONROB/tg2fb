@@ -1,22 +1,5 @@
 [
   {
-    "type": "photo",
-    "photo_file_ids": [
-      "AgACAgIAAyEFAAMBClOLWAACAWVqehBfIm_jYD_y2vzO6FGqdyXKZwACtx1rG-ilwUtqss2As3bG0AEAAwIAA3kAAz0E"
-    ],
-    "caption": "",
-    "entities": [],
-    "media_group_id": "14291075834883085",
-    "chat_id": -1004468214616,
-    "message_ids": [
-      357
-    ],
-    "update_ids": [
-      378304250
-    ],
-    "retry_count": 0
-  },
-  {
     "type": "video",
     "video_file_id": "BAACAgIAAyEFAAMBClOLWAACAWZqehBfvCocelIyznESIDD9okwe7gACup4AAuilwUuku_HcvheTiD0E",
     "video_file_size": 14432985,
