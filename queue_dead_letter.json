@@ -1666,5 +1666,45 @@
       378304213
     ],
     "retry_count": 0
+  },
+  {
+    "type": "video",
+    "video_file_id": "BAACAgQAAyEFAAMBClOLWAACAW1qeybvpSEho0AAAd-acmNHzn1arS0AAmkdAAKSR9hTVw7klcCAWuI9BA",
+    "video_file_size": 53396776,
+    "caption": "🗣\"Superintelligence could transform the universe around goals that aren't ours.\"\n\nNick Bostrom, philosopher and founder of the Macrostrategy Research Initiative, warns that superintelligent AI could unleash unprecedented power.\n\nIt could solve humanity's biggest problems. Or create existential ones.\n\nThe same intelligence that unlocks abundance could determine the future.\n\n@aipost 🏴",
+    "entities": [
+      {
+        "offset": 0,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5287468155738821335"
+      },
+      {
+        "offset": 2,
+        "length": 79,
+        "type": "bold"
+      },
+      {
+        "offset": 377,
+        "length": 7,
+        "type": "text_link",
+        "url": "https://t.me/aipost"
+      },
+      {
+        "offset": 385,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5431390559912614642"
+      }
+    ],
+    "media_group_id": null,
+    "chat_id": -1004468214616,
+    "message_ids": [
+      365
+    ],
+    "update_ids": [
+      378304258
+    ],
+    "retry_count": 0
   }
 ]

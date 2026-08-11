@@ -1,1 +1,31 @@
-[]
+[
+  {
+    "type": "video",
+    "video_file_id": "BAACAgQAAyEFAAMBClOLWAACAW5qeyb4HXnUC8zqC-YdHBMbCHjvuAACcR0AApJH2FPGiOf5a1ReWz0E",
+    "video_file_size": 5296957,
+    "caption": "How AI market share has changed since ChatGPT launched in Nov '22.\n\n@aipost 🏴",
+    "entities": [
+      {
+        "offset": 68,
+        "length": 7,
+        "type": "text_link",
+        "url": "https://t.me/aipost"
+      },
+      {
+        "offset": 76,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5431390559912614642"
+      }
+    ],
+    "media_group_id": null,
+    "chat_id": -1004468214616,
+    "message_ids": [
+      366
+    ],
+    "update_ids": [
+      378304259
+    ],
+    "retry_count": 0
+  }
+]
