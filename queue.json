@@ -1,30 +1,34 @@
 [
   {
-    "type": "video",
-    "video_file_id": "BAACAgQAAyEFAAMBClOLWAACAW5qeyb4HXnUC8zqC-YdHBMbCHjvuAACcR0AApJH2FPGiOf5a1ReWz0E",
-    "video_file_size": 5296957,
-    "caption": "How AI market share has changed since ChatGPT launched in Nov '22.\n\n@aipost 🏴",
+    "type": "album",
+    "photo_file_ids": [
+      "AgACAgQAAyEFAAMBClOLWAACAW9qe0KUOQqcPpCqxnktT8zyGgHmfwACyQ5rG5JH2FOZRu3ke9t1DgEAAwIAA3kAAz0E",
+      "AgACAgQAAyEFAAMBClOLWAACAXBqe0KU5GhW_AzSEtLqnmbTpJR28gACyg5rG5JH2FPHaTR-gSylfwEAAwIAA3kAAz0E"
+    ],
+    "caption": "Roku launches a 24/7 channel filled with AI slop movies and shows\n\nThe new Fairground channel features AI-generated films and series, with AI-made advertisements from various companies also appearing between the content.\n\n@aipost 🏴",
     "entities": [
       {
-        "offset": 68,
+        "offset": 222,
         "length": 7,
         "type": "text_link",
         "url": "https://t.me/aipost"
       },
       {
-        "offset": 76,
+        "offset": 230,
         "length": 2,
         "type": "custom_emoji",
         "custom_emoji_id": "5431390559912614642"
       }
     ],
-    "media_group_id": null,
+    "media_group_id": "14291702948697397",
     "chat_id": -1004468214616,
     "message_ids": [
-      366
+      367,
+      368
     ],
     "update_ids": [
-      378304259
+      378304260,
+      378304261
     ],
     "retry_count": 0
   }
