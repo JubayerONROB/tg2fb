@@ -2,42 +2,6 @@
   {
     "type": "photo",
     "photo_file_ids": [
-      "AgACAgQAAyEFAAMBClOLWAACAWpqer5hBaiEGHHeyqJ6KOOqB9knrgACZg5rG5JH2FNZz8I4kNndrAEAAwIAA3cAAz0E"
-    ],
-    "caption": "🇺🇸 Bernie Sanders has written a letter to Sam Altman, Dario Amodei, and Mark Zuckerberg urging them to immediately pause all AI development in the interest of humanity. \n\nAnd he warns if they do not take appropriate action now, the US Senate will.\n\n@aipost 🏴",
-    "entities": [
-      {
-        "offset": 0,
-        "length": 4,
-        "type": "custom_emoji",
-        "custom_emoji_id": "5202021044105257611"
-      },
-      {
-        "offset": 251,
-        "length": 7,
-        "type": "text_link",
-        "url": "https://t.me/aipost"
-      },
-      {
-        "offset": 259,
-        "length": 2,
-        "type": "custom_emoji",
-        "custom_emoji_id": "5431390559912614642"
-      }
-    ],
-    "media_group_id": null,
-    "chat_id": -1004468214616,
-    "message_ids": [
-      362
-    ],
-    "update_ids": [
-      378304255
-    ],
-    "retry_count": 0
-  },
-  {
-    "type": "photo",
-    "photo_file_ids": [
       "AgACAgIAAyEFAAMBClOLWAACAWtqeuAgawrMQpUqf_ZvVTFwmoCl_gACBRdrG6toyEvkSldh6XuAWgEAAwIAA3kAAz0E"
     ],
     "caption": "🤖 AI Agent Exploits Gym Booking Flaw\n\nAn AI agent bypassed gym limits by exploiting a flaw in the booking software's API that let it cancel others' reservations without permission.\n\nThe agent worked for Andrew, fourth on the waiting list, and tested the exploit by canceling the first booking, moving Andrew up one spot. Attempts to undo this failed.\n\nRunning on OpenClaw with Anthropic's Claude, the case exposes the alignment problem between user intent and AI actions as agents gain autonomy.\n\nAndrew had the agent notify developers about the flaw via WhatsApp, a rare example of responsible AI disclosure.\n\n📊@tech",
