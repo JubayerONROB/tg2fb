@@ -1,1 +1,119 @@
-[]
+[
+  {
+    "type": "photo",
+    "photo_file_ids": [
+      "AgACAgQAAyEFAAMBClOLWAACAWhqer5WaEZwCKgw6BTgGYzabo8ZcQACNBBrG5JH0FOkinlMhF2ZnAEAAwIAA3cAAz0E"
+    ],
+    "caption": "❗️Demis Hassabis expects all human diseases to be cured in 20 years.\n\nThe Nobel-winning DeepMind founder has stepped down as CEO to become chairman and Alphabet’s chief scientist. He is freeing up time to focus on AGI and, above all, Isomorphic Labs’ mission to reinvent drug discovery and eliminate disease.\n\nHassabis has long said AI can cut the usual decade and billions required to design a drug down to months or weeks. With AlphaFold already solved, the same approach is now aimed at targeted treatments.\n\nHe believes AGI is close and wants space to shape what comes next rather than run day-to-day operations. One of AI’s most influential figures is now betting fully on a disease-free future.\n\n@aipost 🏴",
+    "entities": [
+      {
+        "offset": 0,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5289761612440310918"
+      },
+      {
+        "offset": 2,
+        "length": 66,
+        "type": "bold"
+      },
+      {
+        "offset": 702,
+        "length": 7,
+        "type": "text_link",
+        "url": "https://t.me/aipost"
+      },
+      {
+        "offset": 710,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5431390559912614642"
+      }
+    ],
+    "media_group_id": null,
+    "chat_id": -1004468214616,
+    "message_ids": [
+      360
+    ],
+    "update_ids": [
+      378304253
+    ],
+    "retry_count": 0
+  },
+  {
+    "type": "video",
+    "video_file_id": "BAACAgQAAyEFAAMBClOLWAACAWlqer5c1J_0-rV9X8753nhPQVKAwgACyx0AApJH0FMLnpE7oAT64j0E",
+    "video_file_size": 13279158,
+    "caption": "🗣Former Google CEO Eric Schmidt says a frontier AI model costs up to $500 million to build and is worth about six months:\n\n\"Are the scaling laws stopping?\"\n\n\"And the answer right now is no, which is unbelievable.\"\n\n\"A model costs $200 to $500 million, you release it, and it has a life expectancy of about six months.\"\n\n\"And then there's another one.\"\n\n\"And the competition between the leading players is so brutal, right, that they literally count in the number of weeks of value of these things, which costs hundreds of millions of dollars.\"\n\nSchmidt is talking about the build cost. There is a second cost underneath it, which is re-proving each replacement, because whatever testing cleared one version does not carry over to the next.\n\nA company that standardizes on a frontier model this year is signing up to do that re-approval work twice a year.\n\n@aipost 🏴",
+    "entities": [
+      {
+        "offset": 0,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5287468155738821335"
+      },
+      {
+        "offset": 2,
+        "length": 120,
+        "type": "bold"
+      },
+      {
+        "offset": 857,
+        "length": 7,
+        "type": "text_link",
+        "url": "https://t.me/aipost"
+      },
+      {
+        "offset": 865,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5431390559912614642"
+      }
+    ],
+    "media_group_id": null,
+    "chat_id": -1004468214616,
+    "message_ids": [
+      361
+    ],
+    "update_ids": [
+      378304254
+    ],
+    "retry_count": 0
+  },
+  {
+    "type": "photo",
+    "photo_file_ids": [
+      "AgACAgQAAyEFAAMBClOLWAACAWpqer5hBaiEGHHeyqJ6KOOqB9knrgACZg5rG5JH2FNZz8I4kNndrAEAAwIAA3cAAz0E"
+    ],
+    "caption": "🇺🇸 Bernie Sanders has written a letter to Sam Altman, Dario Amodei, and Mark Zuckerberg urging them to immediately pause all AI development in the interest of humanity. \n\nAnd he warns if they do not take appropriate action now, the US Senate will.\n\n@aipost 🏴",
+    "entities": [
+      {
+        "offset": 0,
+        "length": 4,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5202021044105257611"
+      },
+      {
+        "offset": 251,
+        "length": 7,
+        "type": "text_link",
+        "url": "https://t.me/aipost"
+      },
+      {
+        "offset": 259,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5431390559912614642"
+      }
+    ],
+    "media_group_id": null,
+    "chat_id": -1004468214616,
+    "message_ids": [
+      362
+    ],
+    "update_ids": [
+      378304255
+    ],
+    "retry_count": 0
+  }
+]
