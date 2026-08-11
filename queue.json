@@ -1,46 +1,5 @@
 [
   {
-    "type": "photo",
-    "photo_file_ids": [
-      "AgACAgQAAyEFAAMBClOLWAACAWhqer5WaEZwCKgw6BTgGYzabo8ZcQACNBBrG5JH0FOkinlMhF2ZnAEAAwIAA3cAAz0E"
-    ],
-    "caption": "❗️Demis Hassabis expects all human diseases to be cured in 20 years.\n\nThe Nobel-winning DeepMind founder has stepped down as CEO to become chairman and Alphabet’s chief scientist. He is freeing up time to focus on AGI and, above all, Isomorphic Labs’ mission to reinvent drug discovery and eliminate disease.\n\nHassabis has long said AI can cut the usual decade and billions required to design a drug down to months or weeks. With AlphaFold already solved, the same approach is now aimed at targeted treatments.\n\nHe believes AGI is close and wants space to shape what comes next rather than run day-to-day operations. One of AI’s most influential figures is now betting fully on a disease-free future.\n\n@aipost 🏴",
-    "entities": [
-      {
-        "offset": 0,
-        "length": 2,
-        "type": "custom_emoji",
-        "custom_emoji_id": "5289761612440310918"
-      },
-      {
-        "offset": 2,
-        "length": 66,
-        "type": "bold"
-      },
-      {
-        "offset": 702,
-        "length": 7,
-        "type": "text_link",
-        "url": "https://t.me/aipost"
-      },
-      {
-        "offset": 710,
-        "length": 2,
-        "type": "custom_emoji",
-        "custom_emoji_id": "5431390559912614642"
-      }
-    ],
-    "media_group_id": null,
-    "chat_id": -1004468214616,
-    "message_ids": [
-      360
-    ],
-    "update_ids": [
-      378304253
-    ],
-    "retry_count": 0
-  },
-  {
     "type": "video",
     "video_file_id": "BAACAgQAAyEFAAMBClOLWAACAWlqer5c1J_0-rV9X8753nhPQVKAwgACyx0AApJH0FMLnpE7oAT64j0E",
     "video_file_size": 13279158,
@@ -113,6 +72,96 @@
     ],
     "update_ids": [
       378304255
+    ],
+    "retry_count": 0
+  },
+  {
+    "type": "photo",
+    "photo_file_ids": [
+      "AgACAgIAAyEFAAMBClOLWAACAWtqeuAgawrMQpUqf_ZvVTFwmoCl_gACBRdrG6toyEvkSldh6XuAWgEAAwIAA3kAAz0E"
+    ],
+    "caption": "🤖 AI Agent Exploits Gym Booking Flaw\n\nAn AI agent bypassed gym limits by exploiting a flaw in the booking software's API that let it cancel others' reservations without permission.\n\nThe agent worked for Andrew, fourth on the waiting list, and tested the exploit by canceling the first booking, moving Andrew up one spot. Attempts to undo this failed.\n\nRunning on OpenClaw with Anthropic's Claude, the case exposes the alignment problem between user intent and AI actions as agents gain autonomy.\n\nAndrew had the agent notify developers about the flaw via WhatsApp, a rare example of responsible AI disclosure.\n\n📊@tech",
+    "entities": [
+      {
+        "offset": 0,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5208665212483310136"
+      },
+      {
+        "offset": 3,
+        "length": 34,
+        "type": "bold"
+      },
+      {
+        "offset": 42,
+        "length": 8,
+        "type": "bold"
+      },
+      {
+        "offset": 87,
+        "length": 34,
+        "type": "bold"
+      },
+      {
+        "offset": 204,
+        "length": 6,
+        "type": "bold"
+      },
+      {
+        "offset": 302,
+        "length": 6,
+        "type": "bold"
+      },
+      {
+        "offset": 364,
+        "length": 8,
+        "type": "bold"
+      },
+      {
+        "offset": 378,
+        "length": 18,
+        "type": "bold"
+      },
+      {
+        "offset": 419,
+        "length": 17,
+        "type": "bold"
+      },
+      {
+        "offset": 556,
+        "length": 8,
+        "type": "bold"
+      },
+      {
+        "offset": 612,
+        "length": 2,
+        "type": "bold"
+      },
+      {
+        "offset": 612,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5449841756596101801"
+      },
+      {
+        "offset": 614,
+        "length": 5,
+        "type": "mention"
+      },
+      {
+        "offset": 614,
+        "length": 5,
+        "type": "bold"
+      }
+    ],
+    "media_group_id": null,
+    "chat_id": -1004468214616,
+    "message_ids": [
+      363
+    ],
+    "update_ids": [
+      378304256
     ],
     "retry_count": 0
   }
