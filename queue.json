@@ -2,36 +2,6 @@
   {
     "type": "photo",
     "photo_file_ids": [
-      "AgACAgQAAyEFAAMBClOLWAACAXxqfKJV2xVmVVxcdXZFpWI545QAAccAAqgQaxsJIOFTh1Sc2NByZScBAAMCAAN3AAM9BA"
-    ],
-    "caption": "\"Go west, young man\"\n\n@aipost 🏴",
-    "entities": [
-      {
-        "offset": 22,
-        "length": 7,
-        "type": "text_link",
-        "url": "https://t.me/aipost"
-      },
-      {
-        "offset": 30,
-        "length": 2,
-        "type": "custom_emoji",
-        "custom_emoji_id": "5431390559912614642"
-      }
-    ],
-    "media_group_id": null,
-    "chat_id": -1004468214616,
-    "message_ids": [
-      380
-    ],
-    "update_ids": [
-      378304273
-    ],
-    "retry_count": 0
-  },
-  {
-    "type": "photo",
-    "photo_file_ids": [
       "AgACAgQAAyEFAAMBClOLWAACAX1qfLA_PVzPHL58c3oMVhVIcMrO1wACqRBrGwkg4VNzejXpumu8NwEAAwIAA3kAAz0E"
     ],
     "caption": "The billionaire apocalypse plan is getting wild 😬\n\nAs the apocalypse gets closer… apparently the billionaires are preparing their own escape plan.\n\nA group of ultra-rich individuals has reportedly acquired 32,000 hectares in Argentina and they’re already building houses, installing solar panels, constructing a private runway, and even developing a private internet network powered by AI.\n\nAnd here’s the wildest part: other billionaires reportedly want in, but you can’t simply buy your way into the club. Access is supposedly limited to people with personal connections.\n\nSo when the apocalypse finally arrives… Billionaires get the ranch. AI gets the servers. And the rest of us? \n\nSource.\n\n@aipost 🏴",
