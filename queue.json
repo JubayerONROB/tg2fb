@@ -2,57 +2,6 @@
   {
     "type": "photo",
     "photo_file_ids": [
-      "AgACAgQAAyEFAAMBClOLWAACAXtqfKJOKedigf3FeZJblQ_O64IPSgACyw5rG5JH2FOvHx6MpgyDnAEAAwIAA3kAAz0E"
-    ],
-    "caption": "❗️Nvidia, $NVDA, is set to announce a $500 billion AI financing effort in partnership with Apollo, Blackstone, BlackRock, Goldman Sachs, KKR, and Brookfield, per CNBC.\n\nDetails include:\n\n1. The move comes as tech companies are increasingly looking to raise debt to finance AI projects\n\n2. For Nvidia, the effort could help its biggest customers secure the financing needed to buy its GPUs, build data centers, and lock in long-term electricity capacity\n\n3. The deal could be announced as soon as today, sources say\n\nThe AI buildout is prompting a historic wave of debt issuance.\n\n@aipost 🏴",
-    "entities": [
-      {
-        "offset": 0,
-        "length": 2,
-        "type": "custom_emoji",
-        "custom_emoji_id": "5289761612440310918"
-      },
-      {
-        "offset": 10,
-        "length": 5,
-        "type": "cashtag"
-      },
-      {
-        "offset": 169,
-        "length": 16,
-        "type": "bold"
-      },
-      {
-        "offset": 516,
-        "length": 62,
-        "type": "bold"
-      },
-      {
-        "offset": 580,
-        "length": 7,
-        "type": "text_link",
-        "url": "https://t.me/aipost"
-      },
-      {
-        "offset": 588,
-        "length": 2,
-        "type": "custom_emoji",
-        "custom_emoji_id": "5431390559912614642"
-      }
-    ],
-    "media_group_id": null,
-    "chat_id": -1004468214616,
-    "message_ids": [
-      379
-    ],
-    "update_ids": [
-      378304272
-    ],
-    "retry_count": 0
-  },
-  {
-    "type": "photo",
-    "photo_file_ids": [
       "AgACAgQAAyEFAAMBClOLWAACAXxqfKJV2xVmVVxcdXZFpWI545QAAccAAqgQaxsJIOFTh1Sc2NByZScBAAMCAAN3AAM9BA"
     ],
     "caption": "\"Go west, young man\"\n\n@aipost 🏴",
@@ -77,6 +26,58 @@
     ],
     "update_ids": [
       378304273
+    ],
+    "retry_count": 0
+  },
+  {
+    "type": "photo",
+    "photo_file_ids": [
+      "AgACAgQAAyEFAAMBClOLWAACAX1qfLA_PVzPHL58c3oMVhVIcMrO1wACqRBrGwkg4VNzejXpumu8NwEAAwIAA3kAAz0E"
+    ],
+    "caption": "The billionaire apocalypse plan is getting wild 😬\n\nAs the apocalypse gets closer… apparently the billionaires are preparing their own escape plan.\n\nA group of ultra-rich individuals has reportedly acquired 32,000 hectares in Argentina and they’re already building houses, installing solar panels, constructing a private runway, and even developing a private internet network powered by AI.\n\nAnd here’s the wildest part: other billionaires reportedly want in, but you can’t simply buy your way into the club. Access is supposedly limited to people with personal connections.\n\nSo when the apocalypse finally arrives… Billionaires get the ranch. AI gets the servers. And the rest of us? \n\nSource.\n\n@aipost 🏴",
+    "entities": [
+      {
+        "offset": 0,
+        "length": 48,
+        "type": "bold"
+      },
+      {
+        "offset": 48,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5372815907598899227"
+      },
+      {
+        "offset": 576,
+        "length": 109,
+        "type": "bold"
+      },
+      {
+        "offset": 687,
+        "length": 6,
+        "type": "text_link",
+        "url": "https://www.golem.de/news/argentina-the-argentine-ranch-where-tech-ceos-plan-to-ride-out-the-apocalypse-2608-211779.html"
+      },
+      {
+        "offset": 696,
+        "length": 7,
+        "type": "text_link",
+        "url": "https://t.me/aipost"
+      },
+      {
+        "offset": 704,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5431390559912614642"
+      }
+    ],
+    "media_group_id": null,
+    "chat_id": -1004468214616,
+    "message_ids": [
+      381
+    ],
+    "update_ids": [
+      378304274
     ],
     "retry_count": 0
   }
