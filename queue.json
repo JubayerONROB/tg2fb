@@ -1,57 +1,5 @@
 [
   {
-    "type": "photo",
-    "photo_file_ids": [
-      "AgACAgQAAyEFAAMBClOLWAACAXRqe_qBxusIVVioLzIc_PhDyoqupgACzQ5rG5JH2FP8ZJeXZAOH5gEAAwIAA3gAAz0E"
-    ],
-    "caption": "❗️OpenAI may have just picked a fight with the White House\n\nOpenAI hired Dean Ball, a former Trump administration AI policy official, to lead its new “strategic futures” team.\n\nThe problem? Some White House officials apparently aren’t fans.\n\nBall has publicly criticized parts of the administration’s AI strategy, including its approach to Chinese AI models. Now, officials reportedly worry that bringing him into OpenAI could damage the company’s unusually close relationship with the Trump administration.\n\nOne White House official reportedly called Ball a “nuisance” and questioned why OpenAI hired him.\n\nBall, meanwhile, has described himself as a key drafter of the administration’s AI Action Plan, a claim some former colleagues strongly dispute. \n\nAnd the timing couldn’t be more interesting. Washington and the AI giants are already negotiating how the government should test powerful models for cybersecurity and safety before release. OpenAI is right in the middle of those discussions.\n\nSo now OpenAI has to play a very delicate game: Keep Washington happy… while employing someone who has been publicly taking shots at Washington’s AI policy. \n\nSource.\n\n@aipost 🏴",
-    "entities": [
-      {
-        "offset": 0,
-        "length": 2,
-        "type": "custom_emoji",
-        "custom_emoji_id": "5289761612440310918"
-      },
-      {
-        "offset": 2,
-        "length": 56,
-        "type": "bold"
-      },
-      {
-        "offset": 998,
-        "length": 157,
-        "type": "bold"
-      },
-      {
-        "offset": 1157,
-        "length": 6,
-        "type": "text_link",
-        "url": "https://nypost.com/2026/08/10/business/openai-risks-white-house-relationship-with-hiring-of-nuisance-ai-policy-executive-sources/?utm_source=twitter&utm_campaign=nypost&utm_medium=social"
-      },
-      {
-        "offset": 1166,
-        "length": 7,
-        "type": "text_link",
-        "url": "https://t.me/aipost"
-      },
-      {
-        "offset": 1174,
-        "length": 2,
-        "type": "custom_emoji",
-        "custom_emoji_id": "5431390559912614642"
-      }
-    ],
-    "media_group_id": null,
-    "chat_id": -1004468214616,
-    "message_ids": [
-      372
-    ],
-    "update_ids": [
-      378304265
-    ],
-    "retry_count": 0
-  },
-  {
     "type": "video",
     "video_file_id": "BAACAgQAAyEFAAMBClOLWAACAXVqe_qQtLr2Ym7LW-huo5M-DQ3oWQACdh0AApJH2FNj9MKWmr5g0z0E",
     "video_file_size": 4066094,
