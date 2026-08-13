@@ -1,44 +1,5 @@
 [
   {
-    "type": "album",
-    "photo_file_ids": [
-      "AgACAgQAAyEFAAMBClOLWAACAYJqfVkrUd9EQktoETjZDImzv31-FAAC_w5rGwkg6VMkDgMP3Hd0MgEAAwIAA3gAAz0E",
-      "AgACAgQAAyEFAAMBClOLWAACAYNqfVkrmCRDd5S6LI-yNsyB1q8EkQADD2sbCSDpU8r3vmpPLtW3AQADAgADeQADPQQ"
-    ],
-    "caption": "🇺🇸 Texas is temporarily banning over 1,800 AI data centers from grid connections after requests reached 474GW.\n\n@aipost 🏴",
-    "entities": [
-      {
-        "offset": 0,
-        "length": 4,
-        "type": "custom_emoji",
-        "custom_emoji_id": "5202021044105257611"
-      },
-      {
-        "offset": 114,
-        "length": 7,
-        "type": "text_link",
-        "url": "https://t.me/aipost"
-      },
-      {
-        "offset": 122,
-        "length": 2,
-        "type": "custom_emoji",
-        "custom_emoji_id": "5431390559912614642"
-      }
-    ],
-    "media_group_id": "14292797787756069",
-    "chat_id": -1004468214616,
-    "message_ids": [
-      386,
-      387
-    ],
-    "update_ids": [
-      378304279,
-      378304280
-    ],
-    "retry_count": 0
-  },
-  {
     "type": "video",
     "video_file_id": "BAACAgIAAyEFAAMBClOLWAACAYRqfXpt0XlmmaKS7vQAAdB0uh9cGbkAAguhAAJ29elLZvuZHrP_3Gw9BA",
     "video_file_size": 42154569,
