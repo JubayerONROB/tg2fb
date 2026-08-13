@@ -1,52 +1,5 @@
 [
   {
-    "type": "photo",
-    "photo_file_ids": [
-      "AgACAgQAAyEFAAMBClOLWAACAYFqfUkHvXRTYwajb37tKdRqTG_LcgAC_g5rGwkg6VNV2vKO2B_0oQEAAwIAA3kAAz0E"
-    ],
-    "caption": "Google just gave AI a medical residency 🤯\n\nDoctors might want to pay attention to this one.\n\nGoogle researchers have been training an AI doctor by throwing it into thousands of simulated medical encounters, not simple exam questions, but long, messy conversations where the patient can be difficult, symptoms can be misleading, and the correct diagnosis isn’t obvious.\n\nThe AI has to take a history, ask follow-up questions, form hypotheses, use medical tools and make decisions over up to 60 turns of conversation.\n\nAnd they deliberately made the patients difficult. Some exaggerate their symptoms, some challenge the doctor, and others simply refuse to follow medical advice.\n\nThe goal is to teach the model something traditional medical benchmarks can’t: how to actually think through a clinical case without jumping to the first diagnosis.\n\nThe results are pretty insane. The system reduced missed red flags by 31% and reached 88% diagnostic accuracy, including a 7% improvement in complex, adversarial cases.\n\nIn blinded comparisons with board-certified clinicians, experts preferred the AI agent 87.6% of the time.\n\nSource. \n\n@aipost 🏴",
-    "entities": [
-      {
-        "offset": 0,
-        "length": 40,
-        "type": "bold"
-      },
-      {
-        "offset": 40,
-        "length": 2,
-        "type": "custom_emoji",
-        "custom_emoji_id": "5370745797786738962"
-      },
-      {
-        "offset": 1123,
-        "length": 8,
-        "type": "text_link",
-        "url": "https://www.alphaxiv.org/pdf/2608.07418"
-      },
-      {
-        "offset": 1133,
-        "length": 7,
-        "type": "text_link",
-        "url": "https://t.me/aipost"
-      },
-      {
-        "offset": 1141,
-        "length": 2,
-        "type": "custom_emoji",
-        "custom_emoji_id": "5431390559912614642"
-      }
-    ],
-    "media_group_id": null,
-    "chat_id": -1004468214616,
-    "message_ids": [
-      385
-    ],
-    "update_ids": [
-      378304278
-    ],
-    "retry_count": 0
-  },
-  {
     "type": "album",
     "photo_file_ids": [
       "AgACAgQAAyEFAAMBClOLWAACAYJqfVkrUd9EQktoETjZDImzv31-FAAC_w5rGwkg6VMkDgMP3Hd0MgEAAwIAA3gAAz0E",
