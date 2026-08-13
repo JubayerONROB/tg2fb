@@ -1746,5 +1746,64 @@
       378304269
     ],
     "retry_count": 0
+  },
+  {
+    "type": "video",
+    "video_file_id": "BAACAgIAAyEFAAMBClOLWAACAYRqfXpt0XlmmaKS7vQAAdB0uh9cGbkAAguhAAJ29elLZvuZHrP_3Gw9BA",
+    "video_file_size": 42154569,
+    "caption": "🤖 xAI Releases Grok 4.6 with Coding Focus\n\nThe new flagship model Grok 4.6 targets coding and agents, scoring 69.9% on CursorBench and 61.3% on FrontierCode, close to GPT-5.6 Sol and Fable 5.\n\nGrok 4.6 is available via API, Cursor, Grok Build, and API DS Lab, keeping the same pricing at $2/M input and $6/M output.\n\n📊@tech",
+    "entities": [
+      {
+        "offset": 0,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5208665212483310136"
+      },
+      {
+        "offset": 3,
+        "length": 39,
+        "type": "bold"
+      },
+      {
+        "offset": 67,
+        "length": 8,
+        "type": "bold"
+      },
+      {
+        "offset": 194,
+        "length": 8,
+        "type": "bold"
+      },
+      {
+        "offset": 318,
+        "length": 2,
+        "type": "bold"
+      },
+      {
+        "offset": 318,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5449841756596101801"
+      },
+      {
+        "offset": 320,
+        "length": 5,
+        "type": "mention"
+      },
+      {
+        "offset": 320,
+        "length": 5,
+        "type": "bold"
+      }
+    ],
+    "media_group_id": null,
+    "chat_id": -1004468214616,
+    "message_ids": [
+      388
+    ],
+    "update_ids": [
+      378304281
+    ],
+    "retry_count": 0
   }
 ]
