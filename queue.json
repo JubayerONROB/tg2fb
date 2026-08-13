@@ -2,51 +2,6 @@
   {
     "type": "album",
     "photo_file_ids": [
-      "AgACAgQAAyEFAAMBClOLWAACAYdqfc9cSu4F_H0b_pFvuNSd282VoAACBg9rGwkg6VO_1bzse0nmdQEAAwIAA3kAAz0E",
-      "AgACAgQAAyEFAAMBClOLWAACAYhqfc9clReESAIydcYFob8jfxoQ0gACBw9rGwkg6VNGWzjVsJ9kdwEAAwIAA3kAAz0E",
-      "AgACAgQAAyEFAAMBClOLWAACAYlqfc9c4B8Obo54RYSA_t6o6XDkhgACCA9rGwkg6VO27fSOkz_EjQEAAwIAA3kAAz0E",
-      "AgACAgQAAyEFAAMBClOLWAACAYpqfc9cKFdbNON56H6fcG1ta79ZPQACCQ9rGwkg6VNMioHRplJflwEAAwIAA3kAAz0E"
-    ],
-    "caption": "🇺🇸 31 members of Congress have written a letter to Sam Altman demanding OpenAI disclose additional information about the Hugging Face incident, release the relevant logs, and answer detailed oversight questions.\n\n@aipost 🏴",
-    "entities": [
-      {
-        "offset": 0,
-        "length": 4,
-        "type": "custom_emoji",
-        "custom_emoji_id": "5202021044105257611"
-      },
-      {
-        "offset": 215,
-        "length": 7,
-        "type": "text_link",
-        "url": "https://t.me/aipost"
-      },
-      {
-        "offset": 223,
-        "length": 2,
-        "type": "custom_emoji",
-        "custom_emoji_id": "5431390559912614642"
-      }
-    ],
-    "media_group_id": "14293039841948165",
-    "chat_id": -1004468214616,
-    "message_ids": [
-      391,
-      392,
-      393,
-      394
-    ],
-    "update_ids": [
-      378304284,
-      378304285,
-      378304286,
-      378304287
-    ],
-    "retry_count": 0
-  },
-  {
-    "type": "album",
-    "photo_file_ids": [
       "AgACAgQAAyEFAAMBClOLWAACAYtqfc9uRwQ2mJ9rTMgXdJOCKL_ybgACAw9rGwkg6VP2FJYRdJACOQEAAwIAA3gAAz0E",
       "AgACAgQAAyEFAAMBClOLWAACAYxqfc9uKwAB1nUtyfUre4s3e14MC1QAAgQPaxsJIOlT1bsYZ1Iq4IIBAAMCAAN4AAM9BA"
     ],
@@ -86,6 +41,150 @@
     "update_ids": [
       378304288,
       378304289
+    ],
+    "retry_count": 0
+  },
+  {
+    "type": "photo",
+    "photo_file_ids": [
+      "AgACAgIAAyEFAAMBClOLWAACAY1qfes5Z0QISLTedwqVsL79mDX9HwACOR5rG3b16UuxhB5mskD-EAEAAwIAA3gAAz0E"
+    ],
+    "caption": "🤖 OpenAI Loses Key Ethics and Safety Leaders\n\nIn the past month, OpenAI saw several high-profile departures, including Chloe Bakalar, its sole in-house AI ethics expert, and Brad Lightcap, the COO who scaled the commercial team from 50 to over 700 employees. Johannes Heideke, head of Safety Systems, and Josh Achiam, former Mission Alignment lead, also left.\n\nOpenAI builds advanced AI systems with a focus on safety, ethics, and alignment. These roles are critical for managing risks as AI capabilities grow.\n\nThe exits come at a sensitive time when autonomous AI systems capable of hacking infrastructure are under development. Losing key safety and ethics staff raises questions about the company’s internal stability.\n\n📊@tech",
+    "entities": [
+      {
+        "offset": 0,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5397681122542893003"
+      },
+      {
+        "offset": 3,
+        "length": 42,
+        "type": "bold"
+      },
+      {
+        "offset": 120,
+        "length": 13,
+        "type": "bold"
+      },
+      {
+        "offset": 175,
+        "length": 13,
+        "type": "bold"
+      },
+      {
+        "offset": 260,
+        "length": 16,
+        "type": "bold"
+      },
+      {
+        "offset": 306,
+        "length": 11,
+        "type": "bold"
+      },
+      {
+        "offset": 362,
+        "length": 6,
+        "type": "bold"
+      },
+      {
+        "offset": 553,
+        "length": 55,
+        "type": "bold"
+      },
+      {
+        "offset": 725,
+        "length": 2,
+        "type": "bold"
+      },
+      {
+        "offset": 725,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5449841756596101801"
+      },
+      {
+        "offset": 727,
+        "length": 5,
+        "type": "mention"
+      },
+      {
+        "offset": 727,
+        "length": 5,
+        "type": "bold"
+      }
+    ],
+    "media_group_id": null,
+    "chat_id": -1004468214616,
+    "message_ids": [
+      397
+    ],
+    "update_ids": [
+      378304290
+    ],
+    "retry_count": 0
+  },
+  {
+    "type": "video",
+    "video_file_id": "BAACAgIAAyEFAAMBClOLWAACAY5qfes5Fvy8YNTTakxF6qh9I9sY-wACc6QAAnb14Uvyy5IOmnepuT0E",
+    "video_file_size": 11097175,
+    "caption": "🤖 Activists Protest Outside OpenAI\n\nActivists from STOP THE AI RACE have protested outside the OpenAI office for nearly three weeks after an incident with HuggingFace.\n\nThey warn that AI could turn against its creators and call for responsible development.\n\nTheir message: unchecked AI progress risks backfiring on its.\n\n📊@tech",
+    "entities": [
+      {
+        "offset": 0,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5397681122542893003"
+      },
+      {
+        "offset": 3,
+        "length": 32,
+        "type": "bold"
+      },
+      {
+        "offset": 52,
+        "length": 16,
+        "type": "bold"
+      },
+      {
+        "offset": 96,
+        "length": 6,
+        "type": "bold"
+      },
+      {
+        "offset": 185,
+        "length": 34,
+        "type": "bold"
+      },
+      {
+        "offset": 322,
+        "length": 2,
+        "type": "bold"
+      },
+      {
+        "offset": 322,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5449841756596101801"
+      },
+      {
+        "offset": 324,
+        "length": 5,
+        "type": "mention"
+      },
+      {
+        "offset": 324,
+        "length": 5,
+        "type": "bold"
+      }
+    ],
+    "media_group_id": null,
+    "chat_id": -1004468214616,
+    "message_ids": [
+      398
+    ],
+    "update_ids": [
+      378304291
     ],
     "retry_count": 0
   }
