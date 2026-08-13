@@ -1,50 +1,5 @@
 [
   {
-    "type": "album",
-    "photo_file_ids": [
-      "AgACAgQAAyEFAAMBClOLWAACAYtqfc9uRwQ2mJ9rTMgXdJOCKL_ybgACAw9rGwkg6VP2FJYRdJACOQEAAwIAA3gAAz0E",
-      "AgACAgQAAyEFAAMBClOLWAACAYxqfc9uKwAB1nUtyfUre4s3e14MC1QAAgQPaxsJIOlT1bsYZ1Iq4IIBAAMCAAN4AAM9BA"
-    ],
-    "caption": "❗️OpenAI’s head of ethics just quit after less than a year as AI ethics lead, with no replacement reported.\n\nShe had been the company’s only dedicated ethicist, focused on model development, human-AI interaction and machine consciousness.\n\nHer exit follows July departures by safety systems head Johannes Heidecke and chief futurist Joshua Achiam, who previously led OpenAI’s mission-focused work.\n\nOpenAI told the FT that ethics should not sit with one owner or group, saying those considerations run across research and model-building work.\n\nSource.\n\n@aipost 🏴",
-    "entities": [
-      {
-        "offset": 0,
-        "length": 2,
-        "type": "custom_emoji",
-        "custom_emoji_id": "5289761612440310918"
-      },
-      {
-        "offset": 544,
-        "length": 6,
-        "type": "text_link",
-        "url": "https://www.ft.com/content/e49dfb75-f841-4466-a577-f7aaff8779a0?syn-25a6b1a6=1"
-      },
-      {
-        "offset": 553,
-        "length": 7,
-        "type": "text_link",
-        "url": "https://t.me/aipost"
-      },
-      {
-        "offset": 561,
-        "length": 2,
-        "type": "custom_emoji",
-        "custom_emoji_id": "5431390559912614642"
-      }
-    ],
-    "media_group_id": "14293039991973733",
-    "chat_id": -1004468214616,
-    "message_ids": [
-      395,
-      396
-    ],
-    "update_ids": [
-      378304288,
-      378304289
-    ],
-    "retry_count": 0
-  },
-  {
     "type": "photo",
     "photo_file_ids": [
       "AgACAgIAAyEFAAMBClOLWAACAY1qfes5Z0QISLTedwqVsL79mDX9HwACOR5rG3b16UuxhB5mskD-EAEAAwIAA3gAAz0E"
@@ -185,6 +140,55 @@
     ],
     "update_ids": [
       378304291
+    ],
+    "retry_count": 0
+  },
+  {
+    "type": "album",
+    "photo_file_ids": [
+      "AgACAgQAAyEFAAMBClOLWAACAY9qfflzFu5I0CdjLwmoJ4-JVf0f3wACcA9rG9ma8VOc3TXdpOOMYgEAAwIAA3cAAz0E",
+      "AgACAgQAAyEFAAMBClOLWAACAZBqfflzYB1PJw4PBLXhH0wb8nr8OAACcQ9rG9ma8VOECKWeUqQqUwEAAwIAA3cAAz0E"
+    ],
+    "caption": "DeepSeek just dropped V4 Pro 🚀\n\nDeepSeek is giving its latest models a serious Agent upgrade, with flexible reasoning that scales from quick answers to complex tasks.\n\nV4 Pro and V4 Flash now support low, high, and max reasoning effort, while V4 Pro gets native OpenAI Responses API support and one-click Codex setup.\n\nAnd there’s a pricing twist: DeepSeek is introducing peak and off-peak API rates, with off-peak usage costing 50% less.\n\n@aipost 🏴",
+    "entities": [
+      {
+        "offset": 0,
+        "length": 29,
+        "type": "bold"
+      },
+      {
+        "offset": 29,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5316571734604790521"
+      },
+      {
+        "offset": 430,
+        "length": 8,
+        "type": "bold"
+      },
+      {
+        "offset": 441,
+        "length": 7,
+        "type": "text_link",
+        "url": "https://t.me/aipost"
+      },
+      {
+        "offset": 449,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5431390559912614642"
+      }
+    ],
+    "media_group_id": "14293126041536669",
+    "chat_id": -1004468214616,
+    "message_ids": [
+      399,
+      400
+    ],
+    "update_ids": [
+      378304292,
+      378304293
     ],
     "retry_count": 0
   }
