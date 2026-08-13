@@ -1,50 +1,42 @@
 [
   {
-    "type": "album",
+    "type": "photo",
     "photo_file_ids": [
-      "AgACAgQAAyEFAAMBClOLWAACAY9qfflzFu5I0CdjLwmoJ4-JVf0f3wACcA9rG9ma8VOc3TXdpOOMYgEAAwIAA3cAAz0E",
-      "AgACAgQAAyEFAAMBClOLWAACAZBqfflzYB1PJw4PBLXhH0wb8nr8OAACcQ9rG9ma8VOECKWeUqQqUwEAAwIAA3cAAz0E"
+      "AgACAgQAAyEFAAMBClOLWAACAZFqfijhmwWLuWMq-QI8wh1fFOFvHAACURBrG9ma8VNZnF1wcnShDQEAAwIAA3kAAz0E"
     ],
-    "caption": "DeepSeek just dropped V4 Pro 🚀\n\nDeepSeek is giving its latest models a serious Agent upgrade, with flexible reasoning that scales from quick answers to complex tasks.\n\nV4 Pro and V4 Flash now support low, high, and max reasoning effort, while V4 Pro gets native OpenAI Responses API support and one-click Codex setup.\n\nAnd there’s a pricing twist: DeepSeek is introducing peak and off-peak API rates, with off-peak usage costing 50% less.\n\n@aipost 🏴",
+    "caption": "Google releases Gemini 3.7 Flash.\n\nThe model is designed to plan more carefully, handle tool calls more reliably and require fewer retries. It will also power Gemini Spark, Google’s 24/7 personal agent.\n\nThe benchmarks are Google’s own launch claims, but the combination is aggressive: a stronger model, shipped after just three weeks, at $0.75 per million input tokens and $3.75 per million output tokens through year-end.\n\nSource.\n\n@aipost 🏴",
     "entities": [
       {
         "offset": 0,
-        "length": 29,
+        "length": 33,
         "type": "bold"
       },
       {
-        "offset": 29,
-        "length": 2,
-        "type": "custom_emoji",
-        "custom_emoji_id": "5316571734604790521"
+        "offset": 425,
+        "length": 6,
+        "type": "text_link",
+        "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-3-7-flash/"
       },
       {
-        "offset": 430,
-        "length": 8,
-        "type": "bold"
-      },
-      {
-        "offset": 441,
+        "offset": 434,
         "length": 7,
         "type": "text_link",
         "url": "https://t.me/aipost"
       },
       {
-        "offset": 449,
+        "offset": 442,
         "length": 2,
         "type": "custom_emoji",
         "custom_emoji_id": "5431390559912614642"
       }
     ],
-    "media_group_id": "14293126041536669",
+    "media_group_id": null,
     "chat_id": -1004468214616,
     "message_ids": [
-      399,
-      400
+      401
     ],
     "update_ids": [
-      378304292,
-      378304293
+      378304294
     ],
     "retry_count": 0
   }
