@@ -1,63 +1,5 @@
 [
   {
-    "type": "photo",
-    "photo_file_ids": [
-      "AgACAgQAAyEFAAMBClOLWAACAX9qfUj1w9Ul3rOKIG4aHXuHW-2ZVQACrBBrGwkg4VPJV7XErtVqjQEAAwIAA3gAAz0E"
-    ],
-    "caption": "🎶 Spotify is drawing the line on AI music \n\nAI-generated artists are about to get a very different treatment on Spotify.\n\nStarting in September, Spotify plans to remove AI-generated artists from recommendations and playlists and label their profiles as “AI Persona.” The platform will reportedly combine AI detection with human review to identify them.\n\nAI created the music… and now AI is helping decide whether it gets played. 😂\n\nRobots canceling robots.\n\nSource. \n\n@aipost 🏴",
-    "entities": [
-      {
-        "offset": 0,
-        "length": 2,
-        "type": "custom_emoji",
-        "custom_emoji_id": "5983514902235451718"
-      },
-      {
-        "offset": 3,
-        "length": 40,
-        "type": "bold"
-      },
-      {
-        "offset": 430,
-        "length": 2,
-        "type": "custom_emoji",
-        "custom_emoji_id": "5370953476635368811"
-      },
-      {
-        "offset": 434,
-        "length": 24,
-        "type": "bold"
-      },
-      {
-        "offset": 460,
-        "length": 8,
-        "type": "text_link",
-        "url": "https://www.theverge.com/entertainment/977815/spotify-ai-persona-label-recommendations"
-      },
-      {
-        "offset": 470,
-        "length": 7,
-        "type": "text_link",
-        "url": "https://t.me/aipost"
-      },
-      {
-        "offset": 478,
-        "length": 2,
-        "type": "custom_emoji",
-        "custom_emoji_id": "5431390559912614642"
-      }
-    ],
-    "media_group_id": null,
-    "chat_id": -1004468214616,
-    "message_ids": [
-      383
-    ],
-    "update_ids": [
-      378304276
-    ],
-    "retry_count": 0
-  },
-  {
     "type": "video",
     "video_file_id": "BAACAgQAAyEFAAMBClOLWAACAYBqfUj9PzijftefMnjx5cDLerdvrgACPR4AAgkg6VODwkHj4pyt_D0E",
     "video_file_size": 6126343,
@@ -136,6 +78,45 @@
     ],
     "update_ids": [
       378304278
+    ],
+    "retry_count": 0
+  },
+  {
+    "type": "album",
+    "photo_file_ids": [
+      "AgACAgQAAyEFAAMBClOLWAACAYJqfVkrUd9EQktoETjZDImzv31-FAAC_w5rGwkg6VMkDgMP3Hd0MgEAAwIAA3gAAz0E",
+      "AgACAgQAAyEFAAMBClOLWAACAYNqfVkrmCRDd5S6LI-yNsyB1q8EkQADD2sbCSDpU8r3vmpPLtW3AQADAgADeQADPQQ"
+    ],
+    "caption": "🇺🇸 Texas is temporarily banning over 1,800 AI data centers from grid connections after requests reached 474GW.\n\n@aipost 🏴",
+    "entities": [
+      {
+        "offset": 0,
+        "length": 4,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5202021044105257611"
+      },
+      {
+        "offset": 114,
+        "length": 7,
+        "type": "text_link",
+        "url": "https://t.me/aipost"
+      },
+      {
+        "offset": 122,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5431390559912614642"
+      }
+    ],
+    "media_group_id": "14292797787756069",
+    "chat_id": -1004468214616,
+    "message_ids": [
+      386,
+      387
+    ],
+    "update_ids": [
+      378304279,
+      378304280
     ],
     "retry_count": 0
   }
