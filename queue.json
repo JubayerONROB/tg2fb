@@ -1,40 +1,5 @@
 [
   {
-    "type": "video",
-    "video_file_id": "BAACAgQAAyEFAAMBClOLWAACAYBqfUj9PzijftefMnjx5cDLerdvrgACPR4AAgkg6VODwkHj4pyt_D0E",
-    "video_file_size": 6126343,
-    "caption": "🔥 College students in the US will be able to claim a year of ChatGPT Plus for free. \n\nOpenAI is preparing a new \"back-to-school\" campaign, positioning ChatGPT as a tool for exam preparation, studying, and more!\n\n@aipost 🏴",
-    "entities": [
-      {
-        "offset": 0,
-        "length": 2,
-        "type": "custom_emoji",
-        "custom_emoji_id": "5363970504057191145"
-      },
-      {
-        "offset": 213,
-        "length": 7,
-        "type": "text_link",
-        "url": "https://t.me/aipost"
-      },
-      {
-        "offset": 221,
-        "length": 2,
-        "type": "custom_emoji",
-        "custom_emoji_id": "5431390559912614642"
-      }
-    ],
-    "media_group_id": null,
-    "chat_id": -1004468214616,
-    "message_ids": [
-      384
-    ],
-    "update_ids": [
-      378304277
-    ],
-    "retry_count": 0
-  },
-  {
     "type": "photo",
     "photo_file_ids": [
       "AgACAgQAAyEFAAMBClOLWAACAYFqfUkHvXRTYwajb37tKdRqTG_LcgAC_g5rGwkg6VNV2vKO2B_0oQEAAwIAA3kAAz0E"
@@ -117,6 +82,104 @@
     "update_ids": [
       378304279,
       378304280
+    ],
+    "retry_count": 0
+  },
+  {
+    "type": "video",
+    "video_file_id": "BAACAgIAAyEFAAMBClOLWAACAYRqfXpt0XlmmaKS7vQAAdB0uh9cGbkAAguhAAJ29elLZvuZHrP_3Gw9BA",
+    "video_file_size": 42154569,
+    "caption": "🤖 xAI Releases Grok 4.6 with Coding Focus\n\nThe new flagship model Grok 4.6 targets coding and agents, scoring 69.9% on CursorBench and 61.3% on FrontierCode, close to GPT-5.6 Sol and Fable 5.\n\nGrok 4.6 is available via API, Cursor, Grok Build, and API DS Lab, keeping the same pricing at $2/M input and $6/M output.\n\n📊@tech",
+    "entities": [
+      {
+        "offset": 0,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5208665212483310136"
+      },
+      {
+        "offset": 3,
+        "length": 39,
+        "type": "bold"
+      },
+      {
+        "offset": 67,
+        "length": 8,
+        "type": "bold"
+      },
+      {
+        "offset": 194,
+        "length": 8,
+        "type": "bold"
+      },
+      {
+        "offset": 318,
+        "length": 2,
+        "type": "bold"
+      },
+      {
+        "offset": 318,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5449841756596101801"
+      },
+      {
+        "offset": 320,
+        "length": 5,
+        "type": "mention"
+      },
+      {
+        "offset": 320,
+        "length": 5,
+        "type": "bold"
+      }
+    ],
+    "media_group_id": null,
+    "chat_id": -1004468214616,
+    "message_ids": [
+      388
+    ],
+    "update_ids": [
+      378304281
+    ],
+    "retry_count": 0
+  },
+  {
+    "type": "album",
+    "photo_file_ids": [
+      "AgACAgQAAyEFAAMBClOLWAACAYVqfYAoMsekHQqApGrFnbt2CdsflAACAQ9rGwkg6VOn0aOlAVKxVAEAAwIAA3gAAz0E",
+      "AgACAgQAAyEFAAMBClOLWAACAYZqfYAo75HasDZ4G2-_jEcvSP2EJgACAg9rGwkg6VOE7w70S-tKaAEAAwIAA3gAAz0E"
+    ],
+    "caption": "❗️A farmer trusted AI for farming advice after it had helped him for about a year. Then it helped wipe out 25 acres of his crops.\n\nThe 67-year-old farmer in China used an AI chatbot to get advice about weeds and pests, he followed the advice to mix several chemicals and spray them across his sesame field.\n\nBy the next morning, about 25 acres of his sesame crop had been destroyed.\n\n@aipost 🏴",
+    "entities": [
+      {
+        "offset": 0,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5289761612440310918"
+      },
+      {
+        "offset": 384,
+        "length": 7,
+        "type": "text_link",
+        "url": "https://t.me/aipost"
+      },
+      {
+        "offset": 392,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5431390559912614642"
+      }
+    ],
+    "media_group_id": "14292877632865501",
+    "chat_id": -1004468214616,
+    "message_ids": [
+      389,
+      390
+    ],
+    "update_ids": [
+      378304282,
+      378304283
     ],
     "retry_count": 0
   }
