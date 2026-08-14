@@ -1,1 +1,37 @@
-[]
+[
+  {
+    "type": "video",
+    "video_file_id": "BAACAgQAAyEFAAMBClOLWAACAZpqftztUJONZZvqu9A65oAHyb8jqAACVyEAAtma8VOFtiglUn1xTD0E",
+    "video_file_size": 14149210,
+    "caption": "🗣Marc Andreessen describing AI. \"We've turned sand into thought. And it's possibly the most revolutionary technology in the history of the species\". Sand → silicon → chip → data center → power → AI → thought.\n\n@aipost 🏴",
+    "entities": [
+      {
+        "offset": 0,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5287468155738821335"
+      },
+      {
+        "offset": 211,
+        "length": 7,
+        "type": "text_link",
+        "url": "https://t.me/aipost"
+      },
+      {
+        "offset": 219,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5431390559912614642"
+      }
+    ],
+    "media_group_id": null,
+    "chat_id": -1004468214616,
+    "message_ids": [
+      410
+    ],
+    "update_ids": [
+      378304303
+    ],
+    "retry_count": 0
+  }
+]
