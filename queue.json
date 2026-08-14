@@ -1,1 +1,76 @@
-[]
+[
+  {
+    "type": "video",
+    "video_file_id": "BAACAgIAAyEFAAMBClOLWAACAZxqfxPuBZ5UYHAzXg6-CQJfHsFZVAACi54AAh046Es1iV4Rp4kdwT0E",
+    "video_file_size": 6180959,
+    "caption": "🤖 Higgsfield integrates multiple generators in ChatGPT\n\nHiggsfield now runs inside ChatGPT, letting users launch Seedance 2.5, Seedream 5.0 Pro, GPT Image 2.0, and Kling 3.0 directly from chat. This unifies several generative models for images and video on one platform.\n\nInstead of switching tabs or copying prompts between tools, users can adjust details like motion speed or lighting through a normal conversation. ChatGPT’s plugin system connects external apps seamlessly into the chat, removing the need to leave the interface.\n\n📊@tech",
+    "entities": [
+      {
+        "offset": 0,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5397681122542893003"
+      },
+      {
+        "offset": 3,
+        "length": 52,
+        "type": "bold"
+      },
+      {
+        "offset": 84,
+        "length": 7,
+        "type": "bold"
+      },
+      {
+        "offset": 114,
+        "length": 12,
+        "type": "bold"
+      },
+      {
+        "offset": 128,
+        "length": 16,
+        "type": "bold"
+      },
+      {
+        "offset": 146,
+        "length": 13,
+        "type": "bold"
+      },
+      {
+        "offset": 165,
+        "length": 9,
+        "type": "bold"
+      },
+      {
+        "offset": 535,
+        "length": 2,
+        "type": "bold"
+      },
+      {
+        "offset": 535,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5449841756596101801"
+      },
+      {
+        "offset": 537,
+        "length": 5,
+        "type": "mention"
+      },
+      {
+        "offset": 537,
+        "length": 5,
+        "type": "bold"
+      }
+    ],
+    "media_group_id": null,
+    "chat_id": -1004468214616,
+    "message_ids": [
+      412
+    ],
+    "update_ids": [
+      378304305
+    ],
+    "retry_count": 0
+  }
+]
