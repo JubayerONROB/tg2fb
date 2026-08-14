@@ -2,74 +2,6 @@
   {
     "type": "photo",
     "photo_file_ids": [
-      "AgACAgUAAyEFAAMBClOLWAACAZ1qfykzTTLrEgj1_zh1EjP2j1zfxwACkRNrG2zN6Fd3jzASZp71tgEAAwIAA3kAAz0E"
-    ],
-    "caption": "Learn AI for free directly from top companies.\n\n1 - Anthropic:  \nanthropic.skilljar.com\n\n2 - Google:  \ngrow.google/ai\n\n3 - Meta:  \nai.meta.com/resources/\n\n4 - NVIDIA:  \ndeveloper.nvidia.com/cuda\n\n5 - Microsoft:  \nlearn.microsoft.com/en-us/training/\n\n6 - OpenAI:  \nacademy.openai.com\n\n7 - IBM:  \nskillsbuild.org\n\n8 - AWS:  \nskillbuilder.aws\n\n9  DeepLearning. AI:  \ndeeplearning.ai\n\n10 - Hugging Face:  \nhuggingface.co/learn",
-    "entities": [
-      {
-        "offset": 65,
-        "length": 22,
-        "type": "url"
-      },
-      {
-        "offset": 103,
-        "length": 14,
-        "type": "url"
-      },
-      {
-        "offset": 131,
-        "length": 22,
-        "type": "url"
-      },
-      {
-        "offset": 169,
-        "length": 25,
-        "type": "url"
-      },
-      {
-        "offset": 213,
-        "length": 35,
-        "type": "url"
-      },
-      {
-        "offset": 264,
-        "length": 18,
-        "type": "url"
-      },
-      {
-        "offset": 295,
-        "length": 15,
-        "type": "url"
-      },
-      {
-        "offset": 323,
-        "length": 16,
-        "type": "url"
-      },
-      {
-        "offset": 364,
-        "length": 15,
-        "type": "url"
-      },
-      {
-        "offset": 402,
-        "length": 20,
-        "type": "url"
-      }
-    ],
-    "media_group_id": null,
-    "chat_id": -1004468214616,
-    "message_ids": [
-      413
-    ],
-    "update_ids": [
-      378304306
-    ],
-    "retry_count": 0
-  },
-  {
-    "type": "photo",
-    "photo_file_ids": [
       "AgACAgUAAyEFAAMBClOLWAACAZ5qfyltBDvuf9k25uI7Eso1Yop9ygAC0BJrG6k5-VdbrnuR9M5ngwEAAwIAA3gAAz0E"
     ],
     "caption": "AI is finally behaving like a Human💀",
@@ -81,6 +13,52 @@
     ],
     "update_ids": [
       378304307
+    ],
+    "retry_count": 0
+  },
+  {
+    "type": "photo",
+    "photo_file_ids": [
+      "AgACAgQAAyEFAAMBClOLWAACAZ9qfzJt4xsaGy9bMCOuI7UnghdyNwACshBrG9ma8VN5A1NymxgRPQEAAwIAA3kAAz0E"
+    ],
+    "caption": "OpenAI Chief Revenue Officer just quit after only 8 months, their SECOND CRO in less than a year… and their COO also quit yesterday.\n\nWhat’s going on at OpenAI? 🤔\n\n@aipost 🏴",
+    "entities": [
+      {
+        "offset": 134,
+        "length": 27,
+        "type": "bold"
+      },
+      {
+        "offset": 161,
+        "length": 2,
+        "type": "bold"
+      },
+      {
+        "offset": 161,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5370724846936267183"
+      },
+      {
+        "offset": 165,
+        "length": 7,
+        "type": "text_link",
+        "url": "https://t.me/aipost"
+      },
+      {
+        "offset": 173,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5431390559912614642"
+      }
+    ],
+    "media_group_id": null,
+    "chat_id": -1004468214616,
+    "message_ids": [
+      415
+    ],
+    "update_ids": [
+      378304308
     ],
     "retry_count": 0
   }
