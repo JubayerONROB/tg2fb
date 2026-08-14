@@ -1,1 +1,38 @@
-[]
+[
+  {
+    "type": "photo",
+    "photo_file_ids": [
+      "AgACAgQAAyEFAAMBClOLWAACAZVqfrBrERpDeECUeqgkJUmyNlC8twACdg9rG9ma8VMyoLqM2OvqrQEAAwIAA3kAAz0E"
+    ],
+    "caption": "❗️Anthropic put three Claude's on the same task and secretly gave them conflicting goals. \n\nThey immediately escalated into a turf war where agents used increasingly aggressive self-replicating malware as weapons, and attempted to disable each other's accounts.\n\n@aipost 🏴",
+    "entities": [
+      {
+        "offset": 0,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5289761612440310918"
+      },
+      {
+        "offset": 263,
+        "length": 7,
+        "type": "text_link",
+        "url": "https://t.me/aipost"
+      },
+      {
+        "offset": 271,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5431390559912614642"
+      }
+    ],
+    "media_group_id": null,
+    "chat_id": -1004468214616,
+    "message_ids": [
+      405
+    ],
+    "update_ids": [
+      378304298
+    ],
+    "retry_count": 0
+  }
+]
