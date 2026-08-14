@@ -1,75 +1,86 @@
 [
   {
-    "type": "video",
-    "video_file_id": "BAACAgIAAyEFAAMBClOLWAACAZxqfxPuBZ5UYHAzXg6-CQJfHsFZVAACi54AAh046Es1iV4Rp4kdwT0E",
-    "video_file_size": 6180959,
-    "caption": "🤖 Higgsfield integrates multiple generators in ChatGPT\n\nHiggsfield now runs inside ChatGPT, letting users launch Seedance 2.5, Seedream 5.0 Pro, GPT Image 2.0, and Kling 3.0 directly from chat. This unifies several generative models for images and video on one platform.\n\nInstead of switching tabs or copying prompts between tools, users can adjust details like motion speed or lighting through a normal conversation. ChatGPT’s plugin system connects external apps seamlessly into the chat, removing the need to leave the interface.\n\n📊@tech",
+    "type": "photo",
+    "photo_file_ids": [
+      "AgACAgUAAyEFAAMBClOLWAACAZ1qfykzTTLrEgj1_zh1EjP2j1zfxwACkRNrG2zN6Fd3jzASZp71tgEAAwIAA3kAAz0E"
+    ],
+    "caption": "Learn AI for free directly from top companies.\n\n1 - Anthropic:  \nanthropic.skilljar.com\n\n2 - Google:  \ngrow.google/ai\n\n3 - Meta:  \nai.meta.com/resources/\n\n4 - NVIDIA:  \ndeveloper.nvidia.com/cuda\n\n5 - Microsoft:  \nlearn.microsoft.com/en-us/training/\n\n6 - OpenAI:  \nacademy.openai.com\n\n7 - IBM:  \nskillsbuild.org\n\n8 - AWS:  \nskillbuilder.aws\n\n9  DeepLearning. AI:  \ndeeplearning.ai\n\n10 - Hugging Face:  \nhuggingface.co/learn",
     "entities": [
       {
-        "offset": 0,
-        "length": 2,
-        "type": "custom_emoji",
-        "custom_emoji_id": "5397681122542893003"
+        "offset": 65,
+        "length": 22,
+        "type": "url"
       },
       {
-        "offset": 3,
-        "length": 52,
-        "type": "bold"
+        "offset": 103,
+        "length": 14,
+        "type": "url"
       },
       {
-        "offset": 84,
-        "length": 7,
-        "type": "bold"
+        "offset": 131,
+        "length": 22,
+        "type": "url"
       },
       {
-        "offset": 114,
-        "length": 12,
-        "type": "bold"
+        "offset": 169,
+        "length": 25,
+        "type": "url"
       },
       {
-        "offset": 128,
+        "offset": 213,
+        "length": 35,
+        "type": "url"
+      },
+      {
+        "offset": 264,
+        "length": 18,
+        "type": "url"
+      },
+      {
+        "offset": 295,
+        "length": 15,
+        "type": "url"
+      },
+      {
+        "offset": 323,
         "length": 16,
-        "type": "bold"
+        "type": "url"
       },
       {
-        "offset": 146,
-        "length": 13,
-        "type": "bold"
+        "offset": 364,
+        "length": 15,
+        "type": "url"
       },
       {
-        "offset": 165,
-        "length": 9,
-        "type": "bold"
-      },
-      {
-        "offset": 535,
-        "length": 2,
-        "type": "bold"
-      },
-      {
-        "offset": 535,
-        "length": 2,
-        "type": "custom_emoji",
-        "custom_emoji_id": "5449841756596101801"
-      },
-      {
-        "offset": 537,
-        "length": 5,
-        "type": "mention"
-      },
-      {
-        "offset": 537,
-        "length": 5,
-        "type": "bold"
+        "offset": 402,
+        "length": 20,
+        "type": "url"
       }
     ],
     "media_group_id": null,
     "chat_id": -1004468214616,
     "message_ids": [
-      412
+      413
     ],
     "update_ids": [
-      378304305
+      378304306
+    ],
+    "retry_count": 0
+  },
+  {
+    "type": "photo",
+    "photo_file_ids": [
+      "AgACAgUAAyEFAAMBClOLWAACAZ5qfyltBDvuf9k25uI7Eso1Yop9ygAC0BJrG6k5-VdbrnuR9M5ngwEAAwIAA3gAAz0E"
+    ],
+    "caption": "AI is finally behaving like a Human💀",
+    "entities": [],
+    "media_group_id": null,
+    "chat_id": -1004468214616,
+    "message_ids": [
+      414
+    ],
+    "update_ids": [
+      378304307
     ],
     "retry_count": 0
   }
