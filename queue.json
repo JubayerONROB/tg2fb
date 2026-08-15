@@ -1,49 +1,50 @@
 [
   {
-    "type": "video",
-    "video_file_id": "BAACAgQAAyEFAAMBClOLWAACAadqgDYgiiWc74024SqBH--XyS9dpAACgB8AAovrAVBAz9atIb_AjD0E",
-    "video_file_size": 24448726,
-    "caption": "🗣Gavin Baker: Anthropic Believes They Could Be the ONLY Company Left in the World\n\n“I would certainly discourage Dario from saying that ever again to anyone.”\n\nGavin Baker:\n\n“Internally, Anthropic is very confident. I have been told by multiple people I trust that Dario has said that Anthropic might be the only private company in the world at some point.\n\nThink about that. In this vision, an Anthropic maximalist vision, there's Anthropic, and then there are governments, and that's it.\n\nSo there's a lot of confidence. I'm sure they have more advanced checkpoints than Fable up their sleeve. They've executed really, really well.\n\nI would probably take the under on them being the only private company in the world. Yeah, I think it's gonna be a long time before they land a rocket.”\n\nJason:\n\n“Or they deliver your lunch. I don't know. There might be other businesses in the world. Zipline might want to bring you a burrito. Uber might want to take you somewhere. Waymo might want to drive you home. But sure, Dario.”\n\nDavid Sacks:\n\n“I might interpret that as a negative signal because it's so hubristic. This is getting into SBF land a little bit.”\n\nGavin:\n\n“I would certainly discourage Dario from saying that ever again to anyone.”\n\n@aipost 🏴",
+    "type": "photo",
+    "photo_file_ids": [
+      "AgACAgQAAyEFAAMBClOLWAACAahqgF0rgIzeF9UD4Xhn_xye7ChRVgACKhBrG4vrAVA1WwHTkjOquwEAAwIAA3gAAz0E"
+    ],
+    "caption": "❗️AI has a memory problem\n\nAI companies can keep buying faster chips. The problem is, those chips are only useful if they have enough ultra-fast memory to feed them.\n\nThat memory is called HBM, High Bandwidth Memory. It sits right next to AI processors and moves data at ridiculous speeds, keeping the chip busy instead of making it wait around for information.\n\nAnd demand is about to go absolutely crazy. Morgan Stanley estimates the AI industry could need up to 50 billion gigabytes of HBM in 2027 alone.\n\nThe reason is that AI is evolving from chatbots that answer a question and stop to agents that actually do things.\n\nAn agent might research a topic, browse dozens of pages, write code, run tests, analyze the results, remember what happened five steps ago, and then decide what to do next.\n\nEvery one of those steps creates more data that has to stay close and instantly accessible.\n\nThink of a chef cooking a complicated meal. A chatbot gets one ingredient, uses it, and goes home. An AI agent needs the entire kitchen stocked and within arm’s reach for hours. But not everyone can build that kitchen.\n\nOnly a handful of companies, mainly SK Hynix, Samsung and Micron can manufacture advanced HBM at the scale AI companies need. Building new memory fabs takes years, not a few months.\n\nThat means the AI race isn’t simply about who can build the fastest GPU anymore, it’s increasingly about who can secure enough memory to keep those GPUs fed.\n\nThe industry could have mountains of computing power sitting in data centers, but if there isn’t enough HBM to feed it, those expensive AI chips are basically starving.\n\n@aipost 🏴",
     "entities": [
       {
         "offset": 0,
         "length": 2,
         "type": "custom_emoji",
-        "custom_emoji_id": "5287468155738821335"
+        "custom_emoji_id": "5289761612440310918"
       },
       {
         "offset": 2,
-        "length": 80,
+        "length": 23,
         "type": "bold"
       },
       {
-        "offset": 161,
-        "length": 12,
+        "offset": 506,
+        "length": 1,
         "type": "bold"
       },
       {
-        "offset": 790,
-        "length": 6,
+        "offset": 622,
+        "length": 1,
         "type": "bold"
       },
       {
-        "offset": 1024,
-        "length": 12,
+        "offset": 1109,
+        "length": 1,
         "type": "bold"
       },
       {
-        "offset": 1156,
-        "length": 6,
+        "offset": 1451,
+        "length": 1,
         "type": "bold"
       },
       {
-        "offset": 1241,
+        "offset": 1624,
         "length": 7,
         "type": "text_link",
         "url": "https://t.me/aipost"
       },
       {
-        "offset": 1249,
+        "offset": 1632,
         "length": 2,
         "type": "custom_emoji",
         "custom_emoji_id": "5431390559912614642"
@@ -52,10 +53,10 @@
     "media_group_id": null,
     "chat_id": -1004468214616,
     "message_ids": [
-      423
+      424
     ],
     "update_ids": [
-      378304316
+      378304317
     ],
     "retry_count": 0
   }
