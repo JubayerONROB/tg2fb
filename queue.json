@@ -1,45 +1,5 @@
 [
   {
-    "type": "video",
-    "video_file_id": "BAACAgQAAyEFAAMBClOLWAACAa1qgU9omt2HPy9l9RF2_S9IwFTuFQAChx8AAovrAVD7CifbuUn-gz0E",
-    "video_file_size": 9883086,
-    "caption": "❗️OpenAI ex-researcher Daniel Kokotajlo warns AI can hack crypto wallets.\n\nReporter: \"Could we see AI hacking into bank accounts or crypto wallets?\"\n\nDaniel: \"They certainly have the capability to do that.\n\nAIs will be hacking them left and right.\"\n\n@aipost 🏴",
-    "entities": [
-      {
-        "offset": 0,
-        "length": 2,
-        "type": "custom_emoji",
-        "custom_emoji_id": "5289761612440310918"
-      },
-      {
-        "offset": 2,
-        "length": 71,
-        "type": "bold"
-      },
-      {
-        "offset": 250,
-        "length": 7,
-        "type": "text_link",
-        "url": "https://t.me/aipost"
-      },
-      {
-        "offset": 258,
-        "length": 2,
-        "type": "custom_emoji",
-        "custom_emoji_id": "5431390559912614642"
-      }
-    ],
-    "media_group_id": null,
-    "chat_id": -1004468214616,
-    "message_ids": [
-      429
-    ],
-    "update_ids": [
-      378304322
-    ],
-    "retry_count": 0
-  },
-  {
     "type": "album",
     "photo_file_ids": [
       "AgACAgQAAyEFAAMBClOLWAACAa5qgU9o28w9QIRkUuelPiwGfpqL-gACMxBrG4vrAVBsJRPgFwLXrAEAAwIAA3gAAz0E",
