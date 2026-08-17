@@ -1865,5 +1865,84 @@
       378304316
     ],
     "retry_count": 0
+  },
+  {
+    "type": "video",
+    "video_file_id": "BAACAgIAAyEFAAMBClOLWAACAblqgsNfUOm8HPbpt926jjYbp8PS7wACnKYAApRr-EsEyVxvom6S6D0E",
+    "video_file_size": 38374260,
+    "caption": "🤖 Honor Flash robot runs marathon and sprints\n\nThe Honor Flash robot runs at 14.5 km/h and completed its first marathon. It also won a 100-meter race against a human named Valera.\n\nHonor Flash is a humanoid robot built for both endurance and speed.\n\nIts marathon and sprint performance shows versatility without mechanical issues.\n\n📊@tech",
+    "entities": [
+      {
+        "offset": 0,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5355051922862653659"
+      },
+      {
+        "offset": 3,
+        "length": 43,
+        "type": "bold"
+      },
+      {
+        "offset": 52,
+        "length": 17,
+        "type": "bold"
+      },
+      {
+        "offset": 78,
+        "length": 9,
+        "type": "bold"
+      },
+      {
+        "offset": 106,
+        "length": 14,
+        "type": "bold"
+      },
+      {
+        "offset": 136,
+        "length": 14,
+        "type": "bold"
+      },
+      {
+        "offset": 182,
+        "length": 11,
+        "type": "bold"
+      },
+      {
+        "offset": 255,
+        "length": 19,
+        "type": "bold"
+      },
+      {
+        "offset": 333,
+        "length": 2,
+        "type": "bold"
+      },
+      {
+        "offset": 333,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5449841756596101801"
+      },
+      {
+        "offset": 335,
+        "length": 5,
+        "type": "mention"
+      },
+      {
+        "offset": 335,
+        "length": 5,
+        "type": "bold"
+      }
+    ],
+    "media_group_id": null,
+    "chat_id": -1004468214616,
+    "message_ids": [
+      441
+    ],
+    "update_ids": [
+      378304334
+    ],
+    "retry_count": 0
   }
 ]
