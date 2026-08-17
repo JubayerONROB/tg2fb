@@ -1,1 +1,67 @@
-[]
+[
+  {
+    "type": "photo",
+    "photo_file_ids": [
+      "AgACAgQAAyEFAAMBClOLWAACAbVqgq7YpaoWApE9MuFo7hmJ5jtIKQACLxBrG71WEFBcrLR0b_BwHgEAAwIAA3kAAz0E"
+    ],
+    "caption": "Dario Amodei, Anthropic CEO:\n\n“I think it will actually be possible to cure most human disease in ~5–10 years.”\n\nAmodei says Anthropic is ramping up its efforts in biology and medicine, with “some early glimmers in the coming months” and “incredible results in the coming years.”\n\nHe says he feels a personal urgency around medical progress:\n\n“I lost my father to Hepatitis C only a few years before the development of direct-acting antivirals (sofosbuvir), which cure 95% of patients and probably would have cured him.”\n\nAnd when Anthropic has actually accomplished something real:\n\n“the whole world will hear about it, as loudly as possible.”\n\n@aipost 🏴",
+    "entities": [
+      {
+        "offset": 0,
+        "length": 28,
+        "type": "bold"
+      },
+      {
+        "offset": 646,
+        "length": 7,
+        "type": "text_link",
+        "url": "https://t.me/aipost"
+      },
+      {
+        "offset": 654,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5431390559912614642"
+      }
+    ],
+    "media_group_id": null,
+    "chat_id": -1004468214616,
+    "message_ids": [
+      437
+    ],
+    "update_ids": [
+      378304330
+    ],
+    "retry_count": 0
+  },
+  {
+    "type": "photo",
+    "photo_file_ids": [
+      "AgACAgQAAyEFAAMBClOLWAACAbZqgq7kwj1HwDEa5IK2q-scgqEeIQACDhFrG1IHCFDIAnt8X2J6YwEAAwIAA3kAAz0E"
+    ],
+    "caption": "Elon on X\n\n@aipost 🏴",
+    "entities": [
+      {
+        "offset": 11,
+        "length": 7,
+        "type": "text_link",
+        "url": "https://t.me/aipost"
+      },
+      {
+        "offset": 19,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5431390559912614642"
+      }
+    ],
+    "media_group_id": null,
+    "chat_id": -1004468214616,
+    "message_ids": [
+      438
+    ],
+    "update_ids": [
+      378304331
+    ],
+    "retry_count": 0
+  }
+]
