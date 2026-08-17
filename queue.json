@@ -1,31 +1,327 @@
 [
   {
-    "type": "photo",
+    "type": "album",
     "photo_file_ids": [
-      "AgACAgQAAyEFAAMBClOLWAACAbZqgq7kwj1HwDEa5IK2q-scgqEeIQACDhFrG1IHCFDIAnt8X2J6YwEAAwIAA3kAAz0E"
+      "AgACAgIAAyEFAAMBClOLWAACAbdqgsNftOxrYuylVJHdXW8Zwrb_OgACcBtrGzp6-Etg8pwvZhWKtAEAAwIAA3cAAz0E",
+      "AgACAgIAAyEFAAMBClOLWAACAbhqgsNfXc0IHjfr-kDO5yFqQyIkHgACcRtrGzp6-Es-oI_UjvoOKwEAAwIAA3cAAz0E"
     ],
-    "caption": "Elon on X\n\n@aipost 🏴",
+    "caption": "🔍 Alibaba releases Qwen3.8 models for local use\n\nAlibaba opened weights for two Qwen3.8 models, including the new Qwen3.8-27B with 27 billion parameters designed for local deployment. It supports text and images, handles up to 262,000 tokens context, expandable to about 1 million tokens.\n\nQwen3.8-27B is compact enough for local use and outperforms Qwen3.7-Plus, especially in programming and office tasks. The weights are under Apache 2.0 license, allowing free use in commercial projects.\n\nAlongside, Alibaba released Qwen3.8-2.4T-A95B with 2.4 trillion parameters, suitable for heavy server workloads. This creates a range from compact local models to flagship-level infrastructure agents.\n\n📊@tech",
     "entities": [
       {
-        "offset": 11,
-        "length": 7,
-        "type": "text_link",
-        "url": "https://t.me/aipost"
-      },
-      {
-        "offset": 19,
+        "offset": 0,
         "length": 2,
         "type": "custom_emoji",
-        "custom_emoji_id": "5431390559912614642"
+        "custom_emoji_id": "5431644246450908867"
+      },
+      {
+        "offset": 3,
+        "length": 45,
+        "type": "bold"
+      },
+      {
+        "offset": 50,
+        "length": 45,
+        "type": "bold"
+      },
+      {
+        "offset": 115,
+        "length": 38,
+        "type": "bold"
+      },
+      {
+        "offset": 228,
+        "length": 14,
+        "type": "bold"
+      },
+      {
+        "offset": 291,
+        "length": 11,
+        "type": "bold"
+      },
+      {
+        "offset": 431,
+        "length": 18,
+        "type": "bold"
+      },
+      {
+        "offset": 522,
+        "length": 17,
+        "type": "bold"
+      },
+      {
+        "offset": 545,
+        "length": 23,
+        "type": "bold"
+      },
+      {
+        "offset": 696,
+        "length": 2,
+        "type": "bold"
+      },
+      {
+        "offset": 696,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5449841756596101801"
+      },
+      {
+        "offset": 698,
+        "length": 5,
+        "type": "mention"
+      },
+      {
+        "offset": 698,
+        "length": 5,
+        "type": "bold"
+      }
+    ],
+    "media_group_id": "14295636734877389",
+    "chat_id": -1004468214616,
+    "message_ids": [
+      439,
+      440
+    ],
+    "update_ids": [
+      378304332,
+      378304333
+    ],
+    "retry_count": 0
+  },
+  {
+    "type": "video",
+    "video_file_id": "BAACAgIAAyEFAAMBClOLWAACAblqgsNfUOm8HPbpt926jjYbp8PS7wACnKYAApRr-EsEyVxvom6S6D0E",
+    "video_file_size": 38374260,
+    "caption": "🤖 Honor Flash robot runs marathon and sprints\n\nThe Honor Flash robot runs at 14.5 km/h and completed its first marathon. It also won a 100-meter race against a human named Valera.\n\nHonor Flash is a humanoid robot built for both endurance and speed.\n\nIts marathon and sprint performance shows versatility without mechanical issues.\n\n📊@tech",
+    "entities": [
+      {
+        "offset": 0,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5355051922862653659"
+      },
+      {
+        "offset": 3,
+        "length": 43,
+        "type": "bold"
+      },
+      {
+        "offset": 52,
+        "length": 17,
+        "type": "bold"
+      },
+      {
+        "offset": 78,
+        "length": 9,
+        "type": "bold"
+      },
+      {
+        "offset": 106,
+        "length": 14,
+        "type": "bold"
+      },
+      {
+        "offset": 136,
+        "length": 14,
+        "type": "bold"
+      },
+      {
+        "offset": 182,
+        "length": 11,
+        "type": "bold"
+      },
+      {
+        "offset": 255,
+        "length": 19,
+        "type": "bold"
+      },
+      {
+        "offset": 333,
+        "length": 2,
+        "type": "bold"
+      },
+      {
+        "offset": 333,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5449841756596101801"
+      },
+      {
+        "offset": 335,
+        "length": 5,
+        "type": "mention"
+      },
+      {
+        "offset": 335,
+        "length": 5,
+        "type": "bold"
       }
     ],
     "media_group_id": null,
     "chat_id": -1004468214616,
     "message_ids": [
-      438
+      441
     ],
     "update_ids": [
-      378304331
+      378304334
+    ],
+    "retry_count": 0
+  },
+  {
+    "type": "video",
+    "video_file_id": "BAACAgIAAyEFAAMBClOLWAACAbpqgsNfPc1fymJ70sqBd03gF1rNiwAC5KUAAtXG8UtBnrgxgY-t8T0E",
+    "video_file_size": 16716873,
+    "caption": "👁️ Heart Aerospace’s X1 Completes First Electric Flight\n\nThe X1 made its debut flight at Plattsburgh International Airport, New York, using only battery power. It flew for 27 minutes at about 335 meters altitude, consuming just $5 worth of electricity for the entire trip including takeoff and landing.\n\nHeart Aerospace calls the X1 a flying testbed for its technology. The real target is the ES-30, a 30-seat regional plane with a hybrid powertrain. It aims for 200 km on batteries alone and up to 800 km with hybrid support.\n\nElectric motors cut costs beyond cheap electricity, offering simpler maintenance and higher reliability. Heart plans for the ES-30 to start with a single pilot and eventually fly without one. The company expects this by 2031.\n\n📊@tech",
+    "entities": [
+      {
+        "offset": 0,
+        "length": 3,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5231407403618037019"
+      },
+      {
+        "offset": 4,
+        "length": 52,
+        "type": "bold"
+      },
+      {
+        "offset": 62,
+        "length": 2,
+        "type": "bold"
+      },
+      {
+        "offset": 305,
+        "length": 15,
+        "type": "bold"
+      },
+      {
+        "offset": 394,
+        "length": 5,
+        "type": "bold"
+      },
+      {
+        "offset": 749,
+        "length": 4,
+        "type": "bold"
+      },
+      {
+        "offset": 756,
+        "length": 2,
+        "type": "bold"
+      },
+      {
+        "offset": 756,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5449841756596101801"
+      },
+      {
+        "offset": 758,
+        "length": 5,
+        "type": "mention"
+      },
+      {
+        "offset": 758,
+        "length": 5,
+        "type": "bold"
+      }
+    ],
+    "media_group_id": null,
+    "chat_id": -1004468214616,
+    "message_ids": [
+      442
+    ],
+    "update_ids": [
+      378304335
+    ],
+    "retry_count": 0
+  },
+  {
+    "type": "photo",
+    "photo_file_ids": [
+      "AgACAgIAAyEFAAMBClOLWAACAbtqgsNf3lH0slhQl_so5KqWHWxxLgACDiJrG7AtCUgkhFFnQW22oAEAAwIAA3gAAz0E"
+    ],
+    "caption": "🤖 Claude's first human firing\n\nAt San Francisco's Andon Market, Claude manages a shop with real workers and signed labor contracts. TIME says one employee was fired after 17 late arrivals in 23 shifts.\n\nEven that was not fully autonomous. Claude ignored the issue for a while, then suggested a warning, and only reached dismissal after a leading question from an Andon Labs employee.\n\nThe business side looks rough too. Over 5 months, the store balance fell from $100,000 to $61,000, and one worker called working under Claude “nauseating.”\n\n📊@tech",
+    "entities": [
+      {
+        "offset": 0,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5208665212483310136"
+      },
+      {
+        "offset": 3,
+        "length": 27,
+        "type": "bold"
+      },
+      {
+        "offset": 51,
+        "length": 12,
+        "type": "bold"
+      },
+      {
+        "offset": 65,
+        "length": 21,
+        "type": "bold"
+      },
+      {
+        "offset": 172,
+        "length": 29,
+        "type": "bold"
+      },
+      {
+        "offset": 218,
+        "length": 20,
+        "type": "bold"
+      },
+      {
+        "offset": 313,
+        "length": 17,
+        "type": "bold"
+      },
+      {
+        "offset": 364,
+        "length": 10,
+        "type": "bold"
+      },
+      {
+        "offset": 426,
+        "length": 8,
+        "type": "bold"
+      },
+      {
+        "offset": 464,
+        "length": 19,
+        "type": "bold"
+      },
+      {
+        "offset": 543,
+        "length": 2,
+        "type": "bold"
+      },
+      {
+        "offset": 543,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5449841756596101801"
+      },
+      {
+        "offset": 545,
+        "length": 5,
+        "type": "mention"
+      },
+      {
+        "offset": 545,
+        "length": 5,
+        "type": "bold"
+      }
+    ],
+    "media_group_id": null,
+    "chat_id": -1004468214616,
+    "message_ids": [
+      443
+    ],
+    "update_ids": [
+      378304336
     ],
     "retry_count": 0
   }
