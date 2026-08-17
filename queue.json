@@ -1,80 +1,54 @@
 [
   {
-    "type": "photo",
-    "photo_file_ids": [
-      "AgACAgIAAyEFAAMBClOLWAACAbtqgsNf3lH0slhQl_so5KqWHWxxLgACDiJrG7AtCUgkhFFnQW22oAEAAwIAA3gAAz0E"
-    ],
-    "caption": "🤖 Claude's first human firing\n\nAt San Francisco's Andon Market, Claude manages a shop with real workers and signed labor contracts. TIME says one employee was fired after 17 late arrivals in 23 shifts.\n\nEven that was not fully autonomous. Claude ignored the issue for a while, then suggested a warning, and only reached dismissal after a leading question from an Andon Labs employee.\n\nThe business side looks rough too. Over 5 months, the store balance fell from $100,000 to $61,000, and one worker called working under Claude “nauseating.”\n\n📊@tech",
+    "type": "video",
+    "video_file_id": "BAACAgIAAyEFAAMBClOLWAACAbxqgvlmHs3s60k-3_6SBcGhTIL75wACLaAAAh048Et-96Yt__l23j0E",
+    "video_file_size": 26103563,
+    "caption": "🤖 ChatGPT adds Computer History on Mac\n\nThe desktop ChatGPT app for Mac now includes Computer History, which tracks your activity in apps and websites to provide context in future chats. It can recall recent tasks, find documents, and continue work without needing repeated explanations.\n\nComputer History logs events like clicks, text input, and app switching without recording screen, mic, or system audio. Data stays on the Mac for up to 48 hours and users can pause or delete history selectively.\n\nBuilt on an updated version of Chronicle, the feature uses fewer tokens and offers more privacy controls. It is off by default and rolling out to Pro, Business, and Enterprise users.\n\n📊@tech",
     "entities": [
       {
         "offset": 0,
         "length": 2,
         "type": "custom_emoji",
-        "custom_emoji_id": "5208665212483310136"
+        "custom_emoji_id": "5397681122542893003"
       },
       {
         "offset": 3,
-        "length": 27,
+        "length": 36,
         "type": "bold"
       },
       {
-        "offset": 51,
-        "length": 12,
+        "offset": 86,
+        "length": 16,
         "type": "bold"
       },
       {
-        "offset": 65,
-        "length": 21,
+        "offset": 324,
+        "length": 37,
         "type": "bold"
       },
       {
-        "offset": 172,
-        "length": 29,
+        "offset": 534,
+        "length": 9,
         "type": "bold"
       },
       {
-        "offset": 218,
-        "length": 20,
-        "type": "bold"
-      },
-      {
-        "offset": 313,
-        "length": 17,
-        "type": "bold"
-      },
-      {
-        "offset": 364,
-        "length": 10,
-        "type": "bold"
-      },
-      {
-        "offset": 426,
-        "length": 8,
-        "type": "bold"
-      },
-      {
-        "offset": 464,
-        "length": 19,
-        "type": "bold"
-      },
-      {
-        "offset": 543,
+        "offset": 687,
         "length": 2,
         "type": "bold"
       },
       {
-        "offset": 543,
+        "offset": 687,
         "length": 2,
         "type": "custom_emoji",
         "custom_emoji_id": "5449841756596101801"
       },
       {
-        "offset": 545,
+        "offset": 689,
         "length": 5,
         "type": "mention"
       },
       {
-        "offset": 545,
+        "offset": 689,
         "length": 5,
         "type": "bold"
       }
@@ -82,10 +56,90 @@
     "media_group_id": null,
     "chat_id": -1004468214616,
     "message_ids": [
-      443
+      444
     ],
     "update_ids": [
-      378304336
+      378304337
+    ],
+    "retry_count": 0
+  },
+  {
+    "type": "video",
+    "video_file_id": "BAACAgQAAyEFAAMBClOLWAACAb1qgvmLf8y0zpGLHfQcQuR4o3czpAACDhwAAlIHGFBaU_tw5vVEQT0E",
+    "video_file_size": 6904287,
+    "caption": "🗣Jeff Bezos was asked about the AI bubble and answered with a story about people who lost everything.\n\nBezos: “This is real. The benefits to society from AI are going to be gigantic.”\n\nSociety, rather than shareholders. The example he reaches for makes the difference exact.\n\nElkann: “If we go back 25 years ago, when the internet was in that bubblish moment, no one would have predicted a lot of the industrial benefits. And the fiber, huge investments were put in infrastructure.”\n\nBezos agrees, then adds the part nobody remembers.\n\nBezos: “Yes, it’s a perfect example. That all of that fiber optic cable that got laid, and by the way, the companies who laid all that cable went out of business.”\n\nTwo things happened at the same time. The cable went into the ground and stayed there. The equity went to zero and stayed there.\n\nNo rational investor would have funded that much fiber. The demand did not exist yet, and the returns came nowhere close to justifying the spend. Mania funded it instead. Overbuilding is the one thing a bubble is reliably good at.\n\nEvery mile of it is still in the ground. Netflix streams on it. The entire cloud economy runs on capacity bought at a loss by people who were wiped out before the payoff arrived.\n\nThat is what a bubble actually does. It moves money from investors to the public and calls it a market correction.\n\nThe datacenters going up now are the same shape. Concrete, power, and silicon that will outlast whoever is currently paying for them.\n\nThe companies that won the internet built on top of what everyone else paid for. Amazon was one of them.\n\n@aipost 🏴",
+    "entities": [
+      {
+        "offset": 0,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5287468155738821335"
+      },
+      {
+        "offset": 2,
+        "length": 100,
+        "type": "bold"
+      },
+      {
+        "offset": 1601,
+        "length": 7,
+        "type": "text_link",
+        "url": "https://t.me/aipost"
+      },
+      {
+        "offset": 1609,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5431390559912614642"
+      }
+    ],
+    "media_group_id": null,
+    "chat_id": -1004468214616,
+    "message_ids": [
+      445
+    ],
+    "update_ids": [
+      378304338
+    ],
+    "retry_count": 0
+  },
+  {
+    "type": "video",
+    "video_file_id": "BAACAgQAAyEFAAMBClOLWAACAb5qgvmLsob4n92FeJFUBPWqAXrx_QACChwAAlIHGFCixcCSLgaDED0E",
+    "video_file_size": 34976106,
+    "caption": "🗣Elon Musk said that ALL the chip factories on the planet together cover only 2% of what he needs.\n\nSamsung, TSMC, Micron, all added up 2%. He told them to their faces that he'd buy all their production, and it still wouldn't be enough for him.\n\nThat's why he's going to build a 100-million-square-foot building in Texas, 50 times the Pentagon, $16.8 billion just for the first phase.\n\n\"Either we build the Terafab or we don't have the chips. And we need the chips.\"\n\nWhat the entire world produces in 50 years, he wants every year.\n\n@aipost 🏴",
+    "entities": [
+      {
+        "offset": 0,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5287468155738821335"
+      },
+      {
+        "offset": 2,
+        "length": 97,
+        "type": "bold"
+      },
+      {
+        "offset": 535,
+        "length": 7,
+        "type": "text_link",
+        "url": "https://t.me/aipost"
+      },
+      {
+        "offset": 543,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5431390559912614642"
+      }
+    ],
+    "media_group_id": null,
+    "chat_id": -1004468214616,
+    "message_ids": [
+      446
+    ],
+    "update_ids": [
+      378304339
     ],
     "retry_count": 0
   }
