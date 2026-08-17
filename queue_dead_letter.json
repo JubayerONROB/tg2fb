@@ -1944,5 +1944,69 @@
       378304334
     ],
     "retry_count": 0
+  },
+  {
+    "type": "video",
+    "video_file_id": "BAACAgIAAyEFAAMBClOLWAACAbxqgvlmHs3s60k-3_6SBcGhTIL75wACLaAAAh048Et-96Yt__l23j0E",
+    "video_file_size": 26103563,
+    "caption": "🤖 ChatGPT adds Computer History on Mac\n\nThe desktop ChatGPT app for Mac now includes Computer History, which tracks your activity in apps and websites to provide context in future chats. It can recall recent tasks, find documents, and continue work without needing repeated explanations.\n\nComputer History logs events like clicks, text input, and app switching without recording screen, mic, or system audio. Data stays on the Mac for up to 48 hours and users can pause or delete history selectively.\n\nBuilt on an updated version of Chronicle, the feature uses fewer tokens and offers more privacy controls. It is off by default and rolling out to Pro, Business, and Enterprise users.\n\n📊@tech",
+    "entities": [
+      {
+        "offset": 0,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5397681122542893003"
+      },
+      {
+        "offset": 3,
+        "length": 36,
+        "type": "bold"
+      },
+      {
+        "offset": 86,
+        "length": 16,
+        "type": "bold"
+      },
+      {
+        "offset": 324,
+        "length": 37,
+        "type": "bold"
+      },
+      {
+        "offset": 534,
+        "length": 9,
+        "type": "bold"
+      },
+      {
+        "offset": 687,
+        "length": 2,
+        "type": "bold"
+      },
+      {
+        "offset": 687,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5449841756596101801"
+      },
+      {
+        "offset": 689,
+        "length": 5,
+        "type": "mention"
+      },
+      {
+        "offset": 689,
+        "length": 5,
+        "type": "bold"
+      }
+    ],
+    "media_group_id": null,
+    "chat_id": -1004468214616,
+    "message_ids": [
+      444
+    ],
+    "update_ids": [
+      378304337
+    ],
+    "retry_count": 0
   }
 ]
