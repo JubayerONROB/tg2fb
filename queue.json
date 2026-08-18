@@ -1,41 +1,5 @@
 [
   {
-    "type": "photo",
-    "photo_file_ids": [
-      "AgACAgQAAyEFAAMBClOLWAACAcRqhAT6AqNcVVV8-rgKEmln6WIvHQACcw9rGyU0IVDjVbrxK7s94gEAAwIAA3kAAz0E"
-    ],
-    "caption": "❗️OpenAI has reportedly disbanded its “Preparedness” team, which was responsible for assessing catastrophic risks from its AI models.\n\nThe team’s biosecurity and cybersecurity work is being reassigned to existing groups.\n\n@aipost 🏴",
-    "entities": [
-      {
-        "offset": 0,
-        "length": 2,
-        "type": "custom_emoji",
-        "custom_emoji_id": "5289761612440310918"
-      },
-      {
-        "offset": 222,
-        "length": 7,
-        "type": "text_link",
-        "url": "https://t.me/aipost"
-      },
-      {
-        "offset": 230,
-        "length": 2,
-        "type": "custom_emoji",
-        "custom_emoji_id": "5431390559912614642"
-      }
-    ],
-    "media_group_id": null,
-    "chat_id": -1004468214616,
-    "message_ids": [
-      452
-    ],
-    "update_ids": [
-      378304345
-    ],
-    "retry_count": 0
-  },
-  {
     "type": "video",
     "video_file_id": "BAACAgQAAyEFAAMBClOLWAACAcVqhAT6PSRDqSv6Bo7gAm1_70Va8QACXyAAAiU0IVAq2zIH9RZg9D0E",
     "video_file_size": 7176641,
