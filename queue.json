@@ -1,1 +1,41 @@
-[]
+[
+  {
+    "type": "album",
+    "photo_file_ids": [
+      "AgACAgQAAyEFAAMBClOLWAACAcdqhGuM5okYWuzdAAHywSGa0ewCmUEAAngPaxslNCFQno1SiwtiUBEBAAMCAAN5AAM9BA",
+      "AgACAgQAAyEFAAMBClOLWAACAchqhGuMGNjkEMxcP1BvvlERDNEckwACeQ9rGyU0IVAQ6RRX8iBDPQEAAwIAA3kAAz0E"
+    ],
+    "caption": "A new study found that AI chatbots are significantly better at scamming people than humans.\n\nAI managed to convince 46% of people to download an app in a romance scam compared to 18% of human scammers, with AI potentially driving real human scammers out of business.\n\nSource. \n\n@aipost 🏴",
+    "entities": [
+      {
+        "offset": 268,
+        "length": 8,
+        "type": "text_link",
+        "url": "https://www.vice.com/en/article/ai-chatbots-are-better-at-scamming-people-than-human-scammers-study-finds/"
+      },
+      {
+        "offset": 278,
+        "length": 7,
+        "type": "text_link",
+        "url": "https://t.me/aipost"
+      },
+      {
+        "offset": 286,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5431390559912614642"
+      }
+    ],
+    "media_group_id": "14296505442295981",
+    "chat_id": -1004468214616,
+    "message_ids": [
+      455,
+      456
+    ],
+    "update_ids": [
+      378304348,
+      378304349
+    ],
+    "retry_count": 0
+  }
+]
