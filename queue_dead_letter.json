@@ -2048,5 +2048,50 @@
       378304339
     ],
     "retry_count": 0
+  },
+  {
+    "type": "video",
+    "video_file_id": "BAACAgQAAyEFAAMBClOLWAACAclqhIZmatXldmaSnlxmSWJAbh74xQAC2CAAAiU0KVBJ1sIUWh41AT0E",
+    "video_file_size": 39389868,
+    "caption": "🇳🇱 A robot called Aletta is now drawing blood completely on its own.\n\nUsing AI and ultrasound, it finds the vein, inserts the needle, takes the blood, removes the needle, and puts on a bandage. No human hands required. Up to 98% patients said they would do it again. It's already being used in several Dutch hospitals.\n\n@aipost 🏴",
+    "entities": [
+      {
+        "offset": 0,
+        "length": 4,
+        "type": "bold"
+      },
+      {
+        "offset": 0,
+        "length": 4,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5411124743841524806"
+      },
+      {
+        "offset": 4,
+        "length": 66,
+        "type": "bold"
+      },
+      {
+        "offset": 322,
+        "length": 7,
+        "type": "text_link",
+        "url": "https://t.me/aipost"
+      },
+      {
+        "offset": 330,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5431390559912614642"
+      }
+    ],
+    "media_group_id": null,
+    "chat_id": -1004468214616,
+    "message_ids": [
+      457
+    ],
+    "update_ids": [
+      378304350
+    ],
+    "retry_count": 0
   }
 ]
