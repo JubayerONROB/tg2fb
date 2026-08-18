@@ -1,45 +1,5 @@
 [
   {
-    "type": "video",
-    "video_file_id": "BAACAgQAAyEFAAMBClOLWAACAcNqhAT6uESb1gbkzMzGChM9n-qUxAACQCAAAiU0IVDqmow4as2KZD0E",
-    "video_file_size": 8622658,
-    "caption": "🗣OpenAI's usage pattern from CFO Sarah Friar's new interview.\n\n\"Our free users do about seven turns, or seven questions, a day. Our first paid tier does double that, about 15. Our real paid tier, Plus, which is $20, is about 3x, and Pro is about 11x over a free user.\"\n\nOur mission at OpenAI is AGI for the benefit of humanity, not for the benefit of humanity who can pay, or for the benefit of humanity who live in an enterprise\"\n\n@aipost 🏴",
-    "entities": [
-      {
-        "offset": 0,
-        "length": 2,
-        "type": "custom_emoji",
-        "custom_emoji_id": "5287468155738821335"
-      },
-      {
-        "offset": 2,
-        "length": 60,
-        "type": "bold"
-      },
-      {
-        "offset": 433,
-        "length": 7,
-        "type": "text_link",
-        "url": "https://t.me/aipost"
-      },
-      {
-        "offset": 441,
-        "length": 2,
-        "type": "custom_emoji",
-        "custom_emoji_id": "5431390559912614642"
-      }
-    ],
-    "media_group_id": null,
-    "chat_id": -1004468214616,
-    "message_ids": [
-      451
-    ],
-    "update_ids": [
-      378304344
-    ],
-    "retry_count": 0
-  },
-  {
     "type": "photo",
     "photo_file_ids": [
       "AgACAgQAAyEFAAMBClOLWAACAcRqhAT6AqNcVVV8-rgKEmln6WIvHQACcw9rGyU0IVDjVbrxK7s94gEAAwIAA3kAAz0E"
