@@ -1,18 +1,36 @@
 [
   {
-    "type": "video",
-    "video_file_id": "BAACAgQAAyEFAAMBClOLWAACAdFqhX1KUAKZpF-bdWPAWjLbt4Vw7wACQSIAAiU0KVDfTD7CUVvgvD0E",
-    "video_file_size": 7248257,
-    "caption": "Sam Altman gave a chilling answer when asked if history will remember OpenAI the way it remembers Napster.\n\n@aipost 🏴",
+    "type": "photo",
+    "photo_file_ids": [
+      "AgACAgQAAyEFAAMBClOLWAACAdJqhaYR-sAv4Jt0Qi72YVgwP9zWowACpw9rG7iHKVCL5abpPkl6zAEAAwIAA3cAAz0E"
+    ],
+    "caption": "🤖 OpenAI just built a different ChatGPT for teens\n\nOpenAI is rolling out a dedicated ChatGPT experience for users aged 13–17 and it’s designed to be less “here’s the answer” and more “let’s actually learn this.”\n\nTeen accounts will get stronger safety guardrails, age-appropriate responses and parental controls. Parents can link accounts, set quiet hours, manage memory and privacy settings, and receive limited safety alerts in serious situations. \n\nOpenAI is also trying to stop ChatGPT from becoming a teenager’s digital best friend.\n\nThe company says the experience will encourage real-world relationships and healthy boundaries around AI, while Study Mode pushes students to reason through problems instead of simply copying an answer.\n\nSource.\n\n@aipost 🏴",
     "entities": [
       {
-        "offset": 108,
+        "offset": 0,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5397681122542893003"
+      },
+      {
+        "offset": 2,
+        "length": 48,
+        "type": "bold"
+      },
+      {
+        "offset": 744,
+        "length": 6,
+        "type": "text_link",
+        "url": "https://www.axios.com/2026/08/18/openai-chatgpt-for-teens?utm_campaign=mrf-utm_campaign=editorial&utm_source=x&utm_medium=owned_social&utm_source=twitter&utm_medium=social&mrfcid=202608186a794cc2164dc845ce3943de"
+      },
+      {
+        "offset": 753,
         "length": 7,
         "type": "text_link",
         "url": "https://t.me/aipost"
       },
       {
-        "offset": 116,
+        "offset": 761,
         "length": 2,
         "type": "custom_emoji",
         "custom_emoji_id": "5431390559912614642"
@@ -21,10 +39,10 @@
     "media_group_id": null,
     "chat_id": -1004468214616,
     "message_ids": [
-      465
+      466
     ],
     "update_ids": [
-      378304358
+      378304359
     ],
     "retry_count": 0
   }
