@@ -1,51 +1,6 @@
 [
   {
     "type": "video",
-    "video_file_id": "BAACAgQAAyEFAAMBClOLWAACAc9qhTRwobhWMz5rRnptInh928XMHwAC5CAAAiU0KVA0up5PZvDF6T0E",
-    "video_file_size": 12511364,
-    "caption": "🗣 US VP JD Vance on AI Company's marketing strategy, some AI CEOs sell fear because fear makes their product look powerful and his view on AI driven job loss.\n\n@aipost 🏴",
-    "entities": [
-      {
-        "offset": 0,
-        "length": 2,
-        "type": "bold"
-      },
-      {
-        "offset": 0,
-        "length": 2,
-        "type": "custom_emoji",
-        "custom_emoji_id": "5287468155738821335"
-      },
-      {
-        "offset": 2,
-        "length": 1,
-        "type": "bold"
-      },
-      {
-        "offset": 161,
-        "length": 7,
-        "type": "text_link",
-        "url": "https://t.me/aipost"
-      },
-      {
-        "offset": 169,
-        "length": 2,
-        "type": "custom_emoji",
-        "custom_emoji_id": "5431390559912614642"
-      }
-    ],
-    "media_group_id": null,
-    "chat_id": -1004468214616,
-    "message_ids": [
-      463
-    ],
-    "update_ids": [
-      378304356
-    ],
-    "retry_count": 0
-  },
-  {
-    "type": "video",
     "video_file_id": "BAACAgIAAyEFAAMBClOLWAACAdBqhVe9GuZwIx_QeMGbk4IMxmh_8gAChqsAAsGjKUjMRsOpxR_PDT0E",
     "video_file_size": 958472,
     "caption": "Matic has launched a new home robot capable of cleaning based on simple verbal commands and hand gestures.\n\nThe device operates without the need for an app, menus, or maps. Users issue instructions by pointing to a location and stating commands such as “clean this” or “follow me.” The robot processes input in over 70 languages, navigates to the indicated spot, and can follow the user to another room as needed. All functions are processed internally on the device, allowing full operation without relying on wireless connectivity.\n\nThe development spanned nine years, involving 11 prototypes. The aim was to create a domestic robot responsive to human voice and gestures, designed for family use.\n\n📰 @aipost",
@@ -69,6 +24,35 @@
     ],
     "update_ids": [
       378304357
+    ],
+    "retry_count": 0
+  },
+  {
+    "type": "video",
+    "video_file_id": "BAACAgQAAyEFAAMBClOLWAACAdFqhX1KUAKZpF-bdWPAWjLbt4Vw7wACQSIAAiU0KVDfTD7CUVvgvD0E",
+    "video_file_size": 7248257,
+    "caption": "Sam Altman gave a chilling answer when asked if history will remember OpenAI the way it remembers Napster.\n\n@aipost 🏴",
+    "entities": [
+      {
+        "offset": 108,
+        "length": 7,
+        "type": "text_link",
+        "url": "https://t.me/aipost"
+      },
+      {
+        "offset": 116,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5431390559912614642"
+      }
+    ],
+    "media_group_id": null,
+    "chat_id": -1004468214616,
+    "message_ids": [
+      465
+    ],
+    "update_ids": [
+      378304358
     ],
     "retry_count": 0
   }
