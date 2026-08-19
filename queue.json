@@ -1,35 +1,6 @@
 [
   {
     "type": "video",
-    "video_file_id": "BAACAgQAAyEFAAMBClOLWAACAc1qhTRw0tVGFYKx3R2AWCkTNIT_uwACOB0AAhJDKFCy8zxIWZJQBj0E",
-    "video_file_size": 767765,
-    "caption": "Robot breaking the human speed record and BREAKING an electrical box at the same time.\n\n@aipost 🏴",
-    "entities": [
-      {
-        "offset": 88,
-        "length": 7,
-        "type": "text_link",
-        "url": "https://t.me/aipost"
-      },
-      {
-        "offset": 96,
-        "length": 2,
-        "type": "custom_emoji",
-        "custom_emoji_id": "5431390559912614642"
-      }
-    ],
-    "media_group_id": null,
-    "chat_id": -1004468214616,
-    "message_ids": [
-      461
-    ],
-    "update_ids": [
-      378304354
-    ],
-    "retry_count": 0
-  },
-  {
-    "type": "video",
     "video_file_id": "BAACAgQAAyEFAAMBClOLWAACAc5qhTRwHD2qqgMvhjSSY_-1NZrRDgAC5yAAAiU0KVCGbmMWmdYDrD0E",
     "video_file_size": 48359688,
     "caption": "\"We should merge with them.\"\n\nMichio Kaku, theoretical physicist and futurist, says robots could eventually become as intelligent as humans, and we should merge with them.\n\nThe next frontier of AI may not be replacing humans, but augmenting human intelligence.\n\n@aipost 🏴",
