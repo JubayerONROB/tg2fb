@@ -2093,5 +2093,39 @@
       378304350
     ],
     "retry_count": 0
+  },
+  {
+    "type": "video",
+    "video_file_id": "BAACAgQAAyEFAAMBClOLWAACAc5qhTRwHD2qqgMvhjSSY_-1NZrRDgAC5yAAAiU0KVCGbmMWmdYDrD0E",
+    "video_file_size": 48359688,
+    "caption": "\"We should merge with them.\"\n\nMichio Kaku, theoretical physicist and futurist, says robots could eventually become as intelligent as humans, and we should merge with them.\n\nThe next frontier of AI may not be replacing humans, but augmenting human intelligence.\n\n@aipost 🏴",
+    "entities": [
+      {
+        "offset": 0,
+        "length": 28,
+        "type": "bold"
+      },
+      {
+        "offset": 262,
+        "length": 7,
+        "type": "text_link",
+        "url": "https://t.me/aipost"
+      },
+      {
+        "offset": 270,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5431390559912614642"
+      }
+    ],
+    "media_group_id": null,
+    "chat_id": -1004468214616,
+    "message_ids": [
+      462
+    ],
+    "update_ids": [
+      378304355
+    ],
+    "retry_count": 0
   }
 ]
