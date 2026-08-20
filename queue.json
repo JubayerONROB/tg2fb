@@ -2,66 +2,6 @@
   {
     "type": "photo",
     "photo_file_ids": [
-      "AgACAgQAAyEFAAMBClOLWAACAdtqhsVaLeju5EsfqM_XekVw16iLAwACuw9rG_22JVBWcAPFckf1egEAAwIAA3cAAz0E"
-    ],
-    "caption": "🤖 OpenAI separates teens in ChatGPT\n\nUsers aged 13-17 will get a separate version with stricter filters for harmful topics.\n\nThe bot cannot simulate emotions or provide ready-made homework answers.\n\nAge will be estimated from more than 2,000 behavioral signals, including login time, so documents are not needed. The change follows lawsuits after children received harmful content.\n\n📊@tech",
-    "entities": [
-      {
-        "offset": 0,
-        "length": 2,
-        "type": "custom_emoji",
-        "custom_emoji_id": "5397681122542893003"
-      },
-      {
-        "offset": 3,
-        "length": 33,
-        "type": "bold"
-      },
-      {
-        "offset": 66,
-        "length": 57,
-        "type": "bold"
-      },
-      {
-        "offset": 227,
-        "length": 34,
-        "type": "bold"
-      },
-      {
-        "offset": 384,
-        "length": 2,
-        "type": "bold"
-      },
-      {
-        "offset": 384,
-        "length": 2,
-        "type": "custom_emoji",
-        "custom_emoji_id": "5449841756596101801"
-      },
-      {
-        "offset": 386,
-        "length": 5,
-        "type": "mention"
-      },
-      {
-        "offset": 386,
-        "length": 5,
-        "type": "bold"
-      }
-    ],
-    "media_group_id": null,
-    "chat_id": -1004468214616,
-    "message_ids": [
-      475
-    ],
-    "update_ids": [
-      378304368
-    ],
-    "retry_count": 0
-  },
-  {
-    "type": "photo",
-    "photo_file_ids": [
       "AgACAgIAAyEFAAMBClOLWAACAdxqhsVgLSya8-uVLD2jHHbn3qeMGwACfR5rGwLvIUhG44kwyAXwbAEAAwIAA3kAAz0E"
     ],
     "caption": "🤖 OpenAI Cuts GPT-5.6 Agent Costs\n\nGPT-5.6 Luna scored 84.04% on BrowseComp, nearly matching GPT-5.5 at 84.36%. Its run cost $1.33 instead of $33.27, making the gap hard to ignore.\n\nFor agent work, OpenAI recommends Luna and Terra for data extraction and document search. GPT-5.6 Sol on low reasoning also beat GPT-5.5 on high reasoning in one agent test.\n\nThe bigger gain comes from the agent setup. GPT-5.6 can preserve reasoning between steps and compact long histories. On ARC-AGI-3, that lifted Sol from 13.3% to 38.3% while using about 6 times fewer output tokens. The model itself was unchanged.\n\n📊@tech",
