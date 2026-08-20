@@ -1,51 +1,5 @@
 [
   {
-    "type": "video",
-    "video_file_id": "BAACAgQAAyEFAAMBClOLWAACAdZqhnp-_Blq_fkcsRED_s6tDfsmnAACtx8AAriHKVD4tiTopInFij0E",
-    "video_file_size": 4425166,
-    "caption": "🤖 Claude just designed 354 protein binders that worked in the lab\n\nAnthropic gave its AI agents 16 biological targets and asked them to design entirely new protein minibinders. Claude generated 1,320 designs, and 354 were experimentally confirmed to work.\n\nAcross 15 targets that were tested, Claude produced successful binders for 14, with hit rates between 22.6% and 35.1%, roughly 2–3× higher than the 10–15% rates Anthropic says are typical for current de novo protein-design campaigns.\n\nClaude wasn’t simply generating protein sequences. It autonomously coordinated specialized protein-design, sequence-design and protein-folding models, optimized candidates, filtered them computationally and decided which designs were worth sending to the lab.\n\nThen Adaptyv Bio and Twist Bioscience physically produced the proteins and tested them.\n\nAgainst RBX1, Claude achieved a 40% hit rate. A previous protein-design competition managed just 3.7%.\n\nSource.\n\n@aipost 🏴",
-    "entities": [
-      {
-        "offset": 0,
-        "length": 2,
-        "type": "custom_emoji",
-        "custom_emoji_id": "5208665212483310136"
-      },
-      {
-        "offset": 3,
-        "length": 63,
-        "type": "bold"
-      },
-      {
-        "offset": 947,
-        "length": 6,
-        "type": "text_link",
-        "url": "https://www.anthropic.com/research/Claude-accelerates-protein-design"
-      },
-      {
-        "offset": 956,
-        "length": 7,
-        "type": "text_link",
-        "url": "https://t.me/aipost"
-      },
-      {
-        "offset": 964,
-        "length": 2,
-        "type": "custom_emoji",
-        "custom_emoji_id": "5431390559912614642"
-      }
-    ],
-    "media_group_id": null,
-    "chat_id": -1004468214616,
-    "message_ids": [
-      470
-    ],
-    "update_ids": [
-      378304363
-    ],
-    "retry_count": 0
-  },
-  {
     "type": "photo",
     "photo_file_ids": [
       "AgACAgQAAyEFAAMBClOLWAACAddqhnqVfAij3iH2bufhm0kYjxDsVgACtA9rG7iHKVAx_pxGsIE7DgEAAwIAA3gAAz0E"
