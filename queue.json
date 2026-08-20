@@ -1,38 +1,5 @@
 [
   {
-    "type": "album",
-    "photo_file_ids": [
-      "AgACAgQAAyEFAAMBClOLWAACAeBqhzFWF7usjWwdNzCH6fDgsoLkmAACdA9rG7iHOVDPdux6mzZPQwEAAwIAA3kAAz0E",
-      "AgACAgQAAyEFAAMBClOLWAACAeFqhzFWcAtz5G346TTnp6Xlx9Cw2QACdQ9rG7iHOVCaAAGPt8hA4BYBAAMCAAN5AAM9BA"
-    ],
-    "caption": "Paid Claude subscribers are cancelling their sub in droves due to the watermark requirement on AI-generated content.\n\nThey fear content will be properly labelled as AI-generated instead of being able to pass it off as their own work.\n\n@aipost 🏴",
-    "entities": [
-      {
-        "offset": 235,
-        "length": 7,
-        "type": "text_link",
-        "url": "https://t.me/aipost"
-      },
-      {
-        "offset": 243,
-        "length": 2,
-        "type": "custom_emoji",
-        "custom_emoji_id": "5431390559912614642"
-      }
-    ],
-    "media_group_id": "14297959088286757",
-    "chat_id": -1004468214616,
-    "message_ids": [
-      480,
-      481
-    ],
-    "update_ids": [
-      378304373,
-      378304374
-    ],
-    "retry_count": 0
-  },
-  {
     "type": "video",
     "video_file_id": "BAACAgQAAyEFAAMBClOLWAACAeJqhzFsMNiJQ-5wiMk7ujhA6UIN_wAC6RwAAriHOVD5QoI_eF86ED0E",
     "video_file_size": 2298799,
