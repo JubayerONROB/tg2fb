@@ -1,1 +1,161 @@
-[]
+[
+  {
+    "type": "photo",
+    "photo_file_ids": [
+      "AgACAgQAAyEFAAMBClOLWAACAdRqhnp-TSj-v3UKS7W3Ql4HqV2IvQACqw9rG7iHKVDA4qzThdKwSgEAAwIAA3kAAz0E"
+    ],
+    "caption": "Next week, ChatGPT Ads will expand to 31 European countries, including Germany, France, Spain, Italy, Sweden, Norway, Denmark, the Netherlands, and Austria.\n\nIt seems an agreement was reached very quickly with the EU. This means that anyone using the free tier will now receive advertisements.\n\nSource.\n\n@aipost 🏴",
+    "entities": [
+      {
+        "offset": 295,
+        "length": 6,
+        "type": "text_link",
+        "url": "https://openai.com/index/chatgpt-ads-expands-across-europe/"
+      },
+      {
+        "offset": 304,
+        "length": 7,
+        "type": "text_link",
+        "url": "https://t.me/aipost"
+      },
+      {
+        "offset": 312,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5431390559912614642"
+      }
+    ],
+    "media_group_id": null,
+    "chat_id": -1004468214616,
+    "message_ids": [
+      468
+    ],
+    "update_ids": [
+      378304361
+    ],
+    "retry_count": 0
+  },
+  {
+    "type": "photo",
+    "photo_file_ids": [
+      "AgACAgQAAyEFAAMBClOLWAACAdVqhnp-84pxbNtPVedvdt_5Vxy0KQACrA9rG7iHKVAxYaVBrrtSFAEAAwIAA3kAAz0E"
+    ],
+    "caption": "🍺 Beijing has a bar where your drink comes with free DeepSeek tokens\n\nForget happy hour. In Beijing, you can now grab a drink and get free AI compute on the side.\n\nAGI Bar, an AI-themed hangout in Zhongguancun, charges just 9.9 yuan ($1.50) for its signature drink and customers get unlimited DeepSeek tokens for coding through the bar’s AI agent.\n\nThe tokens run on two Nvidia DGX Spark machines sitting inside the bar. \n\nThe place has become a meeting spot for AI developers, investors and students, hosting developer seminars, open-source AI events and parties for Chinese AI labs.\n\nAnd the owner is taking the concept even further: much of the bar’s operations are already automated with AI, and humanoid robot waiters are reportedly on the way.\n\nThere’s just one problem… The bar is losing money because it gives away far more drinks and AI tokens than it sells.\n\nSource.\n\n@aipost 🏴",
+    "entities": [
+      {
+        "offset": 0,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5402227731972771532"
+      },
+      {
+        "offset": 3,
+        "length": 66,
+        "type": "bold"
+      },
+      {
+        "offset": 870,
+        "length": 6,
+        "type": "text_link",
+        "url": "https://www.reuters.com/world/asia-pacific/beijing-ai-themed-bar-deepseek-tokens-come-with-pints-2026-08-17/"
+      },
+      {
+        "offset": 879,
+        "length": 7,
+        "type": "text_link",
+        "url": "https://t.me/aipost"
+      },
+      {
+        "offset": 887,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5431390559912614642"
+      }
+    ],
+    "media_group_id": null,
+    "chat_id": -1004468214616,
+    "message_ids": [
+      469
+    ],
+    "update_ids": [
+      378304362
+    ],
+    "retry_count": 0
+  },
+  {
+    "type": "video",
+    "video_file_id": "BAACAgQAAyEFAAMBClOLWAACAdZqhnp-_Blq_fkcsRED_s6tDfsmnAACtx8AAriHKVD4tiTopInFij0E",
+    "video_file_size": 4425166,
+    "caption": "🤖 Claude just designed 354 protein binders that worked in the lab\n\nAnthropic gave its AI agents 16 biological targets and asked them to design entirely new protein minibinders. Claude generated 1,320 designs, and 354 were experimentally confirmed to work.\n\nAcross 15 targets that were tested, Claude produced successful binders for 14, with hit rates between 22.6% and 35.1%, roughly 2–3× higher than the 10–15% rates Anthropic says are typical for current de novo protein-design campaigns.\n\nClaude wasn’t simply generating protein sequences. It autonomously coordinated specialized protein-design, sequence-design and protein-folding models, optimized candidates, filtered them computationally and decided which designs were worth sending to the lab.\n\nThen Adaptyv Bio and Twist Bioscience physically produced the proteins and tested them.\n\nAgainst RBX1, Claude achieved a 40% hit rate. A previous protein-design competition managed just 3.7%.\n\nSource.\n\n@aipost 🏴",
+    "entities": [
+      {
+        "offset": 0,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5208665212483310136"
+      },
+      {
+        "offset": 3,
+        "length": 63,
+        "type": "bold"
+      },
+      {
+        "offset": 947,
+        "length": 6,
+        "type": "text_link",
+        "url": "https://www.anthropic.com/research/Claude-accelerates-protein-design"
+      },
+      {
+        "offset": 956,
+        "length": 7,
+        "type": "text_link",
+        "url": "https://t.me/aipost"
+      },
+      {
+        "offset": 964,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5431390559912614642"
+      }
+    ],
+    "media_group_id": null,
+    "chat_id": -1004468214616,
+    "message_ids": [
+      470
+    ],
+    "update_ids": [
+      378304363
+    ],
+    "retry_count": 0
+  },
+  {
+    "type": "photo",
+    "photo_file_ids": [
+      "AgACAgQAAyEFAAMBClOLWAACAddqhnqVfAij3iH2bufhm0kYjxDsVgACtA9rG7iHKVAx_pxGsIE7DgEAAwIAA3gAAz0E"
+    ],
+    "caption": "Translation: “We are out of compute.”\n\n@aipost 🏴",
+    "entities": [
+      {
+        "offset": 39,
+        "length": 7,
+        "type": "text_link",
+        "url": "https://t.me/aipost"
+      },
+      {
+        "offset": 47,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5431390559912614642"
+      }
+    ],
+    "media_group_id": null,
+    "chat_id": -1004468214616,
+    "message_ids": [
+      471
+    ],
+    "update_ids": [
+      378304364
+    ],
+    "retry_count": 0
+  }
+]
