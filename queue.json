@@ -1,50 +1,5 @@
 [
   {
-    "type": "video",
-    "video_file_id": "BAACAgQAAyEFAAMBClOLWAACAd9qhzFJVZE9H8ZAPfdxUg6YO_vVqQAC0xwAAriHOVA-O4_P3-h1fT0E",
-    "video_file_size": 40303396,
-    "caption": "🇰🇷 South Korea is putting AI into the dating game\n\nThe next Korean dating show has contestants falling for partners that don’t even exist.\n\nIn My AI Partner: Strange Romance, participants date AI-generated partners designed around their personalities, interests, preferences and idea of a perfect relationship. They chat, go on dates and build emotional connections with their virtual partners. \n\n@aipost 🏴",
-    "entities": [
-      {
-        "offset": 0,
-        "length": 4,
-        "type": "custom_emoji",
-        "custom_emoji_id": "5456531898304047227"
-      },
-      {
-        "offset": 5,
-        "length": 46,
-        "type": "bold"
-      },
-      {
-        "offset": 159,
-        "length": 1,
-        "type": "italic"
-      },
-      {
-        "offset": 399,
-        "length": 7,
-        "type": "text_link",
-        "url": "https://t.me/aipost"
-      },
-      {
-        "offset": 407,
-        "length": 2,
-        "type": "custom_emoji",
-        "custom_emoji_id": "5431390559912614642"
-      }
-    ],
-    "media_group_id": null,
-    "chat_id": -1004468214616,
-    "message_ids": [
-      479
-    ],
-    "update_ids": [
-      378304372
-    ],
-    "retry_count": 0
-  },
-  {
     "type": "album",
     "photo_file_ids": [
       "AgACAgQAAyEFAAMBClOLWAACAeBqhzFWF7usjWwdNzCH6fDgsoLkmAACdA9rG7iHOVDPdux6mzZPQwEAAwIAA3kAAz0E",
