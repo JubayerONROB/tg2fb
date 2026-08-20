@@ -1,104 +1,5 @@
 [
   {
-    "type": "video",
-    "video_file_id": "BAACAgIAAyEFAAMBClOLWAACAdpqhsUUj4If4G9Ro9AhxkzuUhfhUgAC-acAAgLvIUjuFZIPKdG0Ij0E",
-    "video_file_size": 12905560,
-    "caption": "🤖 Claude Code Adds /design Skill\n\nThe /design skill is in research preview and brings artboards from Claude Design into the CLI and Desktop.\n\nDescribe an interface to get several editable layouts, choose one, refine it manually, then ask Claude to turn the design into a working interface.\n\n📊@tech",
-    "entities": [
-      {
-        "offset": 0,
-        "length": 2,
-        "type": "custom_emoji",
-        "custom_emoji_id": "5208665212483310136"
-      },
-      {
-        "offset": 3,
-        "length": 17,
-        "type": "bold"
-      },
-      {
-        "offset": 20,
-        "length": 7,
-        "type": "bot_command"
-      },
-      {
-        "offset": 20,
-        "length": 7,
-        "type": "bold"
-      },
-      {
-        "offset": 27,
-        "length": 6,
-        "type": "bold"
-      },
-      {
-        "offset": 39,
-        "length": 7,
-        "type": "bot_command"
-      },
-      {
-        "offset": 39,
-        "length": 7,
-        "type": "bold"
-      },
-      {
-        "offset": 46,
-        "length": 6,
-        "type": "bold"
-      },
-      {
-        "offset": 59,
-        "length": 16,
-        "type": "bold"
-      },
-      {
-        "offset": 102,
-        "length": 13,
-        "type": "bold"
-      },
-      {
-        "offset": 172,
-        "length": 24,
-        "type": "bold"
-      },
-      {
-        "offset": 272,
-        "length": 17,
-        "type": "bold"
-      },
-      {
-        "offset": 292,
-        "length": 2,
-        "type": "bold"
-      },
-      {
-        "offset": 292,
-        "length": 2,
-        "type": "custom_emoji",
-        "custom_emoji_id": "5449841756596101801"
-      },
-      {
-        "offset": 294,
-        "length": 5,
-        "type": "mention"
-      },
-      {
-        "offset": 294,
-        "length": 5,
-        "type": "bold"
-      }
-    ],
-    "media_group_id": null,
-    "chat_id": -1004468214616,
-    "message_ids": [
-      474
-    ],
-    "update_ids": [
-      378304367
-    ],
-    "retry_count": 0
-  },
-  {
     "type": "photo",
     "photo_file_ids": [
       "AgACAgQAAyEFAAMBClOLWAACAdtqhsVaLeju5EsfqM_XekVw16iLAwACuw9rG_22JVBWcAPFckf1egEAAwIAA3cAAz0E"
@@ -255,6 +156,35 @@
     ],
     "update_ids": [
       378304369
+    ],
+    "retry_count": 0
+  },
+  {
+    "type": "video",
+    "video_file_id": "BAACAgQAAyEFAAMBClOLWAACAd1qhtl2kHomRdCeGIjkaljTJ9GwdwACUhwAAriHMVArt40E4fSICj0E",
+    "video_file_size": 4109551,
+    "caption": "@aipost 🏴",
+    "entities": [
+      {
+        "offset": 0,
+        "length": 7,
+        "type": "text_link",
+        "url": "https://t.me/aipost"
+      },
+      {
+        "offset": 8,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5431390559912614642"
+      }
+    ],
+    "media_group_id": null,
+    "chat_id": -1004468214616,
+    "message_ids": [
+      477
+    ],
+    "update_ids": [
+      378304370
     ],
     "retry_count": 0
   }
