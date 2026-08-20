@@ -1,52 +1,5 @@
 [
   {
-    "type": "photo",
-    "photo_file_ids": [
-      "AgACAgQAAyEFAAMBClOLWAACAdVqhnp-84pxbNtPVedvdt_5Vxy0KQACrA9rG7iHKVAxYaVBrrtSFAEAAwIAA3kAAz0E"
-    ],
-    "caption": "🍺 Beijing has a bar where your drink comes with free DeepSeek tokens\n\nForget happy hour. In Beijing, you can now grab a drink and get free AI compute on the side.\n\nAGI Bar, an AI-themed hangout in Zhongguancun, charges just 9.9 yuan ($1.50) for its signature drink and customers get unlimited DeepSeek tokens for coding through the bar’s AI agent.\n\nThe tokens run on two Nvidia DGX Spark machines sitting inside the bar. \n\nThe place has become a meeting spot for AI developers, investors and students, hosting developer seminars, open-source AI events and parties for Chinese AI labs.\n\nAnd the owner is taking the concept even further: much of the bar’s operations are already automated with AI, and humanoid robot waiters are reportedly on the way.\n\nThere’s just one problem… The bar is losing money because it gives away far more drinks and AI tokens than it sells.\n\nSource.\n\n@aipost 🏴",
-    "entities": [
-      {
-        "offset": 0,
-        "length": 2,
-        "type": "custom_emoji",
-        "custom_emoji_id": "5402227731972771532"
-      },
-      {
-        "offset": 3,
-        "length": 66,
-        "type": "bold"
-      },
-      {
-        "offset": 870,
-        "length": 6,
-        "type": "text_link",
-        "url": "https://www.reuters.com/world/asia-pacific/beijing-ai-themed-bar-deepseek-tokens-come-with-pints-2026-08-17/"
-      },
-      {
-        "offset": 879,
-        "length": 7,
-        "type": "text_link",
-        "url": "https://t.me/aipost"
-      },
-      {
-        "offset": 887,
-        "length": 2,
-        "type": "custom_emoji",
-        "custom_emoji_id": "5431390559912614642"
-      }
-    ],
-    "media_group_id": null,
-    "chat_id": -1004468214616,
-    "message_ids": [
-      469
-    ],
-    "update_ids": [
-      378304362
-    ],
-    "retry_count": 0
-  },
-  {
     "type": "video",
     "video_file_id": "BAACAgQAAyEFAAMBClOLWAACAdZqhnp-_Blq_fkcsRED_s6tDfsmnAACtx8AAriHKVD4tiTopInFij0E",
     "video_file_size": 4425166,
