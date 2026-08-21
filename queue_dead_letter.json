@@ -2256,5 +2256,40 @@
       378304372
     ],
     "retry_count": 0
+  },
+  {
+    "type": "video",
+    "video_file_id": "BAACAgQAAyEFAAMBClOLWAACAeVqh-7rgmkoJrQy4FpbGf3QxRy10gACOx4AAmOmOVC1Qy731r8Qlj0E",
+    "video_file_size": 23209270,
+    "caption": "Anthropic have released Claude Academy. The platform teaches users of all levels about Claude and AI.\n\nSource. \n\n@aipost 🏴",
+    "entities": [
+      {
+        "offset": 103,
+        "length": 8,
+        "type": "text_link",
+        "url": "https://claude.com/blog/anthropics-approach-to-teaching-and-learning-ai"
+      },
+      {
+        "offset": 113,
+        "length": 7,
+        "type": "text_link",
+        "url": "https://t.me/aipost"
+      },
+      {
+        "offset": 121,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5431390559912614642"
+      }
+    ],
+    "media_group_id": null,
+    "chat_id": -1004468214616,
+    "message_ids": [
+      485
+    ],
+    "update_ids": [
+      378304378
+    ],
+    "retry_count": 0
   }
 ]
