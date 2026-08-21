@@ -1,1 +1,133 @@
-[]
+[
+  {
+    "type": "video",
+    "video_file_id": "BAACAgIAAyEFAAMBClOLWAACAepqiEnaNgOJ9ecUGmbaiYRaafVGqAAC17UAAkLbMUiQIt26DdOczD0E",
+    "video_file_size": 16679884,
+    "caption": "☠️ Voyah EV Completes a Tunnel Loop\n\nIn a test tunnel in Wuhan, the Passion S entered a turn at 130 km/h, holding about 16° of steering angle. The resulting centripetal force pushed the electric crossover onto the wall, over the ceiling, then back down.\n\nThe electric crossover used its speed and the tunnel’s radius to stay pressed against the concrete.\n\nThe margin was tiny. A speed drop would reduce the normal force between the tires and concrete, so engineers had to calculate a narrow operating window for the heavy EV.\n\n📊@tech",
+    "entities": [
+      {
+        "offset": 0,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5143130904968823892"
+      },
+      {
+        "offset": 3,
+        "length": 32,
+        "type": "bold"
+      },
+      {
+        "offset": 68,
+        "length": 9,
+        "type": "bold"
+      },
+      {
+        "offset": 96,
+        "length": 8,
+        "type": "bold"
+      },
+      {
+        "offset": 120,
+        "length": 21,
+        "type": "bold"
+      },
+      {
+        "offset": 157,
+        "length": 17,
+        "type": "bold"
+      },
+      {
+        "offset": 259,
+        "length": 18,
+        "type": "bold"
+      },
+      {
+        "offset": 484,
+        "length": 23,
+        "type": "bold"
+      },
+      {
+        "offset": 516,
+        "length": 8,
+        "type": "bold"
+      },
+      {
+        "offset": 527,
+        "length": 2,
+        "type": "bold"
+      },
+      {
+        "offset": 527,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5449841756596101801"
+      },
+      {
+        "offset": 529,
+        "length": 5,
+        "type": "mention"
+      },
+      {
+        "offset": 529,
+        "length": 5,
+        "type": "bold"
+      }
+    ],
+    "media_group_id": null,
+    "chat_id": -1004468214616,
+    "message_ids": [
+      490
+    ],
+    "update_ids": [
+      378304383
+    ],
+    "retry_count": 0
+  },
+  {
+    "type": "photo",
+    "photo_file_ids": [
+      "AgACAgQAAyEFAAMBClOLWAACAetqiEopDhGO7yhnad6f3q2dMYnXCAAC3A5rG2OmQVDftOd5BLdHPAEAAwIAA3cAAz0E"
+    ],
+    "caption": "👀 DeepSeek just gave AI agents eyes\n\nDeepSeek has released DeepSeek-V4-Flash-Vision-Exp, an experimental multimodal model that brings vision to its V4-Flash capabilities.\n\nThe model reportedly matches V4-Flash on text tasks like reasoning, agents, and world knowledge, while making a big jump on multimodal agent benchmarks, pushing performance close to Opus-4.8.\n\nThat means AI agents can now understand images while using tools, opening up workflows that previously required separate vision models.\n\nSource.\n\n@aipost 🏴",
+    "entities": [
+      {
+        "offset": 0,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5357121491508928442"
+      },
+      {
+        "offset": 3,
+        "length": 33,
+        "type": "bold"
+      },
+      {
+        "offset": 503,
+        "length": 6,
+        "type": "text_link",
+        "url": "https://api-docs.deepseek.com/guides/files_api/"
+      },
+      {
+        "offset": 512,
+        "length": 7,
+        "type": "text_link",
+        "url": "https://t.me/aipost"
+      },
+      {
+        "offset": 520,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5431390559912614642"
+      }
+    ],
+    "media_group_id": null,
+    "chat_id": -1004468214616,
+    "message_ids": [
+      491
+    ],
+    "update_ids": [
+      378304384
+    ],
+    "retry_count": 0
+  }
+]
