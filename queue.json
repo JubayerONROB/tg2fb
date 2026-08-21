@@ -1,45 +1,5 @@
 [
   {
-    "type": "video",
-    "video_file_id": "BAACAgQAAyEFAAMBClOLWAACAeZqh-7-LzkdCqTg1DBC-pZ6bYnocAACnh0AAmOmOVBoGh6rwehWXj0E",
-    "video_file_size": 31122664,
-    "caption": "🗣\"We're ready for a complete rewriting of how scientific discovery can be done.\"\n\nFei-Fei Li, co-founder and CEO of World Labs and Stanford professor, says AI can synthesize knowledge across disciplines beyond any single human mind.\n\nScientific discovery is shifting from human-limited knowledge to machine-augmented intelligence.\n\n@aipost 🏴",
-    "entities": [
-      {
-        "offset": 0,
-        "length": 2,
-        "type": "custom_emoji",
-        "custom_emoji_id": "5287468155738821335"
-      },
-      {
-        "offset": 2,
-        "length": 79,
-        "type": "bold"
-      },
-      {
-        "offset": 333,
-        "length": 7,
-        "type": "text_link",
-        "url": "https://t.me/aipost"
-      },
-      {
-        "offset": 341,
-        "length": 2,
-        "type": "custom_emoji",
-        "custom_emoji_id": "5431390559912614642"
-      }
-    ],
-    "media_group_id": null,
-    "chat_id": -1004468214616,
-    "message_ids": [
-      486
-    ],
-    "update_ids": [
-      378304379
-    ],
-    "retry_count": 0
-  },
-  {
     "type": "photo",
     "photo_file_ids": [
       "AgACAgQAAyEFAAMBClOLWAACAedqh-8LvHGnlqdR5SW_Jvr4WdTgXQACng9rG2OmOVAq6HfZxDcUuQEAAwIAA3gAAz0E"
