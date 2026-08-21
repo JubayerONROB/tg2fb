@@ -2331,5 +2331,60 @@
       378304379
     ],
     "retry_count": 0
+  },
+  {
+    "type": "video",
+    "video_file_id": "BAACAgQAAyEFAAMBClOLWAACAexqiKX1iEsj9bteHKubw5iLayL17gAC9B4AAmOmQVAho-RyFxzh3T0E",
+    "video_file_size": 33897418,
+    "caption": "❗️OpenAI and Anthropic just folded on their data retention policy after Palantir CEO exposed their real business model\n\nAlex Karp:\n\n\"something has gone completely wrong\" \nthey want \"access to my data\" so they can \"build my alpha\" \n\"i'm gonna get no value, and they're gonna get my IP\" \n\"this is insane\" \n\"trying to drug addict us to a future they believe they control\" \n\"who owns the data? where is it cached? are the prompts secured?\" \n\"we need to rebuild trust\"\n\nYesterday: OpenAI started testing \"private safety processing\" to avoid retaining customer data\n\nToday: Anthropic reversing course, will allow enterprise customers to keep data on THEIR OWN cloud infrastructure instead of Anthropic's\n\nAlex Karp was right.\n\n@aipost 🏴",
+    "entities": [
+      {
+        "offset": 0,
+        "length": 2,
+        "type": "bold"
+      },
+      {
+        "offset": 0,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5289761612440310918"
+      },
+      {
+        "offset": 2,
+        "length": 116,
+        "type": "bold"
+      },
+      {
+        "offset": 120,
+        "length": 10,
+        "type": "bold"
+      },
+      {
+        "offset": 699,
+        "length": 20,
+        "type": "bold"
+      },
+      {
+        "offset": 721,
+        "length": 7,
+        "type": "text_link",
+        "url": "https://t.me/aipost"
+      },
+      {
+        "offset": 729,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5431390559912614642"
+      }
+    ],
+    "media_group_id": "14298722223911061",
+    "chat_id": -1004468214616,
+    "message_ids": [
+      492
+    ],
+    "update_ids": [
+      378304385
+    ],
+    "retry_count": 0
   }
 ]

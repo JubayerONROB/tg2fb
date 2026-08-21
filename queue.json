@@ -1,1 +1,22 @@
-[]
+[
+  {
+    "type": "album",
+    "photo_file_ids": [
+      "AgACAgQAAyEFAAMBClOLWAACAe1qiKX1F1RtcobFCxfERkUCpKMqHwACCA9rG2OmQVBNo_0cnzXACgEAAwIAA3cAAz0E",
+      "AgACAgQAAyEFAAMBClOLWAACAe5qiKX1lmWHZTYWxboN8fRfwEUJYQACCQ9rG2OmQVAe7Ct840XDogEAAwIAA3gAAz0E"
+    ],
+    "caption": "",
+    "entities": [],
+    "media_group_id": "14298722223911061",
+    "chat_id": -1004468214616,
+    "message_ids": [
+      493,
+      494
+    ],
+    "update_ids": [
+      378304386,
+      378304387
+    ],
+    "retry_count": 0
+  }
+]
