@@ -1,46 +1,5 @@
 [
   {
-    "type": "photo",
-    "photo_file_ids": [
-      "AgACAgQAAyEFAAMBClOLWAACAedqh-8LvHGnlqdR5SW_Jvr4WdTgXQACng9rG2OmOVAq6HfZxDcUuQEAAwIAA3gAAz0E"
-    ],
-    "caption": "🤖 OpenAI wants safer AI agents without sacrificing privacy\n\nAs AI agents become more autonomous, safety gets trickier: the more context an AI system has, the easier it is to spot dangerous behavior. But keeping all that context also makes privacy harder to guarantee.\n\nOpenAI’s Private Safety Processing is designed to tackle that tradeoff. It can detect suspicious patterns across interactions while keeping the actual customer content inaccessible to OpenAI personnel.\n\nUnder Zero Data Retention, eligible API customers get some strong privacy protections: prompts and responses aren’t retained after processing, customer content isn’t available for human review, and enterprise data isn’t used for training unless the customer opts in.\n\nIf the system detects potential misuse, OpenAI gets a narrow safety signal describing the type of activity, not the underlying prompts or responses.\n\n@aipost 🏴",
-    "entities": [
-      {
-        "offset": 0,
-        "length": 2,
-        "type": "custom_emoji",
-        "custom_emoji_id": "5397681122542893003"
-      },
-      {
-        "offset": 3,
-        "length": 56,
-        "type": "bold"
-      },
-      {
-        "offset": 891,
-        "length": 7,
-        "type": "text_link",
-        "url": "https://t.me/aipost"
-      },
-      {
-        "offset": 899,
-        "length": 2,
-        "type": "custom_emoji",
-        "custom_emoji_id": "5431390559912614642"
-      }
-    ],
-    "media_group_id": null,
-    "chat_id": -1004468214616,
-    "message_ids": [
-      487
-    ],
-    "update_ids": [
-      378304380
-    ],
-    "retry_count": 0
-  },
-  {
     "type": "video",
     "video_file_id": "BAACAgQAAyEFAAMBClOLWAACAehqiAQzJIgrwHEESA_I_3s71yDhZgAC8B0AAmOmOVCoxhjLajvkQD0E",
     "video_file_size": 20488438,
