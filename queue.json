@@ -1,1 +1,118 @@
-[]
+[
+  {
+    "type": "video",
+    "video_file_id": "BAACAgQAAyEFAAMBClOLWAACAeVqh-7rgmkoJrQy4FpbGf3QxRy10gACOx4AAmOmOVC1Qy731r8Qlj0E",
+    "video_file_size": 23209270,
+    "caption": "Anthropic have released Claude Academy. The platform teaches users of all levels about Claude and AI.\n\nSource. \n\n@aipost 🏴",
+    "entities": [
+      {
+        "offset": 103,
+        "length": 8,
+        "type": "text_link",
+        "url": "https://claude.com/blog/anthropics-approach-to-teaching-and-learning-ai"
+      },
+      {
+        "offset": 113,
+        "length": 7,
+        "type": "text_link",
+        "url": "https://t.me/aipost"
+      },
+      {
+        "offset": 121,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5431390559912614642"
+      }
+    ],
+    "media_group_id": null,
+    "chat_id": -1004468214616,
+    "message_ids": [
+      485
+    ],
+    "update_ids": [
+      378304378
+    ],
+    "retry_count": 0
+  },
+  {
+    "type": "video",
+    "video_file_id": "BAACAgQAAyEFAAMBClOLWAACAeZqh-7-LzkdCqTg1DBC-pZ6bYnocAACnh0AAmOmOVBoGh6rwehWXj0E",
+    "video_file_size": 31122664,
+    "caption": "🗣\"We're ready for a complete rewriting of how scientific discovery can be done.\"\n\nFei-Fei Li, co-founder and CEO of World Labs and Stanford professor, says AI can synthesize knowledge across disciplines beyond any single human mind.\n\nScientific discovery is shifting from human-limited knowledge to machine-augmented intelligence.\n\n@aipost 🏴",
+    "entities": [
+      {
+        "offset": 0,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5287468155738821335"
+      },
+      {
+        "offset": 2,
+        "length": 79,
+        "type": "bold"
+      },
+      {
+        "offset": 333,
+        "length": 7,
+        "type": "text_link",
+        "url": "https://t.me/aipost"
+      },
+      {
+        "offset": 341,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5431390559912614642"
+      }
+    ],
+    "media_group_id": null,
+    "chat_id": -1004468214616,
+    "message_ids": [
+      486
+    ],
+    "update_ids": [
+      378304379
+    ],
+    "retry_count": 0
+  },
+  {
+    "type": "photo",
+    "photo_file_ids": [
+      "AgACAgQAAyEFAAMBClOLWAACAedqh-8LvHGnlqdR5SW_Jvr4WdTgXQACng9rG2OmOVAq6HfZxDcUuQEAAwIAA3gAAz0E"
+    ],
+    "caption": "🤖 OpenAI wants safer AI agents without sacrificing privacy\n\nAs AI agents become more autonomous, safety gets trickier: the more context an AI system has, the easier it is to spot dangerous behavior. But keeping all that context also makes privacy harder to guarantee.\n\nOpenAI’s Private Safety Processing is designed to tackle that tradeoff. It can detect suspicious patterns across interactions while keeping the actual customer content inaccessible to OpenAI personnel.\n\nUnder Zero Data Retention, eligible API customers get some strong privacy protections: prompts and responses aren’t retained after processing, customer content isn’t available for human review, and enterprise data isn’t used for training unless the customer opts in.\n\nIf the system detects potential misuse, OpenAI gets a narrow safety signal describing the type of activity, not the underlying prompts or responses.\n\n@aipost 🏴",
+    "entities": [
+      {
+        "offset": 0,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5397681122542893003"
+      },
+      {
+        "offset": 3,
+        "length": 56,
+        "type": "bold"
+      },
+      {
+        "offset": 891,
+        "length": 7,
+        "type": "text_link",
+        "url": "https://t.me/aipost"
+      },
+      {
+        "offset": 899,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5431390559912614642"
+      }
+    ],
+    "media_group_id": null,
+    "chat_id": -1004468214616,
+    "message_ids": [
+      487
+    ],
+    "update_ids": [
+      378304380
+    ],
+    "retry_count": 0
+  }
+]
