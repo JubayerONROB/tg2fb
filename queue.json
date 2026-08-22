@@ -1,49 +1,5 @@
 [
   {
-    "type": "album",
-    "photo_file_ids": [
-      "AgACAgQAAyEFAAMBClOLWAACAfpqidKJab8YdWC_y6Xm8SP9rvBCpAACIA9rGyT1UVDYekJjf9K0ogEAAwIAA3gAAz0E",
-      "AgACAgQAAyEFAAMBClOLWAACAftqidKJ0kVmtCLmLYUD-6myCAcfKgACIQ9rGyT1UVAqV4pBcH5sPwEAAwIAA3gAAz0E"
-    ],
-    "caption": "⚡️AI RACE: OpenAI and Anthropic are in an all-out war.\n\nOpenAI is cutting GPT-5.6 Sol API prices by over 20% for the next 3 months. It launched ads inside ChatGPT this month and rolled out 14x faster inference.\n\nMeanwhile Anthropic just hit $65 BILLION in annual revenue and is building its own custom chips. It is targeting a $2 TRILLION IPO in October while OpenAI's has been delayed to 2027.\n\nAnthropic leads U.S. enterprise adoption 43.5% to 39.7%, but OpenAI has 900 MILLION weekly users to Anthropic's 245 MILLION monthly, per Ramp.\n\n@aipost 🏴",
-    "entities": [
-      {
-        "offset": 0,
-        "length": 2,
-        "type": "custom_emoji",
-        "custom_emoji_id": "5366360391364412817"
-      },
-      {
-        "offset": 2,
-        "length": 52,
-        "type": "bold"
-      },
-      {
-        "offset": 540,
-        "length": 7,
-        "type": "text_link",
-        "url": "https://t.me/aipost"
-      },
-      {
-        "offset": 548,
-        "length": 2,
-        "type": "custom_emoji",
-        "custom_emoji_id": "5431390559912614642"
-      }
-    ],
-    "media_group_id": "14299337802996237",
-    "chat_id": -1004468214616,
-    "message_ids": [
-      506,
-      507
-    ],
-    "update_ids": [
-      378304399,
-      378304400
-    ],
-    "retry_count": 0
-  },
-  {
     "type": "photo",
     "photo_file_ids": [
       "AgACAgQAAyEFAAMBClOLWAACAfxqidKQIyakpoSgdwIfSCCg991aVgACJA9rGyT1UVB1nm90dKiZ2gEAAwIAA3kAAz0E"
