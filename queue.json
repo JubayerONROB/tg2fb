@@ -1,1 +1,212 @@
-[]
+[
+  {
+    "type": "video",
+    "video_file_id": "BAACAgIAAyEFAAMBClOLWAACAfNqiZEVdz82HLAAAc5LlfSjkH1RMksAAv6jAAISP0BIoKFOhwpDqMo9BA",
+    "video_file_size": 1933418,
+    "caption": "🤖 ChatGPT Can Now Send iMessages\n\nThe new Messages plugin can find conversations, catch up on missed chats, draft replies, and send them through ChatGPT.\n\nIt can check the calendar, suggest free dinner slots, find birthdays in messages, add them to the calendar, and flag chats that look like spam.\n\nThe plugin is available in ChatGPT Work and Codex on desktop. Install it through Plugins, then Public.\n\n📊@tech",
+    "entities": [
+      {
+        "offset": 0,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5397681122542893003"
+      },
+      {
+        "offset": 3,
+        "length": 30,
+        "type": "bold"
+      },
+      {
+        "offset": 43,
+        "length": 15,
+        "type": "bold"
+      },
+      {
+        "offset": 128,
+        "length": 25,
+        "type": "bold"
+      },
+      {
+        "offset": 183,
+        "length": 25,
+        "type": "bold"
+      },
+      {
+        "offset": 238,
+        "length": 24,
+        "type": "bold"
+      },
+      {
+        "offset": 268,
+        "length": 30,
+        "type": "bold"
+      },
+      {
+        "offset": 315,
+        "length": 46,
+        "type": "bold"
+      },
+      {
+        "offset": 382,
+        "length": 20,
+        "type": "bold"
+      },
+      {
+        "offset": 405,
+        "length": 2,
+        "type": "bold"
+      },
+      {
+        "offset": 405,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5449841756596101801"
+      },
+      {
+        "offset": 407,
+        "length": 5,
+        "type": "mention"
+      },
+      {
+        "offset": 407,
+        "length": 5,
+        "type": "bold"
+      }
+    ],
+    "media_group_id": null,
+    "chat_id": -1004468214616,
+    "message_ids": [
+      499
+    ],
+    "update_ids": [
+      378304392
+    ],
+    "retry_count": 0
+  },
+  {
+    "type": "video",
+    "video_file_id": "BAACAgIAAyEFAAMBClOLWAACAfRqiZEhGucTvRDijN9wjwFsbuN0_gAC064AAv8ySEj4-zoPGe0X6z0E",
+    "video_file_size": 5624196,
+    "caption": "🤖 RealBOTs Take On Real Work\n\nChinese company RealMan Robotics plans to place almost 1,000 RealBOT units in workplaces in 2026. At WRC 2026 in Beijing, demos showed robots sorting medicines, inspecting a distribution switchboard, baking with human cooks, and handling remote equipment commissioning at the Changzhou factory.\n\nThe Global Link Network lets a human operator control the robot remotely, with claimed millisecond-level latency across thousands of kilometers. A scarce skill can reach the needed site without sending the specialist there.\n\nEach task produces data from unpredictable conditions. More work should make the robots better at working.\n\n📊@tech",
+    "entities": [
+      {
+        "offset": 0,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5931614414351372818"
+      },
+      {
+        "offset": 3,
+        "length": 26,
+        "type": "bold"
+      },
+      {
+        "offset": 47,
+        "length": 16,
+        "type": "bold"
+      },
+      {
+        "offset": 79,
+        "length": 26,
+        "type": "bold"
+      },
+      {
+        "offset": 132,
+        "length": 8,
+        "type": "bold"
+      },
+      {
+        "offset": 307,
+        "length": 9,
+        "type": "bold"
+      },
+      {
+        "offset": 331,
+        "length": 19,
+        "type": "bold"
+      },
+      {
+        "offset": 358,
+        "length": 41,
+        "type": "bold"
+      },
+      {
+        "offset": 414,
+        "length": 25,
+        "type": "bold"
+      },
+      {
+        "offset": 447,
+        "length": 23,
+        "type": "bold"
+      },
+      {
+        "offset": 581,
+        "length": 24,
+        "type": "bold"
+      },
+      {
+        "offset": 660,
+        "length": 2,
+        "type": "bold"
+      },
+      {
+        "offset": 660,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5449841756596101801"
+      },
+      {
+        "offset": 662,
+        "length": 5,
+        "type": "mention"
+      },
+      {
+        "offset": 662,
+        "length": 5,
+        "type": "bold"
+      }
+    ],
+    "media_group_id": "14299203850333797",
+    "chat_id": -1004468214616,
+    "message_ids": [
+      500
+    ],
+    "update_ids": [
+      378304393
+    ],
+    "retry_count": 0
+  },
+  {
+    "type": "video",
+    "video_file_id": "BAACAgIAAyEFAAMBClOLWAACAfVqiZEhNy5z5b_6cQYErgovtdF92wAC1K4AAv8ySEjNefzTZekcDT0E",
+    "video_file_size": 7955752,
+    "caption": "",
+    "entities": [],
+    "media_group_id": "14299203850333797",
+    "chat_id": -1004468214616,
+    "message_ids": [
+      501
+    ],
+    "update_ids": [
+      378304394
+    ],
+    "retry_count": 0
+  },
+  {
+    "type": "video",
+    "video_file_id": "BAACAgIAAyEFAAMBClOLWAACAfZqiZEhzQ5_Isy-Y_EubSrSNhVHSgAC1a4AAv8ySEgN0baA0Z5HPz0E",
+    "video_file_size": 4734270,
+    "caption": "",
+    "entities": [],
+    "media_group_id": "14299203850333797",
+    "chat_id": -1004468214616,
+    "message_ids": [
+      502
+    ],
+    "update_ids": [
+      378304395
+    ],
+    "retry_count": 0
+  }
+]
