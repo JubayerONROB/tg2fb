@@ -1,33 +1,5 @@
 [
   {
-    "type": "video",
-    "video_file_id": "BAACAgIAAyEFAAMBClOLWAACAf1qidKeW7HJP_VwelqdHbTScjRIXAACjaUAAv2hUUjWLyYa8xLBQT0E",
-    "video_file_size": 17439665,
-    "caption": "A robot guide dog successfully led a journalist through a simulated busy airport terminal at the 2026 World Robot Conference in Beijing.\n\nThe demonstration showed the robot assisting with navigation to a check-in counter and finding the correct gate. The technology has the potential to offer practical assistance for seniors if made widely available.\n\nThe demonstration was part of ongoing efforts to develop affordable and accessible robotic support systems.\n\n📰 @aipost",
-    "entities": [
-      {
-        "offset": 462,
-        "length": 2,
-        "type": "custom_emoji",
-        "custom_emoji_id": "5363988332466438547"
-      },
-      {
-        "offset": 465,
-        "length": 7,
-        "type": "mention"
-      }
-    ],
-    "media_group_id": null,
-    "chat_id": -1004468214616,
-    "message_ids": [
-      509
-    ],
-    "update_ids": [
-      378304402
-    ],
-    "retry_count": 0
-  },
-  {
     "type": "photo",
     "photo_file_ids": [
       "AgACAgIAAyEFAAMBClOLWAACAf5qifjITD7TlfbZkdya_Aopb1O2zAACdR9rG0x8UEhaKwABD008H34BAAMCAAN5AAM9BA"
