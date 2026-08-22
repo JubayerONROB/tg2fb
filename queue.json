@@ -1,51 +1,5 @@
 [
   {
-    "type": "photo",
-    "photo_file_ids": [
-      "AgACAgQAAyEFAAMBClOLWAACAfxqidKQIyakpoSgdwIfSCCg991aVgACJA9rGyT1UVB1nm90dKiZ2gEAAwIAA3kAAz0E"
-    ],
-    "caption": "📢 Behind every good AI answer is a person who graded a worse one. \n\nHere's how to use that:\n\nBefore a model like ChatGPT or Claude reaches you, thousands of people sit in front of its responses and grade them. They compare two answers and mark which one is better, flag replies that are wrong or unhelpful, and rewrite weak responses into stronger ones. The model studies those judgments and shifts toward the kinds of answers people actually rate as good.\n\nWhat the model picks up from all that grading is a sense of what a useful answer looks like to a real person. That's the quiet reason a chatbot can feel helpful rather than merely correct.\n\nHere's the part you can use, because the same loop works inside a single chat. When an answer misses, don't just rephrase and hope for better. Tell it what was wrong, show it what a strong version would include, and ask it to revise against that. Rate it the way a grader would, and it adjusts on the spot.\n\nThe more specific your feedback, the closer the next answer lands.\n\n@aipost 🏴",
-    "entities": [
-      {
-        "offset": 0,
-        "length": 2,
-        "type": "custom_emoji",
-        "custom_emoji_id": "5289992252184100112"
-      },
-      {
-        "offset": 3,
-        "length": 64,
-        "type": "bold"
-      },
-      {
-        "offset": 69,
-        "length": 23,
-        "type": "bold"
-      },
-      {
-        "offset": 1025,
-        "length": 7,
-        "type": "text_link",
-        "url": "https://t.me/aipost"
-      },
-      {
-        "offset": 1033,
-        "length": 2,
-        "type": "custom_emoji",
-        "custom_emoji_id": "5431390559912614642"
-      }
-    ],
-    "media_group_id": null,
-    "chat_id": -1004468214616,
-    "message_ids": [
-      508
-    ],
-    "update_ids": [
-      378304401
-    ],
-    "retry_count": 0
-  },
-  {
     "type": "video",
     "video_file_id": "BAACAgIAAyEFAAMBClOLWAACAf1qidKeW7HJP_VwelqdHbTScjRIXAACjaUAAv2hUUjWLyYa8xLBQT0E",
     "video_file_size": 17439665,
@@ -70,6 +24,35 @@
     ],
     "update_ids": [
       378304402
+    ],
+    "retry_count": 0
+  },
+  {
+    "type": "photo",
+    "photo_file_ids": [
+      "AgACAgIAAyEFAAMBClOLWAACAf5qifjITD7TlfbZkdya_Aopb1O2zAACdR9rG0x8UEhaKwABD008H34BAAMCAAN5AAM9BA"
+    ],
+    "caption": "UBS projects $4.1 trillion in AI infrastructure spending between 2026 and 2028, exceeding three times the total outlay of the last six years.\n\nThe top spenders include Google, Meta, Microsoft, and Amazon, with projected three-year investments of $938 billion, $683 billion, $672 billion, and $628 billion respectively. Neocloud and China Cloud providers such as CoreWeave and Nebius are also rapidly increasing their share.\n\nNvidia and Broadcom are identified as primary beneficiaries, supplying AI accelerators and advanced networking components. Power equipment manufacturers including Eaton, Vertiv, and GE Vernova have seen substantial gains, responding to growing demand for transformers and cooling systems.\n\nMemory companies Samsung, SK Hynix, and Micron have sold out their 2026 capacity for high bandwidth memory. ASML and TSMC are crucial to advanced chip production needed for this AI expansion.\n\n📰 @aipost",
+    "entities": [
+      {
+        "offset": 908,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5363988332466438547"
+      },
+      {
+        "offset": 911,
+        "length": 7,
+        "type": "mention"
+      }
+    ],
+    "media_group_id": null,
+    "chat_id": -1004468214616,
+    "message_ids": [
+      510
+    ],
+    "update_ids": [
+      378304403
     ],
     "retry_count": 0
   }
