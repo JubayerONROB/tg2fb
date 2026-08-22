@@ -1,1 +1,120 @@
-[]
+[
+  {
+    "type": "album",
+    "photo_file_ids": [
+      "AgACAgQAAyEFAAMBClOLWAACAfpqidKJab8YdWC_y6Xm8SP9rvBCpAACIA9rGyT1UVDYekJjf9K0ogEAAwIAA3gAAz0E",
+      "AgACAgQAAyEFAAMBClOLWAACAftqidKJ0kVmtCLmLYUD-6myCAcfKgACIQ9rGyT1UVAqV4pBcH5sPwEAAwIAA3gAAz0E"
+    ],
+    "caption": "⚡️AI RACE: OpenAI and Anthropic are in an all-out war.\n\nOpenAI is cutting GPT-5.6 Sol API prices by over 20% for the next 3 months. It launched ads inside ChatGPT this month and rolled out 14x faster inference.\n\nMeanwhile Anthropic just hit $65 BILLION in annual revenue and is building its own custom chips. It is targeting a $2 TRILLION IPO in October while OpenAI's has been delayed to 2027.\n\nAnthropic leads U.S. enterprise adoption 43.5% to 39.7%, but OpenAI has 900 MILLION weekly users to Anthropic's 245 MILLION monthly, per Ramp.\n\n@aipost 🏴",
+    "entities": [
+      {
+        "offset": 0,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5366360391364412817"
+      },
+      {
+        "offset": 2,
+        "length": 52,
+        "type": "bold"
+      },
+      {
+        "offset": 540,
+        "length": 7,
+        "type": "text_link",
+        "url": "https://t.me/aipost"
+      },
+      {
+        "offset": 548,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5431390559912614642"
+      }
+    ],
+    "media_group_id": "14299337802996237",
+    "chat_id": -1004468214616,
+    "message_ids": [
+      506,
+      507
+    ],
+    "update_ids": [
+      378304399,
+      378304400
+    ],
+    "retry_count": 0
+  },
+  {
+    "type": "photo",
+    "photo_file_ids": [
+      "AgACAgQAAyEFAAMBClOLWAACAfxqidKQIyakpoSgdwIfSCCg991aVgACJA9rGyT1UVB1nm90dKiZ2gEAAwIAA3kAAz0E"
+    ],
+    "caption": "📢 Behind every good AI answer is a person who graded a worse one. \n\nHere's how to use that:\n\nBefore a model like ChatGPT or Claude reaches you, thousands of people sit in front of its responses and grade them. They compare two answers and mark which one is better, flag replies that are wrong or unhelpful, and rewrite weak responses into stronger ones. The model studies those judgments and shifts toward the kinds of answers people actually rate as good.\n\nWhat the model picks up from all that grading is a sense of what a useful answer looks like to a real person. That's the quiet reason a chatbot can feel helpful rather than merely correct.\n\nHere's the part you can use, because the same loop works inside a single chat. When an answer misses, don't just rephrase and hope for better. Tell it what was wrong, show it what a strong version would include, and ask it to revise against that. Rate it the way a grader would, and it adjusts on the spot.\n\nThe more specific your feedback, the closer the next answer lands.\n\n@aipost 🏴",
+    "entities": [
+      {
+        "offset": 0,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5289992252184100112"
+      },
+      {
+        "offset": 3,
+        "length": 64,
+        "type": "bold"
+      },
+      {
+        "offset": 69,
+        "length": 23,
+        "type": "bold"
+      },
+      {
+        "offset": 1025,
+        "length": 7,
+        "type": "text_link",
+        "url": "https://t.me/aipost"
+      },
+      {
+        "offset": 1033,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5431390559912614642"
+      }
+    ],
+    "media_group_id": null,
+    "chat_id": -1004468214616,
+    "message_ids": [
+      508
+    ],
+    "update_ids": [
+      378304401
+    ],
+    "retry_count": 0
+  },
+  {
+    "type": "video",
+    "video_file_id": "BAACAgIAAyEFAAMBClOLWAACAf1qidKeW7HJP_VwelqdHbTScjRIXAACjaUAAv2hUUjWLyYa8xLBQT0E",
+    "video_file_size": 17439665,
+    "caption": "A robot guide dog successfully led a journalist through a simulated busy airport terminal at the 2026 World Robot Conference in Beijing.\n\nThe demonstration showed the robot assisting with navigation to a check-in counter and finding the correct gate. The technology has the potential to offer practical assistance for seniors if made widely available.\n\nThe demonstration was part of ongoing efforts to develop affordable and accessible robotic support systems.\n\n📰 @aipost",
+    "entities": [
+      {
+        "offset": 462,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5363988332466438547"
+      },
+      {
+        "offset": 465,
+        "length": 7,
+        "type": "mention"
+      }
+    ],
+    "media_group_id": null,
+    "chat_id": -1004468214616,
+    "message_ids": [
+      509
+    ],
+    "update_ids": [
+      378304402
+    ],
+    "retry_count": 0
+  }
+]
