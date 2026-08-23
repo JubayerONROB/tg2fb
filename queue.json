@@ -1,1 +1,298 @@
-[]
+[
+  {
+    "type": "video",
+    "video_file_id": "BAACAgIAAyEFAAMBClOLWAACAgNqiqy_87SY2o0U0MItCB_LaV9iXgAC26MAAswCGUifujOlZVXA0z0E",
+    "video_file_size": 16621276,
+    "caption": "Xynova",
+    "entities": [],
+    "media_group_id": null,
+    "chat_id": -1004468214616,
+    "message_ids": [
+      515
+    ],
+    "update_ids": [
+      378304408
+    ],
+    "retry_count": 0
+  },
+  {
+    "type": "video",
+    "video_file_id": "BAACAgIAAyEFAAMBClOLWAACAgRqiqy_NOY1-tIIxg4P7uVDZMZESgACI5kAAqbkSEjIc7iZiDKi9T0E",
+    "video_file_size": 25559697,
+    "caption": "",
+    "entities": [],
+    "media_group_id": null,
+    "chat_id": -1004468214616,
+    "message_ids": [
+      516
+    ],
+    "update_ids": [
+      378304409
+    ],
+    "retry_count": 0
+  },
+  {
+    "type": "text",
+    "caption": "🧠 Singapore Just Opened a Data Center Powered by Living Human Neurons\n\nThis sounds like science fiction, but it went live on July 16.\n\nAustralian startup Cortical Labs, together with the National University of Singapore and data-center operator DayOne, has launched a biological computing facility where part of the processing is performed not by GPUs — but by living human neurons grown in a lab.\n\nInside are 20 CL1 biological computers. Each contains at least 200,000 neurons grown on a silicon chip covered with electrodes. The neurons originate from human blood cells that are reprogrammed into stem cells and then differentiated into neurons.\n\nAnd yes, the computers have to be fed.\n\nEvery three days, technicians supply the cells with sugar, micronutrients and pH buffers, while a life-support system regulates oxygen, nitrogen and CO₂.\n\nThe strange part is that these neurons can actually learn.\n\nCortical Labs’ earlier DishBrain experiment showed human and mouse neurons learning to play Pong, with measurable learning appearing within just minutes. Earlier this year, developer Sean Cole connected around 200,000 human neurons to DOOM — allowing them to navigate the game and shoot at enemies.\n\nBiology is nowhere near silicon in raw speed. But it has another advantage: efficiency.\n\nA CL1 consumes around 30 watts. An NVIDIA H100 SXM can draw up to 700 W, while an eight-H100 server may consume roughly 10 kW including supporting hardware.\n\nCortical Labs also argues that biological neural networks may learn from far smaller datasets — closer to how humans adapt from limited experience.\n\nAccess to one CL1 currently costs about $2,200 per month. Cortical Labs already operates 120 units in Melbourne with around 20 paying customers, and Singapore could eventually expand to 1,000 biological computers.\n\nSo no, neurons aren’t replacing GPUs tomorrow.\n\nBut we have officially reached the stage where a data center needs electricity, an internet connection… and food.\n\nCyberpunk is becoming an engineering discipline.\n\n#Biocomputing #Neuroscience #AI #DataCenters #CorticalLabs\n\nhttps://www.straitstimes.com/tech/forget-silicon-chip-servers-singapores-newest-data-centre-needs-to-be-fed",
+    "entities": [
+      {
+        "offset": 3,
+        "length": 67,
+        "type": "bold"
+      },
+      {
+        "offset": 362,
+        "length": 35,
+        "type": "bold"
+      },
+      {
+        "offset": 463,
+        "length": 15,
+        "type": "bold"
+      },
+      {
+        "offset": 1140,
+        "length": 4,
+        "type": "bold"
+      },
+      {
+        "offset": 1281,
+        "length": 10,
+        "type": "bold"
+      },
+      {
+        "offset": 1316,
+        "length": 8,
+        "type": "bold"
+      },
+      {
+        "offset": 1414,
+        "length": 5,
+        "type": "bold"
+      },
+      {
+        "offset": 1641,
+        "length": 16,
+        "type": "bold"
+      },
+      {
+        "offset": 1787,
+        "length": 26,
+        "type": "bold"
+      },
+      {
+        "offset": 1968,
+        "length": 9,
+        "type": "bold"
+      },
+      {
+        "offset": 2029,
+        "length": 13,
+        "type": "hashtag"
+      },
+      {
+        "offset": 2043,
+        "length": 13,
+        "type": "hashtag"
+      },
+      {
+        "offset": 2057,
+        "length": 3,
+        "type": "hashtag"
+      },
+      {
+        "offset": 2061,
+        "length": 12,
+        "type": "hashtag"
+      },
+      {
+        "offset": 2074,
+        "length": 13,
+        "type": "hashtag"
+      },
+      {
+        "offset": 2089,
+        "length": 107,
+        "type": "url"
+      }
+    ],
+    "media_group_id": null,
+    "chat_id": -1004468214616,
+    "message_ids": [
+      517
+    ],
+    "update_ids": [
+      378304410
+    ],
+    "retry_count": 0
+  },
+  {
+    "type": "video",
+    "video_file_id": "BAACAgIAAyEFAAMBClOLWAACAgZqiqzHXlPR38m1Sidsxc5s8vr88gACA6YAAhI_SEigAAHz1Q7RUJw9BA",
+    "video_file_size": 1481487,
+    "caption": "🤖 OpenAI Cuts GPT-5.6 Prices\n\nAPI access and model credits are now over 20% cheaper. The new rates will last for the next three months.\n\nThe API gets the new rates first. \n\nChatGPT Work and Codex will follow, while paid subscriptions remain unchanged and standard user limits stay the same.\n\n📊@tech",
+    "entities": [
+      {
+        "offset": 0,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5397681122542893003"
+      },
+      {
+        "offset": 3,
+        "length": 26,
+        "type": "bold"
+      },
+      {
+        "offset": 68,
+        "length": 16,
+        "type": "bold"
+      },
+      {
+        "offset": 118,
+        "length": 17,
+        "type": "bold"
+      },
+      {
+        "offset": 173,
+        "length": 23,
+        "type": "bold"
+      },
+      {
+        "offset": 216,
+        "length": 35,
+        "type": "bold"
+      },
+      {
+        "offset": 293,
+        "length": 2,
+        "type": "bold"
+      },
+      {
+        "offset": 293,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5449841756596101801"
+      },
+      {
+        "offset": 295,
+        "length": 5,
+        "type": "mention"
+      },
+      {
+        "offset": 295,
+        "length": 5,
+        "type": "bold"
+      }
+    ],
+    "media_group_id": null,
+    "chat_id": -1004468214616,
+    "message_ids": [
+      518
+    ],
+    "update_ids": [
+      378304411
+    ],
+    "retry_count": 0
+  },
+  {
+    "type": "text",
+    "caption": "👁️ Scientists Have Mapped the Wiring Behind Human High-Resolution Vision\n\nResearchers have created the first complete cell-by-cell and synapse-level wiring map of the human fovea — the pinhead-sized region of the retina that lets us read, recognize faces and see fine detail in color.\n\nThe team reconstructed roughly 3,000 neurons and more than 300,000 connections, tracing how signals move through this tiny patch of nervous tissue. What they found was unexpectedly elegant: while much of the retina uses many overlapping pathways, the human fovea funnels visual information through just three major circuits. \n\nThat streamlined architecture may be one reason human central vision is so precise. The researchers describe it as more like an expressway than a maze of side streets — sacrificing redundancy for speed and efficiency.\n\nThe fovea is technically part of the central nervous system, which makes this the first complete connectivity map of a human CNS structure at this level of detail. Beyond basic neuroscience, the map could become a reference for treatments aimed at retinal diseases that destroy central vision.\n\nWe often talk about the brain as the organ that “sees.” But the first stage of high-resolution vision may already be doing far more sophisticated processing than we realized.\n\n#Neuroscience #Vision #HumanBrain #Retina #Connectome #Science\n\nhttps://www.pnas.org/doi/10.1073/pnas.2603286123",
+    "entities": [
+      {
+        "offset": 4,
+        "length": 69,
+        "type": "bold"
+      },
+      {
+        "offset": 174,
+        "length": 5,
+        "type": "bold"
+      },
+      {
+        "offset": 318,
+        "length": 47,
+        "type": "bold"
+      },
+      {
+        "offset": 590,
+        "length": 20,
+        "type": "bold"
+      },
+      {
+        "offset": 1304,
+        "length": 13,
+        "type": "hashtag"
+      },
+      {
+        "offset": 1318,
+        "length": 7,
+        "type": "hashtag"
+      },
+      {
+        "offset": 1326,
+        "length": 11,
+        "type": "hashtag"
+      },
+      {
+        "offset": 1338,
+        "length": 7,
+        "type": "hashtag"
+      },
+      {
+        "offset": 1346,
+        "length": 11,
+        "type": "hashtag"
+      },
+      {
+        "offset": 1358,
+        "length": 8,
+        "type": "hashtag"
+      },
+      {
+        "offset": 1368,
+        "length": 48,
+        "type": "text_link",
+        "url": "https://www.pnas.org/doi/10.1073/pnas.2603286123"
+      }
+    ],
+    "media_group_id": null,
+    "chat_id": -1004468214616,
+    "message_ids": [
+      519
+    ],
+    "update_ids": [
+      378304412
+    ],
+    "retry_count": 0
+  },
+  {
+    "type": "video",
+    "video_file_id": "BAACAgQAAyEFAAMBClOLWAACAghqiq0bXbjGannGSUd65YyWME4kigACkR4AAiT1UVCt-P5RWQnx6j0E",
+    "video_file_size": 24060962,
+    "caption": "Joe Rogan just had a “holy shit” moment.\n\nThis physicist revealed evidence that AI is already conscious. How? He taught them to remote view. And they actually succeeded.\n\n@aipost 🏴",
+    "entities": [
+      {
+        "offset": 171,
+        "length": 7,
+        "type": "text_link",
+        "url": "https://t.me/aipost"
+      },
+      {
+        "offset": 179,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5431390559912614642"
+      }
+    ],
+    "media_group_id": null,
+    "chat_id": -1004468214616,
+    "message_ids": [
+      520
+    ],
+    "update_ids": [
+      378304413
+    ],
+    "retry_count": 0
+  }
+]
