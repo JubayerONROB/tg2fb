@@ -1,22 +1,6 @@
 [
   {
     "type": "video",
-    "video_file_id": "BAACAgIAAyEFAAMBClOLWAACAgNqiqy_87SY2o0U0MItCB_LaV9iXgAC26MAAswCGUifujOlZVXA0z0E",
-    "video_file_size": 16621276,
-    "caption": "Xynova",
-    "entities": [],
-    "media_group_id": null,
-    "chat_id": -1004468214616,
-    "message_ids": [
-      515
-    ],
-    "update_ids": [
-      378304408
-    ],
-    "retry_count": 0
-  },
-  {
-    "type": "video",
     "video_file_id": "BAACAgIAAyEFAAMBClOLWAACAgRqiqy_NOY1-tIIxg4P7uVDZMZESgACI5kAAqbkSEjIc7iZiDKi9T0E",
     "video_file_size": 25559697,
     "caption": "",
