@@ -1,40 +1,6 @@
 [
   {
     "type": "video",
-    "video_file_id": "BAACAgQAAyEFAAMBClOLWAACAh1qjIOqyZn3JmhDelpvBODL_8OfbQAC9x0AAjMPYFBMP60VPd_wHD0E",
-    "video_file_size": 16308354,
-    "caption": "This is very impressive. \n\nThis requires autonomous real-time planning and action in response to a fast-moving target and dynamic environment.\n\n@aipost 🏴",
-    "entities": [
-      {
-        "offset": 0,
-        "length": 25,
-        "type": "bold"
-      },
-      {
-        "offset": 144,
-        "length": 7,
-        "type": "text_link",
-        "url": "https://t.me/aipost"
-      },
-      {
-        "offset": 152,
-        "length": 2,
-        "type": "custom_emoji",
-        "custom_emoji_id": "5431390559912614642"
-      }
-    ],
-    "media_group_id": null,
-    "chat_id": -1004468214616,
-    "message_ids": [
-      541
-    ],
-    "update_ids": [
-      378304434
-    ],
-    "retry_count": 0
-  },
-  {
-    "type": "video",
     "video_file_id": "BAACAgQAAyEFAAMBClOLWAACAh5qjIOqwJdKlYyz7rYgH3FLfnMn7QACYR4AAjMPYFCZ3aVs4Eh6gT0E",
     "video_file_size": 3009364,
     "caption": "🤖 ChatGPT can now send iMessages\n\nChatGPT is getting a serious upgrade on Mac: it can now connect to Messages and actually interact with your conversations.\n\nThe new Messages plugin can find chats, catch you up on messages you missed, draft replies, and even send messages for you.\n\nIt can also connect the dots between your messages and calendar, like spotting someone’s birthday in a chat, adding it to your calendar, or finding an open evening for dinner.\n\nChatGPT can flag conversations that look like spam, turning your messages into something it can actually help manage instead of just summarize.\n\n@aipost 🏴",
