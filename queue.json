@@ -1,59 +1,69 @@
 [
   {
     "type": "video",
-    "video_file_id": "BAACAgIAAyEFAAMBClOLWAACAhlqjAKZCHqlVMThab2m4tpeLyWADgACB6YAAhI_SEhUiTKBii8IPj0E",
-    "video_file_size": 8105794,
-    "caption": "🔍 Google Adds Remote Control to Antigravity\n\nAgents running in Antigravity can now be controlled from a phone or another computer through a regular browser. The original machine keeps working on the task.\n\nUsers can check progress and send new commands from the browser. The agent’s files and settings remain on the machine where it started.\n\nAntigravity also sends phone notifications when an agent finishes a stage or needs a reply. A long task can continue on a work computer after the user leaves it.\n\n📊@tech",
+    "video_file_id": "BAACAgIAAyEFAAMBClOLWAACAhpqjGufnH-H-nGu0YkoCCSju7Lp6AACYZ8AAupuWUi_CX7Z8vBdgj0E",
+    "video_file_size": 2324955,
+    "caption": "🤖 Robot Sets 100-Meter World Record\n\nOn the first day in Beijing, Tiangong Ultra finished in 9.39 seconds. Several robots broke the record, while Usain Bolt’s official human mark is 9.58 seconds.\n\nThe event covers athletics, football, tennis, combat sports, dancing, plus household tasks such as opening bottles and sorting. Tiangong Ultra was developed by Beijing innovation centers.\n\n📊@tech",
     "entities": [
       {
         "offset": 0,
         "length": 2,
         "type": "custom_emoji",
-        "custom_emoji_id": "5431644246450908867"
+        "custom_emoji_id": "5355051922862653659"
       },
       {
         "offset": 3,
-        "length": 41,
+        "length": 33,
         "type": "bold"
       },
       {
-        "offset": 64,
-        "length": 11,
+        "offset": 67,
+        "length": 14,
         "type": "bold"
       },
       {
-        "offset": 87,
-        "length": 43,
+        "offset": 94,
+        "length": 12,
         "type": "bold"
       },
       {
-        "offset": 217,
-        "length": 36,
+        "offset": 108,
+        "length": 31,
         "type": "bold"
       },
       {
-        "offset": 367,
-        "length": 19,
+        "offset": 183,
+        "length": 12,
         "type": "bold"
       },
       {
-        "offset": 507,
+        "offset": 273,
+        "length": 15,
+        "type": "bold"
+      },
+      {
+        "offset": 358,
+        "length": 26,
+        "type": "bold"
+      },
+      {
+        "offset": 387,
         "length": 2,
         "type": "bold"
       },
       {
-        "offset": 507,
+        "offset": 387,
         "length": 2,
         "type": "custom_emoji",
         "custom_emoji_id": "5449841756596101801"
       },
       {
-        "offset": 509,
+        "offset": 389,
         "length": 5,
         "type": "mention"
       },
       {
-        "offset": 509,
+        "offset": 389,
         "length": 5,
         "type": "bold"
       }
@@ -61,10 +71,64 @@
     "media_group_id": null,
     "chat_id": -1004468214616,
     "message_ids": [
-      537
+      538
     ],
     "update_ids": [
-      378304430
+      378304431
+    ],
+    "retry_count": 0
+  },
+  {
+    "type": "video",
+    "video_file_id": "BAACAgIAAyEFAAMBClOLWAACAhtqjGunQGjSqUP1sSP1BGfcfOaMGQACaJ8AAupuWUjJdzu9RQ5isT0E",
+    "video_file_size": 4293564,
+    "caption": "🎥 Same Video, New Angle\n\nAs Sarah Connor said: “When they chase you, always run toward a wall.”\n\n📊@tech",
+    "entities": [
+      {
+        "offset": 0,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5118744200921219799"
+      },
+      {
+        "offset": 3,
+        "length": 21,
+        "type": "bold"
+      },
+      {
+        "offset": 29,
+        "length": 12,
+        "type": "bold"
+      },
+      {
+        "offset": 98,
+        "length": 2,
+        "type": "bold"
+      },
+      {
+        "offset": 98,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5449841756596101801"
+      },
+      {
+        "offset": 100,
+        "length": 5,
+        "type": "mention"
+      },
+      {
+        "offset": 100,
+        "length": 5,
+        "type": "bold"
+      }
+    ],
+    "media_group_id": null,
+    "chat_id": -1004468214616,
+    "message_ids": [
+      539
+    ],
+    "update_ids": [
+      378304432
     ],
     "retry_count": 0
   }
