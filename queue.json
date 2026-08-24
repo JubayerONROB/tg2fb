@@ -1,34 +1,5 @@
 [
   {
-    "type": "video",
-    "video_file_id": "BAACAgQAAyEFAAMBClOLWAACAhFqi-FzfZCdbRKQCIj24S8fAAH0WK8AAqYgAAIk9VlQFmJRF1Duvyo9BA",
-    "video_file_size": 9530150,
-    "caption": "Google's quantum chip cracked a problem in 5 that would take the world's fastest supercomputer tens of BILLIONS of years.\n\nCEO Sundar Pichai says it proves quantum error correction now works at scale, putting practically useful quantum computers 5 to 10 years away.\n\n@aipost 🏴",
-    "entities": [
-      {
-        "offset": 267,
-        "length": 7,
-        "type": "text_link",
-        "url": "https://t.me/aipost"
-      },
-      {
-        "offset": 275,
-        "length": 2,
-        "type": "custom_emoji",
-        "custom_emoji_id": "5431390559912614642"
-      }
-    ],
-    "media_group_id": null,
-    "chat_id": -1004468214616,
-    "message_ids": [
-      529
-    ],
-    "update_ids": [
-      378304422
-    ],
-    "retry_count": 0
-  },
-  {
     "type": "album",
     "photo_file_ids": [
       "AgACAgIAAyEFAAMBClOLWAACAhJqjAKM0YXuYMz1wEDiiTggE0YQiwACix5rG6bYUEh5FD4o2cP87wEAAwIAA3kAAz0E",
