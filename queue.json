@@ -1,46 +1,5 @@
 [
   {
-    "type": "photo",
-    "photo_file_ids": [
-      "AgACAgQAAyEFAAMBClOLWAACAhxqjIOqJxxjzH8EvoA9VXk_sU2ENwAC-g5rGzMPYFCtn_Tr-2n69wEAAwIAA3gAAz0E"
-    ],
-    "caption": "❗️The rise of AI writing is leaving a stylistic footprint on the web.\n\nPewresearch:\n\n\"And as more AI-generated content appears online, these and other AI “tells” have become more common across webpages. Comparing the internet of today to a snapshot from 2023:\n\n• Em dashes appear about twice as frequently.\n• Oxford commas see a 63% increase.\n• Certain words that AI models like to use (such as “delve,” “interplay” or “testament”) have more than doubled in usage.\n• Using “negative parallelism” to structure a comparison (“it’s not just X, it’s Y”) has nearly tripled, although this is still fairly rare overall.\"\n\n@aipost 🏴",
-    "entities": [
-      {
-        "offset": 0,
-        "length": 2,
-        "type": "custom_emoji",
-        "custom_emoji_id": "5289761612440310918"
-      },
-      {
-        "offset": 2,
-        "length": 67,
-        "type": "bold"
-      },
-      {
-        "offset": 616,
-        "length": 7,
-        "type": "text_link",
-        "url": "https://t.me/aipost"
-      },
-      {
-        "offset": 624,
-        "length": 2,
-        "type": "custom_emoji",
-        "custom_emoji_id": "5431390559912614642"
-      }
-    ],
-    "media_group_id": null,
-    "chat_id": -1004468214616,
-    "message_ids": [
-      540
-    ],
-    "update_ids": [
-      378304433
-    ],
-    "retry_count": 0
-  },
-  {
     "type": "video",
     "video_file_id": "BAACAgQAAyEFAAMBClOLWAACAh1qjIOqyZn3JmhDelpvBODL_8OfbQAC9x0AAjMPYFBMP60VPd_wHD0E",
     "video_file_size": 16308354,
