@@ -2,47 +2,6 @@
   {
     "type": "photo",
     "photo_file_ids": [
-      "AgACAgQAAyEFAAMBClOLWAACAg5qi-FzgoiZJ7ABnJQumTaJZKyCvQACug5rGyT1WVBvCLVwbUID3QEAAwIAA3gAAz0E"
-    ],
-    "caption": "🤯 A mysterious new AI model called “Ox Alpha” is reportedly BEATING Claude Fable 5 and GPT-5.6 Sol at coding, and nobody knows who built it.\n\nThe model just appeared on OpenRouter with a 1 million-token context window, multimodal capabilities, and no disclosed owner.\n\nSpeculation is exploding, with some online sleuths pointing to Google, while others believe it could be a new model from Chinese AI lab Z .ai.\n\nAdding to the mystery, Ox Alpha’s tokenizer reportedly appears identical to GLM’s, and the previous four anonymous AI model drops were all eventually claimed by Chinese labs.\n\n@aipost 🏴",
-    "entities": [
-      {
-        "offset": 0,
-        "length": 2,
-        "type": "custom_emoji",
-        "custom_emoji_id": "5370745797786738962"
-      },
-      {
-        "offset": 2,
-        "length": 139,
-        "type": "bold"
-      },
-      {
-        "offset": 590,
-        "length": 7,
-        "type": "text_link",
-        "url": "https://t.me/aipost"
-      },
-      {
-        "offset": 598,
-        "length": 2,
-        "type": "custom_emoji",
-        "custom_emoji_id": "5431390559912614642"
-      }
-    ],
-    "media_group_id": null,
-    "chat_id": -1004468214616,
-    "message_ids": [
-      526
-    ],
-    "update_ids": [
-      378304419
-    ],
-    "retry_count": 0
-  },
-  {
-    "type": "photo",
-    "photo_file_ids": [
       "AgACAgQAAyEFAAMBClOLWAACAg9qi-FzEbWgwrQr7fxiGs2FfKskhQACvA5rGyT1WVCd0sIgHUi66gEAAwIAA3gAAz0E"
     ],
     "caption": "❗️Harvard Business School launches AI “clones” of its professors to hear startup pitches, simulate sales calls, & run mock board meetings.\n\nHBS created AI versions of its faculty for a new $699 entrepreneurship bootcamp, allowing founders to practice investor pitches, sales conversations and boardroom scenarios with virtual professors available on demand.\n\nHarvard says the AI platform could expand its entrepreneurship education beyond its MBA program, with more than 100 universities currently doing a test run.\n\n@aipost 🏴",
