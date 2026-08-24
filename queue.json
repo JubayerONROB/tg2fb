@@ -1,34 +1,5 @@
 [
   {
-    "type": "video",
-    "video_file_id": "BAACAgQAAyEFAAMBClOLWAACAg1qi-Fz4vhgAer9A7Tp5cq6SpVjJAACnSAAAiT1WVBNychQ3_BN3T0E",
-    "video_file_size": 12877719,
-    "caption": "Robots are doing go-karting now.\n\nRobots & Art 🌈",
-    "entities": [
-      {
-        "offset": 34,
-        "length": 12,
-        "type": "text_link",
-        "url": "http://t.me/images024"
-      },
-      {
-        "offset": 47,
-        "length": 2,
-        "type": "custom_emoji",
-        "custom_emoji_id": "5890982529082592622"
-      }
-    ],
-    "media_group_id": null,
-    "chat_id": -1004468214616,
-    "message_ids": [
-      525
-    ],
-    "update_ids": [
-      378304418
-    ],
-    "retry_count": 0
-  },
-  {
     "type": "photo",
     "photo_file_ids": [
       "AgACAgQAAyEFAAMBClOLWAACAg5qi-FzgoiZJ7ABnJQumTaJZKyCvQACug5rGyT1WVBvCLVwbUID3QEAAwIAA3gAAz0E"
