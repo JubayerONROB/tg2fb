@@ -1,29 +1,29 @@
 [
   {
     "type": "video",
-    "video_file_id": "BAACAgQAAyEFAAMBClOLWAACAh5qjIOqwJdKlYyz7rYgH3FLfnMn7QACYR4AAjMPYFCZ3aVs4Eh6gT0E",
-    "video_file_size": 3009364,
-    "caption": "🤖 ChatGPT can now send iMessages\n\nChatGPT is getting a serious upgrade on Mac: it can now connect to Messages and actually interact with your conversations.\n\nThe new Messages plugin can find chats, catch you up on messages you missed, draft replies, and even send messages for you.\n\nIt can also connect the dots between your messages and calendar, like spotting someone’s birthday in a chat, adding it to your calendar, or finding an open evening for dinner.\n\nChatGPT can flag conversations that look like spam, turning your messages into something it can actually help manage instead of just summarize.\n\n@aipost 🏴",
+    "video_file_id": "BAACAgQAAyEFAAMBClOLWAACAh9qjLhxHOCjQr7LefUQXgJ9EP1DyAACWx4AAjMPYFAJMMG077mM6T0E",
+    "video_file_size": 11101354,
+    "caption": "🗣 Dave Chappelle says no one needs to think anymore because of AI: \n\n“Thinking is for poor people”\n\n“I was talking to a friend of mine and we were laughing about how no one really would know what to teach a kid now. What skill sets are going to matter 10 or 20 years from now as the world becomes automated”\n\n“We decided your character is your destiny. If you’re a good person that’s all you can ask from anybody and hope for the best”\n\n“I don’t know if anyone needs to think anymore. It’s AI, quantum computing, it seems like thinking is for poor people”.\n\n@aipost 🏴",
     "entities": [
       {
         "offset": 0,
         "length": 2,
         "type": "custom_emoji",
-        "custom_emoji_id": "5397681122542893003"
+        "custom_emoji_id": "5287468155738821335"
       },
       {
         "offset": 3,
-        "length": 30,
+        "length": 65,
         "type": "bold"
       },
       {
-        "offset": 606,
+        "offset": 559,
         "length": 7,
         "type": "text_link",
         "url": "https://t.me/aipost"
       },
       {
-        "offset": 614,
+        "offset": 567,
         "length": 2,
         "type": "custom_emoji",
         "custom_emoji_id": "5431390559912614642"
@@ -32,10 +32,10 @@
     "media_group_id": null,
     "chat_id": -1004468214616,
     "message_ids": [
-      542
+      543
     ],
     "update_ids": [
-      378304435
+      378304436
     ],
     "retry_count": 0
   }
