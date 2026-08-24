@@ -2460,5 +2460,45 @@
       378304413
     ],
     "retry_count": 0
+  },
+  {
+    "type": "video",
+    "video_file_id": "BAACAgQAAyEFAAMBClOLWAACAglqi-Fzww8qLMsj_8fGBZCTlYkX1wAClB4AAiT1UVAVg9zEznUhxT0E",
+    "video_file_size": 26288568,
+    "caption": "🥺 Sam Altman: Within the next 6 months, a descendant of ChatGPT could: \n\nCould “continuously watch your screen,” meetings and calls while maintaining the full context of your life and work.\n\n“I think we’re only one model generation away from this actually being incredibly useful.”\n\nThe interviewer asked for his best estimate on timing: “Sometime in the next six months.”\n\nHe never calls it GPT-6, or part of the Astra family of models. Perhaps the one after given the 6 month timeline. but this is the one of the clearest indicators heading toward AGI, - a persistent multimodal agent that understands all of your work context, what you’re doing, catches mistakes and proactively offers to work for you.\n\n@aipost 🏴",
+    "entities": [
+      {
+        "offset": 0,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5291894093767542370"
+      },
+      {
+        "offset": 3,
+        "length": 69,
+        "type": "bold"
+      },
+      {
+        "offset": 708,
+        "length": 7,
+        "type": "text_link",
+        "url": "https://t.me/aipost"
+      },
+      {
+        "offset": 716,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5431390559912614642"
+      }
+    ],
+    "media_group_id": null,
+    "chat_id": -1004468214616,
+    "message_ids": [
+      521
+    ],
+    "update_ids": [
+      378304414
+    ],
+    "retry_count": 0
   }
 ]

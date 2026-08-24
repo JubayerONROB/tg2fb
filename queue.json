@@ -1,1 +1,220 @@
-[]
+[
+  {
+    "type": "photo",
+    "photo_file_ids": [
+      "AgACAgIAAyEFAAMBClOLWAACAgpqi-FzasrYoGMH4O6OPgT-oquqjgACUCBrG0x8UEhj9ndDGlCNfwEAAwIAA3kAAz0E"
+    ],
+    "caption": "The defining trend for 2026 is the rise of AI agents.\n\nIn 2025, the focus was on reasoning capabilities within AI systems. However, 2026 marks a shift toward agent-based models.\n\nCurrent data indicates that humans are now the minority users of AI platforms. AI agents consume nearly five times more tokens than individual users—a figure that has increased 14-fold since February.\n\nCharts released this week highlight these developments.\n\n📰 @aipost",
+    "entities": [
+      {
+        "offset": 438,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5363988332466438547"
+      },
+      {
+        "offset": 441,
+        "length": 7,
+        "type": "mention"
+      }
+    ],
+    "media_group_id": null,
+    "chat_id": -1004468214616,
+    "message_ids": [
+      522
+    ],
+    "update_ids": [
+      378304415
+    ],
+    "retry_count": 0
+  },
+  {
+    "type": "album",
+    "photo_file_ids": [
+      "AgACAgQAAyEFAAMBClOLWAACAgtqi-FzqE0MYfRMhdtMP7DxvuRA8gACrw5rGyT1WVCtZV9ivDUXOAEAAwIAA3kAAz0E",
+      "AgACAgQAAyEFAAMBClOLWAACAgxqi-FzDqgcU_2Uzeohe6V8OqNFWQACsA5rGyT1WVD0kzyRyd8asgEAAwIAA3kAAz0E"
+    ],
+    "caption": "Greatest rivalry of the decade.\n\n@aipost 🏴",
+    "entities": [
+      {
+        "offset": 33,
+        "length": 7,
+        "type": "text_link",
+        "url": "https://t.me/aipost"
+      },
+      {
+        "offset": 41,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5431390559912614642"
+      }
+    ],
+    "media_group_id": "14300416923573181",
+    "chat_id": -1004468214616,
+    "message_ids": [
+      523,
+      524
+    ],
+    "update_ids": [
+      378304416,
+      378304417
+    ],
+    "retry_count": 0
+  },
+  {
+    "type": "video",
+    "video_file_id": "BAACAgQAAyEFAAMBClOLWAACAg1qi-Fz4vhgAer9A7Tp5cq6SpVjJAACnSAAAiT1WVBNychQ3_BN3T0E",
+    "video_file_size": 12877719,
+    "caption": "Robots are doing go-karting now.\n\nRobots & Art 🌈",
+    "entities": [
+      {
+        "offset": 34,
+        "length": 12,
+        "type": "text_link",
+        "url": "http://t.me/images024"
+      },
+      {
+        "offset": 47,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5890982529082592622"
+      }
+    ],
+    "media_group_id": null,
+    "chat_id": -1004468214616,
+    "message_ids": [
+      525
+    ],
+    "update_ids": [
+      378304418
+    ],
+    "retry_count": 0
+  },
+  {
+    "type": "photo",
+    "photo_file_ids": [
+      "AgACAgQAAyEFAAMBClOLWAACAg5qi-FzgoiZJ7ABnJQumTaJZKyCvQACug5rGyT1WVBvCLVwbUID3QEAAwIAA3gAAz0E"
+    ],
+    "caption": "🤯 A mysterious new AI model called “Ox Alpha” is reportedly BEATING Claude Fable 5 and GPT-5.6 Sol at coding, and nobody knows who built it.\n\nThe model just appeared on OpenRouter with a 1 million-token context window, multimodal capabilities, and no disclosed owner.\n\nSpeculation is exploding, with some online sleuths pointing to Google, while others believe it could be a new model from Chinese AI lab Z .ai.\n\nAdding to the mystery, Ox Alpha’s tokenizer reportedly appears identical to GLM’s, and the previous four anonymous AI model drops were all eventually claimed by Chinese labs.\n\n@aipost 🏴",
+    "entities": [
+      {
+        "offset": 0,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5370745797786738962"
+      },
+      {
+        "offset": 2,
+        "length": 139,
+        "type": "bold"
+      },
+      {
+        "offset": 590,
+        "length": 7,
+        "type": "text_link",
+        "url": "https://t.me/aipost"
+      },
+      {
+        "offset": 598,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5431390559912614642"
+      }
+    ],
+    "media_group_id": null,
+    "chat_id": -1004468214616,
+    "message_ids": [
+      526
+    ],
+    "update_ids": [
+      378304419
+    ],
+    "retry_count": 0
+  },
+  {
+    "type": "photo",
+    "photo_file_ids": [
+      "AgACAgQAAyEFAAMBClOLWAACAg9qi-FzEbWgwrQr7fxiGs2FfKskhQACvA5rGyT1WVCd0sIgHUi66gEAAwIAA3gAAz0E"
+    ],
+    "caption": "❗️Harvard Business School launches AI “clones” of its professors to hear startup pitches, simulate sales calls, & run mock board meetings.\n\nHBS created AI versions of its faculty for a new $699 entrepreneurship bootcamp, allowing founders to practice investor pitches, sales conversations and boardroom scenarios with virtual professors available on demand.\n\nHarvard says the AI platform could expand its entrepreneurship education beyond its MBA program, with more than 100 universities currently doing a test run.\n\n@aipost 🏴",
+    "entities": [
+      {
+        "offset": 0,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5289761612440310918"
+      },
+      {
+        "offset": 2,
+        "length": 136,
+        "type": "bold"
+      },
+      {
+        "offset": 517,
+        "length": 7,
+        "type": "text_link",
+        "url": "https://t.me/aipost"
+      },
+      {
+        "offset": 525,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5431390559912614642"
+      }
+    ],
+    "media_group_id": "14300416923573205",
+    "chat_id": -1004468214616,
+    "message_ids": [
+      527
+    ],
+    "update_ids": [
+      378304420
+    ],
+    "retry_count": 0
+  },
+  {
+    "type": "video",
+    "video_file_id": "BAACAgQAAyEFAAMBClOLWAACAhBqi-FzX_-BI7Atvm6nNUFNZ_N3xgACoyAAAiT1WVAXuJgf4bY_Rz0E",
+    "video_file_size": 225774,
+    "caption": "",
+    "entities": [],
+    "media_group_id": "14300416923573205",
+    "chat_id": -1004468214616,
+    "message_ids": [
+      528
+    ],
+    "update_ids": [
+      378304421
+    ],
+    "retry_count": 0
+  },
+  {
+    "type": "video",
+    "video_file_id": "BAACAgQAAyEFAAMBClOLWAACAhFqi-FzfZCdbRKQCIj24S8fAAH0WK8AAqYgAAIk9VlQFmJRF1Duvyo9BA",
+    "video_file_size": 9530150,
+    "caption": "Google's quantum chip cracked a problem in 5 that would take the world's fastest supercomputer tens of BILLIONS of years.\n\nCEO Sundar Pichai says it proves quantum error correction now works at scale, putting practically useful quantum computers 5 to 10 years away.\n\n@aipost 🏴",
+    "entities": [
+      {
+        "offset": 267,
+        "length": 7,
+        "type": "text_link",
+        "url": "https://t.me/aipost"
+      },
+      {
+        "offset": 275,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5431390559912614642"
+      }
+    ],
+    "media_group_id": null,
+    "chat_id": -1004468214616,
+    "message_ids": [
+      529
+    ],
+    "update_ids": [
+      378304422
+    ],
+    "retry_count": 0
+  }
+]
