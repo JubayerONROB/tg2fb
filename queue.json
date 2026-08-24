@@ -1,46 +1,5 @@
 [
   {
-    "type": "photo",
-    "photo_file_ids": [
-      "AgACAgQAAyEFAAMBClOLWAACAg9qi-FzEbWgwrQr7fxiGs2FfKskhQACvA5rGyT1WVCd0sIgHUi66gEAAwIAA3gAAz0E"
-    ],
-    "caption": "❗️Harvard Business School launches AI “clones” of its professors to hear startup pitches, simulate sales calls, & run mock board meetings.\n\nHBS created AI versions of its faculty for a new $699 entrepreneurship bootcamp, allowing founders to practice investor pitches, sales conversations and boardroom scenarios with virtual professors available on demand.\n\nHarvard says the AI platform could expand its entrepreneurship education beyond its MBA program, with more than 100 universities currently doing a test run.\n\n@aipost 🏴",
-    "entities": [
-      {
-        "offset": 0,
-        "length": 2,
-        "type": "custom_emoji",
-        "custom_emoji_id": "5289761612440310918"
-      },
-      {
-        "offset": 2,
-        "length": 136,
-        "type": "bold"
-      },
-      {
-        "offset": 517,
-        "length": 7,
-        "type": "text_link",
-        "url": "https://t.me/aipost"
-      },
-      {
-        "offset": 525,
-        "length": 2,
-        "type": "custom_emoji",
-        "custom_emoji_id": "5431390559912614642"
-      }
-    ],
-    "media_group_id": "14300416923573205",
-    "chat_id": -1004468214616,
-    "message_ids": [
-      527
-    ],
-    "update_ids": [
-      378304420
-    ],
-    "retry_count": 0
-  },
-  {
     "type": "video",
     "video_file_id": "BAACAgQAAyEFAAMBClOLWAACAhBqi-FzX_-BI7Atvm6nNUFNZ_N3xgACoyAAAiT1WVAXuJgf4bY_Rz0E",
     "video_file_size": 225774,
