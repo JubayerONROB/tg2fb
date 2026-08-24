@@ -1,22 +1,6 @@
 [
   {
     "type": "video",
-    "video_file_id": "BAACAgQAAyEFAAMBClOLWAACAhBqi-FzX_-BI7Atvm6nNUFNZ_N3xgACoyAAAiT1WVAXuJgf4bY_Rz0E",
-    "video_file_size": 225774,
-    "caption": "",
-    "entities": [],
-    "media_group_id": "14300416923573205",
-    "chat_id": -1004468214616,
-    "message_ids": [
-      528
-    ],
-    "update_ids": [
-      378304421
-    ],
-    "retry_count": 0
-  },
-  {
-    "type": "video",
     "video_file_id": "BAACAgQAAyEFAAMBClOLWAACAhFqi-FzfZCdbRKQCIj24S8fAAH0WK8AAqYgAAIk9VlQFmJRF1Duvyo9BA",
     "video_file_size": 9530150,
     "caption": "Google's quantum chip cracked a problem in 5 that would take the world's fastest supercomputer tens of BILLIONS of years.\n\nCEO Sundar Pichai says it proves quantum error correction now works at scale, putting practically useful quantum computers 5 to 10 years away.\n\n@aipost 🏴",
