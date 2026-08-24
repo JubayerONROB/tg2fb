@@ -1,55 +1,116 @@
 [
   {
-    "type": "video",
-    "video_file_id": "BAACAgIAAyEFAAMBClOLWAACAhtqjGunQGjSqUP1sSP1BGfcfOaMGQACaJ8AAupuWUjJdzu9RQ5isT0E",
-    "video_file_size": 4293564,
-    "caption": "🎥 Same Video, New Angle\n\nAs Sarah Connor said: “When they chase you, always run toward a wall.”\n\n📊@tech",
+    "type": "photo",
+    "photo_file_ids": [
+      "AgACAgQAAyEFAAMBClOLWAACAhxqjIOqJxxjzH8EvoA9VXk_sU2ENwAC-g5rGzMPYFCtn_Tr-2n69wEAAwIAA3gAAz0E"
+    ],
+    "caption": "❗️The rise of AI writing is leaving a stylistic footprint on the web.\n\nPewresearch:\n\n\"And as more AI-generated content appears online, these and other AI “tells” have become more common across webpages. Comparing the internet of today to a snapshot from 2023:\n\n• Em dashes appear about twice as frequently.\n• Oxford commas see a 63% increase.\n• Certain words that AI models like to use (such as “delve,” “interplay” or “testament”) have more than doubled in usage.\n• Using “negative parallelism” to structure a comparison (“it’s not just X, it’s Y”) has nearly tripled, although this is still fairly rare overall.\"\n\n@aipost 🏴",
     "entities": [
       {
         "offset": 0,
         "length": 2,
         "type": "custom_emoji",
-        "custom_emoji_id": "5118744200921219799"
+        "custom_emoji_id": "5289761612440310918"
       },
       {
-        "offset": 3,
-        "length": 21,
+        "offset": 2,
+        "length": 67,
         "type": "bold"
       },
       {
-        "offset": 29,
-        "length": 12,
-        "type": "bold"
+        "offset": 616,
+        "length": 7,
+        "type": "text_link",
+        "url": "https://t.me/aipost"
       },
       {
-        "offset": 98,
-        "length": 2,
-        "type": "bold"
-      },
-      {
-        "offset": 98,
+        "offset": 624,
         "length": 2,
         "type": "custom_emoji",
-        "custom_emoji_id": "5449841756596101801"
-      },
-      {
-        "offset": 100,
-        "length": 5,
-        "type": "mention"
-      },
-      {
-        "offset": 100,
-        "length": 5,
-        "type": "bold"
+        "custom_emoji_id": "5431390559912614642"
       }
     ],
     "media_group_id": null,
     "chat_id": -1004468214616,
     "message_ids": [
-      539
+      540
     ],
     "update_ids": [
-      378304432
+      378304433
+    ],
+    "retry_count": 0
+  },
+  {
+    "type": "video",
+    "video_file_id": "BAACAgQAAyEFAAMBClOLWAACAh1qjIOqyZn3JmhDelpvBODL_8OfbQAC9x0AAjMPYFBMP60VPd_wHD0E",
+    "video_file_size": 16308354,
+    "caption": "This is very impressive. \n\nThis requires autonomous real-time planning and action in response to a fast-moving target and dynamic environment.\n\n@aipost 🏴",
+    "entities": [
+      {
+        "offset": 0,
+        "length": 25,
+        "type": "bold"
+      },
+      {
+        "offset": 144,
+        "length": 7,
+        "type": "text_link",
+        "url": "https://t.me/aipost"
+      },
+      {
+        "offset": 152,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5431390559912614642"
+      }
+    ],
+    "media_group_id": null,
+    "chat_id": -1004468214616,
+    "message_ids": [
+      541
+    ],
+    "update_ids": [
+      378304434
+    ],
+    "retry_count": 0
+  },
+  {
+    "type": "video",
+    "video_file_id": "BAACAgQAAyEFAAMBClOLWAACAh5qjIOqwJdKlYyz7rYgH3FLfnMn7QACYR4AAjMPYFCZ3aVs4Eh6gT0E",
+    "video_file_size": 3009364,
+    "caption": "🤖 ChatGPT can now send iMessages\n\nChatGPT is getting a serious upgrade on Mac: it can now connect to Messages and actually interact with your conversations.\n\nThe new Messages plugin can find chats, catch you up on messages you missed, draft replies, and even send messages for you.\n\nIt can also connect the dots between your messages and calendar, like spotting someone’s birthday in a chat, adding it to your calendar, or finding an open evening for dinner.\n\nChatGPT can flag conversations that look like spam, turning your messages into something it can actually help manage instead of just summarize.\n\n@aipost 🏴",
+    "entities": [
+      {
+        "offset": 0,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5397681122542893003"
+      },
+      {
+        "offset": 3,
+        "length": 30,
+        "type": "bold"
+      },
+      {
+        "offset": 606,
+        "length": 7,
+        "type": "text_link",
+        "url": "https://t.me/aipost"
+      },
+      {
+        "offset": 614,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5431390559912614642"
+      }
+    ],
+    "media_group_id": null,
+    "chat_id": -1004468214616,
+    "message_ids": [
+      542
+    ],
+    "update_ids": [
+      378304435
     ],
     "retry_count": 0
   }
