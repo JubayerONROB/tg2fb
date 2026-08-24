@@ -1,38 +1,5 @@
 [
   {
-    "type": "album",
-    "photo_file_ids": [
-      "AgACAgQAAyEFAAMBClOLWAACAgtqi-FzqE0MYfRMhdtMP7DxvuRA8gACrw5rGyT1WVCtZV9ivDUXOAEAAwIAA3kAAz0E",
-      "AgACAgQAAyEFAAMBClOLWAACAgxqi-FzDqgcU_2Uzeohe6V8OqNFWQACsA5rGyT1WVD0kzyRyd8asgEAAwIAA3kAAz0E"
-    ],
-    "caption": "Greatest rivalry of the decade.\n\n@aipost 🏴",
-    "entities": [
-      {
-        "offset": 33,
-        "length": 7,
-        "type": "text_link",
-        "url": "https://t.me/aipost"
-      },
-      {
-        "offset": 41,
-        "length": 2,
-        "type": "custom_emoji",
-        "custom_emoji_id": "5431390559912614642"
-      }
-    ],
-    "media_group_id": "14300416923573181",
-    "chat_id": -1004468214616,
-    "message_ids": [
-      523,
-      524
-    ],
-    "update_ids": [
-      378304416,
-      378304417
-    ],
-    "retry_count": 0
-  },
-  {
     "type": "video",
     "video_file_id": "BAACAgQAAyEFAAMBClOLWAACAg1qi-Fz4vhgAer9A7Tp5cq6SpVjJAACnSAAAiT1WVBNychQ3_BN3T0E",
     "video_file_size": 12877719,
