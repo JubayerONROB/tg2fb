@@ -2,29 +2,120 @@
   {
     "type": "photo",
     "photo_file_ids": [
-      "AgACAgIAAyEFAAMBClOLWAACAiJqjTRNmiq6jic9sypJuvOKwmIOCAACwxxrGyj8aEhl6Qq1dj0okQEAAwIAA3gAAz0E"
+      "AgACAgIAAyEFAAMBClOLWAACAiNqjU4YE_Ldaf6Reid17ouCCExvQgAC_CdrG19SWUgJvuVLjy1zcAEAAwIAA3kAAz0E"
     ],
-    "caption": "OpenAI has announced a reduction in its GPT-5.6 Sol API pricing, effective immediately. Input token costs have dropped by 20%, now set at $4 per million. Output token pricing has been reduced by 33%, with the new rate at $20 per million.\n\nThese favorable rates are guaranteed at least until November 21. The price adjustments follow closely on the anticipated Anthropic IPO, indicating ongoing competition in the AI sector.\n\nNo links or promotions are included in this update.\n\n📰 @aipost",
+    "caption": "🤖 Claude Code Built a Mac Driver\n\nIn about 4 hours, 19-year-old Kuber Mehta used Claude Code to reverse-engineer the proprietary printer language behind the HP Laser 1008a. The result is a working Mac driver built from scratch.\n\nThe driver translates macOS print commands into a format the printer understands. It runs HP’s codec inside a lightweight container, then sends the data directly over USB. The budget printer was designed for Windows, with no Mac support or AirPrint.\n\nAfter a one-command installation, printing works from any Mac app through Cmd+P. Mehta published the project on GitHub along with a full transcript of the Claude Code session.\n\n📊@tech",
     "entities": [
       {
-        "offset": 478,
+        "offset": 0,
         "length": 2,
         "type": "custom_emoji",
-        "custom_emoji_id": "5363988332466438547"
+        "custom_emoji_id": "5208665212483310136"
       },
       {
-        "offset": 481,
+        "offset": 3,
+        "length": 30,
+        "type": "bold"
+      },
+      {
+        "offset": 44,
         "length": 7,
+        "type": "bold"
+      },
+      {
+        "offset": 53,
+        "length": 23,
+        "type": "bold"
+      },
+      {
+        "offset": 158,
+        "length": 14,
+        "type": "bold"
+      },
+      {
+        "offset": 241,
+        "length": 31,
+        "type": "bold"
+      },
+      {
+        "offset": 593,
+        "length": 6,
+        "type": "bold"
+      },
+      {
+        "offset": 658,
+        "length": 2,
+        "type": "bold"
+      },
+      {
+        "offset": 658,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5449841756596101801"
+      },
+      {
+        "offset": 660,
+        "length": 5,
         "type": "mention"
+      },
+      {
+        "offset": 660,
+        "length": 5,
+        "type": "bold"
       }
     ],
     "media_group_id": null,
     "chat_id": -1004468214616,
     "message_ids": [
-      546
+      547
     ],
     "update_ids": [
-      378304439
+      378304440
+    ],
+    "retry_count": 0
+  },
+  {
+    "type": "video",
+    "video_file_id": "BAACAgQAAyEFAAMBClOLWAACAiRqjVdSmwembxkF6iL53IdYfoHSsQACSR8AAjMPaFCSbQHa9fyIHz0E",
+    "video_file_size": 49685981,
+    "caption": "🚀 SpaceX is putting AI data centers in orbit\n\nSpaceX is reportedly taking NVIDIA’s Vera Rubin architecture to space with its new Starmind satellites.\n\nEach satellite could pack 72 Rubin GPUs + 36 Vera CPUs into a custom SpaceX-designed rack that’s lighter, denser and simpler than NVIDIA’s traditional NVL72 setup.\n\nAnd these aren’t just satellites with some AI chips onboard. They’re essentially datacenters in orbit, solar-powered, running datacenter-class compute, with results beamed back to Earth through Starlink laser links. \n\nSpaceX says the same radical rack design will also be used on the ground, while Elon says the company is “exclusive to NVIDIA.”\n\nSpaceX is talking about scaling Grok’s ground compute from 2 GW to 10 GW, with a potential fleet of up to 1 million satellites. First Starmind launch in Q4 2027.\n\n@aipost 🏴",
+    "entities": [
+      {
+        "offset": 0,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5258332798409783582"
+      },
+      {
+        "offset": 3,
+        "length": 42,
+        "type": "bold"
+      },
+      {
+        "offset": 824,
+        "length": 1,
+        "type": "bold"
+      },
+      {
+        "offset": 827,
+        "length": 7,
+        "type": "text_link",
+        "url": "https://t.me/aipost"
+      },
+      {
+        "offset": 835,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5431390559912614642"
+      }
+    ],
+    "media_group_id": null,
+    "chat_id": -1004468214616,
+    "message_ids": [
+      548
+    ],
+    "update_ids": [
+      378304441
     ],
     "retry_count": 0
   }
