@@ -2,35 +2,6 @@
   {
     "type": "photo",
     "photo_file_ids": [
-      "AgACAgIAAyEFAAMBClOLWAACAiFqjTRNuL64S9sK_QSVpKK5SnDB9gADH2sbyahpSAdJI86CbvvrAQADAgADeQADPQQ"
-    ],
-    "caption": "Nvidia demonstrates up to five times better cost efficiency compared to AMD at a rate of 150 tokens per second per user, according to the latest SemiAnalysis report.\n\nData indicates that with current AMD software, Nvidia's performance lead is significant. Even if AMD hardware were provided at no cost, while still accounting for expenses such as datacenter hosting and power, Nvidia would continue to deliver a lower cost per token.\n\nThis comparison is based on GLM 5.3 SGLang benchmarks and focuses on operational costs under real-world usage conditions.\n\n📰 @aipost",
-    "entities": [
-      {
-        "offset": 558,
-        "length": 2,
-        "type": "custom_emoji",
-        "custom_emoji_id": "5363988332466438547"
-      },
-      {
-        "offset": 561,
-        "length": 7,
-        "type": "mention"
-      }
-    ],
-    "media_group_id": null,
-    "chat_id": -1004468214616,
-    "message_ids": [
-      545
-    ],
-    "update_ids": [
-      378304438
-    ],
-    "retry_count": 0
-  },
-  {
-    "type": "photo",
-    "photo_file_ids": [
       "AgACAgIAAyEFAAMBClOLWAACAiJqjTRNmiq6jic9sypJuvOKwmIOCAACwxxrGyj8aEhl6Qq1dj0okQEAAwIAA3gAAz0E"
     ],
     "caption": "OpenAI has announced a reduction in its GPT-5.6 Sol API pricing, effective immediately. Input token costs have dropped by 20%, now set at $4 per million. Output token pricing has been reduced by 33%, with the new rate at $20 per million.\n\nThese favorable rates are guaranteed at least until November 21. The price adjustments follow closely on the anticipated Anthropic IPO, indicating ongoing competition in the AI sector.\n\nNo links or promotions are included in this update.\n\n📰 @aipost",
