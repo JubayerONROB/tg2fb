@@ -1,1 +1,75 @@
-[]
+[
+  {
+    "type": "album",
+    "photo_file_ids": [
+      "AgACAgQAAyEFAAMBClOLWAACAixqjusc2eyPmpNzAgPCOxfcnozyaAACdg9rG0rzaVCP-Z688Ax0TQEAAwIAA3gAAz0E",
+      "AgACAgQAAyEFAAMBClOLWAACAi1qjuscq7KVuPFBlr7pS7tmSmLcPAACdw9rG0rzaVAiz7iUHQJ6sAEAAwIAA3gAAz0E"
+    ],
+    "caption": "❗️Nearly two-thirds of recently published religious books sampled on Amazon were flagged as likely AI-written.\n\nOriginality .ai analyzed 2,034 titles and found 63% were likely AI-generated. \n\nWitchcraft ranked highest at 78%, followed by Hinduism at 76% and Taoism at 74%.\n\nThe study also flagged 53% of fact-checkable claims in witchcraft books as potentially false, though the firm stressed its findings indicate likelihood, not proof.\n\n@aipost 🏴",
+    "entities": [
+      {
+        "offset": 0,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5289761612440310918"
+      },
+      {
+        "offset": 2,
+        "length": 108,
+        "type": "bold"
+      },
+      {
+        "offset": 439,
+        "length": 7,
+        "type": "text_link",
+        "url": "https://t.me/aipost"
+      },
+      {
+        "offset": 447,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5431390559912614642"
+      }
+    ],
+    "media_group_id": "14302009569183613",
+    "chat_id": -1004468214616,
+    "message_ids": [
+      556,
+      557
+    ],
+    "update_ids": [
+      378304449,
+      378304450
+    ],
+    "retry_count": 0
+  },
+  {
+    "type": "photo",
+    "photo_file_ids": [
+      "AgACAgIAAyEFAAMBClOLWAACAi5qjutd-qxJgO1L6DaP9z_sf9ESZQACGR5rG0WreUg6cIyzWzqNpgEAAwIAA3kAAz0E"
+    ],
+    "caption": "Qwen3.8-Flash-Next has been officially released, introducing a 6B-active open model that surpasses Claude Opus 4.6 Max on eight out of nine standard benchmarks.\n\nThe model applies a highly sparse Mixture of Experts (MoE) framework, featuring 125 billion overall parameters and 51 billion n-gram embeddings, with just 6 billion parameters active per token.\n\nBenchmark results include:\n• SWE-bench Pro: 62.5\n• SWE-bench Multilingual: 81.0\n• CoworkBench: 73.9\n• JobBench: 55.7\n• Toolathlon: 73.5\n• IFBench: 81.3\n• GPQA Diamond: 91.7\n• LiveCodeBench: 91.9\n\nQwen3.8-Flash-Next also exceeds the performance of Qwen3.8-27B and DeepSeek-V4-Flash across the majority of evaluated categories.\n\n📰 @aipost",
+    "entities": [
+      {
+        "offset": 684,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5363988332466438547"
+      },
+      {
+        "offset": 687,
+        "length": 7,
+        "type": "mention"
+      }
+    ],
+    "media_group_id": null,
+    "chat_id": -1004468214616,
+    "message_ids": [
+      558
+    ],
+    "update_ids": [
+      378304451
+    ],
+    "retry_count": 0
+  }
+]
