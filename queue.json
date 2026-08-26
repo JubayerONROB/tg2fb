@@ -1,49 +1,5 @@
 [
   {
-    "type": "album",
-    "photo_file_ids": [
-      "AgACAgQAAyEFAAMBClOLWAACAixqjusc2eyPmpNzAgPCOxfcnozyaAACdg9rG0rzaVCP-Z688Ax0TQEAAwIAA3gAAz0E",
-      "AgACAgQAAyEFAAMBClOLWAACAi1qjuscq7KVuPFBlr7pS7tmSmLcPAACdw9rG0rzaVAiz7iUHQJ6sAEAAwIAA3gAAz0E"
-    ],
-    "caption": "❗️Nearly two-thirds of recently published religious books sampled on Amazon were flagged as likely AI-written.\n\nOriginality .ai analyzed 2,034 titles and found 63% were likely AI-generated. \n\nWitchcraft ranked highest at 78%, followed by Hinduism at 76% and Taoism at 74%.\n\nThe study also flagged 53% of fact-checkable claims in witchcraft books as potentially false, though the firm stressed its findings indicate likelihood, not proof.\n\n@aipost 🏴",
-    "entities": [
-      {
-        "offset": 0,
-        "length": 2,
-        "type": "custom_emoji",
-        "custom_emoji_id": "5289761612440310918"
-      },
-      {
-        "offset": 2,
-        "length": 108,
-        "type": "bold"
-      },
-      {
-        "offset": 439,
-        "length": 7,
-        "type": "text_link",
-        "url": "https://t.me/aipost"
-      },
-      {
-        "offset": 447,
-        "length": 2,
-        "type": "custom_emoji",
-        "custom_emoji_id": "5431390559912614642"
-      }
-    ],
-    "media_group_id": "14302009569183613",
-    "chat_id": -1004468214616,
-    "message_ids": [
-      556,
-      557
-    ],
-    "update_ids": [
-      378304449,
-      378304450
-    ],
-    "retry_count": 0
-  },
-  {
     "type": "photo",
     "photo_file_ids": [
       "AgACAgIAAyEFAAMBClOLWAACAi5qjutd-qxJgO1L6DaP9z_sf9ESZQACGR5rG0WreUg6cIyzWzqNpgEAAwIAA3kAAz0E"
