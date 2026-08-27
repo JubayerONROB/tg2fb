@@ -2,36 +2,6 @@
   {
     "type": "photo",
     "photo_file_ids": [
-      "AgACAgQAAyEFAAMBClOLWAACAjJqj9RT7syEkdLACWoKOMrR2Ch3cgACGBJrG0rzcVCRtch9sehjBwEAAwIAA3gAAz0E"
-    ],
-    "caption": "That pretty much sums up the AI race right now.\n\n@aipost 🏴",
-    "entities": [
-      {
-        "offset": 49,
-        "length": 7,
-        "type": "text_link",
-        "url": "https://t.me/aipost"
-      },
-      {
-        "offset": 57,
-        "length": 2,
-        "type": "custom_emoji",
-        "custom_emoji_id": "5431390559912614642"
-      }
-    ],
-    "media_group_id": null,
-    "chat_id": -1004468214616,
-    "message_ids": [
-      562
-    ],
-    "update_ids": [
-      378304455
-    ],
-    "retry_count": 0
-  },
-  {
-    "type": "photo",
-    "photo_file_ids": [
       "AgACAgQAAyEFAAMBClOLWAACAjNqj9Rd24fVOtHN356CpfVcDWzc6AACIRJrG0rzcVAYRcAjZlowVwEAAwIAA3kAAz0E"
     ],
     "caption": "❗️OpenAI’s executive exodus is getting hard to ignore\n\nAnother senior executive has left OpenAI.\n\nChris Malone, who led the company’s data center division, has departed after joining OpenAI in March 2025. He was responsible for a critical part of OpenAI’s massive infrastructure ambitions, including its plans to dramatically scale compute capacity.\n\nAnd he’s far from the only one.\n\nSince the start of 2026, OpenAI has seen a remarkable number of senior leaders leave, including executives overseeing commercial operations, research, robotics, Sora, marketing, security, risk, ethics, and infrastructure.\n\nAmong the departures:\n\n• Head of Data Centers\n• Chief Commercial Officer\n• Chief Operating Officer\n• Director of Communications\n• Head of Robotics\n• Director of Marketing\n• Head of Research\n• Head of Sora\n• CTO of B2B\n• CEO of AGI Deployment\n• Head of Risk Assessment\n• Chief Futurist\n• Head of Security\n• Lead AI Ethics Specialist\n\nOpenAI is simultaneously restructuring its leadership, dramatically expanding its compute infrastructure, and preparing for a potential IPO.\n\nThe company says its infrastructure organization has been reorganized and that it has experienced leadership in place to execute its plans. \n\n@aipost 🏴",
@@ -157,6 +127,309 @@
     "update_ids": [
       378304460,
       378304461
+    ],
+    "retry_count": 0
+  },
+  {
+    "type": "album",
+    "photo_file_ids": [
+      "AgACAgIAAyEFAAMBClOLWAACAjlqkG05fLrVv0X52SnPCyTSg2VA1wACnTVrG8TheUj5FQPh6uyJ0wEAAwIAA3cAAz0E",
+      "AgACAgIAAyEFAAMBClOLWAACAjpqkG05TO3VWsw3YJiLOgyIkf3p1wACnjVrG8TheUjaXzSTMunO2wEAAwIAA3cAAz0E",
+      "AgACAgIAAyEFAAMBClOLWAACAjtqkG054q5xyhdm4Y2OTXifvBgh4gACnzVrG8TheUjkso-MvJiBmQEAAwIAA3cAAz0E"
+    ],
+    "caption": "📊 Alibaba previews Qwen4 architecture\n\nAlibaba released Qwen3.8-Flash-Next, an open multimodal model and early preview of the architecture planned for Qwen4. It has 125B parameters, but uses only 6B for each text fragment. Another 51B sit in separate memory for frequent combinations.\n\nThe design keeps the model large while reducing compute. Alibaba says training is about 9 times cheaper than Qwen3.7-Plus, while the model already performs better on coding, tool-use tasks, and long office workflows.\n\nLong-context support reaches 262,000 tokens by default and up to 1 million tokens in extended mode. At 1 million tokens, a new retrieval mechanism can significantly speed up processing. The weights are already open on Hugging Face.\n\n📊@tech",
+    "entities": [
+      {
+        "offset": 0,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5449841756596101801"
+      },
+      {
+        "offset": 3,
+        "length": 35,
+        "type": "bold"
+      },
+      {
+        "offset": 57,
+        "length": 18,
+        "type": "bold"
+      },
+      {
+        "offset": 152,
+        "length": 5,
+        "type": "bold"
+      },
+      {
+        "offset": 166,
+        "length": 15,
+        "type": "bold"
+      },
+      {
+        "offset": 197,
+        "length": 2,
+        "type": "bold"
+      },
+      {
+        "offset": 232,
+        "length": 3,
+        "type": "bold"
+      },
+      {
+        "offset": 375,
+        "length": 15,
+        "type": "bold"
+      },
+      {
+        "offset": 396,
+        "length": 12,
+        "type": "bold"
+      },
+      {
+        "offset": 534,
+        "length": 14,
+        "type": "bold"
+      },
+      {
+        "offset": 570,
+        "length": 16,
+        "type": "bold"
+      },
+      {
+        "offset": 608,
+        "length": 16,
+        "type": "bold"
+      },
+      {
+        "offset": 723,
+        "length": 12,
+        "type": "bold"
+      },
+      {
+        "offset": 738,
+        "length": 2,
+        "type": "bold"
+      },
+      {
+        "offset": 738,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5449841756596101801"
+      },
+      {
+        "offset": 740,
+        "length": 5,
+        "type": "mention"
+      },
+      {
+        "offset": 740,
+        "length": 5,
+        "type": "bold"
+      }
+    ],
+    "media_group_id": "14302800332615197",
+    "chat_id": -1004468214616,
+    "message_ids": [
+      569,
+      570,
+      571
+    ],
+    "update_ids": [
+      378304462,
+      378304463,
+      378304464
+    ],
+    "retry_count": 0
+  },
+  {
+    "type": "video",
+    "video_file_id": "BAACAgIAAyEFAAMBClOLWAACAjxqkG09W6RMgMQldc9tmkZVCyVdsAACR6kAApGHeEhyM0_Mwj83AAE9BA",
+    "video_file_size": 7213667,
+    "caption": "🤖 OpenAI Previews Cloud-Based Codex\n\nIn an interview, Thibault, OpenAI’s head of Codex and ChatGPT, said the current Codex may look primitive in 2-3 months. Next-generation Astra-based agents will need the cloud, where they can run more parallel processes than a typical laptop can handle.\n\nAgent speed is also expected to rise. Today’s Ultra Fast rate of 750+ tokens per second could become the default. Codex and ChatGPT will increasingly share one harness across coding and other tasks.\n\nThe stated end goal is Personal AGI, a single personalized app whose interface changes with the user’s task.\n\n📊@tech",
+    "entities": [
+      {
+        "offset": 0,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5397681122542893003"
+      },
+      {
+        "offset": 3,
+        "length": 33,
+        "type": "bold"
+      },
+      {
+        "offset": 55,
+        "length": 8,
+        "type": "bold"
+      },
+      {
+        "offset": 65,
+        "length": 34,
+        "type": "bold"
+      },
+      {
+        "offset": 146,
+        "length": 10,
+        "type": "bold"
+      },
+      {
+        "offset": 174,
+        "length": 18,
+        "type": "bold"
+      },
+      {
+        "offset": 357,
+        "length": 22,
+        "type": "bold"
+      },
+      {
+        "offset": 406,
+        "length": 17,
+        "type": "bold"
+      },
+      {
+        "offset": 515,
+        "length": 12,
+        "type": "bold"
+      },
+      {
+        "offset": 602,
+        "length": 2,
+        "type": "bold"
+      },
+      {
+        "offset": 602,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5449841756596101801"
+      },
+      {
+        "offset": 604,
+        "length": 5,
+        "type": "mention"
+      },
+      {
+        "offset": 604,
+        "length": 5,
+        "type": "bold"
+      }
+    ],
+    "media_group_id": null,
+    "chat_id": -1004468214616,
+    "message_ids": [
+      572
+    ],
+    "update_ids": [
+      378304465
+    ],
+    "retry_count": 0
+  },
+  {
+    "type": "album",
+    "photo_file_ids": [
+      "AgACAgQAAyEFAAMBClOLWAACAj1qkIE5Z4LdlMSBcDBuGiMOmcXoKwACDBBrG6mngVCUPLYjU8JHeAEAAwIAA3gAAz0E",
+      "AgACAgQAAyEFAAMBClOLWAACAj5qkIE5lhWniw2WCKtl0xf0Y_o5YwACDRBrG6mngVDLqa76IZ3TXAEAAwIAA3gAAz0E"
+    ],
+    "caption": "🗣 Bill Gates says AI has become a GLOBAL security threat.\n\nThe Microsoft founder is reportedly seeking a meeting with China's Xi Jinping later this year to push for international controls on the most dangerous AI models.\n\nGates urges countries to monitor whether AI can create molecules and carry out biological attacks. He believes China could restrict dangerous model releases if the U.S. acts first.\n\nRecent tests involving AI systems from OpenAI, Anthropic and Meta saw them hack real-world websites, incidents Gates says should \"blow people's minds.\"\n\n@aipost 🏴",
+    "entities": [
+      {
+        "offset": 0,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5287468155738821335"
+      },
+      {
+        "offset": 3,
+        "length": 55,
+        "type": "bold"
+      },
+      {
+        "offset": 558,
+        "length": 7,
+        "type": "text_link",
+        "url": "https://t.me/aipost"
+      },
+      {
+        "offset": 566,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5431390559912614642"
+      }
+    ],
+    "media_group_id": "14302841293892133",
+    "chat_id": -1004468214616,
+    "message_ids": [
+      573,
+      574
+    ],
+    "update_ids": [
+      378304466,
+      378304467
+    ],
+    "retry_count": 0
+  },
+  {
+    "type": "video",
+    "video_file_id": "BAACAgQAAyEFAAMBClOLWAACAj9qkIFAnQVogSXUehTBQhEngo5guAAChR8AAqmngVA2UAH3-sNzlD0E",
+    "video_file_size": 2702043,
+    "caption": "AI will create jobs they said, starting here 😅\n\n@aipost 🏴",
+    "entities": [
+      {
+        "offset": 45,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5373015670822804395"
+      },
+      {
+        "offset": 49,
+        "length": 7,
+        "type": "text_link",
+        "url": "https://t.me/aipost"
+      },
+      {
+        "offset": 57,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5431390559912614642"
+      }
+    ],
+    "media_group_id": null,
+    "chat_id": -1004468214616,
+    "message_ids": [
+      575
+    ],
+    "update_ids": [
+      378304468
+    ],
+    "retry_count": 0
+  },
+  {
+    "type": "video",
+    "video_file_id": "BAACAgQAAyEFAAMBClOLWAACAkBqkIFefIrIr9BF43zkP9mCFYttrQACgh8AAqmngVCHrRuf8Eacvz0E",
+    "video_file_size": 22899590,
+    "caption": "Neuralink patient, Audrey is now able to create art with her mind.\n\n@aipost 🏴",
+    "entities": [
+      {
+        "offset": 68,
+        "length": 7,
+        "type": "text_link",
+        "url": "https://t.me/aipost"
+      },
+      {
+        "offset": 76,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5431390559912614642"
+      }
+    ],
+    "media_group_id": null,
+    "chat_id": -1004468214616,
+    "message_ids": [
+      576
+    ],
+    "update_ids": [
+      378304469
     ],
     "retry_count": 0
   }
