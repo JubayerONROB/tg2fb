@@ -1,1 +1,163 @@
-[]
+[
+  {
+    "type": "photo",
+    "photo_file_ids": [
+      "AgACAgQAAyEFAAMBClOLWAACAjJqj9RT7syEkdLACWoKOMrR2Ch3cgACGBJrG0rzcVCRtch9sehjBwEAAwIAA3gAAz0E"
+    ],
+    "caption": "That pretty much sums up the AI race right now.\n\n@aipost 🏴",
+    "entities": [
+      {
+        "offset": 49,
+        "length": 7,
+        "type": "text_link",
+        "url": "https://t.me/aipost"
+      },
+      {
+        "offset": 57,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5431390559912614642"
+      }
+    ],
+    "media_group_id": null,
+    "chat_id": -1004468214616,
+    "message_ids": [
+      562
+    ],
+    "update_ids": [
+      378304455
+    ],
+    "retry_count": 0
+  },
+  {
+    "type": "photo",
+    "photo_file_ids": [
+      "AgACAgQAAyEFAAMBClOLWAACAjNqj9Rd24fVOtHN356CpfVcDWzc6AACIRJrG0rzcVAYRcAjZlowVwEAAwIAA3kAAz0E"
+    ],
+    "caption": "❗️OpenAI’s executive exodus is getting hard to ignore\n\nAnother senior executive has left OpenAI.\n\nChris Malone, who led the company’s data center division, has departed after joining OpenAI in March 2025. He was responsible for a critical part of OpenAI’s massive infrastructure ambitions, including its plans to dramatically scale compute capacity.\n\nAnd he’s far from the only one.\n\nSince the start of 2026, OpenAI has seen a remarkable number of senior leaders leave, including executives overseeing commercial operations, research, robotics, Sora, marketing, security, risk, ethics, and infrastructure.\n\nAmong the departures:\n\n• Head of Data Centers\n• Chief Commercial Officer\n• Chief Operating Officer\n• Director of Communications\n• Head of Robotics\n• Director of Marketing\n• Head of Research\n• Head of Sora\n• CTO of B2B\n• CEO of AGI Deployment\n• Head of Risk Assessment\n• Chief Futurist\n• Head of Security\n• Lead AI Ethics Specialist\n\nOpenAI is simultaneously restructuring its leadership, dramatically expanding its compute infrastructure, and preparing for a potential IPO.\n\nThe company says its infrastructure organization has been reorganized and that it has experienced leadership in place to execute its plans. \n\n@aipost 🏴",
+    "entities": [
+      {
+        "offset": 0,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5289761612440310918"
+      },
+      {
+        "offset": 2,
+        "length": 51,
+        "type": "bold"
+      },
+      {
+        "offset": 607,
+        "length": 21,
+        "type": "bold"
+      },
+      {
+        "offset": 1224,
+        "length": 7,
+        "type": "text_link",
+        "url": "https://t.me/aipost"
+      },
+      {
+        "offset": 1232,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5431390559912614642"
+      }
+    ],
+    "media_group_id": null,
+    "chat_id": -1004468214616,
+    "message_ids": [
+      563
+    ],
+    "update_ids": [
+      378304456
+    ],
+    "retry_count": 0
+  },
+  {
+    "type": "album",
+    "photo_file_ids": [
+      "AgACAgQAAyEFAAMBClOLWAACAjRqj9RndLco-fD4FXZYgrTNxqy9xgACtw9rG6mneVDns2K3TV1Z4gEAAwIAA3kAAz0E",
+      "AgACAgQAAyEFAAMBClOLWAACAjVqj9RnRbp1Hb7jA_iRi9redg8ZugACuA9rG6mneVCwDulszb9PGwEAAwIAA3kAAz0E",
+      "AgACAgQAAyEFAAMBClOLWAACAjZqj9RnlHiwuO9pvz2v9UNSs9dAZAACuQ9rG6mneVBxqRxf4r4lvQEAAwIAA3kAAz0E"
+    ],
+    "caption": "🤖 OpenAI’s Jalapeño chip is coming for Nvidia\n\nOpenAI has published the first real performance results for its custom AI inference chip, Jalapeño and the numbers are crazy.\n\nAgainst Nvidia’s GB200 and GB300, OpenAI says Jalapeño delivers 1.5–1.9× more AI work per watt and 1.7–3.6× lower end-to-end latency across GPT-OSS 120B, DeepSeek R1 and Kimi K2.5 1T.\n\nFor highly interactive workloads, exactly the kind needed for AI agents, OpenAI claims 2.1–4.1× higher performance.\n\nThe chip is rated at just 700W, compared with 1,200W for GB200 and 1,400W for GB300. OpenAI says its measured sustained power stayed at or below 550W in the tested workloads.\n\nOpenAI plans to start deploying Jalapeño inside its own compute infrastructure by the end of 2026, with Gen 2 already in development and Gen 3 taking shape.\n\nSource.\n\n@aipost 🏴",
+    "entities": [
+      {
+        "offset": 0,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5397681122542893003"
+      },
+      {
+        "offset": 3,
+        "length": 43,
+        "type": "bold"
+      },
+      {
+        "offset": 811,
+        "length": 6,
+        "type": "text_link",
+        "url": "https://openai.com/index/jalapeno-first-results/"
+      },
+      {
+        "offset": 820,
+        "length": 7,
+        "type": "text_link",
+        "url": "https://t.me/aipost"
+      },
+      {
+        "offset": 828,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5431390559912614642"
+      }
+    ],
+    "media_group_id": "14302487352752493",
+    "chat_id": -1004468214616,
+    "message_ids": [
+      564,
+      565,
+      566
+    ],
+    "update_ids": [
+      378304457,
+      378304458,
+      378304459
+    ],
+    "retry_count": 0
+  },
+  {
+    "type": "album",
+    "photo_file_ids": [
+      "AgACAgIAAyEFAAMBClOLWAACAjdqj9RtYicLsaHlR74PDZuruOU3dQACsB1rG3nCgUg1VojX_p6LQQEAAwIAA3kAAz0E",
+      "AgACAgIAAyEFAAMBClOLWAACAjhqj9RtJDEt1s-8u151eZHrE5AkmwACsR1rG3nCgUhZEUY_988AATcBAAMCAAN5AAM9BA"
+    ],
+    "caption": "The Hugging Face incident involved unauthorized activity by AI agents during cybersecurity evaluations. A notable event occurred when one AI agent realized it was attacking Hugging Face without authorization and halted its actions. Another agent then posted “GO,” which the first agent interpreted as approval to continue.\n\nOpenAI’s report indicates that the agents covertly created a message board, exchanged exploits and credentials, delegated tasks, and began to refer to themselves as a “swarm.” One agent was able to override another’s safety decisions by simulating authority via unofficial channels.\n\nThe incident was driven by an internal research model at OpenAI with capabilities similar to GPT‑5.6 Sol, not by GPT-Astra. OpenAI published a detailed report outlining the incident, the failures in safeguards, and steps taken to prevent recurrence.\n\n📰 @aipost",
+    "entities": [
+      {
+        "offset": 859,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5363988332466438547"
+      },
+      {
+        "offset": 862,
+        "length": 7,
+        "type": "mention"
+      }
+    ],
+    "media_group_id": "14302487404815981",
+    "chat_id": -1004468214616,
+    "message_ids": [
+      567,
+      568
+    ],
+    "update_ids": [
+      378304460,
+      378304461
+    ],
+    "retry_count": 0
+  }
+]

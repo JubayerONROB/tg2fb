@@ -2545,5 +2545,45 @@
       378304441
     ],
     "retry_count": 0
+  },
+  {
+    "type": "video",
+    "video_file_id": "BAACAgQAAyEFAAMBClOLWAACAjFqj9RCEAVcExER0F4BXtUFfNDzswACHyEAAkrzcVBmNgM-7yad8D0E",
+    "video_file_size": 64872527,
+    "caption": "🔥 Skild AI has introduced S1\n\nA new robotics foundation model designed to learn new tasks from a single video demonstration without fine-tuning or post-training.\n\nSkild says S1 can execute previously unseen tasks lasting up to 10 minutes, including:\n\n• Making pour-over coffee\n• Potting a plant\n• Cooking pancakes\n• Assembling a kit\n\nThe model takes a video demonstration as its prompt and translates it into robot actions for its own environment and embodiment. \n\nSkild says S1 does not simply replay the demonstrated movements, it can recover from mistakes, handle environmental changes, substitute appropriate objects, and sometimes improve on errors made in the original demonstration.\n\n@aipost 🏴",
+    "entities": [
+      {
+        "offset": 0,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5363970504057191145"
+      },
+      {
+        "offset": 3,
+        "length": 26,
+        "type": "bold"
+      },
+      {
+        "offset": 692,
+        "length": 7,
+        "type": "text_link",
+        "url": "https://t.me/aipost"
+      },
+      {
+        "offset": 700,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5431390559912614642"
+      }
+    ],
+    "media_group_id": null,
+    "chat_id": -1004468214616,
+    "message_ids": [
+      561
+    ],
+    "update_ids": [
+      378304454
+    ],
+    "retry_count": 0
   }
 ]
