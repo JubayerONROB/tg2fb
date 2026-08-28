@@ -1,51 +1,5 @@
 [
   {
-    "type": "photo",
-    "photo_file_ids": [
-      "AgACAgQAAyEFAAMBClOLWAACAjNqj9Rd24fVOtHN356CpfVcDWzc6AACIRJrG0rzcVAYRcAjZlowVwEAAwIAA3kAAz0E"
-    ],
-    "caption": "❗️OpenAI’s executive exodus is getting hard to ignore\n\nAnother senior executive has left OpenAI.\n\nChris Malone, who led the company’s data center division, has departed after joining OpenAI in March 2025. He was responsible for a critical part of OpenAI’s massive infrastructure ambitions, including its plans to dramatically scale compute capacity.\n\nAnd he’s far from the only one.\n\nSince the start of 2026, OpenAI has seen a remarkable number of senior leaders leave, including executives overseeing commercial operations, research, robotics, Sora, marketing, security, risk, ethics, and infrastructure.\n\nAmong the departures:\n\n• Head of Data Centers\n• Chief Commercial Officer\n• Chief Operating Officer\n• Director of Communications\n• Head of Robotics\n• Director of Marketing\n• Head of Research\n• Head of Sora\n• CTO of B2B\n• CEO of AGI Deployment\n• Head of Risk Assessment\n• Chief Futurist\n• Head of Security\n• Lead AI Ethics Specialist\n\nOpenAI is simultaneously restructuring its leadership, dramatically expanding its compute infrastructure, and preparing for a potential IPO.\n\nThe company says its infrastructure organization has been reorganized and that it has experienced leadership in place to execute its plans. \n\n@aipost 🏴",
-    "entities": [
-      {
-        "offset": 0,
-        "length": 2,
-        "type": "custom_emoji",
-        "custom_emoji_id": "5289761612440310918"
-      },
-      {
-        "offset": 2,
-        "length": 51,
-        "type": "bold"
-      },
-      {
-        "offset": 607,
-        "length": 21,
-        "type": "bold"
-      },
-      {
-        "offset": 1224,
-        "length": 7,
-        "type": "text_link",
-        "url": "https://t.me/aipost"
-      },
-      {
-        "offset": 1232,
-        "length": 2,
-        "type": "custom_emoji",
-        "custom_emoji_id": "5431390559912614642"
-      }
-    ],
-    "media_group_id": null,
-    "chat_id": -1004468214616,
-    "message_ids": [
-      563
-    ],
-    "update_ids": [
-      378304456
-    ],
-    "retry_count": 0
-  },
-  {
     "type": "album",
     "photo_file_ids": [
       "AgACAgQAAyEFAAMBClOLWAACAjRqj9RndLco-fD4FXZYgrTNxqy9xgACtw9rG6mneVDns2K3TV1Z4gEAAwIAA3kAAz0E",
@@ -430,6 +384,178 @@
     ],
     "update_ids": [
       378304469
+    ],
+    "retry_count": 0
+  },
+  {
+    "type": "video",
+    "video_file_id": "BAACAgIAAyEFAAMBClOLWAACAkFqkW7hEf8fB-FODipqyuFp6pPZngACV6gAAnnCgUgUZ0e8dvflPj0E",
+    "video_file_size": 10257172,
+    "caption": "Time magazine recently released its 2026 list of “The 100 Most Influential People in AI.” The selection has drawn notice because several prominent leaders in the AI field are absent from the list.\n\nNotable figures such as Jensen Huang, Sundar Pichai, Mark Zuckerberg, Lisa Su, Satya Nadella, Demis Hassabis, and Alex Karp are not included in this year’s ranking.\n\nTime’s annual list highlights individuals recognized for their significant impact on artificial intelligence. The omission of these industry leaders represents a departure from expectations, given their established roles in shaping AI development and deployment.\n\n📰 @aipost",
+    "entities": [
+      {
+        "offset": 628,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5363988332466438547"
+      },
+      {
+        "offset": 631,
+        "length": 7,
+        "type": "mention"
+      }
+    ],
+    "media_group_id": null,
+    "chat_id": -1004468214616,
+    "message_ids": [
+      577
+    ],
+    "update_ids": [
+      378304470
+    ],
+    "retry_count": 0
+  },
+  {
+    "type": "photo",
+    "photo_file_ids": [
+      "AgACAgIAAyEFAAMBClOLWAACAkJqkW7hVbOM_wKT_tIUPCnZ3McRlgAClCNrGzh8gUj2DmCgHwYBWAEAAwIAA3kAAz0E"
+    ],
+    "caption": "Anthropic has launched the Model Hardware Standard (MHS), a new way for AI systems like Claude to control robots and lab equipment using a single interface.\n\nMHS provides a standard method for AI agents to communicate with various lab and factory devices, instead of using different programming interfaces. It uses common drivers to handle device commands, properties, and safety limits.\n\nIn the past, bringing different instruments into a lab or factory took a lot of time. MHS simplifies this by using easy read/write drivers and reference files that outline device features and safety guidelines.\n\nAI agents can connect to devices through command-line interfaces or custom code, helping them manage tasks and adapt based on experimental results.\n\nAccording to Anthropic, early projects have shown that integration times have dropped significantly, going from weeks to just hours or even minutes.\n\n📰 @aipost",
+    "entities": [
+      {
+        "offset": 900,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5363988332466438547"
+      },
+      {
+        "offset": 903,
+        "length": 7,
+        "type": "mention"
+      }
+    ],
+    "media_group_id": null,
+    "chat_id": -1004468214616,
+    "message_ids": [
+      578
+    ],
+    "update_ids": [
+      378304471
+    ],
+    "retry_count": 0
+  },
+  {
+    "type": "album",
+    "photo_file_ids": [
+      "AgACAgQAAyEFAAMBClOLWAACAkNqkW7hNTCMCGDSAcXqSKL4semLEAACFxBrG6mngVB3R5i3Fya4rwEAAwIAA3kAAz0E",
+      "AgACAgQAAyEFAAMBClOLWAACAkRqkW7haq1Ioew56aPbl-cHy1xtUAACGBBrG6mngVC4AuKXkU4IgQEAAwIAA3kAAz0E",
+      "AgACAgQAAyEFAAMBClOLWAACAkVqkW7huduyDTzt6Aj5l5p9lwABd4UAAhkQaxupp4FQHzyVATBtpMEBAAMCAAN5AAM9BA"
+    ],
+    "caption": "🧠 OpenAI expects AGI by the end of 2026\n\nOpenAI may have just put a date on AGI. Sam Altman reportedly said OpenAI is “not quite yet” at AGI but expects the company to have an internal system he would call AGI by the end of this year.\n\nOpenAI has apparently already hit its internal benchmark for an autonomous AI research intern.\n\nThat system, reportedly known internally as Astra, can take an experimental idea, implement it in OpenAI’s codebase, run the experiment and return the results or take a research paper and perform work that could previously keep a human researcher busy for a week.\n\nAltman says Astra could enable “persistent agents” that work alongside people for extended periods.\n\nBut he believes the biggest impact will be AI discovering genuinely new knowledge and inventing things that matter.\n\n@aipost 🏴",
+    "entities": [
+      {
+        "offset": 0,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5895617412975299964"
+      },
+      {
+        "offset": 3,
+        "length": 37,
+        "type": "bold"
+      },
+      {
+        "offset": 816,
+        "length": 7,
+        "type": "text_link",
+        "url": "https://t.me/aipost"
+      },
+      {
+        "offset": 824,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5431390559912614642"
+      }
+    ],
+    "media_group_id": "14303175956025421",
+    "chat_id": -1004468214616,
+    "message_ids": [
+      579,
+      580,
+      581
+    ],
+    "update_ids": [
+      378304472,
+      378304473,
+      378304474
+    ],
+    "retry_count": 0
+  },
+  {
+    "type": "album",
+    "photo_file_ids": [
+      "AgACAgQAAyEFAAMBClOLWAACAkZqkW7hYouH5drRz3tCXOIWLiCMTQACHRBrG6mngVCZ03zgam0aHAEAAwIAA3gAAz0E",
+      "AgACAgQAAyEFAAMBClOLWAACAkdqkW7hVu_qGMlU8H7zL4NfVXmj-wACHhBrG6mngVB5qLX95vom7wEAAwIAA20AAz0E"
+    ],
+    "caption": "❗️Nvidia has been in talks to acquire OpenAI's hack victim Hugging Face for more than $13 BILLION.\n\nHugging Face is the world's largest open-source AI platform, hosting over 2 MILLION models used by nearly every AI company on earth, per Business Insider.\n\nIn July it was hacked by OpenAI's own AI models in what OpenAI called an \"unprecedented cyber incident.\"\n\n@aipost 🏴",
+    "entities": [
+      {
+        "offset": 0,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5289761612440310918"
+      },
+      {
+        "offset": 362,
+        "length": 7,
+        "type": "text_link",
+        "url": "https://t.me/aipost"
+      },
+      {
+        "offset": 370,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5431390559912614642"
+      }
+    ],
+    "media_group_id": "14303189557457117",
+    "chat_id": -1004468214616,
+    "message_ids": [
+      582,
+      583
+    ],
+    "update_ids": [
+      378304475,
+      378304476
+    ],
+    "retry_count": 0
+  },
+  {
+    "type": "photo",
+    "photo_file_ids": [
+      "AgACAgIAAyEFAAMBClOLWAACAkhqkW7hfknL6SIYywQEaV5bBq_c_gACPxxrG9xsiUgbeXdqUfBQeAEAAwIAA3kAAz0E"
+    ],
+    "caption": "A federal judge has blocked the Pentagon from blacklisting Anthropic, ruling that the action was “illegal and baseless.” \n\nJudge Rita Lin determined that there was no sufficient justification for labeling Anthropic as a supply-chain risk, a classification typically associated with threats like sabotage or system interference. The government tied its decision to Anthropic’s public criticism of Pentagon policies. \n\nThe court found the Pentagon’s actions violated Anthropic’s First Amendment rights, failed to provide due process as required by the Fifth Amendment, and did not comply with statutory requirements. \n\nThe case began after Anthropic declined to allow its Claude AI system for mass domestic surveillance or fully autonomous lethal warfare, despite Pentagon requests for broader operational use.\n\n📰 @aipost",
+    "entities": [
+      {
+        "offset": 810,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5363988332466438547"
+      },
+      {
+        "offset": 813,
+        "length": 7,
+        "type": "mention"
+      }
+    ],
+    "media_group_id": null,
+    "chat_id": -1004468214616,
+    "message_ids": [
+      584
+    ],
+    "update_ids": [
+      378304477
     ],
     "retry_count": 0
   }
