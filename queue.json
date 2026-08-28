@@ -2,59 +2,6 @@
   {
     "type": "album",
     "photo_file_ids": [
-      "AgACAgQAAyEFAAMBClOLWAACAjRqj9RndLco-fD4FXZYgrTNxqy9xgACtw9rG6mneVDns2K3TV1Z4gEAAwIAA3kAAz0E",
-      "AgACAgQAAyEFAAMBClOLWAACAjVqj9RnRbp1Hb7jA_iRi9redg8ZugACuA9rG6mneVCwDulszb9PGwEAAwIAA3kAAz0E",
-      "AgACAgQAAyEFAAMBClOLWAACAjZqj9RnlHiwuO9pvz2v9UNSs9dAZAACuQ9rG6mneVBxqRxf4r4lvQEAAwIAA3kAAz0E"
-    ],
-    "caption": "🤖 OpenAI’s Jalapeño chip is coming for Nvidia\n\nOpenAI has published the first real performance results for its custom AI inference chip, Jalapeño and the numbers are crazy.\n\nAgainst Nvidia’s GB200 and GB300, OpenAI says Jalapeño delivers 1.5–1.9× more AI work per watt and 1.7–3.6× lower end-to-end latency across GPT-OSS 120B, DeepSeek R1 and Kimi K2.5 1T.\n\nFor highly interactive workloads, exactly the kind needed for AI agents, OpenAI claims 2.1–4.1× higher performance.\n\nThe chip is rated at just 700W, compared with 1,200W for GB200 and 1,400W for GB300. OpenAI says its measured sustained power stayed at or below 550W in the tested workloads.\n\nOpenAI plans to start deploying Jalapeño inside its own compute infrastructure by the end of 2026, with Gen 2 already in development and Gen 3 taking shape.\n\nSource.\n\n@aipost 🏴",
-    "entities": [
-      {
-        "offset": 0,
-        "length": 2,
-        "type": "custom_emoji",
-        "custom_emoji_id": "5397681122542893003"
-      },
-      {
-        "offset": 3,
-        "length": 43,
-        "type": "bold"
-      },
-      {
-        "offset": 811,
-        "length": 6,
-        "type": "text_link",
-        "url": "https://openai.com/index/jalapeno-first-results/"
-      },
-      {
-        "offset": 820,
-        "length": 7,
-        "type": "text_link",
-        "url": "https://t.me/aipost"
-      },
-      {
-        "offset": 828,
-        "length": 2,
-        "type": "custom_emoji",
-        "custom_emoji_id": "5431390559912614642"
-      }
-    ],
-    "media_group_id": "14302487352752493",
-    "chat_id": -1004468214616,
-    "message_ids": [
-      564,
-      565,
-      566
-    ],
-    "update_ids": [
-      378304457,
-      378304458,
-      378304459
-    ],
-    "retry_count": 0
-  },
-  {
-    "type": "album",
-    "photo_file_ids": [
       "AgACAgIAAyEFAAMBClOLWAACAjdqj9RtYicLsaHlR74PDZuruOU3dQACsB1rG3nCgUg1VojX_p6LQQEAAwIAA3kAAz0E",
       "AgACAgIAAyEFAAMBClOLWAACAjhqj9RtJDEt1s-8u151eZHrE5AkmwACsR1rG3nCgUhZEUY_988AATcBAAMCAAN5AAM9BA"
     ],
@@ -556,6 +503,145 @@
     ],
     "update_ids": [
       378304477
+    ],
+    "retry_count": 0
+  },
+  {
+    "type": "photo",
+    "photo_file_ids": [
+      "AgACAgQAAyEFAAMBClOLWAACAklqkXrjNO6KehjXGgqal-Bjj4cFrAAC7A9rG6imiVB2HVi1GjN3JwEAAwIAA3gAAz0E"
+    ],
+    "caption": "AI becomes a second pair of eyes in brain surgery 🧠\n\nFor the first time, surgeons in London have used AI during surgery to help remove an 11mm pituitary tumor pressing against the patient’s optic nerves.\n\nTrained on hundreds of surgical videos, the AI highlighted hidden blood vessels and nerves in real time, helping surgeons identify safer areas to operate.\n\nProfessor Hani Marcus described it as a “second pair of eyes” but the final decisions always remain with the surgeon.\n\n48-year-old Rhys Hibbert regained clear vision for the first time in a year, and his dizziness disappeared. The team now hopes to develop a fully functional AI surgical assistant and move toward larger clinical trials. \n\n@aipost 🏴",
+    "entities": [
+      {
+        "offset": 0,
+        "length": 50,
+        "type": "bold"
+      },
+      {
+        "offset": 50,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5237889595894414384"
+      },
+      {
+        "offset": 702,
+        "length": 7,
+        "type": "text_link",
+        "url": "https://t.me/aipost"
+      },
+      {
+        "offset": 710,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5431390559912614642"
+      }
+    ],
+    "media_group_id": null,
+    "chat_id": -1004468214616,
+    "message_ids": [
+      585
+    ],
+    "update_ids": [
+      378304478
+    ],
+    "retry_count": 0
+  },
+  {
+    "type": "video",
+    "video_file_id": "BAACAgQAAyEFAAMBClOLWAACAkpqkd4wOy2NzEMq007gYma0Rxvd0wACOh8AAqimiVC55aNYOtwKND0E",
+    "video_file_size": 16742177,
+    "caption": "Bill Gates says he's staking whatever reputation he has on AI being the one technology that truly breaks from history.\n\n@aipost 🏴",
+    "entities": [
+      {
+        "offset": 120,
+        "length": 7,
+        "type": "text_link",
+        "url": "https://t.me/aipost"
+      },
+      {
+        "offset": 128,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5431390559912614642"
+      }
+    ],
+    "media_group_id": null,
+    "chat_id": -1004468214616,
+    "message_ids": [
+      586
+    ],
+    "update_ids": [
+      378304479
+    ],
+    "retry_count": 0
+  },
+  {
+    "type": "video",
+    "video_file_id": "BAACAgQAAyEFAAMBClOLWAACAktqkd5Gebc3P0QvV3A-ZcSuSF4EowACNh8AAqimiVC_Z5CN1IeCHT0E",
+    "video_file_size": 664115,
+    "caption": "❗️X has just rooted out a Chinese bot farm of 200,000 THOUSAND accounts influencing American politics.\n\nWith hundreds of them running an influence operation against the construction of data centers in the US\n\nThe posts claimed that AI data centers \"drive up household electricity prices\" and \"strain the grid\"\n\n\"Others included AI-generated cartoons that depicted data-center operators enriching themselves at the public's expense.\"\n\n\"We take seriously any attempts to undermine the integrity of the global town square and suspend accounts that violate our Authenticity policy.\"\n\n@aipost 🏴",
+    "entities": [
+      {
+        "offset": 0,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5289761612440310918"
+      },
+      {
+        "offset": 2,
+        "length": 100,
+        "type": "bold"
+      },
+      {
+        "offset": 580,
+        "length": 7,
+        "type": "text_link",
+        "url": "https://t.me/aipost"
+      },
+      {
+        "offset": 588,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5431390559912614642"
+      }
+    ],
+    "media_group_id": null,
+    "chat_id": -1004468214616,
+    "message_ids": [
+      587
+    ],
+    "update_ids": [
+      378304480
+    ],
+    "retry_count": 0
+  },
+  {
+    "type": "video",
+    "video_file_id": "BAACAgQAAyEFAAMBClOLWAACAkxqkfki-n_mtvQgE8LzQjsjvPOqFQAC8SIAAnutkFBmmHssEOvfkj0E",
+    "video_file_size": 8087327,
+    "caption": "This was the state of robotics just 11 years ago.\n\n@aipost 🏴",
+    "entities": [
+      {
+        "offset": 51,
+        "length": 7,
+        "type": "text_link",
+        "url": "https://t.me/aipost"
+      },
+      {
+        "offset": 59,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5431390559912614642"
+      }
+    ],
+    "media_group_id": null,
+    "chat_id": -1004468214616,
+    "message_ids": [
+      588
+    ],
+    "update_ids": [
+      378304481
     ],
     "retry_count": 0
   }
