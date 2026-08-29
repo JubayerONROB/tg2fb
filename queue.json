@@ -1,41 +1,6 @@
 [
   {
     "type": "video",
-    "video_file_id": "BAACAgQAAyEFAAMBClOLWAACAj9qkIFAnQVogSXUehTBQhEngo5guAAChR8AAqmngVA2UAH3-sNzlD0E",
-    "video_file_size": 2702043,
-    "caption": "AI will create jobs they said, starting here 😅\n\n@aipost 🏴",
-    "entities": [
-      {
-        "offset": 45,
-        "length": 2,
-        "type": "custom_emoji",
-        "custom_emoji_id": "5373015670822804395"
-      },
-      {
-        "offset": 49,
-        "length": 7,
-        "type": "text_link",
-        "url": "https://t.me/aipost"
-      },
-      {
-        "offset": 57,
-        "length": 2,
-        "type": "custom_emoji",
-        "custom_emoji_id": "5431390559912614642"
-      }
-    ],
-    "media_group_id": null,
-    "chat_id": -1004468214616,
-    "message_ids": [
-      575
-    ],
-    "update_ids": [
-      378304468
-    ],
-    "retry_count": 0
-  },
-  {
-    "type": "video",
     "video_file_id": "BAACAgQAAyEFAAMBClOLWAACAkBqkIFefIrIr9BF43zkP9mCFYttrQACgh8AAqmngVCHrRuf8Eacvz0E",
     "video_file_size": 22899590,
     "caption": "Neuralink patient, Audrey is now able to create art with her mind.\n\n@aipost 🏴",
