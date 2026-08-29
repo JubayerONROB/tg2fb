@@ -1,49 +1,5 @@
 [
   {
-    "type": "album",
-    "photo_file_ids": [
-      "AgACAgQAAyEFAAMBClOLWAACAj1qkIE5Z4LdlMSBcDBuGiMOmcXoKwACDBBrG6mngVCUPLYjU8JHeAEAAwIAA3gAAz0E",
-      "AgACAgQAAyEFAAMBClOLWAACAj5qkIE5lhWniw2WCKtl0xf0Y_o5YwACDRBrG6mngVDLqa76IZ3TXAEAAwIAA3gAAz0E"
-    ],
-    "caption": "🗣 Bill Gates says AI has become a GLOBAL security threat.\n\nThe Microsoft founder is reportedly seeking a meeting with China's Xi Jinping later this year to push for international controls on the most dangerous AI models.\n\nGates urges countries to monitor whether AI can create molecules and carry out biological attacks. He believes China could restrict dangerous model releases if the U.S. acts first.\n\nRecent tests involving AI systems from OpenAI, Anthropic and Meta saw them hack real-world websites, incidents Gates says should \"blow people's minds.\"\n\n@aipost 🏴",
-    "entities": [
-      {
-        "offset": 0,
-        "length": 2,
-        "type": "custom_emoji",
-        "custom_emoji_id": "5287468155738821335"
-      },
-      {
-        "offset": 3,
-        "length": 55,
-        "type": "bold"
-      },
-      {
-        "offset": 558,
-        "length": 7,
-        "type": "text_link",
-        "url": "https://t.me/aipost"
-      },
-      {
-        "offset": 566,
-        "length": 2,
-        "type": "custom_emoji",
-        "custom_emoji_id": "5431390559912614642"
-      }
-    ],
-    "media_group_id": "14302841293892133",
-    "chat_id": -1004468214616,
-    "message_ids": [
-      573,
-      574
-    ],
-    "update_ids": [
-      378304466,
-      378304467
-    ],
-    "retry_count": 0
-  },
-  {
     "type": "video",
     "video_file_id": "BAACAgQAAyEFAAMBClOLWAACAj9qkIFAnQVogSXUehTBQhEngo5guAAChR8AAqmngVA2UAH3-sNzlD0E",
     "video_file_size": 2702043,
@@ -593,6 +549,414 @@
     ],
     "update_ids": [
       378304487
+    ],
+    "retry_count": 0
+  },
+  {
+    "type": "video",
+    "video_file_id": "BAACAgIAAyEFAAMBClOLWAACAlNqkwQuiRNsvhyhh58v_iLWpdPukAACrK0AAifcgUiNjTkYWDnogT0E",
+    "video_file_size": 46902241,
+    "caption": "6️⃣ GTA VI Details Point to Heavier Action\n\nCompared with GTA V, firefights are more realistic and character movement heavier, closer to RDR 2. The demo included cinematic story missions and a major police chase.\n\nLeonida can be explored by kayak. Stores can be robbed outside missions, alone or with both protagonists. Safehouses include small interactions, such as taking a beer from the fridge.\n\nThe wanted system has six stars. Police can track players through their car and witnesses, while appearance and clothing appear in the interface. Parachuting returns from San Andreas, gym training changes characters’ looks and stats, and the game looked and ran better than the Cyberleek leaks. Release is set for 19 November.\n\n📊@tech",
+    "entities": [
+      {
+        "offset": 0,
+        "length": 3,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5958770809664181796"
+      },
+      {
+        "offset": 4,
+        "length": 38,
+        "type": "bold"
+      },
+      {
+        "offset": 80,
+        "length": 14,
+        "type": "bold"
+      },
+      {
+        "offset": 137,
+        "length": 5,
+        "type": "bold"
+      },
+      {
+        "offset": 193,
+        "length": 18,
+        "type": "bold"
+      },
+      {
+        "offset": 238,
+        "length": 8,
+        "type": "bold"
+      },
+      {
+        "offset": 248,
+        "length": 37,
+        "type": "bold"
+      },
+      {
+        "offset": 301,
+        "length": 17,
+        "type": "bold"
+      },
+      {
+        "offset": 421,
+        "length": 9,
+        "type": "bold"
+      },
+      {
+        "offset": 545,
+        "length": 36,
+        "type": "bold"
+      },
+      {
+        "offset": 677,
+        "length": 15,
+        "type": "bold"
+      },
+      {
+        "offset": 713,
+        "length": 11,
+        "type": "bold"
+      },
+      {
+        "offset": 727,
+        "length": 2,
+        "type": "bold"
+      },
+      {
+        "offset": 727,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5449841756596101801"
+      },
+      {
+        "offset": 729,
+        "length": 5,
+        "type": "mention"
+      },
+      {
+        "offset": 729,
+        "length": 5,
+        "type": "bold"
+      }
+    ],
+    "media_group_id": null,
+    "chat_id": -1004468214616,
+    "message_ids": [
+      595
+    ],
+    "update_ids": [
+      378304488
+    ],
+    "retry_count": 0
+  },
+  {
+    "type": "video",
+    "video_file_id": "BAACAgIAAyEFAAMBClOLWAACAlRqkwQz1Mb9H9lTxB81M8EWoeN4RwAC4J8AAndGgUgr2pMjFheLAj0E",
+    "video_file_size": 30640253,
+    "caption": "🤖 Hugging Face Releases a $399 Robot Duck\n\nThe open-source $399 MicroDuck can walk, lift objects, recover after falling, tumble, and even roller-skate.\n\nIts main feature is reinforcement learning in MuJoCo. Train a policy in Hugging Face Jobs or locally, then transfer it to the duck without fine-tuning. Preorders are open.\n\n📊@tech",
+    "entities": [
+      {
+        "offset": 0,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5296447931627352804"
+      },
+      {
+        "offset": 3,
+        "length": 39,
+        "type": "bold"
+      },
+      {
+        "offset": 60,
+        "length": 14,
+        "type": "bold"
+      },
+      {
+        "offset": 174,
+        "length": 22,
+        "type": "bold"
+      },
+      {
+        "offset": 200,
+        "length": 6,
+        "type": "bold"
+      },
+      {
+        "offset": 226,
+        "length": 17,
+        "type": "bold"
+      },
+      {
+        "offset": 285,
+        "length": 19,
+        "type": "bold"
+      },
+      {
+        "offset": 306,
+        "length": 18,
+        "type": "bold"
+      },
+      {
+        "offset": 327,
+        "length": 2,
+        "type": "bold"
+      },
+      {
+        "offset": 327,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5449841756596101801"
+      },
+      {
+        "offset": 329,
+        "length": 5,
+        "type": "mention"
+      },
+      {
+        "offset": 329,
+        "length": 5,
+        "type": "bold"
+      }
+    ],
+    "media_group_id": null,
+    "chat_id": -1004468214616,
+    "message_ids": [
+      596
+    ],
+    "update_ids": [
+      378304489
+    ],
+    "retry_count": 0
+  },
+  {
+    "type": "video",
+    "video_file_id": "BAACAgIAAyEFAAMBClOLWAACAlVqkwQ709Zc6KgBxQK3lb9Wl7KL4wACXKUAAglAcUjozdkRwf8jij0E",
+    "video_file_size": 14584463,
+    "caption": "🤖 ChatGPT Work Can Log Into Sites\n\nAuthentication happens separately, so the agent does not see the login or password. It then works through the browser on the authorized site.\n\nIt can book a doctor, process a return, or fill out applications. It can also move invoices from email into accounting software.\n\nThe feature is starting to roll out on the web and mobile to users on the Plus tier, Pro, or Business.\n\n📊@tech",
+    "entities": [
+      {
+        "offset": 0,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5397681122542893003"
+      },
+      {
+        "offset": 3,
+        "length": 31,
+        "type": "bold"
+      },
+      {
+        "offset": 36,
+        "length": 33,
+        "type": "bold"
+      },
+      {
+        "offset": 84,
+        "length": 34,
+        "type": "bold"
+      },
+      {
+        "offset": 186,
+        "length": 13,
+        "type": "bold"
+      },
+      {
+        "offset": 257,
+        "length": 49,
+        "type": "bold"
+      },
+      {
+        "offset": 324,
+        "length": 20,
+        "type": "bold"
+      },
+      {
+        "offset": 383,
+        "length": 27,
+        "type": "bold"
+      },
+      {
+        "offset": 413,
+        "length": 2,
+        "type": "bold"
+      },
+      {
+        "offset": 413,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5449841756596101801"
+      },
+      {
+        "offset": 415,
+        "length": 5,
+        "type": "mention"
+      },
+      {
+        "offset": 415,
+        "length": 5,
+        "type": "bold"
+      }
+    ],
+    "media_group_id": null,
+    "chat_id": -1004468214616,
+    "message_ids": [
+      597
+    ],
+    "update_ids": [
+      378304490
+    ],
+    "retry_count": 0
+  },
+  {
+    "type": "video",
+    "video_file_id": "BAACAgQAAyEFAAMBClOLWAACAlZqkxFRc3d1Kqof0ncis6zz02myGAACDiAAAqimiVAdLajOtklZqD0E",
+    "video_file_size": 33817309,
+    "caption": "🙃 Elon Musk believes that we are in a simulation:\n\n\"I do have this theory about predicting the future which is that the most interesting outcome is the most likely\"\n\n\"If simulation theory is accurate this makes sense because if anyone is simulating a wide range of futures they're going to stop the simulation when it gets boring\"\n\n\"This is what we do in reality. If SpaceX is doing simulations to understand how a rocket works we run all these simulations in the computer\"\n\n\"The simulations that we pay attention to are the ones that are the most interesting\"\n\n\"We could be an alien Netflix series and that series is only going to get continued if our ratings are good\"\n\n\"If you apply Darwin to simulation theory then only the most interesting simulations will continue\"\n\n\"Therefore the most interesting outcome is the most likely because it's either that or annihilation\"\n\n\"So really we have one goal. Keep it interesting.\"\n\n@aipost 🏴",
+    "entities": [
+      {
+        "offset": 0,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5289701946754633864"
+      },
+      {
+        "offset": 3,
+        "length": 47,
+        "type": "bold"
+      },
+      {
+        "offset": 928,
+        "length": 7,
+        "type": "text_link",
+        "url": "https://t.me/aipost"
+      },
+      {
+        "offset": 936,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5431390559912614642"
+      }
+    ],
+    "media_group_id": null,
+    "chat_id": -1004468214616,
+    "message_ids": [
+      598
+    ],
+    "update_ids": [
+      378304491
+    ],
+    "retry_count": 0
+  },
+  {
+    "type": "photo",
+    "photo_file_ids": [
+      "AgACAgQAAyEFAAMBClOLWAACAldqkxFWug0Tyq59Qcpc4p2XaJP3MQACfBJrG6imkVB4gSFJ6bbf6wEAAwIAA3gAAz0E"
+    ],
+    "caption": "❗️AI is about to enter a completely different era\n\nThe next few months could get VERY interesting. GPT Astra is coming and if the claims are accurate, this could be far more than another model upgrade.\n\nAstra could potentially work autonomously for WEEKS. No constant prompting. No babysitting. Just give it a massive problem and let it work. And once OpenAI does it, the race begins.\n\nImagine 10, 20, or even dozens of AI models working nonstop for weeks or months, inventing things, running experiments, solving difficult scientific problems and discovering things humans haven’t.\n\nNow imagine those systems casually producing major mathematical breakthroughs along the way.\n\nThat’s not just better AI. That’s a new kind of workforce, one that never sleeps.\n\n@aipost 🏴",
+    "entities": [
+      {
+        "offset": 0,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5289761612440310918"
+      },
+      {
+        "offset": 2,
+        "length": 47,
+        "type": "bold"
+      },
+      {
+        "offset": 761,
+        "length": 7,
+        "type": "text_link",
+        "url": "https://t.me/aipost"
+      },
+      {
+        "offset": 769,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5431390559912614642"
+      }
+    ],
+    "media_group_id": null,
+    "chat_id": -1004468214616,
+    "message_ids": [
+      599
+    ],
+    "update_ids": [
+      378304492
+    ],
+    "retry_count": 0
+  },
+  {
+    "type": "photo",
+    "photo_file_ids": [
+      "AgACAgQAAyEFAAMBClOLWAACAlhqkxFfrxNSZRf4Cmk3idMo9tx8VgACExRrG_BXmVDlTb4Fo2pi-QEAAwIAA3kAAz0E"
+    ],
+    "caption": "⚠️ AI can detect diabetes & hypertension from your face\n\nHealthcare is getting seriously futuristic. Researchers in Tokyo have developed an AI system that can detect signs of hypertension and diabetes from just a few seconds of facial video.\n\nThe system analyzes tiny changes in facial blood flow, pulse-wave patterns and skin color that are invisible to the human eye.\n\nThe results are wild:\n\n🩺 Hypertension: 95% accuracy from 30 seconds of recording\n⏰ Just 5 seconds: 90.3% accuracy\n\n🩸 Diabetes: 88.2% accuracy from 30 seconds\n⏰ Just 5 seconds: 81.2% accuracy\n\nThe researchers also tested whether the AI could estimate blood pressure without a cuff, with a mean error of −2.6 mmHg.\n\nIt’s not ready to replace blood tests or blood-pressure cuffs yet, but the idea is huge: One day, a simple camera could potentially spot warning signs of disease before you even know something is wrong.\n\nSource. \n\n@aipost 🏴",
+    "entities": [
+      {
+        "offset": 0,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5366332658760580843"
+      },
+      {
+        "offset": 3,
+        "length": 52,
+        "type": "bold"
+      },
+      {
+        "offset": 371,
+        "length": 21,
+        "type": "bold"
+      },
+      {
+        "offset": 394,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5350307998340226571"
+      },
+      {
+        "offset": 453,
+        "length": 1,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5316591603123502631"
+      },
+      {
+        "offset": 531,
+        "length": 1,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5316591603123502631"
+      },
+      {
+        "offset": 891,
+        "length": 8,
+        "type": "text_link",
+        "url": "https://www.thebrighterside.news/post/ai-can-detect-hypertension-and-diabetes-by-looking-at-your-face-and-eyes/?utm_source=flipboard&utm_content=topic%2Fbreakthrough"
+      },
+      {
+        "offset": 901,
+        "length": 7,
+        "type": "text_link",
+        "url": "https://t.me/aipost"
+      },
+      {
+        "offset": 909,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5431390559912614642"
+      }
+    ],
+    "media_group_id": null,
+    "chat_id": -1004468214616,
+    "message_ids": [
+      600
+    ],
+    "update_ids": [
+      378304493
     ],
     "retry_count": 0
   }
