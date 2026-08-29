@@ -1,116 +1,5 @@
 [
   {
-    "type": "album",
-    "photo_file_ids": [
-      "AgACAgIAAyEFAAMBClOLWAACAjlqkG05fLrVv0X52SnPCyTSg2VA1wACnTVrG8TheUj5FQPh6uyJ0wEAAwIAA3cAAz0E",
-      "AgACAgIAAyEFAAMBClOLWAACAjpqkG05TO3VWsw3YJiLOgyIkf3p1wACnjVrG8TheUjaXzSTMunO2wEAAwIAA3cAAz0E",
-      "AgACAgIAAyEFAAMBClOLWAACAjtqkG054q5xyhdm4Y2OTXifvBgh4gACnzVrG8TheUjkso-MvJiBmQEAAwIAA3cAAz0E"
-    ],
-    "caption": "📊 Alibaba previews Qwen4 architecture\n\nAlibaba released Qwen3.8-Flash-Next, an open multimodal model and early preview of the architecture planned for Qwen4. It has 125B parameters, but uses only 6B for each text fragment. Another 51B sit in separate memory for frequent combinations.\n\nThe design keeps the model large while reducing compute. Alibaba says training is about 9 times cheaper than Qwen3.7-Plus, while the model already performs better on coding, tool-use tasks, and long office workflows.\n\nLong-context support reaches 262,000 tokens by default and up to 1 million tokens in extended mode. At 1 million tokens, a new retrieval mechanism can significantly speed up processing. The weights are already open on Hugging Face.\n\n📊@tech",
-    "entities": [
-      {
-        "offset": 0,
-        "length": 2,
-        "type": "custom_emoji",
-        "custom_emoji_id": "5449841756596101801"
-      },
-      {
-        "offset": 3,
-        "length": 35,
-        "type": "bold"
-      },
-      {
-        "offset": 57,
-        "length": 18,
-        "type": "bold"
-      },
-      {
-        "offset": 152,
-        "length": 5,
-        "type": "bold"
-      },
-      {
-        "offset": 166,
-        "length": 15,
-        "type": "bold"
-      },
-      {
-        "offset": 197,
-        "length": 2,
-        "type": "bold"
-      },
-      {
-        "offset": 232,
-        "length": 3,
-        "type": "bold"
-      },
-      {
-        "offset": 375,
-        "length": 15,
-        "type": "bold"
-      },
-      {
-        "offset": 396,
-        "length": 12,
-        "type": "bold"
-      },
-      {
-        "offset": 534,
-        "length": 14,
-        "type": "bold"
-      },
-      {
-        "offset": 570,
-        "length": 16,
-        "type": "bold"
-      },
-      {
-        "offset": 608,
-        "length": 16,
-        "type": "bold"
-      },
-      {
-        "offset": 723,
-        "length": 12,
-        "type": "bold"
-      },
-      {
-        "offset": 738,
-        "length": 2,
-        "type": "bold"
-      },
-      {
-        "offset": 738,
-        "length": 2,
-        "type": "custom_emoji",
-        "custom_emoji_id": "5449841756596101801"
-      },
-      {
-        "offset": 740,
-        "length": 5,
-        "type": "mention"
-      },
-      {
-        "offset": 740,
-        "length": 5,
-        "type": "bold"
-      }
-    ],
-    "media_group_id": "14302800332615197",
-    "chat_id": -1004468214616,
-    "message_ids": [
-      569,
-      570,
-      571
-    ],
-    "update_ids": [
-      378304462,
-      378304463,
-      378304464
-    ],
-    "retry_count": 0
-  },
-  {
     "type": "video",
     "video_file_id": "BAACAgIAAyEFAAMBClOLWAACAjxqkG09W6RMgMQldc9tmkZVCyVdsAACR6kAApGHeEhyM0_Mwj83AAE9BA",
     "video_file_size": 7213667,
@@ -610,6 +499,184 @@
     ],
     "update_ids": [
       378304481
+    ],
+    "retry_count": 0
+  },
+  {
+    "type": "photo",
+    "photo_file_ids": [
+      "AgACAgQAAyEFAAMBClOLWAACAk1qkoEYRSIToj6MJ3zFaBmYROfN8AAC_g9rG6imiVCgWyS6lsxk1QEAAwIAA3kAAz0E"
+    ],
+    "caption": "❗️OpenAI is developing a 'persistent' Al agent\n\nOpenAI is testing a new “Persistent mode” for its AI agent Codex that could let it keep working until it is manually stopped.\n\nThe system includes “proactivity” feature, that allow the agent to create its own follow-up tasks, continue working across sessions, use past interactions and its knowledge of the user, and even message the user when needed.\n\nThis moves AI beyond “ask → answer” toward “goal → execute → reassess → continue.”\n\nThe feature is not broadly launched yet. But its broader research is focused on persistent, proactive intelligence and long-horizon AI agents that can work for much longer periods with less human prompting.\n\nSource. \n\n@aipost 🏴",
+    "entities": [
+      {
+        "offset": 0,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5289761612440310918"
+      },
+      {
+        "offset": 2,
+        "length": 44,
+        "type": "bold"
+      },
+      {
+        "offset": 693,
+        "length": 8,
+        "type": "text_link",
+        "url": "https://finance.biggo.com/news/c171998a-4f4c-498f-8a41-82660d430cee"
+      },
+      {
+        "offset": 703,
+        "length": 7,
+        "type": "text_link",
+        "url": "https://t.me/aipost"
+      },
+      {
+        "offset": 711,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5431390559912614642"
+      }
+    ],
+    "media_group_id": null,
+    "chat_id": -1004468214616,
+    "message_ids": [
+      589
+    ],
+    "update_ids": [
+      378304482
+    ],
+    "retry_count": 0
+  },
+  {
+    "type": "video",
+    "video_file_id": "BAACAgQAAyEFAAMBClOLWAACAk5qkoEm56NlycedneOdaogtMPqlDQACcR8AAqimiVBgnLntH4QbUD0E",
+    "video_file_size": 18963875,
+    "caption": "Hugging Face launched the $399 Microduck, built through its Pollen Robotics subsidiary.\n\nThe unit ships with 7 learned moves, but the interesting part is the open-source software stack for programming it, you can train a new movement in simulation, then deploy that behavior onto the robot.\n\n@aipost 🏴",
+    "entities": [
+      {
+        "offset": 292,
+        "length": 7,
+        "type": "text_link",
+        "url": "https://t.me/aipost"
+      },
+      {
+        "offset": 300,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5431390559912614642"
+      }
+    ],
+    "media_group_id": null,
+    "chat_id": -1004468214616,
+    "message_ids": [
+      590
+    ],
+    "update_ids": [
+      378304483
+    ],
+    "retry_count": 0
+  },
+  {
+    "type": "photo",
+    "photo_file_ids": [
+      "AgACAgQAAyEFAAMBClOLWAACAk9qkoErrVSr2KEBGRFLa01k6nI3JAACtxBrG6imiVDml8kTpJNjdgEAAwIAA3gAAz0E"
+    ],
+    "caption": "❗️3 takeawys by WSJ on Bill Gates's long AI warning.\n\n• The biggest economic risk is speed: AI could remove large numbers of entry-level and mid-level jobs before new ones appear and before governments have any serious plan for it.\n\n• Gates wants governments to use taxes and stronger safety nets to absorb that shock.\n\n• At the same time, he says societies may need to deliberately decide where humans should remain irreplaceable for some categories of jobs.\n\n@aipost 🏴",
+    "entities": [
+      {
+        "offset": 0,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5289761612440310918"
+      },
+      {
+        "offset": 2,
+        "length": 50,
+        "type": "bold"
+      },
+      {
+        "offset": 461,
+        "length": 7,
+        "type": "text_link",
+        "url": "https://t.me/aipost"
+      },
+      {
+        "offset": 469,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5431390559912614642"
+      }
+    ],
+    "media_group_id": null,
+    "chat_id": -1004468214616,
+    "message_ids": [
+      591
+    ],
+    "update_ids": [
+      378304484
+    ],
+    "retry_count": 0
+  },
+  {
+    "type": "album",
+    "photo_file_ids": [
+      "AgACAgIAAyEFAAMBClOLWAACAlBqkoEy6vjTT6XNNMYqQWNroFbg_gAC-B5rG2WBmUg-orS5Ou9sywEAAwIAA3gAAz0E",
+      "AgACAgIAAyEFAAMBClOLWAACAlFqkoEykMXBgwZp47abdyF3lonXgAAC-R5rG2WBmUjTEnLH1gvuNwEAAwIAA3kAAz0E"
+    ],
+    "caption": "OpenAI has officially announced it will end Cursor's access to its models after the platform's acquisition by SpaceX.\n\nThe company informed SpaceX that the contract allowing Cursor to use OpenAI’s technology will be terminated, citing a lack of confidence that SpaceX would comply with existing terms. The disconnection is scheduled for November 12, 2026, which is 76 days from the notice.\n\nOpenAI stated that the developers relying on Cursor’s integration will be most affected and has committed to supporting them throughout the transition period.\n\n📰 @aipost",
+    "entities": [
+      {
+        "offset": 551,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5363988332466438547"
+      },
+      {
+        "offset": 554,
+        "length": 7,
+        "type": "mention"
+      }
+    ],
+    "media_group_id": "14303889808397901",
+    "chat_id": -1004468214616,
+    "message_ids": [
+      592,
+      593
+    ],
+    "update_ids": [
+      378304485,
+      378304486
+    ],
+    "retry_count": 0
+  },
+  {
+    "type": "photo",
+    "photo_file_ids": [
+      "AgACAgQAAyEFAAMBClOLWAACAlJqkoE2EyvWwSsK3CHT8_33s-L-VgACUBBrG3utmFArYKV0JMK0NQEAAwIAA3kAAz0E"
+    ],
+    "caption": "Cursor’s leadership has responded to OpenAI’s announcement that it will block Cursor users from accessing OpenAI models within the next three months.\n\nAccording to Cursor, OpenAI models account for approximately five percent of Cursor’s user traffic. Cursor representatives stated that they are currently in discussions with OpenAI to address the situation.\n\nThe company further noted that Cursor was among the early adopters of OpenAI’s technologies and had relied on OpenAI’s platform as neutral infrastructure for its business. Cursor claims that this decision by OpenAI challenges that expectation of neutrality.\n\n📰 @aipost",
+    "entities": [
+      {
+        "offset": 618,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5363988332466438547"
+      },
+      {
+        "offset": 621,
+        "length": 7,
+        "type": "mention"
+      }
+    ],
+    "media_group_id": null,
+    "chat_id": -1004468214616,
+    "message_ids": [
+      594
+    ],
+    "update_ids": [
+      378304487
     ],
     "retry_count": 0
   }
