@@ -1,35 +1,6 @@
 [
   {
     "type": "video",
-    "video_file_id": "BAACAgQAAyEFAAMBClOLWAACAkBqkIFefIrIr9BF43zkP9mCFYttrQACgh8AAqmngVCHrRuf8Eacvz0E",
-    "video_file_size": 22899590,
-    "caption": "Neuralink patient, Audrey is now able to create art with her mind.\n\n@aipost 🏴",
-    "entities": [
-      {
-        "offset": 68,
-        "length": 7,
-        "type": "text_link",
-        "url": "https://t.me/aipost"
-      },
-      {
-        "offset": 76,
-        "length": 2,
-        "type": "custom_emoji",
-        "custom_emoji_id": "5431390559912614642"
-      }
-    ],
-    "media_group_id": null,
-    "chat_id": -1004468214616,
-    "message_ids": [
-      576
-    ],
-    "update_ids": [
-      378304469
-    ],
-    "retry_count": 0
-  },
-  {
-    "type": "video",
     "video_file_id": "BAACAgIAAyEFAAMBClOLWAACAkFqkW7hEf8fB-FODipqyuFp6pPZngACV6gAAnnCgUgUZ0e8dvflPj0E",
     "video_file_size": 10257172,
     "caption": "Time magazine recently released its 2026 list of “The 100 Most Influential People in AI.” The selection has drawn notice because several prominent leaders in the AI field are absent from the list.\n\nNotable figures such as Jensen Huang, Sundar Pichai, Mark Zuckerberg, Lisa Su, Satya Nadella, Demis Hassabis, and Alex Karp are not included in this year’s ranking.\n\nTime’s annual list highlights individuals recognized for their significant impact on artificial intelligence. The omission of these industry leaders represents a departure from expectations, given their established roles in shaping AI development and deployment.\n\n📰 @aipost",

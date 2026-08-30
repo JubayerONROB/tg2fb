@@ -2585,5 +2585,34 @@
       378304454
     ],
     "retry_count": 0
+  },
+  {
+    "type": "video",
+    "video_file_id": "BAACAgQAAyEFAAMBClOLWAACAkBqkIFefIrIr9BF43zkP9mCFYttrQACgh8AAqmngVCHrRuf8Eacvz0E",
+    "video_file_size": 22899590,
+    "caption": "Neuralink patient, Audrey is now able to create art with her mind.\n\n@aipost 🏴",
+    "entities": [
+      {
+        "offset": 68,
+        "length": 7,
+        "type": "text_link",
+        "url": "https://t.me/aipost"
+      },
+      {
+        "offset": 76,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5431390559912614642"
+      }
+    ],
+    "media_group_id": null,
+    "chat_id": -1004468214616,
+    "message_ids": [
+      576
+    ],
+    "update_ids": [
+      378304469
+    ],
+    "retry_count": 0
   }
 ]
