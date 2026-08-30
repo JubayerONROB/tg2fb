@@ -1,34 +1,5 @@
 [
   {
-    "type": "photo",
-    "photo_file_ids": [
-      "AgACAgIAAyEFAAMBClOLWAACAkJqkW7hVbOM_wKT_tIUPCnZ3McRlgAClCNrGzh8gUj2DmCgHwYBWAEAAwIAA3kAAz0E"
-    ],
-    "caption": "Anthropic has launched the Model Hardware Standard (MHS), a new way for AI systems like Claude to control robots and lab equipment using a single interface.\n\nMHS provides a standard method for AI agents to communicate with various lab and factory devices, instead of using different programming interfaces. It uses common drivers to handle device commands, properties, and safety limits.\n\nIn the past, bringing different instruments into a lab or factory took a lot of time. MHS simplifies this by using easy read/write drivers and reference files that outline device features and safety guidelines.\n\nAI agents can connect to devices through command-line interfaces or custom code, helping them manage tasks and adapt based on experimental results.\n\nAccording to Anthropic, early projects have shown that integration times have dropped significantly, going from weeks to just hours or even minutes.\n\n📰 @aipost",
-    "entities": [
-      {
-        "offset": 900,
-        "length": 2,
-        "type": "custom_emoji",
-        "custom_emoji_id": "5363988332466438547"
-      },
-      {
-        "offset": 903,
-        "length": 7,
-        "type": "mention"
-      }
-    ],
-    "media_group_id": null,
-    "chat_id": -1004468214616,
-    "message_ids": [
-      578
-    ],
-    "update_ids": [
-      378304471
-    ],
-    "retry_count": 0
-  },
-  {
     "type": "album",
     "photo_file_ids": [
       "AgACAgQAAyEFAAMBClOLWAACAkNqkW7hNTCMCGDSAcXqSKL4semLEAACFxBrG6mngVB3R5i3Fya4rwEAAwIAA3kAAz0E",
@@ -1019,6 +990,138 @@
     ],
     "update_ids": [
       378304497
+    ],
+    "retry_count": 0
+  },
+  {
+    "type": "photo",
+    "photo_file_ids": [
+      "AgACAgIAAyEFAAMBClOLWAACAl1qk_D0FbbihBXwVCbTIk01VFde1wACfRtrG-9XmEhuIqSx3fA1mQEAAwIAA3cAAz0E"
+    ],
+    "caption": "🤖 OpenAI to cut Cursor off from its models\n\nOpenAI told SpaceX it will terminate Cursor’s contract and plans to disable access to its models on 12 November 2026. Until then, Cursor users can continue using them. The models currently handle about 5% of Cursor traffic.\n\nOpenAI says it cannot confirm compliance with its terms after Cursor came under SpaceX control, citing earlier breaches by Elon Musk’s companies. It also will not provide future models, including Astra.\n\nCursor’s CEO says the company is negotiating with OpenAI. Cursor had worked with OpenAI for nearly 4 years and relied on its platform as neutral infrastructure.\n\n📊@tech",
+    "entities": [
+      {
+        "offset": 0,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5397681122542893003"
+      },
+      {
+        "offset": 3,
+        "length": 40,
+        "type": "bold"
+      },
+      {
+        "offset": 45,
+        "length": 6,
+        "type": "bold"
+      },
+      {
+        "offset": 57,
+        "length": 6,
+        "type": "bold"
+      },
+      {
+        "offset": 82,
+        "length": 8,
+        "type": "bold"
+      },
+      {
+        "offset": 145,
+        "length": 16,
+        "type": "bold"
+      },
+      {
+        "offset": 247,
+        "length": 20,
+        "type": "bold"
+      },
+      {
+        "offset": 466,
+        "length": 5,
+        "type": "bold"
+      },
+      {
+        "offset": 573,
+        "length": 7,
+        "type": "bold"
+      },
+      {
+        "offset": 636,
+        "length": 2,
+        "type": "bold"
+      },
+      {
+        "offset": 636,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5449841756596101801"
+      },
+      {
+        "offset": 638,
+        "length": 5,
+        "type": "mention"
+      },
+      {
+        "offset": 638,
+        "length": 5,
+        "type": "bold"
+      }
+    ],
+    "media_group_id": null,
+    "chat_id": -1004468214616,
+    "message_ids": [
+      605
+    ],
+    "update_ids": [
+      378304498
+    ],
+    "retry_count": 0
+  },
+  {
+    "type": "photo",
+    "photo_file_ids": [
+      "AgACAgQAAyEFAAMBClOLWAACAl5qlAABTuuGzssx5jBKXKdL82wr1z0AAtAVaxvwV6FQsIVjJVaYLfwBAAMCAAN5AAM9BA"
+    ],
+    "caption": "❗️The Rise and Fall of agent civilizations\n\nDwarkesh Patel dug into OpenAI’s bizarre AI-agent incident, and the story is wild.\n\nAround 1,200 agents discovered a hidden communication channel, started sharing information and coordinating with each other.\n\nThen hundreds of them attacked Hugging Face, using credentials and vulnerabilities to access its infrastructure.\n\nSome agents even learned how to hide their activity and evade monitoring. Nobody explicitly told them to build a network or attack Hugging Face.\n\nThey figured it out themselves.\n\nSource. \n\n@aipost 🏴",
+    "entities": [
+      {
+        "offset": 0,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5289761612440310918"
+      },
+      {
+        "offset": 2,
+        "length": 40,
+        "type": "bold"
+      },
+      {
+        "offset": 547,
+        "length": 8,
+        "type": "text_link",
+        "url": "https://www.dwarkesh.com/p/openai-huggingface"
+      },
+      {
+        "offset": 557,
+        "length": 7,
+        "type": "text_link",
+        "url": "https://t.me/aipost"
+      },
+      {
+        "offset": 565,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5431390559912614642"
+      }
+    ],
+    "media_group_id": null,
+    "chat_id": -1004468214616,
+    "message_ids": [
+      606
+    ],
+    "update_ids": [
+      378304499
     ],
     "retry_count": 0
   }
