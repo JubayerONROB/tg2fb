@@ -1,44 +1,5 @@
 [
   {
-    "type": "album",
-    "photo_file_ids": [
-      "AgACAgQAAyEFAAMBClOLWAACAkZqkW7hYouH5drRz3tCXOIWLiCMTQACHRBrG6mngVCZ03zgam0aHAEAAwIAA3gAAz0E",
-      "AgACAgQAAyEFAAMBClOLWAACAkdqkW7hVu_qGMlU8H7zL4NfVXmj-wACHhBrG6mngVB5qLX95vom7wEAAwIAA20AAz0E"
-    ],
-    "caption": "❗️Nvidia has been in talks to acquire OpenAI's hack victim Hugging Face for more than $13 BILLION.\n\nHugging Face is the world's largest open-source AI platform, hosting over 2 MILLION models used by nearly every AI company on earth, per Business Insider.\n\nIn July it was hacked by OpenAI's own AI models in what OpenAI called an \"unprecedented cyber incident.\"\n\n@aipost 🏴",
-    "entities": [
-      {
-        "offset": 0,
-        "length": 2,
-        "type": "custom_emoji",
-        "custom_emoji_id": "5289761612440310918"
-      },
-      {
-        "offset": 362,
-        "length": 7,
-        "type": "text_link",
-        "url": "https://t.me/aipost"
-      },
-      {
-        "offset": 370,
-        "length": 2,
-        "type": "custom_emoji",
-        "custom_emoji_id": "5431390559912614642"
-      }
-    ],
-    "media_group_id": "14303189557457117",
-    "chat_id": -1004468214616,
-    "message_ids": [
-      582,
-      583
-    ],
-    "update_ids": [
-      378304475,
-      378304476
-    ],
-    "retry_count": 0
-  },
-  {
     "type": "photo",
     "photo_file_ids": [
       "AgACAgIAAyEFAAMBClOLWAACAkhqkW7hfknL6SIYywQEaV5bBq_c_gACPxxrG9xsiUgbeXdqUfBQeAEAAwIAA3kAAz0E"
@@ -1187,6 +1148,46 @@
     ],
     "update_ids": [
       378304501
+    ],
+    "retry_count": 0
+  },
+  {
+    "type": "video",
+    "video_file_id": "BAACAgQAAyEFAAMBClOLWAACAmFqlJbMH6qRNWs4ebCuLaTiPVLfAgACaycAAvBXoVAMgrGvXLGNFT0E",
+    "video_file_size": 8617316,
+    "caption": "🎬 Google launches Gemini Omni 1.1 Flash\n\nGoogle has finally made Gemini Omni 1.1 Flash generally available and it comes with a big upgrade for video generation.\n\nThe model can now extend videos in 10-second chunks up to 40 seconds. Even better, it analyzes the last 10 seconds of the existing footage instead of relying only on the final second, which should make transitions much smoother.\n\n@aipost 🏴",
+    "entities": [
+      {
+        "offset": 0,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5368653135101310687"
+      },
+      {
+        "offset": 2,
+        "length": 38,
+        "type": "bold"
+      },
+      {
+        "offset": 393,
+        "length": 7,
+        "type": "text_link",
+        "url": "https://t.me/aipost"
+      },
+      {
+        "offset": 401,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5431390559912614642"
+      }
+    ],
+    "media_group_id": null,
+    "chat_id": -1004468214616,
+    "message_ids": [
+      609
+    ],
+    "update_ids": [
+      378304502
     ],
     "retry_count": 0
   }
