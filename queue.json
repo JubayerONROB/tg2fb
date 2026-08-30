@@ -2,53 +2,6 @@
   {
     "type": "album",
     "photo_file_ids": [
-      "AgACAgQAAyEFAAMBClOLWAACAkNqkW7hNTCMCGDSAcXqSKL4semLEAACFxBrG6mngVB3R5i3Fya4rwEAAwIAA3kAAz0E",
-      "AgACAgQAAyEFAAMBClOLWAACAkRqkW7haq1Ioew56aPbl-cHy1xtUAACGBBrG6mngVC4AuKXkU4IgQEAAwIAA3kAAz0E",
-      "AgACAgQAAyEFAAMBClOLWAACAkVqkW7huduyDTzt6Aj5l5p9lwABd4UAAhkQaxupp4FQHzyVATBtpMEBAAMCAAN5AAM9BA"
-    ],
-    "caption": "🧠 OpenAI expects AGI by the end of 2026\n\nOpenAI may have just put a date on AGI. Sam Altman reportedly said OpenAI is “not quite yet” at AGI but expects the company to have an internal system he would call AGI by the end of this year.\n\nOpenAI has apparently already hit its internal benchmark for an autonomous AI research intern.\n\nThat system, reportedly known internally as Astra, can take an experimental idea, implement it in OpenAI’s codebase, run the experiment and return the results or take a research paper and perform work that could previously keep a human researcher busy for a week.\n\nAltman says Astra could enable “persistent agents” that work alongside people for extended periods.\n\nBut he believes the biggest impact will be AI discovering genuinely new knowledge and inventing things that matter.\n\n@aipost 🏴",
-    "entities": [
-      {
-        "offset": 0,
-        "length": 2,
-        "type": "custom_emoji",
-        "custom_emoji_id": "5895617412975299964"
-      },
-      {
-        "offset": 3,
-        "length": 37,
-        "type": "bold"
-      },
-      {
-        "offset": 816,
-        "length": 7,
-        "type": "text_link",
-        "url": "https://t.me/aipost"
-      },
-      {
-        "offset": 824,
-        "length": 2,
-        "type": "custom_emoji",
-        "custom_emoji_id": "5431390559912614642"
-      }
-    ],
-    "media_group_id": "14303175956025421",
-    "chat_id": -1004468214616,
-    "message_ids": [
-      579,
-      580,
-      581
-    ],
-    "update_ids": [
-      378304472,
-      378304473,
-      378304474
-    ],
-    "retry_count": 0
-  },
-  {
-    "type": "album",
-    "photo_file_ids": [
       "AgACAgQAAyEFAAMBClOLWAACAkZqkW7hYouH5drRz3tCXOIWLiCMTQACHRBrG6mngVCZ03zgam0aHAEAAwIAA3gAAz0E",
       "AgACAgQAAyEFAAMBClOLWAACAkdqkW7hVu_qGMlU8H7zL4NfVXmj-wACHhBrG6mngVB5qLX95vom7wEAAwIAA20AAz0E"
     ],
@@ -1122,6 +1075,118 @@
     ],
     "update_ids": [
       378304499
+    ],
+    "retry_count": 0
+  },
+  {
+    "type": "photo",
+    "photo_file_ids": [
+      "AgACAgIAAyEFAAMBClOLWAACAl9qlEGVp8gN8tUAAQmuawn_lG4cQ_MAAoEeaxsJQHFIotJe2WxHquABAAMCAAN5AAM9BA"
+    ],
+    "caption": "🛍️ Alibaba Launches QwenWork\n\nUsers describe a task in plain language, and the AI agent carries it out. It gradually remembers their working habits and applies them in later sessions.\n\nQwenWork can create and launch web apps without code or server setup. It also generates media, with simpler or more advanced models available for different tasks.\n\nThe service is now in public beta worldwide. It runs in a browser and in a separate desktop app.\n\n📊@tech",
+    "entities": [
+      {
+        "offset": 0,
+        "length": 3,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5294527437000948996"
+      },
+      {
+        "offset": 4,
+        "length": 25,
+        "type": "bold"
+      },
+      {
+        "offset": 80,
+        "length": 23,
+        "type": "bold"
+      },
+      {
+        "offset": 199,
+        "length": 55,
+        "type": "bold"
+      },
+      {
+        "offset": 372,
+        "length": 21,
+        "type": "bold"
+      },
+      {
+        "offset": 448,
+        "length": 2,
+        "type": "bold"
+      },
+      {
+        "offset": 448,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5449841756596101801"
+      },
+      {
+        "offset": 450,
+        "length": 5,
+        "type": "mention"
+      },
+      {
+        "offset": 450,
+        "length": 5,
+        "type": "bold"
+      }
+    ],
+    "media_group_id": null,
+    "chat_id": -1004468214616,
+    "message_ids": [
+      607
+    ],
+    "update_ids": [
+      378304500
+    ],
+    "retry_count": 0
+  },
+  {
+    "type": "photo",
+    "photo_file_ids": [
+      "AgACAgQAAyEFAAMBClOLWAACAmBqlFDRfS69y2SbsqFKsG61dinJ4QACDBZrG_BXoVB8hF1RlLTjjwEAAwIAA3kAAz0E"
+    ],
+    "caption": "🎓 MIT warns: AI can now do most college assignments\n\nMIT researchers warn that modern AI can now credibly complete most undergraduate assignments, from essays and research tasks to technical problem sets and other coursework.\n\nThe work can look good enough to pass as a student’s own.\n\nThat creates a huge problem for universities. If an AI can complete the assignment without breaking a sweat, a high grade may no longer tell professors whether a student actually understands the material.\n\nMIT says universities may need to rethink how they assess students, potentially shifting toward oral exams, in-person work, portfolios and other ways of testing genuine understanding.\n\nSource.\n\n@aipost 🏴",
+    "entities": [
+      {
+        "offset": 0,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5258334872878980409"
+      },
+      {
+        "offset": 3,
+        "length": 49,
+        "type": "bold"
+      },
+      {
+        "offset": 678,
+        "length": 6,
+        "type": "text_link",
+        "url": "https://www.washingtonpost.com/education/2026/08/25/ai-can-now-credibly-complete-most-undergraduate-assignments-mit-warns/"
+      },
+      {
+        "offset": 687,
+        "length": 7,
+        "type": "text_link",
+        "url": "https://t.me/aipost"
+      },
+      {
+        "offset": 695,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5431390559912614642"
+      }
+    ],
+    "media_group_id": null,
+    "chat_id": -1004468214616,
+    "message_ids": [
+      608
+    ],
+    "update_ids": [
+      378304501
     ],
     "retry_count": 0
   }
