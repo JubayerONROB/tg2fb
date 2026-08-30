@@ -1,33 +1,5 @@
 [
   {
-    "type": "video",
-    "video_file_id": "BAACAgIAAyEFAAMBClOLWAACAkFqkW7hEf8fB-FODipqyuFp6pPZngACV6gAAnnCgUgUZ0e8dvflPj0E",
-    "video_file_size": 10257172,
-    "caption": "Time magazine recently released its 2026 list of “The 100 Most Influential People in AI.” The selection has drawn notice because several prominent leaders in the AI field are absent from the list.\n\nNotable figures such as Jensen Huang, Sundar Pichai, Mark Zuckerberg, Lisa Su, Satya Nadella, Demis Hassabis, and Alex Karp are not included in this year’s ranking.\n\nTime’s annual list highlights individuals recognized for their significant impact on artificial intelligence. The omission of these industry leaders represents a departure from expectations, given their established roles in shaping AI development and deployment.\n\n📰 @aipost",
-    "entities": [
-      {
-        "offset": 628,
-        "length": 2,
-        "type": "custom_emoji",
-        "custom_emoji_id": "5363988332466438547"
-      },
-      {
-        "offset": 631,
-        "length": 7,
-        "type": "mention"
-      }
-    ],
-    "media_group_id": null,
-    "chat_id": -1004468214616,
-    "message_ids": [
-      577
-    ],
-    "update_ids": [
-      378304470
-    ],
-    "retry_count": 0
-  },
-  {
     "type": "photo",
     "photo_file_ids": [
       "AgACAgIAAyEFAAMBClOLWAACAkJqkW7hVbOM_wKT_tIUPCnZ3McRlgAClCNrGzh8gUj2DmCgHwYBWAEAAwIAA3kAAz0E"
@@ -893,6 +865,160 @@
     ],
     "update_ids": [
       378304493
+    ],
+    "retry_count": 0
+  },
+  {
+    "type": "video",
+    "video_file_id": "BAACAgQAAyEFAAMBClOLWAACAllqk6LFUmCYIbpsLdkAAdVyykuWjvIAAkwjAALwV5FQT-najKPZ6W49BA",
+    "video_file_size": 20504698,
+    "caption": "❗️Why seven OpenAI researchers walked out together\n\nDaniela Amodei, Anthropic’s president and co-founder, says the group wasn’t running away from OpenAI, they were running toward a different vision.\n\nSeven people, including Daniela and Dario Amodei, shared the same concern: they wanted AI safety, responsibility and long-term impact to be at the center of the organization they were building.\n\nTheir solution? Start from scratch.\n\nThat became Anthropic, structured as a public benefit corporation while still being fully commercial and aiming to capture the enormous economic value AI could create.\n\nThe seven weren’t just safety researchers. They had worked across capabilities, safety and policy at OpenAI. In other words, they didn’t leave because they hated building powerful AI.\n\nThey left because they wanted to build it differently.\n\n@aipost 🏴",
+    "entities": [
+      {
+        "offset": 0,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5289761612440310918"
+      },
+      {
+        "offset": 2,
+        "length": 48,
+        "type": "bold"
+      },
+      {
+        "offset": 842,
+        "length": 7,
+        "type": "text_link",
+        "url": "https://t.me/aipost"
+      },
+      {
+        "offset": 850,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5431390559912614642"
+      }
+    ],
+    "media_group_id": null,
+    "chat_id": -1004468214616,
+    "message_ids": [
+      601
+    ],
+    "update_ids": [
+      378304494
+    ],
+    "retry_count": 0
+  },
+  {
+    "type": "video",
+    "video_file_id": "BAACAgQAAyEFAAMBClOLWAACAlpqk6LpQ0mULcA-9WgE9VU2I0aTmAACAiUAAtfqmFCUllIXkexYKz0E",
+    "video_file_size": 26985993,
+    "caption": "❗️Anthropic gave Claude the ability  to control physical lab equipment like microscopes, robotic arms, liquid handlers, lasers.\n\nThe results are wild:\n\n– QuEra had Claude fix quantum computer lasers overnight, unsupervised. A fix that took human experts 5-10 minutes, Claude got down to 6 seconds. Success rate: 58% → 99.3%.\n\n– Genentech had Claude self-optimize lab pipetting by scoring its own results against expert baselines, and converged on the right settings on its own.\n\n– A university lab went from manual 4 am plate-swapping to Claude Code running the whole workflow hands-free.\n\n– Claude even ran qPCR experiments that helped detect human sewage contamination in a California creek.\n\nAutomated science labs are closer than most people think.\n\n@aipost 🏴",
+    "entities": [
+      {
+        "offset": 0,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5289761612440310918"
+      },
+      {
+        "offset": 129,
+        "length": 21,
+        "type": "bold"
+      },
+      {
+        "offset": 695,
+        "length": 57,
+        "type": "bold"
+      },
+      {
+        "offset": 754,
+        "length": 7,
+        "type": "text_link",
+        "url": "https://t.me/aipost"
+      },
+      {
+        "offset": 762,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5431390559912614642"
+      }
+    ],
+    "media_group_id": null,
+    "chat_id": -1004468214616,
+    "message_ids": [
+      602
+    ],
+    "update_ids": [
+      378304495
+    ],
+    "retry_count": 0
+  },
+  {
+    "type": "video",
+    "video_file_id": "BAACAgQAAyEFAAMBClOLWAACAltqk6LzkDaNVwtFebbyn_9pD2JThAACMSUAAvBXmVCIbiNg4YZepz0E",
+    "video_file_size": 7572774,
+    "caption": "🗣Jensen Huang just rejected Bill Gates' AI warning on live TV.\n\nThe Nvidia CEO says he's \"in favor of taxes\" but shot down the Microsoft co-founder's plan to tax AI tokens.\n\n\"I love the heck out of Bill, but I don't see what he sees.\"\n\n@aipost 🏴",
+    "entities": [
+      {
+        "offset": 0,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5287468155738821335"
+      },
+      {
+        "offset": 2,
+        "length": 61,
+        "type": "bold"
+      },
+      {
+        "offset": 237,
+        "length": 7,
+        "type": "text_link",
+        "url": "https://t.me/aipost"
+      },
+      {
+        "offset": 245,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5431390559912614642"
+      }
+    ],
+    "media_group_id": null,
+    "chat_id": -1004468214616,
+    "message_ids": [
+      603
+    ],
+    "update_ids": [
+      378304496
+    ],
+    "retry_count": 0
+  },
+  {
+    "type": "photo",
+    "photo_file_ids": [
+      "AgACAgIAAyEFAAMBClOLWAACAlxqk8JG4ZSPb6UwptaAW21ckjkHhAACqSBrG-hloEij-06Qj82TwQEAAwIAA3kAAz0E"
+    ],
+    "caption": "Sam Altman has indicated that artificial general intelligence could arrive by the end of this year.\n\nHowever, key figures at OpenAI continue to project a timeline of five to ten years for AGI development. Some suggest even two years is a significant duration under current progress rates.\n\nExisting OpenAI models have demonstrated their ability to assist with chip design, as highlighted by their involvement in the Jalapeño project.\n\nThese differing timelines underscore a continuing debate within the organization about the expected arrival of AGI.\n\n📰 @aipost",
+    "entities": [
+      {
+        "offset": 552,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5363988332466438547"
+      },
+      {
+        "offset": 555,
+        "length": 7,
+        "type": "mention"
+      }
+    ],
+    "media_group_id": null,
+    "chat_id": -1004468214616,
+    "message_ids": [
+      604
+    ],
+    "update_ids": [
+      378304497
     ],
     "retry_count": 0
   }
