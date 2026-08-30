@@ -2,35 +2,6 @@
   {
     "type": "photo",
     "photo_file_ids": [
-      "AgACAgIAAyEFAAMBClOLWAACAkhqkW7hfknL6SIYywQEaV5bBq_c_gACPxxrG9xsiUgbeXdqUfBQeAEAAwIAA3kAAz0E"
-    ],
-    "caption": "A federal judge has blocked the Pentagon from blacklisting Anthropic, ruling that the action was “illegal and baseless.” \n\nJudge Rita Lin determined that there was no sufficient justification for labeling Anthropic as a supply-chain risk, a classification typically associated with threats like sabotage or system interference. The government tied its decision to Anthropic’s public criticism of Pentagon policies. \n\nThe court found the Pentagon’s actions violated Anthropic’s First Amendment rights, failed to provide due process as required by the Fifth Amendment, and did not comply with statutory requirements. \n\nThe case began after Anthropic declined to allow its Claude AI system for mass domestic surveillance or fully autonomous lethal warfare, despite Pentagon requests for broader operational use.\n\n📰 @aipost",
-    "entities": [
-      {
-        "offset": 810,
-        "length": 2,
-        "type": "custom_emoji",
-        "custom_emoji_id": "5363988332466438547"
-      },
-      {
-        "offset": 813,
-        "length": 7,
-        "type": "mention"
-      }
-    ],
-    "media_group_id": null,
-    "chat_id": -1004468214616,
-    "message_ids": [
-      584
-    ],
-    "update_ids": [
-      378304477
-    ],
-    "retry_count": 0
-  },
-  {
-    "type": "photo",
-    "photo_file_ids": [
       "AgACAgQAAyEFAAMBClOLWAACAklqkXrjNO6KehjXGgqal-Bjj4cFrAAC7A9rG6imiVB2HVi1GjN3JwEAAwIAA3gAAz0E"
     ],
     "caption": "AI becomes a second pair of eyes in brain surgery 🧠\n\nFor the first time, surgeons in London have used AI during surgery to help remove an 11mm pituitary tumor pressing against the patient’s optic nerves.\n\nTrained on hundreds of surgical videos, the AI highlighted hidden blood vessels and nerves in real time, helping surgeons identify safer areas to operate.\n\nProfessor Hani Marcus described it as a “second pair of eyes” but the final decisions always remain with the surgeon.\n\n48-year-old Rhys Hibbert regained clear vision for the first time in a year, and his dizziness disappeared. The team now hopes to develop a fully functional AI surgical assistant and move toward larger clinical trials. \n\n@aipost 🏴",
