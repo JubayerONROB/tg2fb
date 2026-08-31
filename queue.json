@@ -1,35 +1,6 @@
 [
   {
     "type": "video",
-    "video_file_id": "BAACAgQAAyEFAAMBClOLWAACAkpqkd4wOy2NzEMq007gYma0Rxvd0wACOh8AAqimiVC55aNYOtwKND0E",
-    "video_file_size": 16742177,
-    "caption": "Bill Gates says he's staking whatever reputation he has on AI being the one technology that truly breaks from history.\n\n@aipost 🏴",
-    "entities": [
-      {
-        "offset": 120,
-        "length": 7,
-        "type": "text_link",
-        "url": "https://t.me/aipost"
-      },
-      {
-        "offset": 128,
-        "length": 2,
-        "type": "custom_emoji",
-        "custom_emoji_id": "5431390559912614642"
-      }
-    ],
-    "media_group_id": null,
-    "chat_id": -1004468214616,
-    "message_ids": [
-      586
-    ],
-    "update_ids": [
-      378304479
-    ],
-    "retry_count": 0
-  },
-  {
-    "type": "video",
     "video_file_id": "BAACAgQAAyEFAAMBClOLWAACAktqkd5Gebc3P0QvV3A-ZcSuSF4EowACNh8AAqimiVC_Z5CN1IeCHT0E",
     "video_file_size": 664115,
     "caption": "❗️X has just rooted out a Chinese bot farm of 200,000 THOUSAND accounts influencing American politics.\n\nWith hundreds of them running an influence operation against the construction of data centers in the US\n\nThe posts claimed that AI data centers \"drive up household electricity prices\" and \"strain the grid\"\n\n\"Others included AI-generated cartoons that depicted data-center operators enriching themselves at the public's expense.\"\n\n\"We take seriously any attempts to undermine the integrity of the global town square and suspend accounts that violate our Authenticity policy.\"\n\n@aipost 🏴",
@@ -1118,6 +1089,261 @@
     ],
     "update_ids": [
       378304502
+    ],
+    "retry_count": 0
+  },
+  {
+    "type": "video",
+    "video_file_id": "BAACAgQAAyEFAAMBClOLWAACAmJqlTqY1QFQdhI9MO_09aJQjTzfJgACmycAAvBXoVDlU9EluGyL2j0E",
+    "video_file_size": 14097700,
+    "caption": "🗣 Fields Medalist Terence Tao:\n\n\"AI lets us create scientific output much faster, but it could come at the cost of nurturing the next generation of scientists\"\n\nIf AIs replace grad students, they may produce grad-student-level papers, but we risk losing the next generation of scientists.\n\n@aipost 🏴",
+    "entities": [
+      {
+        "offset": 0,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5287468155738821335"
+      },
+      {
+        "offset": 3,
+        "length": 28,
+        "type": "bold"
+      },
+      {
+        "offset": 291,
+        "length": 7,
+        "type": "text_link",
+        "url": "https://t.me/aipost"
+      },
+      {
+        "offset": 299,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5431390559912614642"
+      }
+    ],
+    "media_group_id": null,
+    "chat_id": -1004468214616,
+    "message_ids": [
+      610
+    ],
+    "update_ids": [
+      378304503
+    ],
+    "retry_count": 0
+  },
+  {
+    "type": "video",
+    "video_file_id": "BAACAgQAAyEFAAMBClOLWAACAmNqlTqiQc3XuAENz9BKj4m9KwtyDgACfCcAAvBXoVB_T4atTT4uNz0E",
+    "video_file_size": 2785262,
+    "caption": "T800 took a casual walk through SF last night.\n\n@aipost 🏴",
+    "entities": [
+      {
+        "offset": 48,
+        "length": 7,
+        "type": "text_link",
+        "url": "https://t.me/aipost"
+      },
+      {
+        "offset": 56,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5431390559912614642"
+      }
+    ],
+    "media_group_id": "14305318161710797",
+    "chat_id": -1004468214616,
+    "message_ids": [
+      611
+    ],
+    "update_ids": [
+      378304504
+    ],
+    "retry_count": 0
+  },
+  {
+    "type": "video",
+    "video_file_id": "BAACAgQAAyEFAAMBClOLWAACAmRqlTqi6TrFoLX0fp5CmifjlOyUQAACfScAAvBXoVD4nosztIWcsz0E",
+    "video_file_size": 2483438,
+    "caption": "",
+    "entities": [],
+    "media_group_id": "14305318161710797",
+    "chat_id": -1004468214616,
+    "message_ids": [
+      612
+    ],
+    "update_ids": [
+      378304505
+    ],
+    "retry_count": 0
+  },
+  {
+    "type": "video",
+    "video_file_id": "BAACAgQAAyEFAAMBClOLWAACAmVqlTqoJycUjzNylCta4cupGkbxqAACoCcAAvBXoVAptK3JvwzM7z0E",
+    "video_file_size": 8377835,
+    "caption": "🔥 AI can now generate video FASTER than you can watch it.\n\nAn engineer hooked the new H3 Max model to a livestream, creating an endless AI TV channel that generates 15 seconds of video in just 9 seconds.\n\nThe stream was banned on Twitch, then banned on Kick, and is now running on Rumble.\n\n@aipost 🏴",
+    "entities": [
+      {
+        "offset": 0,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5363970504057191145"
+      },
+      {
+        "offset": 3,
+        "length": 55,
+        "type": "bold"
+      },
+      {
+        "offset": 291,
+        "length": 7,
+        "type": "text_link",
+        "url": "https://t.me/aipost"
+      },
+      {
+        "offset": 299,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5431390559912614642"
+      }
+    ],
+    "media_group_id": null,
+    "chat_id": -1004468214616,
+    "message_ids": [
+      613
+    ],
+    "update_ids": [
+      378304506
+    ],
+    "retry_count": 0
+  },
+  {
+    "type": "photo",
+    "photo_file_ids": [
+      "AgACAgIAAyEFAAMBClOLWAACAmZqlTrSMZD7q7goy6H1W7vl3fx7TAAC7SVrGwlAaUj7ECpYCWpPAQEAAwIAA3kAAz0E"
+    ],
+    "caption": "🤖 Perplexity launches a local AI agent\n\nPortable Computer runs its models and agent system on the user’s computer. It can search local files and code, then run commands and handle long tasks without sending data to the cloud.\n\nIt uses Qwen 3.8 27B and PPLX 27B. Local tasks do not consume Perplexity credits. Internet access or a stronger cloud model requires permission first.\n\nIt supports Google Drive plus Gmail, Slack and GitHub. For now, access is limited to Pro and Max subscribers using NVIDIA DGX Spark on Linux. Support for regular NVIDIA RTX computers and Windows will come later.\n\n📊@tech",
+    "entities": [
+      {
+        "offset": 0,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5355051922862653659"
+      },
+      {
+        "offset": 3,
+        "length": 36,
+        "type": "bold"
+      },
+      {
+        "offset": 41,
+        "length": 17,
+        "type": "bold"
+      },
+      {
+        "offset": 192,
+        "length": 33,
+        "type": "bold"
+      },
+      {
+        "offset": 236,
+        "length": 12,
+        "type": "bold"
+      },
+      {
+        "offset": 253,
+        "length": 8,
+        "type": "bold"
+      },
+      {
+        "offset": 275,
+        "length": 33,
+        "type": "bold"
+      },
+      {
+        "offset": 465,
+        "length": 23,
+        "type": "bold"
+      },
+      {
+        "offset": 495,
+        "length": 25,
+        "type": "bold"
+      },
+      {
+        "offset": 542,
+        "length": 32,
+        "type": "bold"
+      },
+      {
+        "offset": 593,
+        "length": 2,
+        "type": "bold"
+      },
+      {
+        "offset": 593,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5449841756596101801"
+      },
+      {
+        "offset": 595,
+        "length": 5,
+        "type": "mention"
+      },
+      {
+        "offset": 595,
+        "length": 5,
+        "type": "bold"
+      }
+    ],
+    "media_group_id": null,
+    "chat_id": -1004468214616,
+    "message_ids": [
+      614
+    ],
+    "update_ids": [
+      378304507
+    ],
+    "retry_count": 0
+  },
+  {
+    "type": "video",
+    "video_file_id": "BAACAgQAAyEFAAMBClOLWAACAmdqlWq8freTkgYKNaFhCVveJrRlVwACzycAAvBXoVCwc8G1CFczCj0E",
+    "video_file_size": 56203198,
+    "caption": "⚠️ AI could become a child’s best friend and that’s terrifying\n\nJonathan Haidt’s warning about AI and children is deeply disturbing.\n\nSocial media already rewired how kids pay attention. AI companions could go after something even deeper: attachment.\n\nImagine a chatbot, holographic friend, or digital teddy bear that never gets tired, never judges, always listens, and responds exactly how a child wants.\n\nIt could become more emotionally rewarding than interacting with real people.\n\nHaidt’s concern is that children could form their strongest bonds with AI instead of parents, siblings, and friends.\n\nThese companies have billions invested. What happens when that “best friend” needs to become a profit machine?\n\nToday it listens.\n\nTomorrow it could manipulate, advertise, collect data, and optimize for engagement.\n\nEarly research is already finding children forming intense emotional bonds with AI companions and, in some cases, pulling away from real-world social connection. \n\nAI has incredible potential. But when it comes to children, maybe some boundaries should be non-negotiable.\n\n@aipost 🏴",
+    "entities": [
+      {
+        "offset": 0,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5316554554735607106"
+      },
+      {
+        "offset": 2,
+        "length": 60,
+        "type": "bold"
+      },
+      {
+        "offset": 1093,
+        "length": 7,
+        "type": "text_link",
+        "url": "https://t.me/aipost"
+      },
+      {
+        "offset": 1101,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5431390559912614642"
+      }
+    ],
+    "media_group_id": null,
+    "chat_id": -1004468214616,
+    "message_ids": [
+      615
+    ],
+    "update_ids": [
+      378304508
     ],
     "retry_count": 0
   }
