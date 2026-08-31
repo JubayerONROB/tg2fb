@@ -1,34 +1,5 @@
 [
   {
-    "type": "video",
-    "video_file_id": "BAACAgQAAyEFAAMBClOLWAACAkxqkfki-n_mtvQgE8LzQjsjvPOqFQAC8SIAAnutkFBmmHssEOvfkj0E",
-    "video_file_size": 8087327,
-    "caption": "This was the state of robotics just 11 years ago.\n\n@aipost 🏴",
-    "entities": [
-      {
-        "offset": 51,
-        "length": 7,
-        "type": "text_link",
-        "url": "https://t.me/aipost"
-      },
-      {
-        "offset": 59,
-        "length": 2,
-        "type": "custom_emoji",
-        "custom_emoji_id": "5431390559912614642"
-      }
-    ],
-    "media_group_id": null,
-    "chat_id": -1004468214616,
-    "message_ids": [
-      588
-    ],
-    "update_ids": [
-      378304481
-    ],
-    "retry_count": 0
-  },
-  {
     "type": "photo",
     "photo_file_ids": [
       "AgACAgQAAyEFAAMBClOLWAACAk1qkoEYRSIToj6MJ3zFaBmYROfN8AAC_g9rG6imiVCgWyS6lsxk1QEAAwIAA3kAAz0E"
@@ -1374,6 +1345,75 @@
     ],
     "update_ids": [
       378304510
+    ],
+    "retry_count": 0
+  },
+  {
+    "type": "photo",
+    "photo_file_ids": [
+      "AgACAgQAAyEFAAMBClOLWAACAmpqlfPJbnMIZkF0MvhOGuX9zP0wqQACNRBrG9nYsVANDJ6NBa_oXQEAAwIAA3kAAz0E"
+    ],
+    "caption": "Imagine celebrating that ChatGPT Search has become huge in Europe because it means you can finally regulate it.\n\nChatGPT Search now reaches 159 million monthly users in the EU. Europe has failed to build anything remotely comparable. So the European Commission proudly announces that ChatGPT is now large enough to face even more regulation. This image perfectly captures European AI policy.\n\n@aipost 🏴",
+    "entities": [
+      {
+        "offset": 393,
+        "length": 7,
+        "type": "text_link",
+        "url": "https://t.me/aipost"
+      },
+      {
+        "offset": 401,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5431390559912614642"
+      }
+    ],
+    "media_group_id": null,
+    "chat_id": -1004468214616,
+    "message_ids": [
+      618
+    ],
+    "update_ids": [
+      378304511
+    ],
+    "retry_count": 0
+  },
+  {
+    "type": "album",
+    "photo_file_ids": [
+      "AgACAgQAAyEFAAMBClOLWAACAmtqlfPoIB5K01AZjXlC3IGN235E3AACfBFrG0DqsFAHC41efY11vAEAAwIAA3gAAz0E",
+      "AgACAgQAAyEFAAMBClOLWAACAmxqlfPoD-Z-Hn-zm52tByGf2ELCIwACfRFrG0DqsFBeP5mNF1gybAEAAwIAA20AAz0E"
+    ],
+    "caption": "❗️ChatGPT is now regulated as a search engine in the EU, the first AI chatbot to be designated under the Digital Services Act and Reddit and Roblox were designated Very Large Online Platforms\n\nThe three now have four months to assess and mitigate systemic risks to minors, elections and public security and fines can reach 6% of global turnover. EU tech sovereignty chief Henna Virkkunen said the Commission will not hesitate to designate more platforms.\n\n@aipost 🏴",
+    "entities": [
+      {
+        "offset": 0,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5289761612440310918"
+      },
+      {
+        "offset": 456,
+        "length": 7,
+        "type": "text_link",
+        "url": "https://t.me/aipost"
+      },
+      {
+        "offset": 464,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5431390559912614642"
+      }
+    ],
+    "media_group_id": "14305697605845957",
+    "chat_id": -1004468214616,
+    "message_ids": [
+      619,
+      620
+    ],
+    "update_ids": [
+      378304512,
+      378304513
     ],
     "retry_count": 0
   }
