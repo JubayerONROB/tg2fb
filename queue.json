@@ -1,46 +1,5 @@
 [
   {
-    "type": "photo",
-    "photo_file_ids": [
-      "AgACAgQAAyEFAAMBClOLWAACAklqkXrjNO6KehjXGgqal-Bjj4cFrAAC7A9rG6imiVB2HVi1GjN3JwEAAwIAA3gAAz0E"
-    ],
-    "caption": "AI becomes a second pair of eyes in brain surgery 🧠\n\nFor the first time, surgeons in London have used AI during surgery to help remove an 11mm pituitary tumor pressing against the patient’s optic nerves.\n\nTrained on hundreds of surgical videos, the AI highlighted hidden blood vessels and nerves in real time, helping surgeons identify safer areas to operate.\n\nProfessor Hani Marcus described it as a “second pair of eyes” but the final decisions always remain with the surgeon.\n\n48-year-old Rhys Hibbert regained clear vision for the first time in a year, and his dizziness disappeared. The team now hopes to develop a fully functional AI surgical assistant and move toward larger clinical trials. \n\n@aipost 🏴",
-    "entities": [
-      {
-        "offset": 0,
-        "length": 50,
-        "type": "bold"
-      },
-      {
-        "offset": 50,
-        "length": 2,
-        "type": "custom_emoji",
-        "custom_emoji_id": "5237889595894414384"
-      },
-      {
-        "offset": 702,
-        "length": 7,
-        "type": "text_link",
-        "url": "https://t.me/aipost"
-      },
-      {
-        "offset": 710,
-        "length": 2,
-        "type": "custom_emoji",
-        "custom_emoji_id": "5431390559912614642"
-      }
-    ],
-    "media_group_id": null,
-    "chat_id": -1004468214616,
-    "message_ids": [
-      585
-    ],
-    "update_ids": [
-      378304478
-    ],
-    "retry_count": 0
-  },
-  {
     "type": "video",
     "video_file_id": "BAACAgQAAyEFAAMBClOLWAACAkpqkd4wOy2NzEMq007gYma0Rxvd0wACOh8AAqimiVC55aNYOtwKND0E",
     "video_file_size": 16742177,
