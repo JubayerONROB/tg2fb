@@ -1,52 +1,5 @@
 [
   {
-    "type": "photo",
-    "photo_file_ids": [
-      "AgACAgQAAyEFAAMBClOLWAACAk1qkoEYRSIToj6MJ3zFaBmYROfN8AAC_g9rG6imiVCgWyS6lsxk1QEAAwIAA3kAAz0E"
-    ],
-    "caption": "❗️OpenAI is developing a 'persistent' Al agent\n\nOpenAI is testing a new “Persistent mode” for its AI agent Codex that could let it keep working until it is manually stopped.\n\nThe system includes “proactivity” feature, that allow the agent to create its own follow-up tasks, continue working across sessions, use past interactions and its knowledge of the user, and even message the user when needed.\n\nThis moves AI beyond “ask → answer” toward “goal → execute → reassess → continue.”\n\nThe feature is not broadly launched yet. But its broader research is focused on persistent, proactive intelligence and long-horizon AI agents that can work for much longer periods with less human prompting.\n\nSource. \n\n@aipost 🏴",
-    "entities": [
-      {
-        "offset": 0,
-        "length": 2,
-        "type": "custom_emoji",
-        "custom_emoji_id": "5289761612440310918"
-      },
-      {
-        "offset": 2,
-        "length": 44,
-        "type": "bold"
-      },
-      {
-        "offset": 693,
-        "length": 8,
-        "type": "text_link",
-        "url": "https://finance.biggo.com/news/c171998a-4f4c-498f-8a41-82660d430cee"
-      },
-      {
-        "offset": 703,
-        "length": 7,
-        "type": "text_link",
-        "url": "https://t.me/aipost"
-      },
-      {
-        "offset": 711,
-        "length": 2,
-        "type": "custom_emoji",
-        "custom_emoji_id": "5431390559912614642"
-      }
-    ],
-    "media_group_id": null,
-    "chat_id": -1004468214616,
-    "message_ids": [
-      589
-    ],
-    "update_ids": [
-      378304482
-    ],
-    "retry_count": 0
-  },
-  {
     "type": "video",
     "video_file_id": "BAACAgQAAyEFAAMBClOLWAACAk5qkoEm56NlycedneOdaogtMPqlDQACcR8AAqimiVBgnLntH4QbUD0E",
     "video_file_size": 18963875,
@@ -1414,6 +1367,65 @@
     "update_ids": [
       378304512,
       378304513
+    ],
+    "retry_count": 0
+  },
+  {
+    "type": "photo",
+    "photo_file_ids": [
+      "AgACAgQAAyEFAAMBClOLWAACAm1qllyUOInBzSHsfpYDKJxNnR-rXgACNBBrG9nYsVAGpitJRvAEagEAAwIAA3gAAz0E"
+    ],
+    "caption": "President Trump releases a statement condemning the growing backlash against data centers in the US.\n\n\"If we kill the Golden Goose, you will only have yourselves to blame,\" Trump says.\n\n@aipost 🏴",
+    "entities": [
+      {
+        "offset": 186,
+        "length": 7,
+        "type": "text_link",
+        "url": "https://t.me/aipost"
+      },
+      {
+        "offset": 194,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5431390559912614642"
+      }
+    ],
+    "media_group_id": null,
+    "chat_id": -1004468214616,
+    "message_ids": [
+      621
+    ],
+    "update_ids": [
+      378304514
+    ],
+    "retry_count": 0
+  },
+  {
+    "type": "photo",
+    "photo_file_ids": [
+      "AgACAgIAAyEFAAMBClOLWAACAm9qllyU_twUGaovJLdAt5NmJZUegAACOCVrG4kqsUhat2kkc1QXCAEAAwIAA3gAAz0E"
+    ],
+    "caption": "Remote job interviews face new challenges as AI-driven cheating, deepfakes, and use of stand-in interviewers undermine traditional identity verification practices.\n\nIn response, employers have introduced new measures. Candidates are now required to perform specific actions—such as moving their hands across their faces—to demonstrate their presence and identity on video calls.\n\nThese steps aim to address the increased difficulty in confirming candidate authenticity during remote recruitment processes. This trend reflects growing concerns among employers about verifying applicants in virtual environments.\n\n📰 @aipost",
+    "entities": [
+      {
+        "offset": 612,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5363988332466438547"
+      },
+      {
+        "offset": 615,
+        "length": 7,
+        "type": "mention"
+      }
+    ],
+    "media_group_id": null,
+    "chat_id": -1004468214616,
+    "message_ids": [
+      623
+    ],
+    "update_ids": [
+      378304515
     ],
     "retry_count": 0
   }
