@@ -1,46 +1,5 @@
 [
   {
-    "type": "photo",
-    "photo_file_ids": [
-      "AgACAgQAAyEFAAMBClOLWAACAk9qkoErrVSr2KEBGRFLa01k6nI3JAACtxBrG6imiVDml8kTpJNjdgEAAwIAA3gAAz0E"
-    ],
-    "caption": "❗️3 takeawys by WSJ on Bill Gates's long AI warning.\n\n• The biggest economic risk is speed: AI could remove large numbers of entry-level and mid-level jobs before new ones appear and before governments have any serious plan for it.\n\n• Gates wants governments to use taxes and stronger safety nets to absorb that shock.\n\n• At the same time, he says societies may need to deliberately decide where humans should remain irreplaceable for some categories of jobs.\n\n@aipost 🏴",
-    "entities": [
-      {
-        "offset": 0,
-        "length": 2,
-        "type": "custom_emoji",
-        "custom_emoji_id": "5289761612440310918"
-      },
-      {
-        "offset": 2,
-        "length": 50,
-        "type": "bold"
-      },
-      {
-        "offset": 461,
-        "length": 7,
-        "type": "text_link",
-        "url": "https://t.me/aipost"
-      },
-      {
-        "offset": 469,
-        "length": 2,
-        "type": "custom_emoji",
-        "custom_emoji_id": "5431390559912614642"
-      }
-    ],
-    "media_group_id": null,
-    "chat_id": -1004468214616,
-    "message_ids": [
-      591
-    ],
-    "update_ids": [
-      378304484
-    ],
-    "retry_count": 0
-  },
-  {
     "type": "album",
     "photo_file_ids": [
       "AgACAgIAAyEFAAMBClOLWAACAlBqkoEy6vjTT6XNNMYqQWNroFbg_gAC-B5rG2WBmUg-orS5Ou9sywEAAwIAA3gAAz0E",
