@@ -1,34 +1,5 @@
 [
   {
-    "type": "photo",
-    "photo_file_ids": [
-      "AgACAgQAAyEFAAMBClOLWAACAlJqkoE2EyvWwSsK3CHT8_33s-L-VgACUBBrG3utmFArYKV0JMK0NQEAAwIAA3kAAz0E"
-    ],
-    "caption": "Cursor’s leadership has responded to OpenAI’s announcement that it will block Cursor users from accessing OpenAI models within the next three months.\n\nAccording to Cursor, OpenAI models account for approximately five percent of Cursor’s user traffic. Cursor representatives stated that they are currently in discussions with OpenAI to address the situation.\n\nThe company further noted that Cursor was among the early adopters of OpenAI’s technologies and had relied on OpenAI’s platform as neutral infrastructure for its business. Cursor claims that this decision by OpenAI challenges that expectation of neutrality.\n\n📰 @aipost",
-    "entities": [
-      {
-        "offset": 618,
-        "length": 2,
-        "type": "custom_emoji",
-        "custom_emoji_id": "5363988332466438547"
-      },
-      {
-        "offset": 621,
-        "length": 7,
-        "type": "mention"
-      }
-    ],
-    "media_group_id": null,
-    "chat_id": -1004468214616,
-    "message_ids": [
-      594
-    ],
-    "update_ids": [
-      378304487
-    ],
-    "retry_count": 0
-  },
-  {
     "type": "video",
     "video_file_id": "BAACAgIAAyEFAAMBClOLWAACAlNqkwQuiRNsvhyhh58v_iLWpdPukAACrK0AAifcgUiNjTkYWDnogT0E",
     "video_file_size": 46902241,
@@ -1579,6 +1550,227 @@
     ],
     "update_ids": [
       378304523
+    ],
+    "retry_count": 0
+  },
+  {
+    "type": "photo",
+    "photo_file_ids": [
+      "AgACAgQAAyEFAAMBClOLWAACAnhqlxp-WSVxKOlL48HbgBE5HErCqgACNxdrG_BXoVC7FKFm-Cz1FgEAAwIAA3kAAz0E"
+    ],
+    "caption": "OpenAI has reportedly bought tens of thousands of Mac minis and Mac Studios for reinforcement learning and computer-use agents while Anthropic is renting Macs through Amazon AWS.\n\nApple hardware is becoming a lot more relevant to AI workloads than we thought entering this year as memory capacity starts to matter more relative to raw GPU performance.\n\n@aipost 🏴",
+    "entities": [
+      {
+        "offset": 353,
+        "length": 7,
+        "type": "text_link",
+        "url": "https://t.me/aipost"
+      },
+      {
+        "offset": 361,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5431390559912614642"
+      }
+    ],
+    "media_group_id": null,
+    "chat_id": -1004468214616,
+    "message_ids": [
+      632
+    ],
+    "update_ids": [
+      378304524
+    ],
+    "retry_count": 0
+  },
+  {
+    "type": "video",
+    "video_file_id": "BAACAgQAAyEFAAMBClOLWAACAnlqlxp-2peeA3r3HYW_cJp-SKvNNQAChx8AAtnYuVCkaWhU9JfZaT0E",
+    "video_file_size": 12201330,
+    "caption": "🗣Elon Musk: “America is 1,000% going to go bankrupt and fail as a country without AI and robotics”\n\nThe U.S. is already paying over $1 trillion a year just in interest on the national debt. The only real escape is enormous productivity growth\n\nAI → intelligence at near-zero marginal cost\nRobots → physical labor at massive scale\n\nTogether they can dramatically increase economic output, lower the cost of goods and services and expand the tax base\n\nThe race is basically: Can we build AI + robotics fast enough to unlock abundance before the debt becomes impossible to outrun?\n\n@aipost 🏴",
+    "entities": [
+      {
+        "offset": 0,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5287468155738821335"
+      },
+      {
+        "offset": 2,
+        "length": 97,
+        "type": "bold"
+      },
+      {
+        "offset": 580,
+        "length": 7,
+        "type": "text_link",
+        "url": "https://t.me/aipost"
+      },
+      {
+        "offset": 588,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5431390559912614642"
+      }
+    ],
+    "media_group_id": null,
+    "chat_id": -1004468214616,
+    "message_ids": [
+      633
+    ],
+    "update_ids": [
+      378304525
+    ],
+    "retry_count": 0
+  },
+  {
+    "type": "photo",
+    "photo_file_ids": [
+      "AgACAgQAAyEFAAMBClOLWAACAnpqlxp-Jxz6vVvPnzE4SYBcx23tUQACBhBrG0DquFCyBHPcLDnnZgEAAwIAA3kAAz0E"
+    ],
+    "caption": "How ChatGPT will look like under full EU control.\n\n@aipost 🏴",
+    "entities": [
+      {
+        "offset": 51,
+        "length": 7,
+        "type": "text_link",
+        "url": "https://t.me/aipost"
+      },
+      {
+        "offset": 59,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5431390559912614642"
+      }
+    ],
+    "media_group_id": null,
+    "chat_id": -1004468214616,
+    "message_ids": [
+      634
+    ],
+    "update_ids": [
+      378304526
+    ],
+    "retry_count": 0
+  },
+  {
+    "type": "video",
+    "video_file_id": "BAACAgQAAyEFAAMBClOLWAACAntqlxp-PjlmGen6xwqucuhEmvYwKAACdh8AAjXhuVAmEnB0UoqFZj0E",
+    "video_file_size": 31964049,
+    "caption": "🤖 Anthropic just dropped Claude Fable 5.1 and Mythos 5.1\n\nAnthropic says its newest models are its most advanced yet for coding, research, and knowledge work and Fable 5.1 looks like a serious upgrade.\n\nFable 5.1 scores 55.8% on Terminal-Bench 4.0, compared with 42.0% for Fable 5. On Terminal-Bench-Science, it hits 52.6%, more than double its predecessor.\n\nIt’s not just smarter. It can deliver similar or better results at lower effort levels, while cache reads cost 75% less. Anthropic says this can cut real-world costs by around 25%, and up to 45% for highly agentic workloads.\n\nAnthropic is also rolling out stronger enterprise privacy with Enterprise Frontier Safeguards, while claiming its cybersecurity safeguards now flag benign requests about 60% less often.\n\nAnd Fable 5.1 isn’t limited to coding. Its research capabilities are being positioned as an early look at how AI could eventually contribute to scientific discovery.\n\nFable 5.1 is available now. Mythos 5.1, built for cyberdefenders and life scientists, is available through trusted-access programs.\n\nSource.\n\n@aipost 🏴",
+    "entities": [
+      {
+        "offset": 0,
+        "length": 2,
+        "type": "bold"
+      },
+      {
+        "offset": 0,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5208665212483310136"
+      },
+      {
+        "offset": 2,
+        "length": 55,
+        "type": "bold"
+      },
+      {
+        "offset": 1073,
+        "length": 6,
+        "type": "text_link",
+        "url": "https://www.anthropic.com/claude-fable-and-mythos-5-1"
+      },
+      {
+        "offset": 1082,
+        "length": 7,
+        "type": "text_link",
+        "url": "https://t.me/aipost"
+      },
+      {
+        "offset": 1090,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5431390559912614642"
+      }
+    ],
+    "media_group_id": null,
+    "chat_id": -1004468214616,
+    "message_ids": [
+      635
+    ],
+    "update_ids": [
+      378304527
+    ],
+    "retry_count": 0
+  },
+  {
+    "type": "photo",
+    "photo_file_ids": [
+      "AgACAgIAAyEFAAMBClOLWAACAnxqlyMrglcC9t_0bBx2IB4gSjv3RQACZSNrG2bOsUghsO_YicIm3wEAAwIAA3kAAz0E"
+    ],
+    "caption": "🧠 OpenAI Orders Tens of Thousands of Macs\n\nThe shift from traditional GPUs is tied to Apple’s unified memory architecture, which gives the CPU, GPU, and Neural Engine shared access to memory, reducing data transfers during agent training.\n\nReinforcement learning combines inference with interaction with an environment. Many compact Macs can therefore cost less than GPU clusters built for matrix-heavy workloads.\n\nAnthropic reportedly uses Mac mini too, renting them from AWS. Demand has stretched delivery times for high-memory Mac mini and Mac Studio configurations to weeks or months.\n\n📊@tech",
+    "entities": [
+      {
+        "offset": 0,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5375437843399189715"
+      },
+      {
+        "offset": 3,
+        "length": 39,
+        "type": "bold"
+      },
+      {
+        "offset": 87,
+        "length": 35,
+        "type": "bold"
+      },
+      {
+        "offset": 273,
+        "length": 46,
+        "type": "bold"
+      },
+      {
+        "offset": 416,
+        "length": 38,
+        "type": "bold"
+      },
+      {
+        "offset": 573,
+        "length": 15,
+        "type": "bold"
+      },
+      {
+        "offset": 591,
+        "length": 2,
+        "type": "bold"
+      },
+      {
+        "offset": 591,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5449841756596101801"
+      },
+      {
+        "offset": 593,
+        "length": 5,
+        "type": "mention"
+      },
+      {
+        "offset": 593,
+        "length": 5,
+        "type": "bold"
+      }
+    ],
+    "media_group_id": null,
+    "chat_id": -1004468214616,
+    "message_ids": [
+      636
+    ],
+    "update_ids": [
+      378304528
     ],
     "retry_count": 0
   }
