@@ -1,37 +1,5 @@
 [
   {
-    "type": "album",
-    "photo_file_ids": [
-      "AgACAgIAAyEFAAMBClOLWAACAlBqkoEy6vjTT6XNNMYqQWNroFbg_gAC-B5rG2WBmUg-orS5Ou9sywEAAwIAA3gAAz0E",
-      "AgACAgIAAyEFAAMBClOLWAACAlFqkoEykMXBgwZp47abdyF3lonXgAAC-R5rG2WBmUjTEnLH1gvuNwEAAwIAA3kAAz0E"
-    ],
-    "caption": "OpenAI has officially announced it will end Cursor's access to its models after the platform's acquisition by SpaceX.\n\nThe company informed SpaceX that the contract allowing Cursor to use OpenAI’s technology will be terminated, citing a lack of confidence that SpaceX would comply with existing terms. The disconnection is scheduled for November 12, 2026, which is 76 days from the notice.\n\nOpenAI stated that the developers relying on Cursor’s integration will be most affected and has committed to supporting them throughout the transition period.\n\n📰 @aipost",
-    "entities": [
-      {
-        "offset": 551,
-        "length": 2,
-        "type": "custom_emoji",
-        "custom_emoji_id": "5363988332466438547"
-      },
-      {
-        "offset": 554,
-        "length": 7,
-        "type": "mention"
-      }
-    ],
-    "media_group_id": "14303889808397901",
-    "chat_id": -1004468214616,
-    "message_ids": [
-      592,
-      593
-    ],
-    "update_ids": [
-      378304485,
-      378304486
-    ],
-    "retry_count": 0
-  },
-  {
     "type": "photo",
     "photo_file_ids": [
       "AgACAgQAAyEFAAMBClOLWAACAlJqkoE2EyvWwSsK3CHT8_33s-L-VgACUBBrG3utmFArYKV0JMK0NQEAAwIAA3kAAz0E"
