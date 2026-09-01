@@ -1,34 +1,5 @@
 [
   {
-    "type": "video",
-    "video_file_id": "BAACAgQAAyEFAAMBClOLWAACAk5qkoEm56NlycedneOdaogtMPqlDQACcR8AAqimiVBgnLntH4QbUD0E",
-    "video_file_size": 18963875,
-    "caption": "Hugging Face launched the $399 Microduck, built through its Pollen Robotics subsidiary.\n\nThe unit ships with 7 learned moves, but the interesting part is the open-source software stack for programming it, you can train a new movement in simulation, then deploy that behavior onto the robot.\n\n@aipost 🏴",
-    "entities": [
-      {
-        "offset": 292,
-        "length": 7,
-        "type": "text_link",
-        "url": "https://t.me/aipost"
-      },
-      {
-        "offset": 300,
-        "length": 2,
-        "type": "custom_emoji",
-        "custom_emoji_id": "5431390559912614642"
-      }
-    ],
-    "media_group_id": null,
-    "chat_id": -1004468214616,
-    "message_ids": [
-      590
-    ],
-    "update_ids": [
-      378304483
-    ],
-    "retry_count": 0
-  },
-  {
     "type": "photo",
     "photo_file_ids": [
       "AgACAgQAAyEFAAMBClOLWAACAk9qkoErrVSr2KEBGRFLa01k6nI3JAACtxBrG6imiVDml8kTpJNjdgEAAwIAA3gAAz0E"
@@ -1426,6 +1397,261 @@
     ],
     "update_ids": [
       378304515
+    ],
+    "retry_count": 0
+  },
+  {
+    "type": "photo",
+    "photo_file_ids": [
+      "AgACAgIAAyEFAAMBClOLWAACAnBqlmtdPHZhNhGAO4MTmoqX02Vh4AACphprG6apuEizwcV4PqboLgEAAwIAA3gAAz0E"
+    ],
+    "caption": "ChatGPT Ads achieved a $1 billion annualized revenue run rate in less than 200 days, following an initial $100 million milestone reached six weeks after launch.\n\nOpenAI has set a 2026 ad revenue forecast at $2.4 billion, facing pressure due to slower early-month performance compared to the current growth rate.\n\nFuture projections indicate a target of nearly $11 billion in ad revenue for 2027 and $102 billion by 2030. This forecast assumes ad revenue per user will climb from about $3.50 in 2024 to around $60 by 2030.\n\nOpenAI reports tens of thousands of advertisers use ChatGPT Ads in more than 40 countries. Self-service access is expanding further, including India, Europe, the Middle East, and North Africa.\n\nChatGPT’s weekly active users now exceed one billion. Advertising remains limited to the Free and Go tiers.\n\nAdvertisers are unable to access private conversations, and paid ads do not influence responses.\n\n📰 @aipost",
+    "entities": [
+      {
+        "offset": 924,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5363988332466438547"
+      },
+      {
+        "offset": 927,
+        "length": 7,
+        "type": "mention"
+      }
+    ],
+    "media_group_id": null,
+    "chat_id": -1004468214616,
+    "message_ids": [
+      624
+    ],
+    "update_ids": [
+      378304516
+    ],
+    "retry_count": 0
+  },
+  {
+    "type": "video",
+    "video_file_id": "BAACAgIAAyEFAAMBClOLWAACAnFqlodU9XFnqAcWP_KR8mzyxKow0AACUJoAAiNhoUhg_kCNRMfbKD0E",
+    "video_file_size": 4333499,
+    "caption": "🔍 Gemini Omni 1.1 Flash Reaches GA\n\nVideos can now be extended in 10-second chunks up to 40 seconds. The model uses the last 10 seconds of the source, rather than only its final second. The preview will soon be unavailable.\n\nA 360p draft mode costs $0.03 per second, compared with $0.10 for 720p. 1080p costs $0.15, while 4K costs $0.30. Both are upscales, not native generations.\n\n📊@tech",
+    "entities": [
+      {
+        "offset": 0,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5431644246450908867"
+      },
+      {
+        "offset": 3,
+        "length": 32,
+        "type": "bold"
+      },
+      {
+        "offset": 67,
+        "length": 33,
+        "type": "bold"
+      },
+      {
+        "offset": 228,
+        "length": 15,
+        "type": "bold"
+      },
+      {
+        "offset": 298,
+        "length": 17,
+        "type": "bold"
+      },
+      {
+        "offset": 383,
+        "length": 2,
+        "type": "bold"
+      },
+      {
+        "offset": 383,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5449841756596101801"
+      },
+      {
+        "offset": 385,
+        "length": 5,
+        "type": "mention"
+      },
+      {
+        "offset": 385,
+        "length": 5,
+        "type": "bold"
+      }
+    ],
+    "media_group_id": null,
+    "chat_id": -1004468214616,
+    "message_ids": [
+      625
+    ],
+    "update_ids": [
+      378304517
+    ],
+    "retry_count": 0
+  },
+  {
+    "type": "album",
+    "photo_file_ids": [
+      "AgACAgIAAyEFAAMBClOLWAACAnJqlodzOYVSO8k5RfuePFplbvGlKgACczFrG7sooUjbB-u2TDY3QwEAAwIAA3gAAz0E",
+      "AgACAgIAAyEFAAMBClOLWAACAnNqlodzDqrq0DEZ_6cz6ch0I1OsCQACdDFrG7sooUhHJp63jOVKOAEAAwIAA3kAAz0E",
+      "AgACAgIAAyEFAAMBClOLWAACAnRqlodzqxIzCAyX7I4hjoppe7wmfAACdTFrG7sooUjcVpt4FxzKKgEAAwIAA3kAAz0E",
+      "AgACAgIAAyEFAAMBClOLWAACAnVqlodz8eQPZ7QQvnMmcfy8htTDzQAChzFrG7sooUgFzAwJ0W3JcQEAAwIAA3gAAz0E",
+      "AgACAgIAAyEFAAMBClOLWAACAnZqlodzy9LPcwU-ur6vLDL_xNJs-QACdzFrG7sooUinQHlJRdO2uwEAAwIAA3kAAz0E"
+    ],
+    "caption": "💻 Raspberry Pi Publishes a  Guide\n\nThe official build uses a simple black case. Inside are a Pi 5 board and a Raspberry Pi flash drive. A LiPo battery sits beneath the Bluetooth keyboard.\n\nCyberdecks are portable computers assembled from assorted parts, including flea-market hardware and repurposed components. The guide includes a parts list and step-by-step assembly instructions.\n\nThe build is easy to reproduce, but its practical use remains unclear.\n\n📊@tech",
+    "entities": [
+      {
+        "offset": 0,
+        "length": 2,
+        "type": "bold"
+      },
+      {
+        "offset": 0,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5260382369688333746"
+      },
+      {
+        "offset": 3,
+        "length": 31,
+        "type": "bold"
+      },
+      {
+        "offset": 94,
+        "length": 10,
+        "type": "bold"
+      },
+      {
+        "offset": 111,
+        "length": 24,
+        "type": "bold"
+      },
+      {
+        "offset": 139,
+        "length": 12,
+        "type": "bold"
+      },
+      {
+        "offset": 334,
+        "length": 10,
+        "type": "bold"
+      },
+      {
+        "offset": 349,
+        "length": 34,
+        "type": "bold"
+      },
+      {
+        "offset": 426,
+        "length": 29,
+        "type": "bold"
+      },
+      {
+        "offset": 458,
+        "length": 2,
+        "type": "bold"
+      },
+      {
+        "offset": 458,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5449841756596101801"
+      },
+      {
+        "offset": 460,
+        "length": 5,
+        "type": "mention"
+      },
+      {
+        "offset": 460,
+        "length": 5,
+        "type": "bold"
+      }
+    ],
+    "media_group_id": "14305999773393549",
+    "chat_id": -1004468214616,
+    "message_ids": [
+      626,
+      627,
+      628,
+      629,
+      630
+    ],
+    "update_ids": [
+      378304518,
+      378304519,
+      378304520,
+      378304521,
+      378304522
+    ],
+    "retry_count": 0
+  },
+  {
+    "type": "photo",
+    "photo_file_ids": [
+      "AgACAgIAAyEFAAMBClOLWAACAndqlodzrX-wXUN1iHMVWolp5kO8YQAC-iNrG2MqsUiMtY3mE3bEZAEAAwIAA3kAAz0E"
+    ],
+    "caption": "✈️ Telegram Launches Gram Wallet\n\nGram Wallet is already available to some users. Full access is promised within the next couple of weeks.\n\nTelegram says it will become the “largest non-custodial crypto wallet in history”. Gram rose 4.5% within minutes of the announcement.\n\n📊@tech",
+    "entities": [
+      {
+        "offset": 0,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5397669646390282694"
+      },
+      {
+        "offset": 3,
+        "length": 29,
+        "type": "bold"
+      },
+      {
+        "offset": 34,
+        "length": 11,
+        "type": "bold"
+      },
+      {
+        "offset": 140,
+        "length": 8,
+        "type": "bold"
+      },
+      {
+        "offset": 223,
+        "length": 14,
+        "type": "bold"
+      },
+      {
+        "offset": 275,
+        "length": 2,
+        "type": "bold"
+      },
+      {
+        "offset": 275,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5449841756596101801"
+      },
+      {
+        "offset": 277,
+        "length": 5,
+        "type": "mention"
+      },
+      {
+        "offset": 277,
+        "length": 5,
+        "type": "bold"
+      }
+    ],
+    "media_group_id": null,
+    "chat_id": -1004468214616,
+    "message_ids": [
+      631
+    ],
+    "update_ids": [
+      378304523
     ],
     "retry_count": 0
   }
