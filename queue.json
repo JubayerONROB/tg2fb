@@ -1,45 +1,5 @@
 [
   {
-    "type": "video",
-    "video_file_id": "BAACAgQAAyEFAAMBClOLWAACAlZqkxFRc3d1Kqof0ncis6zz02myGAACDiAAAqimiVAdLajOtklZqD0E",
-    "video_file_size": 33817309,
-    "caption": "🙃 Elon Musk believes that we are in a simulation:\n\n\"I do have this theory about predicting the future which is that the most interesting outcome is the most likely\"\n\n\"If simulation theory is accurate this makes sense because if anyone is simulating a wide range of futures they're going to stop the simulation when it gets boring\"\n\n\"This is what we do in reality. If SpaceX is doing simulations to understand how a rocket works we run all these simulations in the computer\"\n\n\"The simulations that we pay attention to are the ones that are the most interesting\"\n\n\"We could be an alien Netflix series and that series is only going to get continued if our ratings are good\"\n\n\"If you apply Darwin to simulation theory then only the most interesting simulations will continue\"\n\n\"Therefore the most interesting outcome is the most likely because it's either that or annihilation\"\n\n\"So really we have one goal. Keep it interesting.\"\n\n@aipost 🏴",
-    "entities": [
-      {
-        "offset": 0,
-        "length": 2,
-        "type": "custom_emoji",
-        "custom_emoji_id": "5289701946754633864"
-      },
-      {
-        "offset": 3,
-        "length": 47,
-        "type": "bold"
-      },
-      {
-        "offset": 928,
-        "length": 7,
-        "type": "text_link",
-        "url": "https://t.me/aipost"
-      },
-      {
-        "offset": 936,
-        "length": 2,
-        "type": "custom_emoji",
-        "custom_emoji_id": "5431390559912614642"
-      }
-    ],
-    "media_group_id": null,
-    "chat_id": -1004468214616,
-    "message_ids": [
-      598
-    ],
-    "update_ids": [
-      378304491
-    ],
-    "retry_count": 0
-  },
-  {
     "type": "photo",
     "photo_file_ids": [
       "AgACAgQAAyEFAAMBClOLWAACAldqkxFWug0Tyq59Qcpc4p2XaJP3MQACfBJrG6imkVB4gSFJ6bbf6wEAAwIAA3gAAz0E"
@@ -1700,6 +1660,53 @@
     ],
     "update_ids": [
       378304531
+    ],
+    "retry_count": 0
+  },
+  {
+    "type": "photo",
+    "photo_file_ids": [
+      "AgACAgQAAyEFAAMBClOLWAACAoBql_dn73HyzCtN2MlYF-jLOTbMpwACjA9rGzXhwVAzwDNvKaBtLAEAAwIAA3gAAz0E"
+    ],
+    "caption": "🇺🇸 Trump: Reject AI data centers and risk becoming “backwards and poor”\n\nTrump says communities that reject data centers are essentially choosing to fall behind, arguing that these facilities can bring jobs, investment and lower taxes.\n\nTrump also warned that resistance to data center construction could benefit China, saying the country “could not be happier” about the growing backlash.\n\nCommunities across the U.S. are increasingly pushing back because massive AI data centers can consume huge amounts of electricity and water, while residents worry about higher utility bills, noise and the local environmental impact. More than 70% of Americans surveyed say they don’t want a data center near their home.\n\nSource. \n\n@aipost 🏴",
+    "entities": [
+      {
+        "offset": 0,
+        "length": 4,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5202021044105257611"
+      },
+      {
+        "offset": 4,
+        "length": 69,
+        "type": "bold"
+      },
+      {
+        "offset": 714,
+        "length": 8,
+        "type": "text_link",
+        "url": "https://www.wsj.com/politics/policy/trump-says-communities-that-oppose-data-centers-risk-becoming-backwards-and-poor-601f41d7"
+      },
+      {
+        "offset": 724,
+        "length": 7,
+        "type": "text_link",
+        "url": "https://t.me/aipost"
+      },
+      {
+        "offset": 732,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5431390559912614642"
+      }
+    ],
+    "media_group_id": null,
+    "chat_id": -1004468214616,
+    "message_ids": [
+      640
+    ],
+    "update_ids": [
+      378304532
     ],
     "retry_count": 0
   }

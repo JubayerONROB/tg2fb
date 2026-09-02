@@ -2792,5 +2792,45 @@
       378304489
     ],
     "retry_count": 0
+  },
+  {
+    "type": "video",
+    "video_file_id": "BAACAgQAAyEFAAMBClOLWAACAlZqkxFRc3d1Kqof0ncis6zz02myGAACDiAAAqimiVAdLajOtklZqD0E",
+    "video_file_size": 33817309,
+    "caption": "🙃 Elon Musk believes that we are in a simulation:\n\n\"I do have this theory about predicting the future which is that the most interesting outcome is the most likely\"\n\n\"If simulation theory is accurate this makes sense because if anyone is simulating a wide range of futures they're going to stop the simulation when it gets boring\"\n\n\"This is what we do in reality. If SpaceX is doing simulations to understand how a rocket works we run all these simulations in the computer\"\n\n\"The simulations that we pay attention to are the ones that are the most interesting\"\n\n\"We could be an alien Netflix series and that series is only going to get continued if our ratings are good\"\n\n\"If you apply Darwin to simulation theory then only the most interesting simulations will continue\"\n\n\"Therefore the most interesting outcome is the most likely because it's either that or annihilation\"\n\n\"So really we have one goal. Keep it interesting.\"\n\n@aipost 🏴",
+    "entities": [
+      {
+        "offset": 0,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5289701946754633864"
+      },
+      {
+        "offset": 3,
+        "length": 47,
+        "type": "bold"
+      },
+      {
+        "offset": 928,
+        "length": 7,
+        "type": "text_link",
+        "url": "https://t.me/aipost"
+      },
+      {
+        "offset": 936,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5431390559912614642"
+      }
+    ],
+    "media_group_id": null,
+    "chat_id": -1004468214616,
+    "message_ids": [
+      598
+    ],
+    "update_ids": [
+      378304491
+    ],
+    "retry_count": 0
   }
 ]
