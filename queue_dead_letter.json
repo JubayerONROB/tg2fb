@@ -2614,5 +2614,104 @@
       378304469
     ],
     "retry_count": 0
+  },
+  {
+    "type": "video",
+    "video_file_id": "BAACAgIAAyEFAAMBClOLWAACAlNqkwQuiRNsvhyhh58v_iLWpdPukAACrK0AAifcgUiNjTkYWDnogT0E",
+    "video_file_size": 46902241,
+    "caption": "6️⃣ GTA VI Details Point to Heavier Action\n\nCompared with GTA V, firefights are more realistic and character movement heavier, closer to RDR 2. The demo included cinematic story missions and a major police chase.\n\nLeonida can be explored by kayak. Stores can be robbed outside missions, alone or with both protagonists. Safehouses include small interactions, such as taking a beer from the fridge.\n\nThe wanted system has six stars. Police can track players through their car and witnesses, while appearance and clothing appear in the interface. Parachuting returns from San Andreas, gym training changes characters’ looks and stats, and the game looked and ran better than the Cyberleek leaks. Release is set for 19 November.\n\n📊@tech",
+    "entities": [
+      {
+        "offset": 0,
+        "length": 3,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5958770809664181796"
+      },
+      {
+        "offset": 4,
+        "length": 38,
+        "type": "bold"
+      },
+      {
+        "offset": 80,
+        "length": 14,
+        "type": "bold"
+      },
+      {
+        "offset": 137,
+        "length": 5,
+        "type": "bold"
+      },
+      {
+        "offset": 193,
+        "length": 18,
+        "type": "bold"
+      },
+      {
+        "offset": 238,
+        "length": 8,
+        "type": "bold"
+      },
+      {
+        "offset": 248,
+        "length": 37,
+        "type": "bold"
+      },
+      {
+        "offset": 301,
+        "length": 17,
+        "type": "bold"
+      },
+      {
+        "offset": 421,
+        "length": 9,
+        "type": "bold"
+      },
+      {
+        "offset": 545,
+        "length": 36,
+        "type": "bold"
+      },
+      {
+        "offset": 677,
+        "length": 15,
+        "type": "bold"
+      },
+      {
+        "offset": 713,
+        "length": 11,
+        "type": "bold"
+      },
+      {
+        "offset": 727,
+        "length": 2,
+        "type": "bold"
+      },
+      {
+        "offset": 727,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5449841756596101801"
+      },
+      {
+        "offset": 729,
+        "length": 5,
+        "type": "mention"
+      },
+      {
+        "offset": 729,
+        "length": 5,
+        "type": "bold"
+      }
+    ],
+    "media_group_id": null,
+    "chat_id": -1004468214616,
+    "message_ids": [
+      595
+    ],
+    "update_ids": [
+      378304488
+    ],
+    "retry_count": 0
   }
 ]
