@@ -1,85 +1,6 @@
 [
   {
     "type": "video",
-    "video_file_id": "BAACAgIAAyEFAAMBClOLWAACAlVqkwQ709Zc6KgBxQK3lb9Wl7KL4wACXKUAAglAcUjozdkRwf8jij0E",
-    "video_file_size": 14584463,
-    "caption": "🤖 ChatGPT Work Can Log Into Sites\n\nAuthentication happens separately, so the agent does not see the login or password. It then works through the browser on the authorized site.\n\nIt can book a doctor, process a return, or fill out applications. It can also move invoices from email into accounting software.\n\nThe feature is starting to roll out on the web and mobile to users on the Plus tier, Pro, or Business.\n\n📊@tech",
-    "entities": [
-      {
-        "offset": 0,
-        "length": 2,
-        "type": "custom_emoji",
-        "custom_emoji_id": "5397681122542893003"
-      },
-      {
-        "offset": 3,
-        "length": 31,
-        "type": "bold"
-      },
-      {
-        "offset": 36,
-        "length": 33,
-        "type": "bold"
-      },
-      {
-        "offset": 84,
-        "length": 34,
-        "type": "bold"
-      },
-      {
-        "offset": 186,
-        "length": 13,
-        "type": "bold"
-      },
-      {
-        "offset": 257,
-        "length": 49,
-        "type": "bold"
-      },
-      {
-        "offset": 324,
-        "length": 20,
-        "type": "bold"
-      },
-      {
-        "offset": 383,
-        "length": 27,
-        "type": "bold"
-      },
-      {
-        "offset": 413,
-        "length": 2,
-        "type": "bold"
-      },
-      {
-        "offset": 413,
-        "length": 2,
-        "type": "custom_emoji",
-        "custom_emoji_id": "5449841756596101801"
-      },
-      {
-        "offset": 415,
-        "length": 5,
-        "type": "mention"
-      },
-      {
-        "offset": 415,
-        "length": 5,
-        "type": "bold"
-      }
-    ],
-    "media_group_id": null,
-    "chat_id": -1004468214616,
-    "message_ids": [
-      597
-    ],
-    "update_ids": [
-      378304490
-    ],
-    "retry_count": 0
-  },
-  {
-    "type": "video",
     "video_file_id": "BAACAgQAAyEFAAMBClOLWAACAlZqkxFRc3d1Kqof0ncis6zz02myGAACDiAAAqimiVAdLajOtklZqD0E",
     "video_file_size": 33817309,
     "caption": "🙃 Elon Musk believes that we are in a simulation:\n\n\"I do have this theory about predicting the future which is that the most interesting outcome is the most likely\"\n\n\"If simulation theory is accurate this makes sense because if anyone is simulating a wide range of futures they're going to stop the simulation when it gets boring\"\n\n\"This is what we do in reality. If SpaceX is doing simulations to understand how a rocket works we run all these simulations in the computer\"\n\n\"The simulations that we pay attention to are the ones that are the most interesting\"\n\n\"We could be an alien Netflix series and that series is only going to get continued if our ratings are good\"\n\n\"If you apply Darwin to simulation theory then only the most interesting simulations will continue\"\n\n\"Therefore the most interesting outcome is the most likely because it's either that or annihilation\"\n\n\"So really we have one goal. Keep it interesting.\"\n\n@aipost 🏴",
@@ -1593,6 +1514,192 @@
     ],
     "update_ids": [
       378304528
+    ],
+    "retry_count": 0
+  },
+  {
+    "type": "video",
+    "video_file_id": "BAACAgIAAyEFAAMBClOLWAACAn1ql-on0HLNWE6L6AOWzS8-VU6p5QACVa8AArtHuEhM2hmm8FlYlT0E",
+    "video_file_size": 12819484,
+    "caption": "🤖 Claude 5.1 Puts Science to the Test\n\nAnthropic released Claude Fable 5.1 and Claude Mythos 5.1, the same model with different restrictions. Fable is open to everyone. Mythos requires verification for cybersecurity and life sciences work. With open protein-design tools, almost 50% of designs worked across 12 targets, versus 10-15% normally. Binding affinity was 10 times higher than leading Adaptyv Bio contest entries for 3 targets.\n\nThe model also built a new elevation map for a third of Venus from Magellan radar images. Resolution improved to 2 to 3 km. Terminal-Bench-Science reached 52.6%, up from 24.7%. Cached reads are 75% cheaper, cutting typical task costs by about 25% and agentic costs by up to 45%.\n\n📊@tech",
+    "entities": [
+      {
+        "offset": 0,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5208665212483310136"
+      },
+      {
+        "offset": 3,
+        "length": 35,
+        "type": "bold"
+      },
+      {
+        "offset": 59,
+        "length": 38,
+        "type": "bold"
+      },
+      {
+        "offset": 103,
+        "length": 38,
+        "type": "bold"
+      },
+      {
+        "offset": 273,
+        "length": 28,
+        "type": "bold"
+      },
+      {
+        "offset": 309,
+        "length": 10,
+        "type": "bold"
+      },
+      {
+        "offset": 366,
+        "length": 15,
+        "type": "bold"
+      },
+      {
+        "offset": 462,
+        "length": 38,
+        "type": "bold"
+      },
+      {
+        "offset": 552,
+        "length": 9,
+        "type": "bold"
+      },
+      {
+        "offset": 594,
+        "length": 5,
+        "type": "bold"
+      },
+      {
+        "offset": 633,
+        "length": 11,
+        "type": "bold"
+      },
+      {
+        "offset": 719,
+        "length": 2,
+        "type": "bold"
+      },
+      {
+        "offset": 719,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5449841756596101801"
+      },
+      {
+        "offset": 721,
+        "length": 5,
+        "type": "mention"
+      },
+      {
+        "offset": 721,
+        "length": 5,
+        "type": "bold"
+      }
+    ],
+    "media_group_id": null,
+    "chat_id": -1004468214616,
+    "message_ids": [
+      637
+    ],
+    "update_ids": [
+      378304529
+    ],
+    "retry_count": 0
+  },
+  {
+    "type": "photo",
+    "photo_file_ids": [
+      "AgACAgQAAyEFAAMBClOLWAACAn5ql-pg9RWoMCz6RSyXMQABqT2BMvsAAocPaxs14cFQFcR8P1EDqbkBAAMCAAN5AAM9BA"
+    ],
+    "caption": "🍫 Snickers just made a candy bar for ChatGPT\n\nChatGPT gives you a terrible answer? Don’t argue with it. Feed it a Snickers. 😂\n\nSnickers has launched “Hungr.AI,” a digital candy bar that users can give to an AI assistant when it starts hallucinating, acting strangely, or agreeing with everything you say.\n\nIt’s not just an image, the digital Snickers contains instructions that tell the AI to reconsider its previous response and try answering the question again after taking a metaphorical “byte” of the candy bar. \n\nIt’s basically Snickers’ “You’re Not You When You’re Hungry” campaign… except now the hungry one is ChatGPT.\n\nAnd honestly, AI probably needs a Snickers sometimes. \n\nSource. \n\n@aipost 🏴",
+    "entities": [
+      {
+        "offset": 0,
+        "length": 2,
+        "type": "bold"
+      },
+      {
+        "offset": 0,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5348308557919970713"
+      },
+      {
+        "offset": 2,
+        "length": 43,
+        "type": "bold"
+      },
+      {
+        "offset": 125,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5370953476635368811"
+      },
+      {
+        "offset": 152,
+        "length": 8,
+        "type": "url"
+      },
+      {
+        "offset": 686,
+        "length": 8,
+        "type": "text_link",
+        "url": "https://www.dexerto.com/food/snickers-made-a-digital-candy-bar-you-can-feed-to-chatgpt-when-it-gives-bad-answers-3404185/"
+      },
+      {
+        "offset": 696,
+        "length": 7,
+        "type": "text_link",
+        "url": "https://t.me/aipost"
+      },
+      {
+        "offset": 704,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5431390559912614642"
+      }
+    ],
+    "media_group_id": null,
+    "chat_id": -1004468214616,
+    "message_ids": [
+      638
+    ],
+    "update_ids": [
+      378304530
+    ],
+    "retry_count": 0
+  },
+  {
+    "type": "video",
+    "video_file_id": "BAACAgQAAyEFAAMBClOLWAACAn9ql-pop3ZKhIXQzntG_nrPu9E91gACRB0AAjXhwVCZlXD0B5HSJj0E",
+    "video_file_size": 21251361,
+    "caption": "Dyson just released a new AI-powered toothbrush with an integrated 100,000-pixel macro lens camera for $499.\n\n@aipost 🏴",
+    "entities": [
+      {
+        "offset": 110,
+        "length": 7,
+        "type": "text_link",
+        "url": "https://t.me/aipost"
+      },
+      {
+        "offset": 118,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5431390559912614642"
+      }
+    ],
+    "media_group_id": null,
+    "chat_id": -1004468214616,
+    "message_ids": [
+      639
+    ],
+    "update_ids": [
+      378304531
     ],
     "retry_count": 0
   }
