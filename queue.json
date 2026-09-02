@@ -1,75 +1,5 @@
 [
   {
-    "type": "photo",
-    "photo_file_ids": [
-      "AgACAgQAAyEFAAMBClOLWAACAlhqkxFfrxNSZRf4Cmk3idMo9tx8VgACExRrG_BXmVDlTb4Fo2pi-QEAAwIAA3kAAz0E"
-    ],
-    "caption": "⚠️ AI can detect diabetes & hypertension from your face\n\nHealthcare is getting seriously futuristic. Researchers in Tokyo have developed an AI system that can detect signs of hypertension and diabetes from just a few seconds of facial video.\n\nThe system analyzes tiny changes in facial blood flow, pulse-wave patterns and skin color that are invisible to the human eye.\n\nThe results are wild:\n\n🩺 Hypertension: 95% accuracy from 30 seconds of recording\n⏰ Just 5 seconds: 90.3% accuracy\n\n🩸 Diabetes: 88.2% accuracy from 30 seconds\n⏰ Just 5 seconds: 81.2% accuracy\n\nThe researchers also tested whether the AI could estimate blood pressure without a cuff, with a mean error of −2.6 mmHg.\n\nIt’s not ready to replace blood tests or blood-pressure cuffs yet, but the idea is huge: One day, a simple camera could potentially spot warning signs of disease before you even know something is wrong.\n\nSource. \n\n@aipost 🏴",
-    "entities": [
-      {
-        "offset": 0,
-        "length": 2,
-        "type": "custom_emoji",
-        "custom_emoji_id": "5366332658760580843"
-      },
-      {
-        "offset": 3,
-        "length": 52,
-        "type": "bold"
-      },
-      {
-        "offset": 371,
-        "length": 21,
-        "type": "bold"
-      },
-      {
-        "offset": 394,
-        "length": 2,
-        "type": "custom_emoji",
-        "custom_emoji_id": "5350307998340226571"
-      },
-      {
-        "offset": 453,
-        "length": 1,
-        "type": "custom_emoji",
-        "custom_emoji_id": "5316591603123502631"
-      },
-      {
-        "offset": 531,
-        "length": 1,
-        "type": "custom_emoji",
-        "custom_emoji_id": "5316591603123502631"
-      },
-      {
-        "offset": 891,
-        "length": 8,
-        "type": "text_link",
-        "url": "https://www.thebrighterside.news/post/ai-can-detect-hypertension-and-diabetes-by-looking-at-your-face-and-eyes/?utm_source=flipboard&utm_content=topic%2Fbreakthrough"
-      },
-      {
-        "offset": 901,
-        "length": 7,
-        "type": "text_link",
-        "url": "https://t.me/aipost"
-      },
-      {
-        "offset": 909,
-        "length": 2,
-        "type": "custom_emoji",
-        "custom_emoji_id": "5431390559912614642"
-      }
-    ],
-    "media_group_id": null,
-    "chat_id": -1004468214616,
-    "message_ids": [
-      600
-    ],
-    "update_ids": [
-      378304493
-    ],
-    "retry_count": 0
-  },
-  {
     "type": "video",
     "video_file_id": "BAACAgQAAyEFAAMBClOLWAACAllqk6LFUmCYIbpsLdkAAdVyykuWjvIAAkwjAALwV5FQT-najKPZ6W49BA",
     "video_file_size": 20504698,
@@ -1841,6 +1771,83 @@
     ],
     "update_ids": [
       378304534
+    ],
+    "retry_count": 0
+  },
+  {
+    "type": "album",
+    "photo_file_ids": [
+      "AgACAgQAAyEFAAMBClOLWAACAoNqmG6QgJLwRQUelebhHpg4ssFcBgAClQ9rGzXhwVBCL-rae70p_QEAAwIAA3cAAz0E",
+      "AgACAgQAAyEFAAMBClOLWAACAoRqmG6Q26Pc9FH25kg_E6pBPs60nwAClg9rGzXhwVBZHX9agQc4jgEAAwIAA3cAAz0E"
+    ],
+    "caption": "Sam Altman is teasing Astra, while considering the consequences\n\nIn the tweet he discusses how OpenAI have prioritized safety, while continuing to move forward with iterative deployment so that society can co-evolve with AI\n\nOpenAI is preparing to enter a new paradigm\n\n@aipost 🏴",
+    "entities": [
+      {
+        "offset": 270,
+        "length": 7,
+        "type": "text_link",
+        "url": "https://t.me/aipost"
+      },
+      {
+        "offset": 278,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5431390559912614642"
+      }
+    ],
+    "media_group_id": "14306997376868549",
+    "chat_id": -1004468214616,
+    "message_ids": [
+      643,
+      644
+    ],
+    "update_ids": [
+      378304535,
+      378304536
+    ],
+    "retry_count": 0
+  },
+  {
+    "type": "album",
+    "photo_file_ids": [
+      "AgACAgQAAyEFAAMBClOLWAACAoVqmG7KOJ9B53AYMg82zRtL3zKcOgACjg9rGzXhwVChBVazOSaXDQEAAwIAA3gAAz0E",
+      "AgACAgQAAyEFAAMBClOLWAACAoZqmG7KURHE_jp6kA-24iYE8WSYngACjw9rGzXhwVAmYMJJBcpeAAEBAAMCAAN4AAM9BA"
+    ],
+    "caption": "❗️Anthropic has now been SUED by EVERY major music label on Earth.\n\nSony and Warner are the latest to accuse the $2 TRILLION company of pirating songs from Taylor Swift, The Beatles and Michael Jackson to train Claude.\n\nThe publishers are seeking up to $150,000 PER work infringed, with the lawsuit naming CEO Dario Amodei personally.\n\nAnthropic already paid Universal Music $1.5 BILLION to settle the same claim last year.\n\n@aipost 🏴",
+    "entities": [
+      {
+        "offset": 0,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5289761612440310918"
+      },
+      {
+        "offset": 2,
+        "length": 64,
+        "type": "bold"
+      },
+      {
+        "offset": 425,
+        "length": 7,
+        "type": "text_link",
+        "url": "https://t.me/aipost"
+      },
+      {
+        "offset": 433,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5431390559912614642"
+      }
+    ],
+    "media_group_id": "14306997845530917",
+    "chat_id": -1004468214616,
+    "message_ids": [
+      645,
+      646
+    ],
+    "update_ids": [
+      378304537,
+      378304538
     ],
     "retry_count": 0
   }
