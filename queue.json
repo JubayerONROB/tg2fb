@@ -2,47 +2,6 @@
   {
     "type": "photo",
     "photo_file_ids": [
-      "AgACAgQAAyEFAAMBClOLWAACAldqkxFWug0Tyq59Qcpc4p2XaJP3MQACfBJrG6imkVB4gSFJ6bbf6wEAAwIAA3gAAz0E"
-    ],
-    "caption": "❗️AI is about to enter a completely different era\n\nThe next few months could get VERY interesting. GPT Astra is coming and if the claims are accurate, this could be far more than another model upgrade.\n\nAstra could potentially work autonomously for WEEKS. No constant prompting. No babysitting. Just give it a massive problem and let it work. And once OpenAI does it, the race begins.\n\nImagine 10, 20, or even dozens of AI models working nonstop for weeks or months, inventing things, running experiments, solving difficult scientific problems and discovering things humans haven’t.\n\nNow imagine those systems casually producing major mathematical breakthroughs along the way.\n\nThat’s not just better AI. That’s a new kind of workforce, one that never sleeps.\n\n@aipost 🏴",
-    "entities": [
-      {
-        "offset": 0,
-        "length": 2,
-        "type": "custom_emoji",
-        "custom_emoji_id": "5289761612440310918"
-      },
-      {
-        "offset": 2,
-        "length": 47,
-        "type": "bold"
-      },
-      {
-        "offset": 761,
-        "length": 7,
-        "type": "text_link",
-        "url": "https://t.me/aipost"
-      },
-      {
-        "offset": 769,
-        "length": 2,
-        "type": "custom_emoji",
-        "custom_emoji_id": "5431390559912614642"
-      }
-    ],
-    "media_group_id": null,
-    "chat_id": -1004468214616,
-    "message_ids": [
-      599
-    ],
-    "update_ids": [
-      378304492
-    ],
-    "retry_count": 0
-  },
-  {
-    "type": "photo",
-    "photo_file_ids": [
       "AgACAgQAAyEFAAMBClOLWAACAlhqkxFfrxNSZRf4Cmk3idMo9tx8VgACExRrG_BXmVDlTb4Fo2pi-QEAAwIAA3kAAz0E"
     ],
     "caption": "⚠️ AI can detect diabetes & hypertension from your face\n\nHealthcare is getting seriously futuristic. Researchers in Tokyo have developed an AI system that can detect signs of hypertension and diabetes from just a few seconds of facial video.\n\nThe system analyzes tiny changes in facial blood flow, pulse-wave patterns and skin color that are invisible to the human eye.\n\nThe results are wild:\n\n🩺 Hypertension: 95% accuracy from 30 seconds of recording\n⏰ Just 5 seconds: 90.3% accuracy\n\n🩸 Diabetes: 88.2% accuracy from 30 seconds\n⏰ Just 5 seconds: 81.2% accuracy\n\nThe researchers also tested whether the AI could estimate blood pressure without a cuff, with a mean error of −2.6 mmHg.\n\nIt’s not ready to replace blood tests or blood-pressure cuffs yet, but the idea is huge: One day, a simple camera could potentially spot warning signs of disease before you even know something is wrong.\n\nSource. \n\n@aipost 🏴",
@@ -1707,6 +1666,181 @@
     ],
     "update_ids": [
       378304532
+    ],
+    "retry_count": 0
+  },
+  {
+    "type": "photo",
+    "photo_file_ids": [
+      "AgACAgIAAyEFAAMBClOLWAACAoFqmE-ER4JHJBs4FjHFRA8gRyY3VwACCyNrG_pruUjIMFpMXOV9YgEAAwIAA3kAAz0E"
+    ],
+    "caption": "🌬️ Dyson puts camera in $499 toothbrush\n\nThe CameraJet’s tiny camera captures 28 photos per second. An AI system trained on 470,000 dental images finds gaps between teeth and directs a small rinse stream there during brushing.\n\nIt can also stream a live view of the mouth to the MyDyson app, showing cleaning coverage and close-up images of the teeth.\n\nDyson says development took 6 years and involved 661 engineers. The $499.99 device combines an electric toothbrush, oral irrigator, and camera.\n\n📊@tech",
+    "entities": [
+      {
+        "offset": 0,
+        "length": 3,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5366290052684984457"
+      },
+      {
+        "offset": 4,
+        "length": 36,
+        "type": "bold"
+      },
+      {
+        "offset": 46,
+        "length": 23,
+        "type": "bold"
+      },
+      {
+        "offset": 79,
+        "length": 20,
+        "type": "bold"
+      },
+      {
+        "offset": 104,
+        "length": 42,
+        "type": "bold"
+      },
+      {
+        "offset": 250,
+        "length": 22,
+        "type": "bold"
+      },
+      {
+        "offset": 280,
+        "length": 11,
+        "type": "bold"
+      },
+      {
+        "offset": 382,
+        "length": 7,
+        "type": "bold"
+      },
+      {
+        "offset": 403,
+        "length": 13,
+        "type": "bold"
+      },
+      {
+        "offset": 422,
+        "length": 7,
+        "type": "bold"
+      },
+      {
+        "offset": 499,
+        "length": 2,
+        "type": "bold"
+      },
+      {
+        "offset": 499,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5449841756596101801"
+      },
+      {
+        "offset": 501,
+        "length": 5,
+        "type": "mention"
+      },
+      {
+        "offset": 501,
+        "length": 5,
+        "type": "bold"
+      }
+    ],
+    "media_group_id": null,
+    "chat_id": -1004468214616,
+    "message_ids": [
+      641
+    ],
+    "update_ids": [
+      378304533
+    ],
+    "retry_count": 0
+  },
+  {
+    "type": "photo",
+    "photo_file_ids": [
+      "AgACAgIAAyEFAAMBClOLWAACAoJqmE-hS2QJ9t-3c5lgJAUcIQUeDQACtyBrG_pruUi2YJKHQZpwfAEAAwIAA3kAAz0E"
+    ],
+    "caption": "🛸 Rainmaker Reports 71 Million Liters\n\nDuring a three-hour test over Alaska, Rainmaker’s drones released small amounts of silver iodide into cold clouds. The company says this helped form ice crystals that fell as rain or snow, producing an estimated 71 million liters of additional precipitation.\n\nRainmaker uses weather algorithms, radar, and satellite data to select clouds and time each seeding flight. Atmo’s AI models help identify clouds with high seeding potential. The estimate is based on Rainmaker’s own analysis.\n\n📊@tech",
+    "entities": [
+      {
+        "offset": 0,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5408835320114323884"
+      },
+      {
+        "offset": 3,
+        "length": 35,
+        "type": "bold"
+      },
+      {
+        "offset": 49,
+        "length": 27,
+        "type": "bold"
+      },
+      {
+        "offset": 123,
+        "length": 13,
+        "type": "bold"
+      },
+      {
+        "offset": 189,
+        "length": 12,
+        "type": "bold"
+      },
+      {
+        "offset": 252,
+        "length": 17,
+        "type": "bold"
+      },
+      {
+        "offset": 315,
+        "length": 18,
+        "type": "bold"
+      },
+      {
+        "offset": 408,
+        "length": 16,
+        "type": "bold"
+      },
+      {
+        "offset": 500,
+        "length": 24,
+        "type": "bold"
+      },
+      {
+        "offset": 527,
+        "length": 2,
+        "type": "bold"
+      },
+      {
+        "offset": 527,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5449841756596101801"
+      },
+      {
+        "offset": 529,
+        "length": 5,
+        "type": "mention"
+      },
+      {
+        "offset": 529,
+        "length": 5,
+        "type": "bold"
+      }
+    ],
+    "media_group_id": null,
+    "chat_id": -1004468214616,
+    "message_ids": [
+      642
+    ],
+    "update_ids": [
+      378304534
     ],
     "retry_count": 0
   }
