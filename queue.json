@@ -1,51 +1,6 @@
 [
   {
     "type": "video",
-    "video_file_id": "BAACAgQAAyEFAAMBClOLWAACAlpqk6LpQ0mULcA-9WgE9VU2I0aTmAACAiUAAtfqmFCUllIXkexYKz0E",
-    "video_file_size": 26985993,
-    "caption": "❗️Anthropic gave Claude the ability  to control physical lab equipment like microscopes, robotic arms, liquid handlers, lasers.\n\nThe results are wild:\n\n– QuEra had Claude fix quantum computer lasers overnight, unsupervised. A fix that took human experts 5-10 minutes, Claude got down to 6 seconds. Success rate: 58% → 99.3%.\n\n– Genentech had Claude self-optimize lab pipetting by scoring its own results against expert baselines, and converged on the right settings on its own.\n\n– A university lab went from manual 4 am plate-swapping to Claude Code running the whole workflow hands-free.\n\n– Claude even ran qPCR experiments that helped detect human sewage contamination in a California creek.\n\nAutomated science labs are closer than most people think.\n\n@aipost 🏴",
-    "entities": [
-      {
-        "offset": 0,
-        "length": 2,
-        "type": "custom_emoji",
-        "custom_emoji_id": "5289761612440310918"
-      },
-      {
-        "offset": 129,
-        "length": 21,
-        "type": "bold"
-      },
-      {
-        "offset": 695,
-        "length": 57,
-        "type": "bold"
-      },
-      {
-        "offset": 754,
-        "length": 7,
-        "type": "text_link",
-        "url": "https://t.me/aipost"
-      },
-      {
-        "offset": 762,
-        "length": 2,
-        "type": "custom_emoji",
-        "custom_emoji_id": "5431390559912614642"
-      }
-    ],
-    "media_group_id": null,
-    "chat_id": -1004468214616,
-    "message_ids": [
-      602
-    ],
-    "update_ids": [
-      378304495
-    ],
-    "retry_count": 0
-  },
-  {
-    "type": "video",
     "video_file_id": "BAACAgQAAyEFAAMBClOLWAACAltqk6LzkDaNVwtFebbyn_9pD2JThAACMSUAAvBXmVCIbiNg4YZepz0E",
     "video_file_size": 7572774,
     "caption": "🗣Jensen Huang just rejected Bill Gates' AI warning on live TV.\n\nThe Nvidia CEO says he's \"in favor of taxes\" but shot down the Microsoft co-founder's plan to tax AI tokens.\n\n\"I love the heck out of Bill, but I don't see what he sees.\"\n\n@aipost 🏴",
