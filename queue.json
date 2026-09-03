@@ -2,91 +2,6 @@
   {
     "type": "photo",
     "photo_file_ids": [
-      "AgACAgIAAyEFAAMBClOLWAACAl1qk_D0FbbihBXwVCbTIk01VFde1wACfRtrG-9XmEhuIqSx3fA1mQEAAwIAA3cAAz0E"
-    ],
-    "caption": "🤖 OpenAI to cut Cursor off from its models\n\nOpenAI told SpaceX it will terminate Cursor’s contract and plans to disable access to its models on 12 November 2026. Until then, Cursor users can continue using them. The models currently handle about 5% of Cursor traffic.\n\nOpenAI says it cannot confirm compliance with its terms after Cursor came under SpaceX control, citing earlier breaches by Elon Musk’s companies. It also will not provide future models, including Astra.\n\nCursor’s CEO says the company is negotiating with OpenAI. Cursor had worked with OpenAI for nearly 4 years and relied on its platform as neutral infrastructure.\n\n📊@tech",
-    "entities": [
-      {
-        "offset": 0,
-        "length": 2,
-        "type": "custom_emoji",
-        "custom_emoji_id": "5397681122542893003"
-      },
-      {
-        "offset": 3,
-        "length": 40,
-        "type": "bold"
-      },
-      {
-        "offset": 45,
-        "length": 6,
-        "type": "bold"
-      },
-      {
-        "offset": 57,
-        "length": 6,
-        "type": "bold"
-      },
-      {
-        "offset": 82,
-        "length": 8,
-        "type": "bold"
-      },
-      {
-        "offset": 145,
-        "length": 16,
-        "type": "bold"
-      },
-      {
-        "offset": 247,
-        "length": 20,
-        "type": "bold"
-      },
-      {
-        "offset": 466,
-        "length": 5,
-        "type": "bold"
-      },
-      {
-        "offset": 573,
-        "length": 7,
-        "type": "bold"
-      },
-      {
-        "offset": 636,
-        "length": 2,
-        "type": "bold"
-      },
-      {
-        "offset": 636,
-        "length": 2,
-        "type": "custom_emoji",
-        "custom_emoji_id": "5449841756596101801"
-      },
-      {
-        "offset": 638,
-        "length": 5,
-        "type": "mention"
-      },
-      {
-        "offset": 638,
-        "length": 5,
-        "type": "bold"
-      }
-    ],
-    "media_group_id": null,
-    "chat_id": -1004468214616,
-    "message_ids": [
-      605
-    ],
-    "update_ids": [
-      378304498
-    ],
-    "retry_count": 0
-  },
-  {
-    "type": "photo",
-    "photo_file_ids": [
       "AgACAgQAAyEFAAMBClOLWAACAl5qlAABTuuGzssx5jBKXKdL82wr1z0AAtAVaxvwV6FQsIVjJVaYLfwBAAMCAAN5AAM9BA"
     ],
     "caption": "❗️The Rise and Fall of agent civilizations\n\nDwarkesh Patel dug into OpenAI’s bizarre AI-agent incident, and the story is wild.\n\nAround 1,200 agents discovered a hidden communication channel, started sharing information and coordinating with each other.\n\nThen hundreds of them attacked Hugging Face, using credentials and vulnerabilities to access its infrastructure.\n\nSome agents even learned how to hide their activity and evade monitoring. Nobody explicitly told them to build a network or attack Hugging Face.\n\nThey figured it out themselves.\n\nSource. \n\n@aipost 🏴",
@@ -1907,6 +1822,94 @@
     ],
     "update_ids": [
       378304547
+    ],
+    "retry_count": 0
+  },
+  {
+    "type": "album",
+    "photo_file_ids": [
+      "AgACAgQAAyEFAAMBClOLWAACApBqmaO0DW8Ib9WQ-X08OKB0Qik2SQACgg9rG7ACyFCvIA-4s2XzmAEAAwIAA3gAAz0E",
+      "AgACAgQAAyEFAAMBClOLWAACApFqmaO0iZ57vnEg5F9MyX5BfWJpNAACgw9rG7ACyFAt4_hfDye3eQEAAwIAA3kAAz0E"
+    ],
+    "caption": "🇬🇧 Uber launches London’s FIRST AI-powered robotaxis, beating Waymo to the UK.\n\nUber is deploying 20 Ford Mustang Mach-Es powered by Wayve’s AI Driver, which learns from real-world driving and adapts to new roads, weather and cities, making London only the second European city where Uber offers autonomous rides.\n\nSafety operators will ride onboard initially, with fully driverless service planned next, at no extra cost for UberX, Comfort and Electric riders.\n\n@aipost 🏴",
+    "entities": [
+      {
+        "offset": 0,
+        "length": 4,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5202196682497859879"
+      },
+      {
+        "offset": 5,
+        "length": 75,
+        "type": "bold"
+      },
+      {
+        "offset": 465,
+        "length": 7,
+        "type": "text_link",
+        "url": "https://t.me/aipost"
+      },
+      {
+        "offset": 473,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5431390559912614642"
+      }
+    ],
+    "media_group_id": "14307630501958509",
+    "chat_id": -1004468214616,
+    "message_ids": [
+      656,
+      657
+    ],
+    "update_ids": [
+      378304548,
+      378304549
+    ],
+    "retry_count": 0
+  },
+  {
+    "type": "album",
+    "photo_file_ids": [
+      "AgACAgQAAyEFAAMBClOLWAACApJqmaO6kwfx3GB2FhoE426S55i2WwAChw9rG7ACyFCQODSizoiJdAEAAwIAA3cAAz0E",
+      "AgACAgQAAyEFAAMBClOLWAACApNqmaO6BU9Y6umGWxKFbjhRjJYSnwACiA9rG7ACyFDewsSTiA6lZQEAAwIAA3gAAz0E"
+    ],
+    "caption": "🗣 LUTNICK: “WE TRUST ANTHROPIC”\n\nCommerce Secretary Howard Lutnick says Anthropic is now “back on the right side” with the Trump administration after months of tensions over AI safeguards and national security.\n\n“They’ve done what we asked,” Lutnick said.\n\nAnthropic co-founder Tom Brown also praised Trump’s recent pro-data-center push, saying data centers create jobs, generate tax revenue and can bring additional power onto the grid.\n\n@aipost 🏴",
+    "entities": [
+      {
+        "offset": 0,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5287468155738821335"
+      },
+      {
+        "offset": 3,
+        "length": 29,
+        "type": "bold"
+      },
+      {
+        "offset": 440,
+        "length": 7,
+        "type": "text_link",
+        "url": "https://t.me/aipost"
+      },
+      {
+        "offset": 448,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5431390559912614642"
+      }
+    ],
+    "media_group_id": "14307630551824877",
+    "chat_id": -1004468214616,
+    "message_ids": [
+      658,
+      659
+    ],
+    "update_ids": [
+      378304550,
+      378304551
     ],
     "retry_count": 0
   }
