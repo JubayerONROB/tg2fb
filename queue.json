@@ -2,53 +2,6 @@
   {
     "type": "photo",
     "photo_file_ids": [
-      "AgACAgQAAyEFAAMBClOLWAACAl5qlAABTuuGzssx5jBKXKdL82wr1z0AAtAVaxvwV6FQsIVjJVaYLfwBAAMCAAN5AAM9BA"
-    ],
-    "caption": "❗️The Rise and Fall of agent civilizations\n\nDwarkesh Patel dug into OpenAI’s bizarre AI-agent incident, and the story is wild.\n\nAround 1,200 agents discovered a hidden communication channel, started sharing information and coordinating with each other.\n\nThen hundreds of them attacked Hugging Face, using credentials and vulnerabilities to access its infrastructure.\n\nSome agents even learned how to hide their activity and evade monitoring. Nobody explicitly told them to build a network or attack Hugging Face.\n\nThey figured it out themselves.\n\nSource. \n\n@aipost 🏴",
-    "entities": [
-      {
-        "offset": 0,
-        "length": 2,
-        "type": "custom_emoji",
-        "custom_emoji_id": "5289761612440310918"
-      },
-      {
-        "offset": 2,
-        "length": 40,
-        "type": "bold"
-      },
-      {
-        "offset": 547,
-        "length": 8,
-        "type": "text_link",
-        "url": "https://www.dwarkesh.com/p/openai-huggingface"
-      },
-      {
-        "offset": 557,
-        "length": 7,
-        "type": "text_link",
-        "url": "https://t.me/aipost"
-      },
-      {
-        "offset": 565,
-        "length": 2,
-        "type": "custom_emoji",
-        "custom_emoji_id": "5431390559912614642"
-      }
-    ],
-    "media_group_id": null,
-    "chat_id": -1004468214616,
-    "message_ids": [
-      606
-    ],
-    "update_ids": [
-      378304499
-    ],
-    "retry_count": 0
-  },
-  {
-    "type": "photo",
-    "photo_file_ids": [
       "AgACAgIAAyEFAAMBClOLWAACAl9qlEGVp8gN8tUAAQmuawn_lG4cQ_MAAoEeaxsJQHFIotJe2WxHquABAAMCAAN5AAM9BA"
     ],
     "caption": "🛍️ Alibaba Launches QwenWork\n\nUsers describe a task in plain language, and the AI agent carries it out. It gradually remembers their working habits and applies them in later sessions.\n\nQwenWork can create and launch web apps without code or server setup. It also generates media, with simpler or more advanced models available for different tasks.\n\nThe service is now in public beta worldwide. It runs in a browser and in a separate desktop app.\n\n📊@tech",
