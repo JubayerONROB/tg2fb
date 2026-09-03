@@ -1,45 +1,5 @@
 [
   {
-    "type": "video",
-    "video_file_id": "BAACAgQAAyEFAAMBClOLWAACAltqk6LzkDaNVwtFebbyn_9pD2JThAACMSUAAvBXmVCIbiNg4YZepz0E",
-    "video_file_size": 7572774,
-    "caption": "🗣Jensen Huang just rejected Bill Gates' AI warning on live TV.\n\nThe Nvidia CEO says he's \"in favor of taxes\" but shot down the Microsoft co-founder's plan to tax AI tokens.\n\n\"I love the heck out of Bill, but I don't see what he sees.\"\n\n@aipost 🏴",
-    "entities": [
-      {
-        "offset": 0,
-        "length": 2,
-        "type": "custom_emoji",
-        "custom_emoji_id": "5287468155738821335"
-      },
-      {
-        "offset": 2,
-        "length": 61,
-        "type": "bold"
-      },
-      {
-        "offset": 237,
-        "length": 7,
-        "type": "text_link",
-        "url": "https://t.me/aipost"
-      },
-      {
-        "offset": 245,
-        "length": 2,
-        "type": "custom_emoji",
-        "custom_emoji_id": "5431390559912614642"
-      }
-    ],
-    "media_group_id": null,
-    "chat_id": -1004468214616,
-    "message_ids": [
-      603
-    ],
-    "update_ids": [
-      378304496
-    ],
-    "retry_count": 0
-  },
-  {
     "type": "photo",
     "photo_file_ids": [
       "AgACAgIAAyEFAAMBClOLWAACAlxqk8JG4ZSPb6UwptaAW21ckjkHhAACqSBrG-hloEij-06Qj82TwQEAAwIAA3kAAz0E"
@@ -1763,6 +1723,219 @@
     "update_ids": [
       378304537,
       378304538
+    ],
+    "retry_count": 0
+  },
+  {
+    "type": "album",
+    "photo_file_ids": [
+      "AgACAgQAAyEFAAMBClOLWAACAodqmRx-tG78-DFXpqVbG2gxpiycxQACCRBrGzXhwVDoaZtZs8ZdDQEAAwIAA3gAAz0E",
+      "AgACAgQAAyEFAAMBClOLWAACAohqmRx-jrrzJb5mgb2ftYLE-ftLQwACChBrGzXhwVAwhghBYa36SwEAAwIAA3kAAz0E"
+    ],
+    "caption": "❗️Google engineer Linwei Ding convicted in the FIRST AI espionage case in US history.\n\nHe stole 2,000+ pages of Google's most secret AI chip blueprints while secretly building a Chinese startup to REPLICATE Google's AI infrastructure.\n\nThe judge threw out ALL seven espionage charges, calling him \"disorganized and feeble\" rather than a spy.\n\nHe still faces seven trade secret theft counts, each carrying up to 10 years.\n\n@aipost 🏴",
+    "entities": [
+      {
+        "offset": 0,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5289761612440310918"
+      },
+      {
+        "offset": 2,
+        "length": 83,
+        "type": "bold"
+      },
+      {
+        "offset": 422,
+        "length": 7,
+        "type": "text_link",
+        "url": "https://t.me/aipost"
+      },
+      {
+        "offset": 430,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5431390559912614642"
+      }
+    ],
+    "media_group_id": "14307353590676165",
+    "chat_id": -1004468214616,
+    "message_ids": [
+      647,
+      648
+    ],
+    "update_ids": [
+      378304539,
+      378304540
+    ],
+    "retry_count": 0
+  },
+  {
+    "type": "photo",
+    "photo_file_ids": [
+      "AgACAgIAAyEFAAMBClOLWAACAolqmRyLuuHtLXymu9Ufhuc79SFSQAACFSJrG6_IwUjJkNh_HRp69wEAAwIAA3kAAz0E"
+    ],
+    "caption": "Gemini 3.8 Flash has been released, offering notable improvements in several key benchmarks.\n\nOn the HLE-Verified test, Gemini 3.8 Flash achieved a score of 54.9%, slightly ahead of Claude Opus 5, which scored 54.4%. In the Terminal-Bench 2.1 evaluation—focused on task completion within coding, security, machine learning, data science, and systems—Gemini 3.8 Flash reached an 89.4% completion rate.\n\nIn Harvey's Legal Agent Benchmark, Gemini 3.8 Flash recorded a 10.0% score, compared to Opus 5's 6.7%. This benchmark employs a strict all-pass rule, granting credit only when every legal criterion is met, including factual accuracy, structure, and analysis within complex legal workflows.\n\nGoogle has maintained the token price. However, Gemini 3.8 Flash may use more tokens on challenging tasks, potentially increasing total costs.\n\n📰 @aipost",
+    "entities": [
+      {
+        "offset": 837,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5363988332466438547"
+      },
+      {
+        "offset": 840,
+        "length": 7,
+        "type": "mention"
+      }
+    ],
+    "media_group_id": null,
+    "chat_id": -1004468214616,
+    "message_ids": [
+      649
+    ],
+    "update_ids": [
+      378304541
+    ],
+    "retry_count": 0
+  },
+  {
+    "type": "photo",
+    "photo_file_ids": [
+      "AgACAgQAAyEFAAMBClOLWAACAopqmRyZAr9qn074VEWIQPWlXRftaQACaw9rGzXhyVA-81DK-T6LZwEAAwIAA3kAAz0E"
+    ],
+    "caption": "Ⓜ️ Meta released Muse Spark 1.3\n\nThe newest AI model from Meta Superintelligence Labs outperforms GPT-5.6 Sol, Claude Opus 5, and Claude Fable 5.1 on DeepSWE v1.1\n\n@aipost 🏴",
+    "entities": [
+      {
+        "offset": 0,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5431901622366124338"
+      },
+      {
+        "offset": 3,
+        "length": 28,
+        "type": "bold"
+      },
+      {
+        "offset": 164,
+        "length": 7,
+        "type": "text_link",
+        "url": "https://t.me/aipost"
+      },
+      {
+        "offset": 172,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5431390559912614642"
+      }
+    ],
+    "media_group_id": null,
+    "chat_id": -1004468214616,
+    "message_ids": [
+      650
+    ],
+    "update_ids": [
+      378304542
+    ],
+    "retry_count": 0
+  },
+  {
+    "type": "video",
+    "video_file_id": "BAACAgQAAyEFAAMBClOLWAACAotqmRyypxIhi6dfwAlrScw_NL5g3AAC6B0AAjXhwVB3yn8vCKcSzD0E",
+    "video_file_size": 23169040,
+    "caption": "🥺 Sam Altman: “A year ago, I did not think we were on a short-term trajectory to superintelligence. Now I think it may happen.”\n\n“I’m not confident it’s going to happen. We’re just making extremely fast progress.”\n\n@aipost 🏴",
+    "entities": [
+      {
+        "offset": 0,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5291894093767542370"
+      },
+      {
+        "offset": 216,
+        "length": 7,
+        "type": "text_link",
+        "url": "https://t.me/aipost"
+      },
+      {
+        "offset": 224,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5431390559912614642"
+      }
+    ],
+    "media_group_id": null,
+    "chat_id": -1004468214616,
+    "message_ids": [
+      651
+    ],
+    "update_ids": [
+      378304543
+    ],
+    "retry_count": 0
+  },
+  {
+    "type": "album",
+    "photo_file_ids": [
+      "AgACAgIAAyEFAAMBClOLWAACAoxqmRy8GTINwSRYd5YKOdylO7nvMQACch5rG5xuyUh8y7FnxY3bMQEAAwIAA3kAAz0E",
+      "AgACAgIAAyEFAAMBClOLWAACAo1qmRy8hx5rnbXM8L6N4UeEWdFqmgACcR5rG5xuyUhStyD2wiWQwAEAAwIAA3gAAz0E",
+      "AgACAgIAAyEFAAMBClOLWAACAo5qmRy8hCfXbrxQT4r_khTb4uLnLQACcx5rG5xuyUgv3kTGWmHnvQEAAwIAA3gAAz0E"
+    ],
+    "caption": "The U.S. government has formally supported OpenAI’s central argument in its copyright dispute with The New York Times, stating that training AI models on copyrighted materials alone does not breach copyright law.\n\nIn its filed statement, the Department of Justice argued that training large language models (LLMs) on copyrighted texts is “transformative” and fits within fair use doctrine. The DOJ separated the issues of data acquisition, training, and output generation, focusing specifically on model training as a non-infringing act.\n\nThe document highlights potential national security risks and competitive disadvantages if U.S. AI development faces excessive copyright restrictions. The filing is advisory and does not bind the court, which must assess fair use on a case-by-case basis.\n\n📰 @aipost",
+    "entities": [
+      {
+        "offset": 795,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5363988332466438547"
+      },
+      {
+        "offset": 798,
+        "length": 7,
+        "type": "mention"
+      }
+    ],
+    "media_group_id": "14307354087153813",
+    "chat_id": -1004468214616,
+    "message_ids": [
+      652,
+      653,
+      654
+    ],
+    "update_ids": [
+      378304544,
+      378304545,
+      378304546
+    ],
+    "retry_count": 0
+  },
+  {
+    "type": "photo",
+    "photo_file_ids": [
+      "AgACAgIAAyEFAAMBClOLWAACAo9qmT-ikx3nST6KCwNVrk8scdjBqgACOyBrGx9ryEhUpj0kMx2-OgEAAwIAA3gAAz0E"
+    ],
+    "caption": "New York City has decided to pause student-facing generative AI tools in public schools through eighth grade.\n\nThis moratorium impacts almost 600,000 students, eliminating the use of generative AI and related chatbots in those grades. It also prohibits the use of companion chatbots for students at all grade levels.\n\nFor high school students, the approach is more limited. Up to 50,000 students will be able to participate in five pilot programs supervised by teachers. Additionally, all high schoolers will receive AI literacy classes twice a year.\n\nPreviously, New York City public schools temporarily banned ChatGPT shortly after its release in 2022, before later adopting a custom AI teaching assistant.\n\nA randomized Harvard study found that college students using a purpose-built AI tutor achieved greater learning gains than those in a traditional active-learning classroom, often with less time spent.\n\n📰 @aipost",
+    "entities": [
+      {
+        "offset": 912,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5363988332466438547"
+      },
+      {
+        "offset": 915,
+        "length": 7,
+        "type": "mention"
+      }
+    ],
+    "media_group_id": null,
+    "chat_id": -1004468214616,
+    "message_ids": [
+      655
+    ],
+    "update_ids": [
+      378304547
     ],
     "retry_count": 0
   }
