@@ -2,35 +2,6 @@
   {
     "type": "photo",
     "photo_file_ids": [
-      "AgACAgIAAyEFAAMBClOLWAACAlxqk8JG4ZSPb6UwptaAW21ckjkHhAACqSBrG-hloEij-06Qj82TwQEAAwIAA3kAAz0E"
-    ],
-    "caption": "Sam Altman has indicated that artificial general intelligence could arrive by the end of this year.\n\nHowever, key figures at OpenAI continue to project a timeline of five to ten years for AGI development. Some suggest even two years is a significant duration under current progress rates.\n\nExisting OpenAI models have demonstrated their ability to assist with chip design, as highlighted by their involvement in the Jalapeño project.\n\nThese differing timelines underscore a continuing debate within the organization about the expected arrival of AGI.\n\n📰 @aipost",
-    "entities": [
-      {
-        "offset": 552,
-        "length": 2,
-        "type": "custom_emoji",
-        "custom_emoji_id": "5363988332466438547"
-      },
-      {
-        "offset": 555,
-        "length": 7,
-        "type": "mention"
-      }
-    ],
-    "media_group_id": null,
-    "chat_id": -1004468214616,
-    "message_ids": [
-      604
-    ],
-    "update_ids": [
-      378304497
-    ],
-    "retry_count": 0
-  },
-  {
-    "type": "photo",
-    "photo_file_ids": [
       "AgACAgIAAyEFAAMBClOLWAACAl1qk_D0FbbihBXwVCbTIk01VFde1wACfRtrG-9XmEhuIqSx3fA1mQEAAwIAA3cAAz0E"
     ],
     "caption": "🤖 OpenAI to cut Cursor off from its models\n\nOpenAI told SpaceX it will terminate Cursor’s contract and plans to disable access to its models on 12 November 2026. Until then, Cursor users can continue using them. The models currently handle about 5% of Cursor traffic.\n\nOpenAI says it cannot confirm compliance with its terms after Cursor came under SpaceX control, citing earlier breaches by Elon Musk’s companies. It also will not provide future models, including Astra.\n\nCursor’s CEO says the company is negotiating with OpenAI. Cursor had worked with OpenAI for nearly 4 years and relied on its platform as neutral infrastructure.\n\n📊@tech",
