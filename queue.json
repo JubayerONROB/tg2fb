@@ -1,46 +1,6 @@
 [
   {
     "type": "video",
-    "video_file_id": "BAACAgQAAyEFAAMBClOLWAACAmFqlJbMH6qRNWs4ebCuLaTiPVLfAgACaycAAvBXoVAMgrGvXLGNFT0E",
-    "video_file_size": 8617316,
-    "caption": "🎬 Google launches Gemini Omni 1.1 Flash\n\nGoogle has finally made Gemini Omni 1.1 Flash generally available and it comes with a big upgrade for video generation.\n\nThe model can now extend videos in 10-second chunks up to 40 seconds. Even better, it analyzes the last 10 seconds of the existing footage instead of relying only on the final second, which should make transitions much smoother.\n\n@aipost 🏴",
-    "entities": [
-      {
-        "offset": 0,
-        "length": 2,
-        "type": "custom_emoji",
-        "custom_emoji_id": "5368653135101310687"
-      },
-      {
-        "offset": 2,
-        "length": 38,
-        "type": "bold"
-      },
-      {
-        "offset": 393,
-        "length": 7,
-        "type": "text_link",
-        "url": "https://t.me/aipost"
-      },
-      {
-        "offset": 401,
-        "length": 2,
-        "type": "custom_emoji",
-        "custom_emoji_id": "5431390559912614642"
-      }
-    ],
-    "media_group_id": null,
-    "chat_id": -1004468214616,
-    "message_ids": [
-      609
-    ],
-    "update_ids": [
-      378304502
-    ],
-    "retry_count": 0
-  },
-  {
-    "type": "video",
     "video_file_id": "BAACAgQAAyEFAAMBClOLWAACAmJqlTqY1QFQdhI9MO_09aJQjTzfJgACmycAAvBXoVDlU9EluGyL2j0E",
     "video_file_size": 14097700,
     "caption": "🗣 Fields Medalist Terence Tao:\n\n\"AI lets us create scientific output much faster, but it could come at the cost of nurturing the next generation of scientists\"\n\nIf AIs replace grad students, they may produce grad-student-level papers, but we risk losing the next generation of scientists.\n\n@aipost 🏴",
@@ -1751,6 +1711,374 @@
     "update_ids": [
       378304550,
       378304551
+    ],
+    "retry_count": 0
+  },
+  {
+    "type": "photo",
+    "photo_file_ids": [
+      "AgACAgIAAyEFAAMBClOLWAACApRqmoRxRNPi2ARH9sS_YNm9IXH7IwAC0iJrGxf-wEgj4C7GkL6dTwEAAwIAA3gAAz0E"
+    ],
+    "caption": "🎧 MiPAL Sends Sound in a Narrow Beam\n\nResearchers at POSTECH built MiPAL, a parametric speaker with one emitter and 2 metamaterial layers. A front acoustic metasurface focuses ultrasound, while elastic metacells suppress vibrations that would spread audio sideways.\n\nMiPAL modulates an ultrasonic wave with an audio signal, using nonlinear behavior in air to send sound along a narrow path. Tests in a mock aircraft cabin covered 500 Hz to 10 kHz, while the adjacent seat stayed quiet.\n\nThe modules are 3D-printed, so the design can be adapted to seat spacing, beam angle, or other conditions. Possible uses include personal announcements on planes and audio guides at museum displays.\n\n📊@tech",
+    "entities": [
+      {
+        "offset": 0,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5212941939053175244"
+      },
+      {
+        "offset": 3,
+        "length": 34,
+        "type": "bold"
+      },
+      {
+        "offset": 54,
+        "length": 7,
+        "type": "bold"
+      },
+      {
+        "offset": 68,
+        "length": 5,
+        "type": "bold"
+      },
+      {
+        "offset": 101,
+        "length": 11,
+        "type": "bold"
+      },
+      {
+        "offset": 117,
+        "length": 21,
+        "type": "bold"
+      },
+      {
+        "offset": 142,
+        "length": 45,
+        "type": "bold"
+      },
+      {
+        "offset": 195,
+        "length": 37,
+        "type": "bold"
+      },
+      {
+        "offset": 274,
+        "length": 49,
+        "type": "bold"
+      },
+      {
+        "offset": 431,
+        "length": 16,
+        "type": "bold"
+      },
+      {
+        "offset": 459,
+        "length": 26,
+        "type": "bold"
+      },
+      {
+        "offset": 504,
+        "length": 10,
+        "type": "bold"
+      },
+      {
+        "offset": 537,
+        "length": 35,
+        "type": "bold"
+      },
+      {
+        "offset": 688,
+        "length": 2,
+        "type": "bold"
+      },
+      {
+        "offset": 688,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5449841756596101801"
+      },
+      {
+        "offset": 690,
+        "length": 5,
+        "type": "mention"
+      },
+      {
+        "offset": 690,
+        "length": 5,
+        "type": "bold"
+      }
+    ],
+    "media_group_id": null,
+    "chat_id": -1004468214616,
+    "message_ids": [
+      660
+    ],
+    "update_ids": [
+      378304552
+    ],
+    "retry_count": 0
+  },
+  {
+    "type": "video",
+    "video_file_id": "BAACAgIAAyEFAAMBClOLWAACApVqmoS1RlbzN1AmF3s-oyKxwEmalwACIp8AAlDDwUim2P68WFDVPD0E",
+    "video_file_size": 30351578,
+    "caption": "📍 World Labs Unveils 3D Model Atlas\n\nAtlas reconstructs a surrounding space in 3D from text or visual files. Users can then move the camera and change the view while the scene geometry stays intact.\n\nWith several photos, it builds a complete 3D space. From one image, it can infer hidden parts, while more source frames improve accuracy. Atlas also generates controllable video up to 1 minute in 1440p, with the camera path set directly. The same system can turn footage of a real room into a simulation for robot training.\n\nAtlas is currently available only to early-access partners. It will later serve as the basis for new versions of Marble and other World Labs products.\n\n📊@tech",
+    "entities": [
+      {
+        "offset": 0,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5361621449004043977"
+      },
+      {
+        "offset": 3,
+        "length": 33,
+        "type": "bold"
+      },
+      {
+        "offset": 38,
+        "length": 5,
+        "type": "bold"
+      },
+      {
+        "offset": 80,
+        "length": 2,
+        "type": "bold"
+      },
+      {
+        "offset": 125,
+        "length": 15,
+        "type": "bold"
+      },
+      {
+        "offset": 171,
+        "length": 14,
+        "type": "bold"
+      },
+      {
+        "offset": 206,
+        "length": 14,
+        "type": "bold"
+      },
+      {
+        "offset": 234,
+        "length": 17,
+        "type": "bold"
+      },
+      {
+        "offset": 385,
+        "length": 8,
+        "type": "bold"
+      },
+      {
+        "offset": 397,
+        "length": 5,
+        "type": "bold"
+      },
+      {
+        "offset": 413,
+        "length": 24,
+        "type": "bold"
+      },
+      {
+        "offset": 509,
+        "length": 14,
+        "type": "bold"
+      },
+      {
+        "offset": 526,
+        "length": 5,
+        "type": "bold"
+      },
+      {
+        "offset": 563,
+        "length": 21,
+        "type": "bold"
+      },
+      {
+        "offset": 639,
+        "length": 6,
+        "type": "bold"
+      },
+      {
+        "offset": 678,
+        "length": 2,
+        "type": "bold"
+      },
+      {
+        "offset": 678,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5449841756596101801"
+      },
+      {
+        "offset": 680,
+        "length": 5,
+        "type": "mention"
+      },
+      {
+        "offset": 680,
+        "length": 5,
+        "type": "bold"
+      }
+    ],
+    "media_group_id": null,
+    "chat_id": -1004468214616,
+    "message_ids": [
+      661
+    ],
+    "update_ids": [
+      378304553
+    ],
+    "retry_count": 0
+  },
+  {
+    "type": "video",
+    "video_file_id": "BAACAgIAAyEFAAMBClOLWAACApZqmoS_cQUBAmARZQrz1S5xpQL26gAC9qAAAnh7wEjLFCiFhN55Iz0E",
+    "video_file_size": 8274677,
+    "caption": "🗣️ A Man Broke AI Recruiters\n\nHe gives absurd answers to routine interview questions, and the recruiter treats them as normal. Asked about salary, he mentions a sideways drill bit in the first quarter.\n\nThe AI turns that into a question about horizontal drill diameters, then thanks him for sharing his expectations. That is how to behave around neuro-HR.\n\n📊@tech",
+    "entities": [
+      {
+        "offset": 0,
+        "length": 3,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5316756151910546445"
+      },
+      {
+        "offset": 4,
+        "length": 25,
+        "type": "bold"
+      },
+      {
+        "offset": 40,
+        "length": 14,
+        "type": "bold"
+      },
+      {
+        "offset": 160,
+        "length": 41,
+        "type": "bold"
+      },
+      {
+        "offset": 244,
+        "length": 26,
+        "type": "bold"
+      },
+      {
+        "offset": 347,
+        "length": 8,
+        "type": "bold"
+      },
+      {
+        "offset": 358,
+        "length": 2,
+        "type": "bold"
+      },
+      {
+        "offset": 358,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5449841756596101801"
+      },
+      {
+        "offset": 360,
+        "length": 5,
+        "type": "mention"
+      },
+      {
+        "offset": 360,
+        "length": 5,
+        "type": "bold"
+      }
+    ],
+    "media_group_id": null,
+    "chat_id": -1004468214616,
+    "message_ids": [
+      662
+    ],
+    "update_ids": [
+      378304554
+    ],
+    "retry_count": 0
+  },
+  {
+    "type": "photo",
+    "photo_file_ids": [
+      "AgACAgIAAyEFAAMBClOLWAACApdqmoTJ57B6yz6sZTMS-p_EH2BlbgACBhprGxEn0Ej3Ei2kjqKntwEAAwIAA3gAAz0E"
+    ],
+    "caption": "🤖 Astra Posts 98% on ARC-AGI-3\n\nOpenAI’s new model scored 98% on ARC-AGI-3, a difficult abstract-reasoning test. It reached 100% on ExploitBench, which measures vulnerability discovery and exploitation.\n\nAstra also shows gains in coding and advanced math, plus science and CAD. OpenAI is testing it as an agent that can execute long action chains. Its cyber capabilities led to tighter safety limits before release.\n\nSome results come from OpenAI’s own agent system, making direct comparisons with other models difficult. GPT-6 Astra will first be available to organizations in Daybreak Access, then to Plus and Pro, Business and Enterprise users in the next few days.\n\n📊@tech",
+    "entities": [
+      {
+        "offset": 0,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5442988908642050809"
+      },
+      {
+        "offset": 3,
+        "length": 28,
+        "type": "bold"
+      },
+      {
+        "offset": 59,
+        "length": 16,
+        "type": "bold"
+      },
+      {
+        "offset": 125,
+        "length": 20,
+        "type": "bold"
+      },
+      {
+        "offset": 321,
+        "length": 26,
+        "type": "bold"
+      },
+      {
+        "offset": 379,
+        "length": 36,
+        "type": "bold"
+      },
+      {
+        "offset": 579,
+        "length": 15,
+        "type": "bold"
+      },
+      {
+        "offset": 655,
+        "length": 13,
+        "type": "bold"
+      },
+      {
+        "offset": 671,
+        "length": 2,
+        "type": "bold"
+      },
+      {
+        "offset": 671,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5449841756596101801"
+      },
+      {
+        "offset": 673,
+        "length": 5,
+        "type": "mention"
+      },
+      {
+        "offset": 673,
+        "length": 5,
+        "type": "bold"
+      }
+    ],
+    "media_group_id": null,
+    "chat_id": -1004468214616,
+    "message_ids": [
+      663
+    ],
+    "update_ids": [
+      378304555
     ],
     "retry_count": 0
   }
