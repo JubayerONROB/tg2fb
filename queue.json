@@ -1,52 +1,5 @@
 [
   {
-    "type": "photo",
-    "photo_file_ids": [
-      "AgACAgQAAyEFAAMBClOLWAACAmBqlFDRfS69y2SbsqFKsG61dinJ4QACDBZrG_BXoVB8hF1RlLTjjwEAAwIAA3kAAz0E"
-    ],
-    "caption": "🎓 MIT warns: AI can now do most college assignments\n\nMIT researchers warn that modern AI can now credibly complete most undergraduate assignments, from essays and research tasks to technical problem sets and other coursework.\n\nThe work can look good enough to pass as a student’s own.\n\nThat creates a huge problem for universities. If an AI can complete the assignment without breaking a sweat, a high grade may no longer tell professors whether a student actually understands the material.\n\nMIT says universities may need to rethink how they assess students, potentially shifting toward oral exams, in-person work, portfolios and other ways of testing genuine understanding.\n\nSource.\n\n@aipost 🏴",
-    "entities": [
-      {
-        "offset": 0,
-        "length": 2,
-        "type": "custom_emoji",
-        "custom_emoji_id": "5258334872878980409"
-      },
-      {
-        "offset": 3,
-        "length": 49,
-        "type": "bold"
-      },
-      {
-        "offset": 678,
-        "length": 6,
-        "type": "text_link",
-        "url": "https://www.washingtonpost.com/education/2026/08/25/ai-can-now-credibly-complete-most-undergraduate-assignments-mit-warns/"
-      },
-      {
-        "offset": 687,
-        "length": 7,
-        "type": "text_link",
-        "url": "https://t.me/aipost"
-      },
-      {
-        "offset": 695,
-        "length": 2,
-        "type": "custom_emoji",
-        "custom_emoji_id": "5431390559912614642"
-      }
-    ],
-    "media_group_id": null,
-    "chat_id": -1004468214616,
-    "message_ids": [
-      608
-    ],
-    "update_ids": [
-      378304501
-    ],
-    "retry_count": 0
-  },
-  {
     "type": "video",
     "video_file_id": "BAACAgQAAyEFAAMBClOLWAACAmFqlJbMH6qRNWs4ebCuLaTiPVLfAgACaycAAvBXoVAMgrGvXLGNFT0E",
     "video_file_size": 8617316,
