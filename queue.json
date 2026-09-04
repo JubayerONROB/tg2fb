@@ -1,22 +1,6 @@
 [
   {
     "type": "video",
-    "video_file_id": "BAACAgQAAyEFAAMBClOLWAACAmRqlTqi6TrFoLX0fp5CmifjlOyUQAACfScAAvBXoVD4nosztIWcsz0E",
-    "video_file_size": 2483438,
-    "caption": "",
-    "entities": [],
-    "media_group_id": "14305318161710797",
-    "chat_id": -1004468214616,
-    "message_ids": [
-      612
-    ],
-    "update_ids": [
-      378304505
-    ],
-    "retry_count": 0
-  },
-  {
-    "type": "video",
     "video_file_id": "BAACAgQAAyEFAAMBClOLWAACAmVqlTqoJycUjzNylCta4cupGkbxqAACoCcAAvBXoVAptK3JvwzM7z0E",
     "video_file_size": 8377835,
     "caption": "🔥 AI can now generate video FASTER than you can watch it.\n\nAn engineer hooked the new H3 Max model to a livestream, creating an endless AI TV channel that generates 15 seconds of video in just 9 seconds.\n\nThe stream was banned on Twitch, then banned on Kick, and is now running on Rumble.\n\n@aipost 🏴",
@@ -2536,6 +2520,35 @@
     "update_ids": [
       378304567,
       378304568
+    ],
+    "retry_count": 0
+  },
+  {
+    "type": "photo",
+    "photo_file_ids": [
+      "AgACAgIAAyEFAAMBClOLWAACAqVqmxslxEDpQUBLFgFi_s0mhgXZqQACVSBrG7xL2Ugz4LD3rT2vnAEAAwIAA3kAAz0E"
+    ],
+    "caption": "Researchers at Oak Ridge have developed an AI-based system capable of manipulating materials at the atomic level. This system autonomously arranges individual molecules and constructs custom structures atom by atom.\n\nDuring a continuous 25-hour experiment, the AI assembled a synthetic graphene lattice made up of 37 molecules. The resulting structure displayed electronic properties as anticipated.\n\nThe long-term objective is to enable inverse material design: specifying desired properties and having the AI determine and create the necessary atomic arrangement.\n\n📰 @aipost",
+    "entities": [
+      {
+        "offset": 567,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5363988332466438547"
+      },
+      {
+        "offset": 570,
+        "length": 7,
+        "type": "mention"
+      }
+    ],
+    "media_group_id": null,
+    "chat_id": -1004468214616,
+    "message_ids": [
+      677
+    ],
+    "update_ids": [
+      378304569
     ],
     "retry_count": 0
   }
