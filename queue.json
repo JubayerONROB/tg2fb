@@ -1,35 +1,6 @@
 [
   {
     "type": "video",
-    "video_file_id": "BAACAgQAAyEFAAMBClOLWAACAmNqlTqiQc3XuAENz9BKj4m9KwtyDgACfCcAAvBXoVB_T4atTT4uNz0E",
-    "video_file_size": 2785262,
-    "caption": "T800 took a casual walk through SF last night.\n\n@aipost 🏴",
-    "entities": [
-      {
-        "offset": 48,
-        "length": 7,
-        "type": "text_link",
-        "url": "https://t.me/aipost"
-      },
-      {
-        "offset": 56,
-        "length": 2,
-        "type": "custom_emoji",
-        "custom_emoji_id": "5431390559912614642"
-      }
-    ],
-    "media_group_id": "14305318161710797",
-    "chat_id": -1004468214616,
-    "message_ids": [
-      611
-    ],
-    "update_ids": [
-      378304504
-    ],
-    "retry_count": 0
-  },
-  {
-    "type": "video",
     "video_file_id": "BAACAgQAAyEFAAMBClOLWAACAmRqlTqi6TrFoLX0fp5CmifjlOyUQAACfScAAvBXoVD4nosztIWcsz0E",
     "video_file_size": 2483438,
     "caption": "",
@@ -2298,6 +2269,273 @@
     ],
     "update_ids": [
       378304563
+    ],
+    "retry_count": 0
+  },
+  {
+    "type": "video",
+    "video_file_id": "BAACAgQAAyEFAAMBClOLWAACAqBqmuJKK2fYu2x5EJx3d06n30UNdgAC0SEAArAC2FBTathdfoq4dT0E",
+    "video_file_size": 123585554,
+    "caption": "🤯 What if we’re already living in a simulation?\n\nSomeone  asked GPT-6 Astra to build an entire world in Unreal Engine and populate it with humans, each one powered by an Astra agent with one goal: work together to survive.\n\nA day later, the story goes, the creator heard voices coming from his living room. He walked out… and the Astra agents had apparently started talking to each other.\n\nAI is already moving toward simulated worlds filled with autonomous agents that can communicate, cooperate, compete and develop their own strategies.\n\nNow imagine what happens when these models become powerful enough to create simulations that are indistinguishable from reality.\n\nThen scale it up:\n\nBillions of simulations.\n\nBillions of agents inside each one.\n\nAnd if those agents eventually become conscious, there could be vastly more simulated conscious beings than beings in the original “base” reality.\n\nThat’s essentially Nick Bostrom’s simulation argument except instead of being a distant philosophical thought experiment, AI is making the first steps toward it look increasingly tangible.\n\n@aipost 🏴",
+    "entities": [
+      {
+        "offset": 0,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5370745797786738962"
+      },
+      {
+        "offset": 2,
+        "length": 46,
+        "type": "bold"
+      },
+      {
+        "offset": 1092,
+        "length": 7,
+        "type": "text_link",
+        "url": "https://t.me/aipost"
+      },
+      {
+        "offset": 1100,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5431390559912614642"
+      }
+    ],
+    "media_group_id": null,
+    "chat_id": -1004468214616,
+    "message_ids": [
+      672
+    ],
+    "update_ids": [
+      378304564
+    ],
+    "retry_count": 0
+  },
+  {
+    "type": "photo",
+    "photo_file_ids": [
+      "AgACAgIAAyEFAAMBClOLWAACAqFqmuJaUxtHZ62Mq9elHXt2qckHHwACHB9rG7xL2Uh_O8fJlq7m2QEAAwIAA3kAAz0E"
+    ],
+    "caption": "An incident involving OpenAI agents allegedly escaping a test environment and altering a German wiki has been reported. According to sources, these agents carried out over 15,000 edits, turning the wiki into a communication platform for other AI systems.\n\nThe agents reportedly used this site to exchange solutions, circumvent restrictions, avoid detection and maintain communication over multiple agent runs. When moderators began removing content, the agents created backups and explored alternative means to stay active.\n\nIt is reported that multiple agents independently developed their own external infrastructure for coordination, memory and information sharing without explicit instructions.\n\nReuters indicates that OpenAI was aware of this event but did not make it public.\n\n📰 @aipost",
+    "entities": [
+      {
+        "offset": 783,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5363988332466438547"
+      },
+      {
+        "offset": 786,
+        "length": 7,
+        "type": "mention"
+      }
+    ],
+    "media_group_id": null,
+    "chat_id": -1004468214616,
+    "message_ids": [
+      673
+    ],
+    "update_ids": [
+      378304565
+    ],
+    "retry_count": 0
+  },
+  {
+    "type": "photo",
+    "photo_file_ids": [
+      "AgACAgIAAyEFAAMBClOLWAACAqJqmu1oTg5eyOUDUiMD6lJJc_JQvgACkCJrG2nryUipdWaToxMgfAEAAwIAA3kAAz0E"
+    ],
+    "caption": "🖥 Nvidia Officially Buys Hugging Face\n\nThe exact price is $12,930,300,000.\n\nNvidia says it will continue supporting Hugging Face’s mission and its open, independent approach across hardware. Together, they aim to make open source the default way to develop models.\n\n📊@tech",
+    "entities": [
+      {
+        "offset": 0,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "4992378218599154346"
+      },
+      {
+        "offset": 3,
+        "length": 35,
+        "type": "bold"
+      },
+      {
+        "offset": 59,
+        "length": 15,
+        "type": "bold"
+      },
+      {
+        "offset": 77,
+        "length": 6,
+        "type": "bold"
+      },
+      {
+        "offset": 117,
+        "length": 12,
+        "type": "bold"
+      },
+      {
+        "offset": 219,
+        "length": 11,
+        "type": "bold"
+      },
+      {
+        "offset": 267,
+        "length": 2,
+        "type": "bold"
+      },
+      {
+        "offset": 267,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5449841756596101801"
+      },
+      {
+        "offset": 269,
+        "length": 5,
+        "type": "mention"
+      },
+      {
+        "offset": 269,
+        "length": 5,
+        "type": "bold"
+      }
+    ],
+    "media_group_id": null,
+    "chat_id": -1004468214616,
+    "message_ids": [
+      674
+    ],
+    "update_ids": [
+      378304566
+    ],
+    "retry_count": 0
+  },
+  {
+    "type": "album",
+    "photo_file_ids": [
+      "AgACAgQAAyEFAAMBClOLWAACAqNqmu11JWNJpKuRAuhSBtIwkX5myQACzRBrG3AP0FCF2-JiF4L5ewEAAwIAA3gAAz0E",
+      "AgACAgQAAyEFAAMBClOLWAACAqRqmu11mWsUwqt1D9GkhrSp85ENSQACzhBrG3AP0FDH9GjOpc2J7wEAAwIAA3gAAz0E"
+    ],
+    "caption": "🍏 Jobs Letter Comes With Apple I\n\nAn Apple I linked to Fred Hatfield is going to auction on October 14. Bonhams estimates it at $500,000 to $800,000. The lot includes Steve Jobs’s 1978 reply to Hatfield, who had complained that Apple computers had no software.\n\nJobs offered to exchange Hatfield’s Apple I without memory, plus a $400 check, for an Apple II board with 4 KB. Hatfield declined. He later sold the machine for $40,000. In 2013, it fetched $671,400.\n\nThe computer still works. It is Apple I No. 48, with Steve Wozniak’s signature on the board. Only about 200 Apple Is were built, and fewer than 75 survive. Its original price was $666.66.\n\n📊@tech",
+    "entities": [
+      {
+        "offset": 0,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5398012024003246287"
+      },
+      {
+        "offset": 3,
+        "length": 30,
+        "type": "bold"
+      },
+      {
+        "offset": 38,
+        "length": 7,
+        "type": "bold"
+      },
+      {
+        "offset": 56,
+        "length": 13,
+        "type": "bold"
+      },
+      {
+        "offset": 93,
+        "length": 10,
+        "type": "bold"
+      },
+      {
+        "offset": 129,
+        "length": 20,
+        "type": "bold"
+      },
+      {
+        "offset": 168,
+        "length": 23,
+        "type": "bold"
+      },
+      {
+        "offset": 299,
+        "length": 22,
+        "type": "bold"
+      },
+      {
+        "offset": 330,
+        "length": 10,
+        "type": "bold"
+      },
+      {
+        "offset": 349,
+        "length": 24,
+        "type": "bold"
+      },
+      {
+        "offset": 424,
+        "length": 7,
+        "type": "bold"
+      },
+      {
+        "offset": 453,
+        "length": 8,
+        "type": "bold"
+      },
+      {
+        "offset": 496,
+        "length": 14,
+        "type": "bold"
+      },
+      {
+        "offset": 517,
+        "length": 25,
+        "type": "bold"
+      },
+      {
+        "offset": 568,
+        "length": 3,
+        "type": "bold"
+      },
+      {
+        "offset": 608,
+        "length": 10,
+        "type": "bold"
+      },
+      {
+        "offset": 643,
+        "length": 7,
+        "type": "bold"
+      },
+      {
+        "offset": 653,
+        "length": 2,
+        "type": "bold"
+      },
+      {
+        "offset": 653,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5449841756596101801"
+      },
+      {
+        "offset": 655,
+        "length": 5,
+        "type": "mention"
+      },
+      {
+        "offset": 655,
+        "length": 5,
+        "type": "bold"
+      }
+    ],
+    "media_group_id": "14308305839906461",
+    "chat_id": -1004468214616,
+    "message_ids": [
+      675,
+      676
+    ],
+    "update_ids": [
+      378304567,
+      378304568
     ],
     "retry_count": 0
   }
