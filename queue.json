@@ -2,36 +2,6 @@
   {
     "type": "photo",
     "photo_file_ids": [
-      "AgACAgQAAyEFAAMBClOLWAACAm1qllyUOInBzSHsfpYDKJxNnR-rXgACNBBrG9nYsVAGpitJRvAEagEAAwIAA3gAAz0E"
-    ],
-    "caption": "President Trump releases a statement condemning the growing backlash against data centers in the US.\n\n\"If we kill the Golden Goose, you will only have yourselves to blame,\" Trump says.\n\n@aipost 🏴",
-    "entities": [
-      {
-        "offset": 186,
-        "length": 7,
-        "type": "text_link",
-        "url": "https://t.me/aipost"
-      },
-      {
-        "offset": 194,
-        "length": 2,
-        "type": "custom_emoji",
-        "custom_emoji_id": "5431390559912614642"
-      }
-    ],
-    "media_group_id": null,
-    "chat_id": -1004468214616,
-    "message_ids": [
-      621
-    ],
-    "update_ids": [
-      378304514
-    ],
-    "retry_count": 0
-  },
-  {
-    "type": "photo",
-    "photo_file_ids": [
       "AgACAgIAAyEFAAMBClOLWAACAm9qllyU_twUGaovJLdAt5NmJZUegAACOCVrG4kqsUhat2kkc1QXCAEAAwIAA3gAAz0E"
     ],
     "caption": "Remote job interviews face new challenges as AI-driven cheating, deepfakes, and use of stand-in interviewers undermine traditional identity verification practices.\n\nIn response, employers have introduced new measures. Candidates are now required to perform specific actions—such as moving their hands across their faces—to demonstrate their presence and identity on video calls.\n\nThese steps aim to address the increased difficulty in confirming candidate authenticity during remote recruitment processes. This trend reflects growing concerns among employers about verifying applicants in virtual environments.\n\n📰 @aipost",
