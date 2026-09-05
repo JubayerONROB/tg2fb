@@ -1,45 +1,5 @@
 [
   {
-    "type": "video",
-    "video_file_id": "BAACAgQAAyEFAAMBClOLWAACAmVqlTqoJycUjzNylCta4cupGkbxqAACoCcAAvBXoVAptK3JvwzM7z0E",
-    "video_file_size": 8377835,
-    "caption": "🔥 AI can now generate video FASTER than you can watch it.\n\nAn engineer hooked the new H3 Max model to a livestream, creating an endless AI TV channel that generates 15 seconds of video in just 9 seconds.\n\nThe stream was banned on Twitch, then banned on Kick, and is now running on Rumble.\n\n@aipost 🏴",
-    "entities": [
-      {
-        "offset": 0,
-        "length": 2,
-        "type": "custom_emoji",
-        "custom_emoji_id": "5363970504057191145"
-      },
-      {
-        "offset": 3,
-        "length": 55,
-        "type": "bold"
-      },
-      {
-        "offset": 291,
-        "length": 7,
-        "type": "text_link",
-        "url": "https://t.me/aipost"
-      },
-      {
-        "offset": 299,
-        "length": 2,
-        "type": "custom_emoji",
-        "custom_emoji_id": "5431390559912614642"
-      }
-    ],
-    "media_group_id": null,
-    "chat_id": -1004468214616,
-    "message_ids": [
-      613
-    ],
-    "update_ids": [
-      378304506
-    ],
-    "retry_count": 0
-  },
-  {
     "type": "photo",
     "photo_file_ids": [
       "AgACAgIAAyEFAAMBClOLWAACAmZqlTrSMZD7q7goy6H1W7vl3fx7TAAC7SVrGwlAaUj7ECpYCWpPAQEAAwIAA3kAAz0E"
