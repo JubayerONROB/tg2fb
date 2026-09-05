@@ -2917,5 +2917,45 @@
       378304508
     ],
     "retry_count": 0
+  },
+  {
+    "type": "video",
+    "video_file_id": "BAACAgQAAyEFAAMBClOLWAACAmhqlbq2Zj496MLWFB0Xby-wV5cAARMAAtAnAALwV6FQ-bNfWEtXOTU9BA",
+    "video_file_size": 30522196,
+    "caption": "🙃 ELON MUSK: AI’s next major bottleneck will be electricity.\n\n“A few years ago, I made a very obvious prediction, which is that the limitation on AI will be chips, and it's still chips kind of chips today, then it will be electrical equipment, because you need to take power at that might be at 300,000 volts, all the way down to 400 volts for the computer.\n\nSo you need to step down transformers and a lot of them and a lot of cabling and wiring and fuses. And it's a lot of transformers, essentially, and the electrical transformer industry is not used to big changes in demand. And then as we solve the transformer shortage, there will be the fundamental electricity generation shortage. We're getting there soon.”\n\n@aipost 🏴",
+    "entities": [
+      {
+        "offset": 0,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5289701946754633864"
+      },
+      {
+        "offset": 3,
+        "length": 58,
+        "type": "bold"
+      },
+      {
+        "offset": 720,
+        "length": 7,
+        "type": "text_link",
+        "url": "https://t.me/aipost"
+      },
+      {
+        "offset": 728,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5431390559912614642"
+      }
+    ],
+    "media_group_id": null,
+    "chat_id": -1004468214616,
+    "message_ids": [
+      616
+    ],
+    "update_ids": [
+      378304509
+    ],
+    "retry_count": 0
   }
 ]

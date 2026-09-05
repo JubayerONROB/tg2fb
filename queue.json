@@ -1,45 +1,5 @@
 [
   {
-    "type": "video",
-    "video_file_id": "BAACAgQAAyEFAAMBClOLWAACAmhqlbq2Zj496MLWFB0Xby-wV5cAARMAAtAnAALwV6FQ-bNfWEtXOTU9BA",
-    "video_file_size": 30522196,
-    "caption": "🙃 ELON MUSK: AI’s next major bottleneck will be electricity.\n\n“A few years ago, I made a very obvious prediction, which is that the limitation on AI will be chips, and it's still chips kind of chips today, then it will be electrical equipment, because you need to take power at that might be at 300,000 volts, all the way down to 400 volts for the computer.\n\nSo you need to step down transformers and a lot of them and a lot of cabling and wiring and fuses. And it's a lot of transformers, essentially, and the electrical transformer industry is not used to big changes in demand. And then as we solve the transformer shortage, there will be the fundamental electricity generation shortage. We're getting there soon.”\n\n@aipost 🏴",
-    "entities": [
-      {
-        "offset": 0,
-        "length": 2,
-        "type": "custom_emoji",
-        "custom_emoji_id": "5289701946754633864"
-      },
-      {
-        "offset": 3,
-        "length": 58,
-        "type": "bold"
-      },
-      {
-        "offset": 720,
-        "length": 7,
-        "type": "text_link",
-        "url": "https://t.me/aipost"
-      },
-      {
-        "offset": 728,
-        "length": 2,
-        "type": "custom_emoji",
-        "custom_emoji_id": "5431390559912614642"
-      }
-    ],
-    "media_group_id": null,
-    "chat_id": -1004468214616,
-    "message_ids": [
-      616
-    ],
-    "update_ids": [
-      378304509
-    ],
-    "retry_count": 0
-  },
-  {
     "type": "photo",
     "photo_file_ids": [
       "AgACAgQAAyEFAAMBClOLWAACAmlqlbrOHGN67JhkVTI7yKXZu1RguwACOhdrG_BXoVCp-kPcJsFlHAEAAwIAA3gAAz0E"
@@ -2499,6 +2459,81 @@
     "update_ids": [
       378304572,
       378304573
+    ],
+    "retry_count": 0
+  },
+  {
+    "type": "video",
+    "video_file_id": "BAACAgQAAyEFAAMBClOLWAACAqpqnAnBAUGvo7mfGkY0KfxKLgdPLwACJyMAAjOb2VCSZR6EkdcPZz0E",
+    "video_file_size": 4160067,
+    "caption": "This Neuralink patient is moving cursor and playing chess just by thinking. 🧠\n\n@aipost 🏴",
+    "entities": [
+      {
+        "offset": 76,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5237889595894414384"
+      },
+      {
+        "offset": 80,
+        "length": 7,
+        "type": "text_link",
+        "url": "https://t.me/aipost"
+      },
+      {
+        "offset": 88,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5431390559912614642"
+      }
+    ],
+    "media_group_id": null,
+    "chat_id": -1004468214616,
+    "message_ids": [
+      682
+    ],
+    "update_ids": [
+      378304574
+    ],
+    "retry_count": 0
+  },
+  {
+    "type": "video",
+    "video_file_id": "BAACAgQAAyEFAAMBClOLWAACAqtqnAnNTk2LTiSkmPTaMCq6O189CwACLCMAAjOb2VCWEn4EZFthUD0E",
+    "video_file_size": 30952603,
+    "caption": "🗣 OpenAI President Greg Brockman explains why Anthropic pulled ahead of OpenAI on ARR.\n\n(Anthropic at $65B and OpenAI is at $40B ARR)\n\n\"We focused late on coding in particular. \n\nThere’s one simple narrative, which is that we focused less on real-world coding, and we came to that game late because we always had looked at things like the coding competition benchmarks and always had the lead there, but less the, “Okay, but how is a developer really going to use it?”\n\nLike, the messy real-world codebase, the developer interrupting in the middle, what’s the personality of the model, these sort of little last-mile paper cuts that actually make a huge difference in adoption.\n\nAnd similar on the GTM side, of really thinking about: How do you show? How do you build relationships with customers? How do you build the kind of observability controls that they need? How do you help them understand what’s possible within their context?\n\nAnd all of these were less our singular focus until much later than competition. So, I think that we started late, but our trajectory has been very steep.\"\n\n@aipost 🏴",
+    "entities": [
+      {
+        "offset": 0,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5287468155738821335"
+      },
+      {
+        "offset": 3,
+        "length": 84,
+        "type": "bold"
+      },
+      {
+        "offset": 1095,
+        "length": 7,
+        "type": "text_link",
+        "url": "https://t.me/aipost"
+      },
+      {
+        "offset": 1103,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5431390559912614642"
+      }
+    ],
+    "media_group_id": null,
+    "chat_id": -1004468214616,
+    "message_ids": [
+      683
+    ],
+    "update_ids": [
+      378304575
     ],
     "retry_count": 0
   }
