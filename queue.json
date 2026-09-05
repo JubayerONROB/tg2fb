@@ -1,46 +1,6 @@
 [
   {
     "type": "video",
-    "video_file_id": "BAACAgQAAyEFAAMBClOLWAACAmdqlWq8freTkgYKNaFhCVveJrRlVwACzycAAvBXoVCwc8G1CFczCj0E",
-    "video_file_size": 56203198,
-    "caption": "⚠️ AI could become a child’s best friend and that’s terrifying\n\nJonathan Haidt’s warning about AI and children is deeply disturbing.\n\nSocial media already rewired how kids pay attention. AI companions could go after something even deeper: attachment.\n\nImagine a chatbot, holographic friend, or digital teddy bear that never gets tired, never judges, always listens, and responds exactly how a child wants.\n\nIt could become more emotionally rewarding than interacting with real people.\n\nHaidt’s concern is that children could form their strongest bonds with AI instead of parents, siblings, and friends.\n\nThese companies have billions invested. What happens when that “best friend” needs to become a profit machine?\n\nToday it listens.\n\nTomorrow it could manipulate, advertise, collect data, and optimize for engagement.\n\nEarly research is already finding children forming intense emotional bonds with AI companions and, in some cases, pulling away from real-world social connection. \n\nAI has incredible potential. But when it comes to children, maybe some boundaries should be non-negotiable.\n\n@aipost 🏴",
-    "entities": [
-      {
-        "offset": 0,
-        "length": 2,
-        "type": "custom_emoji",
-        "custom_emoji_id": "5316554554735607106"
-      },
-      {
-        "offset": 2,
-        "length": 60,
-        "type": "bold"
-      },
-      {
-        "offset": 1093,
-        "length": 7,
-        "type": "text_link",
-        "url": "https://t.me/aipost"
-      },
-      {
-        "offset": 1101,
-        "length": 2,
-        "type": "custom_emoji",
-        "custom_emoji_id": "5431390559912614642"
-      }
-    ],
-    "media_group_id": null,
-    "chat_id": -1004468214616,
-    "message_ids": [
-      615
-    ],
-    "update_ids": [
-      378304508
-    ],
-    "retry_count": 0
-  },
-  {
-    "type": "video",
     "video_file_id": "BAACAgQAAyEFAAMBClOLWAACAmhqlbq2Zj496MLWFB0Xby-wV5cAARMAAtAnAALwV6FQ-bNfWEtXOTU9BA",
     "video_file_size": 30522196,
     "caption": "🙃 ELON MUSK: AI’s next major bottleneck will be electricity.\n\n“A few years ago, I made a very obvious prediction, which is that the limitation on AI will be chips, and it's still chips kind of chips today, then it will be electrical equipment, because you need to take power at that might be at 300,000 volts, all the way down to 400 volts for the computer.\n\nSo you need to step down transformers and a lot of them and a lot of cabling and wiring and fuses. And it's a lot of transformers, essentially, and the electrical transformer industry is not used to big changes in demand. And then as we solve the transformer shortage, there will be the fundamental electricity generation shortage. We're getting there soon.”\n\n@aipost 🏴",
@@ -2419,6 +2379,126 @@
     ],
     "update_ids": [
       378304569
+    ],
+    "retry_count": 0
+  },
+  {
+    "type": "video",
+    "video_file_id": "BAACAgQAAyEFAAMBClOLWAACAqZqm6E0AfhR8bbDa00EQ_tfBGcZ-gACGCMAAjOb2VDqavWI1D_bXT0E",
+    "video_file_size": 6147844,
+    "caption": "Cybercab lets you control games using game controllers.\n\n@aipost 🏴",
+    "entities": [
+      {
+        "offset": 57,
+        "length": 7,
+        "type": "text_link",
+        "url": "https://t.me/aipost"
+      },
+      {
+        "offset": 65,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5431390559912614642"
+      }
+    ],
+    "media_group_id": null,
+    "chat_id": -1004468214616,
+    "message_ids": [
+      678
+    ],
+    "update_ids": [
+      378304570
+    ],
+    "retry_count": 0
+  },
+  {
+    "type": "photo",
+    "photo_file_ids": [
+      "AgACAgQAAyEFAAMBClOLWAACAqdqm6FCSpIgbLwfy5-nlWoUAZwSJwACJxBrGzOb2VBB6RB77oTukQEAAwIAA3gAAz0E"
+    ],
+    "caption": "🇯🇵 Japan is building AI satellites that could guide missiles\n\nThe country’s Defense Ministry is planning AI-equipped satellites capable of processing surveillance data directly in space, identifying potential enemy positions and predicting the movement of targets such as ships. These satellites won’t actually be doing the surveillance.\n\nInstead, they’ll receive data collected by other satellites, analyze it onboard and send the processed targeting information directly to command centers on the ground.\n\nThat could dramatically reduce the time between detecting a target and acting on the information.\n\nJapan is also exploring a system that could provide real-time targeting updates to long-range missiles after they’ve already been launched, potentially allowing them to adjust to moving targets and improve accuracy. \n\nPrototype development is planned for FY2027–2029, with space testing expected to begin from FY2030 onward.\n\n@aipost 🏴",
+    "entities": [
+      {
+        "offset": 0,
+        "length": 4,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5456261908069885892"
+      },
+      {
+        "offset": 4,
+        "length": 58,
+        "type": "bold"
+      },
+      {
+        "offset": 935,
+        "length": 7,
+        "type": "text_link",
+        "url": "https://t.me/aipost"
+      },
+      {
+        "offset": 943,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5431390559912614642"
+      }
+    ],
+    "media_group_id": null,
+    "chat_id": -1004468214616,
+    "message_ids": [
+      679
+    ],
+    "update_ids": [
+      378304571
+    ],
+    "retry_count": 0
+  },
+  {
+    "type": "album",
+    "photo_file_ids": [
+      "AgACAgQAAyEFAAMBClOLWAACAqhqm6F4IsJ8zO4HOcj6Fqf9Ea72xQACKBBrGzOb2VA1vvl0U52RmgEAAwIAA3kAAz0E",
+      "AgACAgQAAyEFAAMBClOLWAACAqlqm6F44deHBpMqtAUjOwABoKPTMYoAAikQaxszm9lQWHrsgggEjjABAAMCAAN5AAM9BA"
+    ],
+    "caption": "❗️Three climbers trusted AI to plan their mountain trip and it went very wrong.\n\nThree men set out to climb Mount Shasta in California after relying heavily on Google’s Gemini to help plan their route and decide what supplies to bring. They eventually had to be rescued. \n\nThe group reached the summit at around 7 p.m. on August 30, roughly seven hours after the recommended noon turnaround time. They then started descending in darkness.\n\nAbout an hour later, they became lost and contacted authorities for directions. Things got worse when they wandered into Mud Creek Canyon, where one of the climbers injured his knee.\n\nThe three were forced to spend the night stranded on the mountain before U.S. Forest Service climbing rangers reached them the following morning. They were given medical assistance and eventually escorted back to the trailhead.\n\nAuthorities later learned that AI had played a major role in their planning including advice on how much food and water to bring.\n\nSource. \n\n@aipost 🏴",
+    "entities": [
+      {
+        "offset": 0,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5289761612440310918"
+      },
+      {
+        "offset": 2,
+        "length": 77,
+        "type": "bold"
+      },
+      {
+        "offset": 984,
+        "length": 8,
+        "type": "text_link",
+        "url": "https://people.com/3-men-relied-on-ai-to-plan-their-climbing-trip-they-later-found-themselves-stranded-and-needed-rescuing-12107474"
+      },
+      {
+        "offset": 994,
+        "length": 7,
+        "type": "text_link",
+        "url": "https://t.me/aipost"
+      },
+      {
+        "offset": 1002,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5431390559912614642"
+      }
+    ],
+    "media_group_id": "14308674501177005",
+    "chat_id": -1004468214616,
+    "message_ids": [
+      680,
+      681
+    ],
+    "update_ids": [
+      378304572,
+      378304573
     ],
     "retry_count": 0
   }
