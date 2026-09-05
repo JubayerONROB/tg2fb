@@ -2,36 +2,6 @@
   {
     "type": "photo",
     "photo_file_ids": [
-      "AgACAgQAAyEFAAMBClOLWAACAmlqlbrOHGN67JhkVTI7yKXZu1RguwACOhdrG_BXoVCp-kPcJsFlHAEAAwIAA3gAAz0E"
-    ],
-    "caption": "Businesses spend just 11% on Anthropic's smartest AI model, weeks before a $2 TRILLION IPO.\n\nFable 5 has stalled at 11% of client spending across 70,000 companies, with cheaper models handling the same work, per FT.\n\nAnthropic's own cheaper Opus 5 has already overtaken its flagship.\n\n@aipost 🏴",
-    "entities": [
-      {
-        "offset": 285,
-        "length": 7,
-        "type": "text_link",
-        "url": "https://t.me/aipost"
-      },
-      {
-        "offset": 293,
-        "length": 2,
-        "type": "custom_emoji",
-        "custom_emoji_id": "5431390559912614642"
-      }
-    ],
-    "media_group_id": null,
-    "chat_id": -1004468214616,
-    "message_ids": [
-      617
-    ],
-    "update_ids": [
-      378304510
-    ],
-    "retry_count": 0
-  },
-  {
-    "type": "photo",
-    "photo_file_ids": [
       "AgACAgQAAyEFAAMBClOLWAACAmpqlfPJbnMIZkF0MvhOGuX9zP0wqQACNRBrG9nYsVANDJ6NBa_oXQEAAwIAA3kAAz0E"
     ],
     "caption": "Imagine celebrating that ChatGPT Search has become huge in Europe because it means you can finally regulate it.\n\nChatGPT Search now reaches 159 million monthly users in the EU. Europe has failed to build anything remotely comparable. So the European Commission proudly announces that ChatGPT is now large enough to face even more regulation. This image perfectly captures European AI policy.\n\n@aipost 🏴",
@@ -2534,6 +2504,175 @@
     ],
     "update_ids": [
       378304575
+    ],
+    "retry_count": 0
+  },
+  {
+    "type": "photo",
+    "photo_file_ids": [
+      "AgACAgIAAyEFAAMBClOLWAACAqxqnBjRQhDHcT4hRB4CCzSgSWjyiwACQhxrG4XA4UjzARMCHNtj6wEAAwIAA3kAAz0E"
+    ],
+    "caption": "🤖 GPT-6 Rolls Out to Codex\n\nPro users got first access in Codex and ChatGPT.\n\nAn official prompting guide for the new model is also out.\n\n📊@tech",
+    "entities": [
+      {
+        "offset": 0,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5397681122542893003"
+      },
+      {
+        "offset": 3,
+        "length": 24,
+        "type": "bold"
+      },
+      {
+        "offset": 29,
+        "length": 9,
+        "type": "bold"
+      },
+      {
+        "offset": 59,
+        "length": 17,
+        "type": "bold"
+      },
+      {
+        "offset": 82,
+        "length": 24,
+        "type": "bold"
+      },
+      {
+        "offset": 139,
+        "length": 2,
+        "type": "bold"
+      },
+      {
+        "offset": 139,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5449841756596101801"
+      },
+      {
+        "offset": 141,
+        "length": 5,
+        "type": "mention"
+      },
+      {
+        "offset": 141,
+        "length": 5,
+        "type": "bold"
+      }
+    ],
+    "media_group_id": null,
+    "chat_id": -1004468214616,
+    "message_ids": [
+      684
+    ],
+    "update_ids": [
+      378304576
+    ],
+    "retry_count": 0
+  },
+  {
+    "type": "video",
+    "video_file_id": "BAACAgIAAyEFAAMBClOLWAACAq1qnBjRnrSdLIfSo-F8v9Z0adtTVgACXagAAkCn2UiC2lgs-WGpHz0E",
+    "video_file_size": 46588153,
+    "caption": "🔍 Google Upgrades Music Generation in Gemini\n\nLyria 3.5, Google’s new music model, improves vocals, creates richer arrangements, and generates higher-quality tracks.\n\nUsers can choose or describe a genre. They can select vocal or instrumental mode, then set the track length. Templates are available for background music and jingles, along with personal songs. Lyria 3.5 is now available in Gemini on web and mobile, plus Gemini API, Google AI Studio, Flow Music, and Google Vids.\n\n📊@tech",
+    "entities": [
+      {
+        "offset": 0,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5431644246450908867"
+      },
+      {
+        "offset": 3,
+        "length": 42,
+        "type": "bold"
+      },
+      {
+        "offset": 47,
+        "length": 9,
+        "type": "bold"
+      },
+      {
+        "offset": 84,
+        "length": 15,
+        "type": "bold"
+      },
+      {
+        "offset": 109,
+        "length": 19,
+        "type": "bold"
+      },
+      {
+        "offset": 144,
+        "length": 21,
+        "type": "bold"
+      },
+      {
+        "offset": 178,
+        "length": 26,
+        "type": "bold"
+      },
+      {
+        "offset": 222,
+        "length": 26,
+        "type": "bold"
+      },
+      {
+        "offset": 362,
+        "length": 9,
+        "type": "bold"
+      },
+      {
+        "offset": 423,
+        "length": 10,
+        "type": "bold"
+      },
+      {
+        "offset": 435,
+        "length": 16,
+        "type": "bold"
+      },
+      {
+        "offset": 453,
+        "length": 10,
+        "type": "bold"
+      },
+      {
+        "offset": 469,
+        "length": 11,
+        "type": "bold"
+      },
+      {
+        "offset": 483,
+        "length": 2,
+        "type": "bold"
+      },
+      {
+        "offset": 483,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5449841756596101801"
+      },
+      {
+        "offset": 485,
+        "length": 5,
+        "type": "mention"
+      },
+      {
+        "offset": 485,
+        "length": 5,
+        "type": "bold"
+      }
+    ],
+    "media_group_id": null,
+    "chat_id": -1004468214616,
+    "message_ids": [
+      685
+    ],
+    "update_ids": [
+      378304577
     ],
     "retry_count": 0
   }
