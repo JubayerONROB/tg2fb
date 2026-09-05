@@ -1,35 +1,5 @@
 [
   {
-    "type": "photo",
-    "photo_file_ids": [
-      "AgACAgQAAyEFAAMBClOLWAACAmpqlfPJbnMIZkF0MvhOGuX9zP0wqQACNRBrG9nYsVANDJ6NBa_oXQEAAwIAA3kAAz0E"
-    ],
-    "caption": "Imagine celebrating that ChatGPT Search has become huge in Europe because it means you can finally regulate it.\n\nChatGPT Search now reaches 159 million monthly users in the EU. Europe has failed to build anything remotely comparable. So the European Commission proudly announces that ChatGPT is now large enough to face even more regulation. This image perfectly captures European AI policy.\n\n@aipost 🏴",
-    "entities": [
-      {
-        "offset": 393,
-        "length": 7,
-        "type": "text_link",
-        "url": "https://t.me/aipost"
-      },
-      {
-        "offset": 401,
-        "length": 2,
-        "type": "custom_emoji",
-        "custom_emoji_id": "5431390559912614642"
-      }
-    ],
-    "media_group_id": null,
-    "chat_id": -1004468214616,
-    "message_ids": [
-      618
-    ],
-    "update_ids": [
-      378304511
-    ],
-    "retry_count": 0
-  },
-  {
     "type": "album",
     "photo_file_ids": [
       "AgACAgQAAyEFAAMBClOLWAACAmtqlfPoIB5K01AZjXlC3IGN235E3AACfBFrG0DqsFAHC41efY11vAEAAwIAA3gAAz0E",
@@ -2673,6 +2643,47 @@
     ],
     "update_ids": [
       378304577
+    ],
+    "retry_count": 0
+  },
+  {
+    "type": "photo",
+    "photo_file_ids": [
+      "AgACAgQAAyEFAAMBClOLWAACAq5qnEXkO-7hmMZ0cclMtmuz5itXZAACVhBrGzOb2VAS2QZvyaqWuQEAAwIAA3gAAz0E"
+    ],
+    "caption": "📢 AI data centers are becoming job machines \n\nAI data centers aren’t just eating electricity and GPUs, they’re also creating a serious economic boom in the places where they’re built.\n\nMeta’s massive Louisiana data-center project saw private-sector employment jump 41% in its first year, while average weekly wages surged 61%.\n\nAnd the money is spreading beyond construction. Leisure and hospitality jobs increased 21.5%, with wages in the sector rising 34%.\n\nMeta’s expanded project is now worth more than $50 billion, spans nearly 10 million square feet and is expected to create around 7,500 construction jobs.\n\nOnce construction ends, only about 1,000 permanent operating jobs are expected to remain.\n\n@aipost 🏴",
+    "entities": [
+      {
+        "offset": 0,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5289992252184100112"
+      },
+      {
+        "offset": 3,
+        "length": 42,
+        "type": "bold"
+      },
+      {
+        "offset": 707,
+        "length": 7,
+        "type": "text_link",
+        "url": "https://t.me/aipost"
+      },
+      {
+        "offset": 715,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5431390559912614642"
+      }
+    ],
+    "media_group_id": null,
+    "chat_id": -1004468214616,
+    "message_ids": [
+      686
+    ],
+    "update_ids": [
+      378304578
     ],
     "retry_count": 0
   }
