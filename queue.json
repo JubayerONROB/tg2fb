@@ -1,44 +1,5 @@
 [
   {
-    "type": "album",
-    "photo_file_ids": [
-      "AgACAgQAAyEFAAMBClOLWAACAmtqlfPoIB5K01AZjXlC3IGN235E3AACfBFrG0DqsFAHC41efY11vAEAAwIAA3gAAz0E",
-      "AgACAgQAAyEFAAMBClOLWAACAmxqlfPoD-Z-Hn-zm52tByGf2ELCIwACfRFrG0DqsFBeP5mNF1gybAEAAwIAA20AAz0E"
-    ],
-    "caption": "❗️ChatGPT is now regulated as a search engine in the EU, the first AI chatbot to be designated under the Digital Services Act and Reddit and Roblox were designated Very Large Online Platforms\n\nThe three now have four months to assess and mitigate systemic risks to minors, elections and public security and fines can reach 6% of global turnover. EU tech sovereignty chief Henna Virkkunen said the Commission will not hesitate to designate more platforms.\n\n@aipost 🏴",
-    "entities": [
-      {
-        "offset": 0,
-        "length": 2,
-        "type": "custom_emoji",
-        "custom_emoji_id": "5289761612440310918"
-      },
-      {
-        "offset": 456,
-        "length": 7,
-        "type": "text_link",
-        "url": "https://t.me/aipost"
-      },
-      {
-        "offset": 464,
-        "length": 2,
-        "type": "custom_emoji",
-        "custom_emoji_id": "5431390559912614642"
-      }
-    ],
-    "media_group_id": "14305697605845957",
-    "chat_id": -1004468214616,
-    "message_ids": [
-      619,
-      620
-    ],
-    "update_ids": [
-      378304512,
-      378304513
-    ],
-    "retry_count": 0
-  },
-  {
     "type": "photo",
     "photo_file_ids": [
       "AgACAgQAAyEFAAMBClOLWAACAm1qllyUOInBzSHsfpYDKJxNnR-rXgACNBBrG9nYsVAGpitJRvAEagEAAwIAA3gAAz0E"
