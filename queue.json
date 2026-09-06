@@ -1,69 +1,5 @@
 [
   {
-    "type": "video",
-    "video_file_id": "BAACAgIAAyEFAAMBClOLWAACAnFqlodU9XFnqAcWP_KR8mzyxKow0AACUJoAAiNhoUhg_kCNRMfbKD0E",
-    "video_file_size": 4333499,
-    "caption": "🔍 Gemini Omni 1.1 Flash Reaches GA\n\nVideos can now be extended in 10-second chunks up to 40 seconds. The model uses the last 10 seconds of the source, rather than only its final second. The preview will soon be unavailable.\n\nA 360p draft mode costs $0.03 per second, compared with $0.10 for 720p. 1080p costs $0.15, while 4K costs $0.30. Both are upscales, not native generations.\n\n📊@tech",
-    "entities": [
-      {
-        "offset": 0,
-        "length": 2,
-        "type": "custom_emoji",
-        "custom_emoji_id": "5431644246450908867"
-      },
-      {
-        "offset": 3,
-        "length": 32,
-        "type": "bold"
-      },
-      {
-        "offset": 67,
-        "length": 33,
-        "type": "bold"
-      },
-      {
-        "offset": 228,
-        "length": 15,
-        "type": "bold"
-      },
-      {
-        "offset": 298,
-        "length": 17,
-        "type": "bold"
-      },
-      {
-        "offset": 383,
-        "length": 2,
-        "type": "bold"
-      },
-      {
-        "offset": 383,
-        "length": 2,
-        "type": "custom_emoji",
-        "custom_emoji_id": "5449841756596101801"
-      },
-      {
-        "offset": 385,
-        "length": 5,
-        "type": "mention"
-      },
-      {
-        "offset": 385,
-        "length": 5,
-        "type": "bold"
-      }
-    ],
-    "media_group_id": null,
-    "chat_id": -1004468214616,
-    "message_ids": [
-      625
-    ],
-    "update_ids": [
-      378304517
-    ],
-    "retry_count": 0
-  },
-  {
     "type": "album",
     "photo_file_ids": [
       "AgACAgIAAyEFAAMBClOLWAACAnJqlodzOYVSO8k5RfuePFplbvGlKgACczFrG7sooUjbB-u2TDY3QwEAAwIAA3gAAz0E",
@@ -2698,6 +2634,95 @@
     ],
     "update_ids": [
       378304582
+    ],
+    "retry_count": 0
+  },
+  {
+    "type": "album",
+    "photo_file_ids": [
+      "AgACAgQAAyEFAAMBClOLWAACArNqnTAFv67tK0i0zwHqwUvZ7ZUfMgACwhVrGzOb4VAJHsFW_wABv-gBAAMCAAN5AAM9BA",
+      "AgACAgQAAyEFAAMBClOLWAACArRqnTAFnBcWxLSqQ6Nc92IGhVDQxgACwxVrGzOb4VDNrapImL6rowEAAwIAA3kAAz0E"
+    ],
+    "caption": "Elon vs Chess was not on my 2026 bingo card 🤣\n\n@aipost 🏴",
+    "entities": [
+      {
+        "offset": 44,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5370712413005945913"
+      },
+      {
+        "offset": 48,
+        "length": 7,
+        "type": "mention"
+      },
+      {
+        "offset": 56,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5431390559912614642"
+      }
+    ],
+    "media_group_id": "14309490731145685",
+    "chat_id": -1004468214616,
+    "message_ids": [
+      691,
+      692
+    ],
+    "update_ids": [
+      378304583,
+      378304584
+    ],
+    "retry_count": 0
+  },
+  {
+    "type": "photo",
+    "photo_file_ids": [
+      "AgACAgQAAyEFAAMBClOLWAACArVqnTARuQOseuP-KtYiDc170c8H2AACUQ9rGzOb6VAGjUT1AtPbuwEAAwIAA3kAAz0E"
+    ],
+    "caption": "🧠 Researchers argue LLMs may never get us to AGI\n\n21 researchers from Stanford, Oxford, DeepMind, CMU and Meta have published a paper called “Visual General Intelligence” and its argument is pretty brutal: Scaling LLMs might not be enough.\n\nGPT-style models have shown that language can unlock impressive reasoning, but the researchers argue that text is ultimately a compressed description of reality. Words don’t directly teach a model how gravity works, how objects move, or how space behaves.\n\nHumans learn many of these things before they can even speak. A baby doesn’t read about gravity. It experiences it.\n\nThe paper argues that future AI should be built around raw visual experience, images, spatial information and continuous video rather than treating vision as just another input for a language model.\n\nBy learning directly from the visual world, AI could develop stronger internal models of physics, cause and effect, objects and environments.\n\nSource.\n\n@aipost 🏴",
+    "entities": [
+      {
+        "offset": 0,
+        "length": 2,
+        "type": "bold"
+      },
+      {
+        "offset": 0,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5237889595894414384"
+      },
+      {
+        "offset": 2,
+        "length": 47,
+        "type": "bold"
+      },
+      {
+        "offset": 959,
+        "length": 6,
+        "type": "text_link",
+        "url": "https://arxiv.org/pdf/2608.25924"
+      },
+      {
+        "offset": 968,
+        "length": 7,
+        "type": "mention"
+      },
+      {
+        "offset": 976,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5431390559912614642"
+      }
+    ],
+    "media_group_id": null,
+    "chat_id": -1004468214616,
+    "message_ids": [
+      693
+    ],
+    "update_ids": [
+      378304585
     ],
     "retry_count": 0
   }
