@@ -2,35 +2,6 @@
   {
     "type": "photo",
     "photo_file_ids": [
-      "AgACAgIAAyEFAAMBClOLWAACAm9qllyU_twUGaovJLdAt5NmJZUegAACOCVrG4kqsUhat2kkc1QXCAEAAwIAA3gAAz0E"
-    ],
-    "caption": "Remote job interviews face new challenges as AI-driven cheating, deepfakes, and use of stand-in interviewers undermine traditional identity verification practices.\n\nIn response, employers have introduced new measures. Candidates are now required to perform specific actions—such as moving their hands across their faces—to demonstrate their presence and identity on video calls.\n\nThese steps aim to address the increased difficulty in confirming candidate authenticity during remote recruitment processes. This trend reflects growing concerns among employers about verifying applicants in virtual environments.\n\n📰 @aipost",
-    "entities": [
-      {
-        "offset": 612,
-        "length": 2,
-        "type": "custom_emoji",
-        "custom_emoji_id": "5363988332466438547"
-      },
-      {
-        "offset": 615,
-        "length": 7,
-        "type": "mention"
-      }
-    ],
-    "media_group_id": null,
-    "chat_id": -1004468214616,
-    "message_ids": [
-      623
-    ],
-    "update_ids": [
-      378304515
-    ],
-    "retry_count": 0
-  },
-  {
-    "type": "photo",
-    "photo_file_ids": [
       "AgACAgIAAyEFAAMBClOLWAACAnBqlmtdPHZhNhGAO4MTmoqX02Vh4AACphprG6apuEizwcV4PqboLgEAAwIAA3gAAz0E"
     ],
     "caption": "ChatGPT Ads achieved a $1 billion annualized revenue run rate in less than 200 days, following an initial $100 million milestone reached six weeks after launch.\n\nOpenAI has set a 2026 ad revenue forecast at $2.4 billion, facing pressure due to slower early-month performance compared to the current growth rate.\n\nFuture projections indicate a target of nearly $11 billion in ad revenue for 2027 and $102 billion by 2030. This forecast assumes ad revenue per user will climb from about $3.50 in 2024 to around $60 by 2030.\n\nOpenAI reports tens of thousands of advertisers use ChatGPT Ads in more than 40 countries. Self-service access is expanding further, including India, Europe, the Middle East, and North Africa.\n\nChatGPT’s weekly active users now exceed one billion. Advertising remains limited to the Free and Go tiers.\n\nAdvertisers are unable to access private conversations, and paid ads do not influence responses.\n\n📰 @aipost",
