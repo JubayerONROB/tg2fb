@@ -1,35 +1,5 @@
 [
   {
-    "type": "photo",
-    "photo_file_ids": [
-      "AgACAgQAAyEFAAMBClOLWAACAnhqlxp-WSVxKOlL48HbgBE5HErCqgACNxdrG_BXoVC7FKFm-Cz1FgEAAwIAA3kAAz0E"
-    ],
-    "caption": "OpenAI has reportedly bought tens of thousands of Mac minis and Mac Studios for reinforcement learning and computer-use agents while Anthropic is renting Macs through Amazon AWS.\n\nApple hardware is becoming a lot more relevant to AI workloads than we thought entering this year as memory capacity starts to matter more relative to raw GPU performance.\n\n@aipost 🏴",
-    "entities": [
-      {
-        "offset": 353,
-        "length": 7,
-        "type": "text_link",
-        "url": "https://t.me/aipost"
-      },
-      {
-        "offset": 361,
-        "length": 2,
-        "type": "custom_emoji",
-        "custom_emoji_id": "5431390559912614642"
-      }
-    ],
-    "media_group_id": null,
-    "chat_id": -1004468214616,
-    "message_ids": [
-      632
-    ],
-    "update_ids": [
-      378304524
-    ],
-    "retry_count": 0
-  },
-  {
     "type": "video",
     "video_file_id": "BAACAgQAAyEFAAMBClOLWAACAnlqlxp-2peeA3r3HYW_cJp-SKvNNQAChx8AAtnYuVCkaWhU9JfZaT0E",
     "video_file_size": 12201330,
