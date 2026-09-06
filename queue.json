@@ -1,102 +1,5 @@
 [
   {
-    "type": "album",
-    "photo_file_ids": [
-      "AgACAgIAAyEFAAMBClOLWAACAnJqlodzOYVSO8k5RfuePFplbvGlKgACczFrG7sooUjbB-u2TDY3QwEAAwIAA3gAAz0E",
-      "AgACAgIAAyEFAAMBClOLWAACAnNqlodzDqrq0DEZ_6cz6ch0I1OsCQACdDFrG7sooUhHJp63jOVKOAEAAwIAA3kAAz0E",
-      "AgACAgIAAyEFAAMBClOLWAACAnRqlodzqxIzCAyX7I4hjoppe7wmfAACdTFrG7sooUjcVpt4FxzKKgEAAwIAA3kAAz0E",
-      "AgACAgIAAyEFAAMBClOLWAACAnVqlodz8eQPZ7QQvnMmcfy8htTDzQAChzFrG7sooUgFzAwJ0W3JcQEAAwIAA3gAAz0E",
-      "AgACAgIAAyEFAAMBClOLWAACAnZqlodzy9LPcwU-ur6vLDL_xNJs-QACdzFrG7sooUinQHlJRdO2uwEAAwIAA3kAAz0E"
-    ],
-    "caption": "💻 Raspberry Pi Publishes a  Guide\n\nThe official build uses a simple black case. Inside are a Pi 5 board and a Raspberry Pi flash drive. A LiPo battery sits beneath the Bluetooth keyboard.\n\nCyberdecks are portable computers assembled from assorted parts, including flea-market hardware and repurposed components. The guide includes a parts list and step-by-step assembly instructions.\n\nThe build is easy to reproduce, but its practical use remains unclear.\n\n📊@tech",
-    "entities": [
-      {
-        "offset": 0,
-        "length": 2,
-        "type": "bold"
-      },
-      {
-        "offset": 0,
-        "length": 2,
-        "type": "custom_emoji",
-        "custom_emoji_id": "5260382369688333746"
-      },
-      {
-        "offset": 3,
-        "length": 31,
-        "type": "bold"
-      },
-      {
-        "offset": 94,
-        "length": 10,
-        "type": "bold"
-      },
-      {
-        "offset": 111,
-        "length": 24,
-        "type": "bold"
-      },
-      {
-        "offset": 139,
-        "length": 12,
-        "type": "bold"
-      },
-      {
-        "offset": 334,
-        "length": 10,
-        "type": "bold"
-      },
-      {
-        "offset": 349,
-        "length": 34,
-        "type": "bold"
-      },
-      {
-        "offset": 426,
-        "length": 29,
-        "type": "bold"
-      },
-      {
-        "offset": 458,
-        "length": 2,
-        "type": "bold"
-      },
-      {
-        "offset": 458,
-        "length": 2,
-        "type": "custom_emoji",
-        "custom_emoji_id": "5449841756596101801"
-      },
-      {
-        "offset": 460,
-        "length": 5,
-        "type": "mention"
-      },
-      {
-        "offset": 460,
-        "length": 5,
-        "type": "bold"
-      }
-    ],
-    "media_group_id": "14305999773393549",
-    "chat_id": -1004468214616,
-    "message_ids": [
-      626,
-      627,
-      628,
-      629,
-      630
-    ],
-    "update_ids": [
-      378304518,
-      378304519,
-      378304520,
-      378304521,
-      378304522
-    ],
-    "retry_count": 0
-  },
-  {
     "type": "photo",
     "photo_file_ids": [
       "AgACAgIAAyEFAAMBClOLWAACAndqlodzrX-wXUN1iHMVWolp5kO8YQAC-iNrG2MqsUiMtY3mE3bEZAEAAwIAA3kAAz0E"
@@ -2723,6 +2626,52 @@
     ],
     "update_ids": [
       378304585
+    ],
+    "retry_count": 0
+  },
+  {
+    "type": "photo",
+    "photo_file_ids": [
+      "AgACAgQAAyEFAAMBClOLWAACArZqnWOP95wgmI6-9M4ymDLyxNgfZgACMBBrG2yJ6FDxV4Omth9wDwEAAwIAA3kAAz0E"
+    ],
+    "caption": "🚀 Astra accelerated OpenAI by six months\n\nGPT-6 Astra may already be changing OpenAI from the inside, before most people have even touched it.\n\nAccording to Tibo Sottile, OpenAI’s head of core products, Astra has given the company’s teams a major productivity boost.\n\nOpenAI is reportedly pulling some projects forward by around six months. Things that were supposed to arrive in the middle of next year could now be unveiled as early as DevDay.\n\nSottile went even further, calling Astra “probably OpenAI’s biggest competitive advantage” and that’s before its public launch.\n\nSource.\n\n@aipost 🏴",
+    "entities": [
+      {
+        "offset": 0,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5316571734604790521"
+      },
+      {
+        "offset": 2,
+        "length": 39,
+        "type": "bold"
+      },
+      {
+        "offset": 577,
+        "length": 6,
+        "type": "text_link",
+        "url": "https://the-decoder.com/openai-developer-claims-astra-boosted-productivity-so-much-it-pulled-some-plans-forward-by-six-months"
+      },
+      {
+        "offset": 586,
+        "length": 7,
+        "type": "mention"
+      },
+      {
+        "offset": 594,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5431390559912614642"
+      }
+    ],
+    "media_group_id": null,
+    "chat_id": -1004468214616,
+    "message_ids": [
+      694
+    ],
+    "update_ids": [
+      378304586
     ],
     "retry_count": 0
   }
