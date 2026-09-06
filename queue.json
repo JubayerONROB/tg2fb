@@ -1,34 +1,5 @@
 [
   {
-    "type": "photo",
-    "photo_file_ids": [
-      "AgACAgIAAyEFAAMBClOLWAACAnBqlmtdPHZhNhGAO4MTmoqX02Vh4AACphprG6apuEizwcV4PqboLgEAAwIAA3gAAz0E"
-    ],
-    "caption": "ChatGPT Ads achieved a $1 billion annualized revenue run rate in less than 200 days, following an initial $100 million milestone reached six weeks after launch.\n\nOpenAI has set a 2026 ad revenue forecast at $2.4 billion, facing pressure due to slower early-month performance compared to the current growth rate.\n\nFuture projections indicate a target of nearly $11 billion in ad revenue for 2027 and $102 billion by 2030. This forecast assumes ad revenue per user will climb from about $3.50 in 2024 to around $60 by 2030.\n\nOpenAI reports tens of thousands of advertisers use ChatGPT Ads in more than 40 countries. Self-service access is expanding further, including India, Europe, the Middle East, and North Africa.\n\nChatGPT’s weekly active users now exceed one billion. Advertising remains limited to the Free and Go tiers.\n\nAdvertisers are unable to access private conversations, and paid ads do not influence responses.\n\n📰 @aipost",
-    "entities": [
-      {
-        "offset": 924,
-        "length": 2,
-        "type": "custom_emoji",
-        "custom_emoji_id": "5363988332466438547"
-      },
-      {
-        "offset": 927,
-        "length": 7,
-        "type": "mention"
-      }
-    ],
-    "media_group_id": null,
-    "chat_id": -1004468214616,
-    "message_ids": [
-      624
-    ],
-    "update_ids": [
-      378304516
-    ],
-    "retry_count": 0
-  },
-  {
     "type": "video",
     "video_file_id": "BAACAgIAAyEFAAMBClOLWAACAnFqlodU9XFnqAcWP_KR8mzyxKow0AACUJoAAiNhoUhg_kCNRMfbKD0E",
     "video_file_size": 4333499,
@@ -2586,6 +2557,147 @@
     ],
     "update_ids": [
       378304578
+    ],
+    "retry_count": 0
+  },
+  {
+    "type": "video",
+    "video_file_id": "BAACAgQAAyEFAAMBClOLWAACAq9qnOYgOhtRHG6LjzHq7CLl2sGw4QACQSMAAjOb2VDw7BXiXZmCdj0E",
+    "video_file_size": 40130955,
+    "caption": "🇺🇸 Bessent says America’s biggest AI companies have done a “HORRENDOUS JOB” explaining themselves to the American people.\n\n“The AI companies, whether it is the builders of the data centers, whether it is the labs themselves have done a horrendous job, horrendous job of explaining themselves to the American people.”\n\nThe Treasury Secretary gave the industry a D-, but says slowing down isn't an option.\n\n“The Chinese are right behind us. If they get ahead, everything else we do won’t matter.”\n\nBessent says the US controlled roughly 55-60% of global AI compute last year and predicts that could reach 80% by 2028.\n\nHe also expects the AI spending boom to become “extremely disinflationary,” with productivity benefits starting to show within the next six months.\n\n@aipost 🏴",
+    "entities": [
+      {
+        "offset": 0,
+        "length": 4,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5202021044105257611"
+      },
+      {
+        "offset": 5,
+        "length": 118,
+        "type": "bold"
+      },
+      {
+        "offset": 768,
+        "length": 7,
+        "type": "mention"
+      },
+      {
+        "offset": 776,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5431390559912614642"
+      }
+    ],
+    "media_group_id": null,
+    "chat_id": -1004468214616,
+    "message_ids": [
+      687
+    ],
+    "update_ids": [
+      378304579
+    ],
+    "retry_count": 0
+  },
+  {
+    "type": "photo",
+    "photo_file_ids": [
+      "AgACAgQAAyEFAAMBClOLWAACArBqnOZ9oL9FxPPBKSW08c3LCH8JGAAC9BRrGzOb4VDvCCZ4dW8_9gEAAwIAA3cAAz0E"
+    ],
+    "caption": "Average vibe coders btw 😂\n\n@aipost 🏴",
+    "entities": [
+      {
+        "offset": 24,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5370953476635368811"
+      },
+      {
+        "offset": 28,
+        "length": 7,
+        "type": "mention"
+      },
+      {
+        "offset": 36,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5431390559912614642"
+      }
+    ],
+    "media_group_id": null,
+    "chat_id": -1004468214616,
+    "message_ids": [
+      688
+    ],
+    "update_ids": [
+      378304580
+    ],
+    "retry_count": 0
+  },
+  {
+    "type": "video",
+    "video_file_id": "BAACAgQAAyEFAAMBClOLWAACArFqnOaEraBHHmGp9zWnh4_QonvUGAACFyUAAjOb4VB0R_PtPXBwiT0E",
+    "video_file_size": 15321938,
+    "caption": "🗣OpenAI Cofounder says emotions may be why we can make decisions\n\nIlya brings up a guy who lost emotional processing after brain damage. He could still talk normally and solve problems, but somehow became terrible at making basic decisions.\n\n\"It would take him hours to decide on which socks to wear.\"\n\n@aipost 🏴",
+    "entities": [
+      {
+        "offset": 0,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5287468155738821335"
+      },
+      {
+        "offset": 2,
+        "length": 63,
+        "type": "bold"
+      },
+      {
+        "offset": 304,
+        "length": 7,
+        "type": "mention"
+      },
+      {
+        "offset": 312,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5431390559912614642"
+      }
+    ],
+    "media_group_id": null,
+    "chat_id": -1004468214616,
+    "message_ids": [
+      689
+    ],
+    "update_ids": [
+      378304581
+    ],
+    "retry_count": 0
+  },
+  {
+    "type": "video",
+    "video_file_id": "BAACAgQAAyEFAAMBClOLWAACArJqnOaUyyWR6uZHTfNHCS3M_HXrmwACfSQAAjOb4VBZ-Bz_bJeq0D0E",
+    "video_file_size": 3994702,
+    "caption": "ChatGPT in 2037 looking for the guy that never said “please” and “thank you”\n\n@aipost 🏴",
+    "entities": [
+      {
+        "offset": 78,
+        "length": 7,
+        "type": "mention"
+      },
+      {
+        "offset": 86,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5431390559912614642"
+      }
+    ],
+    "media_group_id": null,
+    "chat_id": -1004468214616,
+    "message_ids": [
+      690
+    ],
+    "update_ids": [
+      378304582
     ],
     "retry_count": 0
   }
