@@ -1,45 +1,5 @@
 [
   {
-    "type": "video",
-    "video_file_id": "BAACAgQAAyEFAAMBClOLWAACAnlqlxp-2peeA3r3HYW_cJp-SKvNNQAChx8AAtnYuVCkaWhU9JfZaT0E",
-    "video_file_size": 12201330,
-    "caption": "🗣Elon Musk: “America is 1,000% going to go bankrupt and fail as a country without AI and robotics”\n\nThe U.S. is already paying over $1 trillion a year just in interest on the national debt. The only real escape is enormous productivity growth\n\nAI → intelligence at near-zero marginal cost\nRobots → physical labor at massive scale\n\nTogether they can dramatically increase economic output, lower the cost of goods and services and expand the tax base\n\nThe race is basically: Can we build AI + robotics fast enough to unlock abundance before the debt becomes impossible to outrun?\n\n@aipost 🏴",
-    "entities": [
-      {
-        "offset": 0,
-        "length": 2,
-        "type": "custom_emoji",
-        "custom_emoji_id": "5287468155738821335"
-      },
-      {
-        "offset": 2,
-        "length": 97,
-        "type": "bold"
-      },
-      {
-        "offset": 580,
-        "length": 7,
-        "type": "text_link",
-        "url": "https://t.me/aipost"
-      },
-      {
-        "offset": 588,
-        "length": 2,
-        "type": "custom_emoji",
-        "custom_emoji_id": "5431390559912614642"
-      }
-    ],
-    "media_group_id": null,
-    "chat_id": -1004468214616,
-    "message_ids": [
-      633
-    ],
-    "update_ids": [
-      378304525
-    ],
-    "retry_count": 0
-  },
-  {
     "type": "photo",
     "photo_file_ids": [
       "AgACAgQAAyEFAAMBClOLWAACAnpqlxp-Jxz6vVvPnzE4SYBcx23tUQACBhBrG0DquFCyBHPcLDnnZgEAAwIAA3kAAz0E"
