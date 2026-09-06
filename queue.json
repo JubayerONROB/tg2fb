@@ -1,35 +1,5 @@
 [
   {
-    "type": "photo",
-    "photo_file_ids": [
-      "AgACAgQAAyEFAAMBClOLWAACAnpqlxp-Jxz6vVvPnzE4SYBcx23tUQACBhBrG0DquFCyBHPcLDnnZgEAAwIAA3kAAz0E"
-    ],
-    "caption": "How ChatGPT will look like under full EU control.\n\n@aipost 🏴",
-    "entities": [
-      {
-        "offset": 51,
-        "length": 7,
-        "type": "text_link",
-        "url": "https://t.me/aipost"
-      },
-      {
-        "offset": 59,
-        "length": 2,
-        "type": "custom_emoji",
-        "custom_emoji_id": "5431390559912614642"
-      }
-    ],
-    "media_group_id": null,
-    "chat_id": -1004468214616,
-    "message_ids": [
-      634
-    ],
-    "update_ids": [
-      378304526
-    ],
-    "retry_count": 0
-  },
-  {
     "type": "video",
     "video_file_id": "BAACAgQAAyEFAAMBClOLWAACAntqlxp-PjlmGen6xwqucuhEmvYwKAACdh8AAjXhuVAmEnB0UoqFZj0E",
     "video_file_size": 31964049,
