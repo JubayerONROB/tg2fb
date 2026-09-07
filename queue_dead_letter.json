@@ -2957,5 +2957,56 @@
       378304509
     ],
     "retry_count": 0
+  },
+  {
+    "type": "video",
+    "video_file_id": "BAACAgQAAyEFAAMBClOLWAACAntqlxp-PjlmGen6xwqucuhEmvYwKAACdh8AAjXhuVAmEnB0UoqFZj0E",
+    "video_file_size": 31964049,
+    "caption": "🤖 Anthropic just dropped Claude Fable 5.1 and Mythos 5.1\n\nAnthropic says its newest models are its most advanced yet for coding, research, and knowledge work and Fable 5.1 looks like a serious upgrade.\n\nFable 5.1 scores 55.8% on Terminal-Bench 4.0, compared with 42.0% for Fable 5. On Terminal-Bench-Science, it hits 52.6%, more than double its predecessor.\n\nIt’s not just smarter. It can deliver similar or better results at lower effort levels, while cache reads cost 75% less. Anthropic says this can cut real-world costs by around 25%, and up to 45% for highly agentic workloads.\n\nAnthropic is also rolling out stronger enterprise privacy with Enterprise Frontier Safeguards, while claiming its cybersecurity safeguards now flag benign requests about 60% less often.\n\nAnd Fable 5.1 isn’t limited to coding. Its research capabilities are being positioned as an early look at how AI could eventually contribute to scientific discovery.\n\nFable 5.1 is available now. Mythos 5.1, built for cyberdefenders and life scientists, is available through trusted-access programs.\n\nSource.\n\n@aipost 🏴",
+    "entities": [
+      {
+        "offset": 0,
+        "length": 2,
+        "type": "bold"
+      },
+      {
+        "offset": 0,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5208665212483310136"
+      },
+      {
+        "offset": 2,
+        "length": 55,
+        "type": "bold"
+      },
+      {
+        "offset": 1073,
+        "length": 6,
+        "type": "text_link",
+        "url": "https://www.anthropic.com/claude-fable-and-mythos-5-1"
+      },
+      {
+        "offset": 1082,
+        "length": 7,
+        "type": "text_link",
+        "url": "https://t.me/aipost"
+      },
+      {
+        "offset": 1090,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5431390559912614642"
+      }
+    ],
+    "media_group_id": null,
+    "chat_id": -1004468214616,
+    "message_ids": [
+      635
+    ],
+    "update_ids": [
+      378304527
+    ],
+    "retry_count": 0
   }
 ]
