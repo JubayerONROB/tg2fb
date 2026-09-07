@@ -1,99 +1,5 @@
 [
   {
-    "type": "video",
-    "video_file_id": "BAACAgIAAyEFAAMBClOLWAACAn1ql-on0HLNWE6L6AOWzS8-VU6p5QACVa8AArtHuEhM2hmm8FlYlT0E",
-    "video_file_size": 12819484,
-    "caption": "🤖 Claude 5.1 Puts Science to the Test\n\nAnthropic released Claude Fable 5.1 and Claude Mythos 5.1, the same model with different restrictions. Fable is open to everyone. Mythos requires verification for cybersecurity and life sciences work. With open protein-design tools, almost 50% of designs worked across 12 targets, versus 10-15% normally. Binding affinity was 10 times higher than leading Adaptyv Bio contest entries for 3 targets.\n\nThe model also built a new elevation map for a third of Venus from Magellan radar images. Resolution improved to 2 to 3 km. Terminal-Bench-Science reached 52.6%, up from 24.7%. Cached reads are 75% cheaper, cutting typical task costs by about 25% and agentic costs by up to 45%.\n\n📊@tech",
-    "entities": [
-      {
-        "offset": 0,
-        "length": 2,
-        "type": "custom_emoji",
-        "custom_emoji_id": "5208665212483310136"
-      },
-      {
-        "offset": 3,
-        "length": 35,
-        "type": "bold"
-      },
-      {
-        "offset": 59,
-        "length": 38,
-        "type": "bold"
-      },
-      {
-        "offset": 103,
-        "length": 38,
-        "type": "bold"
-      },
-      {
-        "offset": 273,
-        "length": 28,
-        "type": "bold"
-      },
-      {
-        "offset": 309,
-        "length": 10,
-        "type": "bold"
-      },
-      {
-        "offset": 366,
-        "length": 15,
-        "type": "bold"
-      },
-      {
-        "offset": 462,
-        "length": 38,
-        "type": "bold"
-      },
-      {
-        "offset": 552,
-        "length": 9,
-        "type": "bold"
-      },
-      {
-        "offset": 594,
-        "length": 5,
-        "type": "bold"
-      },
-      {
-        "offset": 633,
-        "length": 11,
-        "type": "bold"
-      },
-      {
-        "offset": 719,
-        "length": 2,
-        "type": "bold"
-      },
-      {
-        "offset": 719,
-        "length": 2,
-        "type": "custom_emoji",
-        "custom_emoji_id": "5449841756596101801"
-      },
-      {
-        "offset": 721,
-        "length": 5,
-        "type": "mention"
-      },
-      {
-        "offset": 721,
-        "length": 5,
-        "type": "bold"
-      }
-    ],
-    "media_group_id": null,
-    "chat_id": -1004468214616,
-    "message_ids": [
-      637
-    ],
-    "update_ids": [
-      378304529
-    ],
-    "retry_count": 0
-  },
-  {
     "type": "photo",
     "photo_file_ids": [
       "AgACAgQAAyEFAAMBClOLWAACAn5ql-pg9RWoMCz6RSyXMQABqT2BMvsAAocPaxs14cFQFcR8P1EDqbkBAAMCAAN5AAM9BA"
@@ -2769,6 +2675,151 @@
     ],
     "update_ids": [
       378304597
+    ],
+    "retry_count": 0
+  },
+  {
+    "type": "photo",
+    "photo_file_ids": [
+      "AgACAgQAAyEFAAMBClOLWAACAsJqnrD56BkirhcwX8pC2d3SDwfg0QACMxFrG2yJ8FB-7KsY1SyDmgEAAwIAA3gAAz0E"
+    ],
+    "caption": "❗️OpenAI’s chief scientist says AI labs may need to slow down\n\nOpenAI chief scientist Jakub Pachocki is sounding the alarm: AI labs may not be able to keep scaling frontier models at full speed for much longer.\n\nHe’s calling for voluntary slowdowns until the industry has shared safety standards in place and says OpenAI could even choose to pause further scaling on its own if necessary.\n\nAnd his warnings get pretty intense: \n\n• “We will actually see machines meaningfully smarter than ourselves in our lifetime.”\n\n• “I am concerned no one is prepared for the consequences of a continued rapid rise in machine intelligence.”\n\n• “The models are becoming superhuman in their ability to break in and out of computer systems.”\n\nAnd the biggest warning:\n\n“No lab has solved alignment and monitoring to a sufficient degree to continue responsibly scaling at maximum speed for much longer.”\n\nSource. \n\n@aipost 🏴",
+    "entities": [
+      {
+        "offset": 0,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5289761612440310918"
+      },
+      {
+        "offset": 2,
+        "length": 59,
+        "type": "bold"
+      },
+      {
+        "offset": 887,
+        "length": 8,
+        "type": "text_link",
+        "url": "https://openai.com/index/an-alien-mind/"
+      },
+      {
+        "offset": 897,
+        "length": 7,
+        "type": "mention"
+      },
+      {
+        "offset": 905,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5431390559912614642"
+      }
+    ],
+    "media_group_id": null,
+    "chat_id": -1004468214616,
+    "message_ids": [
+      706
+    ],
+    "update_ids": [
+      378304598
+    ],
+    "retry_count": 0
+  },
+  {
+    "type": "photo",
+    "photo_file_ids": [
+      "AgACAgIAAyEFAAMBClOLWAACAsNqnrEe9sxONBjGNZyYO2wFBVOhZwACWiBrG8Rx2EgTY6hQ1FhFIwEAAwIAA3kAAz0E"
+    ],
+    "caption": "🧠 Every Developer’s App Evolution\n\nIt starts with Minecraft and Subway Surfers, then moves to Fortnite and Instagram.\n\nOne day, the screen is full of ChatGPT, GitHub, VS Code, Notion, plus 17 more tools “for work.”\n\n📊@tech",
+    "entities": [
+      {
+        "offset": 0,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5237799019329105246"
+      },
+      {
+        "offset": 3,
+        "length": 31,
+        "type": "bold"
+      },
+      {
+        "offset": 51,
+        "length": 28,
+        "type": "bold"
+      },
+      {
+        "offset": 151,
+        "length": 52,
+        "type": "bold"
+      },
+      {
+        "offset": 217,
+        "length": 2,
+        "type": "bold"
+      },
+      {
+        "offset": 217,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5449841756596101801"
+      },
+      {
+        "offset": 219,
+        "length": 5,
+        "type": "mention"
+      },
+      {
+        "offset": 219,
+        "length": 5,
+        "type": "bold"
+      }
+    ],
+    "media_group_id": null,
+    "chat_id": -1004468214616,
+    "message_ids": [
+      707
+    ],
+    "update_ids": [
+      378304599
+    ],
+    "retry_count": 0
+  },
+  {
+    "type": "video",
+    "video_file_id": "BAACAgQAAyEFAAMBClOLWAACAsRqnrE907wqvzmT1WA519We51PUrAACbCIAAmyJ8FBobICs6qXYmz0E",
+    "video_file_size": 18643243,
+    "caption": "🥺 Sam Altman on Bloomberg Television:\n\nGPT-6 Astra is not the model that was paused over cybersecurity concerns; the paused model is a future model.\n\n\"Astra has been done training for a while. The model that we recently talked about pausing, uh, is a future model. But with Astra, we did hit cyber-critical.\"\n\n@aipost 🏴",
+    "entities": [
+      {
+        "offset": 0,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5291894093767542370"
+      },
+      {
+        "offset": 3,
+        "length": 35,
+        "type": "bold"
+      },
+      {
+        "offset": 311,
+        "length": 7,
+        "type": "mention"
+      },
+      {
+        "offset": 319,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5431390559912614642"
+      }
+    ],
+    "media_group_id": null,
+    "chat_id": -1004468214616,
+    "message_ids": [
+      708
+    ],
+    "update_ids": [
+      378304600
     ],
     "retry_count": 0
   }
