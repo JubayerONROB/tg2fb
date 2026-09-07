@@ -3008,5 +3008,34 @@
       378304527
     ],
     "retry_count": 0
+  },
+  {
+    "type": "video",
+    "video_file_id": "BAACAgQAAyEFAAMBClOLWAACAn9ql-pop3ZKhIXQzntG_nrPu9E91gACRB0AAjXhwVCZlXD0B5HSJj0E",
+    "video_file_size": 21251361,
+    "caption": "Dyson just released a new AI-powered toothbrush with an integrated 100,000-pixel macro lens camera for $499.\n\n@aipost 🏴",
+    "entities": [
+      {
+        "offset": 110,
+        "length": 7,
+        "type": "text_link",
+        "url": "https://t.me/aipost"
+      },
+      {
+        "offset": 118,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5431390559912614642"
+      }
+    ],
+    "media_group_id": null,
+    "chat_id": -1004468214616,
+    "message_ids": [
+      639
+    ],
+    "update_ids": [
+      378304531
+    ],
+    "retry_count": 0
   }
 ]
