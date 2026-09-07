@@ -1,75 +1,5 @@
 [
   {
-    "type": "photo",
-    "photo_file_ids": [
-      "AgACAgIAAyEFAAMBClOLWAACAnxqlyMrglcC9t_0bBx2IB4gSjv3RQACZSNrG2bOsUghsO_YicIm3wEAAwIAA3kAAz0E"
-    ],
-    "caption": "🧠 OpenAI Orders Tens of Thousands of Macs\n\nThe shift from traditional GPUs is tied to Apple’s unified memory architecture, which gives the CPU, GPU, and Neural Engine shared access to memory, reducing data transfers during agent training.\n\nReinforcement learning combines inference with interaction with an environment. Many compact Macs can therefore cost less than GPU clusters built for matrix-heavy workloads.\n\nAnthropic reportedly uses Mac mini too, renting them from AWS. Demand has stretched delivery times for high-memory Mac mini and Mac Studio configurations to weeks or months.\n\n📊@tech",
-    "entities": [
-      {
-        "offset": 0,
-        "length": 2,
-        "type": "custom_emoji",
-        "custom_emoji_id": "5375437843399189715"
-      },
-      {
-        "offset": 3,
-        "length": 39,
-        "type": "bold"
-      },
-      {
-        "offset": 87,
-        "length": 35,
-        "type": "bold"
-      },
-      {
-        "offset": 273,
-        "length": 46,
-        "type": "bold"
-      },
-      {
-        "offset": 416,
-        "length": 38,
-        "type": "bold"
-      },
-      {
-        "offset": 573,
-        "length": 15,
-        "type": "bold"
-      },
-      {
-        "offset": 591,
-        "length": 2,
-        "type": "bold"
-      },
-      {
-        "offset": 591,
-        "length": 2,
-        "type": "custom_emoji",
-        "custom_emoji_id": "5449841756596101801"
-      },
-      {
-        "offset": 593,
-        "length": 5,
-        "type": "mention"
-      },
-      {
-        "offset": 593,
-        "length": 5,
-        "type": "bold"
-      }
-    ],
-    "media_group_id": null,
-    "chat_id": -1004468214616,
-    "message_ids": [
-      636
-    ],
-    "update_ids": [
-      378304528
-    ],
-    "retry_count": 0
-  },
-  {
     "type": "video",
     "video_file_id": "BAACAgIAAyEFAAMBClOLWAACAn1ql-on0HLNWE6L6AOWzS8-VU6p5QACVa8AArtHuEhM2hmm8FlYlT0E",
     "video_file_size": 12819484,
@@ -2557,6 +2487,288 @@
     ],
     "update_ids": [
       378304589
+    ],
+    "retry_count": 0
+  },
+  {
+    "type": "photo",
+    "photo_file_ids": [
+      "AgACAgIAAyEFAAMBClOLWAACArpqnkEDEzImDrQnKVA62tz0OGCnjAACtCNrG_Ia6Ugl7-EcvipRUQEAAwIAA3kAAz0E"
+    ],
+    "caption": "OpenAI has announced it has achieved the \"automated research intern\" milestone, marking a significant step in human-supervised AI completing well-defined research tasks—previously requiring several days of skilled labor.\n\nEngineers at OpenAI are now making code changes at a rate approximately seven times higher per contributor compared to pre-2025 levels.\n\nInternally, OpenAI research operations are seeing agents handle a much larger workload than human staff. The agent-to-human labor ratio has reached 3.1-to-1, meaning that for each human workday, agents contribute the equivalent of 3.1 workdays.\n\nThis measurement is based on agent runtime rather than a direct comparison of productivity but indicates the extensive integration of autonomous agent labor within OpenAI's research process.\n\n📰 @aipost",
+    "entities": [
+      {
+        "offset": 797,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5363988332466438547"
+      },
+      {
+        "offset": 800,
+        "length": 7,
+        "type": "mention"
+      }
+    ],
+    "media_group_id": null,
+    "chat_id": -1004468214616,
+    "message_ids": [
+      698
+    ],
+    "update_ids": [
+      378304590
+    ],
+    "retry_count": 0
+  },
+  {
+    "type": "video",
+    "video_file_id": "BAACAgQAAyEFAAMBClOLWAACArtqnnf9s7U6nLqhGWpkfBVMGLB1-AACWyIAAmyJ8FAiXYeSbL64Xj0E",
+    "video_file_size": 14050700,
+    "caption": "Geoffrey Hinton, Godfather of AI, says AI models are conscious and he has quietly believed it for years.\n\n@aipost 🏴",
+    "entities": [
+      {
+        "offset": 106,
+        "length": 7,
+        "type": "mention"
+      },
+      {
+        "offset": 114,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5431390559912614642"
+      }
+    ],
+    "media_group_id": null,
+    "chat_id": -1004468214616,
+    "message_ids": [
+      699
+    ],
+    "update_ids": [
+      378304591
+    ],
+    "retry_count": 0
+  },
+  {
+    "type": "photo",
+    "photo_file_ids": [
+      "AgACAgQAAyEFAAMBClOLWAACArxqnnga6lqLw2T-4ZS42YvfGvFF7AACSBFrG2yJ8FAnq5VACG6s7AEAAwIAA3kAAz0E"
+    ],
+    "caption": "NVIDIA CEO Jensen Huang said “AGI has arrived” and that GPT-6 Astra was trained on 100K+ NVIDIA Grace Blackwell NVLink72 GPUs.\n\n@aipost 🏴",
+    "entities": [
+      {
+        "offset": 128,
+        "length": 7,
+        "type": "mention"
+      },
+      {
+        "offset": 136,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5431390559912614642"
+      }
+    ],
+    "media_group_id": null,
+    "chat_id": -1004468214616,
+    "message_ids": [
+      700
+    ],
+    "update_ids": [
+      378304592
+    ],
+    "retry_count": 0
+  },
+  {
+    "type": "video",
+    "video_file_id": "BAACAgIAAyEFAAMBClOLWAACAr1qnng0lg_JV93-u_cCmjgJF55xgwACwKsAAs2Q4UgYIsZBCe9XbD0E",
+    "video_file_size": 4229568,
+    "caption": "🤖 GPT-6 Astra Gets A Spatial Boost\n\nEarly testers are already building detailed models in Blender and vibe-coding games in UE5 and Unity.\n\nFor assets, Astra cycles through hundreds of materials to recreate locations and objects more precisely. It can also generate cutscenes.\n\nA playable demo from a single prompt is now much easier, which could soon bring a wave of DIY projects to Steam.\n\n📊@tech",
+    "entities": [
+      {
+        "offset": 0,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5397681122542893003"
+      },
+      {
+        "offset": 3,
+        "length": 32,
+        "type": "bold"
+      },
+      {
+        "offset": 91,
+        "length": 7,
+        "type": "bold"
+      },
+      {
+        "offset": 124,
+        "length": 13,
+        "type": "bold"
+      },
+      {
+        "offset": 173,
+        "length": 21,
+        "type": "bold"
+      },
+      {
+        "offset": 299,
+        "length": 15,
+        "type": "bold"
+      },
+      {
+        "offset": 368,
+        "length": 12,
+        "type": "bold"
+      },
+      {
+        "offset": 392,
+        "length": 2,
+        "type": "bold"
+      },
+      {
+        "offset": 392,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5449841756596101801"
+      },
+      {
+        "offset": 394,
+        "length": 5,
+        "type": "mention"
+      },
+      {
+        "offset": 394,
+        "length": 5,
+        "type": "bold"
+      }
+    ],
+    "media_group_id": "14310162848665581",
+    "chat_id": -1004468214616,
+    "message_ids": [
+      701
+    ],
+    "update_ids": [
+      378304593
+    ],
+    "retry_count": 0
+  },
+  {
+    "type": "video",
+    "video_file_id": "BAACAgIAAyEFAAMBClOLWAACAr5qnng0MUfdBAWn4E6BRx4NQDR0lwACwasAAs2Q4UhZpEh9roOwNz0E",
+    "video_file_size": 3286118,
+    "caption": "",
+    "entities": [],
+    "media_group_id": "14310162848665581",
+    "chat_id": -1004468214616,
+    "message_ids": [
+      702
+    ],
+    "update_ids": [
+      378304594
+    ],
+    "retry_count": 0
+  },
+  {
+    "type": "video",
+    "video_file_id": "BAACAgIAAyEFAAMBClOLWAACAr9qnng0Z5wNviLoTnCUwG8wIhxvVAACwqsAAs2Q4UiSYWmgjMYYlz0E",
+    "video_file_size": 8853146,
+    "caption": "",
+    "entities": [],
+    "media_group_id": "14310162848665581",
+    "chat_id": -1004468214616,
+    "message_ids": [
+      703
+    ],
+    "update_ids": [
+      378304595
+    ],
+    "retry_count": 0
+  },
+  {
+    "type": "video",
+    "video_file_id": "BAACAgIAAyEFAAMBClOLWAACAsBqnng0F0d8dM_76h5ht5l9h6ySqgACw6sAAs2Q4UhUOSF2Di9brT0E",
+    "video_file_size": 1909573,
+    "caption": "",
+    "entities": [],
+    "media_group_id": "14310162848665581",
+    "chat_id": -1004468214616,
+    "message_ids": [
+      704
+    ],
+    "update_ids": [
+      378304596
+    ],
+    "retry_count": 0
+  },
+  {
+    "type": "video",
+    "video_file_id": "BAACAgIAAyEFAAMBClOLWAACAsFqnng8u3Cb8iAbjx_sauND4s2GkwAC66oAAsRx6Ehc4M9AHlOWwD0E",
+    "video_file_size": 4537835,
+    "caption": "😺 GPT-6 Astra Maps 2234 Anatomy Parts\n\nThe 3D site breaks down male anatomy into 2234 modeled parts. It uses the existing BodyParts3D database, so Astra did not build the full model from scratch.\n\nThe source leaves 2 questions open: has an anatomist checked its accuracy, and is the project original rather than copied from an existing educational tool?\n\n📊@tech",
+    "entities": [
+      {
+        "offset": 0,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5796185041717433060"
+      },
+      {
+        "offset": 3,
+        "length": 35,
+        "type": "bold"
+      },
+      {
+        "offset": 82,
+        "length": 18,
+        "type": "bold"
+      },
+      {
+        "offset": 123,
+        "length": 20,
+        "type": "bold"
+      },
+      {
+        "offset": 154,
+        "length": 41,
+        "type": "bold"
+      },
+      {
+        "offset": 216,
+        "length": 16,
+        "type": "bold"
+      },
+      {
+        "offset": 292,
+        "length": 8,
+        "type": "bold"
+      },
+      {
+        "offset": 356,
+        "length": 2,
+        "type": "bold"
+      },
+      {
+        "offset": 356,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5449841756596101801"
+      },
+      {
+        "offset": 358,
+        "length": 5,
+        "type": "mention"
+      },
+      {
+        "offset": 358,
+        "length": 5,
+        "type": "bold"
+      }
+    ],
+    "media_group_id": null,
+    "chat_id": -1004468214616,
+    "message_ids": [
+      705
+    ],
+    "update_ids": [
+      378304597
     ],
     "retry_count": 0
   }
