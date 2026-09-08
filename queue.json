@@ -2,96 +2,6 @@
   {
     "type": "photo",
     "photo_file_ids": [
-      "AgACAgIAAyEFAAMBClOLWAACAoFqmE-ER4JHJBs4FjHFRA8gRyY3VwACCyNrG_pruUjIMFpMXOV9YgEAAwIAA3kAAz0E"
-    ],
-    "caption": "🌬️ Dyson puts camera in $499 toothbrush\n\nThe CameraJet’s tiny camera captures 28 photos per second. An AI system trained on 470,000 dental images finds gaps between teeth and directs a small rinse stream there during brushing.\n\nIt can also stream a live view of the mouth to the MyDyson app, showing cleaning coverage and close-up images of the teeth.\n\nDyson says development took 6 years and involved 661 engineers. The $499.99 device combines an electric toothbrush, oral irrigator, and camera.\n\n📊@tech",
-    "entities": [
-      {
-        "offset": 0,
-        "length": 3,
-        "type": "custom_emoji",
-        "custom_emoji_id": "5366290052684984457"
-      },
-      {
-        "offset": 4,
-        "length": 36,
-        "type": "bold"
-      },
-      {
-        "offset": 46,
-        "length": 23,
-        "type": "bold"
-      },
-      {
-        "offset": 79,
-        "length": 20,
-        "type": "bold"
-      },
-      {
-        "offset": 104,
-        "length": 42,
-        "type": "bold"
-      },
-      {
-        "offset": 250,
-        "length": 22,
-        "type": "bold"
-      },
-      {
-        "offset": 280,
-        "length": 11,
-        "type": "bold"
-      },
-      {
-        "offset": 382,
-        "length": 7,
-        "type": "bold"
-      },
-      {
-        "offset": 403,
-        "length": 13,
-        "type": "bold"
-      },
-      {
-        "offset": 422,
-        "length": 7,
-        "type": "bold"
-      },
-      {
-        "offset": 499,
-        "length": 2,
-        "type": "bold"
-      },
-      {
-        "offset": 499,
-        "length": 2,
-        "type": "custom_emoji",
-        "custom_emoji_id": "5449841756596101801"
-      },
-      {
-        "offset": 501,
-        "length": 5,
-        "type": "mention"
-      },
-      {
-        "offset": 501,
-        "length": 5,
-        "type": "bold"
-      }
-    ],
-    "media_group_id": null,
-    "chat_id": -1004468214616,
-    "message_ids": [
-      641
-    ],
-    "update_ids": [
-      378304533
-    ],
-    "retry_count": 0
-  },
-  {
-    "type": "photo",
-    "photo_file_ids": [
       "AgACAgIAAyEFAAMBClOLWAACAoJqmE-hS2QJ9t-3c5lgJAUcIQUeDQACtyBrG_pruUi2YJKHQZpwfAEAAwIAA3kAAz0E"
     ],
     "caption": "🛸 Rainmaker Reports 71 Million Liters\n\nDuring a three-hour test over Alaska, Rainmaker’s drones released small amounts of silver iodide into cold clouds. The company says this helped form ice crystals that fell as rain or snow, producing an estimated 71 million liters of additional precipitation.\n\nRainmaker uses weather algorithms, radar, and satellite data to select clouds and time each seeding flight. Atmo’s AI models help identify clouds with high seeding potential. The estimate is based on Rainmaker’s own analysis.\n\n📊@tech",
@@ -2681,6 +2591,134 @@
     ],
     "update_ids": [
       378304600
+    ],
+    "retry_count": 0
+  },
+  {
+    "type": "album",
+    "photo_file_ids": [
+      "AgACAgQAAyEFAAMBClOLWAACAsVqn5mSkKCqpMdLncPTfIjN_Ub8OQAC5BFrG9_o-VDmLdImQXqD6gEAAwIAA3gAAz0E",
+      "AgACAgQAAyEFAAMBClOLWAACAsZqn5mS7-qeOBTx6hXwzLAUjaonhQAC5RFrG9_o-VABbqIK0sFMBAEAAwIAA3gAAz0E"
+    ],
+    "caption": "💰 The AI job bust just turned into a boom\n\nTwo years ago, AI was supposed to wipe out software jobs. Instead, developer hiring has bounced back above trend and developers are now the fastest-growing job category in the latest data from The Economist.\n\nBy 2026, AI-related white-collar work is around 700,000 jobs above where normal hiring would have put it.\n\nAnd the boom isn’t limited to software. AI data centers are also creating roughly 300,000 extra jobs for electricians, plumbers and construction workers.\n\nAI didn’t just replace jobs. It changed which skills companies are willing to pay for. The developers getting hired today are increasingly the ones who know how to work with AI, direct AI and build with AI.\n\nAnd this pattern could spread far beyond coding. AI may replace some tasks, but people who know how to use it could become even more valuable.\n\n@aipost 🏴",
+    "entities": [
+      {
+        "offset": 0,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5289964193162759223"
+      },
+      {
+        "offset": 3,
+        "length": 39,
+        "type": "bold"
+      },
+      {
+        "offset": 867,
+        "length": 7,
+        "type": "mention"
+      },
+      {
+        "offset": 875,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5431390559912614642"
+      }
+    ],
+    "media_group_id": "14310755475736845",
+    "chat_id": -1004468214616,
+    "message_ids": [
+      709,
+      710
+    ],
+    "update_ids": [
+      378304601,
+      378304602
+    ],
+    "retry_count": 0
+  },
+  {
+    "type": "photo",
+    "photo_file_ids": [
+      "AgACAgQAAyEFAAMBClOLWAACAsdqn5mif8vCYv6YJ2xfch2uGOMTDQAC5hFrG9_o-VBOVXOo8bxKlQEAAwIAA3cAAz0E"
+    ],
+    "caption": "🧠 AI intelligence is getting cheaper and usage is exploding\n\nAI is getting dramatically cheaper to use, and people are starting to use a lot more of it. According to OpenRouter, AI token usage jumped 25× in a year and reportedly doubled in just one month. \n\nMid-tier models are getting surprisingly close to frontier performance while costing a fraction of the price.\n\nFor example, Gemini 3.8 Flash reportedly scores 59 on Artificial Analysis’ Intelligence Index versus 66 for Claude Fable 5.1, while costing about $0.58 vs. $3.69 per benchmark task.\n\nThat’s roughly 90% of the performance for less than one-sixth of the cost.\n\nGPT-5.6 Luna reportedly processed nearly 12 trillion tokens in a single month, while Z-AI’s GLM 5.3 Flash reached 11.4 trillion.\n\nGLM 5.3 Flash also reportedly saw usage grow by more than 1,000% month-over-month. \n\nAs intelligence becomes cheaper, it becomes easier to put it everywhere, into apps, businesses, devices, workflows and eventually almost every part of daily life. Cheap intelligence could be the thing that makes AI truly ubiquitous.\n\nSource. \n\n@aipost 🏴",
+    "entities": [
+      {
+        "offset": 0,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5237889595894414384"
+      },
+      {
+        "offset": 3,
+        "length": 57,
+        "type": "bold"
+      },
+      {
+        "offset": 1078,
+        "length": 8,
+        "type": "text_link",
+        "url": "https://archive.ph/1k2JP"
+      },
+      {
+        "offset": 1088,
+        "length": 7,
+        "type": "mention"
+      },
+      {
+        "offset": 1096,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5431390559912614642"
+      }
+    ],
+    "media_group_id": null,
+    "chat_id": -1004468214616,
+    "message_ids": [
+      711
+    ],
+    "update_ids": [
+      378304603
+    ],
+    "retry_count": 0
+  },
+  {
+    "type": "video",
+    "video_file_id": "BAACAgQAAyEFAAMBClOLWAACAshqn5mpN0FNFbdjEgABdhzYkbSL1swAAoshAALf6PlQg9KzYJkX0E49BA",
+    "video_file_size": 31656597,
+    "caption": "❗️Unitree releases its 1st world model-powered autonomous humanoid robot combat video. \n\nUnifoLM-X2-1.0 replaces the human pilot in humanoid fighting with real-time prediction and planning.\n\nA very meaningful jump from Unitree's existing G1-Boxing setup, becuase here, a world model predicts how physical interactions may unfold before the robot acts, giving its policy a forecast against which to choose actions.\n\nFor fighting and many more practical situations, latency becomes so critical as any useful plan must update quickly when an opponent moves, strikes, or disrupts the robot's balance.\n\nUnitree says X2-1.0 can run that loop in real time.\n\n@aipost 🏴",
+    "entities": [
+      {
+        "offset": 0,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5289761612440310918"
+      },
+      {
+        "offset": 2,
+        "length": 85,
+        "type": "bold"
+      },
+      {
+        "offset": 651,
+        "length": 7,
+        "type": "mention"
+      },
+      {
+        "offset": 659,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5431390559912614642"
+      }
+    ],
+    "media_group_id": null,
+    "chat_id": -1004468214616,
+    "message_ids": [
+      712
+    ],
+    "update_ids": [
+      378304604
     ],
     "retry_count": 0
   }
