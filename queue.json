@@ -2,39 +2,6 @@
   {
     "type": "album",
     "photo_file_ids": [
-      "AgACAgQAAyEFAAMBClOLWAACAoNqmG6QgJLwRQUelebhHpg4ssFcBgAClQ9rGzXhwVBCL-rae70p_QEAAwIAA3cAAz0E",
-      "AgACAgQAAyEFAAMBClOLWAACAoRqmG6Q26Pc9FH25kg_E6pBPs60nwAClg9rGzXhwVBZHX9agQc4jgEAAwIAA3cAAz0E"
-    ],
-    "caption": "Sam Altman is teasing Astra, while considering the consequences\n\nIn the tweet he discusses how OpenAI have prioritized safety, while continuing to move forward with iterative deployment so that society can co-evolve with AI\n\nOpenAI is preparing to enter a new paradigm\n\n@aipost 🏴",
-    "entities": [
-      {
-        "offset": 270,
-        "length": 7,
-        "type": "text_link",
-        "url": "https://t.me/aipost"
-      },
-      {
-        "offset": 278,
-        "length": 2,
-        "type": "custom_emoji",
-        "custom_emoji_id": "5431390559912614642"
-      }
-    ],
-    "media_group_id": "14306997376868549",
-    "chat_id": -1004468214616,
-    "message_ids": [
-      643,
-      644
-    ],
-    "update_ids": [
-      378304535,
-      378304536
-    ],
-    "retry_count": 0
-  },
-  {
-    "type": "album",
-    "photo_file_ids": [
       "AgACAgQAAyEFAAMBClOLWAACAoVqmG7KOJ9B53AYMg82zRtL3zKcOgACjg9rGzXhwVChBVazOSaXDQEAAwIAA3gAAz0E",
       "AgACAgQAAyEFAAMBClOLWAACAoZqmG7KURHE_jp6kA-24iYE8WSYngACjw9rGzXhwVAmYMJJBcpeAAEBAAMCAAN4AAM9BA"
     ],
