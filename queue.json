@@ -2,50 +2,6 @@
   {
     "type": "album",
     "photo_file_ids": [
-      "AgACAgQAAyEFAAMBClOLWAACAoVqmG7KOJ9B53AYMg82zRtL3zKcOgACjg9rGzXhwVChBVazOSaXDQEAAwIAA3gAAz0E",
-      "AgACAgQAAyEFAAMBClOLWAACAoZqmG7KURHE_jp6kA-24iYE8WSYngACjw9rGzXhwVAmYMJJBcpeAAEBAAMCAAN4AAM9BA"
-    ],
-    "caption": "❗️Anthropic has now been SUED by EVERY major music label on Earth.\n\nSony and Warner are the latest to accuse the $2 TRILLION company of pirating songs from Taylor Swift, The Beatles and Michael Jackson to train Claude.\n\nThe publishers are seeking up to $150,000 PER work infringed, with the lawsuit naming CEO Dario Amodei personally.\n\nAnthropic already paid Universal Music $1.5 BILLION to settle the same claim last year.\n\n@aipost 🏴",
-    "entities": [
-      {
-        "offset": 0,
-        "length": 2,
-        "type": "custom_emoji",
-        "custom_emoji_id": "5289761612440310918"
-      },
-      {
-        "offset": 2,
-        "length": 64,
-        "type": "bold"
-      },
-      {
-        "offset": 425,
-        "length": 7,
-        "type": "text_link",
-        "url": "https://t.me/aipost"
-      },
-      {
-        "offset": 433,
-        "length": 2,
-        "type": "custom_emoji",
-        "custom_emoji_id": "5431390559912614642"
-      }
-    ],
-    "media_group_id": "14306997845530917",
-    "chat_id": -1004468214616,
-    "message_ids": [
-      645,
-      646
-    ],
-    "update_ids": [
-      378304537,
-      378304538
-    ],
-    "retry_count": 0
-  },
-  {
-    "type": "album",
-    "photo_file_ids": [
       "AgACAgQAAyEFAAMBClOLWAACAodqmRx-tG78-DFXpqVbG2gxpiycxQACCRBrGzXhwVDoaZtZs8ZdDQEAAwIAA3gAAz0E",
       "AgACAgQAAyEFAAMBClOLWAACAohqmRx-jrrzJb5mgb2ftYLE-ftLQwACChBrGzXhwVAwhghBYa36SwEAAwIAA3kAAz0E"
     ],
@@ -2663,6 +2619,220 @@
     ],
     "update_ids": [
       378304606
+    ],
+    "retry_count": 0
+  },
+  {
+    "type": "photo",
+    "photo_file_ids": [
+      "AgACAgQAAyEFAAMBClOLWAACAstqoEe5H4WLorBz9n7lS_psl9FiNgACUQ9rG9_oAVGQjNN64W0l6gEAAwIAA3cAAz0E"
+    ],
+    "caption": "😎 Sam Altman says we are entering the “revenge of the ideas guy” era.\n\nSam says he recently met someone who used GPT-5.6 to build software now sold to 50 people for $500/month. He says building it previously would have cost millions in software engineers.\n\nHe says GPT-6 Astra has reset the economics of starting a company. With Astra, “anyone who wants to have a company now has genius-level employees in every area of expertise.” He says even a full game for only a few thousand users can now make economic sense.\n\nHis message for engineers is pretty clear too: technical talent is still important, but simply knowing how to code is becoming less valuable as a differentiator. Altman says he now wants to fund people who deeply understand users even if they cannot code at all.\n\nSource. \n\n@aipost 🏴",
+    "entities": [
+      {
+        "offset": 0,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5289834369186299969"
+      },
+      {
+        "offset": 3,
+        "length": 67,
+        "type": "bold"
+      },
+      {
+        "offset": 782,
+        "length": 8,
+        "type": "text_link",
+        "url": "https://www.axios.com/2026/09/07/axios-interview-altman-touts-revenge-of-ideas-guy"
+      },
+      {
+        "offset": 792,
+        "length": 7,
+        "type": "mention"
+      },
+      {
+        "offset": 800,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5431390559912614642"
+      }
+    ],
+    "media_group_id": null,
+    "chat_id": -1004468214616,
+    "message_ids": [
+      715
+    ],
+    "update_ids": [
+      378304607
+    ],
+    "retry_count": 0
+  },
+  {
+    "type": "photo",
+    "photo_file_ids": [
+      "AgACAgQAAyEFAAMBClOLWAACAsxqoEfI3XJ9-qL5CtfnIAu5FUmTfwACUg9rG9_oAVG3cSAr1ZORRQEAAwIAA3kAAz0E"
+    ],
+    "caption": "Someone needs to stop these AI companies. 😂\n\n@aipost 🏴",
+    "entities": [
+      {
+        "offset": 42,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5370953476635368811"
+      },
+      {
+        "offset": 46,
+        "length": 7,
+        "type": "mention"
+      },
+      {
+        "offset": 54,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5431390559912614642"
+      }
+    ],
+    "media_group_id": null,
+    "chat_id": -1004468214616,
+    "message_ids": [
+      716
+    ],
+    "update_ids": [
+      378304608
+    ],
+    "retry_count": 0
+  },
+  {
+    "type": "video",
+    "video_file_id": "BAACAgIAAyEFAAMBClOLWAACAs1qoEgBwHtDEYmbDkvnigOxQ-ExAwACUaEAAts46UglNyEwSWIXfz0E",
+    "video_file_size": 6521203,
+    "caption": "Every specialist After Astra 6 😁\n\n📊@tech",
+    "entities": [
+      {
+        "offset": 0,
+        "length": 16,
+        "type": "bold"
+      },
+      {
+        "offset": 17,
+        "length": 13,
+        "type": "bold"
+      },
+      {
+        "offset": 35,
+        "length": 2,
+        "type": "bold"
+      },
+      {
+        "offset": 35,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5449841756596101801"
+      },
+      {
+        "offset": 37,
+        "length": 5,
+        "type": "mention"
+      },
+      {
+        "offset": 37,
+        "length": 5,
+        "type": "bold"
+      }
+    ],
+    "media_group_id": null,
+    "chat_id": -1004468214616,
+    "message_ids": [
+      717
+    ],
+    "update_ids": [
+      378304609
+    ],
+    "retry_count": 0
+  },
+  {
+    "type": "photo",
+    "photo_file_ids": [
+      "AgACAgIAAyEFAAMBClOLWAACAs5qoEgTTmxJqS3TiEUnFIrgMc3eSgACwSFrG8cw-EjTtZRC2cvaRAEAAwIAA3cAAz0E"
+    ],
+    "caption": "🤖 ChatGPT Work Learns Your Writing Style\n\nChatGPT Work can now remember your preferred wording and capitalization, including a characteristic sign-off.\n\nConnect Gmail, Google Drive, Slack, or SharePoint so ChatGPT can analyze your work content and use its style in new texts. The setting is in Settings → Personalization → Writing style. It applies on web and mobile, and is available on all paid plans with ChatGPT Work access.\n\n📊@tech",
+    "entities": [
+      {
+        "offset": 0,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5397681122542893003"
+      },
+      {
+        "offset": 3,
+        "length": 38,
+        "type": "bold"
+      },
+      {
+        "offset": 43,
+        "length": 12,
+        "type": "bold"
+      },
+      {
+        "offset": 78,
+        "length": 36,
+        "type": "bold"
+      },
+      {
+        "offset": 128,
+        "length": 23,
+        "type": "bold"
+      },
+      {
+        "offset": 162,
+        "length": 41,
+        "type": "bold"
+      },
+      {
+        "offset": 249,
+        "length": 26,
+        "type": "bold"
+      },
+      {
+        "offset": 295,
+        "length": 42,
+        "type": "bold"
+      },
+      {
+        "offset": 389,
+        "length": 39,
+        "type": "bold"
+      },
+      {
+        "offset": 431,
+        "length": 2,
+        "type": "bold"
+      },
+      {
+        "offset": 431,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5449841756596101801"
+      },
+      {
+        "offset": 433,
+        "length": 5,
+        "type": "mention"
+      },
+      {
+        "offset": 433,
+        "length": 5,
+        "type": "bold"
+      }
+    ],
+    "media_group_id": null,
+    "chat_id": -1004468214616,
+    "message_ids": [
+      718
+    ],
+    "update_ids": [
+      378304610
     ],
     "retry_count": 0
   }
