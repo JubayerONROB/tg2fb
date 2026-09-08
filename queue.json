@@ -1,49 +1,5 @@
 [
   {
-    "type": "album",
-    "photo_file_ids": [
-      "AgACAgQAAyEFAAMBClOLWAACAodqmRx-tG78-DFXpqVbG2gxpiycxQACCRBrGzXhwVDoaZtZs8ZdDQEAAwIAA3gAAz0E",
-      "AgACAgQAAyEFAAMBClOLWAACAohqmRx-jrrzJb5mgb2ftYLE-ftLQwACChBrGzXhwVAwhghBYa36SwEAAwIAA3kAAz0E"
-    ],
-    "caption": "❗️Google engineer Linwei Ding convicted in the FIRST AI espionage case in US history.\n\nHe stole 2,000+ pages of Google's most secret AI chip blueprints while secretly building a Chinese startup to REPLICATE Google's AI infrastructure.\n\nThe judge threw out ALL seven espionage charges, calling him \"disorganized and feeble\" rather than a spy.\n\nHe still faces seven trade secret theft counts, each carrying up to 10 years.\n\n@aipost 🏴",
-    "entities": [
-      {
-        "offset": 0,
-        "length": 2,
-        "type": "custom_emoji",
-        "custom_emoji_id": "5289761612440310918"
-      },
-      {
-        "offset": 2,
-        "length": 83,
-        "type": "bold"
-      },
-      {
-        "offset": 422,
-        "length": 7,
-        "type": "text_link",
-        "url": "https://t.me/aipost"
-      },
-      {
-        "offset": 430,
-        "length": 2,
-        "type": "custom_emoji",
-        "custom_emoji_id": "5431390559912614642"
-      }
-    ],
-    "media_group_id": "14307353590676165",
-    "chat_id": -1004468214616,
-    "message_ids": [
-      647,
-      648
-    ],
-    "update_ids": [
-      378304539,
-      378304540
-    ],
-    "retry_count": 0
-  },
-  {
     "type": "photo",
     "photo_file_ids": [
       "AgACAgIAAyEFAAMBClOLWAACAolqmRyLuuHtLXymu9Ufhuc79SFSQAACFSJrG6_IwUjJkNh_HRp69wEAAwIAA3kAAz0E"
@@ -2833,6 +2789,45 @@
     ],
     "update_ids": [
       378304610
+    ],
+    "retry_count": 0
+  },
+  {
+    "type": "video",
+    "video_file_id": "BAACAgQAAyEFAAMBClOLWAACAs9qoFjuNogMQCN8Y1SApB1I_HUNygACeh8AAt_oAVHIkCmBKCUUzT0E",
+    "video_file_size": 24647191,
+    "caption": "🗣Jeff Bezos says AI is going to create a labor shortage\n\n\"I know there's a lot of concern that many people have, including many smart people, that AI is going to make humans redundant and so on. I totally disagree with this point of view.\"\n\nHe says AI will make it possible for people to identify more problems, and that we have an endless set of things to invent.\n\n\"Today, we are limited not by our imaginations, but by what we can actually do.\"\n\nEveryone in the room, he said, has had an idea for a business or a product they wished they could build. It stayed in their head because it was too hard and it wasn't worth it.\n\n\"If we can accelerate the dream build loop, all of the ideas will then become possible. And then we end up being limited not by our capabilities, but by our imaginations.\"\n\n@aipost 🏴",
+    "entities": [
+      {
+        "offset": 0,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5287468155738821335"
+      },
+      {
+        "offset": 2,
+        "length": 54,
+        "type": "bold"
+      },
+      {
+        "offset": 800,
+        "length": 7,
+        "type": "mention"
+      },
+      {
+        "offset": 808,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5431390559912614642"
+      }
+    ],
+    "media_group_id": null,
+    "chat_id": -1004468214616,
+    "message_ids": [
+      719
+    ],
+    "update_ids": [
+      378304611
     ],
     "retry_count": 0
   }
