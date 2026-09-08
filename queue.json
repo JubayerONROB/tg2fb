@@ -1,90 +1,5 @@
 [
   {
-    "type": "photo",
-    "photo_file_ids": [
-      "AgACAgIAAyEFAAMBClOLWAACAoJqmE-hS2QJ9t-3c5lgJAUcIQUeDQACtyBrG_pruUi2YJKHQZpwfAEAAwIAA3kAAz0E"
-    ],
-    "caption": "🛸 Rainmaker Reports 71 Million Liters\n\nDuring a three-hour test over Alaska, Rainmaker’s drones released small amounts of silver iodide into cold clouds. The company says this helped form ice crystals that fell as rain or snow, producing an estimated 71 million liters of additional precipitation.\n\nRainmaker uses weather algorithms, radar, and satellite data to select clouds and time each seeding flight. Atmo’s AI models help identify clouds with high seeding potential. The estimate is based on Rainmaker’s own analysis.\n\n📊@tech",
-    "entities": [
-      {
-        "offset": 0,
-        "length": 2,
-        "type": "custom_emoji",
-        "custom_emoji_id": "5408835320114323884"
-      },
-      {
-        "offset": 3,
-        "length": 35,
-        "type": "bold"
-      },
-      {
-        "offset": 49,
-        "length": 27,
-        "type": "bold"
-      },
-      {
-        "offset": 123,
-        "length": 13,
-        "type": "bold"
-      },
-      {
-        "offset": 189,
-        "length": 12,
-        "type": "bold"
-      },
-      {
-        "offset": 252,
-        "length": 17,
-        "type": "bold"
-      },
-      {
-        "offset": 315,
-        "length": 18,
-        "type": "bold"
-      },
-      {
-        "offset": 408,
-        "length": 16,
-        "type": "bold"
-      },
-      {
-        "offset": 500,
-        "length": 24,
-        "type": "bold"
-      },
-      {
-        "offset": 527,
-        "length": 2,
-        "type": "bold"
-      },
-      {
-        "offset": 527,
-        "length": 2,
-        "type": "custom_emoji",
-        "custom_emoji_id": "5449841756596101801"
-      },
-      {
-        "offset": 529,
-        "length": 5,
-        "type": "mention"
-      },
-      {
-        "offset": 529,
-        "length": 5,
-        "type": "bold"
-      }
-    ],
-    "media_group_id": null,
-    "chat_id": -1004468214616,
-    "message_ids": [
-      642
-    ],
-    "update_ids": [
-      378304534
-    ],
-    "retry_count": 0
-  },
-  {
     "type": "album",
     "photo_file_ids": [
       "AgACAgQAAyEFAAMBClOLWAACAoNqmG6QgJLwRQUelebhHpg4ssFcBgAClQ9rGzXhwVBCL-rae70p_QEAAwIAA3cAAz0E",
@@ -2719,6 +2634,68 @@
     ],
     "update_ids": [
       378304604
+    ],
+    "retry_count": 0
+  },
+  {
+    "type": "video",
+    "video_file_id": "BAACAgQAAyEFAAMBClOLWAACAslqn6oqVU0_Mn0mA5RVQQ1d6kERSgAClSEAAt_o-VDWCm1sYpcTJT0E",
+    "video_file_size": 6597718,
+    "caption": "Current AI Race Situation.\n\n@aipost 🏴",
+    "entities": [
+      {
+        "offset": 28,
+        "length": 7,
+        "type": "mention"
+      },
+      {
+        "offset": 36,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5431390559912614642"
+      }
+    ],
+    "media_group_id": null,
+    "chat_id": -1004468214616,
+    "message_ids": [
+      713
+    ],
+    "update_ids": [
+      378304605
+    ],
+    "retry_count": 0
+  },
+  {
+    "type": "video",
+    "video_file_id": "BAACAgQAAyEFAAMBClOLWAACAspqn9N9DjzDz2m0WiJgk4Dfai2UAgACsiEAAt_o-VBKa_Tmc2r5Rz0E",
+    "video_file_size": 27611200,
+    "caption": "😐 Jensen Huang: one of the most important things I would advise is, if I were a student today the first thing I would do is to learn AI.\n\n\"learning how to interact with AI is not unlike being someone who is really good at asking questions.\"\n\n\"you can't just randomly ask a bunch of questions.\"\n\n\"asking an AI to be assistant to you requires some expertise and artistry in how to prompt it.\"\n\n\"my generation was the first generation that had to ask the question, how do I use computers to do my job better.\"\n\n\"the next generation has to ask the next question. how can I use AI to do my job better?\"\n\n\"that is start and finish I think for everybody.\"\n\n@aipost 🏴",
+    "entities": [
+      {
+        "offset": 0,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5292058161518251626"
+      },
+      {
+        "offset": 651,
+        "length": 7,
+        "type": "mention"
+      },
+      {
+        "offset": 659,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5431390559912614642"
+      }
+    ],
+    "media_group_id": null,
+    "chat_id": -1004468214616,
+    "message_ids": [
+      714
+    ],
+    "update_ids": [
+      378304606
     ],
     "retry_count": 0
   }
