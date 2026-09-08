@@ -2,53 +2,6 @@
   {
     "type": "photo",
     "photo_file_ids": [
-      "AgACAgQAAyEFAAMBClOLWAACAoBql_dn73HyzCtN2MlYF-jLOTbMpwACjA9rGzXhwVAzwDNvKaBtLAEAAwIAA3gAAz0E"
-    ],
-    "caption": "🇺🇸 Trump: Reject AI data centers and risk becoming “backwards and poor”\n\nTrump says communities that reject data centers are essentially choosing to fall behind, arguing that these facilities can bring jobs, investment and lower taxes.\n\nTrump also warned that resistance to data center construction could benefit China, saying the country “could not be happier” about the growing backlash.\n\nCommunities across the U.S. are increasingly pushing back because massive AI data centers can consume huge amounts of electricity and water, while residents worry about higher utility bills, noise and the local environmental impact. More than 70% of Americans surveyed say they don’t want a data center near their home.\n\nSource. \n\n@aipost 🏴",
-    "entities": [
-      {
-        "offset": 0,
-        "length": 4,
-        "type": "custom_emoji",
-        "custom_emoji_id": "5202021044105257611"
-      },
-      {
-        "offset": 4,
-        "length": 69,
-        "type": "bold"
-      },
-      {
-        "offset": 714,
-        "length": 8,
-        "type": "text_link",
-        "url": "https://www.wsj.com/politics/policy/trump-says-communities-that-oppose-data-centers-risk-becoming-backwards-and-poor-601f41d7"
-      },
-      {
-        "offset": 724,
-        "length": 7,
-        "type": "text_link",
-        "url": "https://t.me/aipost"
-      },
-      {
-        "offset": 732,
-        "length": 2,
-        "type": "custom_emoji",
-        "custom_emoji_id": "5431390559912614642"
-      }
-    ],
-    "media_group_id": null,
-    "chat_id": -1004468214616,
-    "message_ids": [
-      640
-    ],
-    "update_ids": [
-      378304532
-    ],
-    "retry_count": 0
-  },
-  {
-    "type": "photo",
-    "photo_file_ids": [
       "AgACAgIAAyEFAAMBClOLWAACAoFqmE-ER4JHJBs4FjHFRA8gRyY3VwACCyNrG_pruUjIMFpMXOV9YgEAAwIAA3kAAz0E"
     ],
     "caption": "🌬️ Dyson puts camera in $499 toothbrush\n\nThe CameraJet’s tiny camera captures 28 photos per second. An AI system trained on 470,000 dental images finds gaps between teeth and directs a small rinse stream there during brushing.\n\nIt can also stream a live view of the mouth to the MyDyson app, showing cleaning coverage and close-up images of the teeth.\n\nDyson says development took 6 years and involved 661 engineers. The $499.99 device combines an electric toothbrush, oral irrigator, and camera.\n\n📊@tech",
