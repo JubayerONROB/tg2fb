@@ -2,35 +2,6 @@
   {
     "type": "photo",
     "photo_file_ids": [
-      "AgACAgIAAyEFAAMBClOLWAACAolqmRyLuuHtLXymu9Ufhuc79SFSQAACFSJrG6_IwUjJkNh_HRp69wEAAwIAA3kAAz0E"
-    ],
-    "caption": "Gemini 3.8 Flash has been released, offering notable improvements in several key benchmarks.\n\nOn the HLE-Verified test, Gemini 3.8 Flash achieved a score of 54.9%, slightly ahead of Claude Opus 5, which scored 54.4%. In the Terminal-Bench 2.1 evaluation—focused on task completion within coding, security, machine learning, data science, and systems—Gemini 3.8 Flash reached an 89.4% completion rate.\n\nIn Harvey's Legal Agent Benchmark, Gemini 3.8 Flash recorded a 10.0% score, compared to Opus 5's 6.7%. This benchmark employs a strict all-pass rule, granting credit only when every legal criterion is met, including factual accuracy, structure, and analysis within complex legal workflows.\n\nGoogle has maintained the token price. However, Gemini 3.8 Flash may use more tokens on challenging tasks, potentially increasing total costs.\n\n📰 @aipost",
-    "entities": [
-      {
-        "offset": 837,
-        "length": 2,
-        "type": "custom_emoji",
-        "custom_emoji_id": "5363988332466438547"
-      },
-      {
-        "offset": 840,
-        "length": 7,
-        "type": "mention"
-      }
-    ],
-    "media_group_id": null,
-    "chat_id": -1004468214616,
-    "message_ids": [
-      649
-    ],
-    "update_ids": [
-      378304541
-    ],
-    "retry_count": 0
-  },
-  {
-    "type": "photo",
-    "photo_file_ids": [
       "AgACAgQAAyEFAAMBClOLWAACAopqmRyZAr9qn074VEWIQPWlXRftaQACaw9rGzXhyVA-81DK-T6LZwEAAwIAA3kAAz0E"
     ],
     "caption": "Ⓜ️ Meta released Muse Spark 1.3\n\nThe newest AI model from Meta Superintelligence Labs outperforms GPT-5.6 Sol, Claude Opus 5, and Claude Fable 5.1 on DeepSWE v1.1\n\n@aipost 🏴",
