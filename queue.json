@@ -1,40 +1,5 @@
 [
   {
-    "type": "video",
-    "video_file_id": "BAACAgQAAyEFAAMBClOLWAACAotqmRyypxIhi6dfwAlrScw_NL5g3AAC6B0AAjXhwVB3yn8vCKcSzD0E",
-    "video_file_size": 23169040,
-    "caption": "🥺 Sam Altman: “A year ago, I did not think we were on a short-term trajectory to superintelligence. Now I think it may happen.”\n\n“I’m not confident it’s going to happen. We’re just making extremely fast progress.”\n\n@aipost 🏴",
-    "entities": [
-      {
-        "offset": 0,
-        "length": 2,
-        "type": "custom_emoji",
-        "custom_emoji_id": "5291894093767542370"
-      },
-      {
-        "offset": 216,
-        "length": 7,
-        "type": "text_link",
-        "url": "https://t.me/aipost"
-      },
-      {
-        "offset": 224,
-        "length": 2,
-        "type": "custom_emoji",
-        "custom_emoji_id": "5431390559912614642"
-      }
-    ],
-    "media_group_id": null,
-    "chat_id": -1004468214616,
-    "message_ids": [
-      651
-    ],
-    "update_ids": [
-      378304543
-    ],
-    "retry_count": 0
-  },
-  {
     "type": "album",
     "photo_file_ids": [
       "AgACAgIAAyEFAAMBClOLWAACAoxqmRy8GTINwSRYd5YKOdylO7nvMQACch5rG5xuyUh8y7FnxY3bMQEAAwIAA3kAAz0E",
@@ -2758,6 +2723,149 @@
     ],
     "update_ids": [
       378304611
+    ],
+    "retry_count": 0
+  },
+  {
+    "type": "text",
+    "caption": "🤖 AGI by spring 2027? AI is already helping build its successor.\n\nOpenAI says its AI is helping develop the next generation of models — handling research tasks that would take a skilled researcher several days, with humans supervising.\n\nThat could change the pace of progress. GPT-6 Astra helps researchers build a stronger model. Its successor takes on harder research problems and helps develop the generation after that.\n\nThe better AI gets at research, the faster this cycle could become.\n\nOpenAI’s chief scientist, Jakub Pachocki, says internal results give him reason to expect progress toward this kind of self-improvement. His concern: safety checks and human oversight may struggle to keep up.\n\nSpring 2027 is still a bet. Faster research tasks don’t automatically produce faster breakthroughs: experiments need computing power, and results need verification.\n\nBut Astra’s contribution to AGI may extend beyond anything it says in a chat. It could be helping researchers build the model that gets us closer.\n\n💬 When do you expect AGI: 2027, 2030, or much later?\n\n@aipost 🏴",
+    "entities": [
+      {
+        "offset": 0,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "6334661373837970660"
+      },
+      {
+        "offset": 3,
+        "length": 62,
+        "type": "bold"
+      },
+      {
+        "offset": 198,
+        "length": 12,
+        "type": "bold"
+      },
+      {
+        "offset": 426,
+        "length": 67,
+        "type": "bold"
+      },
+      {
+        "offset": 1019,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5465300082628763143"
+      },
+      {
+        "offset": 1022,
+        "length": 50,
+        "type": "bold"
+      },
+      {
+        "offset": 1074,
+        "length": 7,
+        "type": "mention"
+      },
+      {
+        "offset": 1082,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5431390559912614642"
+      }
+    ],
+    "media_group_id": null,
+    "chat_id": -1004468214616,
+    "message_ids": [
+      720
+    ],
+    "update_ids": [
+      378304612
+    ],
+    "retry_count": 0
+  },
+  {
+    "type": "video",
+    "video_file_id": "BAACAgQAAyEFAAMBClOLWAACAtFqoPctkT2etami0H9VV6pT1gipTQACex8AAt_oAVEsSJxAotxSqT0E",
+    "video_file_size": 19168066,
+    "caption": "🗣Jensen Huang: I’m not asking AI to think for me.\n\nI’m asking it to teach me things I don’t know or help me solve problems I otherwise wouldn’t reasonably be able to solve.\n\n“Don’t use it as a crutch for things you can do.”\n\n“The idea of prompting an AI, the idea of asking questions, is a highly cognitive skill.”\n\n“As a CEO, I spend most of my time asking questions.”\n\n“When you receive an answer from an AI, I wouldn’t just receive it.”\n\n“I usually say: are you sure this is the best answer you can provide?”\n\n“I take the answer from one AI, give it to another AI, and ask them to critique it.”\n\n“I ask the same question of multiple AIs, ask them to compare each other’s notes, and then give me the best of all the answers.”\n\n“That process of critiquing and criticizing the answers, critical thinking enhances cognitive skills.”\n\nI would advise people to apply critical thinking.\n\n@aipost 🏴",
+    "entities": [
+      {
+        "offset": 0,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5287468155738821335"
+      },
+      {
+        "offset": 2,
+        "length": 48,
+        "type": "bold"
+      },
+      {
+        "offset": 885,
+        "length": 7,
+        "type": "mention"
+      },
+      {
+        "offset": 893,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5431390559912614642"
+      }
+    ],
+    "media_group_id": null,
+    "chat_id": -1004468214616,
+    "message_ids": [
+      721
+    ],
+    "update_ids": [
+      378304613
+    ],
+    "retry_count": 0
+  },
+  {
+    "type": "photo",
+    "photo_file_ids": [
+      "AgACAgQAAyEFAAMBClOLWAACAtJqoPc7lCL050sko4W52LeyLQahLwACEhBrG9_oAVEEFNQ24VDQgwEAAwIAA3kAAz0E"
+    ],
+    "caption": "🤖 OpenAI says its AI has solved the Navier–Stokes Millennium Prize Problem, a mathematical question unresolved for roughly 90 years.\n\nAn internal model, described as significantly more capable than GPT-6 Astra, powered a group of around 10,000 concurrent agents.\n\nThe agents reached the solution after just 88 hours. Lean formalization and verification took another 17 hours via GPT-6 Astra.\n\nThe reported result: smooth three-dimensional fluid motion can develop a singularity in finite time under a smooth external force, while total energy remains finite.\n\nOpenAI is sharing the proof and its Lean formalization. 130 billion output tokens went into the Navier–Stokes effort alone. The internal model is still training.\n\nSource. \n\n@aipost 🏴",
+    "entities": [
+      {
+        "offset": 0,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5397681122542893003"
+      },
+      {
+        "offset": 3,
+        "length": 130,
+        "type": "bold"
+      },
+      {
+        "offset": 724,
+        "length": 8,
+        "type": "text_link",
+        "url": "https://openai.com/index/navier-stokes-solution/"
+      },
+      {
+        "offset": 734,
+        "length": 7,
+        "type": "mention"
+      },
+      {
+        "offset": 742,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5431390559912614642"
+      }
+    ],
+    "media_group_id": null,
+    "chat_id": -1004468214616,
+    "message_ids": [
+      722
+    ],
+    "update_ids": [
+      378304614
     ],
     "retry_count": 0
   }

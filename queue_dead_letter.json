@@ -3037,5 +3037,40 @@
       378304531
     ],
     "retry_count": 0
+  },
+  {
+    "type": "video",
+    "video_file_id": "BAACAgQAAyEFAAMBClOLWAACAotqmRyypxIhi6dfwAlrScw_NL5g3AAC6B0AAjXhwVB3yn8vCKcSzD0E",
+    "video_file_size": 23169040,
+    "caption": "🥺 Sam Altman: “A year ago, I did not think we were on a short-term trajectory to superintelligence. Now I think it may happen.”\n\n“I’m not confident it’s going to happen. We’re just making extremely fast progress.”\n\n@aipost 🏴",
+    "entities": [
+      {
+        "offset": 0,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5291894093767542370"
+      },
+      {
+        "offset": 216,
+        "length": 7,
+        "type": "text_link",
+        "url": "https://t.me/aipost"
+      },
+      {
+        "offset": 224,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5431390559912614642"
+      }
+    ],
+    "media_group_id": null,
+    "chat_id": -1004468214616,
+    "message_ids": [
+      651
+    ],
+    "update_ids": [
+      378304543
+    ],
+    "retry_count": 0
   }
 ]
