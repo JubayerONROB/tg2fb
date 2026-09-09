@@ -2,50 +2,6 @@
   {
     "type": "album",
     "photo_file_ids": [
-      "AgACAgQAAyEFAAMBClOLWAACApBqmaO0DW8Ib9WQ-X08OKB0Qik2SQACgg9rG7ACyFCvIA-4s2XzmAEAAwIAA3gAAz0E",
-      "AgACAgQAAyEFAAMBClOLWAACApFqmaO0iZ57vnEg5F9MyX5BfWJpNAACgw9rG7ACyFAt4_hfDye3eQEAAwIAA3kAAz0E"
-    ],
-    "caption": "🇬🇧 Uber launches London’s FIRST AI-powered robotaxis, beating Waymo to the UK.\n\nUber is deploying 20 Ford Mustang Mach-Es powered by Wayve’s AI Driver, which learns from real-world driving and adapts to new roads, weather and cities, making London only the second European city where Uber offers autonomous rides.\n\nSafety operators will ride onboard initially, with fully driverless service planned next, at no extra cost for UberX, Comfort and Electric riders.\n\n@aipost 🏴",
-    "entities": [
-      {
-        "offset": 0,
-        "length": 4,
-        "type": "custom_emoji",
-        "custom_emoji_id": "5202196682497859879"
-      },
-      {
-        "offset": 5,
-        "length": 75,
-        "type": "bold"
-      },
-      {
-        "offset": 465,
-        "length": 7,
-        "type": "text_link",
-        "url": "https://t.me/aipost"
-      },
-      {
-        "offset": 473,
-        "length": 2,
-        "type": "custom_emoji",
-        "custom_emoji_id": "5431390559912614642"
-      }
-    ],
-    "media_group_id": "14307630501958509",
-    "chat_id": -1004468214616,
-    "message_ids": [
-      656,
-      657
-    ],
-    "update_ids": [
-      378304548,
-      378304549
-    ],
-    "retry_count": 0
-  },
-  {
-    "type": "album",
-    "photo_file_ids": [
       "AgACAgQAAyEFAAMBClOLWAACApJqmaO6kwfx3GB2FhoE426S55i2WwAChw9rG7ACyFCQODSizoiJdAEAAwIAA3cAAz0E",
       "AgACAgQAAyEFAAMBClOLWAACApNqmaO6BU9Y6umGWxKFbjhRjJYSnwACiA9rG7ACyFDewsSTiA6lZQEAAwIAA3gAAz0E"
     ],
