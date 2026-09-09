@@ -1,40 +1,5 @@
 [
   {
-    "type": "album",
-    "photo_file_ids": [
-      "AgACAgIAAyEFAAMBClOLWAACAoxqmRy8GTINwSRYd5YKOdylO7nvMQACch5rG5xuyUh8y7FnxY3bMQEAAwIAA3kAAz0E",
-      "AgACAgIAAyEFAAMBClOLWAACAo1qmRy8hx5rnbXM8L6N4UeEWdFqmgACcR5rG5xuyUhStyD2wiWQwAEAAwIAA3gAAz0E",
-      "AgACAgIAAyEFAAMBClOLWAACAo5qmRy8hCfXbrxQT4r_khTb4uLnLQACcx5rG5xuyUgv3kTGWmHnvQEAAwIAA3gAAz0E"
-    ],
-    "caption": "The U.S. government has formally supported OpenAI’s central argument in its copyright dispute with The New York Times, stating that training AI models on copyrighted materials alone does not breach copyright law.\n\nIn its filed statement, the Department of Justice argued that training large language models (LLMs) on copyrighted texts is “transformative” and fits within fair use doctrine. The DOJ separated the issues of data acquisition, training, and output generation, focusing specifically on model training as a non-infringing act.\n\nThe document highlights potential national security risks and competitive disadvantages if U.S. AI development faces excessive copyright restrictions. The filing is advisory and does not bind the court, which must assess fair use on a case-by-case basis.\n\n📰 @aipost",
-    "entities": [
-      {
-        "offset": 795,
-        "length": 2,
-        "type": "custom_emoji",
-        "custom_emoji_id": "5363988332466438547"
-      },
-      {
-        "offset": 798,
-        "length": 7,
-        "type": "mention"
-      }
-    ],
-    "media_group_id": "14307354087153813",
-    "chat_id": -1004468214616,
-    "message_ids": [
-      652,
-      653,
-      654
-    ],
-    "update_ids": [
-      378304544,
-      378304545,
-      378304546
-    ],
-    "retry_count": 0
-  },
-  {
     "type": "photo",
     "photo_file_ids": [
       "AgACAgIAAyEFAAMBClOLWAACAo9qmT-ikx3nST6KCwNVrk8scdjBqgACOyBrGx9ryEhUpj0kMx2-OgEAAwIAA3gAAz0E"
@@ -2866,6 +2831,181 @@
     ],
     "update_ids": [
       378304614
+    ],
+    "retry_count": 0
+  },
+  {
+    "type": "video",
+    "video_file_id": "BAACAgIAAyEFAAMBClOLWAACAtNqoVirLgf5iNuye5d4uthNiiXv3gACw6UAAqvQAUm6U3L09U8JBj0E",
+    "video_file_size": 21502991,
+    "caption": "🤖 OpenAI Updates ChatGPT Images\n\nThe new ChatGPT Images 2.5 keeps people’s appearance from reference images more accurately, edits specific details with greater precision, and generates images up to 50% faster. It can replace one object or the background while preserving the rest of the composition. Sequential edits also stay more consistent.\n\nChatGPT now includes Sketch, where users can draw a rough room or clothing layout, add a description, and generate an image from it. Developers get GPT-Image-2.5 Flare for speed and bulk generation, plus Sunburst for detailed work. The update is available across ChatGPT, ChatGPT Work, and Codex.\n\n📊@tech",
+    "entities": [
+      {
+        "offset": 0,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5397681122542893003"
+      },
+      {
+        "offset": 3,
+        "length": 29,
+        "type": "bold"
+      },
+      {
+        "offset": 42,
+        "length": 18,
+        "type": "bold"
+      },
+      {
+        "offset": 200,
+        "length": 10,
+        "type": "bold"
+      },
+      {
+        "offset": 368,
+        "length": 6,
+        "type": "bold"
+      },
+      {
+        "offset": 495,
+        "length": 19,
+        "type": "bold"
+      },
+      {
+        "offset": 551,
+        "length": 8,
+        "type": "bold"
+      },
+      {
+        "offset": 645,
+        "length": 2,
+        "type": "bold"
+      },
+      {
+        "offset": 645,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5449841756596101801"
+      },
+      {
+        "offset": 647,
+        "length": 5,
+        "type": "mention"
+      },
+      {
+        "offset": 647,
+        "length": 5,
+        "type": "bold"
+      }
+    ],
+    "media_group_id": "14311671128529189",
+    "chat_id": -1004468214616,
+    "message_ids": [
+      723
+    ],
+    "update_ids": [
+      378304615
+    ],
+    "retry_count": 0
+  },
+  {
+    "type": "video",
+    "video_file_id": "BAACAgIAAyEFAAMBClOLWAACAtRqoVir7NpX6FeHgYpRLvLs2Ak4KwACxKUAAqvQAUlF3A-9qzkGIz0E",
+    "video_file_size": 11733999,
+    "caption": "",
+    "entities": [],
+    "media_group_id": "14311671128529189",
+    "chat_id": -1004468214616,
+    "message_ids": [
+      724
+    ],
+    "update_ids": [
+      378304616
+    ],
+    "retry_count": 0
+  },
+  {
+    "type": "video",
+    "video_file_id": "BAACAgIAAyEFAAMBClOLWAACAtVqoVir3cPkgZNhl551FvXHWxosAAPFpQACq9ABSfQTL0J0rQzBPQQ",
+    "video_file_size": 7202036,
+    "caption": "",
+    "entities": [],
+    "media_group_id": "14311671128529189",
+    "chat_id": -1004468214616,
+    "message_ids": [
+      725
+    ],
+    "update_ids": [
+      378304617
+    ],
+    "retry_count": 0
+  },
+  {
+    "type": "video",
+    "video_file_id": "BAACAgIAAyEFAAMBClOLWAACAtZqoVi1wG49WLs_dioNpL79ijBJ7AADtAACjjwBSVSwLXBcf1AePQQ",
+    "video_file_size": 46036669,
+    "caption": "😺 Astra Clears All 48 Robot Levels\n\nAn OpenAI developer shared that Astra completed all 48 levels of the browser game “I’m Not a Robot.”\n\nThe game starts with a checkbox, then raises the difficulty with image recognition, crosswords, drawing, parking, math, and keyboard rhythm. The CAPTCHA gets less routine with every level.\n\n📊@tech",
+    "entities": [
+      {
+        "offset": 0,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5796185041717433060"
+      },
+      {
+        "offset": 3,
+        "length": 32,
+        "type": "bold"
+      },
+      {
+        "offset": 40,
+        "length": 16,
+        "type": "bold"
+      },
+      {
+        "offset": 69,
+        "length": 29,
+        "type": "bold"
+      },
+      {
+        "offset": 139,
+        "length": 31,
+        "type": "bold"
+      },
+      {
+        "offset": 177,
+        "length": 21,
+        "type": "bold"
+      },
+      {
+        "offset": 329,
+        "length": 2,
+        "type": "bold"
+      },
+      {
+        "offset": 329,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5449841756596101801"
+      },
+      {
+        "offset": 331,
+        "length": 5,
+        "type": "mention"
+      },
+      {
+        "offset": 331,
+        "length": 5,
+        "type": "bold"
+      }
+    ],
+    "media_group_id": null,
+    "chat_id": -1004468214616,
+    "message_ids": [
+      726
+    ],
+    "update_ids": [
+      378304618
     ],
     "retry_count": 0
   }
