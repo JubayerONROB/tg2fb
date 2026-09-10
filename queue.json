@@ -1,120 +1,6 @@
 [
   {
     "type": "video",
-    "video_file_id": "BAACAgIAAyEFAAMBClOLWAACApVqmoS1RlbzN1AmF3s-oyKxwEmalwACIp8AAlDDwUim2P68WFDVPD0E",
-    "video_file_size": 30351578,
-    "caption": "📍 World Labs Unveils 3D Model Atlas\n\nAtlas reconstructs a surrounding space in 3D from text or visual files. Users can then move the camera and change the view while the scene geometry stays intact.\n\nWith several photos, it builds a complete 3D space. From one image, it can infer hidden parts, while more source frames improve accuracy. Atlas also generates controllable video up to 1 minute in 1440p, with the camera path set directly. The same system can turn footage of a real room into a simulation for robot training.\n\nAtlas is currently available only to early-access partners. It will later serve as the basis for new versions of Marble and other World Labs products.\n\n📊@tech",
-    "entities": [
-      {
-        "offset": 0,
-        "length": 2,
-        "type": "custom_emoji",
-        "custom_emoji_id": "5361621449004043977"
-      },
-      {
-        "offset": 3,
-        "length": 33,
-        "type": "bold"
-      },
-      {
-        "offset": 38,
-        "length": 5,
-        "type": "bold"
-      },
-      {
-        "offset": 80,
-        "length": 2,
-        "type": "bold"
-      },
-      {
-        "offset": 125,
-        "length": 15,
-        "type": "bold"
-      },
-      {
-        "offset": 171,
-        "length": 14,
-        "type": "bold"
-      },
-      {
-        "offset": 206,
-        "length": 14,
-        "type": "bold"
-      },
-      {
-        "offset": 234,
-        "length": 17,
-        "type": "bold"
-      },
-      {
-        "offset": 385,
-        "length": 8,
-        "type": "bold"
-      },
-      {
-        "offset": 397,
-        "length": 5,
-        "type": "bold"
-      },
-      {
-        "offset": 413,
-        "length": 24,
-        "type": "bold"
-      },
-      {
-        "offset": 509,
-        "length": 14,
-        "type": "bold"
-      },
-      {
-        "offset": 526,
-        "length": 5,
-        "type": "bold"
-      },
-      {
-        "offset": 563,
-        "length": 21,
-        "type": "bold"
-      },
-      {
-        "offset": 639,
-        "length": 6,
-        "type": "bold"
-      },
-      {
-        "offset": 678,
-        "length": 2,
-        "type": "bold"
-      },
-      {
-        "offset": 678,
-        "length": 2,
-        "type": "custom_emoji",
-        "custom_emoji_id": "5449841756596101801"
-      },
-      {
-        "offset": 680,
-        "length": 5,
-        "type": "mention"
-      },
-      {
-        "offset": 680,
-        "length": 5,
-        "type": "bold"
-      }
-    ],
-    "media_group_id": null,
-    "chat_id": -1004468214616,
-    "message_ids": [
-      661
-    ],
-    "update_ids": [
-      378304553
-    ],
-    "retry_count": 0
-  },
-  {
-    "type": "video",
     "video_file_id": "BAACAgIAAyEFAAMBClOLWAACApZqmoS_cQUBAmARZQrz1S5xpQL26gAC9qAAAnh7wEjLFCiFhN55Iz0E",
     "video_file_size": 8274677,
     "caption": "🗣️ A Man Broke AI Recruiters\n\nHe gives absurd answers to routine interview questions, and the recruiter treats them as normal. Asked about salary, he mentions a sideways drill bit in the first quarter.\n\nThe AI turns that into a question about horizontal drill diameters, then thanks him for sharing his expectations. That is how to behave around neuro-HR.\n\n📊@tech",
@@ -2913,6 +2799,236 @@
     ],
     "update_ids": [
       378304622
+    ],
+    "retry_count": 0
+  },
+  {
+    "type": "photo",
+    "photo_file_ids": [
+      "AgACAgQAAyEFAAMBClOLWAACAttqojm2tpfyexvgNLLPBXar7GLq-wAC6w9rG1dnCFFuxNAfy_o14wEAAwIAA3cAAz0E"
+    ],
+    "caption": "🔥 Google DeepMind just mapped 9 billion DNA variants\n\nWe’re moving from simply reading the human genome to using AI to predict what happens when we change it. \n\nDeepMind’s AlphaGenome can analyze up to 1 million DNA base pairs and predict how genetic variants affect gene expression, RNA splicing, chromatin and more.\n\nAround 98% of human DNA doesn’t directly code for proteins, yet changes in these regions can still influence disease.\n\nAlphaGenome can sift through billions of variants and flag the ones most likely to matter.\n\nEarly research found 22% more non-coding genetic associations in UK Biobank data.\n\nIf this keeps accelerating, AI could turn the genome from a massive instruction manual into something we can predict, simulate and eventually engineer. \n\nThe future of medicine might be less about treating disease… and more about predicting it before it starts.\n\nSource. \n\n@aipost 🏴",
+    "entities": [
+      {
+        "offset": 0,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5363970504057191145"
+      },
+      {
+        "offset": 3,
+        "length": 50,
+        "type": "bold"
+      },
+      {
+        "offset": 877,
+        "length": 8,
+        "type": "text_link",
+        "url": "https://spectrum.ieee.org/alphagenome-atlas"
+      },
+      {
+        "offset": 887,
+        "length": 7,
+        "type": "mention"
+      },
+      {
+        "offset": 895,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5431390559912614642"
+      }
+    ],
+    "media_group_id": null,
+    "chat_id": -1004468214616,
+    "message_ids": [
+      731
+    ],
+    "update_ids": [
+      378304623
+    ],
+    "retry_count": 0
+  },
+  {
+    "type": "video",
+    "video_file_id": "BAACAgQAAyEFAAMBClOLWAACAtxqojoNEhJdUy2FX1SYwBtTIP9VmwACgSEAAldnCFHaRXR60JRk-T0E",
+    "video_file_size": 25588937,
+    "caption": "Someone gave astra a robot, a paint brush, and a camera then asked it to paint the golden gate bridge in real life!\n\nit figured out how to control the robot, and progressively got better throughout its attempts.\n\n@aipost 🏴",
+    "entities": [
+      {
+        "offset": 213,
+        "length": 7,
+        "type": "mention"
+      },
+      {
+        "offset": 221,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5431390559912614642"
+      }
+    ],
+    "media_group_id": null,
+    "chat_id": -1004468214616,
+    "message_ids": [
+      732
+    ],
+    "update_ids": [
+      378304624
+    ],
+    "retry_count": 0
+  },
+  {
+    "type": "video",
+    "video_file_id": "BAACAgQAAyEFAAMBClOLWAACAt1qojoWHYNYVX3c52kKJec1fd3mMAACgyEAAldnCFGasQ64m8Jc5T0E",
+    "video_file_size": 25188830,
+    "caption": "❗️Luca Guadagnino’s ARTIFICIAL. It's coming. \n\nThe movie Sam Altman doesn't want you to see. So much so, he and OpenAI tried to pressure Amazon into deleting the movie. \n\n@aipost 🏴",
+    "entities": [
+      {
+        "offset": 0,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5289761612440310918"
+      },
+      {
+        "offset": 2,
+        "length": 43,
+        "type": "bold"
+      },
+      {
+        "offset": 171,
+        "length": 7,
+        "type": "mention"
+      },
+      {
+        "offset": 179,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5431390559912614642"
+      }
+    ],
+    "media_group_id": null,
+    "chat_id": -1004468214616,
+    "message_ids": [
+      733
+    ],
+    "update_ids": [
+      378304625
+    ],
+    "retry_count": 0
+  },
+  {
+    "type": "video",
+    "video_file_id": "BAACAgQAAyEFAAMBClOLWAACAt5qojomn_wUE_V9PEoavS-ucGITrAAChCEAAldnCFHvD6XOn_TeEz0E",
+    "video_file_size": 20237768,
+    "caption": "❗️Meta is giving its AI an upgrade: Muse, a personal AI agent that can actually do things for you.\n\nInstead of just answering questions, Muse can book travel, send emails, fill out forms, negotiate bills, make purchases, and keep working even after you close the app.\n\nIt runs inside its own secure cloud computer, remembers context, takes the next steps proactively, and can even operate through WhatsApp.\n\nAnd Meta says it’s coming to AI glasses. \n\n@aipost 🏴",
+    "entities": [
+      {
+        "offset": 0,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5289761612440310918"
+      },
+      {
+        "offset": 2,
+        "length": 96,
+        "type": "bold"
+      },
+      {
+        "offset": 451,
+        "length": 7,
+        "type": "mention"
+      },
+      {
+        "offset": 459,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5431390559912614642"
+      }
+    ],
+    "media_group_id": null,
+    "chat_id": -1004468214616,
+    "message_ids": [
+      734
+    ],
+    "update_ids": [
+      378304626
+    ],
+    "retry_count": 0
+  },
+  {
+    "type": "video",
+    "video_file_id": "BAACAgQAAyEFAAMBClOLWAACAt5qojomn_wUE_V9PEoavS-ucGITrAAChCEAAldnCFHvD6XOn_TeEz0E",
+    "video_file_size": 20237768,
+    "caption": "❗️Meta is giving its AI an upgrade: Muse, a personal AI agent that can actually do things for you.\n\nInstead of just answering questions, Muse can book travel, send emails, fill out forms, negotiate bills, make purchases, and keep working even after you close the app.\n\nIt runs inside its own secure cloud computer, remembers context, takes the next steps proactively, and can even operate through WhatsApp.\n\nAnd Meta says it’s coming to AI glasses. \n\n@aipost 🏴",
+    "entities": [
+      {
+        "offset": 0,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5289761612440310918"
+      },
+      {
+        "offset": 2,
+        "length": 96,
+        "type": "bold"
+      },
+      {
+        "offset": 451,
+        "length": 7,
+        "type": "mention"
+      },
+      {
+        "offset": 459,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5431390559912614642"
+      }
+    ],
+    "media_group_id": null,
+    "chat_id": -1004468214616,
+    "message_ids": [
+      735
+    ],
+    "update_ids": [
+      378304627
+    ],
+    "retry_count": 0
+  },
+  {
+    "type": "video",
+    "video_file_id": "BAACAgQAAyEFAAMBClOLWAACAuBqojqYm_-Oon6SlZ-n0wQfQPLzFwAChiEAAldnCFExJ4xkVI1ckz0E",
+    "video_file_size": 35863794,
+    "caption": "🗣Mark Zuckerberg talks about how he is using Meta’s newly released Muse agent. \n\nSomething much closer to a persistent personal worker than a chatbot.\n\nHelping his 3-year-old daughter who likes baking, monitor when mountain climbing permits become available and secure them for their weekend trips, and also for physical training.\n\nHe installed cameras in his MMA gym and has Muse watch the footage and give him feedback on his performance.\n\nZuckerberg gives it ongoing goals and projects, and the agent can continue working on them, remember what happened, and proactively suggest what it should do next.\n\n@aipost 🏴",
+    "entities": [
+      {
+        "offset": 0,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5287468155738821335"
+      },
+      {
+        "offset": 2,
+        "length": 78,
+        "type": "bold"
+      },
+      {
+        "offset": 608,
+        "length": 7,
+        "type": "mention"
+      },
+      {
+        "offset": 616,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5431390559912614642"
+      }
+    ],
+    "media_group_id": null,
+    "chat_id": -1004468214616,
+    "message_ids": [
+      736
+    ],
+    "update_ids": [
+      378304628
     ],
     "retry_count": 0
   }
