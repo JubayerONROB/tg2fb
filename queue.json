@@ -1,49 +1,5 @@
 [
   {
-    "type": "album",
-    "photo_file_ids": [
-      "AgACAgQAAyEFAAMBClOLWAACAphqmpPi1LVC5aO5MEIVFqp7lAy8uQACiQ9rG7ACyFDvnb-E13bBBwEAAwIAA3kAAz0E",
-      "AgACAgQAAyEFAAMBClOLWAACAplqmpPiSM-oTrcVIFU6WGuvEFfbPAACig9rG7ACyFDgbgdNlnOxrAEAAwIAA3cAAz0E"
-    ],
-    "caption": "🥺 Sam Altman says a single California ALMOND drinks more water than thousands of ChatGPT prompts.\n\nHis own numbers: 0.32 milliliters a query against 3.56 liters an almond, which is about 11,000 prompts per nut.\n\n\"The people that are scarfing down 12 almonds at a time don't feel like they're doing something horrible from a water perspective,\" he said on the Sources podcast.\n\nHe also said a modern data center uses about as much water as a large office building.\n\nThe biggest ones pull up to 5 million gallons a day, which is the household water use of a town of 50,000 people.\n\n@aipost 🏴",
-    "entities": [
-      {
-        "offset": 0,
-        "length": 2,
-        "type": "custom_emoji",
-        "custom_emoji_id": "5291894093767542370"
-      },
-      {
-        "offset": 3,
-        "length": 95,
-        "type": "bold"
-      },
-      {
-        "offset": 581,
-        "length": 7,
-        "type": "text_link",
-        "url": "https://t.me/aipost"
-      },
-      {
-        "offset": 589,
-        "length": 2,
-        "type": "custom_emoji",
-        "custom_emoji_id": "5431390559912614642"
-      }
-    ],
-    "media_group_id": "14308122391690493",
-    "chat_id": -1004468214616,
-    "message_ids": [
-      664,
-      665
-    ],
-    "update_ids": [
-      378304556,
-      378304557
-    ],
-    "retry_count": 0
-  },
-  {
     "type": "photo",
     "photo_file_ids": [
       "AgACAgIAAyEFAAMBClOLWAACAppqmpPujwtHjF63nmx8_Ge5Z0-9agAC4BtrG6_I0Uhh_Y3VmzZa6gEAAwIAA3kAAz0E"
