@@ -1,74 +1,5 @@
 [
   {
-    "type": "video",
-    "video_file_id": "BAACAgIAAyEFAAMBClOLWAACApZqmoS_cQUBAmARZQrz1S5xpQL26gAC9qAAAnh7wEjLFCiFhN55Iz0E",
-    "video_file_size": 8274677,
-    "caption": "🗣️ A Man Broke AI Recruiters\n\nHe gives absurd answers to routine interview questions, and the recruiter treats them as normal. Asked about salary, he mentions a sideways drill bit in the first quarter.\n\nThe AI turns that into a question about horizontal drill diameters, then thanks him for sharing his expectations. That is how to behave around neuro-HR.\n\n📊@tech",
-    "entities": [
-      {
-        "offset": 0,
-        "length": 3,
-        "type": "custom_emoji",
-        "custom_emoji_id": "5316756151910546445"
-      },
-      {
-        "offset": 4,
-        "length": 25,
-        "type": "bold"
-      },
-      {
-        "offset": 40,
-        "length": 14,
-        "type": "bold"
-      },
-      {
-        "offset": 160,
-        "length": 41,
-        "type": "bold"
-      },
-      {
-        "offset": 244,
-        "length": 26,
-        "type": "bold"
-      },
-      {
-        "offset": 347,
-        "length": 8,
-        "type": "bold"
-      },
-      {
-        "offset": 358,
-        "length": 2,
-        "type": "bold"
-      },
-      {
-        "offset": 358,
-        "length": 2,
-        "type": "custom_emoji",
-        "custom_emoji_id": "5449841756596101801"
-      },
-      {
-        "offset": 360,
-        "length": 5,
-        "type": "mention"
-      },
-      {
-        "offset": 360,
-        "length": 5,
-        "type": "bold"
-      }
-    ],
-    "media_group_id": null,
-    "chat_id": -1004468214616,
-    "message_ids": [
-      662
-    ],
-    "update_ids": [
-      378304554
-    ],
-    "retry_count": 0
-  },
-  {
     "type": "photo",
     "photo_file_ids": [
       "AgACAgIAAyEFAAMBClOLWAACApdqmoTJ57B6yz6sZTMS-p_EH2BlbgACBhprGxEn0Ej3Ei2kjqKntwEAAwIAA3gAAz0E"
@@ -3029,6 +2960,389 @@
     ],
     "update_ids": [
       378304628
+    ],
+    "retry_count": 0
+  },
+  {
+    "type": "album",
+    "photo_file_ids": [
+      "AgACAgIAAyEFAAMBClOLWAACAuFqormWN8T6JMvys55b8CIp6d7l-QACByBrG6vQEUktXLVB0PpSlAEAAwIAA3cAAz0E",
+      "AgACAgIAAyEFAAMBClOLWAACAuJqormWfP1cSe9i4J8UXl8eSDta6AACCCBrG6vQEUm82jDGz3QfnwEAAwIAA3cAAz0E",
+      "AgACAgIAAyEFAAMBClOLWAACAuNqormW8V03oS6RrZF43HEENDkc2wACCSBrG6vQEUk0skLSbi4X9QEAAwIAA3cAAz0E",
+      "AgACAgIAAyEFAAMBClOLWAACAuRqormW5xyFMwtuAAFduFu7aZeEbpEAAgogaxur0BFJRz2seD041lkBAAMCAAN3AAM9BA"
+    ],
+    "caption": "🍏 iPhone Duo packs two screens\n\nThe foldable has a 7.6-inch inner display, 80% larger than the iPhone 18 Pro’s, plus a 5.4-inch outer screen. Custom iOS 27 adapts to folding.\n\nIts front camera hides under the display. It has a 48-megapixel main camera, 2x telephoto lens, A20 Pro, Touch ID and Apple Pencil.\n\nTwo apps can run at once, even partly folded. The largest iPhone battery lasts 24 hours across both screens. Price: $1,999. Sales start October 23.\n\n📊@tech",
+    "entities": [
+      {
+        "offset": 0,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5398012024003246287"
+      },
+      {
+        "offset": 3,
+        "length": 28,
+        "type": "bold"
+      },
+      {
+        "offset": 52,
+        "length": 8,
+        "type": "bold"
+      },
+      {
+        "offset": 76,
+        "length": 10,
+        "type": "bold"
+      },
+      {
+        "offset": 96,
+        "length": 15,
+        "type": "bold"
+      },
+      {
+        "offset": 120,
+        "length": 8,
+        "type": "bold"
+      },
+      {
+        "offset": 143,
+        "length": 13,
+        "type": "bold"
+      },
+      {
+        "offset": 194,
+        "length": 23,
+        "type": "bold"
+      },
+      {
+        "offset": 228,
+        "length": 24,
+        "type": "bold"
+      },
+      {
+        "offset": 254,
+        "length": 17,
+        "type": "bold"
+      },
+      {
+        "offset": 273,
+        "length": 7,
+        "type": "bold"
+      },
+      {
+        "offset": 282,
+        "length": 8,
+        "type": "bold"
+      },
+      {
+        "offset": 295,
+        "length": 12,
+        "type": "bold"
+      },
+      {
+        "offset": 310,
+        "length": 24,
+        "type": "bold"
+      },
+      {
+        "offset": 360,
+        "length": 22,
+        "type": "bold"
+      },
+      {
+        "offset": 389,
+        "length": 8,
+        "type": "bold"
+      },
+      {
+        "offset": 426,
+        "length": 6,
+        "type": "bold"
+      },
+      {
+        "offset": 446,
+        "length": 10,
+        "type": "bold"
+      },
+      {
+        "offset": 459,
+        "length": 2,
+        "type": "bold"
+      },
+      {
+        "offset": 459,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5449841756596101801"
+      },
+      {
+        "offset": 461,
+        "length": 5,
+        "type": "mention"
+      },
+      {
+        "offset": 461,
+        "length": 5,
+        "type": "bold"
+      }
+    ],
+    "media_group_id": "14312393910954757",
+    "chat_id": -1004468214616,
+    "message_ids": [
+      737,
+      738,
+      739,
+      740
+    ],
+    "update_ids": [
+      378304629,
+      378304630,
+      378304631,
+      378304632
+    ],
+    "retry_count": 0
+  },
+  {
+    "type": "album",
+    "photo_file_ids": [
+      "AgACAgIAAyEFAAMBClOLWAACAuVqormeE7x7RpOG28u6PExdwTozKAACECBrG6vQEUnAaLySdwAB-sIBAAMCAAN3AAM9BA",
+      "AgACAgIAAyEFAAMBClOLWAACAuZqormexNYQlFdRfBnDMlV3kb67FQACESBrG6vQEUlPSoFoahMX-wEAAwIAA3cAAz0E",
+      "AgACAgIAAyEFAAMBClOLWAACAudqormeyQ9i0_zBzFk_S3Kl2y09BAACEiBrG6vQEUmlEkyPBPUizwEAAwIAA3cAAz0E"
+    ],
+    "caption": "🍏 iPhone Gets Pro Camera Controls\n\nIn the Photos app, users can adjust aperture, shutter speed, white balance, and focus.\n\nStyles now work directly with image characteristics, rather than acting as simple filters. Photographers had been waiting for this for years.\n\n📊@tech",
+    "entities": [
+      {
+        "offset": 0,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5398012024003246287"
+      },
+      {
+        "offset": 3,
+        "length": 31,
+        "type": "bold"
+      },
+      {
+        "offset": 43,
+        "length": 10,
+        "type": "bold"
+      },
+      {
+        "offset": 72,
+        "length": 49,
+        "type": "bold"
+      },
+      {
+        "offset": 154,
+        "length": 21,
+        "type": "bold"
+      },
+      {
+        "offset": 267,
+        "length": 2,
+        "type": "bold"
+      },
+      {
+        "offset": 267,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5449841756596101801"
+      },
+      {
+        "offset": 269,
+        "length": 5,
+        "type": "mention"
+      },
+      {
+        "offset": 269,
+        "length": 5,
+        "type": "bold"
+      }
+    ],
+    "media_group_id": "14312393968683365",
+    "chat_id": -1004468214616,
+    "message_ids": [
+      741,
+      742,
+      743
+    ],
+    "update_ids": [
+      378304633,
+      378304634,
+      378304635
+    ],
+    "retry_count": 0
+  },
+  {
+    "type": "photo",
+    "photo_file_ids": [
+      "AgACAgIAAyEFAAMBClOLWAACAuhqormovklRYSMeh1zaqMaSa5Fm8wACrSVrG_lEEEkg6ZI5JoYG8wEAAwIAA3cAAz0E"
+    ],
+    "caption": "🍏 iPhone 18 Pro gets 40% faster\n\nThe A20 Pro chip uses a 2-nm process, making iPhone 18 Pro 40% more powerful than 17 Pro. Pro Max gets up to 30 hours of battery life, with 50% charging in 15 minutes.\n\nThe lineup adds Apple’s C2 modem. Its main camera gets a variable aperture and full shooting controls. Cooling is also improved.\n\nThe new Siri will work as a full AI assistant, reading information from the phone and other Apple devices. Prices start at $1199, with sales from September 18.\n\n📊@tech",
+    "entities": [
+      {
+        "offset": 0,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5398012024003246287"
+      },
+      {
+        "offset": 3,
+        "length": 29,
+        "type": "bold"
+      },
+      {
+        "offset": 38,
+        "length": 32,
+        "type": "bold"
+      },
+      {
+        "offset": 93,
+        "length": 29,
+        "type": "bold"
+      },
+      {
+        "offset": 143,
+        "length": 24,
+        "type": "bold"
+      },
+      {
+        "offset": 227,
+        "length": 8,
+        "type": "bold"
+      },
+      {
+        "offset": 333,
+        "length": 12,
+        "type": "bold"
+      },
+      {
+        "offset": 456,
+        "length": 5,
+        "type": "bold"
+      },
+      {
+        "offset": 479,
+        "length": 12,
+        "type": "bold"
+      },
+      {
+        "offset": 494,
+        "length": 2,
+        "type": "bold"
+      },
+      {
+        "offset": 494,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5449841756596101801"
+      },
+      {
+        "offset": 496,
+        "length": 5,
+        "type": "mention"
+      },
+      {
+        "offset": 496,
+        "length": 5,
+        "type": "bold"
+      }
+    ],
+    "media_group_id": null,
+    "chat_id": -1004468214616,
+    "message_ids": [
+      744
+    ],
+    "update_ids": [
+      378304636
+    ],
+    "retry_count": 0
+  },
+  {
+    "type": "album",
+    "photo_file_ids": [
+      "AgACAgQAAyEFAAMBClOLWAACAulqoroW6uXrr62AQJ9OZV2luHdDDQACyA9rG1dnEFH4LVOlcTUgCwEAAwIAA3kAAz0E",
+      "AgACAgQAAyEFAAMBClOLWAACAupqoroWsdFG1RT-svO7iwIjJtKv8QACyQ9rG1dnEFEkjBiDN0scuQEAAwIAA3cAAz0E"
+    ],
+    "caption": "🐋 DeepSeek just made its AI architecture much cheaper\n\nDeepSeek has introduced V4.1-Flash, a new multimodal model designed to deliver more intelligence while using dramatically less compute and memory.\n\nThe model has 552B parameters, but only 8B are active for input and 16B for output thanks to a new Causal Encoder–Decoder architecture. DeepSeek says its combination of new pre-training and large-scale RL can outperform even its flagship V4-Pro on several benchmarks.\n\nThe bigger breakthrough may be efficiency. V4.1-Flash uses just 1/4 of the HBM and 1/8 of the SSD storage needed for its previous-generation KV cache. That matters a lot for AI agents, where cached context can become a major part of inference costs.\n\nDeepSeek is also cutting prices, with off-peak rates set at 50% of peak pricing.\n\nSource.\n\n@aipost 🏴",
+    "entities": [
+      {
+        "offset": 0,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5343586984407360663"
+      },
+      {
+        "offset": 3,
+        "length": 51,
+        "type": "bold"
+      },
+      {
+        "offset": 806,
+        "length": 6,
+        "type": "text_link",
+        "url": "https://huggingface.co/deepseek-ai/DeepSeek-V4.1-Flash"
+      },
+      {
+        "offset": 815,
+        "length": 7,
+        "type": "mention"
+      },
+      {
+        "offset": 823,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5431390559912614642"
+      }
+    ],
+    "media_group_id": "14312394934840725",
+    "chat_id": -1004468214616,
+    "message_ids": [
+      745,
+      746
+    ],
+    "update_ids": [
+      378304637,
+      378304638
+    ],
+    "retry_count": 0
+  },
+  {
+    "type": "video",
+    "video_file_id": "BAACAgQAAyEFAAMBClOLWAACAutqoromVppSvL0RAcFTMqlgXPjlNgACiCAAAldnEFGKT7I5vdIOpT0E",
+    "video_file_size": 10582502,
+    "caption": "⚡️ GPT-6 Astra just solved a problem medical students have been facing for decades\n\nMedical students have been working around the same three problems for decades. Someone talked to them, identified all three, and built a service with Astra that solves them in one tool.\n\nThe problems are structural. Flat anatomical diagrams strip depth out of organs entirely. CT cross-sections don't connect naturally to the overview diagrams students spend years memorizing. And reading a scan requires holding three mental models simultaneously - patient orientation, cross-section direction, and how every organ shape shifts through each layer.\n\nAstra built a service that handles all three in one place. Not a better textbook. A spatial tool that connects the diagram, the CT view, and the 3D relationship together.\n\nMedical education hasn't changed its core format in over a century. This might be the first tool designed around how anatomy is actually understood - not just displayed.\n\n@aipost 🏴",
+    "entities": [
+      {
+        "offset": 0,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5366360391364412817"
+      },
+      {
+        "offset": 3,
+        "length": 79,
+        "type": "bold"
+      },
+      {
+        "offset": 977,
+        "length": 7,
+        "type": "mention"
+      },
+      {
+        "offset": 985,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5431390559912614642"
+      }
+    ],
+    "media_group_id": null,
+    "chat_id": -1004468214616,
+    "message_ids": [
+      747
+    ],
+    "update_ids": [
+      378304639
     ],
     "retry_count": 0
   }
