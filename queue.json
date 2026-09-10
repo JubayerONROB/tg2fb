@@ -1,49 +1,5 @@
 [
   {
-    "type": "album",
-    "photo_file_ids": [
-      "AgACAgQAAyEFAAMBClOLWAACApJqmaO6kwfx3GB2FhoE426S55i2WwAChw9rG7ACyFCQODSizoiJdAEAAwIAA3cAAz0E",
-      "AgACAgQAAyEFAAMBClOLWAACApNqmaO6BU9Y6umGWxKFbjhRjJYSnwACiA9rG7ACyFDewsSTiA6lZQEAAwIAA3gAAz0E"
-    ],
-    "caption": "🗣 LUTNICK: “WE TRUST ANTHROPIC”\n\nCommerce Secretary Howard Lutnick says Anthropic is now “back on the right side” with the Trump administration after months of tensions over AI safeguards and national security.\n\n“They’ve done what we asked,” Lutnick said.\n\nAnthropic co-founder Tom Brown also praised Trump’s recent pro-data-center push, saying data centers create jobs, generate tax revenue and can bring additional power onto the grid.\n\n@aipost 🏴",
-    "entities": [
-      {
-        "offset": 0,
-        "length": 2,
-        "type": "custom_emoji",
-        "custom_emoji_id": "5287468155738821335"
-      },
-      {
-        "offset": 3,
-        "length": 29,
-        "type": "bold"
-      },
-      {
-        "offset": 440,
-        "length": 7,
-        "type": "text_link",
-        "url": "https://t.me/aipost"
-      },
-      {
-        "offset": 448,
-        "length": 2,
-        "type": "custom_emoji",
-        "custom_emoji_id": "5431390559912614642"
-      }
-    ],
-    "media_group_id": "14307630551824877",
-    "chat_id": -1004468214616,
-    "message_ids": [
-      658,
-      659
-    ],
-    "update_ids": [
-      378304550,
-      378304551
-    ],
-    "retry_count": 0
-  },
-  {
     "type": "photo",
     "photo_file_ids": [
       "AgACAgIAAyEFAAMBClOLWAACApRqmoRxRNPi2ARH9sS_YNm9IXH7IwAC0iJrGxf-wEgj4C7GkL6dTwEAAwIAA3gAAz0E"
