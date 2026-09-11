@@ -1,34 +1,5 @@
 [
   {
-    "type": "photo",
-    "photo_file_ids": [
-      "AgACAgIAAyEFAAMBClOLWAACAppqmpPujwtHjF63nmx8_Ge5Z0-9agAC4BtrG6_I0Uhh_Y3VmzZa6gEAAwIAA3kAAz0E"
-    ],
-    "caption": "The release of GPT-6 Astra has been announced, featuring strong performance across multiple benchmarks.\n\nAccording to published results, GPT-6 Astra achieved 97.6% on FrontierMath Tier 4 v2, 74.1% on DeepSWE v1.1, 95.9% on BenchCAD, 96% on GPQA Diamond, and 100% on ExploitBench. The model reached a reported 98.6% on ARC-AGI-3.\n\nAccess to GPT-6 Astra is expected to become available to paying ChatGPT subscribers and through the API within several days. Greg Brockman described this as a major technological advance and suggested it marks a generational leap in AI capability.\n\n📰 @aipost",
-    "entities": [
-      {
-        "offset": 579,
-        "length": 2,
-        "type": "custom_emoji",
-        "custom_emoji_id": "5363988332466438547"
-      },
-      {
-        "offset": 582,
-        "length": 7,
-        "type": "mention"
-      }
-    ],
-    "media_group_id": null,
-    "chat_id": -1004468214616,
-    "message_ids": [
-      666
-    ],
-    "update_ids": [
-      378304558
-    ],
-    "retry_count": 0
-  },
-  {
     "type": "video",
     "video_file_id": "BAACAgQAAyEFAAMBClOLWAACAptqmpPyW9crJIq3sVwl9y0oEx8B7QACayEAArACyFAykWZ32xVUvT0E",
     "video_file_size": 33892928,
