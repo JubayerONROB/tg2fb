@@ -3186,5 +3186,40 @@
       378304553
     ],
     "retry_count": 0
+  },
+  {
+    "type": "video",
+    "video_file_id": "BAACAgQAAyEFAAMBClOLWAACAptqmpPyW9crJIq3sVwl9y0oEx8B7QACayEAArACyFAykWZ32xVUvT0E",
+    "video_file_size": 33892928,
+    "caption": "🔥 JENSEN HUANG: \"Our jobs WON'T change. The idea that all jobs will be eliminated? That's just NONSENSE.\"\n\nThe Nvidia CEO told the G20 that even when we reach AGI, companies will still spend all their energy onboarding AI the same way they onboard a PhD from MIT.\n\n@aipost 🏴",
+    "entities": [
+      {
+        "offset": 0,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5363970504057191145"
+      },
+      {
+        "offset": 266,
+        "length": 7,
+        "type": "text_link",
+        "url": "https://t.me/aipost"
+      },
+      {
+        "offset": 274,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5431390559912614642"
+      }
+    ],
+    "media_group_id": null,
+    "chat_id": -1004468214616,
+    "message_ids": [
+      667
+    ],
+    "update_ids": [
+      378304559
+    ],
+    "retry_count": 0
   }
 ]
