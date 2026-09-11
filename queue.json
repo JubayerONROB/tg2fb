@@ -1,52 +1,5 @@
 [
   {
-    "type": "photo",
-    "photo_file_ids": [
-      "AgACAgQAAyEFAAMBClOLWAACAp1qmpQcMiL1UWfzMKFRA5oNYWwXhAACMBBrG7AC0FCw3ALsqDbDRAEAAwIAA3kAAz0E"
-    ],
-    "caption": "❗️Bernie Sanders and Greg Casar today announced the Ban Artificial Superintelligence Act. \n\nAll AI development in the United States will be paused. Systems that have capabilities that match or exceed human cognitive performance will be banned. Violators will face 20 years in prison.\n\nSource.\n\n@aipost 🏴",
-    "entities": [
-      {
-        "offset": 0,
-        "length": 2,
-        "type": "custom_emoji",
-        "custom_emoji_id": "5289761612440310918"
-      },
-      {
-        "offset": 2,
-        "length": 88,
-        "type": "bold"
-      },
-      {
-        "offset": 285,
-        "length": 6,
-        "type": "text_link",
-        "url": "https://www.sanders.senate.gov/wp-content/uploads/Ban-Artificial-Superintelligence-Act-Release-Summary.pdf"
-      },
-      {
-        "offset": 294,
-        "length": 7,
-        "type": "text_link",
-        "url": "https://t.me/aipost"
-      },
-      {
-        "offset": 302,
-        "length": 2,
-        "type": "custom_emoji",
-        "custom_emoji_id": "5431390559912614642"
-      }
-    ],
-    "media_group_id": null,
-    "chat_id": -1004468214616,
-    "message_ids": [
-      669
-    ],
-    "update_ids": [
-      378304561
-    ],
-    "retry_count": 0
-  },
-  {
     "type": "video",
     "video_file_id": "BAACAgQAAyEFAAMBClOLWAACAp5qmpQjw87Jrs1rlEZhaXVbO11l7gACVSAAArAC0FAWR1zrTfeXeD0E",
     "video_file_size": 9722100,
@@ -3416,6 +3369,119 @@
     ],
     "update_ids": [
       378304648
+    ],
+    "retry_count": 0
+  },
+  {
+    "type": "video",
+    "video_file_id": "BAACAgQAAyEFAAMBClOLWAACAvVqo-5Ywj0NLB_0MXG0yVlbFLhRogACjiEAAmfpIFFi0OOztIO82j0E",
+    "video_file_size": 11057373,
+    "caption": "🤖 OpenAI just announced the launch of ChatGPT for Financial Services\n\n“A tailored ChatGPT Work experience that combines built-in financial data with GPT‑6 Astra⁠’s reasoning to help teams develop research, financial models, and customized client materials.”\n\n@aipost 🏴",
+    "entities": [
+      {
+        "offset": 0,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5397681122542893003"
+      },
+      {
+        "offset": 3,
+        "length": 66,
+        "type": "bold"
+      },
+      {
+        "offset": 260,
+        "length": 7,
+        "type": "mention"
+      },
+      {
+        "offset": 268,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5431390559912614642"
+      }
+    ],
+    "media_group_id": null,
+    "chat_id": -1004468214616,
+    "message_ids": [
+      757
+    ],
+    "update_ids": [
+      378304649
+    ],
+    "retry_count": 0
+  },
+  {
+    "type": "video",
+    "video_file_id": "BAACAgIAAyEFAAMBClOLWAACAvZqpAcV_II1DK4mooSjpo5EaEtyMwAC1qsAAsugGUl43OS1iVowOT0E",
+    "video_file_size": 10295084,
+    "caption": "👾 30 Robots Call for AI Rules\n\nAround 30 robots appeared at a Warsaw demonstration calling for tighter AI regulation. Organizers warned that AI and humanoid robots could put human jobs at risk.\n\nDemocratism and Delta Robots organized the protest for stronger worker protection as automation spreads. People sent robots to protest robots taking human jobs.\n\n📊@tech",
+    "entities": [
+      {
+        "offset": 0,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5303524263909672709"
+      },
+      {
+        "offset": 3,
+        "length": 27,
+        "type": "bold"
+      },
+      {
+        "offset": 63,
+        "length": 20,
+        "type": "bold"
+      },
+      {
+        "offset": 96,
+        "length": 21,
+        "type": "bold"
+      },
+      {
+        "offset": 175,
+        "length": 18,
+        "type": "bold"
+      },
+      {
+        "offset": 196,
+        "length": 11,
+        "type": "bold"
+      },
+      {
+        "offset": 212,
+        "length": 12,
+        "type": "bold"
+      },
+      {
+        "offset": 358,
+        "length": 2,
+        "type": "bold"
+      },
+      {
+        "offset": 358,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5449841756596101801"
+      },
+      {
+        "offset": 360,
+        "length": 5,
+        "type": "mention"
+      },
+      {
+        "offset": 360,
+        "length": 5,
+        "type": "bold"
+      }
+    ],
+    "media_group_id": null,
+    "chat_id": -1004468214616,
+    "message_ids": [
+      758
+    ],
+    "update_ids": [
+      378304650
     ],
     "retry_count": 0
   }
