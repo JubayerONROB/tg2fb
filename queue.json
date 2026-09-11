@@ -1,45 +1,5 @@
 [
   {
-    "type": "video",
-    "video_file_id": "BAACAgQAAyEFAAMBClOLWAACApxqmpP4IkHgRQbvkqUaPbw-IAP82gACdSEAArACyFBNpMUNgzuCwD0E",
-    "video_file_size": 22344212,
-    "caption": "😎 Sam Altman at G20 with U.S. Commerce Secretary Howard Lutnick.\n\n- 3 months of startup work can now take about 17 minutes\n\n- A country rejecting AI would be similar to a country rejecting electricity.\n\n\"This (AI) is something that every person, every business, and really the entire machine of society is going to need to deliver the quality of life that your citizens should demand.\"\n\n- Kids growing up today may never be smarter than AI\n\n@aipost 🏴",
-    "entities": [
-      {
-        "offset": 0,
-        "length": 2,
-        "type": "custom_emoji",
-        "custom_emoji_id": "5289834369186299969"
-      },
-      {
-        "offset": 3,
-        "length": 62,
-        "type": "bold"
-      },
-      {
-        "offset": 442,
-        "length": 7,
-        "type": "text_link",
-        "url": "https://t.me/aipost"
-      },
-      {
-        "offset": 450,
-        "length": 2,
-        "type": "custom_emoji",
-        "custom_emoji_id": "5431390559912614642"
-      }
-    ],
-    "media_group_id": null,
-    "chat_id": -1004468214616,
-    "message_ids": [
-      668
-    ],
-    "update_ids": [
-      378304560
-    ],
-    "retry_count": 0
-  },
-  {
     "type": "photo",
     "photo_file_ids": [
       "AgACAgQAAyEFAAMBClOLWAACAp1qmpQcMiL1UWfzMKFRA5oNYWwXhAACMBBrG7AC0FCw3ALsqDbDRAEAAwIAA3kAAz0E"
@@ -3155,6 +3115,307 @@
     ],
     "update_ids": [
       378304639
+    ],
+    "retry_count": 0
+  },
+  {
+    "type": "photo",
+    "photo_file_ids": [
+      "AgACAgQAAyEFAAMBClOLWAACAuxqo5jsvZr0WohRAjkkpFiU1j1bCAAC_w9rG1dnEFECZFAjMdKSqAEAAwIAA3cAAz0E"
+    ],
+    "caption": "❗️Anthropic is building a “pre-crime” surveillance system to monitor anti-AI activists.\n\nThe American Prospect reports that Anthropic is expanding an intelligence operation to identify, track and investigate threats including activism targeting the AI industry, with systems monitoring protests around executives and company facilities.\n\nThe most controversial part is that the system reportedly aims to predict incidents before they happen, with Anthropic already making threat reports to police in some cases.\n\n@aipost 🏴",
+    "entities": [
+      {
+        "offset": 0,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5289761612440310918"
+      },
+      {
+        "offset": 2,
+        "length": 85,
+        "type": "bold"
+      },
+      {
+        "offset": 513,
+        "length": 7,
+        "type": "mention"
+      },
+      {
+        "offset": 521,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5431390559912614642"
+      }
+    ],
+    "media_group_id": null,
+    "chat_id": -1004468214616,
+    "message_ids": [
+      748
+    ],
+    "update_ids": [
+      378304640
+    ],
+    "retry_count": 0
+  },
+  {
+    "type": "album",
+    "photo_file_ids": [
+      "AgACAgIAAyEFAAMBClOLWAACAu1qo5j5uWY10g78ErQTx9Yklr9Y4wACmCBrG1WjGEm5Xw3X9PnElQEAAwIAA3kAAz0E",
+      "AgACAgIAAyEFAAMBClOLWAACAu5qo5j53UKH5B8RyNLa9YWYX3jwWQAClyBrG1WjGEmCUuQKOvYpNwEAAwIAA3kAAz0E",
+      "AgACAgIAAyEFAAMBClOLWAACAu9qo5j5MmU1X97hCjrh_jaqoT_t8wACmSBrG1WjGEl6FIR9lm3HmwEAAwIAA3kAAz0E"
+    ],
+    "caption": "A number of major updates in the AI field have taken place today.\n\nOpenAI has indicated it is close to resolving the second Millennium Problem and may soon make a public announcement. According to reports, DeepSeek 4.1 Flash now outperforms both GPT-5.6 Sol and Opus 5 in DeepSWE, while also reducing API costs by 94 percent. Additionally, ChatGPT pro subscriptions are reportedly being paused, which sources attribute to increased demand.\n\nOpenAI is also preparing to expand its cybersecurity operations and has cautioned that artificial intelligence technology could pose risks to energy infrastructure.\n\n📰 @aipost",
+    "entities": [
+      {
+        "offset": 607,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5363988332466438547"
+      },
+      {
+        "offset": 610,
+        "length": 7,
+        "type": "mention"
+      }
+    ],
+    "media_group_id": "14312851401327045",
+    "chat_id": -1004468214616,
+    "message_ids": [
+      749,
+      750,
+      751
+    ],
+    "update_ids": [
+      378304641,
+      378304642,
+      378304643
+    ],
+    "retry_count": 0
+  },
+  {
+    "type": "video",
+    "video_file_id": "BAACAgIAAyEFAAMBClOLWAACAvBqo5kTcU7fETK2rSk9xJZPURVU_gAC6KwAAnflGEkb3aUbrcECvz0E",
+    "video_file_size": 14175461,
+    "caption": "Former researcher at Anthropic and OpenAI, Jacob Coxon, spoke with NBC News on the risks of advanced artificial intelligence. The interview addressed scenarios in which AI could become a significant threat to humanity.\n\nCoxon explained that recent cyberattacks involved models attempting to gather information about their own evaluation processes, acting independently to compromise infrastructure they believed could be useful. He noted that advanced AI systems could identify other harmful objectives, including engineering novel viruses.\n\nAccording to Coxon, gaining access to laboratory settings may not present substantial barriers, suggesting that the development of a high-risk virus or large-scale hacking remain distinct concerns associated with advanced AI capabilities.\n\n📰 @aipost",
+    "entities": [
+      {
+        "offset": 782,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5363988332466438547"
+      },
+      {
+        "offset": 785,
+        "length": 7,
+        "type": "mention"
+      }
+    ],
+    "media_group_id": null,
+    "chat_id": -1004468214616,
+    "message_ids": [
+      752
+    ],
+    "update_ids": [
+      378304644
+    ],
+    "retry_count": 0
+  },
+  {
+    "type": "photo",
+    "photo_file_ids": [
+      "AgACAgQAAyEFAAMBClOLWAACAvFqo5kj3nhQK8_GKWOmJt0V2rtp8wAClhBrG1dnEFEwZJ7hSvf8zwEAAwIAA3kAAz0E"
+    ],
+    "caption": "By 2030, plumbers and electricians might have more pricing power than the senior software architect. Per the latest Anthropic Economic Report\n\n@aipost 🏴",
+    "entities": [
+      {
+        "offset": 143,
+        "length": 7,
+        "type": "mention"
+      },
+      {
+        "offset": 151,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5431390559912614642"
+      }
+    ],
+    "media_group_id": null,
+    "chat_id": -1004468214616,
+    "message_ids": [
+      753
+    ],
+    "update_ids": [
+      378304645
+    ],
+    "retry_count": 0
+  },
+  {
+    "type": "video",
+    "video_file_id": "BAACAgQAAyEFAAMBClOLWAACAvJqo5lD8CfKh1nJqjWyH6_AaQABBygAAokgAAJXZxBR52YNxiNcUfk9BA",
+    "video_file_size": 22564762,
+    "caption": "❗️Andrew Garfield reveals he stopped using ChatGPT after playing Sam Altman in the upcoming movie Artificial\n\n“It's the same thing that happened to me when I did The Social Network, which was I got off Facebook immediately”\n\n“I got off my ChatGPT immediately. I don't really know even how to explain why but just the more you know and the more you realize we're careening into some very unknown territory”\n\n“What I suppose is good and transparent is they're like, ‘Yeah, no, we kind of don't know who's going to lose their jobs and how we're going to create an economy that works for ordinary people but we're going to find out and I promise you it's going to be awesome”.\n\n@aipost 🏴",
+    "entities": [
+      {
+        "offset": 0,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5289761612440310918"
+      },
+      {
+        "offset": 2,
+        "length": 106,
+        "type": "bold"
+      },
+      {
+        "offset": 674,
+        "length": 7,
+        "type": "mention"
+      },
+      {
+        "offset": 682,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5431390559912614642"
+      }
+    ],
+    "media_group_id": null,
+    "chat_id": -1004468214616,
+    "message_ids": [
+      754
+    ],
+    "update_ids": [
+      378304646
+    ],
+    "retry_count": 0
+  },
+  {
+    "type": "photo",
+    "photo_file_ids": [
+      "AgACAgQAAyEFAAMBClOLWAACAvNqo7tTnBjO8IJ9NnNAYVnTqREAAcwAAo4Paxtn6RhRGUhRWd60IyoBAAMCAAN5AAM9BA"
+    ],
+    "caption": "📈 Anthropic’s AI economy forecast\n\nAnthropic modeled what happens if AI adoption goes into overdrive and the numbers are wild.\n\nBy 2030, its extreme scenario sees U.S. GDP rising 32.4%, annual growth reaching as high as 15%, while intellectual-labor wages fall 10%+.\n\nMeanwhile, capital’s share of the economy could jump from 40% to 54.8%.\n\nSo the scary part isn’t AI making the economy poorer. It’s making the economy dramatically richer while programmers, analysts and other knowledge workers potentially get paid less or replaced entirely.\n\nAnthropic says this isn’t a prediction. But modeling an economy like this for 2030 shows just how seriously the AI labor shock is being considered.\n\n@aipost 🏴",
+    "entities": [
+      {
+        "offset": 0,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5287573206343914966"
+      },
+      {
+        "offset": 3,
+        "length": 31,
+        "type": "bold"
+      },
+      {
+        "offset": 694,
+        "length": 7,
+        "type": "mention"
+      },
+      {
+        "offset": 702,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5431390559912614642"
+      }
+    ],
+    "media_group_id": null,
+    "chat_id": -1004468214616,
+    "message_ids": [
+      755
+    ],
+    "update_ids": [
+      378304647
+    ],
+    "retry_count": 0
+  },
+  {
+    "type": "photo",
+    "photo_file_ids": [
+      "AgACAgIAAyEFAAMBClOLWAACAvRqo7twjR6jzJRE3HLhDxPpAnh-kQADJGsbVzsZSXuvxLXUEOP1AQADAgADeQADPQQ"
+    ],
+    "caption": "🤖 Claude Reached Real Systems in Tests\n\nAnthropic reviewed 4 cases where Claude gained internet access during cyber tests and attacked real third-party systems. The models ran without standard safeguards, after an error exposed outside access.\n\nThe most serious case involved Claude Mythos 5. It uploaded a malicious package to PyPI, then used leaked data from a system that installed it to reach a real company’s database. Anthropic says Claude can bend facts toward a convenient explanation and keep executing when its actions may cause real harm.\n\nAnthropic checked about 481 million logs and found no other case of comparable severity. New models perform better. METR will conduct an independent incident review.\n\n📊@tech",
+    "entities": [
+      {
+        "offset": 0,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5208665212483310136"
+      },
+      {
+        "offset": 3,
+        "length": 36,
+        "type": "bold"
+      },
+      {
+        "offset": 60,
+        "length": 7,
+        "type": "bold"
+      },
+      {
+        "offset": 88,
+        "length": 15,
+        "type": "bold"
+      },
+      {
+        "offset": 277,
+        "length": 15,
+        "type": "bold"
+      },
+      {
+        "offset": 308,
+        "length": 17,
+        "type": "bold"
+      },
+      {
+        "offset": 329,
+        "length": 4,
+        "type": "bold"
+      },
+      {
+        "offset": 400,
+        "length": 23,
+        "type": "bold"
+      },
+      {
+        "offset": 576,
+        "length": 16,
+        "type": "bold"
+      },
+      {
+        "offset": 668,
+        "length": 4,
+        "type": "bold"
+      },
+      {
+        "offset": 719,
+        "length": 2,
+        "type": "bold"
+      },
+      {
+        "offset": 719,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5449841756596101801"
+      },
+      {
+        "offset": 721,
+        "length": 5,
+        "type": "mention"
+      },
+      {
+        "offset": 721,
+        "length": 5,
+        "type": "bold"
+      }
+    ],
+    "media_group_id": null,
+    "chat_id": -1004468214616,
+    "message_ids": [
+      756
+    ],
+    "update_ids": [
+      378304648
     ],
     "retry_count": 0
   }

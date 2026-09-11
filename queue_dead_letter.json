@@ -3221,5 +3221,45 @@
       378304559
     ],
     "retry_count": 0
+  },
+  {
+    "type": "video",
+    "video_file_id": "BAACAgQAAyEFAAMBClOLWAACApxqmpP4IkHgRQbvkqUaPbw-IAP82gACdSEAArACyFBNpMUNgzuCwD0E",
+    "video_file_size": 22344212,
+    "caption": "😎 Sam Altman at G20 with U.S. Commerce Secretary Howard Lutnick.\n\n- 3 months of startup work can now take about 17 minutes\n\n- A country rejecting AI would be similar to a country rejecting electricity.\n\n\"This (AI) is something that every person, every business, and really the entire machine of society is going to need to deliver the quality of life that your citizens should demand.\"\n\n- Kids growing up today may never be smarter than AI\n\n@aipost 🏴",
+    "entities": [
+      {
+        "offset": 0,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5289834369186299969"
+      },
+      {
+        "offset": 3,
+        "length": 62,
+        "type": "bold"
+      },
+      {
+        "offset": 442,
+        "length": 7,
+        "type": "text_link",
+        "url": "https://t.me/aipost"
+      },
+      {
+        "offset": 450,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5431390559912614642"
+      }
+    ],
+    "media_group_id": null,
+    "chat_id": -1004468214616,
+    "message_ids": [
+      668
+    ],
+    "update_ids": [
+      378304560
+    ],
+    "retry_count": 0
   }
 ]
