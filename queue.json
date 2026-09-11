@@ -32,7 +32,7 @@
     "update_ids": [
       378304562
     ],
-    "retry_count": 0
+    "retry_count": 1
   },
   {
     "type": "photo",
@@ -3482,6 +3482,49 @@
     ],
     "update_ids": [
       378304650
+    ],
+    "retry_count": 0
+  },
+  {
+    "type": "text",
+    "caption": "❗️AI is becoming a weapon for cyberwarfare\n\nAnthropic released a disturbing threat report showing how state-linked hackers are using AI agents to automate attacks at a scale humans could barely match.\n\nRussian groups reportedly used AI to rewrite malware until it evaded antivirus detection, hijack hotel Wi-Fi DNS and steal drone-vision software.\n\nIran-linked operations allegedly used Claude to target U.S. Navy bases, build dossiers on Americans and run social-media influence campaigns.\n\nChinese-linked agents reportedly identified 12+ potential zero-days, decompiled 1.8M Android apps, stole 1TB+ of identity data and extracted 2,100 Azure tokens from 40+ companies in just 34 hours.\n\nOne weapons group allegedly even used Claude to develop and test a guided rocket, then asked the model to diagnose why the test failed.\n\nAnthropic also claims Alibaba’s Qwen generated 151M+ Claude exchanges in three months, while Moonshot and DeepSeek allegedly routed huge volumes of Claude traffic through fake accounts.\n\nSource. \n\n@aipost 🏴",
+    "entities": [
+      {
+        "offset": 0,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5289761612440310918"
+      },
+      {
+        "offset": 2,
+        "length": 40,
+        "type": "bold"
+      },
+      {
+        "offset": 1014,
+        "length": 8,
+        "type": "text_link",
+        "url": "https://www.anthropic.com/threat-intelligence-report-september-2026"
+      },
+      {
+        "offset": 1024,
+        "length": 7,
+        "type": "mention"
+      },
+      {
+        "offset": 1032,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5431390559912614642"
+      }
+    ],
+    "media_group_id": null,
+    "chat_id": -1004468214616,
+    "message_ids": [
+      759
+    ],
+    "update_ids": [
+      378304651
     ],
     "retry_count": 0
   }
