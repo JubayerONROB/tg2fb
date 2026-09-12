@@ -3325,5 +3325,45 @@
       378304563
     ],
     "retry_count": 3
+  },
+  {
+    "type": "video",
+    "video_file_id": "BAACAgQAAyEFAAMBClOLWAACAqBqmuJKK2fYu2x5EJx3d06n30UNdgAC0SEAArAC2FBTathdfoq4dT0E",
+    "video_file_size": 123585554,
+    "caption": "🤯 What if we’re already living in a simulation?\n\nSomeone  asked GPT-6 Astra to build an entire world in Unreal Engine and populate it with humans, each one powered by an Astra agent with one goal: work together to survive.\n\nA day later, the story goes, the creator heard voices coming from his living room. He walked out… and the Astra agents had apparently started talking to each other.\n\nAI is already moving toward simulated worlds filled with autonomous agents that can communicate, cooperate, compete and develop their own strategies.\n\nNow imagine what happens when these models become powerful enough to create simulations that are indistinguishable from reality.\n\nThen scale it up:\n\nBillions of simulations.\n\nBillions of agents inside each one.\n\nAnd if those agents eventually become conscious, there could be vastly more simulated conscious beings than beings in the original “base” reality.\n\nThat’s essentially Nick Bostrom’s simulation argument except instead of being a distant philosophical thought experiment, AI is making the first steps toward it look increasingly tangible.\n\n@aipost 🏴",
+    "entities": [
+      {
+        "offset": 0,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5370745797786738962"
+      },
+      {
+        "offset": 2,
+        "length": 46,
+        "type": "bold"
+      },
+      {
+        "offset": 1092,
+        "length": 7,
+        "type": "text_link",
+        "url": "https://t.me/aipost"
+      },
+      {
+        "offset": 1100,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5431390559912614642"
+      }
+    ],
+    "media_group_id": null,
+    "chat_id": -1004468214616,
+    "message_ids": [
+      672
+    ],
+    "update_ids": [
+      378304564
+    ],
+    "retry_count": 0
   }
 ]
