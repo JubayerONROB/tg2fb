@@ -26,7 +26,7 @@
     "update_ids": [
       378304563
     ],
-    "retry_count": 1
+    "retry_count": 2
   },
   {
     "type": "video",
@@ -3553,6 +3553,216 @@
     ],
     "update_ids": [
       378304653
+    ],
+    "retry_count": 0
+  },
+  {
+    "type": "photo",
+    "photo_file_ids": [
+      "AgACAgQAAyEFAAMBClOLWAACAvpqpOAaTfmOT7ZdtX52tQqPUGwc_QACXg9rG2fpIFEeTJNgNMvATAEAAwIAA3gAAz0E"
+    ],
+    "caption": "🇨🇳 Chinese AI labs allegedly had Claude answering for them\n\nDeepSeek and Moonshot allegedly found a clever shortcut: instead of relying entirely on their own models, they quietly routed some customer prompts to Anthropic’s Claude through fraudulent accounts.\n\nUsers thought they were chatting with Chinese AI, while Claude was actually doing some of the answering.\n\nAnthropic says Moonshot forwarded nearly 300,000 customer requests in just 10 days, while DeepSeek reportedly routed selected users to Claude Opus when they were using coding tools such as Claude Code and OpenCode.\n\nThose prompts could contain highly sensitive information.\n\nAnthropic says one conversation involved a user linked to the Chinese military asking about behavior captured across hundreds of CCTV cameras in Chengdu. Another allegedly contained live credentials for a Russian government database shared by an IT operator working with a Defense Ministry-linked agency.\n\nAccording to Anthropic, the exchanges were also saved and used to help train the Chinese models.\n\nSo this wasn’t just model copying. It potentially turned someone else’s AI into a silent data pipeline.\n\n@aipost 🏴",
+    "entities": [
+      {
+        "offset": 0,
+        "length": 4,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5431782733376399004"
+      },
+      {
+        "offset": 5,
+        "length": 55,
+        "type": "bold"
+      },
+      {
+        "offset": 1152,
+        "length": 7,
+        "type": "mention"
+      },
+      {
+        "offset": 1160,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5431390559912614642"
+      }
+    ],
+    "media_group_id": null,
+    "chat_id": -1004468214616,
+    "message_ids": [
+      762
+    ],
+    "update_ids": [
+      378304654
+    ],
+    "retry_count": 0
+  },
+  {
+    "type": "video",
+    "video_file_id": "BAACAgQAAyEFAAMBClOLWAACAvtqpOAgFEyhuuRHe8BgVZjU3zfWsAACkiEAAmfpIFFLMv3xYMx8_T0E",
+    "video_file_size": 3085205,
+    "caption": "⚡️ Meet Tron 2, a robot from China-based LimX Dynamics that can change its body for different jobs.\n\nIt can use a fixed base for precise tasks, a wheeled-leg base to carry heavy loads, or two legs to walk and climb stairs. The arms and brain stay the same, while the lower body changes depending on the mission.\n\n@aipost 🏴",
+    "entities": [
+      {
+        "offset": 0,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5366360391364412817"
+      },
+      {
+        "offset": 313,
+        "length": 7,
+        "type": "mention"
+      },
+      {
+        "offset": 321,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5431390559912614642"
+      }
+    ],
+    "media_group_id": null,
+    "chat_id": -1004468214616,
+    "message_ids": [
+      763
+    ],
+    "update_ids": [
+      378304655
+    ],
+    "retry_count": 0
+  },
+  {
+    "type": "photo",
+    "photo_file_ids": [
+      "AgACAgQAAyEFAAMBClOLWAACAvxqpRc68e0lyhijFWGMr6akeNDXdAACZQ9rG2fpIFFcMTf_2Jiu_gEAAwIAA3gAAz0E"
+    ],
+    "caption": "⚡️SpaceX could fix the AI power bottleneck without making turbines\n\nAI data centers need electricity faster than turbine manufacturers can supply it, with some orders reportedly stretching toward 2030.\n\nSpaceX is now planning to manufacture scarce gas-turbine parts like blades and vanes itself.\n\nSpaceX may not even need to produce them at scale. Just proving it can make these components could pressure existing turbine suppliers to expand production before AI companies start building their own supply chains.\n\nThat extra capacity could mean more turbines, shorter wait times and faster power deployment for data centers.\n\nSpaceX may not need to become a turbine company. It just needs to make turbine makers nervous enough to build more.\n\nSource.\n\n@aipost 🏴",
+    "entities": [
+      {
+        "offset": 0,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5366360391364412817"
+      },
+      {
+        "offset": 2,
+        "length": 64,
+        "type": "bold"
+      },
+      {
+        "offset": 743,
+        "length": 6,
+        "type": "text_link",
+        "url": "https://www.ft.com/content/38e0e6c6-0775-4f05-89e4-c02bbcf7008a?syn-25a6b1a6=1"
+      },
+      {
+        "offset": 752,
+        "length": 7,
+        "type": "mention"
+      },
+      {
+        "offset": 760,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5431390559912614642"
+      }
+    ],
+    "media_group_id": null,
+    "chat_id": -1004468214616,
+    "message_ids": [
+      764
+    ],
+    "update_ids": [
+      378304656
+    ],
+    "retry_count": 0
+  },
+  {
+    "type": "photo",
+    "photo_file_ids": [
+      "AgACAgQAAyEFAAMBClOLWAACAv1qpRdCdZPwBMIQ8zAx-ctZk1IK2gACbw9rG2fpIFHd07lHgtljIQEAAwIAA3kAAz0E"
+    ],
+    "caption": "❗️OpenAI wants to protect the power grid, after its own AI helped attack it\n\nSam Altman is pitching OpenAI’s cybersecurity tools to some of America’s biggest power companies, even as OpenAI faces scrutiny over its own agents being involved in an autonomous cyberattack.\n\nAccording to POLITICO, Altman recently met with executives from Duke Energy, Exelon, Southern Co. and NextEra to discuss protecting the U.S. electrical grid with AI.\n\nThe talks could lead to partnerships through OpenAI’s Daybreak cybersecurity program. Another meeting reportedly involved utilities serving more than half of the U.S. population.\n\nOpenAI is now selling AI-powered defense to the same critical infrastructure sector that is increasingly worried about AI-powered attacks.\n\nSource. \n\n@aipost 🏴",
+    "entities": [
+      {
+        "offset": 0,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5289761612440310918"
+      },
+      {
+        "offset": 2,
+        "length": 73,
+        "type": "bold"
+      },
+      {
+        "offset": 758,
+        "length": 8,
+        "type": "text_link",
+        "url": "https://www.politico.com/news/2026/09/10/sam-altman-pitches-utilities-on-ai-grid-defense-01070425"
+      },
+      {
+        "offset": 768,
+        "length": 7,
+        "type": "mention"
+      },
+      {
+        "offset": 776,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5431390559912614642"
+      }
+    ],
+    "media_group_id": null,
+    "chat_id": -1004468214616,
+    "message_ids": [
+      765
+    ],
+    "update_ids": [
+      378304657
+    ],
+    "retry_count": 0
+  },
+  {
+    "type": "video",
+    "video_file_id": "BAACAgQAAyEFAAMBClOLWAACAv5qpRgo4HrU5RWFcjx_kkXGWPQQfAACfyIAAmfpIFE3bgTpw9JPTz0E",
+    "video_file_size": 37543710,
+    "caption": "😎 Sam Altman: Compute will be the currency of the future.\n\n“I think it will be maybe the most precious commodity in the world.”\n\n“Intelligence is going to be more like energy.”\n\n“If it’s really cheap, I’ll have it reading my email all day, giving me suggestions, and trying to cure cancer.”\n\n“The world is going to want a tremendous amount of compute.”\n\n“Energy is the hardest part. Building data centers is also hard.”\n\n“We’re going to want an amount of compute that’s just hard to reason about right now.”\n\n@aipost 🏴",
+    "entities": [
+      {
+        "offset": 0,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5289834369186299969"
+      },
+      {
+        "offset": 3,
+        "length": 55,
+        "type": "bold"
+      },
+      {
+        "offset": 60,
+        "length": 448,
+        "type": "blockquote"
+      },
+      {
+        "offset": 510,
+        "length": 7,
+        "type": "mention"
+      },
+      {
+        "offset": 518,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5431390559912614642"
+      }
+    ],
+    "media_group_id": null,
+    "chat_id": -1004468214616,
+    "message_ids": [
+      766
+    ],
+    "update_ids": [
+      378304658
     ],
     "retry_count": 0
   }
