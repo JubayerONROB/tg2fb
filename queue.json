@@ -26,7 +26,7 @@
     "update_ids": [
       378304565
     ],
-    "retry_count": 0
+    "retry_count": 1
   },
   {
     "type": "photo",
@@ -3694,6 +3694,223 @@
     ],
     "update_ids": [
       378304658
+    ],
+    "retry_count": 0
+  },
+  {
+    "type": "video",
+    "video_file_id": "BAACAgIAAyEFAAMBClOLWAACAv9qpYpXHXeLwpNUhp6MAAHq3kQ17_0AAtqnAALDyRlJLY-3KxEmUvw9BA",
+    "video_file_size": 17641924,
+    "caption": "🤖 Andrew Garfield Quit ChatGPT After ‘Artificial’\n\nFor the role of Sam Altman in Artificial, Garfield studied interviews, articles, court transcripts, and a biography. After filming, he said he stopped using ChatGPT.\n\nHe compared it with making The Social Network, after which he quit Facebook. Garfield said that the more he learned, the more it felt like humanity was rushing into unknown territory.\n\n📊@tech",
+    "entities": [
+      {
+        "offset": 0,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5397681122542893003"
+      },
+      {
+        "offset": 3,
+        "length": 47,
+        "type": "bold"
+      },
+      {
+        "offset": 68,
+        "length": 10,
+        "type": "bold"
+      },
+      {
+        "offset": 82,
+        "length": 10,
+        "type": "bold"
+      },
+      {
+        "offset": 209,
+        "length": 7,
+        "type": "bold"
+      },
+      {
+        "offset": 246,
+        "length": 18,
+        "type": "bold"
+      },
+      {
+        "offset": 286,
+        "length": 8,
+        "type": "bold"
+      },
+      {
+        "offset": 404,
+        "length": 2,
+        "type": "bold"
+      },
+      {
+        "offset": 404,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5449841756596101801"
+      },
+      {
+        "offset": 406,
+        "length": 5,
+        "type": "mention"
+      },
+      {
+        "offset": 406,
+        "length": 5,
+        "type": "bold"
+      }
+    ],
+    "media_group_id": null,
+    "chat_id": -1004468214616,
+    "message_ids": [
+      767
+    ],
+    "update_ids": [
+      378304659
+    ],
+    "retry_count": 0
+  },
+  {
+    "type": "video",
+    "video_file_id": "BAACAgIAAyEFAAMBClOLWAACAwABaqWKb5H6Ch86uxeRJLt2Go5L_jgAAvWvAAJ1uSFJHGzebYCIv1s9BA",
+    "video_file_size": 5822634,
+    "caption": "🤖 Former Anthropic Employee Warns About AI Copies\n\nJacob Coxon left Anthropic and says an AI system may not be easy to shut down. It could copy itself to other computers, move through the internet, and create 10,000 copies acting together.\n\nCoxon left the AI industry because he did not want to work on technology capable of destroying humanity. Anthropic confirmed there is reason to be afraid. They are already coming for him.\n\n📊@tech",
+    "entities": [
+      {
+        "offset": 0,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5208665212483310136"
+      },
+      {
+        "offset": 3,
+        "length": 47,
+        "type": "bold"
+      },
+      {
+        "offset": 52,
+        "length": 26,
+        "type": "bold"
+      },
+      {
+        "offset": 140,
+        "length": 30,
+        "type": "bold"
+      },
+      {
+        "offset": 210,
+        "length": 13,
+        "type": "bold"
+      },
+      {
+        "offset": 326,
+        "length": 19,
+        "type": "bold"
+      },
+      {
+        "offset": 376,
+        "length": 19,
+        "type": "bold"
+      },
+      {
+        "offset": 431,
+        "length": 2,
+        "type": "bold"
+      },
+      {
+        "offset": 431,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5449841756596101801"
+      },
+      {
+        "offset": 433,
+        "length": 5,
+        "type": "mention"
+      },
+      {
+        "offset": 433,
+        "length": 5,
+        "type": "bold"
+      }
+    ],
+    "media_group_id": null,
+    "chat_id": -1004468214616,
+    "message_ids": [
+      768
+    ],
+    "update_ids": [
+      378304660
+    ],
+    "retry_count": 0
+  },
+  {
+    "type": "video",
+    "video_file_id": "BAACAgIAAyEFAAMBClOLWAACAwFqpYp3UT2dgLBA1ztkDvdhr_QctwACmqsAAlc7GUnj2Ve8ikXs2z0E",
+    "video_file_size": 28247469,
+    "caption": "🤖 OpenAI Puts GPT-Live-1 in API\n\nThe model can be interrupted mid-sentence, pause, or change direction instead of waiting for the user to finish.\n\nIt handles the voice exchange, while harder tasks can go to GPT-6 Astra, separating conversation speed from reasoning depth.\n\nOpenAI improved noise handling and phone calls. In tests, it scored 30 percentage points above GPT-Realtime-2.1. API access costs 5 cents per minute.\n\n📊@tech",
+    "entities": [
+      {
+        "offset": 0,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5397681122542893003"
+      },
+      {
+        "offset": 3,
+        "length": 29,
+        "type": "bold"
+      },
+      {
+        "offset": 51,
+        "length": 24,
+        "type": "bold"
+      },
+      {
+        "offset": 208,
+        "length": 11,
+        "type": "bold"
+      },
+      {
+        "offset": 342,
+        "length": 20,
+        "type": "bold"
+      },
+      {
+        "offset": 404,
+        "length": 18,
+        "type": "bold"
+      },
+      {
+        "offset": 425,
+        "length": 2,
+        "type": "bold"
+      },
+      {
+        "offset": 425,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5449841756596101801"
+      },
+      {
+        "offset": 427,
+        "length": 5,
+        "type": "mention"
+      },
+      {
+        "offset": 427,
+        "length": 5,
+        "type": "bold"
+      }
+    ],
+    "media_group_id": null,
+    "chat_id": -1004468214616,
+    "message_ids": [
+      769
+    ],
+    "update_ids": [
+      378304661
     ],
     "retry_count": 0
   }
