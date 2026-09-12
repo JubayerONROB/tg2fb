@@ -1,40 +1,5 @@
 [
   {
-    "type": "video",
-    "video_file_id": "BAACAgQAAyEFAAMBClOLWAACAp5qmpQjw87Jrs1rlEZhaXVbO11l7gACVSAAArAC0FAWR1zrTfeXeD0E",
-    "video_file_size": 9722100,
-    "caption": "🇺🇸 Tesla Cybercab with no steering wheel or pedals are being tested on the streets of Austin.\n\n@aipost 🏴",
-    "entities": [
-      {
-        "offset": 0,
-        "length": 4,
-        "type": "custom_emoji",
-        "custom_emoji_id": "5202021044105257611"
-      },
-      {
-        "offset": 97,
-        "length": 7,
-        "type": "text_link",
-        "url": "https://t.me/aipost"
-      },
-      {
-        "offset": 105,
-        "length": 2,
-        "type": "custom_emoji",
-        "custom_emoji_id": "5431390559912614642"
-      }
-    ],
-    "media_group_id": null,
-    "chat_id": -1004468214616,
-    "message_ids": [
-      670
-    ],
-    "update_ids": [
-      378304562
-    ],
-    "retry_count": 2
-  },
-  {
     "type": "photo",
     "photo_file_ids": [
       "AgACAgIAAyEFAAMBClOLWAACAp9qmpRA8pdr85MuZgrSvww2-EDL1AACTxxrG7xL2Ui5DwAB_Si33QMBAAMCAAN5AAM9BA"
@@ -3525,6 +3490,69 @@
     ],
     "update_ids": [
       378304651
+    ],
+    "retry_count": 0
+  },
+  {
+    "type": "video",
+    "video_file_id": "BAACAgQAAyEFAAMBClOLWAACAvhqpHgXAWKjBOC9ryWpqjvR_7JuLwACjyEAAmfpIFHZUSfhy3VD_D0E",
+    "video_file_size": 11767641,
+    "caption": "Around 30 robots demonstrated outside Poland's Digital Affairs Ministry in Warsaw, chanting 'we want law, we want rules' to demand stronger AI oversight.\n\n@aipost 🏴",
+    "entities": [
+      {
+        "offset": 155,
+        "length": 7,
+        "type": "mention"
+      },
+      {
+        "offset": 163,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5431390559912614642"
+      }
+    ],
+    "media_group_id": null,
+    "chat_id": -1004468214616,
+    "message_ids": [
+      760
+    ],
+    "update_ids": [
+      378304652
+    ],
+    "retry_count": 0
+  },
+  {
+    "type": "photo",
+    "photo_file_ids": [
+      "AgACAgQAAyEFAAMBClOLWAACAvlqpHgtDLrrUD1WtopfTAS5pudoeQACWg9rG2fpIFGrMxpjzse-UwEAAwIAA3kAAz0E"
+    ],
+    "caption": "Why are employees from Google, OpenAI and Anthropic suddenly speaking up about AI risks? 🤔\n\n@aipost 🏴",
+    "entities": [
+      {
+        "offset": 89,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5370724846936267183"
+      },
+      {
+        "offset": 93,
+        "length": 7,
+        "type": "mention"
+      },
+      {
+        "offset": 101,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5431390559912614642"
+      }
+    ],
+    "media_group_id": null,
+    "chat_id": -1004468214616,
+    "message_ids": [
+      761
+    ],
+    "update_ids": [
+      378304653
     ],
     "retry_count": 0
   }

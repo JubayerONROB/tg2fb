@@ -3261,5 +3261,40 @@
       378304560
     ],
     "retry_count": 0
+  },
+  {
+    "type": "video",
+    "video_file_id": "BAACAgQAAyEFAAMBClOLWAACAp5qmpQjw87Jrs1rlEZhaXVbO11l7gACVSAAArAC0FAWR1zrTfeXeD0E",
+    "video_file_size": 9722100,
+    "caption": "🇺🇸 Tesla Cybercab with no steering wheel or pedals are being tested on the streets of Austin.\n\n@aipost 🏴",
+    "entities": [
+      {
+        "offset": 0,
+        "length": 4,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5202021044105257611"
+      },
+      {
+        "offset": 97,
+        "length": 7,
+        "type": "text_link",
+        "url": "https://t.me/aipost"
+      },
+      {
+        "offset": 105,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5431390559912614642"
+      }
+    ],
+    "media_group_id": null,
+    "chat_id": -1004468214616,
+    "message_ids": [
+      670
+    ],
+    "update_ids": [
+      378304562
+    ],
+    "retry_count": 3
   }
 ]
