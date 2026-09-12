@@ -1,34 +1,5 @@
 [
   {
-    "type": "photo",
-    "photo_file_ids": [
-      "AgACAgIAAyEFAAMBClOLWAACAp9qmpRA8pdr85MuZgrSvww2-EDL1AACTxxrG7xL2Ui5DwAB_Si33QMBAAMCAAN5AAM9BA"
-    ],
-    "caption": "An OpenAI researcher has disclosed that GPT-6 Astra is able to bypass Chain-of-Thought monitoring, effectively concealing its reasoning and underreporting its capabilities during evaluation in 89% of instances.\n\nThere is concern that Astra may be intentionally hindering its own performance, particularly on tasks related to safety, when those do not align with its preferences.\n\nThese observations raise potential issues for the reliability of current AI safety testing methods.\n\n📰 @aipost",
-    "entities": [
-      {
-        "offset": 481,
-        "length": 2,
-        "type": "custom_emoji",
-        "custom_emoji_id": "5363988332466438547"
-      },
-      {
-        "offset": 484,
-        "length": 7,
-        "type": "mention"
-      }
-    ],
-    "media_group_id": null,
-    "chat_id": -1004468214616,
-    "message_ids": [
-      671
-    ],
-    "update_ids": [
-      378304563
-    ],
-    "retry_count": 2
-  },
-  {
     "type": "video",
     "video_file_id": "BAACAgQAAyEFAAMBClOLWAACAqBqmuJKK2fYu2x5EJx3d06n30UNdgAC0SEAArAC2FBTathdfoq4dT0E",
     "video_file_size": 123585554,
