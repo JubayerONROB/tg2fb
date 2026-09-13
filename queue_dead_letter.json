@@ -3394,5 +3394,75 @@
       378304565
     ],
     "retry_count": 3
+  },
+  {
+    "type": "photo",
+    "photo_file_ids": [
+      "AgACAgIAAyEFAAMBClOLWAACAqJqmu1oTg5eyOUDUiMD6lJJc_JQvgACkCJrG2nryUipdWaToxMgfAEAAwIAA3kAAz0E"
+    ],
+    "caption": "🖥 Nvidia Officially Buys Hugging Face\n\nThe exact price is $12,930,300,000.\n\nNvidia says it will continue supporting Hugging Face’s mission and its open, independent approach across hardware. Together, they aim to make open source the default way to develop models.\n\n📊@tech",
+    "entities": [
+      {
+        "offset": 0,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "4992378218599154346"
+      },
+      {
+        "offset": 3,
+        "length": 35,
+        "type": "bold"
+      },
+      {
+        "offset": 59,
+        "length": 15,
+        "type": "bold"
+      },
+      {
+        "offset": 77,
+        "length": 6,
+        "type": "bold"
+      },
+      {
+        "offset": 117,
+        "length": 12,
+        "type": "bold"
+      },
+      {
+        "offset": 219,
+        "length": 11,
+        "type": "bold"
+      },
+      {
+        "offset": 267,
+        "length": 2,
+        "type": "bold"
+      },
+      {
+        "offset": 267,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5449841756596101801"
+      },
+      {
+        "offset": 269,
+        "length": 5,
+        "type": "mention"
+      },
+      {
+        "offset": 269,
+        "length": 5,
+        "type": "bold"
+      }
+    ],
+    "media_group_id": null,
+    "chat_id": -1004468214616,
+    "message_ids": [
+      674
+    ],
+    "update_ids": [
+      378304566
+    ],
+    "retry_count": 3
   }
 ]

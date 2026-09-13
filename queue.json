@@ -1,75 +1,5 @@
 [
   {
-    "type": "photo",
-    "photo_file_ids": [
-      "AgACAgIAAyEFAAMBClOLWAACAqJqmu1oTg5eyOUDUiMD6lJJc_JQvgACkCJrG2nryUipdWaToxMgfAEAAwIAA3kAAz0E"
-    ],
-    "caption": "🖥 Nvidia Officially Buys Hugging Face\n\nThe exact price is $12,930,300,000.\n\nNvidia says it will continue supporting Hugging Face’s mission and its open, independent approach across hardware. Together, they aim to make open source the default way to develop models.\n\n📊@tech",
-    "entities": [
-      {
-        "offset": 0,
-        "length": 2,
-        "type": "custom_emoji",
-        "custom_emoji_id": "4992378218599154346"
-      },
-      {
-        "offset": 3,
-        "length": 35,
-        "type": "bold"
-      },
-      {
-        "offset": 59,
-        "length": 15,
-        "type": "bold"
-      },
-      {
-        "offset": 77,
-        "length": 6,
-        "type": "bold"
-      },
-      {
-        "offset": 117,
-        "length": 12,
-        "type": "bold"
-      },
-      {
-        "offset": 219,
-        "length": 11,
-        "type": "bold"
-      },
-      {
-        "offset": 267,
-        "length": 2,
-        "type": "bold"
-      },
-      {
-        "offset": 267,
-        "length": 2,
-        "type": "custom_emoji",
-        "custom_emoji_id": "5449841756596101801"
-      },
-      {
-        "offset": 269,
-        "length": 5,
-        "type": "mention"
-      },
-      {
-        "offset": 269,
-        "length": 5,
-        "type": "bold"
-      }
-    ],
-    "media_group_id": null,
-    "chat_id": -1004468214616,
-    "message_ids": [
-      674
-    ],
-    "update_ids": [
-      378304566
-    ],
-    "retry_count": 2
-  },
-  {
     "type": "album",
     "photo_file_ids": [
       "AgACAgQAAyEFAAMBClOLWAACAqNqmu11JWNJpKuRAuhSBtIwkX5myQACzRBrG3AP0FCF2-JiF4L5ewEAAwIAA3gAAz0E",
@@ -4221,6 +4151,149 @@
     ],
     "update_ids": [
       378304670
+    ],
+    "retry_count": 0
+  },
+  {
+    "type": "photo",
+    "photo_file_ids": [
+      "AgACAgQAAyEFAAMBClOLWAACAwtqpoKxVAOlgdQBHQEr-y3mm_y4YwACjxBrG6OFMVGBW0pVe25j2AEAAwIAA3kAAz0E"
+    ],
+    "caption": "Mark Zuckerberg says AI is “not moving fast enough”\n\n@aipost 🏴",
+    "entities": [
+      {
+        "offset": 53,
+        "length": 7,
+        "type": "mention"
+      },
+      {
+        "offset": 61,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5431390559912614642"
+      }
+    ],
+    "media_group_id": null,
+    "chat_id": -1004468214616,
+    "message_ids": [
+      779
+    ],
+    "update_ids": [
+      378304671
+    ],
+    "retry_count": 0
+  },
+  {
+    "type": "photo",
+    "photo_file_ids": [
+      "AgACAgQAAyEFAAMBClOLWAACAwxqppD04-3XD8qLsmxSwOE0o-hybQACHg9rG0LyLVFRDBUb2e_0_QEAAwIAA3cAAz0E"
+    ],
+    "caption": "🤖 Google Brings Gemini to Windows\n\nThe app runs on Windows 10 and 11. Alt + Space opens it over documents and other apps.\n\nIt connects to Gmail and Google Drive. It also supports Gemini Spark plus image and video generation. Model answers still need checking.\n\n📊@tech",
+    "entities": [
+      {
+        "offset": 0,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5206660927339924387"
+      },
+      {
+        "offset": 3,
+        "length": 31,
+        "type": "bold"
+      },
+      {
+        "offset": 52,
+        "length": 17,
+        "type": "bold"
+      },
+      {
+        "offset": 71,
+        "length": 11,
+        "type": "bold"
+      },
+      {
+        "offset": 139,
+        "length": 22,
+        "type": "bold"
+      },
+      {
+        "offset": 180,
+        "length": 12,
+        "type": "bold"
+      },
+      {
+        "offset": 262,
+        "length": 2,
+        "type": "bold"
+      },
+      {
+        "offset": 262,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5449841756596101801"
+      },
+      {
+        "offset": 264,
+        "length": 5,
+        "type": "mention"
+      },
+      {
+        "offset": 264,
+        "length": 5,
+        "type": "bold"
+      }
+    ],
+    "media_group_id": null,
+    "chat_id": -1004468214616,
+    "message_ids": [
+      780
+    ],
+    "update_ids": [
+      378304672
+    ],
+    "retry_count": 0
+  },
+  {
+    "type": "video",
+    "video_file_id": "BAACAgQAAyEFAAMBClOLWAACAw1qpp1ufs_jDOQxKWdDujPWPNACMgACKSAAAqOFMVGfT4ZMXpVQrj0E",
+    "video_file_size": 15048395,
+    "caption": "🥺 Sam Altman says OpenAI would melt all its GPUs if that’s what it took to keep humanity alive \n\nHe doesn't expect it to come to that. He does expect to pause more than once.\n\n\"I think there will be many places along the way where we have to say, we are pausing, we're going to redirect our efforts into safety alignment before we go to that next level.\"\n\n\"I don't think we're ever personally going to get to the point we have to say melt all the GPUs. But if we had to do something like that to ensure the continued existence of humanity, easy yes.\"\n\n@aipost 🏴",
+    "entities": [
+      {
+        "offset": 0,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5291894093767542370"
+      },
+      {
+        "offset": 3,
+        "length": 93,
+        "type": "bold"
+      },
+      {
+        "offset": 177,
+        "length": 375,
+        "type": "blockquote"
+      },
+      {
+        "offset": 553,
+        "length": 7,
+        "type": "mention"
+      },
+      {
+        "offset": 561,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5431390559912614642"
+      }
+    ],
+    "media_group_id": null,
+    "chat_id": -1004468214616,
+    "message_ids": [
+      781
+    ],
+    "update_ids": [
+      378304673
     ],
     "retry_count": 0
   }
