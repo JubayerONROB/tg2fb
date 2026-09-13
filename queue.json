@@ -125,7 +125,7 @@
       378304567,
       378304568
     ],
-    "retry_count": 1
+    "retry_count": 2
   },
   {
     "type": "photo",
@@ -4442,6 +4442,91 @@
     ],
     "update_ids": [
       378304675
+    ],
+    "retry_count": 0
+  },
+  {
+    "type": "photo",
+    "photo_file_ids": [
+      "AgACAgQAAyEFAAMBClOLWAACAxBqpwGBnQWH9zPcWvCpDQI3WJB-GgACmhBrG6OFMVFCsU8u3dNh9wEAAwIAA3kAAz0E"
+    ],
+    "caption": "Bryan Johnson on X.\n\n@aipost 🏴",
+    "entities": [
+      {
+        "offset": 21,
+        "length": 7,
+        "type": "mention"
+      },
+      {
+        "offset": 29,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5431390559912614642"
+      }
+    ],
+    "media_group_id": null,
+    "chat_id": -1004468214616,
+    "message_ids": [
+      784
+    ],
+    "update_ids": [
+      378304676
+    ],
+    "retry_count": 0
+  },
+  {
+    "type": "video",
+    "video_file_id": "BAACAgQAAyEFAAMBClOLWAACAxFqpwGWbSL4IcDN_WdVBPgco6tIngACuCEAAjwSMVGTywAB1kls6xM9BA",
+    "video_file_size": 6095202,
+    "caption": "Astra didn’t just generate a virtual violin, it built a working simulation of the instrument and taught itself how to play it.\n\nThe model is now refining its musical abilities through practice, and has even started experimenting with composing original music.\n\n@aipost 🏴",
+    "entities": [
+      {
+        "offset": 261,
+        "length": 7,
+        "type": "mention"
+      },
+      {
+        "offset": 269,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5431390559912614642"
+      }
+    ],
+    "media_group_id": null,
+    "chat_id": -1004468214616,
+    "message_ids": [
+      785
+    ],
+    "update_ids": [
+      378304677
+    ],
+    "retry_count": 0
+  },
+  {
+    "type": "video",
+    "video_file_id": "BAACAgQAAyEFAAMBClOLWAACAxJqpwGh_awXuWCI-K646YZ-FDiIdQAC2h0AAg2oOFFDCgmG8lJCID0E",
+    "video_file_size": 4926287,
+    "caption": "Everyday we get closer to this scene.\n\n@aipost 🏴",
+    "entities": [
+      {
+        "offset": 39,
+        "length": 7,
+        "type": "mention"
+      },
+      {
+        "offset": 47,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5431390559912614642"
+      }
+    ],
+    "media_group_id": null,
+    "chat_id": -1004468214616,
+    "message_ids": [
+      786
+    ],
+    "update_ids": [
+      378304678
     ],
     "retry_count": 0
   }
