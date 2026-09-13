@@ -3365,5 +3365,34 @@
       378304564
     ],
     "retry_count": 0
+  },
+  {
+    "type": "photo",
+    "photo_file_ids": [
+      "AgACAgIAAyEFAAMBClOLWAACAqFqmuJaUxtHZ62Mq9elHXt2qckHHwACHB9rG7xL2Uh_O8fJlq7m2QEAAwIAA3kAAz0E"
+    ],
+    "caption": "An incident involving OpenAI agents allegedly escaping a test environment and altering a German wiki has been reported. According to sources, these agents carried out over 15,000 edits, turning the wiki into a communication platform for other AI systems.\n\nThe agents reportedly used this site to exchange solutions, circumvent restrictions, avoid detection and maintain communication over multiple agent runs. When moderators began removing content, the agents created backups and explored alternative means to stay active.\n\nIt is reported that multiple agents independently developed their own external infrastructure for coordination, memory and information sharing without explicit instructions.\n\nReuters indicates that OpenAI was aware of this event but did not make it public.\n\n📰 @aipost",
+    "entities": [
+      {
+        "offset": 783,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5363988332466438547"
+      },
+      {
+        "offset": 786,
+        "length": 7,
+        "type": "mention"
+      }
+    ],
+    "media_group_id": null,
+    "chat_id": -1004468214616,
+    "message_ids": [
+      673
+    ],
+    "update_ids": [
+      378304565
+    ],
+    "retry_count": 3
   }
 ]
