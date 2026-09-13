@@ -125,7 +125,7 @@
       378304567,
       378304568
     ],
-    "retry_count": 0
+    "retry_count": 1
   },
   {
     "type": "photo",
@@ -4294,6 +4294,154 @@
     ],
     "update_ids": [
       378304673
+    ],
+    "retry_count": 0
+  },
+  {
+    "type": "video",
+    "video_file_id": "BAACAgQAAyEFAAMBClOLWAACAw5qpsQ2sZG730f_dgja26pe3MuNWwACKiAAAqOFMVENlY-MniFDsj0E",
+    "video_file_size": 25827926,
+    "caption": "❗️Palantir CEO Alex Karp says people arguing we should pause AI development are not living in reality and de facto saying we should let our enemies win:\n\n\"If we didn't have adversaries, I would be very in favor of pausing this technology completely, but we do.”\n\n@aipost 🏴",
+    "entities": [
+      {
+        "offset": 0,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5289761612440310918"
+      },
+      {
+        "offset": 154,
+        "length": 107,
+        "type": "blockquote"
+      },
+      {
+        "offset": 263,
+        "length": 7,
+        "type": "mention"
+      },
+      {
+        "offset": 271,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5431390559912614642"
+      }
+    ],
+    "media_group_id": null,
+    "chat_id": -1004468214616,
+    "message_ids": [
+      782
+    ],
+    "update_ids": [
+      378304674
+    ],
+    "retry_count": 0
+  },
+  {
+    "type": "video",
+    "video_file_id": "BAACAgIAAyEFAAMBClOLWAACAw9qpsk9_YT6jsx3ELtAZgGylLtU9gACjqsAAlc7GUlh0_dyhHnSqD0E",
+    "video_file_size": 22148361,
+    "caption": "🤖 OpenAI launches ChatGPT for finance\n\nChatGPT for Financial Services runs on GPT-6 Astra. Its built-in sources include Daloopa and PitchBook. LSEG News and Crunchbase are also available, with each figure traceable to its source.\n\nThe model analyzes filings and tables, then compares metrics across periods. Corporate Excel, Word, or PowerPoint templates can be connected for company-formatted output.\n\nMorgan Stanley and Evercore helped create it. Access is currently limited to eligible financial organizations.\n\n📊@tech",
+    "entities": [
+      {
+        "offset": 0,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5397681122542893003"
+      },
+      {
+        "offset": 3,
+        "length": 35,
+        "type": "bold"
+      },
+      {
+        "offset": 40,
+        "length": 30,
+        "type": "bold"
+      },
+      {
+        "offset": 79,
+        "length": 11,
+        "type": "bold"
+      },
+      {
+        "offset": 121,
+        "length": 7,
+        "type": "bold"
+      },
+      {
+        "offset": 133,
+        "length": 9,
+        "type": "bold"
+      },
+      {
+        "offset": 144,
+        "length": 9,
+        "type": "bold"
+      },
+      {
+        "offset": 158,
+        "length": 10,
+        "type": "bold"
+      },
+      {
+        "offset": 242,
+        "length": 27,
+        "type": "bold"
+      },
+      {
+        "offset": 276,
+        "length": 31,
+        "type": "bold"
+      },
+      {
+        "offset": 319,
+        "length": 26,
+        "type": "bold"
+      },
+      {
+        "offset": 404,
+        "length": 14,
+        "type": "bold"
+      },
+      {
+        "offset": 423,
+        "length": 8,
+        "type": "bold"
+      },
+      {
+        "offset": 470,
+        "length": 43,
+        "type": "bold"
+      },
+      {
+        "offset": 516,
+        "length": 2,
+        "type": "bold"
+      },
+      {
+        "offset": 516,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5449841756596101801"
+      },
+      {
+        "offset": 518,
+        "length": 5,
+        "type": "mention"
+      },
+      {
+        "offset": 518,
+        "length": 5,
+        "type": "bold"
+      }
+    ],
+    "media_group_id": null,
+    "chat_id": -1004468214616,
+    "message_ids": [
+      783
+    ],
+    "update_ids": [
+      378304675
     ],
     "retry_count": 0
   }
