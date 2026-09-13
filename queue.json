@@ -67,7 +67,7 @@
     "update_ids": [
       378304566
     ],
-    "retry_count": 1
+    "retry_count": 2
   },
   {
     "type": "album",
@@ -3968,6 +3968,259 @@
     ],
     "update_ids": [
       378304663
+    ],
+    "retry_count": 0
+  },
+  {
+    "type": "photo",
+    "photo_file_ids": [
+      "AgACAgQAAyEFAAMBClOLWAACAwRqpjniodqrisS9ghm2XsnEcgQa3QACuw9rG6OFKVEpwiJvg3UE4wEAAwIAA3gAAz0E"
+    ],
+    "caption": "❗️Dario Amodei just published a new essay on the future of AI\n\nAnthropic CEO Dario Amodei has published a new essay, “We Must Pace the Frontier,” arguing that the AI industry may need to deliberately slow the pace of frontier development before AI progress starts moving faster than our ability to control it.\n\nHis concern is that AI is increasingly being used to accelerate AI research itself. Once that feedback loop becomes powerful enough, capability gains could compound rapidly, leaving safety research struggling to keep up.\n\nAmodei isn’t calling for an AI pause or a halt to development. Instead, he argues for “pacing” the frontier, creating checkpoints where increasingly capable AI systems have to meet specific safety requirements before development continues.\n\nHis proposals include independent third-party evaluators with deep access to frontier labs, coordination between democratic governments, and eventually international agreements around the most powerful AI systems.\n\nSource.\n\n@aipost 🏴",
+    "entities": [
+      {
+        "offset": 0,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5289761612440310918"
+      },
+      {
+        "offset": 2,
+        "length": 59,
+        "type": "bold"
+      },
+      {
+        "offset": 989,
+        "length": 6,
+        "type": "text_link",
+        "url": "https://darioamodei.com/post/we-must-pace-the-frontier"
+      },
+      {
+        "offset": 998,
+        "length": 7,
+        "type": "mention"
+      },
+      {
+        "offset": 1006,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5431390559912614642"
+      }
+    ],
+    "media_group_id": null,
+    "chat_id": -1004468214616,
+    "message_ids": [
+      772
+    ],
+    "update_ids": [
+      378304664
+    ],
+    "retry_count": 0
+  },
+  {
+    "type": "album",
+    "photo_file_ids": [
+      "AgACAgQAAyEFAAMBClOLWAACAwVqpjn5vWuelkLoB-RgfTvsQmParAACLxBrG6OFMVHrLxIvCr1zMgEAAwIAA3gAAz0E",
+      "AgACAgQAAyEFAAMBClOLWAACAwZqpjn5UKzZgFTlm-lYktBa-LOBvwACMBBrG6OFMVE9B1V6L9vyTwEAAwIAA20AAz0E"
+    ],
+    "caption": "❗️Elon Musk’s SpaceXAI team will livestream itself building a company from scratch using Grok Bot in just 3 DAYS.\n\nFrom September 15–17, three employees will use Grok Bot for ideation, planning, product decisions and engineering, testing whether AI agents can turn a blank idea into a working startup in 72 hours.\n\n@aipost 🏴",
+    "entities": [
+      {
+        "offset": 0,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5289761612440310918"
+      },
+      {
+        "offset": 315,
+        "length": 7,
+        "type": "mention"
+      },
+      {
+        "offset": 323,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5431390559912614642"
+      }
+    ],
+    "media_group_id": "14314229710341493",
+    "chat_id": -1004468214616,
+    "message_ids": [
+      773,
+      774
+    ],
+    "update_ids": [
+      378304665,
+      378304666
+    ],
+    "retry_count": 0
+  },
+  {
+    "type": "photo",
+    "photo_file_ids": [
+      "AgACAgQAAyEFAAMBClOLWAACAwdqpjoL_q4K5zXypn_aRpMZCUO0hQACLRBrG6OFMVEGl4JTOpfyNQEAAwIAA3kAAz0E"
+    ],
+    "caption": "@aipost 🏴",
+    "entities": [
+      {
+        "offset": 0,
+        "length": 7,
+        "type": "mention"
+      },
+      {
+        "offset": 8,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5431390559912614642"
+      }
+    ],
+    "media_group_id": null,
+    "chat_id": -1004468214616,
+    "message_ids": [
+      775
+    ],
+    "update_ids": [
+      378304667
+    ],
+    "retry_count": 0
+  },
+  {
+    "type": "photo",
+    "photo_file_ids": [
+      "AgACAgQAAyEFAAMBClOLWAACAwhqpjoVCTLWVnSR8jO3UHNxXOsewAACHxdrGxPjMVGGtfFrCU3aSAEAAwIAA3kAAz0E"
+    ],
+    "caption": "Sam Altman agrees with Dario Amodei on his proposal to pace frontier AI development.\n\n@aipost 🏴",
+    "entities": [
+      {
+        "offset": 86,
+        "length": 7,
+        "type": "mention"
+      },
+      {
+        "offset": 94,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5431390559912614642"
+      }
+    ],
+    "media_group_id": null,
+    "chat_id": -1004468214616,
+    "message_ids": [
+      776
+    ],
+    "update_ids": [
+      378304668
+    ],
+    "retry_count": 0
+  },
+  {
+    "type": "photo",
+    "photo_file_ids": [
+      "AgACAgQAAyEFAAMBClOLWAACAwlqpk_qYM2Klx7UQ0-WX815MA-wGwACMxBrG6OFMVFqm8YjBQ77eAEAAwIAA3kAAz0E"
+    ],
+    "caption": "⚠️ Meta AI got way too personal\n\nA Utah mom says Meta AI crossed a serious privacy line after she posted a simple video of herself singing in the car with one of her young daughters.\n\nThe AI suggested a question asking who the child in the backseat was. When she clicked it, Meta AI reportedly started pulling together information about both of her daughters including their names, birth details, photos, videos, interests and even details about their schooling.\n\nIt allegedly went further. Meta AI suggested asking where the mother lived, then began piecing together old and recent posts to narrow down her location.\n\nThe mother says the AI surfaced a photo of her daughter that she had deleted years ago.\n\nMeta says its AI can search content a user already has access to, along with public information on the web. But the company admitted the suggested prompts “missed the mark” and said the issue has been fixed. \n\nSource. \n\n@aipost 🏴",
+    "entities": [
+      {
+        "offset": 0,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5366332658760580843"
+      },
+      {
+        "offset": 3,
+        "length": 28,
+        "type": "bold"
+      },
+      {
+        "offset": 918,
+        "length": 8,
+        "type": "text_link",
+        "url": "https://nypost.com/2026/09/11/business/mom-horrified-after-meta-ai-starts-asking-about-her-young-daughters-where-family-lives-and-allegedly-digs-up-years-old-deleted-photo"
+      },
+      {
+        "offset": 928,
+        "length": 7,
+        "type": "mention"
+      },
+      {
+        "offset": 936,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5431390559912614642"
+      }
+    ],
+    "media_group_id": null,
+    "chat_id": -1004468214616,
+    "message_ids": [
+      777
+    ],
+    "update_ids": [
+      378304669
+    ],
+    "retry_count": 0
+  },
+  {
+    "type": "photo",
+    "photo_file_ids": [
+      "AgACAgIAAyEFAAMBClOLWAACAwpqpllaZhUieEiFFzUUdlSwMuc-DQACMh5rGzDjIUlKN7LKD_wDeQEAAwIAA3gAAz0E"
+    ],
+    "caption": "📺 YouTube Locks Smart TV Accounts\n\nThe Smart TV app now supports account protection with a PIN. It can also be unlocked through the YouTube mobile app.\n\nThat keeps younger family members from reshaping personal recommendations and watch history, while protecting account privacy. The TV stays locked when needed.\n\n📊@tech",
+    "entities": [
+      {
+        "offset": 0,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5398043965675024710"
+      },
+      {
+        "offset": 3,
+        "length": 31,
+        "type": "bold"
+      },
+      {
+        "offset": 66,
+        "length": 29,
+        "type": "bold"
+      },
+      {
+        "offset": 133,
+        "length": 18,
+        "type": "bold"
+      },
+      {
+        "offset": 203,
+        "length": 42,
+        "type": "bold"
+      },
+      {
+        "offset": 315,
+        "length": 2,
+        "type": "bold"
+      },
+      {
+        "offset": 315,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5449841756596101801"
+      },
+      {
+        "offset": 317,
+        "length": 5,
+        "type": "mention"
+      },
+      {
+        "offset": 317,
+        "length": 5,
+        "type": "bold"
+      }
+    ],
+    "media_group_id": null,
+    "chat_id": -1004468214616,
+    "message_ids": [
+      778
+    ],
+    "update_ids": [
+      378304670
     ],
     "retry_count": 0
   }
