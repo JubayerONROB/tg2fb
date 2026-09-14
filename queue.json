@@ -26,7 +26,7 @@
     "update_ids": [
       378304569
     ],
-    "retry_count": 1
+    "retry_count": 2
   },
   {
     "type": "video",
@@ -4399,6 +4399,133 @@
     ],
     "update_ids": [
       378304678
+    ],
+    "retry_count": 0
+  },
+  {
+    "type": "video",
+    "video_file_id": "BAACAgQAAyEFAAMBClOLWAACAxNqp1ulrwABf73NEXVqaRF6nyZH_T0AAnQgAAKjhTFRQ9bm6Ii4zyA9BA",
+    "video_file_size": 32454201,
+    "caption": "🗣Dario Amodei finally talks about Jacob Coxon's post:\n\n“I agree with Jacob much more than I disagree with him.”\n\n“When he left, he said, ‘I think Anthropic is the most responsible player. I think Anthropic is the most aware of these issues.’ \n\n\"He wasn’t calling out us. He was calling out the dynamic of the industry as a whole moving too fast.”\n\n@aipost 🏴",
+    "entities": [
+      {
+        "offset": 0,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5287468155738821335"
+      },
+      {
+        "offset": 56,
+        "length": 291,
+        "type": "blockquote"
+      },
+      {
+        "offset": 349,
+        "length": 7,
+        "type": "mention"
+      },
+      {
+        "offset": 357,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5431390559912614642"
+      }
+    ],
+    "media_group_id": null,
+    "chat_id": -1004468214616,
+    "message_ids": [
+      787
+    ],
+    "update_ids": [
+      378304679
+    ],
+    "retry_count": 0
+  },
+  {
+    "type": "video",
+    "video_file_id": "BAACAgQAAyEFAAMBClOLWAACAxRqp1vH0Ol9M36stIOT8kTMObAWAgACeSAAAqOFMVHA-j-8S4Wqjz0E",
+    "video_file_size": 25422363,
+    "caption": "😎 Sam Altman revealed what surprised him most about the people building AI.\n\nSome are driven by doing the right thing no matter what it costs them. Some are driven entirely by \"ego and power and FOMO.\" A lot of them, he says, have no idea which one they are.\n\n\"A surprising number of people, for good or for bad, are totally oblivious to their own motivations. I would have assumed that was much smaller.\"\n\nHe was surprised about himself too.\n\n\"You really can get used to almost anything. That is a remarkable human ability. He said the job taught him to take things less personally and \"not get too high or too low or go too crazy.\"\n\n@aipost 🏴",
+    "entities": [
+      {
+        "offset": 0,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5289834369186299969"
+      },
+      {
+        "offset": 3,
+        "length": 73,
+        "type": "bold"
+      },
+      {
+        "offset": 636,
+        "length": 7,
+        "type": "mention"
+      },
+      {
+        "offset": 644,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5431390559912614642"
+      }
+    ],
+    "media_group_id": null,
+    "chat_id": -1004468214616,
+    "message_ids": [
+      788
+    ],
+    "update_ids": [
+      378304680
+    ],
+    "retry_count": 0
+  },
+  {
+    "type": "video",
+    "video_file_id": "BAACAgQAAyEFAAMBClOLWAACAxVqp44nT3qhpq0ptJNJKRKBUNfvVAACfiAAAqOFMVEc7yBjc7g0Oj0E",
+    "video_file_size": 7950452,
+    "caption": "😎 Sam Altman says a sit-down with Dario Amodei and Elon Musk on AI safety \"will happen.\"\n\nInterviewer: \n\"Why can't you all just get in a room, get some beers, and figure out how to solve humanity?\"\n\nAltman: \n\"I think that will happen. I'm not gonna pre-announce private discussions.\"\n\n@aipost 🏴",
+    "entities": [
+      {
+        "offset": 0,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5289834369186299969"
+      },
+      {
+        "offset": 3,
+        "length": 86,
+        "type": "bold"
+      },
+      {
+        "offset": 105,
+        "length": 93,
+        "type": "blockquote"
+      },
+      {
+        "offset": 209,
+        "length": 75,
+        "type": "blockquote"
+      },
+      {
+        "offset": 286,
+        "length": 7,
+        "type": "mention"
+      },
+      {
+        "offset": 294,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5431390559912614642"
+      }
+    ],
+    "media_group_id": null,
+    "chat_id": -1004468214616,
+    "message_ids": [
+      789
+    ],
+    "update_ids": [
+      378304681
     ],
     "retry_count": 0
   }
