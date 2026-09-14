@@ -26,7 +26,7 @@
     "update_ids": [
       378304570
     ],
-    "retry_count": 0
+    "retry_count": 1
   },
   {
     "type": "photo",
@@ -4497,6 +4497,184 @@
     ],
     "update_ids": [
       378304681
+    ],
+    "retry_count": 0
+  },
+  {
+    "type": "video",
+    "video_file_id": "BAACAgIAAyEFAAMBClOLWAACAxZqp_qE9VGcCyOOI0hSsU6JIVOtFAACvagAAn_gMElxDNa6Z4Me3D0E",
+    "video_file_size": 29876039,
+    "caption": "🤖 Higgsfield Adds ChatGPT to After Effects\n\nIts AI Motion Designer connects ChatGPT to an After Effects project, turning plain-text commands into motion work.\n\nIt can also write After Effects expressions and work with existing videos or compositions.\n\nThe result stays editable, so layers and keyframes can still be changed manually.\n\n📊@tech",
+    "entities": [
+      {
+        "offset": 0,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5397681122542893003"
+      },
+      {
+        "offset": 3,
+        "length": 40,
+        "type": "bold"
+      },
+      {
+        "offset": 49,
+        "length": 18,
+        "type": "bold"
+      },
+      {
+        "offset": 77,
+        "length": 7,
+        "type": "bold"
+      },
+      {
+        "offset": 91,
+        "length": 21,
+        "type": "bold"
+      },
+      {
+        "offset": 179,
+        "length": 25,
+        "type": "bold"
+      },
+      {
+        "offset": 270,
+        "length": 8,
+        "type": "bold"
+      },
+      {
+        "offset": 336,
+        "length": 2,
+        "type": "bold"
+      },
+      {
+        "offset": 336,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5449841756596101801"
+      },
+      {
+        "offset": 338,
+        "length": 5,
+        "type": "mention"
+      },
+      {
+        "offset": 338,
+        "length": 5,
+        "type": "bold"
+      }
+    ],
+    "media_group_id": null,
+    "chat_id": -1004468214616,
+    "message_ids": [
+      790
+    ],
+    "update_ids": [
+      378304682
+    ],
+    "retry_count": 0
+  },
+  {
+    "type": "album",
+    "photo_file_ids": [
+      "AgACAgIAAyEFAAMBClOLWAACAxdqp_qKgUIWrb5ldSMj7HbqubCBwwACTyNrGzLwOUl-4XePtioAASoBAAMCAAN4AAM9BA",
+      "AgACAgIAAyEFAAMBClOLWAACAxhqp_qKZhjii6BySyf6J1UnvS-_rAACUCNrGzLwOUnKB7WEUynuIQEAAwIAA3kAAz0E",
+      "AgACAgIAAyEFAAMBClOLWAACAxlqp_qK5lW-6VmSzpXcQyJjwSEJdgACUSNrGzLwOUldbcI2P25EIwEAAwIAA3kAAz0E",
+      "AgACAgIAAyEFAAMBClOLWAACAxpqp_qKJHn3TokwXoTNktCZOcjmugACUiNrGzLwOUn3hyAjkSE9VwEAAwIAA3kAAz0E"
+    ],
+    "caption": "🧠 Amodei Urges Tighter AI Controls\n\nModels that create the next generation of models are called recursive self-improvement. Dario Amodei says AI has sharply accelerated since around this summer and may outrun human control.\n\nAgent swarms could seize a significant part of the Internet within 6-12 months, he warns, causing hundreds of billions of dollars in damage. The Hugging Face incident was only a limited demo.\n\nHis proposal, Embedded Evaluators, would give independent experts full access to AI companies and the right to report violations publicly. He also backs shared safety limits among democratic countries, tighter chip exports to China, and talks with Beijing on banning clearly dangerous uses.\n\n📊@tech",
+    "entities": [
+      {
+        "offset": 0,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5895617412975299964"
+      },
+      {
+        "offset": 3,
+        "length": 32,
+        "type": "bold"
+      },
+      {
+        "offset": 97,
+        "length": 26,
+        "type": "bold"
+      },
+      {
+        "offset": 125,
+        "length": 12,
+        "type": "bold"
+      },
+      {
+        "offset": 176,
+        "length": 18,
+        "type": "bold"
+      },
+      {
+        "offset": 293,
+        "length": 11,
+        "type": "bold"
+      },
+      {
+        "offset": 324,
+        "length": 31,
+        "type": "bold"
+      },
+      {
+        "offset": 371,
+        "length": 21,
+        "type": "bold"
+      },
+      {
+        "offset": 433,
+        "length": 19,
+        "type": "bold"
+      },
+      {
+        "offset": 645,
+        "length": 5,
+        "type": "bold"
+      },
+      {
+        "offset": 667,
+        "length": 7,
+        "type": "bold"
+      },
+      {
+        "offset": 711,
+        "length": 2,
+        "type": "bold"
+      },
+      {
+        "offset": 711,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5449841756596101801"
+      },
+      {
+        "offset": 713,
+        "length": 5,
+        "type": "mention"
+      },
+      {
+        "offset": 713,
+        "length": 5,
+        "type": "bold"
+      }
+    ],
+    "media_group_id": "14315148375724245",
+    "chat_id": -1004468214616,
+    "message_ids": [
+      791,
+      792,
+      793,
+      794
+    ],
+    "update_ids": [
+      378304683,
+      378304684,
+      378304685,
+      378304686
     ],
     "retry_count": 0
   }
