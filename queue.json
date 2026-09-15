@@ -1,34 +1,5 @@
 [
   {
-    "type": "video",
-    "video_file_id": "BAACAgQAAyEFAAMBClOLWAACAqZqm6E0AfhR8bbDa00EQ_tfBGcZ-gACGCMAAjOb2VDqavWI1D_bXT0E",
-    "video_file_size": 6147844,
-    "caption": "Cybercab lets you control games using game controllers.\n\n@aipost 🏴",
-    "entities": [
-      {
-        "offset": 57,
-        "length": 7,
-        "type": "text_link",
-        "url": "https://t.me/aipost"
-      },
-      {
-        "offset": 65,
-        "length": 2,
-        "type": "custom_emoji",
-        "custom_emoji_id": "5431390559912614642"
-      }
-    ],
-    "media_group_id": null,
-    "chat_id": -1004468214616,
-    "message_ids": [
-      678
-    ],
-    "update_ids": [
-      378304570
-    ],
-    "retry_count": 2
-  },
-  {
     "type": "photo",
     "photo_file_ids": [
       "AgACAgQAAyEFAAMBClOLWAACAqdqm6FCSpIgbLwfy5-nlWoUAZwSJwACJxBrGzOb2VBB6RB77oTukQEAAwIAA3gAAz0E"
