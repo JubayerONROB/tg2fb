@@ -47,7 +47,7 @@
       378304572,
       378304573
     ],
-    "retry_count": 0
+    "retry_count": 1
   },
   {
     "type": "video",
@@ -5092,6 +5092,34 @@
     "update_ids": [
       378304700,
       378304701
+    ],
+    "retry_count": 0
+  },
+  {
+    "type": "video",
+    "video_file_id": "BAACAgIAAyEFAAMBClOLWAACAypqqbBEnCbuIWvnxZgG3KcVZq8n4wACfKcAAldkSEnYvkDWwoPzpz0E",
+    "video_file_size": 10400890,
+    "caption": "US Vice President JD Vance has commented on how some AI companies use fear as a marketing tool, suggesting that by highlighting dystopian scenarios, CEOs make their products seem more powerful. He noted that if people are afraid of a technology, it may be perceived as effective.\n\nVance also addressed the topic of AI’s impact on employment. He stated that while there will be job changes and some disruptions, current data does not support the notion that AI will cause widespread unemployment.\n\nDiscussing regulation, Vance cautioned against frontier AI tech firms seeking increased regulation, describing it as a potential “Trojan horse.” He emphasized the need for the United States to maintain a smart and strategic approach, especially given global competition.\n\n📰 @aipost",
+    "entities": [
+      {
+        "offset": 769,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5363988332466438547"
+      },
+      {
+        "offset": 772,
+        "length": 7,
+        "type": "mention"
+      }
+    ],
+    "media_group_id": null,
+    "chat_id": -1004468214616,
+    "message_ids": [
+      810
+    ],
+    "update_ids": [
+      378304702
     ],
     "retry_count": 0
   }
