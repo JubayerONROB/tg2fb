@@ -1,46 +1,5 @@
 [
   {
-    "type": "photo",
-    "photo_file_ids": [
-      "AgACAgQAAyEFAAMBClOLWAACAqdqm6FCSpIgbLwfy5-nlWoUAZwSJwACJxBrGzOb2VBB6RB77oTukQEAAwIAA3gAAz0E"
-    ],
-    "caption": "🇯🇵 Japan is building AI satellites that could guide missiles\n\nThe country’s Defense Ministry is planning AI-equipped satellites capable of processing surveillance data directly in space, identifying potential enemy positions and predicting the movement of targets such as ships. These satellites won’t actually be doing the surveillance.\n\nInstead, they’ll receive data collected by other satellites, analyze it onboard and send the processed targeting information directly to command centers on the ground.\n\nThat could dramatically reduce the time between detecting a target and acting on the information.\n\nJapan is also exploring a system that could provide real-time targeting updates to long-range missiles after they’ve already been launched, potentially allowing them to adjust to moving targets and improve accuracy. \n\nPrototype development is planned for FY2027–2029, with space testing expected to begin from FY2030 onward.\n\n@aipost 🏴",
-    "entities": [
-      {
-        "offset": 0,
-        "length": 4,
-        "type": "custom_emoji",
-        "custom_emoji_id": "5456261908069885892"
-      },
-      {
-        "offset": 4,
-        "length": 58,
-        "type": "bold"
-      },
-      {
-        "offset": 935,
-        "length": 7,
-        "type": "text_link",
-        "url": "https://t.me/aipost"
-      },
-      {
-        "offset": 943,
-        "length": 2,
-        "type": "custom_emoji",
-        "custom_emoji_id": "5431390559912614642"
-      }
-    ],
-    "media_group_id": null,
-    "chat_id": -1004468214616,
-    "message_ids": [
-      679
-    ],
-    "update_ids": [
-      378304571
-    ],
-    "retry_count": 2
-  },
-  {
     "type": "album",
     "photo_file_ids": [
       "AgACAgQAAyEFAAMBClOLWAACAqhqm6F4IsJ8zO4HOcj6Fqf9Ea72xQACKBBrGzOb2VA1vvl0U52RmgEAAwIAA3kAAz0E",
@@ -4646,6 +4605,493 @@
       378304684,
       378304685,
       378304686
+    ],
+    "retry_count": 0
+  },
+  {
+    "type": "video",
+    "video_file_id": "BAACAgQAAyEFAAMBClOLWAACAxtqqYOyNKke3qNJaYahCkzVfsDwogACgiAAAqOFMVE_RIS123en8z0E",
+    "video_file_size": 6728112,
+    "caption": "❗️Bernie Sanders says US President Trump \"appears to know absolutely nothing about AI and the dangers of AI.\"\n\nHe urged Trump to sit down with China's President Xi and agree on a global moratorium on superintelligent AI before the upcoming bilateral meeting.\n\n@aipost 🏴",
+    "entities": [
+      {
+        "offset": 0,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5289761612440310918"
+      },
+      {
+        "offset": 260,
+        "length": 7,
+        "type": "mention"
+      },
+      {
+        "offset": 268,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5431390559912614642"
+      }
+    ],
+    "media_group_id": null,
+    "chat_id": -1004468214616,
+    "message_ids": [
+      795
+    ],
+    "update_ids": [
+      378304687
+    ],
+    "retry_count": 0
+  },
+  {
+    "type": "photo",
+    "photo_file_ids": [
+      "AgACAgQAAyEFAAMBClOLWAACAxxqqYPaQdEePP5o_5U2mjavAAHP9egAAjgPaxs8EjlRK_ExUhyW8rwBAAMCAAN4AAM9BA"
+    ],
+    "caption": "🇺🇸 Trump rejected the AI slowdown push\n\nPresident Trump has now made his position clear: the U.S. is not slowing down frontier AI.\n\nSpeaking in Ireland, Trump dismissed calls from Anthropic CEO Dario Amodei, OpenAI CEO Sam Altman and Elon Musk to pace the development of increasingly powerful AI systems.\n\nHis argument is straightforward: the U.S. is ahead of China, and he wants to keep it that way.\n\n“Whoever wins AI wins.”\n\nTrump said some guardrails could be introduced, but brushed aside more serious safety warnings as coming from “very negative forces” talking about things he believes “won’t happen.” \n\n@aipost 🏴",
+    "entities": [
+      {
+        "offset": 0,
+        "length": 4,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5202021044105257611"
+      },
+      {
+        "offset": 5,
+        "length": 35,
+        "type": "bold"
+      },
+      {
+        "offset": 613,
+        "length": 7,
+        "type": "mention"
+      },
+      {
+        "offset": 621,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5431390559912614642"
+      }
+    ],
+    "media_group_id": null,
+    "chat_id": -1004468214616,
+    "message_ids": [
+      796
+    ],
+    "update_ids": [
+      378304688
+    ],
+    "retry_count": 0
+  },
+  {
+    "type": "photo",
+    "photo_file_ids": [
+      "AgACAgQAAyEFAAMBClOLWAACAx1qqYP9NordQLqKM7bvL0Zo5HrNsQACYg9rGw2oOFG7KO0wJZMYpgEAAwIAA3gAAz0E"
+    ],
+    "caption": "",
+    "entities": [],
+    "media_group_id": null,
+    "chat_id": -1004468214616,
+    "message_ids": [
+      797
+    ],
+    "update_ids": [
+      378304689
+    ],
+    "retry_count": 0
+  },
+  {
+    "type": "album",
+    "photo_file_ids": [
+      "AgACAgQAAyEFAAMBClOLWAACAx5qqYQpHHC8wUr18a0at3UsN3xjfAACOg9rGzwSOVHvQWF7msLgyQEAAwIAA3gAAz0E",
+      "AgACAgQAAyEFAAMBClOLWAACAx9qqYQp83pG7ZD1QHLHA-LPNaLmSgACOw9rGzwSOVHVPTYmJQ_raQEAAwIAA3gAAz0E"
+    ],
+    "caption": "🇨🇳 China fires back at Dario Amodei\n\nDario Amodei’s call to slow down frontier AI has now drawn a sharp response from China.\n\nChina’s state-backed Global Times says Amodei’s proposal is not really about AI safety, it’s a “Cold War playbook” aimed at containing China’s AI industry.\n\nThe editorial argues that slowing frontier AI would:\n\n→ Curb China’s AI development\n→ Preserve U.S. technological dominance\n→ Keep China out of global AI governance\n\nIt describes the situation as a “silent AI Cold War.”\n\nChina’s Foreign Ministry, meanwhile, called for global cooperation on AI and warned against hostile competition. \n\nSource. \n\n@aipost 🏴",
+    "entities": [
+      {
+        "offset": 0,
+        "length": 4,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5431782733376399004"
+      },
+      {
+        "offset": 5,
+        "length": 32,
+        "type": "bold"
+      },
+      {
+        "offset": 285,
+        "length": 52,
+        "type": "bold"
+      },
+      {
+        "offset": 621,
+        "length": 8,
+        "type": "text_link",
+        "url": "https://www.reuters.com/world/china/china-state-newspaper-blasts-anthropics-calls-slow-ai-cold-war-tactic-2026-09-14"
+      },
+      {
+        "offset": 631,
+        "length": 7,
+        "type": "mention"
+      },
+      {
+        "offset": 639,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5431390559912614642"
+      }
+    ],
+    "media_group_id": "14315954511181445",
+    "chat_id": -1004468214616,
+    "message_ids": [
+      798,
+      799
+    ],
+    "update_ids": [
+      378304690,
+      378304691
+    ],
+    "retry_count": 0
+  },
+  {
+    "type": "video",
+    "video_file_id": "BAACAgQAAyEFAAMBClOLWAACAyBqqYQ0C7EmFQwg-IF3DxKncS4mLgAClSAAAqOFMVGhtCtcpWwzDz0E",
+    "video_file_size": 8178517,
+    "caption": "🗣Charles Hoskinson BLASTS AI privacy “Share your ideas with AI, and they’re not yours anymore”\n\nCardano founder Charles Hoskinson warns that academics and entrepreneurs who share their ideas with AI will lose control over them, arguing that companies like OpenAI can access those interactions.\n\n“If you share them , OpenAI can take it at any time.”\n\n“Midnight fixes this because it creates private environments where they can’t read your logs.”\n\nHe says Cardano's partner chain Midnight will help protect users by giving them control over their AI logs and interactions.\n\n@aipost 🏴",
+    "entities": [
+      {
+        "offset": 0,
+        "length": 2,
+        "type": "bold"
+      },
+      {
+        "offset": 0,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5287468155738821335"
+      },
+      {
+        "offset": 2,
+        "length": 93,
+        "type": "bold"
+      },
+      {
+        "offset": 573,
+        "length": 7,
+        "type": "mention"
+      },
+      {
+        "offset": 581,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5431390559912614642"
+      }
+    ],
+    "media_group_id": null,
+    "chat_id": -1004468214616,
+    "message_ids": [
+      800
+    ],
+    "update_ids": [
+      378304692
+    ],
+    "retry_count": 0
+  },
+  {
+    "type": "photo",
+    "photo_file_ids": [
+      "AgACAgQAAyEFAAMBClOLWAACAyFqqYRkUt6vTm8TULBiM2DdPYuAMQACQw9rGzwSOVGpbBTsETjZIgEAAwIAA3cAAz0E"
+    ],
+    "caption": "😎 Sam Altman says AI has two ways to go horribly wrong\n\nLose control to AI or give too much power to a single person, company, country, or lab.\n\nHis answer is a narrow middle path where AI stays aligned with humanity while no single entity gains enough power to shape the future for everyone.\n\n@aipost 🏴",
+    "entities": [
+      {
+        "offset": 0,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5289834369186299969"
+      },
+      {
+        "offset": 3,
+        "length": 52,
+        "type": "bold"
+      },
+      {
+        "offset": 295,
+        "length": 7,
+        "type": "mention"
+      },
+      {
+        "offset": 303,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5431390559912614642"
+      }
+    ],
+    "media_group_id": null,
+    "chat_id": -1004468214616,
+    "message_ids": [
+      801
+    ],
+    "update_ids": [
+      378304693
+    ],
+    "retry_count": 0
+  },
+  {
+    "type": "photo",
+    "photo_file_ids": [
+      "AgACAgQAAyEFAAMBClOLWAACAyJqqYTA3rvgCCVqQj_f4RT1eRTTEwACZxBrGzwSQVFoAqzA-WvQNQEAAwIAA3kAAz0E"
+    ],
+    "caption": "🤝 The AI control alliance nobody saw coming\n\nBernie Sanders, Steve Bannon and former Anthropic researcher Jacob Coxon are joining forces around one surprisingly common demand: AI must remain under human control.\n\nIt’s an extremely unlikely coalition, the progressive left, MAGA conservatives and an AI industry insider but they’re converging on concerns over runaway AI development and concentrated corporate power. \n\nSource.\n\n@aipost 🏴",
+    "entities": [
+      {
+        "offset": 0,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5357080225463149588"
+      },
+      {
+        "offset": 3,
+        "length": 41,
+        "type": "bold"
+      },
+      {
+        "offset": 179,
+        "length": 1,
+        "type": "bold"
+      },
+      {
+        "offset": 419,
+        "length": 6,
+        "type": "text_link",
+        "url": "https://www.axios.com/2026/09/14/coxon-bernie-bannon-unite-human-ai"
+      },
+      {
+        "offset": 428,
+        "length": 7,
+        "type": "mention"
+      },
+      {
+        "offset": 436,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5431390559912614642"
+      }
+    ],
+    "media_group_id": null,
+    "chat_id": -1004468214616,
+    "message_ids": [
+      802
+    ],
+    "update_ids": [
+      378304694
+    ],
+    "retry_count": 0
+  },
+  {
+    "type": "photo",
+    "photo_file_ids": [
+      "AgACAgQAAyEFAAMBClOLWAACAyNqqYTekgTOGKGBOC18210NX_zExwACaRBrGzwSQVFWioacJTueTAEAAwIAA3kAAz0E"
+    ],
+    "caption": "🙃 Elon Musk: “I was thinking about AI safety long before 2014”\n\nElon Musk is pushing back on claims that his concerns about AI safety are a recent development.\n\nHe says he contributed to Nick Bostrom’s Superintelligence and was already thinking about the risks of advanced AI long before the current AI boom.\n\nA decade later, the debate Musk warned about is no longer theoretical.\n\n@aipost 🏴",
+    "entities": [
+      {
+        "offset": 0,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5289701946754633864"
+      },
+      {
+        "offset": 3,
+        "length": 60,
+        "type": "bold"
+      },
+      {
+        "offset": 203,
+        "length": 17,
+        "type": "italic"
+      },
+      {
+        "offset": 383,
+        "length": 7,
+        "type": "mention"
+      },
+      {
+        "offset": 391,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5431390559912614642"
+      }
+    ],
+    "media_group_id": null,
+    "chat_id": -1004468214616,
+    "message_ids": [
+      803
+    ],
+    "update_ids": [
+      378304695
+    ],
+    "retry_count": 0
+  },
+  {
+    "type": "album",
+    "photo_file_ids": [
+      "AgACAgQAAyEFAAMBClOLWAACAyRqqYTykzFAmvlVBmLzMpD072G0VgACRxFrGzwSQVG-FuzVHrsCTAEAAwIAA3cAAz0E",
+      "AgACAgQAAyEFAAMBClOLWAACAyVqqYTyhuu86w8UHVInf0k79eRQfAACSBFrGzwSQVEaj8Nz0sZwEAEAAwIAA3cAAz0E"
+    ],
+    "caption": "🇺🇸 President Trump just now:\n\n~ AI does NOT need more guardrails.\n\n~ The U.S. already has tremendous criminal and regulatory power over AI companies.\n\n~ Accused Anthropic’s Dario Amodei of doing \"bad, or potentially bad, things.\"\n\n~ He says there is a sick conspiracy against AI and data centers.\n\n~ Whoever wins AI, wins.\n\n~ Trump says the U.S. is leading China in AI and intends to keep it that way.\n\n@aipost 🏴",
+    "entities": [
+      {
+        "offset": 0,
+        "length": 4,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5202021044105257611"
+      },
+      {
+        "offset": 405,
+        "length": 7,
+        "type": "mention"
+      },
+      {
+        "offset": 413,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5431390559912614642"
+      }
+    ],
+    "media_group_id": "14315956117525997",
+    "chat_id": -1004468214616,
+    "message_ids": [
+      804,
+      805
+    ],
+    "update_ids": [
+      378304696,
+      378304697
+    ],
+    "retry_count": 0
+  },
+  {
+    "type": "photo",
+    "photo_file_ids": [
+      "AgACAgQAAyEFAAMBClOLWAACAyZqqYUTKVAnN-O4JsKPGhHin5sdUwACpBBrGzwSQVHbeysXwm2snAEAAwIAA3cAAz0E"
+    ],
+    "caption": "🇺🇸 Department of War on X.\n\nHow do you feel about the DoW's recent post? 🤔\n\n@aipost 🏴",
+    "entities": [
+      {
+        "offset": 0,
+        "length": 4,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5202021044105257611"
+      },
+      {
+        "offset": 75,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5370724846936267183"
+      },
+      {
+        "offset": 79,
+        "length": 7,
+        "type": "mention"
+      },
+      {
+        "offset": 87,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5431390559912614642"
+      }
+    ],
+    "media_group_id": null,
+    "chat_id": -1004468214616,
+    "message_ids": [
+      806
+    ],
+    "update_ids": [
+      378304698
+    ],
+    "retry_count": 0
+  },
+  {
+    "type": "photo",
+    "photo_file_ids": [
+      "AgACAgQAAyEFAAMBClOLWAACAydqqYUmrDL-2oQ_oTgRg3TcwQaSuAAC-w5rG9rySFEgIyeuAzjRAAEBAAMCAAN4AAM9BA"
+    ],
+    "caption": "Humans are reading your ChatGPT chats 👀\n\nA new investigation by 404 Media says OpenAI has hired hundreds of contractors to review real ChatGPT conversations as part of “Project Lily.”\n\nThe reviewers reportedly read prompts and entire conversations, then rate and critique ChatGPT’s responses to help improve future models.\n\nAnd the conversations can get very personal.\n\nUsers have reportedly shared everything from relationship problems and mental-health struggles to sensitive professional and personal information. OpenAI says it attempts to remove personal information before chats reach reviewers, but acknowledges that sensitive details can still slip through. \n\nThe contractors apparently don’t see users’ ChatGPT usernames, but one prompt reviewer told 404 Media they don’t think most users realize that “some contractor somewhere” could be analyzing their conversations. \n\nAnthropic also confirmed that it uses human review to improve its models.\n\nSource.\n\n@aipost 🏴",
+    "entities": [
+      {
+        "offset": 0,
+        "length": 38,
+        "type": "bold"
+      },
+      {
+        "offset": 38,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5357121491508928442"
+      },
+      {
+        "offset": 957,
+        "length": 6,
+        "type": "text_link",
+        "url": "https://www.404media.co/inside-project-lily-the-humans-reading-your-chatgpt-chats/"
+      },
+      {
+        "offset": 966,
+        "length": 7,
+        "type": "mention"
+      },
+      {
+        "offset": 974,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5431390559912614642"
+      }
+    ],
+    "media_group_id": null,
+    "chat_id": -1004468214616,
+    "message_ids": [
+      807
+    ],
+    "update_ids": [
+      378304699
+    ],
+    "retry_count": 0
+  },
+  {
+    "type": "album",
+    "photo_file_ids": [
+      "AgACAgQAAyEFAAMBClOLWAACAyhqqYVKxN9RWUTL9y5shDb2XP9NawACpw5rG9rySFFO5hE7vGTMBwEAAwIAA3gAAz0E",
+      "AgACAgQAAyEFAAMBClOLWAACAylqqYVKZQwMjaZnFu56fgHw2R73IwACqA5rG9rySFFiCU5u1-muAAEBAAMCAAN5AAM9BA"
+    ],
+    "caption": "Michael Burry says OpenAI and Anthropic are faking the AI warnings due to slow growth ahead of IPOs\n\nHere are his reasonings:\n\n- LLMs are not AI and won't be AGI. There is nothing AI to slow down.\n\n- Competition is coming up fast, slowing benefits incumbents.\n\n- IPOs need hype & puffery; \"we are so awesome it could become dangerous\" is hype & puffery.\n\n- Cover for real uncontrollable slowing growth as IPOs look to be pushed out.\n\n@aipost 🏴",
+    "entities": [
+      {
+        "offset": 101,
+        "length": 24,
+        "type": "bold"
+      },
+      {
+        "offset": 434,
+        "length": 7,
+        "type": "mention"
+      },
+      {
+        "offset": 442,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5431390559912614642"
+      }
+    ],
+    "media_group_id": "14315956822536581",
+    "chat_id": -1004468214616,
+    "message_ids": [
+      808,
+      809
+    ],
+    "update_ids": [
+      378304700,
+      378304701
     ],
     "retry_count": 0
   }

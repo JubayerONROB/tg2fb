@@ -3650,5 +3650,46 @@
       378304570
     ],
     "retry_count": 3
+  },
+  {
+    "type": "photo",
+    "photo_file_ids": [
+      "AgACAgQAAyEFAAMBClOLWAACAqdqm6FCSpIgbLwfy5-nlWoUAZwSJwACJxBrGzOb2VBB6RB77oTukQEAAwIAA3gAAz0E"
+    ],
+    "caption": "🇯🇵 Japan is building AI satellites that could guide missiles\n\nThe country’s Defense Ministry is planning AI-equipped satellites capable of processing surveillance data directly in space, identifying potential enemy positions and predicting the movement of targets such as ships. These satellites won’t actually be doing the surveillance.\n\nInstead, they’ll receive data collected by other satellites, analyze it onboard and send the processed targeting information directly to command centers on the ground.\n\nThat could dramatically reduce the time between detecting a target and acting on the information.\n\nJapan is also exploring a system that could provide real-time targeting updates to long-range missiles after they’ve already been launched, potentially allowing them to adjust to moving targets and improve accuracy. \n\nPrototype development is planned for FY2027–2029, with space testing expected to begin from FY2030 onward.\n\n@aipost 🏴",
+    "entities": [
+      {
+        "offset": 0,
+        "length": 4,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5456261908069885892"
+      },
+      {
+        "offset": 4,
+        "length": 58,
+        "type": "bold"
+      },
+      {
+        "offset": 935,
+        "length": 7,
+        "type": "text_link",
+        "url": "https://t.me/aipost"
+      },
+      {
+        "offset": 943,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5431390559912614642"
+      }
+    ],
+    "media_group_id": null,
+    "chat_id": -1004468214616,
+    "message_ids": [
+      679
+    ],
+    "update_ids": [
+      378304571
+    ],
+    "retry_count": 3
   }
 ]
