@@ -1,40 +1,5 @@
 [
   {
-    "type": "photo",
-    "photo_file_ids": [
-      "AgACAgQAAyEFAAMBClOLWAACArBqnOZ9oL9FxPPBKSW08c3LCH8JGAAC9BRrGzOb4VDvCCZ4dW8_9gEAAwIAA3cAAz0E"
-    ],
-    "caption": "Average vibe coders btw 😂\n\n@aipost 🏴",
-    "entities": [
-      {
-        "offset": 24,
-        "length": 2,
-        "type": "custom_emoji",
-        "custom_emoji_id": "5370953476635368811"
-      },
-      {
-        "offset": 28,
-        "length": 7,
-        "type": "mention"
-      },
-      {
-        "offset": 36,
-        "length": 2,
-        "type": "custom_emoji",
-        "custom_emoji_id": "5431390559912614642"
-      }
-    ],
-    "media_group_id": null,
-    "chat_id": -1004468214616,
-    "message_ids": [
-      688
-    ],
-    "update_ids": [
-      378304580
-    ],
-    "retry_count": 0
-  },
-  {
     "type": "video",
     "video_file_id": "BAACAgQAAyEFAAMBClOLWAACArFqnOaEraBHHmGp9zWnh4_QonvUGAACFyUAAjOb4VB0R_PtPXBwiT0E",
     "video_file_size": 15321938,
