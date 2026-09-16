@@ -13,7 +13,8 @@ persistent bottom-right watermark.
 
 A DRY_RUN mode prepares everything but never posts and never mutates state or
 the queue, so items can be re-tested repeatedly. A startup health check
-validates both API tokens.
+validates both API tokens and, for Facebook, also checks the page token's
+expiry via debug_token so it can be renewed before it fails.
 """
 
 import argparse
@@ -24,6 +25,7 @@ import re
 import shutil
 import subprocess
 import sys
+import time
 
 import requests
 from deep_translator import GoogleTranslator
@@ -54,6 +56,10 @@ LOGO_MARGIN = 15   # px margin from the bottom-right corner
 
 REQUEST_TIMEOUT = 60        # seconds for normal API calls
 VIDEO_UPLOAD_TIMEOUT = 300  # seconds for the (slower) video upload
+
+# Warn loudly in the run summary once the Facebook page token is this close
+# to expiring, so it gets noticed before a run starts failing.
+TOKEN_EXPIRY_WARNING_DAYS = 5
 
 # Telegram Bot API can only download files up to 20 MB via getFile.
 VIDEO_MAX_BYTES = 20 * 1024 * 1024
@@ -167,6 +173,68 @@ def check_facebook_token(page_token):
         return False
 
 
+def check_facebook_token_expiry(page_token):
+    """Inspect the page token's expiry/scopes via /debug_token. Soft failure.
+
+    Never raises or affects the run outcome -- this is purely visibility so an
+    expiring token gets noticed before it starts failing. Logs a loud warning
+    when expiry is within TOKEN_EXPIRY_WARNING_DAYS.
+    """
+    try:
+        resp = requests.get(
+            f"{GRAPH_API}/debug_token",
+            params={"input_token": page_token, "access_token": page_token},
+            timeout=REQUEST_TIMEOUT,
+        )
+        body = resp.json()
+        data = body.get("data") if isinstance(body, dict) else None
+        if not resp.ok or not data:
+            log.warning("HEALTH: Facebook debug_token soft-failed -> %s", body)
+            return
+
+        is_valid = data.get("is_valid")
+        scopes = data.get("scopes", [])
+        # Long-lived page tokens report 0 for expires_at, meaning "does not
+        # expire"; data_access_expires_at still applies separately.
+        expires_at = data.get("expires_at") or 0
+        data_access_expires_at = data.get("data_access_expires_at") or 0
+
+        log.info(
+            "HEALTH: Facebook debug_token -> is_valid=%s expires_at=%s "
+            "data_access_expires_at=%s scopes=%s",
+            is_valid, expires_at, data_access_expires_at, scopes,
+        )
+
+        if not is_valid:
+            log.warning("HEALTH: Facebook token reports is_valid=False -> %s", data)
+
+        now = time.time()
+        warning_seconds = TOKEN_EXPIRY_WARNING_DAYS * 86400
+        for label, ts in (
+            ("expires_at", expires_at),
+            ("data_access_expires_at", data_access_expires_at),
+        ):
+            if ts and 0 < (ts - now) <= warning_seconds:
+                days_left = (ts - now) / 86400
+                log.warning(
+                    "!!! HEALTH WARNING: Facebook page token %s in %.1f day(s) "
+                    "(at %s UTC). Regenerate FACEBOOK_PAGE_TOKEN soon -- see "
+                    "README 'Fixing an expired Facebook token'. !!!",
+                    "expires" if label == "expires_at" else "loses data access",
+                    days_left, time.strftime("%Y-%m-%d %H:%M:%S", time.gmtime(ts)),
+                )
+            elif ts and ts <= now:
+                log.warning(
+                    "!!! HEALTH WARNING: Facebook page token %s already passed "
+                    "(%s UTC). Regenerate FACEBOOK_PAGE_TOKEN -- see README "
+                    "'Fixing an expired Facebook token'. !!!",
+                    "expiry" if label == "expires_at" else "data-access expiry",
+                    time.strftime("%Y-%m-%d %H:%M:%S", time.gmtime(ts)),
+                )
+    except (requests.RequestException, ValueError) as exc:
+        log.warning("HEALTH: Facebook debug_token check soft-failed: %s", exc)
+
+
 def run_health_check(config):
     """Run both token checks at startup. Returns (telegram_ok, facebook_ok)."""
     log.info("Running startup health check...")
@@ -176,6 +244,8 @@ def run_health_check(config):
         log.error("HEALTH: Telegram auth is broken; getUpdates will likely fail.")
     if not facebook_ok:
         log.warning("HEALTH: Facebook auth is a soft failure; continuing run.")
+    else:
+        check_facebook_token_expiry(config["FACEBOOK_PAGE_TOKEN"])
     return telegram_ok, facebook_ok
 
 
@@ -970,7 +1040,8 @@ def parse_args(argv=None):
     )
     parser.add_argument(
         "--health", action="store_true",
-        help="Only run the token health check (getMe / Graph /me) and exit.",
+        help="Only run the token health check (getMe / Graph /me / "
+             "debug_token) and exit.",
     )
     return parser.parse_args(argv)
 

@@ -172,7 +172,8 @@ Useful flags:
 
 - `--dry-run` — enable dry-run (same as `DRY_RUN=1`).
 - `--verbose` / `-v` — DEBUG logging so each step is visible.
-- `--health` — only validate both tokens (`getMe` + Graph `/me`) and exit.
+- `--health` — only validate both tokens (`getMe` + Graph `/me` +
+  `debug_token`) and exit.
 - `--once` — explicit single pass (this is the default behavior).
 
 ### Locally (with a `.env`)
@@ -230,3 +231,101 @@ video), and `queue_before`/`queue_after` show the queue length around the run.
 No tokens are hardcoded — everything comes from environment variables /
 GitHub secrets. Never commit real tokens. If a token is ever exposed, rotate it
 immediately.
+
+## Token expiry monitoring
+
+Every run's health check also calls Facebook's `/debug_token` endpoint on the
+page token and logs `is_valid`, `expires_at`, `data_access_expires_at`, and
+`scopes` (see `check_facebook_token_expiry()` in `app.py`). If either expiry
+timestamp is within **5 days**, it logs a loud `!!! HEALTH WARNING !!!` line in
+the run's Actions log so you notice before the token actually dies, not after.
+This check is soft-failure only — it never crashes the job.
+
+A properly-generated long-lived Page token (see below) normally shows
+`expires_at=0`, meaning it does not expire on a timer. If you see a nonzero
+`expires_at` in the health check output, the token in use is a *short-lived*
+one and will fail within hours — regenerate it the correct way below.
+
+## Fixing an expired Facebook token
+
+### 1. Generate a genuinely long-lived Page token
+
+A token pulled straight from Graph API Explorer's "Get Token" button is often
+**short-lived** (~1-2 hours) even if it looks like a Page token. Don't put
+that in the secret. Instead:
+
+1. **Get a short-lived User token** with `pages_show_list`,
+   `pages_manage_posts`, and `pages_read_engagement` permissions, from
+   [Graph API Explorer](https://developers.facebook.com/tools/explorer/) (pick
+   your app, "Get User Access Token", select those permissions).
+2. **Exchange it for a long-lived User token** (~60 days) via the
+   `oauth/access_token` endpoint:
+
+   ```bash
+   curl -s "https://graph.facebook.com/v21.0/oauth/access_token" \
+     --data-urlencode "grant_type=fb_exchange_token" \
+     --data-urlencode "client_id=YOUR_APP_ID" \
+     --data-urlencode "client_secret=YOUR_APP_SECRET" \
+     --data-urlencode "fb_exchange_token=SHORT_LIVED_USER_TOKEN"
+   ```
+
+3. **Fetch the Page token from that long-lived User token** via
+   `/me/accounts`:
+
+   ```bash
+   curl -s "https://graph.facebook.com/v21.0/me/accounts?access_token=LONG_LIVED_USER_TOKEN"
+   ```
+
+   Take the `access_token` field for your Page from the response. A Page token
+   obtained this way, from a long-lived User token, does **not** expire under
+   normal conditions (`expires_at=0`).
+
+   These two steps can also be done as a one-off local script using
+   `requests` instead of `curl` if you prefer — the endpoints are the same.
+
+Even a "non-expiring" Page token can still be invalidated by:
+
+- The authorizing user changing their Facebook password.
+- The authorizing user or an admin revoking the app's permissions on the Page.
+- The app failing App Review / losing access to a permission it needs
+  (`pages_manage_posts`, `pages_read_engagement`).
+- The Page being removed from the authorizing user's role, or the user losing
+  admin access to the Page.
+
+### 2. Where to regenerate it
+
+- **Graph API Explorer** (link above) for a quick manual regeneration — repeat
+  steps 1-3.
+- Or a small one-off local script (e.g. `regen_token.py`, not checked in) that
+  calls the same two endpoints with `requests`, if you do this often enough
+  that clicking through Explorer gets old.
+
+### 3. Update the GitHub secret
+
+No code change needed — just update the stored value:
+
+**Settings → Secrets and variables → Actions → `FACEBOOK_PAGE_TOKEN` → Update**
+
+Paste the new Page token and save.
+
+### 4. Verify before trusting the cron again
+
+Don't wait for the next scheduled run to find out if it worked. Either:
+
+- **Locally:**
+
+  ```bash
+  export FACEBOOK_PAGE_TOKEN="..."
+  export TELEGRAM_BOT_TOKEN="..."
+  export TELEGRAM_CHANNEL_ID="@yourchannel"
+  python app.py --health
+  ```
+
+  Confirm the log shows `HEALTH: Facebook token OK` and
+  `HEALTH: Facebook debug_token -> is_valid=True expires_at=0 ...` (or a
+  distant future timestamp).
+
+- **From Actions:** trigger a manual run (**Actions → Run workflow**, leave
+  `dry_run` checked) after updating the secret, and check the log for the same
+  two lines. A dry-run still runs the health check, so this confirms the new
+  token works without posting anything for real.
