@@ -3885,5 +3885,44 @@
       378304577
     ],
     "retry_count": 0
+  },
+  {
+    "type": "video",
+    "video_file_id": "BAACAgQAAyEFAAMBClOLWAACAq9qnOYgOhtRHG6LjzHq7CLl2sGw4QACQSMAAjOb2VDw7BXiXZmCdj0E",
+    "video_file_size": 40130955,
+    "caption": "🇺🇸 Bessent says America’s biggest AI companies have done a “HORRENDOUS JOB” explaining themselves to the American people.\n\n“The AI companies, whether it is the builders of the data centers, whether it is the labs themselves have done a horrendous job, horrendous job of explaining themselves to the American people.”\n\nThe Treasury Secretary gave the industry a D-, but says slowing down isn't an option.\n\n“The Chinese are right behind us. If they get ahead, everything else we do won’t matter.”\n\nBessent says the US controlled roughly 55-60% of global AI compute last year and predicts that could reach 80% by 2028.\n\nHe also expects the AI spending boom to become “extremely disinflationary,” with productivity benefits starting to show within the next six months.\n\n@aipost 🏴",
+    "entities": [
+      {
+        "offset": 0,
+        "length": 4,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5202021044105257611"
+      },
+      {
+        "offset": 5,
+        "length": 118,
+        "type": "bold"
+      },
+      {
+        "offset": 768,
+        "length": 7,
+        "type": "mention"
+      },
+      {
+        "offset": 776,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5431390559912614642"
+      }
+    ],
+    "media_group_id": null,
+    "chat_id": -1004468214616,
+    "message_ids": [
+      687
+    ],
+    "update_ids": [
+      378304579
+    ],
+    "retry_count": 0
   }
 ]
