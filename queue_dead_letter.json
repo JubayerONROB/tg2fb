@@ -3781,5 +3781,109 @@
       378304575
     ],
     "retry_count": 0
+  },
+  {
+    "type": "video",
+    "video_file_id": "BAACAgIAAyEFAAMBClOLWAACAq1qnBjRnrSdLIfSo-F8v9Z0adtTVgACXagAAkCn2UiC2lgs-WGpHz0E",
+    "video_file_size": 46588153,
+    "caption": "🔍 Google Upgrades Music Generation in Gemini\n\nLyria 3.5, Google’s new music model, improves vocals, creates richer arrangements, and generates higher-quality tracks.\n\nUsers can choose or describe a genre. They can select vocal or instrumental mode, then set the track length. Templates are available for background music and jingles, along with personal songs. Lyria 3.5 is now available in Gemini on web and mobile, plus Gemini API, Google AI Studio, Flow Music, and Google Vids.\n\n📊@tech",
+    "entities": [
+      {
+        "offset": 0,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5431644246450908867"
+      },
+      {
+        "offset": 3,
+        "length": 42,
+        "type": "bold"
+      },
+      {
+        "offset": 47,
+        "length": 9,
+        "type": "bold"
+      },
+      {
+        "offset": 84,
+        "length": 15,
+        "type": "bold"
+      },
+      {
+        "offset": 109,
+        "length": 19,
+        "type": "bold"
+      },
+      {
+        "offset": 144,
+        "length": 21,
+        "type": "bold"
+      },
+      {
+        "offset": 178,
+        "length": 26,
+        "type": "bold"
+      },
+      {
+        "offset": 222,
+        "length": 26,
+        "type": "bold"
+      },
+      {
+        "offset": 362,
+        "length": 9,
+        "type": "bold"
+      },
+      {
+        "offset": 423,
+        "length": 10,
+        "type": "bold"
+      },
+      {
+        "offset": 435,
+        "length": 16,
+        "type": "bold"
+      },
+      {
+        "offset": 453,
+        "length": 10,
+        "type": "bold"
+      },
+      {
+        "offset": 469,
+        "length": 11,
+        "type": "bold"
+      },
+      {
+        "offset": 483,
+        "length": 2,
+        "type": "bold"
+      },
+      {
+        "offset": 483,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5449841756596101801"
+      },
+      {
+        "offset": 485,
+        "length": 5,
+        "type": "mention"
+      },
+      {
+        "offset": 485,
+        "length": 5,
+        "type": "bold"
+      }
+    ],
+    "media_group_id": null,
+    "chat_id": -1004468214616,
+    "message_ids": [
+      685
+    ],
+    "update_ids": [
+      378304577
+    ],
+    "retry_count": 0
   }
 ]
