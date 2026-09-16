@@ -1,55 +1,5 @@
 [
   {
-    "type": "album",
-    "photo_file_ids": [
-      "AgACAgQAAyEFAAMBClOLWAACAqhqm6F4IsJ8zO4HOcj6Fqf9Ea72xQACKBBrGzOb2VA1vvl0U52RmgEAAwIAA3kAAz0E",
-      "AgACAgQAAyEFAAMBClOLWAACAqlqm6F44deHBpMqtAUjOwABoKPTMYoAAikQaxszm9lQWHrsgggEjjABAAMCAAN5AAM9BA"
-    ],
-    "caption": "❗️Three climbers trusted AI to plan their mountain trip and it went very wrong.\n\nThree men set out to climb Mount Shasta in California after relying heavily on Google’s Gemini to help plan their route and decide what supplies to bring. They eventually had to be rescued. \n\nThe group reached the summit at around 7 p.m. on August 30, roughly seven hours after the recommended noon turnaround time. They then started descending in darkness.\n\nAbout an hour later, they became lost and contacted authorities for directions. Things got worse when they wandered into Mud Creek Canyon, where one of the climbers injured his knee.\n\nThe three were forced to spend the night stranded on the mountain before U.S. Forest Service climbing rangers reached them the following morning. They were given medical assistance and eventually escorted back to the trailhead.\n\nAuthorities later learned that AI had played a major role in their planning including advice on how much food and water to bring.\n\nSource. \n\n@aipost 🏴",
-    "entities": [
-      {
-        "offset": 0,
-        "length": 2,
-        "type": "custom_emoji",
-        "custom_emoji_id": "5289761612440310918"
-      },
-      {
-        "offset": 2,
-        "length": 77,
-        "type": "bold"
-      },
-      {
-        "offset": 984,
-        "length": 8,
-        "type": "text_link",
-        "url": "https://people.com/3-men-relied-on-ai-to-plan-their-climbing-trip-they-later-found-themselves-stranded-and-needed-rescuing-12107474"
-      },
-      {
-        "offset": 994,
-        "length": 7,
-        "type": "text_link",
-        "url": "https://t.me/aipost"
-      },
-      {
-        "offset": 1002,
-        "length": 2,
-        "type": "custom_emoji",
-        "custom_emoji_id": "5431390559912614642"
-      }
-    ],
-    "media_group_id": "14308674501177005",
-    "chat_id": -1004468214616,
-    "message_ids": [
-      680,
-      681
-    ],
-    "update_ids": [
-      378304572,
-      378304573
-    ],
-    "retry_count": 2
-  },
-  {
     "type": "video",
     "video_file_id": "BAACAgQAAyEFAAMBClOLWAACAqpqnAnBAUGvo7mfGkY0KfxKLgdPLwACJyMAAjOb2VCSZR6EkdcPZz0E",
     "video_file_size": 4160067,
