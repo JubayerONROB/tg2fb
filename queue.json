@@ -1,45 +1,6 @@
 [
   {
     "type": "video",
-    "video_file_id": "BAACAgQAAyEFAAMBClOLWAACArFqnOaEraBHHmGp9zWnh4_QonvUGAACFyUAAjOb4VB0R_PtPXBwiT0E",
-    "video_file_size": 15321938,
-    "caption": "🗣OpenAI Cofounder says emotions may be why we can make decisions\n\nIlya brings up a guy who lost emotional processing after brain damage. He could still talk normally and solve problems, but somehow became terrible at making basic decisions.\n\n\"It would take him hours to decide on which socks to wear.\"\n\n@aipost 🏴",
-    "entities": [
-      {
-        "offset": 0,
-        "length": 2,
-        "type": "custom_emoji",
-        "custom_emoji_id": "5287468155738821335"
-      },
-      {
-        "offset": 2,
-        "length": 63,
-        "type": "bold"
-      },
-      {
-        "offset": 304,
-        "length": 7,
-        "type": "mention"
-      },
-      {
-        "offset": 312,
-        "length": 2,
-        "type": "custom_emoji",
-        "custom_emoji_id": "5431390559912614642"
-      }
-    ],
-    "media_group_id": null,
-    "chat_id": -1004468214616,
-    "message_ids": [
-      689
-    ],
-    "update_ids": [
-      378304581
-    ],
-    "retry_count": 0
-  },
-  {
-    "type": "video",
     "video_file_id": "BAACAgQAAyEFAAMBClOLWAACArJqnOaUyyWR6uZHTfNHCS3M_HXrmwACfSQAAjOb4VBZ-Bz_bJeq0D0E",
     "video_file_size": 3994702,
     "caption": "ChatGPT in 2037 looking for the guy that never said “please” and “thank you”\n\n@aipost 🏴",
@@ -5209,6 +5170,221 @@
     ],
     "update_ids": [
       378304710
+    ],
+    "retry_count": 0
+  },
+  {
+    "type": "video",
+    "video_file_id": "BAACAgQAAyEFAAMBClOLWAACAzNqquzct0JrcVavcJ5aTKJj-Ib6BgACTSIAAtryUFFaN6ZAYsMQYj0E",
+    "video_file_size": 36254568,
+    "caption": "📝A model that doesn’t generate text\n\nDiogo Almeida, a co-author of the original RLHF work and an author of the InstructGPT paper that helped lay the foundation for ChatGPT, has launched a new kind of AI model.\n\nHis company, TypeSafe AI, has spent the past two years in stealth developing Jev, the first model in what it calls “System One Models.”\n\nA lot of AI tasks can be handled without generating text.\n\nIf an agent needs to classify a request, assess risk, select an action or route a task, a traditional LLM still generates tokens and then has to parse the answer.\n\nJev skips that entire process.\n\nInstead, it directly returns a structured result along with probabilities for each possible option.\n\nThat makes it dramatically faster for these narrow tasks: TypeSafe says Jev can respond in around 70–500 ms and be 20–200× faster than typical LLMs.\n\nThe pricing is also unusual: $0.042 per 1 million input tokens, with output tokens free.\n\nSource. \n\n@aipost 🏴",
+    "entities": [
+      {
+        "offset": 0,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5257965174979042426"
+      },
+      {
+        "offset": 2,
+        "length": 34,
+        "type": "bold"
+      },
+      {
+        "offset": 945,
+        "length": 8,
+        "type": "text_link",
+        "url": "https://typesafe.ai/blog/introducing-system-one-models-and-jev"
+      },
+      {
+        "offset": 955,
+        "length": 7,
+        "type": "mention"
+      },
+      {
+        "offset": 963,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5431390559912614642"
+      }
+    ],
+    "media_group_id": null,
+    "chat_id": -1004468214616,
+    "message_ids": [
+      819
+    ],
+    "update_ids": [
+      378304711
+    ],
+    "retry_count": 0
+  },
+  {
+    "type": "album",
+    "photo_file_ids": [
+      "AgACAgQAAyEFAAMBClOLWAACAzRqquzkDOd8el09JAa_vu-x7UTUQgACyg9rG9ryUFGZXNd7bvEH9gEAAwIAA3gAAz0E",
+      "AgACAgQAAyEFAAMBClOLWAACAzVqquzk02MMe6AkzSt8fPkZBCWjfQACyw9rG9ryUFGi5BGk0D9QrAEAAwIAA3gAAz0E"
+    ],
+    "caption": "🇨🇳 China opens world's FIRST factory capable of producing 1 humanoid robot every 10 MINUTES.\n\nUBTECH’s new 14,000 m² factory in Liuzhou is designed to produce more than 10,000 humanoid robots a year, with robots already handling material feeding, transport and palletizing during production.\n\nThe facility also uses digital twins to simulate manufacturing and track every robot and component throughout assembly.\n\nChina is now using robots to help build the next generation of robots at MASS SCALE.\n\n@aipost 🏴",
+    "entities": [
+      {
+        "offset": 0,
+        "length": 4,
+        "type": "bold"
+      },
+      {
+        "offset": 0,
+        "length": 4,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5431782733376399004"
+      },
+      {
+        "offset": 4,
+        "length": 90,
+        "type": "bold"
+      },
+      {
+        "offset": 502,
+        "length": 7,
+        "type": "mention"
+      },
+      {
+        "offset": 510,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5431390559912614642"
+      }
+    ],
+    "media_group_id": "14316693282633133",
+    "chat_id": -1004468214616,
+    "message_ids": [
+      820,
+      821
+    ],
+    "update_ids": [
+      378304712,
+      378304713
+    ],
+    "retry_count": 0
+  },
+  {
+    "type": "photo",
+    "photo_file_ids": [
+      "AgACAgQAAyEFAAMBClOLWAACAzZqquzxvYwuU1h5IGnn6o-bSb8WoAACzA9rG9ryUFFEpF5GF5yU8AEAAwIAA3kAAz0E"
+    ],
+    "caption": "For the first time in more than 2.5 years, OpenAI models took a larger share of OpenRouter user spending than Anthropic models last week.\n\n@aipost 🏴",
+    "entities": [
+      {
+        "offset": 139,
+        "length": 7,
+        "type": "mention"
+      },
+      {
+        "offset": 147,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5431390559912614642"
+      }
+    ],
+    "media_group_id": null,
+    "chat_id": -1004468214616,
+    "message_ids": [
+      822
+    ],
+    "update_ids": [
+      378304714
+    ],
+    "retry_count": 0
+  },
+  {
+    "type": "video",
+    "video_file_id": "BAACAgIAAyEFAAMBClOLWAACAzdqqu0JKFE1XgWfJBGKenEhy70segACv7gAArhRWEkB3ruEmBgnFD0E",
+    "video_file_size": 118551686,
+    "caption": "🔥 An AI that helps you actually solve what's going on in your life\n\nMost tools in this space are the same base model with a system prompt on top, nothing wrong with that, just worth being upfront about it. \n\niXo is built the same way, on leading frontier models, with one deliberate design choice: instead of one-shot prompting, it runs a structured, ongoing intake across separate life domains, work, finances, health, relationships, building a persistent context model, then reasoning across that instead of a single prompt window.\n\nPractical effect: it surfaces the actual cause behind a problem, not just a plausible-sounding answer, a symptom in one area (say, focus at work) traced back to its real cause in another (say, sleep). No diagnosis, no decisions made for you, it surfaces the connection, you decide what to do with it.\n\n📌 It's live now as a web app, nothing to install, just a tab. Access is limited while it rolls out, with a mobile app and a couple of connected devices said to be next.\n\nTRY NOW",
+    "entities": [
+      {
+        "offset": 0,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5363970504057191145"
+      },
+      {
+        "offset": 3,
+        "length": 64,
+        "type": "bold"
+      },
+      {
+        "offset": 838,
+        "length": 2,
+        "type": "bold"
+      },
+      {
+        "offset": 838,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5316650525779835016"
+      },
+      {
+        "offset": 840,
+        "length": 167,
+        "type": "bold"
+      },
+      {
+        "offset": 1009,
+        "length": 7,
+        "type": "text_link",
+        "url": "https://join.atqm.us/?utm_source=aipost&utm_medium=telegram&utm_campaign=1"
+      }
+    ],
+    "media_group_id": null,
+    "chat_id": -1004468214616,
+    "message_ids": [
+      823
+    ],
+    "update_ids": [
+      378304715
+    ],
+    "retry_count": 0
+  },
+  {
+    "type": "album",
+    "photo_file_ids": [
+      "AgACAgQAAyEFAAMBClOLWAACAzhqqwQsQlfaMdsQ8YDodsC-UuT9UAACzQ9rG9ryUFG87-5tpFmfLAEAAwIAA3kAAz0E",
+      "AgACAgQAAyEFAAMBClOLWAACAzlqqwQsz7RbdxLc0fgE9J46HGye4wACzg9rG9ryUFHWvWbnp7Y_LAEAAwIAA3gAAz0E"
+    ],
+    "caption": "Ⓜ️ Google’s new voice models just topped the speech-to-speech leaderboard\n\nGoogle has released Gemini 3.8 Live and Gemini 3.8 Live Extended Thinking, targeting real-time voice agents rather than traditional text-based interactions.\n\nGemini 3.8 Live reportedly reaches frontier-level performance at around $0.84 per hour, while delivering a higher composite score than GPT-Realtime-2 High at roughly 80% lower measured cost.\n\nBoth models are multimodal: voice is the main interface, but they can also process visual information during a conversation and automatically switch between 97 supported languages.\n\nThe biggest difference comes with Extended Thinking.\n\nIt scores 68.6% on τ-Voice, narrowly ahead of GPT-Live-1 Astra Medium at 67.9%.\n\nτ-Voice isn’t simply testing whether an AI sounds natural. It measures whether a voice agent can actually complete complex, multi-step customer-service tasks while following policies, using tools correctly and reaching the right outcome across airline, retail and telecom scenarios.\n\n@aipost 🏴",
+    "entities": [
+      {
+        "offset": 0,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5431901622366124338"
+      },
+      {
+        "offset": 3,
+        "length": 70,
+        "type": "bold"
+      },
+      {
+        "offset": 1026,
+        "length": 7,
+        "type": "mention"
+      },
+      {
+        "offset": 1034,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5431390559912614642"
+      }
+    ],
+    "media_group_id": "14316740960735669",
+    "chat_id": -1004468214616,
+    "message_ids": [
+      824,
+      825
+    ],
+    "update_ids": [
+      378304716,
+      378304717
     ],
     "retry_count": 0
   }
