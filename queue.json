@@ -32,7 +32,7 @@
     "update_ids": [
       378304574
     ],
-    "retry_count": 0
+    "retry_count": 1
   },
   {
     "type": "video",
@@ -5070,6 +5070,351 @@
     ],
     "update_ids": [
       378304702
+    ],
+    "retry_count": 0
+  },
+  {
+    "type": "photo",
+    "photo_file_ids": [
+      "AgACAgIAAyEFAAMBClOLWAACAytqqk1jgCDBjBCHFqNw1vQiN2qYVgACwB9rG3AhOEn0exvJjn8tpAEAAwIAA3kAAz0E"
+    ],
+    "caption": "☹️  Waymo Robotaxi Called the Police\n\nA Waymo car in San Francisco detected two teenagers carrying a loaded “ghost gun”, a homemade firearm without a serial number. It pulled over and called the police.\n\nWaymo later confirmed the vehicle to the Los Angeles Times. The company called it a “violation of the terms of use related to a firearm.”\n\nEarlier this year, another Waymo pretended to have a breakdown so it could stop while passengers drank alcohol and fired a toy gun out the rear window. Those passengers were also teenagers.\n\n📊@tech",
+    "entities": [
+      {
+        "offset": 0,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "6325518273228049194"
+      },
+      {
+        "offset": 4,
+        "length": 32,
+        "type": "bold"
+      },
+      {
+        "offset": 40,
+        "length": 26,
+        "type": "bold"
+      },
+      {
+        "offset": 67,
+        "length": 52,
+        "type": "bold"
+      },
+      {
+        "offset": 184,
+        "length": 17,
+        "type": "bold"
+      },
+      {
+        "offset": 204,
+        "length": 5,
+        "type": "bold"
+      },
+      {
+        "offset": 245,
+        "length": 17,
+        "type": "bold"
+      },
+      {
+        "offset": 362,
+        "length": 43,
+        "type": "bold"
+      },
+      {
+        "offset": 458,
+        "length": 35,
+        "type": "bold"
+      },
+      {
+        "offset": 534,
+        "length": 2,
+        "type": "bold"
+      },
+      {
+        "offset": 534,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5449841756596101801"
+      },
+      {
+        "offset": 536,
+        "length": 5,
+        "type": "mention"
+      },
+      {
+        "offset": 536,
+        "length": 5,
+        "type": "bold"
+      }
+    ],
+    "media_group_id": null,
+    "chat_id": -1004468214616,
+    "message_ids": [
+      811
+    ],
+    "update_ids": [
+      378304703
+    ],
+    "retry_count": 0
+  },
+  {
+    "type": "photo",
+    "photo_file_ids": [
+      "AgACAgIAAyEFAAMBClOLWAACAyxqqk2kAAHiYbyefozF9Gbns-onAAETAAJMImsb3O5BSWmVkS36B-VQAQADAgADeQADPQQ"
+    ],
+    "caption": "🍏 iOS 27 Is Now Available\n\nApple has released iOS 27. The update supports iPhone 11 and newer models. iPhone X is no longer supported.\n\nLiquid Glass gets a more precise transparency slider. AirPods now have a system equalizer. Photos adds perspective controls, and app icons have been updated.\n\nThe file system, apps, and Spotlight search should open much faster. Wi-Fi disconnects sooner after leaving a café or home. Apple Intelligence expands, while Siri as a full AI agent begins rolling out in October. Calendar cycle tracking and broader parental controls are also included.\n\n📊@tech",
+    "entities": [
+      {
+        "offset": 0,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5398012024003246287"
+      },
+      {
+        "offset": 3,
+        "length": 23,
+        "type": "bold"
+      },
+      {
+        "offset": 47,
+        "length": 6,
+        "type": "bold"
+      },
+      {
+        "offset": 75,
+        "length": 9,
+        "type": "bold"
+      },
+      {
+        "offset": 103,
+        "length": 8,
+        "type": "bold"
+      },
+      {
+        "offset": 137,
+        "length": 12,
+        "type": "bold"
+      },
+      {
+        "offset": 210,
+        "length": 16,
+        "type": "bold"
+      },
+      {
+        "offset": 228,
+        "length": 6,
+        "type": "bold"
+      },
+      {
+        "offset": 300,
+        "length": 11,
+        "type": "bold"
+      },
+      {
+        "offset": 323,
+        "length": 16,
+        "type": "bold"
+      },
+      {
+        "offset": 365,
+        "length": 5,
+        "type": "bold"
+      },
+      {
+        "offset": 420,
+        "length": 18,
+        "type": "bold"
+      },
+      {
+        "offset": 464,
+        "length": 13,
+        "type": "bold"
+      },
+      {
+        "offset": 500,
+        "length": 7,
+        "type": "bold"
+      },
+      {
+        "offset": 583,
+        "length": 2,
+        "type": "bold"
+      },
+      {
+        "offset": 583,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5449841756596101801"
+      },
+      {
+        "offset": 585,
+        "length": 5,
+        "type": "mention"
+      },
+      {
+        "offset": 585,
+        "length": 5,
+        "type": "bold"
+      }
+    ],
+    "media_group_id": null,
+    "chat_id": -1004468214616,
+    "message_ids": [
+      812
+    ],
+    "update_ids": [
+      378304704
+    ],
+    "retry_count": 0
+  },
+  {
+    "type": "photo",
+    "photo_file_ids": [
+      "AgACAgIAAyEFAAMBClOLWAACAy1qqk2zBpXELah-tZtZ2NSbNHMhIAACWCBrG-3sQEl9LMCvgDMN4gEAAwIAA3kAAz0E"
+    ],
+    "caption": "🌐 Trump Calls Presidency AI’s ‘Limiter’\n\nOn Truth Social, Trump said AI needs only a “strong and smart” president. He said his administration had stopped AI figures from doing bad or potentially bad things, naming Dario from Anthropic.\n\nTrump claimed the US has “huge criminal and regulatory power” over AI companies. He called opposition to AI and data centers a conspiracy benefiting China, warned critics and leakers to beware, and said the post was not generated.\n\n📊@tech",
+    "entities": [
+      {
+        "offset": 0,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5375177250553487549"
+      },
+      {
+        "offset": 3,
+        "length": 37,
+        "type": "bold"
+      },
+      {
+        "offset": 226,
+        "length": 9,
+        "type": "bold"
+      },
+      {
+        "offset": 263,
+        "length": 36,
+        "type": "bold"
+      },
+      {
+        "offset": 470,
+        "length": 2,
+        "type": "bold"
+      },
+      {
+        "offset": 470,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5449841756596101801"
+      },
+      {
+        "offset": 472,
+        "length": 5,
+        "type": "mention"
+      },
+      {
+        "offset": 472,
+        "length": 5,
+        "type": "bold"
+      }
+    ],
+    "media_group_id": null,
+    "chat_id": -1004468214616,
+    "message_ids": [
+      813
+    ],
+    "update_ids": [
+      378304705
+    ],
+    "retry_count": 0
+  },
+  {
+    "type": "photo",
+    "photo_file_ids": [
+      "AgACAgIAAyEFAAMBClOLWAACAy5qqk3RAnI_VDnk-iail0jqcstVKgACeh1rGzuNSUlu0iPTtH8ORAEAAwIAA3kAAz0E"
+    ],
+    "caption": "🤖 Anthropic Accused of Funding AI Panic\n\nBlogger Kevin Bass traced funds around Anthropic to Tarbell Center, which pays journalists covering AI risks, and METR, promoted by Dario Amodei as an independent AI watchdog.\n\nBass’s conclusion is that the problem and its solution draw from the same wallet. Anthropic’s rising value could mean louder panic. METR says it does not take money from AI labs.\n\n📊@tech",
+    "entities": [
+      {
+        "offset": 0,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5208665212483310136"
+      },
+      {
+        "offset": 3,
+        "length": 37,
+        "type": "bold"
+      },
+      {
+        "offset": 50,
+        "length": 10,
+        "type": "bold"
+      },
+      {
+        "offset": 81,
+        "length": 9,
+        "type": "bold"
+      },
+      {
+        "offset": 94,
+        "length": 14,
+        "type": "bold"
+      },
+      {
+        "offset": 156,
+        "length": 4,
+        "type": "bold"
+      },
+      {
+        "offset": 174,
+        "length": 12,
+        "type": "bold"
+      },
+      {
+        "offset": 288,
+        "length": 11,
+        "type": "bold"
+      },
+      {
+        "offset": 351,
+        "length": 4,
+        "type": "bold"
+      },
+      {
+        "offset": 389,
+        "length": 7,
+        "type": "bold"
+      },
+      {
+        "offset": 399,
+        "length": 2,
+        "type": "bold"
+      },
+      {
+        "offset": 399,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5449841756596101801"
+      },
+      {
+        "offset": 401,
+        "length": 5,
+        "type": "mention"
+      },
+      {
+        "offset": 401,
+        "length": 5,
+        "type": "bold"
+      }
+    ],
+    "media_group_id": null,
+    "chat_id": -1004468214616,
+    "message_ids": [
+      814
+    ],
+    "update_ids": [
+      378304706
     ],
     "retry_count": 0
   }
