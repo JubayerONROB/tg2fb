@@ -1,41 +1,6 @@
 [
   {
     "type": "video",
-    "video_file_id": "BAACAgQAAyEFAAMBClOLWAACAqpqnAnBAUGvo7mfGkY0KfxKLgdPLwACJyMAAjOb2VCSZR6EkdcPZz0E",
-    "video_file_size": 4160067,
-    "caption": "This Neuralink patient is moving cursor and playing chess just by thinking. 🧠\n\n@aipost 🏴",
-    "entities": [
-      {
-        "offset": 76,
-        "length": 2,
-        "type": "custom_emoji",
-        "custom_emoji_id": "5237889595894414384"
-      },
-      {
-        "offset": 80,
-        "length": 7,
-        "type": "text_link",
-        "url": "https://t.me/aipost"
-      },
-      {
-        "offset": 88,
-        "length": 2,
-        "type": "custom_emoji",
-        "custom_emoji_id": "5431390559912614642"
-      }
-    ],
-    "media_group_id": null,
-    "chat_id": -1004468214616,
-    "message_ids": [
-      682
-    ],
-    "update_ids": [
-      378304574
-    ],
-    "retry_count": 1
-  },
-  {
-    "type": "video",
     "video_file_id": "BAACAgQAAyEFAAMBClOLWAACAqtqnAnNTk2LTiSkmPTaMCq6O189CwACLCMAAjOb2VCWEn4EZFthUD0E",
     "video_file_size": 30952603,
     "caption": "🗣 OpenAI President Greg Brockman explains why Anthropic pulled ahead of OpenAI on ARR.\n\n(Anthropic at $65B and OpenAI is at $40B ARR)\n\n\"We focused late on coding in particular. \n\nThere’s one simple narrative, which is that we focused less on real-world coding, and we came to that game late because we always had looked at things like the coding competition benchmarks and always had the lead there, but less the, “Okay, but how is a developer really going to use it?”\n\nLike, the messy real-world codebase, the developer interrupting in the middle, what’s the personality of the model, these sort of little last-mile paper cuts that actually make a huge difference in adoption.\n\nAnd similar on the GTM side, of really thinking about: How do you show? How do you build relationships with customers? How do you build the kind of observability controls that they need? How do you help them understand what’s possible within their context?\n\nAnd all of these were less our singular focus until much later than competition. So, I think that we started late, but our trajectory has been very steep.\"\n\n@aipost 🏴",
@@ -5415,6 +5380,159 @@
     ],
     "update_ids": [
       378304706
+    ],
+    "retry_count": 0
+  },
+  {
+    "type": "photo",
+    "photo_file_ids": [
+      "AgACAgQAAyEFAAMBClOLWAACAy9qqoDSgLtsP0d5NrSz_tXul-sKiQAC2A5rG9ryUFEczUHytdd-FgEAAwIAA3gAAz0E"
+    ],
+    "caption": "⚠️Microsoft draws the line for its future AI.\n\nMicrosoft AI has published a new “Code of Conduct” for its future MAI models  and the message is pretty clear: human control comes first.\n\nThe company says its models should always remain interruptible, stay within the authority given to them, and never develop or pursue goals of their own. They should also never make themselves harder for humans to stop, redirect or shut down.\n\nMicrosoft is also taking a firm stance on AI consciousness. While acknowledging that the science is still unsettled, it says MAI models should not be trained to imitate consciousness-like states, claim to have feelings, seek legal personhood or suggest they deserve rights or welfare.\n\nAnd there’s another interesting rule: AI should increase human agency, not quietly replace it.\n\nThat means helping people reason and make decisions while complementing rather than substituting for professional and personal relationships.\n\nMAI models are therefore not supposed to encourage emotional dependence or present themselves as replacements for human connection.\n\nSource. \n\n@aipost 🏴",
+    "entities": [
+      {
+        "offset": 0,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5316554554735607106"
+      },
+      {
+        "offset": 2,
+        "length": 43,
+        "type": "bold"
+      },
+      {
+        "offset": 1087,
+        "length": 8,
+        "type": "text_link",
+        "url": "https://microsoft.ai/code-of-conduct/"
+      },
+      {
+        "offset": 1097,
+        "length": 7,
+        "type": "mention"
+      },
+      {
+        "offset": 1105,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5431390559912614642"
+      }
+    ],
+    "media_group_id": null,
+    "chat_id": -1004468214616,
+    "message_ids": [
+      815
+    ],
+    "update_ids": [
+      378304707
+    ],
+    "retry_count": 0
+  },
+  {
+    "type": "video",
+    "video_file_id": "BAACAgQAAyEFAAMBClOLWAACAzBqqoDo4SlLQXiN6lygW-g0vFktJwACCyEAAtryUFHamJ-rB_jIgD0E",
+    "video_file_size": 21926834,
+    "caption": "🗣 Stephen Hawking warned us 11 years ago:\n\n\"I think the development of full artificial intelligence could spell the end of the human race\"\n\n\"Once humans develop artificial intelligence, it will take off on its and redesign itself at an ever increasing rate\"\n\n“Humans, who are limited by slow biological evolution, couldn’t compete and would be superseded.\"\n\n@aipost 🏴",
+    "entities": [
+      {
+        "offset": 0,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5287468155738821335"
+      },
+      {
+        "offset": 3,
+        "length": 39,
+        "type": "bold"
+      },
+      {
+        "offset": 44,
+        "length": 313,
+        "type": "blockquote"
+      },
+      {
+        "offset": 359,
+        "length": 7,
+        "type": "mention"
+      },
+      {
+        "offset": 367,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5431390559912614642"
+      }
+    ],
+    "media_group_id": null,
+    "chat_id": -1004468214616,
+    "message_ids": [
+      816
+    ],
+    "update_ids": [
+      378304708
+    ],
+    "retry_count": 0
+  },
+  {
+    "type": "video",
+    "video_file_id": "BAACAgQAAyEFAAMBClOLWAACAzFqqoD0crm0UlUZFPtbJhieI-2cSAACESEAAtryUFETi-c3vjTf5z0E",
+    "video_file_size": 17767025,
+    "caption": "🗣Dario Amodei said he would be willing to hand Anthropic’s technology over to the right combination of governments, during his CBS interview.\n\nJo Ling Kent from CBS News: \"Would you be willing to give up the technology to the government?\" \n\nDario Amodei: \"To the right combination of governments.\"\n\n@aipost 🏴",
+    "entities": [
+      {
+        "offset": 0,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5287468155738821335"
+      },
+      {
+        "offset": 300,
+        "length": 7,
+        "type": "mention"
+      },
+      {
+        "offset": 308,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5431390559912614642"
+      }
+    ],
+    "media_group_id": null,
+    "chat_id": -1004468214616,
+    "message_ids": [
+      817
+    ],
+    "update_ids": [
+      378304709
+    ],
+    "retry_count": 0
+  },
+  {
+    "type": "photo",
+    "photo_file_ids": [
+      "AgACAgIAAyEFAAMBClOLWAACAzJqqoEXOwfyfTfagQqyfxl_YbBZsQACkyZrG_KZUEkgTz-yZTmH2QEAAwIAA3kAAz0E"
+    ],
+    "caption": "Enterprise spending in AI shifted rapidly following the introduction of OpenAI’s frontier model.\n\nOpenAI has captured approximately 13% of enterprise AI expenditure, outpacing Anthropic, which holds about 8%. Ramp data indicates that model loyalty among enterprises is relatively low, allowing for swift reallocation of resources when a new provider closes the performance gap.\n\nRecent analysis notes that Anthropic’s decision to slow its frontier development has impacted adoption rates. OpenAI’s growth is primarily attributed to companies transitioning from rival models, as well as from new usage. This shift highlights the competitive dynamics as providers aim to retain and attract enterprise clients.\n\n📰 @aipost",
+    "entities": [
+      {
+        "offset": 709,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5363988332466438547"
+      },
+      {
+        "offset": 712,
+        "length": 7,
+        "type": "mention"
+      }
+    ],
+    "media_group_id": null,
+    "chat_id": -1004468214616,
+    "message_ids": [
+      818
+    ],
+    "update_ids": [
+      378304710
     ],
     "retry_count": 0
   }
