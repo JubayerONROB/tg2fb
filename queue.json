@@ -1,45 +1,6 @@
 [
   {
     "type": "video",
-    "video_file_id": "BAACAgQAAyEFAAMBClOLWAACArhqnj11t0NxH8_Sp3CjNSfe-7UDigAC-SEAAmyJ8FBWJ3NKfynzcT0E",
-    "video_file_size": 13667907,
-    "caption": "🙃Elon Musk: “You have at most 10 years left to make money by selling your work.”\n\nAfter that, AI does most of the tasks. Paying someone for their time stops making sense.\n\nThe old deal of trading hours for a salary is ending.\n\n@aipost 🏴",
-    "entities": [
-      {
-        "offset": 0,
-        "length": 2,
-        "type": "custom_emoji",
-        "custom_emoji_id": "5289701946754633864"
-      },
-      {
-        "offset": 2,
-        "length": 79,
-        "type": "bold"
-      },
-      {
-        "offset": 228,
-        "length": 7,
-        "type": "mention"
-      },
-      {
-        "offset": 236,
-        "length": 2,
-        "type": "custom_emoji",
-        "custom_emoji_id": "5431390559912614642"
-      }
-    ],
-    "media_group_id": null,
-    "chat_id": -1004468214616,
-    "message_ids": [
-      696
-    ],
-    "update_ids": [
-      378304588
-    ],
-    "retry_count": 0
-  },
-  {
-    "type": "video",
     "video_file_id": "BAACAgQAAyEFAAMBClOLWAACArlqnj1_OjmdqV0KWM8CrtFuAAFvJtYAAk0iAAJsifBQzzdTeqTfE789BA",
     "video_file_size": 10742157,
     "caption": "🇩🇪 Germany’s Merz says germany is building data centers at an unprecedented scale. \n\n@aipost 🏴",
