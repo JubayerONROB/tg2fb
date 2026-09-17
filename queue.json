@@ -1,33 +1,5 @@
 [
   {
-    "type": "video",
-    "video_file_id": "BAACAgQAAyEFAAMBClOLWAACArJqnOaUyyWR6uZHTfNHCS3M_HXrmwACfSQAAjOb4VBZ-Bz_bJeq0D0E",
-    "video_file_size": 3994702,
-    "caption": "ChatGPT in 2037 looking for the guy that never said “please” and “thank you”\n\n@aipost 🏴",
-    "entities": [
-      {
-        "offset": 78,
-        "length": 7,
-        "type": "mention"
-      },
-      {
-        "offset": 86,
-        "length": 2,
-        "type": "custom_emoji",
-        "custom_emoji_id": "5431390559912614642"
-      }
-    ],
-    "media_group_id": null,
-    "chat_id": -1004468214616,
-    "message_ids": [
-      690
-    ],
-    "update_ids": [
-      378304582
-    ],
-    "retry_count": 0
-  },
-  {
     "type": "album",
     "photo_file_ids": [
       "AgACAgQAAyEFAAMBClOLWAACArNqnTAFv67tK0i0zwHqwUvZ7ZUfMgACwhVrGzOb4VAJHsFW_wABv-gBAAMCAAN5AAM9BA",
