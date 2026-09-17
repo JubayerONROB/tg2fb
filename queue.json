@@ -1,43 +1,5 @@
 [
   {
-    "type": "album",
-    "photo_file_ids": [
-      "AgACAgQAAyEFAAMBClOLWAACArNqnTAFv67tK0i0zwHqwUvZ7ZUfMgACwhVrGzOb4VAJHsFW_wABv-gBAAMCAAN5AAM9BA",
-      "AgACAgQAAyEFAAMBClOLWAACArRqnTAFnBcWxLSqQ6Nc92IGhVDQxgACwxVrGzOb4VDNrapImL6rowEAAwIAA3kAAz0E"
-    ],
-    "caption": "Elon vs Chess was not on my 2026 bingo card 🤣\n\n@aipost 🏴",
-    "entities": [
-      {
-        "offset": 44,
-        "length": 2,
-        "type": "custom_emoji",
-        "custom_emoji_id": "5370712413005945913"
-      },
-      {
-        "offset": 48,
-        "length": 7,
-        "type": "mention"
-      },
-      {
-        "offset": 56,
-        "length": 2,
-        "type": "custom_emoji",
-        "custom_emoji_id": "5431390559912614642"
-      }
-    ],
-    "media_group_id": "14309490731145685",
-    "chat_id": -1004468214616,
-    "message_ids": [
-      691,
-      692
-    ],
-    "update_ids": [
-      378304583,
-      378304584
-    ],
-    "retry_count": 0
-  },
-  {
     "type": "photo",
     "photo_file_ids": [
       "AgACAgQAAyEFAAMBClOLWAACArVqnTARuQOseuP-KtYiDc170c8H2AACUQ9rGzOb6VAGjUT1AtPbuwEAAwIAA3kAAz0E"
@@ -5357,6 +5319,121 @@
     "update_ids": [
       378304716,
       378304717
+    ],
+    "retry_count": 0
+  },
+  {
+    "type": "photo",
+    "photo_file_ids": [
+      "AgACAgQAAyEFAAMBClOLWAACAzpqq3-OHUCFrqPoKIBCJEC1pnXQUwACzw9rG9ryUFHItmAaavfY1gEAAwIAA3gAAz0E"
+    ],
+    "caption": "❗️6 OpenAI employees left in 2021 to build Anthropic. 5 years later, six of them just debuted on the Forbes 400 with an estimated net worth of $15.5 billion each.\n\nDaniela Amodei, Dario Amodei, Tom Brown, Jack Clark, Jared Kaplan and Sam McCandlish are now worth $93B combined.\n\nForbes estimates each owns around 1.6% of Anthropic, which was valued at $965 billion in May.\n\n@aipost 🏴",
+    "entities": [
+      {
+        "offset": 0,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5289761612440310918"
+      },
+      {
+        "offset": 374,
+        "length": 7,
+        "type": "mention"
+      },
+      {
+        "offset": 382,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5431390559912614642"
+      }
+    ],
+    "media_group_id": null,
+    "chat_id": -1004468214616,
+    "message_ids": [
+      826
+    ],
+    "update_ids": [
+      378304718
+    ],
+    "retry_count": 0
+  },
+  {
+    "type": "video",
+    "video_file_id": "BAACAgQAAyEFAAMBClOLWAACAztqq3-cZ_uibzOR-C1bOzLqE3NeYQACYyIAAtryUFHVamxIAc4Kwj0E",
+    "video_file_size": 37215286,
+    "caption": "🗣 Satya Nadella talks about how in Quincy, Washington, a 400/500 MW data center has contributed to a rural town over many years. \n\nThe tax revenues have gone up 12X, continued economic growth, new infrastructure, and public infra such as a school, hospital, town center, and aquatic center.\n\n@aipost 🏴",
+    "entities": [
+      {
+        "offset": 0,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5287468155738821335"
+      },
+      {
+        "offset": 293,
+        "length": 7,
+        "type": "mention"
+      },
+      {
+        "offset": 301,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5431390559912614642"
+      }
+    ],
+    "media_group_id": null,
+    "chat_id": -1004468214616,
+    "message_ids": [
+      827
+    ],
+    "update_ids": [
+      378304719
+    ],
+    "retry_count": 0
+  },
+  {
+    "type": "photo",
+    "photo_file_ids": [
+      "AgACAgQAAyEFAAMBClOLWAACAzxqq3-mC2IaDANS8FgjVdZmQlaeGgAC0g9rG9ryUFHVmnT1CFGLgwEAAwIAA3cAAz0E"
+    ],
+    "caption": "💊 Insilico wants to build “longevity vaccines” with AI\n\nInsilico Medicine has launched a new research initiative aimed at using AI and programmable RNA to target some of the earliest cellular drivers of aging.\n\nInstead of treating diseases after damage has accumulated, the company wants to use a single, self-limiting treatment to help the body’s own immune system identify and eliminate problematic cells.\n\nThe platform uses circular mRNA delivered through targeted lipid nanoparticles. The genetic instructions would temporarily equip a patient’s own T cells to recognize and clear specific cell populations, including senescent cells, fibrotic cells and autoreactive immune cells.\n\nInsilico says its AI systems will help identify and prioritize the cellular targets. The first focus is immune-system rejuvenation by removing senescent lymphocytes, with metabolic dysfunction and other age-related conditions also being explored.\n\nBut this is still an early research program, not a proven longevity treatment. Insilico has not yet disclosed program-specific safety or efficacy data or a clinical trial timeline.\n\nSource. \n\n@aipost 🏴",
+    "entities": [
+      {
+        "offset": 0,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5310094636159607472"
+      },
+      {
+        "offset": 3,
+        "length": 52,
+        "type": "bold"
+      },
+      {
+        "offset": 1117,
+        "length": 8,
+        "type": "text_link",
+        "url": "https://www.news-medical.net/news/20260915/Insilico-Medicine-launches-AI-initiative-to-develop-longevity-vaccines.aspx"
+      },
+      {
+        "offset": 1127,
+        "length": 7,
+        "type": "mention"
+      },
+      {
+        "offset": 1135,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5431390559912614642"
+      }
+    ],
+    "media_group_id": null,
+    "chat_id": -1004468214616,
+    "message_ids": [
+      828
+    ],
+    "update_ids": [
+      378304720
     ],
     "retry_count": 0
   }
