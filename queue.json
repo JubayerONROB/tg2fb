@@ -1,34 +1,5 @@
 [
   {
-    "type": "photo",
-    "photo_file_ids": [
-      "AgACAgIAAyEFAAMBClOLWAACArpqnkEDEzImDrQnKVA62tz0OGCnjAACtCNrG_Ia6Ugl7-EcvipRUQEAAwIAA3kAAz0E"
-    ],
-    "caption": "OpenAI has announced it has achieved the \"automated research intern\" milestone, marking a significant step in human-supervised AI completing well-defined research tasks—previously requiring several days of skilled labor.\n\nEngineers at OpenAI are now making code changes at a rate approximately seven times higher per contributor compared to pre-2025 levels.\n\nInternally, OpenAI research operations are seeing agents handle a much larger workload than human staff. The agent-to-human labor ratio has reached 3.1-to-1, meaning that for each human workday, agents contribute the equivalent of 3.1 workdays.\n\nThis measurement is based on agent runtime rather than a direct comparison of productivity but indicates the extensive integration of autonomous agent labor within OpenAI's research process.\n\n📰 @aipost",
-    "entities": [
-      {
-        "offset": 797,
-        "length": 2,
-        "type": "custom_emoji",
-        "custom_emoji_id": "5363988332466438547"
-      },
-      {
-        "offset": 800,
-        "length": 7,
-        "type": "mention"
-      }
-    ],
-    "media_group_id": null,
-    "chat_id": -1004468214616,
-    "message_ids": [
-      698
-    ],
-    "update_ids": [
-      378304590
-    ],
-    "retry_count": 0
-  },
-  {
     "type": "video",
     "video_file_id": "BAACAgQAAyEFAAMBClOLWAACArtqnnf9s7U6nLqhGWpkfBVMGLB1-AACWyIAAmyJ8FAiXYeSbL64Xj0E",
     "video_file_size": 14050700,
