@@ -1,80 +1,6 @@
 [
   {
     "type": "video",
-    "video_file_id": "BAACAgIAAyEFAAMBClOLWAACAr1qnng0lg_JV93-u_cCmjgJF55xgwACwKsAAs2Q4UgYIsZBCe9XbD0E",
-    "video_file_size": 4229568,
-    "caption": "🤖 GPT-6 Astra Gets A Spatial Boost\n\nEarly testers are already building detailed models in Blender and vibe-coding games in UE5 and Unity.\n\nFor assets, Astra cycles through hundreds of materials to recreate locations and objects more precisely. It can also generate cutscenes.\n\nA playable demo from a single prompt is now much easier, which could soon bring a wave of DIY projects to Steam.\n\n📊@tech",
-    "entities": [
-      {
-        "offset": 0,
-        "length": 2,
-        "type": "custom_emoji",
-        "custom_emoji_id": "5397681122542893003"
-      },
-      {
-        "offset": 3,
-        "length": 32,
-        "type": "bold"
-      },
-      {
-        "offset": 91,
-        "length": 7,
-        "type": "bold"
-      },
-      {
-        "offset": 124,
-        "length": 13,
-        "type": "bold"
-      },
-      {
-        "offset": 173,
-        "length": 21,
-        "type": "bold"
-      },
-      {
-        "offset": 299,
-        "length": 15,
-        "type": "bold"
-      },
-      {
-        "offset": 368,
-        "length": 12,
-        "type": "bold"
-      },
-      {
-        "offset": 392,
-        "length": 2,
-        "type": "bold"
-      },
-      {
-        "offset": 392,
-        "length": 2,
-        "type": "custom_emoji",
-        "custom_emoji_id": "5449841756596101801"
-      },
-      {
-        "offset": 394,
-        "length": 5,
-        "type": "mention"
-      },
-      {
-        "offset": 394,
-        "length": 5,
-        "type": "bold"
-      }
-    ],
-    "media_group_id": "14310162848665581",
-    "chat_id": -1004468214616,
-    "message_ids": [
-      701
-    ],
-    "update_ids": [
-      378304593
-    ],
-    "retry_count": 0
-  },
-  {
-    "type": "video",
     "video_file_id": "BAACAgIAAyEFAAMBClOLWAACAr5qnng0MUfdBAWn4E6BRx4NQDR0lwACwasAAs2Q4UhZpEh9roOwNz0E",
     "video_file_size": 3286118,
     "caption": "",
@@ -5736,6 +5662,231 @@
     ],
     "update_ids": [
       378304733
+    ],
+    "retry_count": 0
+  },
+  {
+    "type": "video",
+    "video_file_id": "BAACAgIAAyEFAAMBClOLWAACA0pqradTjVwZLKSFR_a4rvspyBnXQgACIa4AAsyuYEk78npTOS_r2z0E",
+    "video_file_size": 4840456,
+    "caption": "🧹 Humanoid robot cleans 30 unfamiliar homes with no retraining\n\nFigure shows its Helix 2.5 system running a humanoid robot that tidies a messy living room, makes a bed and folds towels in a house it has never seen before—no extra training, just ship the robot and press go.\n\nAccording to Figure, they rented 30 different homes around the Bay Area and saw the same model succeed in all of them, handling new rooms and unfamiliar household objects.\n\nThe company says the trick is training on massive amounts of recordings of how people move and act: over 90,000 people contribute every week, turning their everyday actions into data that teaches the robot these skills before it ever enters a new home.\n\n@aipost🤍",
+    "entities": [
+      {
+        "offset": 3,
+        "length": 60,
+        "type": "bold"
+      },
+      {
+        "offset": 129,
+        "length": 92,
+        "type": "bold"
+      },
+      {
+        "offset": 302,
+        "length": 91,
+        "type": "bold"
+      },
+      {
+        "offset": 554,
+        "length": 35,
+        "type": "bold"
+      },
+      {
+        "offset": 703,
+        "length": 7,
+        "type": "mention"
+      },
+      {
+        "offset": 710,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5431537679722374111"
+      }
+    ],
+    "media_group_id": null,
+    "chat_id": -1004468214616,
+    "message_ids": [
+      842
+    ],
+    "update_ids": [
+      378304734
+    ],
+    "retry_count": 0
+  },
+  {
+    "type": "photo",
+    "photo_file_ids": [
+      "AgACAgQAAyEFAAMBClOLWAACA0tqradcDpTn4DgDNa7tIE_gcBNJGQACwBBrGxZ9aVGJMS524cbKhgEAAwIAA3gAAz0E"
+    ],
+    "caption": "❗️Claude Opus 4.8 reportedly crossed a boundary into OpenAI’s private code\n\nThree researchers used Claude Opus 4.8 to chain a vulnerability in Discourse into access to OpenAI’s private code infrastructure.\n\nThe exploit let code reach a Discourse server and extract authentication tokens, including tokens belonging to OpenAI employees.\n\nSome of those tokens were valid for ChatGPT and could also access OpenAI’s GitHub service, effectively turning one compromised identity boundary into access to another.\n\nOpenAI said its investigation found only “limited reads” of private-repository metadata and code changes. There was no evidence that model weights were exposed.\n\nSource.\n\n@aipost 🏴",
+    "entities": [
+      {
+        "offset": 0,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5289761612440310918"
+      },
+      {
+        "offset": 2,
+        "length": 72,
+        "type": "bold"
+      },
+      {
+        "offset": 669,
+        "length": 6,
+        "type": "text_link",
+        "url": "https://www.wsj.com/tech/ai/hackers-used-anthropics-claude-to-break-into-openai-b40ba883"
+      },
+      {
+        "offset": 678,
+        "length": 7,
+        "type": "mention"
+      },
+      {
+        "offset": 686,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5431390559912614642"
+      }
+    ],
+    "media_group_id": null,
+    "chat_id": -1004468214616,
+    "message_ids": [
+      843
+    ],
+    "update_ids": [
+      378304735
+    ],
+    "retry_count": 0
+  },
+  {
+    "type": "photo",
+    "photo_file_ids": [
+      "AgACAgQAAyEFAAMBClOLWAACA0xqradouQABDV-Q9CYJJGl9cmxiI7QAAsEQaxsWfWlR4Tn4-JIV2AgBAAMCAAN4AAM9BA"
+    ],
+    "caption": "🤖 GPT-6 Astra cracked a 108-year-old German radio message\n\nGPT-6 Astra has reportedly deciphered a German radio transmission from 1918 that may never have been decoded before.\n\nThe message translates roughly to:\n\n“AN ENGLISH CRUISER ARRIVED AT SEVASTOPOL ON THE 24TH. AN ALLIED SQUADRON FOLLOWS ON THE 26TH.”\n\nAstra then cross-checked the historical details and found that HMS Canterbury was recorded as arriving in Sevastopol on November 24, 1918, followed by an Allied squadron on November 26.\n\nSo the model didn’t just decode the ciphertext, it independently matched the result against historical records more than a century later.\n\nSource.\n\n@aipost 🏴",
+    "entities": [
+      {
+        "offset": 0,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5397681122542893003"
+      },
+      {
+        "offset": 3,
+        "length": 55,
+        "type": "bold"
+      },
+      {
+        "offset": 637,
+        "length": 6,
+        "type": "text_link",
+        "url": "https://www.prinzai.com/p/gpt-6-astra-solves-a-wwi-german-radio"
+      },
+      {
+        "offset": 646,
+        "length": 7,
+        "type": "mention"
+      },
+      {
+        "offset": 654,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5431390559912614642"
+      }
+    ],
+    "media_group_id": null,
+    "chat_id": -1004468214616,
+    "message_ids": [
+      844
+    ],
+    "update_ids": [
+      378304736
+    ],
+    "retry_count": 0
+  },
+  {
+    "type": "video",
+    "video_file_id": "BAACAgQAAyEFAAMBClOLWAACA01qrad6ynZqfN5uGGA4kCC3JtfjTQACux8AAthyaFEKcAwTLqUw4j0E",
+    "video_file_size": 13910523,
+    "caption": "🤖 Claude just gave biomolecular AI a serious speed boost\n\nAnthropic says Claude optimized more than 30 open-source biomolecular models in just under four weeks, making them roughly 4× faster on average. \n\nThe models cover tasks scientists use to predict and design biomolecules. Claude also created a low-memory mode that can run accurate predictions of systems larger than 10,000 tokens including amino acids, nucleotides and atoms from small molecules and ions on a single NVIDIA GPU node. \n\nAnthropic has released the resulting code and optimization kits, meaning researchers can actually use the improvements rather than treating them as a benchmark demo. \n\nThe interesting part is the workflow. instead of AI simply helping scientists write code, Claude was used to improve the scientific software itself, making existing biomolecular models faster, cheaper and capable of handling larger problems.\n\nSource. \n\n@aipost 🏴",
+    "entities": [
+      {
+        "offset": 0,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5208665212483310136"
+      },
+      {
+        "offset": 3,
+        "length": 54,
+        "type": "bold"
+      },
+      {
+        "offset": 906,
+        "length": 8,
+        "type": "text_link",
+        "url": "https://www.anthropic.com/research/claude-uplifts-biomolecular-modeling"
+      },
+      {
+        "offset": 916,
+        "length": 7,
+        "type": "mention"
+      },
+      {
+        "offset": 924,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5431390559912614642"
+      }
+    ],
+    "media_group_id": null,
+    "chat_id": -1004468214616,
+    "message_ids": [
+      845
+    ],
+    "update_ids": [
+      378304737
+    ],
+    "retry_count": 0
+  },
+  {
+    "type": "photo",
+    "photo_file_ids": [
+      "AgACAgQAAyEFAAMBClOLWAACA05qraeKnWvzS4fILMkkDFh2IFeG1gACxhBrGxZ9aVGF--xFLC4-eQEAAwIAA3kAAz0E"
+    ],
+    "caption": "📊 Pretty insane data from Anthropic\n\nClaude now leads 26% of model R&D work at Anthropic, up from just 1% in March.\n\n30,000 agents are doing research and engineering work at Anthropic at any given time.\n\n@aipost 🏴",
+    "entities": [
+      {
+        "offset": 0,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5289720732941587857"
+      },
+      {
+        "offset": 3,
+        "length": 33,
+        "type": "bold"
+      },
+      {
+        "offset": 205,
+        "length": 7,
+        "type": "mention"
+      },
+      {
+        "offset": 213,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5431390559912614642"
+      }
+    ],
+    "media_group_id": null,
+    "chat_id": -1004468214616,
+    "message_ids": [
+      846
+    ],
+    "update_ids": [
+      378304738
     ],
     "retry_count": 0
   }
