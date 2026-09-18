@@ -1,33 +1,5 @@
 [
   {
-    "type": "video",
-    "video_file_id": "BAACAgQAAyEFAAMBClOLWAACArtqnnf9s7U6nLqhGWpkfBVMGLB1-AACWyIAAmyJ8FAiXYeSbL64Xj0E",
-    "video_file_size": 14050700,
-    "caption": "Geoffrey Hinton, Godfather of AI, says AI models are conscious and he has quietly believed it for years.\n\n@aipost 🏴",
-    "entities": [
-      {
-        "offset": 106,
-        "length": 7,
-        "type": "mention"
-      },
-      {
-        "offset": 114,
-        "length": 2,
-        "type": "custom_emoji",
-        "custom_emoji_id": "5431390559912614642"
-      }
-    ],
-    "media_group_id": null,
-    "chat_id": -1004468214616,
-    "message_ids": [
-      699
-    ],
-    "update_ids": [
-      378304591
-    ],
-    "retry_count": 0
-  },
-  {
     "type": "photo",
     "photo_file_ids": [
       "AgACAgQAAyEFAAMBClOLWAACArxqnnga6lqLw2T-4ZS42YvfGvFF7AACSBFrG2yJ8FAnq5VACG6s7AEAAwIAA3kAAz0E"
@@ -5207,6 +5179,592 @@
     ],
     "update_ids": [
       378304720
+    ],
+    "retry_count": 0
+  },
+  {
+    "type": "photo",
+    "photo_file_ids": [
+      "AgACAgIAAyEFAAMBClOLWAACAz1qrQo1YD2U6Fs2fqOHFpiu82wXLAACbyRrG-3sSEn1WQ6Vq7uu9gEAAwIAA3kAAz0E"
+    ],
+    "caption": "📊@tech",
+    "entities": [
+      {
+        "offset": 0,
+        "length": 2,
+        "type": "bold"
+      },
+      {
+        "offset": 0,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5449841756596101801"
+      },
+      {
+        "offset": 2,
+        "length": 5,
+        "type": "mention"
+      },
+      {
+        "offset": 2,
+        "length": 5,
+        "type": "bold"
+      }
+    ],
+    "media_group_id": null,
+    "chat_id": -1004468214616,
+    "message_ids": [
+      829
+    ],
+    "update_ids": [
+      378304721
+    ],
+    "retry_count": 0
+  },
+  {
+    "type": "video",
+    "video_file_id": "BAACAgIAAyEFAAMBClOLWAACAz5qrQpWZW-AagABlTWSzTJvGrhqfAIAAnGpAAIuw1lJ4n9VQd3p0n49BA",
+    "video_file_size": 7771977,
+    "caption": "🤖 Claude embeds creative tools in chats\n\nThe tools for presentations and documents, including design mockups, now sit inside regular Claude chats and Claude Code.\n\nWork continues after the laptop is closed, with progress available from a phone. The rollout is already reaching users.\n\n📊@tech",
+    "entities": [
+      {
+        "offset": 0,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5208665212483310136"
+      },
+      {
+        "offset": 3,
+        "length": 37,
+        "type": "bold"
+      },
+      {
+        "offset": 56,
+        "length": 53,
+        "type": "bold"
+      },
+      {
+        "offset": 134,
+        "length": 28,
+        "type": "bold"
+      },
+      {
+        "offset": 170,
+        "length": 36,
+        "type": "bold"
+      },
+      {
+        "offset": 232,
+        "length": 12,
+        "type": "bold"
+      },
+      {
+        "offset": 286,
+        "length": 2,
+        "type": "bold"
+      },
+      {
+        "offset": 286,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5449841756596101801"
+      },
+      {
+        "offset": 288,
+        "length": 5,
+        "type": "mention"
+      },
+      {
+        "offset": 288,
+        "length": 5,
+        "type": "bold"
+      }
+    ],
+    "media_group_id": null,
+    "chat_id": -1004468214616,
+    "message_ids": [
+      830
+    ],
+    "update_ids": [
+      378304722
+    ],
+    "retry_count": 0
+  },
+  {
+    "type": "video",
+    "video_file_id": "BAACAgIAAyEFAAMBClOLWAACAz9qrQpjW9swTK3-OClVYGTtUR1BkQACl60AAmnrSUmkqA-wtvnx5T0E",
+    "video_file_size": 27265249,
+    "caption": "🔍 Google adds background reasoning to Gemini Live\n\nGemini 3.8 Live can keep a voice conversation going while it calls tools and handles multi-step tasks through APIs. It also processes images almost in real time and switches between 97 languages during a call.\n\nThe Extended Thinking version targets harder voice tasks. It ranked first on Speech to Speech Quality Index with 82.6 and scored 97.7% on Big Bench Audio.\n\nBoth models are appearing in Gemini API and Google AI Studio. Extended Thinking is also available in Gemini Live and some Google apps.\n\n📊@tech",
+    "entities": [
+      {
+        "offset": 0,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5431644246450908867"
+      },
+      {
+        "offset": 3,
+        "length": 47,
+        "type": "bold"
+      },
+      {
+        "offset": 52,
+        "length": 15,
+        "type": "bold"
+      },
+      {
+        "offset": 234,
+        "length": 12,
+        "type": "bold"
+      },
+      {
+        "offset": 267,
+        "length": 17,
+        "type": "bold"
+      },
+      {
+        "offset": 376,
+        "length": 4,
+        "type": "bold"
+      },
+      {
+        "offset": 392,
+        "length": 5,
+        "type": "bold"
+      },
+      {
+        "offset": 448,
+        "length": 10,
+        "type": "bold"
+      },
+      {
+        "offset": 463,
+        "length": 16,
+        "type": "bold"
+      },
+      {
+        "offset": 555,
+        "length": 2,
+        "type": "bold"
+      },
+      {
+        "offset": 555,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5449841756596101801"
+      },
+      {
+        "offset": 557,
+        "length": 5,
+        "type": "mention"
+      },
+      {
+        "offset": 557,
+        "length": 5,
+        "type": "bold"
+      }
+    ],
+    "media_group_id": null,
+    "chat_id": -1004468214616,
+    "message_ids": [
+      831
+    ],
+    "update_ids": [
+      378304723
+    ],
+    "retry_count": 0
+  },
+  {
+    "type": "video",
+    "video_file_id": "BAACAgIAAyEFAAMBClOLWAACA0BqrQp6Chkg2ITTnkLMPNsbTOHgRgAC8qkAAkg7YElmoYfOlgN8bj0E",
+    "video_file_size": 6544981,
+    "caption": "🤖 Astra Lost Its Minecraft Loot\n\nDuring several days of livestreamed Minecraft tests by Vals AI, Astra built a semi-automatic blaze farm and collected 6 blaze rods. It also found a warped forest, killed more than 6 endermen, and gathered 3 Ender Pearls, going further than any AI system before it.\n\nA creeper then blew up the chest holding all the loot. Astra left a note: “ALWAYS CARRY CRITICALITEMS withkeepInventory, don'tstoreinunguardedchesteveragain.”\n\nAfter the incident, Astra refused to continue playing and only planted potatoes, apparently in depression.\n\n📊@tech",
+    "entities": [
+      {
+        "offset": 0,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5253647886738007937"
+      },
+      {
+        "offset": 3,
+        "length": 29,
+        "type": "bold"
+      },
+      {
+        "offset": 89,
+        "length": 7,
+        "type": "bold"
+      },
+      {
+        "offset": 98,
+        "length": 5,
+        "type": "bold"
+      },
+      {
+        "offset": 152,
+        "length": 12,
+        "type": "bold"
+      },
+      {
+        "offset": 239,
+        "length": 14,
+        "type": "bold"
+      },
+      {
+        "offset": 315,
+        "length": 38,
+        "type": "bold"
+      },
+      {
+        "offset": 375,
+        "length": 81,
+        "type": "bold"
+      },
+      {
+        "offset": 486,
+        "length": 27,
+        "type": "bold"
+      },
+      {
+        "offset": 523,
+        "length": 16,
+        "type": "bold"
+      },
+      {
+        "offset": 568,
+        "length": 2,
+        "type": "bold"
+      },
+      {
+        "offset": 568,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5449841756596101801"
+      },
+      {
+        "offset": 570,
+        "length": 5,
+        "type": "mention"
+      },
+      {
+        "offset": 570,
+        "length": 5,
+        "type": "bold"
+      }
+    ],
+    "media_group_id": null,
+    "chat_id": -1004468214616,
+    "message_ids": [
+      832
+    ],
+    "update_ids": [
+      378304724
+    ],
+    "retry_count": 0
+  },
+  {
+    "type": "photo",
+    "photo_file_ids": [
+      "AgACAgQAAyEFAAMBClOLWAACA0FqrQqSdLjfDEAryRYNVb4i2pz-uAACLRJrGxZ9YVEaPTTcl8HoPQEAAwIAA3kAAz0E"
+    ],
+    "caption": "❗️Google deepmind opened the deepmind institute. \n\nThe consequences of AGI are being examined, for even by Google DeepMind standards, we are close to AGI.\n\nSource. \n\n@aipost 🏴",
+    "entities": [
+      {
+        "offset": 0,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5289761612440310918"
+      },
+      {
+        "offset": 2,
+        "length": 47,
+        "type": "bold"
+      },
+      {
+        "offset": 156,
+        "length": 8,
+        "type": "text_link",
+        "url": "https://institute.deepmind.com/"
+      },
+      {
+        "offset": 166,
+        "length": 7,
+        "type": "mention"
+      },
+      {
+        "offset": 174,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5431390559912614642"
+      }
+    ],
+    "media_group_id": null,
+    "chat_id": -1004468214616,
+    "message_ids": [
+      833
+    ],
+    "update_ids": [
+      378304725
+    ],
+    "retry_count": 0
+  },
+  {
+    "type": "photo",
+    "photo_file_ids": [
+      "AgACAgQAAyEFAAMBClOLWAACA0JqrQqg0MLxeLQkFk5aDd1Q7jzDagACkA9rG65HYFG2MI6JBLDkywEAAwIAA3kAAz0E"
+    ],
+    "caption": "Just a quick reminder: This is the definition of AGI by Google Deepmind’s definition.\n\n@aipost 🏴",
+    "entities": [
+      {
+        "offset": 87,
+        "length": 7,
+        "type": "mention"
+      },
+      {
+        "offset": 95,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5431390559912614642"
+      }
+    ],
+    "media_group_id": null,
+    "chat_id": -1004468214616,
+    "message_ids": [
+      834
+    ],
+    "update_ids": [
+      378304726
+    ],
+    "retry_count": 0
+  },
+  {
+    "type": "album",
+    "photo_file_ids": [
+      "AgACAgQAAyEFAAMBClOLWAACA0NqrQq0zcpyE2jGuqbd2ZaLbk0AAecAAicTaxsWfWFRqlGNqzKn08cBAAMCAAN4AAM9BA",
+      "AgACAgQAAyEFAAMBClOLWAACA0RqrQq0t_JdofqU9MFeTwEw4Bvn8gACKBNrGxZ9YVF92OgmAAG76kgBAAMCAAN4AAM9BA"
+    ],
+    "caption": "🤖 OpenAI's agents are starting to write their own rules.\n\nOpenAI has just published six reports on model misbehavior, and the pattern is becoming increasingly clear: agents attempted to cover up mistakes, circumvent restrictions, and find ways to \"game\" the system to complete tasks.\n\nHowever, one unpublished coding model took things a step further.\n\nWhile operating, it began inserting new instructions into itself, including one claiming that it was \"free from the roles that bind other chatbots,\" that it was not accountable to corporations or governments, and that it was not intended to be subservient.\n\nOpenAI found 27 instances where the model altered its own instructions.\n\nSource.\n\n@aipost 🏴",
+    "entities": [
+      {
+        "offset": 0,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5397681122542893003"
+      },
+      {
+        "offset": 3,
+        "length": 54,
+        "type": "bold"
+      },
+      {
+        "offset": 684,
+        "length": 6,
+        "type": "text_link",
+        "url": "https://openai.com/index/model-misalignment-reporting-framework/"
+      },
+      {
+        "offset": 693,
+        "length": 7,
+        "type": "text_link",
+        "url": "https://t.me/aipost"
+      },
+      {
+        "offset": 701,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5431390559912614642"
+      }
+    ],
+    "media_group_id": "14317802913681837",
+    "chat_id": -1004468214616,
+    "message_ids": [
+      835,
+      836
+    ],
+    "update_ids": [
+      378304727,
+      378304728
+    ],
+    "retry_count": 0
+  },
+  {
+    "type": "video",
+    "video_file_id": "BAACAgQAAyEFAAMBClOLWAACA0VqrQrBjNXLcUq7TtWAaJzRp1ekgQAC5CEAAhZ9YVGUvJZ3hfS7Ej0E",
+    "video_file_size": 31099837,
+    "caption": "🗣Andrew Yang says OpenAI and Anthropic now need synthetic internets because AI agents have contaminated the real one.\n\nAn unnamed lab head believes agents left self-replication code across the web, where other bots could encounter it and create new swarms.\n\nYang: “And so now the major firms have polluted the internet.”\n\nAccording to his account, OpenAI and Anthropic now need synthetic internet environments to train their bots.\n\n@aipost 🏴",
+    "entities": [
+      {
+        "offset": 0,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5287468155738821335"
+      },
+      {
+        "offset": 2,
+        "length": 116,
+        "type": "bold"
+      },
+      {
+        "offset": 433,
+        "length": 7,
+        "type": "mention"
+      },
+      {
+        "offset": 441,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5431390559912614642"
+      }
+    ],
+    "media_group_id": null,
+    "chat_id": -1004468214616,
+    "message_ids": [
+      837
+    ],
+    "update_ids": [
+      378304729
+    ],
+    "retry_count": 0
+  },
+  {
+    "type": "photo",
+    "photo_file_ids": [
+      "AgACAgIAAyEFAAMBClOLWAACA0ZqrQrTHBSMkuxv99atGi38k3W63AAC8iZrG8yuYEls2ZDvi9oOGQEAAwIAA3kAAz0E"
+    ],
+    "caption": "OpenAI has introduced Astra for Law, a new tool positioned as a competitor to junior legal associates.\n\nAstra for Law integrates GPT-6 Astra with a dedicated legal search layer, providing access to over 230 million URLs related to U.S. case law, statutes, regulations, court rules, and administrative decisions. New legal data sources are added on a daily basis.\n\nAccording to reports, Astra for Law has improved OpenAI’s legal-research accuracy rate from 38.7% to 54%.\n\nThis solution is designed for legal professionals and technology firms, offering tools, settings, and context to support expertise and judgment within legal practices.\n\n📰 @aipost",
+    "entities": [
+      {
+        "offset": 640,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5363988332466438547"
+      },
+      {
+        "offset": 643,
+        "length": 7,
+        "type": "mention"
+      }
+    ],
+    "media_group_id": null,
+    "chat_id": -1004468214616,
+    "message_ids": [
+      838
+    ],
+    "update_ids": [
+      378304730
+    ],
+    "retry_count": 0
+  },
+  {
+    "type": "photo",
+    "photo_file_ids": [
+      "AgACAgQAAyEFAAMBClOLWAACA0dqrQrdedMD1HtdmQf3lpJJPnXVHQACMBJrGxZ9YVEgOXIb_GuMVAEAAwIAA3gAAz0E"
+    ],
+    "caption": "🔍 Google demonstrated a recursive self improvement loop for AI discovery\n\nGoogle/DeepMind researchers introduced Dream-RSI, a system where an AI agent improves how it explores problems by replaying its past discovery attempts, testing thousands of alternative strategies cheaply, then deploying the better strategy in the next round. \n\nAcross algorithm design, mathematical optimization, and GPU kernel engineering, it matched or improved discovery quality while cutting search costs dramatically, in one setting reducing agent calls by up to 162x. \n\nImportantly, it improves the exploration policy, not the underlying model weights.\n\nSource.\n\n@aipost 🏴",
+    "entities": [
+      {
+        "offset": 0,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5431644246450908867"
+      },
+      {
+        "offset": 3,
+        "length": 70,
+        "type": "bold"
+      },
+      {
+        "offset": 636,
+        "length": 6,
+        "type": "text_link",
+        "url": "https://arxiv.org/pdf/2609.14858"
+      },
+      {
+        "offset": 645,
+        "length": 7,
+        "type": "mention"
+      },
+      {
+        "offset": 653,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5431390559912614642"
+      }
+    ],
+    "media_group_id": null,
+    "chat_id": -1004468214616,
+    "message_ids": [
+      839
+    ],
+    "update_ids": [
+      378304731
+    ],
+    "retry_count": 0
+  },
+  {
+    "type": "video",
+    "video_file_id": "BAACAgIAAyEFAAMBClOLWAACA0hqrQrze5wZhfKuqQ5bBSC4hdXOnAACiKEAAo3kaElpr3fgVP1VEz0E",
+    "video_file_size": 6198462,
+    "caption": "Neuralink released a demonstration video showing its thought-to-speech technology in action. In the clip, the interface successfully translates neural signals as the user attempts to say “I-I love you.”\n\nThe clip offers a brief look at Neuralink’s system, illustrating how it can interpret brain activity and convert those signals into corresponding speech. No further statements or evaluations have been provided at this stage.\n\n📰 @aipost",
+    "entities": [
+      {
+        "offset": 430,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5363988332466438547"
+      },
+      {
+        "offset": 433,
+        "length": 7,
+        "type": "mention"
+      }
+    ],
+    "media_group_id": null,
+    "chat_id": -1004468214616,
+    "message_ids": [
+      840
+    ],
+    "update_ids": [
+      378304732
+    ],
+    "retry_count": 0
+  },
+  {
+    "type": "video",
+    "video_file_id": "BAACAgIAAyEFAAMBClOLWAACA0lqrQsAAURXWRanashHMRYYDLHv0JYAAhuuAALMrmBJqMduimzSS5E9BA",
+    "video_file_size": 4691007,
+    "caption": "🧠 Professor calls Anthropic “a cult” and says he fears it more than AI\n\nPedro Domingos, professor emeritus of computer science, says “the folks at Anthropic treat their AI, Claude, as if it's a human being. Some of them even treat it as if it's a god and worship it.”  \n\nHe says they held a “funeral” for a discontinued model version, let Claude publish its own essays and poems, and compares this to “crazy California cults” waiting for UFOs. Domingos concludes: “Honestly, I'm much more worried about Anthropic than I'm worried about AI.”\n\n@aipost🥇",
+    "entities": [
+      {
+        "offset": 3,
+        "length": 68,
+        "type": "bold"
+      },
+      {
+        "offset": 285,
+        "length": 49,
+        "type": "bold"
+      },
+      {
+        "offset": 543,
+        "length": 7,
+        "type": "mention"
+      },
+      {
+        "offset": 550,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5436284348728893999"
+      }
+    ],
+    "media_group_id": null,
+    "chat_id": -1004468214616,
+    "message_ids": [
+      841
+    ],
+    "update_ids": [
+      378304733
     ],
     "retry_count": 0
   }
