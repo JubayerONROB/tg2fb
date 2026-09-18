@@ -1,34 +1,5 @@
 [
   {
-    "type": "photo",
-    "photo_file_ids": [
-      "AgACAgQAAyEFAAMBClOLWAACArxqnnga6lqLw2T-4ZS42YvfGvFF7AACSBFrG2yJ8FAnq5VACG6s7AEAAwIAA3kAAz0E"
-    ],
-    "caption": "NVIDIA CEO Jensen Huang said “AGI has arrived” and that GPT-6 Astra was trained on 100K+ NVIDIA Grace Blackwell NVLink72 GPUs.\n\n@aipost 🏴",
-    "entities": [
-      {
-        "offset": 128,
-        "length": 7,
-        "type": "mention"
-      },
-      {
-        "offset": 136,
-        "length": 2,
-        "type": "custom_emoji",
-        "custom_emoji_id": "5431390559912614642"
-      }
-    ],
-    "media_group_id": null,
-    "chat_id": -1004468214616,
-    "message_ids": [
-      700
-    ],
-    "update_ids": [
-      378304592
-    ],
-    "retry_count": 0
-  },
-  {
     "type": "video",
     "video_file_id": "BAACAgIAAyEFAAMBClOLWAACAr1qnng0lg_JV93-u_cCmjgJF55xgwACwKsAAs2Q4UgYIsZBCe9XbD0E",
     "video_file_size": 4229568,
