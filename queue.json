@@ -1,39 +1,5 @@
 [
   {
-    "type": "video",
-    "video_file_id": "BAACAgQAAyEFAAMBClOLWAACArlqnj1_OjmdqV0KWM8CrtFuAAFvJtYAAk0iAAJsifBQzzdTeqTfE789BA",
-    "video_file_size": 10742157,
-    "caption": "🇩🇪 Germany’s Merz says germany is building data centers at an unprecedented scale. \n\n@aipost 🏴",
-    "entities": [
-      {
-        "offset": 0,
-        "length": 4,
-        "type": "custom_emoji",
-        "custom_emoji_id": "5409360418520967565"
-      },
-      {
-        "offset": 87,
-        "length": 7,
-        "type": "mention"
-      },
-      {
-        "offset": 95,
-        "length": 2,
-        "type": "custom_emoji",
-        "custom_emoji_id": "5431390559912614642"
-      }
-    ],
-    "media_group_id": null,
-    "chat_id": -1004468214616,
-    "message_ids": [
-      697
-    ],
-    "update_ids": [
-      378304589
-    ],
-    "retry_count": 0
-  },
-  {
     "type": "photo",
     "photo_file_ids": [
       "AgACAgIAAyEFAAMBClOLWAACArpqnkEDEzImDrQnKVA62tz0OGCnjAACtCNrG_Ia6Ugl7-EcvipRUQEAAwIAA3kAAz0E"
