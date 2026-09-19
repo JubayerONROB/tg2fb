@@ -2,52 +2,6 @@
   {
     "type": "photo",
     "photo_file_ids": [
-      "AgACAgQAAyEFAAMBClOLWAACAsJqnrD56BkirhcwX8pC2d3SDwfg0QACMxFrG2yJ8FB-7KsY1SyDmgEAAwIAA3gAAz0E"
-    ],
-    "caption": "❗️OpenAI’s chief scientist says AI labs may need to slow down\n\nOpenAI chief scientist Jakub Pachocki is sounding the alarm: AI labs may not be able to keep scaling frontier models at full speed for much longer.\n\nHe’s calling for voluntary slowdowns until the industry has shared safety standards in place and says OpenAI could even choose to pause further scaling on its own if necessary.\n\nAnd his warnings get pretty intense: \n\n• “We will actually see machines meaningfully smarter than ourselves in our lifetime.”\n\n• “I am concerned no one is prepared for the consequences of a continued rapid rise in machine intelligence.”\n\n• “The models are becoming superhuman in their ability to break in and out of computer systems.”\n\nAnd the biggest warning:\n\n“No lab has solved alignment and monitoring to a sufficient degree to continue responsibly scaling at maximum speed for much longer.”\n\nSource. \n\n@aipost 🏴",
-    "entities": [
-      {
-        "offset": 0,
-        "length": 2,
-        "type": "custom_emoji",
-        "custom_emoji_id": "5289761612440310918"
-      },
-      {
-        "offset": 2,
-        "length": 59,
-        "type": "bold"
-      },
-      {
-        "offset": 887,
-        "length": 8,
-        "type": "text_link",
-        "url": "https://openai.com/index/an-alien-mind/"
-      },
-      {
-        "offset": 897,
-        "length": 7,
-        "type": "mention"
-      },
-      {
-        "offset": 905,
-        "length": 2,
-        "type": "custom_emoji",
-        "custom_emoji_id": "5431390559912614642"
-      }
-    ],
-    "media_group_id": null,
-    "chat_id": -1004468214616,
-    "message_ids": [
-      706
-    ],
-    "update_ids": [
-      378304598
-    ],
-    "retry_count": 0
-  },
-  {
-    "type": "photo",
-    "photo_file_ids": [
       "AgACAgIAAyEFAAMBClOLWAACAsNqnrEe9sxONBjGNZyYO2wFBVOhZwACWiBrG8Rx2EgTY6hQ1FhFIwEAAwIAA3kAAz0E"
     ],
     "caption": "🧠 Every Developer’s App Evolution\n\nIt starts with Minecraft and Subway Surfers, then moves to Fortnite and Instagram.\n\nOne day, the screen is full of ChatGPT, GitHub, VS Code, Notion, plus 17 more tools “for work.”\n\n📊@tech",
