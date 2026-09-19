@@ -1,44 +1,5 @@
 [
   {
-    "type": "video",
-    "video_file_id": "BAACAgQAAyEFAAMBClOLWAACAsRqnrE907wqvzmT1WA519We51PUrAACbCIAAmyJ8FBobICs6qXYmz0E",
-    "video_file_size": 18643243,
-    "caption": "🥺 Sam Altman on Bloomberg Television:\n\nGPT-6 Astra is not the model that was paused over cybersecurity concerns; the paused model is a future model.\n\n\"Astra has been done training for a while. The model that we recently talked about pausing, uh, is a future model. But with Astra, we did hit cyber-critical.\"\n\n@aipost 🏴",
-    "entities": [
-      {
-        "offset": 0,
-        "length": 2,
-        "type": "custom_emoji",
-        "custom_emoji_id": "5291894093767542370"
-      },
-      {
-        "offset": 3,
-        "length": 35,
-        "type": "bold"
-      },
-      {
-        "offset": 311,
-        "length": 7,
-        "type": "mention"
-      },
-      {
-        "offset": 319,
-        "length": 2,
-        "type": "custom_emoji",
-        "custom_emoji_id": "5431390559912614642"
-      }
-    ],
-    "media_group_id": null,
-    "chat_id": -1004468214616,
-    "message_ids": [
-      708
-    ],
-    "update_ids": [
-      378304600
-    ],
-    "retry_count": 0
-  },
-  {
     "type": "album",
     "photo_file_ids": [
       "AgACAgQAAyEFAAMBClOLWAACAsVqn5mSkKCqpMdLncPTfIjN_Ub8OQAC5BFrG9_o-VDmLdImQXqD6gEAAwIAA3gAAz0E",
@@ -6027,6 +5988,129 @@
     ],
     "update_ids": [
       378304745
+    ],
+    "retry_count": 0
+  },
+  {
+    "type": "album",
+    "photo_file_ids": [
+      "AgACAgQAAyEFAAMBClOLWAACA1ZqrwKrfhYAARylthYTCc8p83bhHLAAAkgOaxvYcnhRiqQ13Jk4tGcBAAMCAANtAAM9BA",
+      "AgACAgQAAyEFAAMBClOLWAACA1dqrwKrenhxfDsVhe9X6e3SY0OdZAACSQ5rG9hyeFE1xHgeY7zXfQEAAwIAA3gAAz0E"
+    ],
+    "caption": "🇺🇸 The New York Times accuses OpenAI of using “deceptive” methods to scrape paywalled content. \n\nNewly unsealed court filings detail an internal exchange in which OpenAI researcher Nick Ryder told President Greg Brockman about “a hack to get around nytimes paywall” while discussing efforts to scrape the site. Brockman replied: “ah nice.”\n\nThe filings also contain explosive internal warnings about AI’s impact on journalism. A Microsoft executive described AI training as “the largest theft of labor in human history.” \n\nOpenAI’s ChatGPT chief Nick Turley reportedly acknowledged that AI products were “largely substitutive, period” and could become “more and more substitutive as they get better.”\n\n@aipost 🏴",
+    "entities": [
+      {
+        "offset": 0,
+        "length": 4,
+        "type": "bold"
+      },
+      {
+        "offset": 0,
+        "length": 4,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5202021044105257611"
+      },
+      {
+        "offset": 4,
+        "length": 93,
+        "type": "bold"
+      },
+      {
+        "offset": 704,
+        "length": 7,
+        "type": "mention"
+      },
+      {
+        "offset": 712,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5431390559912614642"
+      }
+    ],
+    "media_group_id": "14318835039839725",
+    "chat_id": -1004468214616,
+    "message_ids": [
+      854,
+      855
+    ],
+    "update_ids": [
+      378304746,
+      378304747
+    ],
+    "retry_count": 0
+  },
+  {
+    "type": "video",
+    "video_file_id": "BAACAgQAAyEFAAMBClOLWAACA1hqrwLI3uIObEtYNQr9iFNYJxsdlwACfx4AAthyeFF_KxZArZJ6pD0E",
+    "video_file_size": 3932357,
+    "caption": "🤣🤣\n\n@aipost 🏴",
+    "entities": [
+      {
+        "offset": 0,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5370712413005945913"
+      },
+      {
+        "offset": 2,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5370712413005945913"
+      },
+      {
+        "offset": 6,
+        "length": 7,
+        "type": "mention"
+      },
+      {
+        "offset": 14,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5431390559912614642"
+      }
+    ],
+    "media_group_id": null,
+    "chat_id": -1004468214616,
+    "message_ids": [
+      856
+    ],
+    "update_ids": [
+      378304748
+    ],
+    "retry_count": 0
+  },
+  {
+    "type": "photo",
+    "photo_file_ids": [
+      "AgACAgQAAyEFAAMBClOLWAACA1lqrwLXjfLOqW57PbD6AqJGtdNRygAC3w5rG9hyeFEpsLaLOLhevgEAAwIAA3gAAz0E"
+    ],
+    "caption": "🇺🇸 President Trump says the term \"Artificial Intelligence\" should be renamed to either:\n\nSuperior Intelligence (SI)\nExtreme Intelligence (EI)\nSupreme Intelligence (SI)\n\nPresident Trump launches a poll to select a new name.\n\n@aipost 🏴",
+    "entities": [
+      {
+        "offset": 0,
+        "length": 4,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5202021044105257611"
+      },
+      {
+        "offset": 226,
+        "length": 7,
+        "type": "mention"
+      },
+      {
+        "offset": 234,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5431390559912614642"
+      }
+    ],
+    "media_group_id": null,
+    "chat_id": -1004468214616,
+    "message_ids": [
+      857
+    ],
+    "update_ids": [
+      378304749
     ],
     "retry_count": 0
   }
