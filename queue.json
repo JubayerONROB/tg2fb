@@ -1,22 +1,6 @@
 [
   {
     "type": "video",
-    "video_file_id": "BAACAgIAAyEFAAMBClOLWAACAr9qnng0Z5wNviLoTnCUwG8wIhxvVAACwqsAAs2Q4UiSYWmgjMYYlz0E",
-    "video_file_size": 8853146,
-    "caption": "",
-    "entities": [],
-    "media_group_id": "14310162848665581",
-    "chat_id": -1004468214616,
-    "message_ids": [
-      703
-    ],
-    "update_ids": [
-      378304595
-    ],
-    "retry_count": 0
-  },
-  {
-    "type": "video",
     "video_file_id": "BAACAgIAAyEFAAMBClOLWAACAsBqnng0F0d8dM_76h5ht5l9h6ySqgACw6sAAs2Q4UhUOSF2Di9brT0E",
     "video_file_size": 1909573,
     "caption": "",
@@ -5871,6 +5855,94 @@
     ],
     "update_ids": [
       378304738
+    ],
+    "retry_count": 0
+  },
+  {
+    "type": "video",
+    "video_file_id": "BAACAgQAAyEFAAMBClOLWAACA09qrgwEDa-Iir-uCLvfKhRaSHMWBgACwx8AAthyaFH3a_fOjSeITD0E",
+    "video_file_size": 20533316,
+    "caption": "😐 Jensen Huang: The time has come for robots and this could become the largest industry of all.\n\n“By the end of this decade, the world is going to be at least 50 million workers short.”\n\n“We’re probably gonna have to pay robots $50,000 a year to come to work.”\n\n“Every car is already a robot.”\n\n“Now we’re building general robots.”\n\n“Physical AI and robotics are moving so fast.”\n\n“Everybody pay attention to this space.”\n\n“This could very well likely be the largest industry of all.”\n\n\n@aipost 🏴",
+    "entities": [
+      {
+        "offset": 0,
+        "length": 2,
+        "type": "bold"
+      },
+      {
+        "offset": 0,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5292058161518251626"
+      },
+      {
+        "offset": 2,
+        "length": 94,
+        "type": "bold"
+      },
+      {
+        "offset": 98,
+        "length": 388,
+        "type": "blockquote"
+      },
+      {
+        "offset": 488,
+        "length": 7,
+        "type": "mention"
+      },
+      {
+        "offset": 496,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5431390559912614642"
+      }
+    ],
+    "media_group_id": null,
+    "chat_id": -1004468214616,
+    "message_ids": [
+      847
+    ],
+    "update_ids": [
+      378304739
+    ],
+    "retry_count": 0
+  },
+  {
+    "type": "video",
+    "video_file_id": "BAACAgQAAyEFAAMBClOLWAACA1BqrgwLhaeYR5iFDndU6CnPZPYEwQACwh4AAthycFEFCaYE_h2xGD0E",
+    "video_file_size": 25885748,
+    "caption": "🤖 Astra just got absolutely destroyed by Minecraft. \n\nFor days, Vals AI livestreamed Astra playing Minecraft and the AI was making serious progress.\n\nIt built a semi-automatic blaze farm, collected 6 Blaze Rods, found a Warped Forest, killed more than 6 Endermen and walked away with 3 precious Ender Pearls.\n\nThen one creeper changed everything. It blew up the chest where Astra had stored its entire haul. Gone. Blaze Rods. Pearls. Everything.\n\nAstra immediately wrote itself a warning: “ALWAYS CARRY CRITICAL ITEMS… don’t store in unguarded chest ever again.”\n\nAnd apparently, that was enough. Astra refused to continue playing. Instead, it spent the rest of the session quietly planting potatoes.\n\n@aipost 🏴",
+    "entities": [
+      {
+        "offset": 0,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5397681122542893003"
+      },
+      {
+        "offset": 3,
+        "length": 50,
+        "type": "bold"
+      },
+      {
+        "offset": 703,
+        "length": 7,
+        "type": "mention"
+      },
+      {
+        "offset": 711,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5431390559912614642"
+      }
+    ],
+    "media_group_id": null,
+    "chat_id": -1004468214616,
+    "message_ids": [
+      848
+    ],
+    "update_ids": [
+      378304740
     ],
     "retry_count": 0
   }
