@@ -1,48 +1,5 @@
 [
   {
-    "type": "album",
-    "photo_file_ids": [
-      "AgACAgQAAyEFAAMBClOLWAACAsVqn5mSkKCqpMdLncPTfIjN_Ub8OQAC5BFrG9_o-VDmLdImQXqD6gEAAwIAA3gAAz0E",
-      "AgACAgQAAyEFAAMBClOLWAACAsZqn5mS7-qeOBTx6hXwzLAUjaonhQAC5RFrG9_o-VABbqIK0sFMBAEAAwIAA3gAAz0E"
-    ],
-    "caption": "💰 The AI job bust just turned into a boom\n\nTwo years ago, AI was supposed to wipe out software jobs. Instead, developer hiring has bounced back above trend and developers are now the fastest-growing job category in the latest data from The Economist.\n\nBy 2026, AI-related white-collar work is around 700,000 jobs above where normal hiring would have put it.\n\nAnd the boom isn’t limited to software. AI data centers are also creating roughly 300,000 extra jobs for electricians, plumbers and construction workers.\n\nAI didn’t just replace jobs. It changed which skills companies are willing to pay for. The developers getting hired today are increasingly the ones who know how to work with AI, direct AI and build with AI.\n\nAnd this pattern could spread far beyond coding. AI may replace some tasks, but people who know how to use it could become even more valuable.\n\n@aipost 🏴",
-    "entities": [
-      {
-        "offset": 0,
-        "length": 2,
-        "type": "custom_emoji",
-        "custom_emoji_id": "5289964193162759223"
-      },
-      {
-        "offset": 3,
-        "length": 39,
-        "type": "bold"
-      },
-      {
-        "offset": 867,
-        "length": 7,
-        "type": "mention"
-      },
-      {
-        "offset": 875,
-        "length": 2,
-        "type": "custom_emoji",
-        "custom_emoji_id": "5431390559912614642"
-      }
-    ],
-    "media_group_id": "14310755475736845",
-    "chat_id": -1004468214616,
-    "message_ids": [
-      709,
-      710
-    ],
-    "update_ids": [
-      378304601,
-      378304602
-    ],
-    "retry_count": 0
-  },
-  {
     "type": "photo",
     "photo_file_ids": [
       "AgACAgQAAyEFAAMBClOLWAACAsdqn5mif8vCYv6YJ2xfch2uGOMTDQAC5hFrG9_o-VBOVXOo8bxKlQEAAwIAA3cAAz0E"
@@ -6111,6 +6068,50 @@
     ],
     "update_ids": [
       378304749
+    ],
+    "retry_count": 0
+  },
+  {
+    "type": "video",
+    "video_file_id": "BAACAgQAAyEFAAMBClOLWAACA1pqry9eLcSoRWvZX1l9ZXII7d-2jAAC1R4AAthyeFFe4DhP3pREWD0E",
+    "video_file_size": 18321140,
+    "caption": "🙃 Elon Musk: AI has given me nightmares for days in a row.\n\n“If I could, I would certainly slow down AI and robotics.”\n\n“It’s advancing at a very rapid pace, whether I like it or not.”\n\n“Is AI what keeps you up at night?”\n\n“I’ve had a lot of AI nightmares.”\n\n“I’ve had AI nightmares many days in a row.”\n\n“What am I supposed to do about it?”\n\n@aipost 🏴",
+    "entities": [
+      {
+        "offset": 0,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5289701946754633864"
+      },
+      {
+        "offset": 3,
+        "length": 56,
+        "type": "bold"
+      },
+      {
+        "offset": 61,
+        "length": 281,
+        "type": "blockquote"
+      },
+      {
+        "offset": 344,
+        "length": 7,
+        "type": "mention"
+      },
+      {
+        "offset": 352,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5431390559912614642"
+      }
+    ],
+    "media_group_id": null,
+    "chat_id": -1004468214616,
+    "message_ids": [
+      858
+    ],
+    "update_ids": [
+      378304750
     ],
     "retry_count": 0
   }
