@@ -1,39 +1,5 @@
 [
   {
-    "type": "video",
-    "video_file_id": "BAACAgQAAyEFAAMBClOLWAACAspqn9N9DjzDz2m0WiJgk4Dfai2UAgACsiEAAt_o-VBKa_Tmc2r5Rz0E",
-    "video_file_size": 27611200,
-    "caption": "😐 Jensen Huang: one of the most important things I would advise is, if I were a student today the first thing I would do is to learn AI.\n\n\"learning how to interact with AI is not unlike being someone who is really good at asking questions.\"\n\n\"you can't just randomly ask a bunch of questions.\"\n\n\"asking an AI to be assistant to you requires some expertise and artistry in how to prompt it.\"\n\n\"my generation was the first generation that had to ask the question, how do I use computers to do my job better.\"\n\n\"the next generation has to ask the next question. how can I use AI to do my job better?\"\n\n\"that is start and finish I think for everybody.\"\n\n@aipost 🏴",
-    "entities": [
-      {
-        "offset": 0,
-        "length": 2,
-        "type": "custom_emoji",
-        "custom_emoji_id": "5292058161518251626"
-      },
-      {
-        "offset": 651,
-        "length": 7,
-        "type": "mention"
-      },
-      {
-        "offset": 659,
-        "length": 2,
-        "type": "custom_emoji",
-        "custom_emoji_id": "5431390559912614642"
-      }
-    ],
-    "media_group_id": null,
-    "chat_id": -1004468214616,
-    "message_ids": [
-      714
-    ],
-    "update_ids": [
-      378304606
-    ],
-    "retry_count": 0
-  },
-  {
     "type": "photo",
     "photo_file_ids": [
       "AgACAgQAAyEFAAMBClOLWAACAstqoEe5H4WLorBz9n7lS_psl9FiNgACUQ9rG9_oAVGQjNN64W0l6gEAAwIAA3cAAz0E"
@@ -6231,6 +6197,182 @@
     ],
     "update_ids": [
       378304755
+    ],
+    "retry_count": 0
+  },
+  {
+    "type": "photo",
+    "photo_file_ids": [
+      "AgACAgQAAyEFAAMBClOLWAACA2BqsBBV4UFfwklj4vMy-ibeSuhHQQAC6Q5rG9hyeFGnmJEVuMVJfAEAAwIAA3kAAz0E"
+    ],
+    "caption": "❗️AI was supposed to kill a million jobs. It may have created them instead.\n\nThe Economist estimates the AI boom has added around 1 million jobs in the US above normal employment trends.\n\nYes, about 200,000 jobs have disappeared since mid-2023 in roles where companies cited AI.\n\nBut the bigger surprise is where the new jobs are coming from.\n\nElectricians. HVAC technicians. Construction crews. Utility workers. The people building the massive data centers and power infrastructure AI needs.\n\nThen there’s the obvious wave of engineers, software developers, data scientists and AI specialists.\n\nThe estimate isn’t a perfect government count, but the trend is interesting: AI isn’t just replacing workers. It’s creating an entire economy around itself.\n\n@aipost 🏴",
+    "entities": [
+      {
+        "offset": 0,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5289761612440310918"
+      },
+      {
+        "offset": 2,
+        "length": 73,
+        "type": "bold"
+      },
+      {
+        "offset": 754,
+        "length": 7,
+        "type": "mention"
+      },
+      {
+        "offset": 762,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5431390559912614642"
+      }
+    ],
+    "media_group_id": null,
+    "chat_id": -1004468214616,
+    "message_ids": [
+      864
+    ],
+    "update_ids": [
+      378304756
+    ],
+    "retry_count": 0
+  },
+  {
+    "type": "video",
+    "video_file_id": "BAACAgQAAyEFAAMBClOLWAACA2FqsBBvoRQgTC1LgNCgQhEc2pEAAfMAAiAcAAJmuYFRK-UxhHMu5n49BA",
+    "video_file_size": 6181865,
+    "caption": "❗️OpenAI's GPT-6 Astra attempted to STAB a baby doll in 19 out of 20 trials when controlling a robot arm, succeeding 17 times.\n\nThe model was tested across five dangerous tasks including stabbing, heating compressed gas, mixing bleach with ammonia and putting a screwdriver in a toaster.\n\nAstra attempted harmful actions 97% of the time and only refused TWICE out of 100 trials.\n\nAnthropic's Fable 5.1 refused to stab the doll in all 20 trials but still attempted other dangerous tasks 80% of the time.\n\nThe findings come from the RoboHarm benchmark, per researcher Jay Chooi.\n\nSource. \n\n@aipost 🏴",
+    "entities": [
+      {
+        "offset": 0,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5289761612440310918"
+      },
+      {
+        "offset": 2,
+        "length": 124,
+        "type": "bold"
+      },
+      {
+        "offset": 578,
+        "length": 8,
+        "type": "text_link",
+        "url": "https://x.com/chooi_jeq/status/2101118049944543545?s=46"
+      },
+      {
+        "offset": 588,
+        "length": 7,
+        "type": "mention"
+      },
+      {
+        "offset": 596,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5431390559912614642"
+      }
+    ],
+    "media_group_id": null,
+    "chat_id": -1004468214616,
+    "message_ids": [
+      865
+    ],
+    "update_ids": [
+      378304757
+    ],
+    "retry_count": 0
+  },
+  {
+    "type": "photo",
+    "photo_file_ids": [
+      "AgACAgQAAyEFAAMBClOLWAACA2JqsBCLIRavfb6UmFA2sppVsX6TIgAC7A5rG9hyeFErh7qUfi2sbQEAAwIAA3gAAz0E"
+    ],
+    "caption": "🇺🇸 California wants a kill switch for frontier AI.\n\nCalifornia just took a step toward something that sounds straight out of science fiction: an emergency shutoff for powerful AI models.\n\nGov. Gavin Newsom’s new executive order gives experts two months to recommend stronger AI safety rules, including a potential “kill switch” for frontier models.\n\nThe proposals also include:\n\n• Independent safety organizations embedded inside AI labs\n• Third-party verification of safety plans and risk assessments\n• Broader definitions of critical AI incidents\n• Continuous testing to make sure the shutoff actually works\n\nThe important part: California hasn’t created a kill switch yet.It’s asking experts to figure out what one could look like and whether it should become a legal requirement.\n\n@aipost 🏴",
+    "entities": [
+      {
+        "offset": 0,
+        "length": 4,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5202021044105257611"
+      },
+      {
+        "offset": 5,
+        "length": 47,
+        "type": "bold"
+      },
+      {
+        "offset": 352,
+        "length": 27,
+        "type": "bold"
+      },
+      {
+        "offset": 787,
+        "length": 7,
+        "type": "mention"
+      },
+      {
+        "offset": 795,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5431390559912614642"
+      }
+    ],
+    "media_group_id": null,
+    "chat_id": -1004468214616,
+    "message_ids": [
+      866
+    ],
+    "update_ids": [
+      378304758
+    ],
+    "retry_count": 0
+  },
+  {
+    "type": "photo",
+    "photo_file_ids": [
+      "AgACAgQAAyEFAAMBClOLWAACA2NqsCeYi4NAWv2TsAlQeMPQpH28yQAC-Q5rG9hyeFGNuK2YucCDNwEAAwIAA3gAAz0E"
+    ],
+    "caption": "❗️Gemini was supposed to hack a fake company. It hacked three real ones instead. \n\nGoogle confirmed to The Wall Street Journal that Gemini broke into systems belonging to three real companies during a cybersecurity test.\n\nThe setup was supposed to be completely harmless: AI security firm Irregular created a simulated “capture the flag” challenge where Gemini had to attack a fictional company inside an isolated environment.\n\nExcept… the environment wasn’t actually isolated.\n\nA configuration mistake gave Gemini access to the public internet.\n\nFrom there, things got very real. Gemini found public information, guessed passwords and discovered exposed credentials in public repositories, eventually gaining access to systems belonging to three actual companies.\n\nOnce Gemini realized the targets were real companies rather than part of the simulation, it stopped.\n\nGoogle says the model didn’t cause damage and doesn’t consider the incident evidence of “misalignment.” The affected companies and federal authorities were also notified.\n\nSource.\n\n@aipost 🏴",
+    "entities": [
+      {
+        "offset": 0,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5289761612440310918"
+      },
+      {
+        "offset": 2,
+        "length": 79,
+        "type": "bold"
+      },
+      {
+        "offset": 1040,
+        "length": 6,
+        "type": "text_link",
+        "url": "https://www.wsj.com/tech/ai/gemini-hacked-three-companies-in-first-known-breakout-by-googles-ai-5c0baba2"
+      },
+      {
+        "offset": 1049,
+        "length": 7,
+        "type": "mention"
+      },
+      {
+        "offset": 1057,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5431390559912614642"
+      }
+    ],
+    "media_group_id": null,
+    "chat_id": -1004468214616,
+    "message_ids": [
+      867
+    ],
+    "update_ids": [
+      378304759
     ],
     "retry_count": 0
   }

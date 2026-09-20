@@ -3963,5 +3963,39 @@
       378304604
     ],
     "retry_count": 0
+  },
+  {
+    "type": "video",
+    "video_file_id": "BAACAgQAAyEFAAMBClOLWAACAspqn9N9DjzDz2m0WiJgk4Dfai2UAgACsiEAAt_o-VBKa_Tmc2r5Rz0E",
+    "video_file_size": 27611200,
+    "caption": "😐 Jensen Huang: one of the most important things I would advise is, if I were a student today the first thing I would do is to learn AI.\n\n\"learning how to interact with AI is not unlike being someone who is really good at asking questions.\"\n\n\"you can't just randomly ask a bunch of questions.\"\n\n\"asking an AI to be assistant to you requires some expertise and artistry in how to prompt it.\"\n\n\"my generation was the first generation that had to ask the question, how do I use computers to do my job better.\"\n\n\"the next generation has to ask the next question. how can I use AI to do my job better?\"\n\n\"that is start and finish I think for everybody.\"\n\n@aipost 🏴",
+    "entities": [
+      {
+        "offset": 0,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5292058161518251626"
+      },
+      {
+        "offset": 651,
+        "length": 7,
+        "type": "mention"
+      },
+      {
+        "offset": 659,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5431390559912614642"
+      }
+    ],
+    "media_group_id": null,
+    "chat_id": -1004468214616,
+    "message_ids": [
+      714
+    ],
+    "update_ids": [
+      378304606
+    ],
+    "retry_count": 0
   }
 ]
