@@ -3924,5 +3924,44 @@
       378304579
     ],
     "retry_count": 0
+  },
+  {
+    "type": "video",
+    "video_file_id": "BAACAgQAAyEFAAMBClOLWAACAshqn5mpN0FNFbdjEgABdhzYkbSL1swAAoshAALf6PlQg9KzYJkX0E49BA",
+    "video_file_size": 31656597,
+    "caption": "❗️Unitree releases its 1st world model-powered autonomous humanoid robot combat video. \n\nUnifoLM-X2-1.0 replaces the human pilot in humanoid fighting with real-time prediction and planning.\n\nA very meaningful jump from Unitree's existing G1-Boxing setup, becuase here, a world model predicts how physical interactions may unfold before the robot acts, giving its policy a forecast against which to choose actions.\n\nFor fighting and many more practical situations, latency becomes so critical as any useful plan must update quickly when an opponent moves, strikes, or disrupts the robot's balance.\n\nUnitree says X2-1.0 can run that loop in real time.\n\n@aipost 🏴",
+    "entities": [
+      {
+        "offset": 0,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5289761612440310918"
+      },
+      {
+        "offset": 2,
+        "length": 85,
+        "type": "bold"
+      },
+      {
+        "offset": 651,
+        "length": 7,
+        "type": "mention"
+      },
+      {
+        "offset": 659,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5431390559912614642"
+      }
+    ],
+    "media_group_id": null,
+    "chat_id": -1004468214616,
+    "message_ids": [
+      712
+    ],
+    "update_ids": [
+      378304604
+    ],
+    "retry_count": 0
   }
 ]

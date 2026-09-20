@@ -1,45 +1,6 @@
 [
   {
     "type": "video",
-    "video_file_id": "BAACAgQAAyEFAAMBClOLWAACAshqn5mpN0FNFbdjEgABdhzYkbSL1swAAoshAALf6PlQg9KzYJkX0E49BA",
-    "video_file_size": 31656597,
-    "caption": "❗️Unitree releases its 1st world model-powered autonomous humanoid robot combat video. \n\nUnifoLM-X2-1.0 replaces the human pilot in humanoid fighting with real-time prediction and planning.\n\nA very meaningful jump from Unitree's existing G1-Boxing setup, becuase here, a world model predicts how physical interactions may unfold before the robot acts, giving its policy a forecast against which to choose actions.\n\nFor fighting and many more practical situations, latency becomes so critical as any useful plan must update quickly when an opponent moves, strikes, or disrupts the robot's balance.\n\nUnitree says X2-1.0 can run that loop in real time.\n\n@aipost 🏴",
-    "entities": [
-      {
-        "offset": 0,
-        "length": 2,
-        "type": "custom_emoji",
-        "custom_emoji_id": "5289761612440310918"
-      },
-      {
-        "offset": 2,
-        "length": 85,
-        "type": "bold"
-      },
-      {
-        "offset": 651,
-        "length": 7,
-        "type": "mention"
-      },
-      {
-        "offset": 659,
-        "length": 2,
-        "type": "custom_emoji",
-        "custom_emoji_id": "5431390559912614642"
-      }
-    ],
-    "media_group_id": null,
-    "chat_id": -1004468214616,
-    "message_ids": [
-      712
-    ],
-    "update_ids": [
-      378304604
-    ],
-    "retry_count": 0
-  },
-  {
-    "type": "video",
     "video_file_id": "BAACAgQAAyEFAAMBClOLWAACAslqn6oqVU0_Mn0mA5RVQQ1d6kERSgAClSEAAt_o-VDWCm1sYpcTJT0E",
     "video_file_size": 6597718,
     "caption": "Current AI Race Situation.\n\n@aipost 🏴",
@@ -6066,6 +6027,238 @@
     ],
     "update_ids": [
       378304750
+    ],
+    "retry_count": 0
+  },
+  {
+    "type": "album",
+    "photo_file_ids": [
+      "AgACAgQAAyEFAAMBClOLWAACA1tqr4cnWyeUGz2dKRKka-qFBeP3swAC4w5rG9hyeFFWtzzRafIuiwEAAwIAA3gAAz0E",
+      "AgACAgQAAyEFAAMBClOLWAACA1xqr4cniAKXw63zmKcyJZaarjesFwAC5A5rG9hyeFHM4r-r9ef6qAEAAwIAA20AAz0E"
+    ],
+    "caption": "🤖 Anthropic may already be preparing another Claude.\n\nReuters says Anthropic is considering a new model as GPT-6 Astra starts putting pressure on Claude.\n\nAstra is already accounting for 13% of tracked enterprise AI spending, versus 8% for Claude Fable. Reuters also reports that Anthropic is evaluating the safety of its next model as it weighs a potential release.\n\nJust days ago, Dario Amodei argued that frontier AI development needs to slow down. Now Anthropic may have to accelerate again simply to keep pace with OpenAI. \n\n@aipost 🏴",
+    "entities": [
+      {
+        "offset": 0,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5208665212483310136"
+      },
+      {
+        "offset": 3,
+        "length": 50,
+        "type": "bold"
+      },
+      {
+        "offset": 531,
+        "length": 7,
+        "type": "mention"
+      },
+      {
+        "offset": 539,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5431390559912614642"
+      }
+    ],
+    "media_group_id": "14319106367027573",
+    "chat_id": -1004468214616,
+    "message_ids": [
+      859,
+      860
+    ],
+    "update_ids": [
+      378304751,
+      378304752
+    ],
+    "retry_count": 0
+  },
+  {
+    "type": "video",
+    "video_file_id": "BAACAgQAAyEFAAMBClOLWAACA11qr4cryyBg9ZqIS5mDyUTAGeH8JQAC1x4AAthyeFGy-fzliZfRWT0E",
+    "video_file_size": 12175829,
+    "caption": "🤖 Claude just got a serious workflow upgrade.\n\nYou can now kick off multiple tasks from a single Claude Code session, with Claude splitting the work across parallel threads.\n\nThe threads share project context and keep running in the cloud even after you close your laptop. So instead of babysitting one task at a time, Claude can keep grinding through several things in the background.\n\n\n@aipost 🏴",
+    "entities": [
+      {
+        "offset": 0,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5208665212483310136"
+      },
+      {
+        "offset": 3,
+        "length": 43,
+        "type": "bold"
+      },
+      {
+        "offset": 389,
+        "length": 7,
+        "type": "mention"
+      },
+      {
+        "offset": 397,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5431390559912614642"
+      }
+    ],
+    "media_group_id": null,
+    "chat_id": -1004468214616,
+    "message_ids": [
+      861
+    ],
+    "update_ids": [
+      378304753
+    ],
+    "retry_count": 0
+  },
+  {
+    "type": "photo",
+    "photo_file_ids": [
+      "AgACAgIAAyEFAAMBClOLWAACA15qr5sGSESxk2qhTALSHW6E5KvqSgACxRxrG_S9WEmNuQABBBGUVjUBAAMCAAN4AAM9BA"
+    ],
+    "caption": "🍏 iPhone 18 Pro Adds Photo Proof\n\nReference Image mode works only with the main camera on iPhone 18 Pro and Pro Max. It is unavailable in some countries, and older iPhones lack the required hardware.\n\nThe sensor signs each shot with a secret key embedded during production. A protected processor adds another signature, while Apple records which sensor belongs to each phone. Edits fail verification, and sensor firmware cannot change the captured data.\n\nApple usually adds a signed time mark every 15 minutes. The image is saved as a DNG digital negative, checked in Private Cloud Compute, and returned to Photos as a signed JPEG. It can be viewed on Apple devices running version 27.\n\n📊@tech",
+    "entities": [
+      {
+        "offset": 0,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5398012024003246287"
+      },
+      {
+        "offset": 3,
+        "length": 30,
+        "type": "bold"
+      },
+      {
+        "offset": 35,
+        "length": 20,
+        "type": "bold"
+      },
+      {
+        "offset": 91,
+        "length": 25,
+        "type": "bold"
+      },
+      {
+        "offset": 377,
+        "length": 23,
+        "type": "bold"
+      },
+      {
+        "offset": 500,
+        "length": 10,
+        "type": "bold"
+      },
+      {
+        "offset": 536,
+        "length": 20,
+        "type": "bold"
+      },
+      {
+        "offset": 569,
+        "length": 21,
+        "type": "bold"
+      },
+      {
+        "offset": 688,
+        "length": 2,
+        "type": "bold"
+      },
+      {
+        "offset": 688,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5449841756596101801"
+      },
+      {
+        "offset": 690,
+        "length": 5,
+        "type": "mention"
+      },
+      {
+        "offset": 690,
+        "length": 5,
+        "type": "bold"
+      }
+    ],
+    "media_group_id": null,
+    "chat_id": -1004468214616,
+    "message_ids": [
+      862
+    ],
+    "update_ids": [
+      378304754
+    ],
+    "retry_count": 0
+  },
+  {
+    "type": "photo",
+    "photo_file_ids": [
+      "AgACAgIAAyEFAAMBClOLWAACA19qr5sh4yCBTS0sqB-OvXFQu-3MZwAC5BxrGynvcUl4gZ-a4Wh2rAEAAwIAA3kAAz0E"
+    ],
+    "caption": "🤖 Anthropic Prepares Astra Rival\n\nReuters reports that Anthropic is safety-testing a new model that could launch soon.\n\nIt is meant to compete with Astra, just 1 week after Dario Amodei argued for slowing AI progress.\n\n📊@tech",
+    "entities": [
+      {
+        "offset": 0,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5208665212483310136"
+      },
+      {
+        "offset": 3,
+        "length": 30,
+        "type": "bold"
+      },
+      {
+        "offset": 56,
+        "length": 9,
+        "type": "bold"
+      },
+      {
+        "offset": 69,
+        "length": 26,
+        "type": "bold"
+      },
+      {
+        "offset": 149,
+        "length": 5,
+        "type": "bold"
+      },
+      {
+        "offset": 161,
+        "length": 6,
+        "type": "bold"
+      },
+      {
+        "offset": 220,
+        "length": 2,
+        "type": "bold"
+      },
+      {
+        "offset": 220,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5449841756596101801"
+      },
+      {
+        "offset": 222,
+        "length": 5,
+        "type": "mention"
+      },
+      {
+        "offset": 222,
+        "length": 5,
+        "type": "bold"
+      }
+    ],
+    "media_group_id": null,
+    "chat_id": -1004468214616,
+    "message_ids": [
+      863
+    ],
+    "update_ids": [
+      378304755
     ],
     "retry_count": 0
   }
