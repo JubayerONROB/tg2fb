@@ -2,52 +2,6 @@
   {
     "type": "photo",
     "photo_file_ids": [
-      "AgACAgQAAyEFAAMBClOLWAACAstqoEe5H4WLorBz9n7lS_psl9FiNgACUQ9rG9_oAVGQjNN64W0l6gEAAwIAA3cAAz0E"
-    ],
-    "caption": "😎 Sam Altman says we are entering the “revenge of the ideas guy” era.\n\nSam says he recently met someone who used GPT-5.6 to build software now sold to 50 people for $500/month. He says building it previously would have cost millions in software engineers.\n\nHe says GPT-6 Astra has reset the economics of starting a company. With Astra, “anyone who wants to have a company now has genius-level employees in every area of expertise.” He says even a full game for only a few thousand users can now make economic sense.\n\nHis message for engineers is pretty clear too: technical talent is still important, but simply knowing how to code is becoming less valuable as a differentiator. Altman says he now wants to fund people who deeply understand users even if they cannot code at all.\n\nSource. \n\n@aipost 🏴",
-    "entities": [
-      {
-        "offset": 0,
-        "length": 2,
-        "type": "custom_emoji",
-        "custom_emoji_id": "5289834369186299969"
-      },
-      {
-        "offset": 3,
-        "length": 67,
-        "type": "bold"
-      },
-      {
-        "offset": 782,
-        "length": 8,
-        "type": "text_link",
-        "url": "https://www.axios.com/2026/09/07/axios-interview-altman-touts-revenge-of-ideas-guy"
-      },
-      {
-        "offset": 792,
-        "length": 7,
-        "type": "mention"
-      },
-      {
-        "offset": 800,
-        "length": 2,
-        "type": "custom_emoji",
-        "custom_emoji_id": "5431390559912614642"
-      }
-    ],
-    "media_group_id": null,
-    "chat_id": -1004468214616,
-    "message_ids": [
-      715
-    ],
-    "update_ids": [
-      378304607
-    ],
-    "retry_count": 0
-  },
-  {
-    "type": "photo",
-    "photo_file_ids": [
       "AgACAgQAAyEFAAMBClOLWAACAsxqoEfI3XJ9-qL5CtfnIAu5FUmTfwACUg9rG9_oAVG3cSAr1ZORRQEAAwIAA3kAAz0E"
     ],
     "caption": "Someone needs to stop these AI companies. 😂\n\n@aipost 🏴",
