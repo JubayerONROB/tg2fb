@@ -1,40 +1,5 @@
 [
   {
-    "type": "photo",
-    "photo_file_ids": [
-      "AgACAgQAAyEFAAMBClOLWAACAsxqoEfI3XJ9-qL5CtfnIAu5FUmTfwACUg9rG9_oAVG3cSAr1ZORRQEAAwIAA3kAAz0E"
-    ],
-    "caption": "Someone needs to stop these AI companies. 😂\n\n@aipost 🏴",
-    "entities": [
-      {
-        "offset": 42,
-        "length": 2,
-        "type": "custom_emoji",
-        "custom_emoji_id": "5370953476635368811"
-      },
-      {
-        "offset": 46,
-        "length": 7,
-        "type": "mention"
-      },
-      {
-        "offset": 54,
-        "length": 2,
-        "type": "custom_emoji",
-        "custom_emoji_id": "5431390559912614642"
-      }
-    ],
-    "media_group_id": null,
-    "chat_id": -1004468214616,
-    "message_ids": [
-      716
-    ],
-    "update_ids": [
-      378304608
-    ],
-    "retry_count": 0
-  },
-  {
     "type": "video",
     "video_file_id": "BAACAgIAAyEFAAMBClOLWAACAs1qoEgBwHtDEYmbDkvnigOxQ-ExAwACUaEAAts46UglNyEwSWIXfz0E",
     "video_file_size": 6521203,
