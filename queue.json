@@ -1,90 +1,5 @@
 [
   {
-    "type": "photo",
-    "photo_file_ids": [
-      "AgACAgIAAyEFAAMBClOLWAACAs5qoEgTTmxJqS3TiEUnFIrgMc3eSgACwSFrG8cw-EjTtZRC2cvaRAEAAwIAA3cAAz0E"
-    ],
-    "caption": "🤖 ChatGPT Work Learns Your Writing Style\n\nChatGPT Work can now remember your preferred wording and capitalization, including a characteristic sign-off.\n\nConnect Gmail, Google Drive, Slack, or SharePoint so ChatGPT can analyze your work content and use its style in new texts. The setting is in Settings → Personalization → Writing style. It applies on web and mobile, and is available on all paid plans with ChatGPT Work access.\n\n📊@tech",
-    "entities": [
-      {
-        "offset": 0,
-        "length": 2,
-        "type": "custom_emoji",
-        "custom_emoji_id": "5397681122542893003"
-      },
-      {
-        "offset": 3,
-        "length": 38,
-        "type": "bold"
-      },
-      {
-        "offset": 43,
-        "length": 12,
-        "type": "bold"
-      },
-      {
-        "offset": 78,
-        "length": 36,
-        "type": "bold"
-      },
-      {
-        "offset": 128,
-        "length": 23,
-        "type": "bold"
-      },
-      {
-        "offset": 162,
-        "length": 41,
-        "type": "bold"
-      },
-      {
-        "offset": 249,
-        "length": 26,
-        "type": "bold"
-      },
-      {
-        "offset": 295,
-        "length": 42,
-        "type": "bold"
-      },
-      {
-        "offset": 389,
-        "length": 39,
-        "type": "bold"
-      },
-      {
-        "offset": 431,
-        "length": 2,
-        "type": "bold"
-      },
-      {
-        "offset": 431,
-        "length": 2,
-        "type": "custom_emoji",
-        "custom_emoji_id": "5449841756596101801"
-      },
-      {
-        "offset": 433,
-        "length": 5,
-        "type": "mention"
-      },
-      {
-        "offset": 433,
-        "length": 5,
-        "type": "bold"
-      }
-    ],
-    "media_group_id": null,
-    "chat_id": -1004468214616,
-    "message_ids": [
-      718
-    ],
-    "update_ids": [
-      378304610
-    ],
-    "retry_count": 0
-  },
-  {
     "type": "video",
     "video_file_id": "BAACAgQAAyEFAAMBClOLWAACAs9qoFjuNogMQCN8Y1SApB1I_HUNygACeh8AAt_oAVHIkCmBKCUUzT0E",
     "video_file_size": 24647191,
@@ -6331,6 +6246,148 @@
     "update_ids": [
       378304761,
       378304762
+    ],
+    "retry_count": 0
+  },
+  {
+    "type": "video",
+    "video_file_id": "BAACAgIAAyEFAAMBClOLWAACA2dqsQYNrw_OcQuRZxgwE98nRQrvyAACIsEAAtYggUlomm-fGOoyXz0E",
+    "video_file_size": 4782411,
+    "caption": "💧 A Computer Inside a Drop of Water\n\nAt Maynooth University in Ireland, a saltwater drop containing DNA answered 10 + 3 = 13 in 30 seconds. There are no chips or wires. Short DNA strands and one long scaffold strand are briefly heated, then self-assemble as the drop cools. The system needs no continuous power.\n\nThe resulting molecular pattern is the answer. The molecular processor ran 10 programs and reused the same drop up to 25 times without losing quality.\n\nLarge numbers expose the limit. Adding numbers up to 34 million took about 14 hours. It will not replace a smartphone, but its developers call it the fastest DNA computer.\n\n📊@tech",
+    "entities": [
+      {
+        "offset": 3,
+        "length": 33,
+        "type": "bold"
+      },
+      {
+        "offset": 41,
+        "length": 30,
+        "type": "bold"
+      },
+      {
+        "offset": 114,
+        "length": 11,
+        "type": "bold"
+      },
+      {
+        "offset": 389,
+        "length": 11,
+        "type": "bold"
+      },
+      {
+        "offset": 426,
+        "length": 14,
+        "type": "bold"
+      },
+      {
+        "offset": 519,
+        "length": 10,
+        "type": "bold"
+      },
+      {
+        "offset": 541,
+        "length": 8,
+        "type": "bold"
+      },
+      {
+        "offset": 639,
+        "length": 2,
+        "type": "bold"
+      },
+      {
+        "offset": 639,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5449841756596101801"
+      },
+      {
+        "offset": 641,
+        "length": 5,
+        "type": "mention"
+      },
+      {
+        "offset": 641,
+        "length": 5,
+        "type": "bold"
+      }
+    ],
+    "media_group_id": null,
+    "chat_id": -1004468214616,
+    "message_ids": [
+      871
+    ],
+    "update_ids": [
+      378304763
+    ],
+    "retry_count": 0
+  },
+  {
+    "type": "photo",
+    "photo_file_ids": [
+      "AgACAgQAAyEFAAMBClOLWAACA2hqsQYnGsPFJhaSOQ0lh5bJ85U-8gAC8Q5rG2a5gVFiLbKl13-nMAEAAwIAA3kAAz0E"
+    ],
+    "caption": "❗️Cédric Villani after the announcement of OpenAI’s solution to the Millennium Prize problem: \n\n\"I was devastated. An atmosphere of the 'end of history.' It is a catastrophe the likes of which mathematics has never experienced.\"\n\nThe next Millennium Prize Problem is on the verge of being solved. The mathematics community will be left stunned.\n\n@aipost 🏴",
+    "entities": [
+      {
+        "offset": 0,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5289761612440310918"
+      },
+      {
+        "offset": 2,
+        "length": 92,
+        "type": "bold"
+      },
+      {
+        "offset": 346,
+        "length": 7,
+        "type": "mention"
+      },
+      {
+        "offset": 354,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5431390559912614642"
+      }
+    ],
+    "media_group_id": null,
+    "chat_id": -1004468214616,
+    "message_ids": [
+      872
+    ],
+    "update_ids": [
+      378304764
+    ],
+    "retry_count": 0
+  },
+  {
+    "type": "photo",
+    "photo_file_ids": [
+      "AgACAgQAAyEFAAMBClOLWAACA2lqsQY3xTsC_d5dZQEO8xenZeaYpgAC8g5rG2a5gVEZsBQDoplRzQEAAwIAA3kAAz0E"
+    ],
+    "caption": "Doomer AI lab CEOs: AI is scary, please allow us to form an AI Safety Cartel. \n\nTrump: No, acceleration only. Announcing the Department of AI Danger for the US Military.\n\n@aipost 🏴",
+    "entities": [
+      {
+        "offset": 171,
+        "length": 7,
+        "type": "mention"
+      },
+      {
+        "offset": 179,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5431390559912614642"
+      }
+    ],
+    "media_group_id": null,
+    "chat_id": -1004468214616,
+    "message_ids": [
+      873
+    ],
+    "update_ids": [
+      378304765
     ],
     "retry_count": 0
   }
