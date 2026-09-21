@@ -1,44 +1,5 @@
 [
   {
-    "type": "video",
-    "video_file_id": "BAACAgQAAyEFAAMBClOLWAACAs9qoFjuNogMQCN8Y1SApB1I_HUNygACeh8AAt_oAVHIkCmBKCUUzT0E",
-    "video_file_size": 24647191,
-    "caption": "🗣Jeff Bezos says AI is going to create a labor shortage\n\n\"I know there's a lot of concern that many people have, including many smart people, that AI is going to make humans redundant and so on. I totally disagree with this point of view.\"\n\nHe says AI will make it possible for people to identify more problems, and that we have an endless set of things to invent.\n\n\"Today, we are limited not by our imaginations, but by what we can actually do.\"\n\nEveryone in the room, he said, has had an idea for a business or a product they wished they could build. It stayed in their head because it was too hard and it wasn't worth it.\n\n\"If we can accelerate the dream build loop, all of the ideas will then become possible. And then we end up being limited not by our capabilities, but by our imaginations.\"\n\n@aipost 🏴",
-    "entities": [
-      {
-        "offset": 0,
-        "length": 2,
-        "type": "custom_emoji",
-        "custom_emoji_id": "5287468155738821335"
-      },
-      {
-        "offset": 2,
-        "length": 54,
-        "type": "bold"
-      },
-      {
-        "offset": 800,
-        "length": 7,
-        "type": "mention"
-      },
-      {
-        "offset": 808,
-        "length": 2,
-        "type": "custom_emoji",
-        "custom_emoji_id": "5431390559912614642"
-      }
-    ],
-    "media_group_id": null,
-    "chat_id": -1004468214616,
-    "message_ids": [
-      719
-    ],
-    "update_ids": [
-      378304611
-    ],
-    "retry_count": 0
-  },
-  {
     "type": "text",
     "caption": "🤖 AGI by spring 2027? AI is already helping build its successor.\n\nOpenAI says its AI is helping develop the next generation of models — handling research tasks that would take a skilled researcher several days, with humans supervising.\n\nThat could change the pace of progress. GPT-6 Astra helps researchers build a stronger model. Its successor takes on harder research problems and helps develop the generation after that.\n\nThe better AI gets at research, the faster this cycle could become.\n\nOpenAI’s chief scientist, Jakub Pachocki, says internal results give him reason to expect progress toward this kind of self-improvement. His concern: safety checks and human oversight may struggle to keep up.\n\nSpring 2027 is still a bet. Faster research tasks don’t automatically produce faster breakthroughs: experiments need computing power, and results need verification.\n\nBut Astra’s contribution to AGI may extend beyond anything it says in a chat. It could be helping researchers build the model that gets us closer.\n\n💬 When do you expect AGI: 2027, 2030, or much later?\n\n@aipost 🏴",
     "entities": [
@@ -6388,6 +6349,239 @@
     ],
     "update_ids": [
       378304765
+    ],
+    "retry_count": 0
+  },
+  {
+    "type": "photo",
+    "photo_file_ids": [
+      "AgACAgQAAyEFAAMBClOLWAACA2pqsSK0XQfE2_-ezElyLMl_5QABj-MAAqERaxsg8YFRzi6Mh_jnX8gBAAMCAAN3AAM9BA"
+    ],
+    "caption": "🤖 Anthropic’s Independent Evaluator Questioned\n\nAnthropic named Accenture as the first independent evaluator under its Embedded Evaluators program. The review will cover red-teaming, alignment checks, and safeguards testing. Anthropic says it will fund the work.\n\nAccenture trains ~30,000 employees to work with Claude and has had a multi-year contract with Anthropic since late 2025. That makes its independence an open question.\n\nAnthropic previously gave METR “independent access” to investigate agent incidents. METR is also indirectly financed through Anthropic stock, leaving the evaluators tied to the startup’s financial interests.\n\n📊@tech",
+    "entities": [
+      {
+        "offset": 0,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5208665212483310136"
+      },
+      {
+        "offset": 3,
+        "length": 44,
+        "type": "bold"
+      },
+      {
+        "offset": 49,
+        "length": 9,
+        "type": "bold"
+      },
+      {
+        "offset": 65,
+        "length": 9,
+        "type": "bold"
+      },
+      {
+        "offset": 82,
+        "length": 27,
+        "type": "bold"
+      },
+      {
+        "offset": 120,
+        "length": 19,
+        "type": "bold"
+      },
+      {
+        "offset": 171,
+        "length": 11,
+        "type": "bold"
+      },
+      {
+        "offset": 184,
+        "length": 16,
+        "type": "bold"
+      },
+      {
+        "offset": 206,
+        "length": 18,
+        "type": "bold"
+      },
+      {
+        "offset": 226,
+        "length": 9,
+        "type": "bold"
+      },
+      {
+        "offset": 249,
+        "length": 13,
+        "type": "bold"
+      },
+      {
+        "offset": 283,
+        "length": 6,
+        "type": "bold"
+      },
+      {
+        "offset": 313,
+        "length": 6,
+        "type": "bold"
+      },
+      {
+        "offset": 334,
+        "length": 19,
+        "type": "bold"
+      },
+      {
+        "offset": 375,
+        "length": 9,
+        "type": "bold"
+      },
+      {
+        "offset": 401,
+        "length": 12,
+        "type": "bold"
+      },
+      {
+        "offset": 459,
+        "length": 4,
+        "type": "bold"
+      },
+      {
+        "offset": 465,
+        "length": 18,
+        "type": "bold"
+      },
+      {
+        "offset": 500,
+        "length": 15,
+        "type": "bold"
+      },
+      {
+        "offset": 517,
+        "length": 4,
+        "type": "bold"
+      },
+      {
+        "offset": 530,
+        "length": 43,
+        "type": "bold"
+      },
+      {
+        "offset": 620,
+        "length": 19,
+        "type": "bold"
+      },
+      {
+        "offset": 642,
+        "length": 2,
+        "type": "bold"
+      },
+      {
+        "offset": 642,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5449841756596101801"
+      },
+      {
+        "offset": 644,
+        "length": 5,
+        "type": "mention"
+      },
+      {
+        "offset": 644,
+        "length": 5,
+        "type": "bold"
+      }
+    ],
+    "media_group_id": null,
+    "chat_id": -1004468214616,
+    "message_ids": [
+      874
+    ],
+    "update_ids": [
+      378304766
+    ],
+    "retry_count": 0
+  },
+  {
+    "type": "video",
+    "video_file_id": "BAACAgQAAyEFAAMBClOLWAACA2tqsTrFgErAc19VFtP1Hwb-Uz3bYgACEyMAAma5iVFwlU6AaQ47Oz0E",
+    "video_file_size": 26972950,
+    "caption": "❗️Alex Karp reveals OpenAI will never IPO, their real playbook is to get nationalized.\n\nHost: How does the liability get written into the S-1? What do the risk factors sound like?\n\nKarp: You're assuming that there will be an S-1… The only way to deal with this kind of liability is to go to the government and say: \n\n\"Nationalize us, please!\"\n\nHost: Do you think the Trump administration is going to get on board with that?\n\nKarp: When you have unlimited liability, the only way to deal with it would be to go to the government and say:\n\n\"We'll give you 50% of our business.\"\n\nOf course, the value of the business will collapse first when you do that… collapse another time when you have people on the board… collapse another time… It might even collapse the whole market.\n\n@aipost 🏴",
+    "entities": [
+      {
+        "offset": 0,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5289761612440310918"
+      },
+      {
+        "offset": 2,
+        "length": 84,
+        "type": "bold"
+      },
+      {
+        "offset": 774,
+        "length": 7,
+        "type": "mention"
+      },
+      {
+        "offset": 782,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5431390559912614642"
+      }
+    ],
+    "media_group_id": null,
+    "chat_id": -1004468214616,
+    "message_ids": [
+      875
+    ],
+    "update_ids": [
+      378304767
+    ],
+    "retry_count": 0
+  },
+  {
+    "type": "video",
+    "video_file_id": "BAACAgQAAyEFAAMBClOLWAACA2xqsTr8vuWU4VrtYI45J3sebYgWZAAClSIAAjWNiVGpjoipOgyIuj0E",
+    "video_file_size": 33160099,
+    "caption": "😐 Jensen Huang EXPOSED Dario and Altman’s \"Rogue AI\" grift to avoid getting sued into oblivion under EXISTING law.\n\n“Don't let this doomsday narrative cause somebody to relieve them of the laws that currently exist. \n\nGo and read between the lines. They're actually not asking for more laws; they're asking to be relieved of the laws we do have.”\n\n@aipost 🏴",
+    "entities": [
+      {
+        "offset": 0,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5292058161518251626"
+      },
+      {
+        "offset": 3,
+        "length": 112,
+        "type": "bold"
+      },
+      {
+        "offset": 117,
+        "length": 230,
+        "type": "blockquote"
+      },
+      {
+        "offset": 349,
+        "length": 7,
+        "type": "mention"
+      },
+      {
+        "offset": 357,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5431390559912614642"
+      }
+    ],
+    "media_group_id": null,
+    "chat_id": -1004468214616,
+    "message_ids": [
+      876
+    ],
+    "update_ids": [
+      378304768
     ],
     "retry_count": 0
   }

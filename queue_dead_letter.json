@@ -3997,5 +3997,44 @@
       378304606
     ],
     "retry_count": 0
+  },
+  {
+    "type": "video",
+    "video_file_id": "BAACAgQAAyEFAAMBClOLWAACAs9qoFjuNogMQCN8Y1SApB1I_HUNygACeh8AAt_oAVHIkCmBKCUUzT0E",
+    "video_file_size": 24647191,
+    "caption": "🗣Jeff Bezos says AI is going to create a labor shortage\n\n\"I know there's a lot of concern that many people have, including many smart people, that AI is going to make humans redundant and so on. I totally disagree with this point of view.\"\n\nHe says AI will make it possible for people to identify more problems, and that we have an endless set of things to invent.\n\n\"Today, we are limited not by our imaginations, but by what we can actually do.\"\n\nEveryone in the room, he said, has had an idea for a business or a product they wished they could build. It stayed in their head because it was too hard and it wasn't worth it.\n\n\"If we can accelerate the dream build loop, all of the ideas will then become possible. And then we end up being limited not by our capabilities, but by our imaginations.\"\n\n@aipost 🏴",
+    "entities": [
+      {
+        "offset": 0,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5287468155738821335"
+      },
+      {
+        "offset": 2,
+        "length": 54,
+        "type": "bold"
+      },
+      {
+        "offset": 800,
+        "length": 7,
+        "type": "mention"
+      },
+      {
+        "offset": 808,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5431390559912614642"
+      }
+    ],
+    "media_group_id": null,
+    "chat_id": -1004468214616,
+    "message_ids": [
+      719
+    ],
+    "update_ids": [
+      378304611
+    ],
+    "retry_count": 0
   }
 ]
