@@ -1,53 +1,5 @@
 [
   {
-    "type": "video",
-    "video_file_id": "BAACAgIAAyEFAAMBClOLWAACAs1qoEgBwHtDEYmbDkvnigOxQ-ExAwACUaEAAts46UglNyEwSWIXfz0E",
-    "video_file_size": 6521203,
-    "caption": "Every specialist After Astra 6 😁\n\n📊@tech",
-    "entities": [
-      {
-        "offset": 0,
-        "length": 16,
-        "type": "bold"
-      },
-      {
-        "offset": 17,
-        "length": 13,
-        "type": "bold"
-      },
-      {
-        "offset": 35,
-        "length": 2,
-        "type": "bold"
-      },
-      {
-        "offset": 35,
-        "length": 2,
-        "type": "custom_emoji",
-        "custom_emoji_id": "5449841756596101801"
-      },
-      {
-        "offset": 37,
-        "length": 5,
-        "type": "mention"
-      },
-      {
-        "offset": 37,
-        "length": 5,
-        "type": "bold"
-      }
-    ],
-    "media_group_id": null,
-    "chat_id": -1004468214616,
-    "message_ids": [
-      717
-    ],
-    "update_ids": [
-      378304609
-    ],
-    "retry_count": 0
-  },
-  {
     "type": "photo",
     "photo_file_ids": [
       "AgACAgIAAyEFAAMBClOLWAACAs5qoEgTTmxJqS3TiEUnFIrgMc3eSgACwSFrG8cw-EjTtZRC2cvaRAEAAwIAA3cAAz0E"
@@ -6292,6 +6244,93 @@
     ],
     "update_ids": [
       378304759
+    ],
+    "retry_count": 0
+  },
+  {
+    "type": "video",
+    "video_file_id": "BAACAgQAAyEFAAMBClOLWAACA2RqsKcbjoReizd-HXF4JPUmERrzlQACIRwAAma5gVEzL0f0hOWtVD0E",
+    "video_file_size": 49376465,
+    "caption": "🗣Sam Altman says OpenAI killed Sora even though it was good.\n\nSam Altman says Sora was a good product and he thought Atlas was a great browser, but OpenAI still stopped both. The compute and the people could go toward what he believes matters more.\n\n@aipost 🏴",
+    "entities": [
+      {
+        "offset": 0,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5287468155738821335"
+      },
+      {
+        "offset": 2,
+        "length": 59,
+        "type": "bold"
+      },
+      {
+        "offset": 251,
+        "length": 7,
+        "type": "mention"
+      },
+      {
+        "offset": 259,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5431390559912614642"
+      }
+    ],
+    "media_group_id": null,
+    "chat_id": -1004468214616,
+    "message_ids": [
+      868
+    ],
+    "update_ids": [
+      378304760
+    ],
+    "retry_count": 0
+  },
+  {
+    "type": "album",
+    "photo_file_ids": [
+      "AgACAgQAAyEFAAMBClOLWAACA2VqsKcqRN1iLg20ikH7DrWS-pGM5QAC6Q5rG2a5gVGaf87P69OBdgEAAwIAA3kAAz0E",
+      "AgACAgQAAyEFAAMBClOLWAACA2ZqsKcq-mIfEbXE0JPfIVp4YtSJsQAC6g5rG2a5gVHg02hsd8gfUgEAAwIAA3kAAz0E"
+    ],
+    "caption": "🇺🇸 Trump announced the creation of an \"AI Force\" modeled after the Space Force and says he will appoint an \"AI czar.\"\n\n\"We will not in any way hinder or stifle the growth of this incredible industry. Rather, we will cherish it, help it, and watch over it as it grows.\"\n\n\"However, we will also be looking for BAD, and we can do that very easily with our already existing Criminal and Civil Justice System.\"\n\nTrump calls AI \"the next Industrial Revolution\" and says it could be \"as much as 25% of our Country's GDP.\"\n\n@aipost 🏴",
+    "entities": [
+      {
+        "offset": 0,
+        "length": 4,
+        "type": "bold"
+      },
+      {
+        "offset": 0,
+        "length": 4,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5202021044105257611"
+      },
+      {
+        "offset": 4,
+        "length": 115,
+        "type": "bold"
+      },
+      {
+        "offset": 518,
+        "length": 7,
+        "type": "mention"
+      },
+      {
+        "offset": 526,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5431390559912614642"
+      }
+    ],
+    "media_group_id": "14319696214968357",
+    "chat_id": -1004468214616,
+    "message_ids": [
+      869,
+      870
+    ],
+    "update_ids": [
+      378304761,
+      378304762
     ],
     "retry_count": 0
   }
