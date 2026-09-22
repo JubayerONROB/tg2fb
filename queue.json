@@ -1,51 +1,5 @@
 [
   {
-    "type": "photo",
-    "photo_file_ids": [
-      "AgACAgQAAyEFAAMBClOLWAACAtJqoPc7lCL050sko4W52LeyLQahLwACEhBrG9_oAVEEFNQ24VDQgwEAAwIAA3kAAz0E"
-    ],
-    "caption": "🤖 OpenAI says its AI has solved the Navier–Stokes Millennium Prize Problem, a mathematical question unresolved for roughly 90 years.\n\nAn internal model, described as significantly more capable than GPT-6 Astra, powered a group of around 10,000 concurrent agents.\n\nThe agents reached the solution after just 88 hours. Lean formalization and verification took another 17 hours via GPT-6 Astra.\n\nThe reported result: smooth three-dimensional fluid motion can develop a singularity in finite time under a smooth external force, while total energy remains finite.\n\nOpenAI is sharing the proof and its Lean formalization. 130 billion output tokens went into the Navier–Stokes effort alone. The internal model is still training.\n\nSource. \n\n@aipost 🏴",
-    "entities": [
-      {
-        "offset": 0,
-        "length": 2,
-        "type": "custom_emoji",
-        "custom_emoji_id": "5397681122542893003"
-      },
-      {
-        "offset": 3,
-        "length": 130,
-        "type": "bold"
-      },
-      {
-        "offset": 724,
-        "length": 8,
-        "type": "text_link",
-        "url": "https://openai.com/index/navier-stokes-solution/"
-      },
-      {
-        "offset": 734,
-        "length": 7,
-        "type": "mention"
-      },
-      {
-        "offset": 742,
-        "length": 2,
-        "type": "custom_emoji",
-        "custom_emoji_id": "5431390559912614642"
-      }
-    ],
-    "media_group_id": null,
-    "chat_id": -1004468214616,
-    "message_ids": [
-      722
-    ],
-    "update_ids": [
-      378304614
-    ],
-    "retry_count": 0
-  },
-  {
     "type": "video",
     "video_file_id": "BAACAgIAAyEFAAMBClOLWAACAtNqoVirLgf5iNuye5d4uthNiiXv3gACw6UAAqvQAUm6U3L09U8JBj0E",
     "video_file_size": 21502991,
