@@ -1,22 +1,6 @@
 [
   {
     "type": "video",
-    "video_file_id": "BAACAgIAAyEFAAMBClOLWAACAtRqoVir7NpX6FeHgYpRLvLs2Ak4KwACxKUAAqvQAUlF3A-9qzkGIz0E",
-    "video_file_size": 11733999,
-    "caption": "",
-    "entities": [],
-    "media_group_id": "14311671128529189",
-    "chat_id": -1004468214616,
-    "message_ids": [
-      724
-    ],
-    "update_ids": [
-      378304616
-    ],
-    "retry_count": 0
-  },
-  {
-    "type": "video",
     "video_file_id": "BAACAgIAAyEFAAMBClOLWAACAtVqoVir3cPkgZNhl551FvXHWxosAAPFpQACq9ABSfQTL0J0rQzBPQQ",
     "video_file_size": 7202036,
     "caption": "",
