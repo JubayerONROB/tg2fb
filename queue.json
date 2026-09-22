@@ -1,80 +1,6 @@
 [
   {
     "type": "video",
-    "video_file_id": "BAACAgIAAyEFAAMBClOLWAACAtNqoVirLgf5iNuye5d4uthNiiXv3gACw6UAAqvQAUm6U3L09U8JBj0E",
-    "video_file_size": 21502991,
-    "caption": "🤖 OpenAI Updates ChatGPT Images\n\nThe new ChatGPT Images 2.5 keeps people’s appearance from reference images more accurately, edits specific details with greater precision, and generates images up to 50% faster. It can replace one object or the background while preserving the rest of the composition. Sequential edits also stay more consistent.\n\nChatGPT now includes Sketch, where users can draw a rough room or clothing layout, add a description, and generate an image from it. Developers get GPT-Image-2.5 Flare for speed and bulk generation, plus Sunburst for detailed work. The update is available across ChatGPT, ChatGPT Work, and Codex.\n\n📊@tech",
-    "entities": [
-      {
-        "offset": 0,
-        "length": 2,
-        "type": "custom_emoji",
-        "custom_emoji_id": "5397681122542893003"
-      },
-      {
-        "offset": 3,
-        "length": 29,
-        "type": "bold"
-      },
-      {
-        "offset": 42,
-        "length": 18,
-        "type": "bold"
-      },
-      {
-        "offset": 200,
-        "length": 10,
-        "type": "bold"
-      },
-      {
-        "offset": 368,
-        "length": 6,
-        "type": "bold"
-      },
-      {
-        "offset": 495,
-        "length": 19,
-        "type": "bold"
-      },
-      {
-        "offset": 551,
-        "length": 8,
-        "type": "bold"
-      },
-      {
-        "offset": 645,
-        "length": 2,
-        "type": "bold"
-      },
-      {
-        "offset": 645,
-        "length": 2,
-        "type": "custom_emoji",
-        "custom_emoji_id": "5449841756596101801"
-      },
-      {
-        "offset": 647,
-        "length": 5,
-        "type": "mention"
-      },
-      {
-        "offset": 647,
-        "length": 5,
-        "type": "bold"
-      }
-    ],
-    "media_group_id": "14311671128529189",
-    "chat_id": -1004468214616,
-    "message_ids": [
-      723
-    ],
-    "update_ids": [
-      378304615
-    ],
-    "retry_count": 0
-  },
-  {
-    "type": "video",
     "video_file_id": "BAACAgIAAyEFAAMBClOLWAACAtRqoVir7NpX6FeHgYpRLvLs2Ak4KwACxKUAAqvQAUlF3A-9qzkGIz0E",
     "video_file_size": 11733999,
     "caption": "",
@@ -6439,6 +6365,268 @@
     ],
     "update_ids": [
       378304768
+    ],
+    "retry_count": 0
+  },
+  {
+    "type": "video",
+    "video_file_id": "BAACAgQAAyEFAAMBClOLWAACA21qsjFhVWj7w9OJpNzqtHLPOdljlwACYCIAAjWNkVEk4KKlDA12ZD0E",
+    "video_file_size": 17217937,
+    "caption": "🔥 Combat robot beats up blogger and breaks his wrist.\n\nThe guy stepped into a “Real Steel”-style fight, but took several powerful blows from the machine, and even the protective vest couldn’t save him from injury.\n\n@aipost 🏴",
+    "entities": [
+      {
+        "offset": 0,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5363970504057191145"
+      },
+      {
+        "offset": 3,
+        "length": 51,
+        "type": "bold"
+      },
+      {
+        "offset": 216,
+        "length": 7,
+        "type": "mention"
+      },
+      {
+        "offset": 224,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5431390559912614642"
+      }
+    ],
+    "media_group_id": null,
+    "chat_id": -1004468214616,
+    "message_ids": [
+      877
+    ],
+    "update_ids": [
+      378304769
+    ],
+    "retry_count": 0
+  },
+  {
+    "type": "photo",
+    "photo_file_ids": [
+      "AgACAgQAAyEFAAMBClOLWAACA25qsjFhFpOSojd8VO11szgG18m4FgACSRBrGwsJkFFMvmyB_13eUwEAAwIAA3kAAz0E"
+    ],
+    "caption": "🧠 Grok 4.7 arrives with small jump, same price\n\nGrok 4.7 is rolling out: according to xAI, it uses a larger base model and gets extra training on long, difficult problems that can take hours to solve. The release was reportedly delayed because the model kept giving up early and failed to check its own answers; both issues are said to be improved.\n\nOn coding benchmarks, especially Terminal-Bench, the new version looks stronger. But on AA’ Intelligence Index it only nudged up from 44 to 46, so it’s not a dramatic leap.\n\nPricing stays the same as Grok 4.6 at $2 / $6 per million tokens, and 4.7 is already live in Cursor, Grok Build and via the API.\n\n@aipost🥇",
+    "entities": [
+      {
+        "offset": 3,
+        "length": 44,
+        "type": "bold"
+      },
+      {
+        "offset": 102,
+        "length": 17,
+        "type": "bold"
+      },
+      {
+        "offset": 129,
+        "length": 42,
+        "type": "bold"
+      },
+      {
+        "offset": 485,
+        "length": 8,
+        "type": "bold"
+      },
+      {
+        "offset": 563,
+        "length": 26,
+        "type": "bold"
+      },
+      {
+        "offset": 655,
+        "length": 7,
+        "type": "mention"
+      },
+      {
+        "offset": 662,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5436284348728893999"
+      }
+    ],
+    "media_group_id": null,
+    "chat_id": -1004468214616,
+    "message_ids": [
+      878
+    ],
+    "update_ids": [
+      378304770
+    ],
+    "retry_count": 0
+  },
+  {
+    "type": "photo",
+    "photo_file_ids": [
+      "AgACAgQAAyEFAAMBClOLWAACA29qsjFhPUmMVjUeA2mR8b9hkDOyAwAC7A9rGzWNkVHXTjF7fm-JJQEAAwIAA3gAAz0E"
+    ],
+    "caption": "❗️OpenAI’s new model is moving through mathematics at a startling pace\n\nOpenAI says an internal model that started training just 24 days ago has already resolved more than 100 long-standing open problems across a wide range of mathematical fields.\n\nEven OpenAI’s own mathematicians reportedly didn’t expect the progress to come this quickly.\n\nNow, an independent group including Edward Witten, Timothy Gowers and Martin Hairer is helping evaluate the results and coordinate how the discoveries are released.\n\nSource.\n\n@aipost 🏴",
+    "entities": [
+      {
+        "offset": 0,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5289761612440310918"
+      },
+      {
+        "offset": 2,
+        "length": 68,
+        "type": "bold"
+      },
+      {
+        "offset": 509,
+        "length": 6,
+        "type": "text_link",
+        "url": "https://openai.com/index/advisory-group-on-mathematics-and-ai/"
+      },
+      {
+        "offset": 518,
+        "length": 7,
+        "type": "mention"
+      },
+      {
+        "offset": 526,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5431390559912614642"
+      }
+    ],
+    "media_group_id": null,
+    "chat_id": -1004468214616,
+    "message_ids": [
+      879
+    ],
+    "update_ids": [
+      378304771
+    ],
+    "retry_count": 0
+  },
+  {
+    "type": "photo",
+    "photo_file_ids": [
+      "AgACAgQAAyEFAAMBClOLWAACA3BqsjFhQSL1wMgz3IRPU6habEzuTQACVQ9rGzWNkVH4BKvmUch6aAEAAwIAA3kAAz0E"
+    ],
+    "caption": "🇺🇸 President Trump says he is “not going to stifle growth” of AI which is “bigger than the Industrial Revolution or the internet itself.”\n\n@aipost 🏴",
+    "entities": [
+      {
+        "offset": 0,
+        "length": 4,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5202021044105257611"
+      },
+      {
+        "offset": 141,
+        "length": 7,
+        "type": "mention"
+      },
+      {
+        "offset": 149,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5431390559912614642"
+      }
+    ],
+    "media_group_id": null,
+    "chat_id": -1004468214616,
+    "message_ids": [
+      880
+    ],
+    "update_ids": [
+      378304772
+    ],
+    "retry_count": 0
+  },
+  {
+    "type": "video",
+    "video_file_id": "BAACAgQAAyEFAAMBClOLWAACA3FqsjFhPT6oSG0qyuvJXUCW5SvLBgACuCIAAjWNkVG9JpCfnk0uGj0E",
+    "video_file_size": 51108821,
+    "caption": "🇪🇸 Pedro Sanchez (Prime Minister of the Government of Spain) announced the AI360 Plan for a responsible deployment of AI.\n\nA plan with concrete actions to be developed over the next 12 months so that Spain can seize the opportunities that AI offers to our economy.\n\nPlacing at the center citizen safety, trust, and the protection of the most vulnerable, starting with minors.\n\nSpain is not currently a major player in the field of AI, and it's completely unclear where it will obtain the resources to implement its plans.\n\nI wonder how long it will take for Spain to catch up to the United States and China in the race for AI dominance? 🤔\n\n@aipost 🏴",
+    "entities": [
+      {
+        "offset": 0,
+        "length": 4,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5201957744877248121"
+      },
+      {
+        "offset": 5,
+        "length": 118,
+        "type": "bold"
+      },
+      {
+        "offset": 525,
+        "length": 114,
+        "type": "bold"
+      },
+      {
+        "offset": 639,
+        "length": 2,
+        "type": "bold"
+      },
+      {
+        "offset": 639,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5370724846936267183"
+      },
+      {
+        "offset": 643,
+        "length": 7,
+        "type": "mention"
+      },
+      {
+        "offset": 651,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5431390559912614642"
+      }
+    ],
+    "media_group_id": null,
+    "chat_id": -1004468214616,
+    "message_ids": [
+      881
+    ],
+    "update_ids": [
+      378304773
+    ],
+    "retry_count": 0
+  },
+  {
+    "type": "video",
+    "video_file_id": "BAACAgQAAyEFAAMBClOLWAACA3JqsjFhy4UPRWMtEshwyGm3WTCjdAAC1yIAAjWNkVEYDVcwcODfPD0E",
+    "video_file_size": 10416713,
+    "caption": "Canadian PM Mark Carney:\n\n“There are only four countries at the forefront of AI: France, Canada, China and the United States.\n\nWe must join forces to ensure an appropriate framework so that AI is safe and effective”.\n\n@aipost 🏴",
+    "entities": [
+      {
+        "offset": 26,
+        "length": 190,
+        "type": "blockquote"
+      },
+      {
+        "offset": 218,
+        "length": 7,
+        "type": "mention"
+      },
+      {
+        "offset": 226,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5431390559912614642"
+      }
+    ],
+    "media_group_id": null,
+    "chat_id": -1004468214616,
+    "message_ids": [
+      882
+    ],
+    "update_ids": [
+      378304774
     ],
     "retry_count": 0
   }

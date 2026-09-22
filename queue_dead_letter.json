@@ -4036,5 +4036,79 @@
       378304611
     ],
     "retry_count": 0
+  },
+  {
+    "type": "video",
+    "video_file_id": "BAACAgIAAyEFAAMBClOLWAACAtNqoVirLgf5iNuye5d4uthNiiXv3gACw6UAAqvQAUm6U3L09U8JBj0E",
+    "video_file_size": 21502991,
+    "caption": "🤖 OpenAI Updates ChatGPT Images\n\nThe new ChatGPT Images 2.5 keeps people’s appearance from reference images more accurately, edits specific details with greater precision, and generates images up to 50% faster. It can replace one object or the background while preserving the rest of the composition. Sequential edits also stay more consistent.\n\nChatGPT now includes Sketch, where users can draw a rough room or clothing layout, add a description, and generate an image from it. Developers get GPT-Image-2.5 Flare for speed and bulk generation, plus Sunburst for detailed work. The update is available across ChatGPT, ChatGPT Work, and Codex.\n\n📊@tech",
+    "entities": [
+      {
+        "offset": 0,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5397681122542893003"
+      },
+      {
+        "offset": 3,
+        "length": 29,
+        "type": "bold"
+      },
+      {
+        "offset": 42,
+        "length": 18,
+        "type": "bold"
+      },
+      {
+        "offset": 200,
+        "length": 10,
+        "type": "bold"
+      },
+      {
+        "offset": 368,
+        "length": 6,
+        "type": "bold"
+      },
+      {
+        "offset": 495,
+        "length": 19,
+        "type": "bold"
+      },
+      {
+        "offset": 551,
+        "length": 8,
+        "type": "bold"
+      },
+      {
+        "offset": 645,
+        "length": 2,
+        "type": "bold"
+      },
+      {
+        "offset": 645,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5449841756596101801"
+      },
+      {
+        "offset": 647,
+        "length": 5,
+        "type": "mention"
+      },
+      {
+        "offset": 647,
+        "length": 5,
+        "type": "bold"
+      }
+    ],
+    "media_group_id": "14311671128529189",
+    "chat_id": -1004468214616,
+    "message_ids": [
+      723
+    ],
+    "update_ids": [
+      378304615
+    ],
+    "retry_count": 0
   }
 ]
