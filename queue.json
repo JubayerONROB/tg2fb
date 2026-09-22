@@ -1,44 +1,5 @@
 [
   {
-    "type": "video",
-    "video_file_id": "BAACAgQAAyEFAAMBClOLWAACAtFqoPctkT2etami0H9VV6pT1gipTQACex8AAt_oAVEsSJxAotxSqT0E",
-    "video_file_size": 19168066,
-    "caption": "🗣Jensen Huang: I’m not asking AI to think for me.\n\nI’m asking it to teach me things I don’t know or help me solve problems I otherwise wouldn’t reasonably be able to solve.\n\n“Don’t use it as a crutch for things you can do.”\n\n“The idea of prompting an AI, the idea of asking questions, is a highly cognitive skill.”\n\n“As a CEO, I spend most of my time asking questions.”\n\n“When you receive an answer from an AI, I wouldn’t just receive it.”\n\n“I usually say: are you sure this is the best answer you can provide?”\n\n“I take the answer from one AI, give it to another AI, and ask them to critique it.”\n\n“I ask the same question of multiple AIs, ask them to compare each other’s notes, and then give me the best of all the answers.”\n\n“That process of critiquing and criticizing the answers, critical thinking enhances cognitive skills.”\n\nI would advise people to apply critical thinking.\n\n@aipost 🏴",
-    "entities": [
-      {
-        "offset": 0,
-        "length": 2,
-        "type": "custom_emoji",
-        "custom_emoji_id": "5287468155738821335"
-      },
-      {
-        "offset": 2,
-        "length": 48,
-        "type": "bold"
-      },
-      {
-        "offset": 885,
-        "length": 7,
-        "type": "mention"
-      },
-      {
-        "offset": 893,
-        "length": 2,
-        "type": "custom_emoji",
-        "custom_emoji_id": "5431390559912614642"
-      }
-    ],
-    "media_group_id": null,
-    "chat_id": -1004468214616,
-    "message_ids": [
-      721
-    ],
-    "update_ids": [
-      378304613
-    ],
-    "retry_count": 0
-  },
-  {
     "type": "photo",
     "photo_file_ids": [
       "AgACAgQAAyEFAAMBClOLWAACAtJqoPc7lCL050sko4W52LeyLQahLwACEhBrG9_oAVEEFNQ24VDQgwEAAwIAA3kAAz0E"
