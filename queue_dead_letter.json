@@ -4110,5 +4110,74 @@
       378304615
     ],
     "retry_count": 0
+  },
+  {
+    "type": "video",
+    "video_file_id": "BAACAgIAAyEFAAMBClOLWAACAtZqoVi1wG49WLs_dioNpL79ijBJ7AADtAACjjwBSVSwLXBcf1AePQQ",
+    "video_file_size": 46036669,
+    "caption": "😺 Astra Clears All 48 Robot Levels\n\nAn OpenAI developer shared that Astra completed all 48 levels of the browser game “I’m Not a Robot.”\n\nThe game starts with a checkbox, then raises the difficulty with image recognition, crosswords, drawing, parking, math, and keyboard rhythm. The CAPTCHA gets less routine with every level.\n\n📊@tech",
+    "entities": [
+      {
+        "offset": 0,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5796185041717433060"
+      },
+      {
+        "offset": 3,
+        "length": 32,
+        "type": "bold"
+      },
+      {
+        "offset": 40,
+        "length": 16,
+        "type": "bold"
+      },
+      {
+        "offset": 69,
+        "length": 29,
+        "type": "bold"
+      },
+      {
+        "offset": 139,
+        "length": 31,
+        "type": "bold"
+      },
+      {
+        "offset": 177,
+        "length": 21,
+        "type": "bold"
+      },
+      {
+        "offset": 329,
+        "length": 2,
+        "type": "bold"
+      },
+      {
+        "offset": 329,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5449841756596101801"
+      },
+      {
+        "offset": 331,
+        "length": 5,
+        "type": "mention"
+      },
+      {
+        "offset": 331,
+        "length": 5,
+        "type": "bold"
+      }
+    ],
+    "media_group_id": null,
+    "chat_id": -1004468214616,
+    "message_ids": [
+      726
+    ],
+    "update_ids": [
+      378304618
+    ],
+    "retry_count": 0
   }
 ]
