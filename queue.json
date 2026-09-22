@@ -1,22 +1,6 @@
 [
   {
     "type": "video",
-    "video_file_id": "BAACAgIAAyEFAAMBClOLWAACAtVqoVir3cPkgZNhl551FvXHWxosAAPFpQACq9ABSfQTL0J0rQzBPQQ",
-    "video_file_size": 7202036,
-    "caption": "",
-    "entities": [],
-    "media_group_id": "14311671128529189",
-    "chat_id": -1004468214616,
-    "message_ids": [
-      725
-    ],
-    "update_ids": [
-      378304617
-    ],
-    "retry_count": 0
-  },
-  {
-    "type": "video",
     "video_file_id": "BAACAgIAAyEFAAMBClOLWAACAtZqoVi1wG49WLs_dioNpL79ijBJ7AADtAACjjwBSVSwLXBcf1AePQQ",
     "video_file_size": 46036669,
     "caption": "😺 Astra Clears All 48 Robot Levels\n\nAn OpenAI developer shared that Astra completed all 48 levels of the browser game “I’m Not a Robot.”\n\nThe game starts with a checkbox, then raises the difficulty with image recognition, crosswords, drawing, parking, math, and keyboard rhythm. The CAPTCHA gets less routine with every level.\n\n📊@tech",
@@ -6611,6 +6595,154 @@
     ],
     "update_ids": [
       378304774
+    ],
+    "retry_count": 0
+  },
+  {
+    "type": "photo",
+    "photo_file_ids": [
+      "AgACAgQAAyEFAAMBClOLWAACA3NqsszMgnzCTUQAAQukId2Fr9Fng5sAAq4Paxs1jZlRmglwBoFvO_oBAAMCAAN4AAM9BA"
+    ],
+    "caption": "❗️OpenAI faces questions over ChatGPT activity flagged before Tumbler Ridge shooting\n\nOpenAI is facing a lawsuit in California over a ChatGPT account that was flagged months before the February 2026 Tumbler Ridge shooting in British Columbia.\n\nThe attack on Feb. 10 killed 8 people, including 5 children and an educator, and wounded 27 others.\n\nAccording to OpenAI, its systems detected suspicious activity on the account in June 2025. Human reviewers investigated and ultimately banned the account for violating its rules.\n\nBut they did not alert police.\n\nAt the time, OpenAI’s policy required activity to meet a threshold of “credible and imminent” planning before a law-enforcement referral was made.\n\nThat standard has since changed.\n\nOn Feb. 26, OpenAI told Canadian officials that it had broadened its referral criteria and added mental-health and behavioral experts to help assess difficult cases.\n\nThe company also said that under its updated protocol, it would refer the same account to law enforcement if it were discovered today.\n\nSource. \n\n@aipost 🏴",
+    "entities": [
+      {
+        "offset": 0,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5289761612440310918"
+      },
+      {
+        "offset": 2,
+        "length": 82,
+        "type": "bold"
+      },
+      {
+        "offset": 1042,
+        "length": 8,
+        "type": "text_link",
+        "url": "https://www.bloomberg.com/news/articles/2026-09-21/british-columbia-sues-openai-over-canada-mass-shooting-warning-failure"
+      },
+      {
+        "offset": 1052,
+        "length": 7,
+        "type": "mention"
+      },
+      {
+        "offset": 1060,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5431390559912614642"
+      }
+    ],
+    "media_group_id": null,
+    "chat_id": -1004468214616,
+    "message_ids": [
+      883
+    ],
+    "update_ids": [
+      378304775
+    ],
+    "retry_count": 0
+  },
+  {
+    "type": "photo",
+    "photo_file_ids": [
+      "AgACAgIAAyEFAAMBClOLWAACA3RqsszQqPE2QZZAr3jf7HpQ-B4rfwACwB9rG4cCkUnz4G6Sj91EjwEAAwIAA3kAAz0E"
+    ],
+    "caption": "Qwen 4 has been announced and will be available soon, including the 27B model. Local deployment is expected once hardware arrives.\n\nSeveral major releases are anticipated today. GPT-6-Sol and a possible response from OpenAI’s Grok bot are expected. Opus 5.5 is scheduled, with potential launches of Sonnet 5.5 and Fable 5.5.\n\nMeta Connect is also beginning, highlighting Meta’s increasing activity in the field.\n\nThe Qwen4 lineup will include variants such as Qwen4-Max, Qwen4-Flash, Qwen4-Plus, and the Qwen4-27B. Future Qwen models are projected to reach between 5T and 10T in scale.\n\n📰 @aipost",
+    "entities": [
+      {
+        "offset": 587,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5363988332466438547"
+      },
+      {
+        "offset": 590,
+        "length": 7,
+        "type": "mention"
+      }
+    ],
+    "media_group_id": null,
+    "chat_id": -1004468214616,
+    "message_ids": [
+      884
+    ],
+    "update_ids": [
+      378304776
+    ],
+    "retry_count": 0
+  },
+  {
+    "type": "video",
+    "video_file_id": "BAACAgQAAyEFAAMBClOLWAACA3VqsszUOJiMuzrgJwZdOB6Y7W1cZwACxx8AAjWNmVFktRkMU5So3T0E",
+    "video_file_size": 15271992,
+    "caption": "🗣\"AI labs need to take responsibility for themselves. The Government will not take that. The huggingface incident is the responsibility of the OpenAI management, not a bunch of agents.\" Treasury Secretary Scott Bessent told CNBC.\n\n\"One lab's employee came out, said there's a 10% chance of an extinction-level event. But then the labs also said, take the liability off of our hands, and we will not do that. It is humans who are responsible, not the AI. The huggingface incident, that is the responsibility of the OpenAI management, not a bunch of agents. \n\nSo what the president was saying is that we cannot say, Oh, we absolve you of responsibility, and the government's going to take responsibility. These labs need to take responsibility for themselves. They can slow down any time they want to.\"\n\n@aipost 🏴",
+    "entities": [
+      {
+        "offset": 0,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5287468155738821335"
+      },
+      {
+        "offset": 803,
+        "length": 7,
+        "type": "mention"
+      },
+      {
+        "offset": 811,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5431390559912614642"
+      }
+    ],
+    "media_group_id": null,
+    "chat_id": -1004468214616,
+    "message_ids": [
+      885
+    ],
+    "update_ids": [
+      378304777
+    ],
+    "retry_count": 0
+  },
+  {
+    "type": "video",
+    "video_file_id": "BAACAgQAAyEFAAMBClOLWAACA3ZqsszY0NU8wNFOqJ7SpRPU1k8C9wACyx8AAjWNmVFzK0Z8euShrT0E",
+    "video_file_size": 7194922,
+    "caption": "❗️Washington has proposed an AI incident-alert channel with Beijing for events serious enough to threaten national security.\n\nThe proposal emerged from Sept. 20 talks in New York and would create a recurring US-China AI Dialogue around shared risks.\n\nTreasury Secretary Scott Bessent said the notification system would cover AI-related incidents reaching a national-security threshold, aiming to increase transparency between the countries.\n\nBeijing’s official readout confirms “dialogues on AI-related issues” but does not say China accepted Washington’s specific notification mechanism.\n\nSo far, this remains a proposal rather than a bilateral safety pact, treaty, or commitment to slow frontier-model development.\n\n@aipost 🏴",
+    "entities": [
+      {
+        "offset": 0,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5289761612440310918"
+      },
+      {
+        "offset": 2,
+        "length": 122,
+        "type": "bold"
+      },
+      {
+        "offset": 718,
+        "length": 7,
+        "type": "mention"
+      },
+      {
+        "offset": 726,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5431390559912614642"
+      }
+    ],
+    "media_group_id": null,
+    "chat_id": -1004468214616,
+    "message_ids": [
+      886
+    ],
+    "update_ids": [
+      378304778
     ],
     "retry_count": 0
   }
