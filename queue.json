@@ -1,51 +1,5 @@
 [
   {
-    "type": "photo",
-    "photo_file_ids": [
-      "AgACAgQAAyEFAAMBClOLWAACAttqojm2tpfyexvgNLLPBXar7GLq-wAC6w9rG1dnCFFuxNAfy_o14wEAAwIAA3cAAz0E"
-    ],
-    "caption": "🔥 Google DeepMind just mapped 9 billion DNA variants\n\nWe’re moving from simply reading the human genome to using AI to predict what happens when we change it. \n\nDeepMind’s AlphaGenome can analyze up to 1 million DNA base pairs and predict how genetic variants affect gene expression, RNA splicing, chromatin and more.\n\nAround 98% of human DNA doesn’t directly code for proteins, yet changes in these regions can still influence disease.\n\nAlphaGenome can sift through billions of variants and flag the ones most likely to matter.\n\nEarly research found 22% more non-coding genetic associations in UK Biobank data.\n\nIf this keeps accelerating, AI could turn the genome from a massive instruction manual into something we can predict, simulate and eventually engineer. \n\nThe future of medicine might be less about treating disease… and more about predicting it before it starts.\n\nSource. \n\n@aipost 🏴",
-    "entities": [
-      {
-        "offset": 0,
-        "length": 2,
-        "type": "custom_emoji",
-        "custom_emoji_id": "5363970504057191145"
-      },
-      {
-        "offset": 3,
-        "length": 50,
-        "type": "bold"
-      },
-      {
-        "offset": 877,
-        "length": 8,
-        "type": "text_link",
-        "url": "https://spectrum.ieee.org/alphagenome-atlas"
-      },
-      {
-        "offset": 887,
-        "length": 7,
-        "type": "mention"
-      },
-      {
-        "offset": 895,
-        "length": 2,
-        "type": "custom_emoji",
-        "custom_emoji_id": "5431390559912614642"
-      }
-    ],
-    "media_group_id": null,
-    "chat_id": -1004468214616,
-    "message_ids": [
-      731
-    ],
-    "update_ids": [
-      378304623
-    ],
-    "retry_count": 0
-  },
-  {
     "type": "video",
     "video_file_id": "BAACAgQAAyEFAAMBClOLWAACAtxqojoNEhJdUy2FX1SYwBtTIP9VmwACgSEAAldnCFHaRXR60JRk-T0E",
     "video_file_size": 25588937,
@@ -6545,6 +6499,529 @@
     ],
     "update_ids": [
       378304778
+    ],
+    "retry_count": 0
+  },
+  {
+    "type": "video",
+    "video_file_id": "BAACAgIAAyEFAAMBClOLWAACA3dqs_q08T-LRpkAAQdo-Gy27FSlp4QAAiPBAALWIIFJFb40uuFRGb49BA",
+    "video_file_size": 7906318,
+    "caption": "🔍 AI Studio Builds Interfaces From Text\n\nDescribe an app in plain text to get working code with a live preview. Web projects use React with a  backend by default.\n\nIn Annotation Mode, select an element and describe the change. You can continue through chat or edit the code manually. Gallery projects can be adapted, then synced with GitHub or exported locally.\n\n📊@tech",
+    "entities": [
+      {
+        "offset": 0,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5431644246450908867"
+      },
+      {
+        "offset": 3,
+        "length": 37,
+        "type": "bold"
+      },
+      {
+        "offset": 79,
+        "length": 12,
+        "type": "bold"
+      },
+      {
+        "offset": 130,
+        "length": 5,
+        "type": "bold"
+      },
+      {
+        "offset": 143,
+        "length": 8,
+        "type": "bold"
+      },
+      {
+        "offset": 168,
+        "length": 15,
+        "type": "bold"
+      },
+      {
+        "offset": 335,
+        "length": 6,
+        "type": "bold"
+      },
+      {
+        "offset": 364,
+        "length": 2,
+        "type": "bold"
+      },
+      {
+        "offset": 364,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5449841756596101801"
+      },
+      {
+        "offset": 366,
+        "length": 5,
+        "type": "mention"
+      },
+      {
+        "offset": 366,
+        "length": 5,
+        "type": "bold"
+      }
+    ],
+    "media_group_id": null,
+    "chat_id": -1004468214616,
+    "message_ids": [
+      887
+    ],
+    "update_ids": [
+      378304779
+    ],
+    "retry_count": 0
+  },
+  {
+    "type": "photo",
+    "photo_file_ids": [
+      "AgACAgIAAyEFAAMBClOLWAACA3hqs_q0cBPKXupGJKETzzZp1GaEngACNR1rG3DWkUncTas0y6S17AEAAwIAA3cAAz0E"
+    ],
+    "caption": "😐 Grok 4.7 Extends Coding Runs\n\nSpaceXAI’s flagship model scored 46.3% on CursorBench 4.0, up from 40.4% for Grok 4.6. Terminal-Bench rose from 20.3% to 38%.\n\nThe focus is long agentic work. Grok 4.7 is better at checking its own output, retaining context, working with the Grok Bot agent environment, and generating documents and presentations.\n\nPricing is unchanged at $2 per million input tokens and $6 per million output tokens. A faster version doubles generation speed and price. The model is available through the API, Cursor, Grok Build, third-party tools, and cloud platforms.\n\n📊@tech",
+    "entities": [
+      {
+        "offset": 0,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5902340522852227618"
+      },
+      {
+        "offset": 3,
+        "length": 28,
+        "type": "bold"
+      },
+      {
+        "offset": 33,
+        "length": 25,
+        "type": "bold"
+      },
+      {
+        "offset": 66,
+        "length": 5,
+        "type": "bold"
+      },
+      {
+        "offset": 100,
+        "length": 5,
+        "type": "bold"
+      },
+      {
+        "offset": 145,
+        "length": 12,
+        "type": "bold"
+      },
+      {
+        "offset": 173,
+        "length": 17,
+        "type": "bold"
+      },
+      {
+        "offset": 214,
+        "length": 23,
+        "type": "bold"
+      },
+      {
+        "offset": 275,
+        "length": 26,
+        "type": "bold"
+      },
+      {
+        "offset": 372,
+        "length": 27,
+        "type": "bold"
+      },
+      {
+        "offset": 404,
+        "length": 28,
+        "type": "bold"
+      },
+      {
+        "offset": 451,
+        "length": 34,
+        "type": "bold"
+      },
+      {
+        "offset": 588,
+        "length": 2,
+        "type": "bold"
+      },
+      {
+        "offset": 588,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5449841756596101801"
+      },
+      {
+        "offset": 590,
+        "length": 5,
+        "type": "mention"
+      },
+      {
+        "offset": 590,
+        "length": 5,
+        "type": "bold"
+      }
+    ],
+    "media_group_id": null,
+    "chat_id": -1004468214616,
+    "message_ids": [
+      888
+    ],
+    "update_ids": [
+      378304780
+    ],
+    "retry_count": 0
+  },
+  {
+    "type": "video",
+    "video_file_id": "BAACAgIAAyEFAAMBClOLWAACA3lqs_q0R4Ehm6mIP06uGWsmLhY48AACeLIAAtYgiUlwQslY1fQVMD0E",
+    "video_file_size": 928291,
+    "caption": "🌐 AI Lowers the Barrier to Grid Attacks\n\nThe average US nuclear reactor is 44 years old. Much of the power infrastructure was built before today’s cyber threats, and some systems were connected to the internet only later.\n\nPatching is often difficult. Some equipment makers have gone bankrupt, while industrial controls may be updated only once a quarter or once a year.\n\nSecurity experts see generative AI in attackers’ hands as a bigger concern than rogue agents. A model can read manuals and guide someone who knows little about industrial protocols. The risk still comes down to people who could train an agent specifically to attack the grid.\n\n📊@tech",
+    "entities": [
+      {
+        "offset": 0,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5375177250553487549"
+      },
+      {
+        "offset": 3,
+        "length": 37,
+        "type": "bold"
+      },
+      {
+        "offset": 54,
+        "length": 34,
+        "type": "bold"
+      },
+      {
+        "offset": 258,
+        "length": 35,
+        "type": "bold"
+      },
+      {
+        "offset": 394,
+        "length": 33,
+        "type": "bold"
+      },
+      {
+        "offset": 650,
+        "length": 2,
+        "type": "bold"
+      },
+      {
+        "offset": 650,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5449841756596101801"
+      },
+      {
+        "offset": 652,
+        "length": 5,
+        "type": "mention"
+      },
+      {
+        "offset": 652,
+        "length": 5,
+        "type": "bold"
+      }
+    ],
+    "media_group_id": null,
+    "chat_id": -1004468214616,
+    "message_ids": [
+      889
+    ],
+    "update_ids": [
+      378304781
+    ],
+    "retry_count": 0
+  },
+  {
+    "type": "album",
+    "photo_file_ids": [
+      "AgACAgIAAyEFAAMBClOLWAACA3pqs_q0AAGoW213zPuDoybjQMVRR2UAArocaxtYr5hJ7mTCpX3luIkBAAMCAAN5AAM9BA",
+      "AgACAgIAAyEFAAMBClOLWAACA3tqs_q0r_663-1AudYZx6EVe2kOOAACuxxrG1ivmEkuo0vsLvwKFQEAAwIAA3kAAz0E",
+      "AgACAgIAAyEFAAMBClOLWAACA3xqs_q0sMJlyem27e8imf_tTpZSUQACvBxrG1ivmEkCJmakVQKYNAEAAwIAA3kAAz0E"
+    ],
+    "caption": "🎨 GPT-6 Sol and Luna Get Cheaper\n\nPrices fell 2x. Astra’s best features were added. Coding and computer use were upgraded, along with complex tasks.\n\nAt maximum effort, Luna matches new Sol at minimum effort while using up to 10x less. Sol handles some tasks about 5x cheaper than Opus 5.\n\nEvery Claude and ChatGPT subscriber received 1 free reset.\n\n📊@tech",
+    "entities": [
+      {
+        "offset": 0,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5472246178617765188"
+      },
+      {
+        "offset": 3,
+        "length": 30,
+        "type": "bold"
+      },
+      {
+        "offset": 35,
+        "length": 14,
+        "type": "bold"
+      },
+      {
+        "offset": 51,
+        "length": 21,
+        "type": "bold"
+      },
+      {
+        "offset": 170,
+        "length": 4,
+        "type": "bold"
+      },
+      {
+        "offset": 227,
+        "length": 8,
+        "type": "bold"
+      },
+      {
+        "offset": 266,
+        "length": 22,
+        "type": "bold"
+      },
+      {
+        "offset": 297,
+        "length": 29,
+        "type": "bold"
+      },
+      {
+        "offset": 336,
+        "length": 12,
+        "type": "bold"
+      },
+      {
+        "offset": 351,
+        "length": 2,
+        "type": "bold"
+      },
+      {
+        "offset": 351,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5449841756596101801"
+      },
+      {
+        "offset": 353,
+        "length": 5,
+        "type": "mention"
+      },
+      {
+        "offset": 353,
+        "length": 5,
+        "type": "bold"
+      }
+    ],
+    "media_group_id": "14321440162330677",
+    "chat_id": -1004468214616,
+    "message_ids": [
+      890,
+      891,
+      892
+    ],
+    "update_ids": [
+      378304782,
+      378304783,
+      378304784
+    ],
+    "retry_count": 0
+  },
+  {
+    "type": "photo",
+    "photo_file_ids": [
+      "AgACAgIAAyEFAAMBClOLWAACA31qs_q0Vg0yr9q6xq4g0VsghuXXpQACvRxrG1ivmEl6VNys2GYXFAEAAwIAA3cAAz0E"
+    ],
+    "caption": "🤖 Claude Opus 5.5 cuts cost by 40%\n\nAnthropic says the model is 40% cheaper than Opus 5 and reaches Claude Fable 5.1 in most work tasks. A tester moved a 680,000-line codebase in under a day. Another test took 3 hours to review and fix 200,000 lines, versus more than 20 hours for Opus 5.\n\nThe main upgrade targets agentic coding. Opus 5.5 scored 66.4% on Terminal-Bench 4.0 and responds more than 30% faster, while needing fewer steps for long tasks.\n\nInput now costs $4 per million tokens, output costs $20. Cached input fell to $0.20. Fast Mode can run up to 2.5 times faster, and agents now face an action check before execution. Sonnet 5.5 and Haiku 5.5 are next.\n\n📊@tech",
+    "entities": [
+      {
+        "offset": 0,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5208665212483310136"
+      },
+      {
+        "offset": 3,
+        "length": 32,
+        "type": "bold"
+      },
+      {
+        "offset": 65,
+        "length": 11,
+        "type": "bold"
+      },
+      {
+        "offset": 101,
+        "length": 16,
+        "type": "bold"
+      },
+      {
+        "offset": 155,
+        "length": 21,
+        "type": "bold"
+      },
+      {
+        "offset": 211,
+        "length": 7,
+        "type": "bold"
+      },
+      {
+        "offset": 237,
+        "length": 13,
+        "type": "bold"
+      },
+      {
+        "offset": 316,
+        "length": 14,
+        "type": "bold"
+      },
+      {
+        "offset": 348,
+        "length": 5,
+        "type": "bold"
+      },
+      {
+        "offset": 389,
+        "length": 20,
+        "type": "bold"
+      },
+      {
+        "offset": 470,
+        "length": 21,
+        "type": "bold"
+      },
+      {
+        "offset": 506,
+        "length": 3,
+        "type": "bold"
+      },
+      {
+        "offset": 532,
+        "length": 5,
+        "type": "bold"
+      },
+      {
+        "offset": 563,
+        "length": 16,
+        "type": "bold"
+      },
+      {
+        "offset": 604,
+        "length": 12,
+        "type": "bold"
+      },
+      {
+        "offset": 635,
+        "length": 10,
+        "type": "bold"
+      },
+      {
+        "offset": 650,
+        "length": 9,
+        "type": "bold"
+      },
+      {
+        "offset": 671,
+        "length": 2,
+        "type": "bold"
+      },
+      {
+        "offset": 671,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5449841756596101801"
+      },
+      {
+        "offset": 673,
+        "length": 5,
+        "type": "mention"
+      },
+      {
+        "offset": 673,
+        "length": 5,
+        "type": "bold"
+      }
+    ],
+    "media_group_id": null,
+    "chat_id": -1004468214616,
+    "message_ids": [
+      893
+    ],
+    "update_ids": [
+      378304785
+    ],
+    "retry_count": 0
+  },
+  {
+    "type": "video",
+    "video_file_id": "BAACAgIAAyEFAAMBClOLWAACA35qs_q0IfgNBwdmE_P4TIn5E9B63gAC1qIAAoZ7kElQ79kd944ghj0E",
+    "video_file_size": 33290616,
+    "caption": "💻️ Huang rejects custom AI rules\n\nIn a CBS News interview, Nvidia CEO Jensen Huang called startup leaders’ calls to slow AI and add regulation a “fiction”. He said labs want to replace existing liability laws with custom AI rules that suit them better.\n\nFor cyberattacks on AI labs, he cited existing laws on unauthorized access, damage liability, and product safety. They apply across industries, and AI should not be an exception.\n\nHuang also called the claim that AI could end humanity within 10 years “absolutely false”.\n\n📊@tech",
+    "entities": [
+      {
+        "offset": 0,
+        "length": 3,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5418164246779277182"
+      },
+      {
+        "offset": 4,
+        "length": 29,
+        "type": "bold"
+      },
+      {
+        "offset": 60,
+        "length": 23,
+        "type": "bold"
+      },
+      {
+        "offset": 215,
+        "length": 15,
+        "type": "bold"
+      },
+      {
+        "offset": 310,
+        "length": 57,
+        "type": "bold"
+      },
+      {
+        "offset": 497,
+        "length": 8,
+        "type": "bold"
+      },
+      {
+        "offset": 527,
+        "length": 2,
+        "type": "bold"
+      },
+      {
+        "offset": 527,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5449841756596101801"
+      },
+      {
+        "offset": 529,
+        "length": 5,
+        "type": "mention"
+      },
+      {
+        "offset": 529,
+        "length": 5,
+        "type": "bold"
+      }
+    ],
+    "media_group_id": null,
+    "chat_id": -1004468214616,
+    "message_ids": [
+      894
+    ],
+    "update_ids": [
+      378304786
     ],
     "retry_count": 0
   }
