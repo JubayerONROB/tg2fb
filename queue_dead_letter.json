@@ -4179,5 +4179,33 @@
       378304618
     ],
     "retry_count": 0
+  },
+  {
+    "type": "video",
+    "video_file_id": "BAACAgQAAyEFAAMBClOLWAACAtxqojoNEhJdUy2FX1SYwBtTIP9VmwACgSEAAldnCFHaRXR60JRk-T0E",
+    "video_file_size": 25588937,
+    "caption": "Someone gave astra a robot, a paint brush, and a camera then asked it to paint the golden gate bridge in real life!\n\nit figured out how to control the robot, and progressively got better throughout its attempts.\n\n@aipost 🏴",
+    "entities": [
+      {
+        "offset": 213,
+        "length": 7,
+        "type": "mention"
+      },
+      {
+        "offset": 221,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5431390559912614642"
+      }
+    ],
+    "media_group_id": null,
+    "chat_id": -1004468214616,
+    "message_ids": [
+      732
+    ],
+    "update_ids": [
+      378304624
+    ],
+    "retry_count": 0
   }
 ]

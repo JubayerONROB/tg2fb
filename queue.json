@@ -1,34 +1,6 @@
 [
   {
     "type": "video",
-    "video_file_id": "BAACAgQAAyEFAAMBClOLWAACAtxqojoNEhJdUy2FX1SYwBtTIP9VmwACgSEAAldnCFHaRXR60JRk-T0E",
-    "video_file_size": 25588937,
-    "caption": "Someone gave astra a robot, a paint brush, and a camera then asked it to paint the golden gate bridge in real life!\n\nit figured out how to control the robot, and progressively got better throughout its attempts.\n\n@aipost 🏴",
-    "entities": [
-      {
-        "offset": 213,
-        "length": 7,
-        "type": "mention"
-      },
-      {
-        "offset": 221,
-        "length": 2,
-        "type": "custom_emoji",
-        "custom_emoji_id": "5431390559912614642"
-      }
-    ],
-    "media_group_id": null,
-    "chat_id": -1004468214616,
-    "message_ids": [
-      732
-    ],
-    "update_ids": [
-      378304624
-    ],
-    "retry_count": 0
-  },
-  {
-    "type": "video",
     "video_file_id": "BAACAgQAAyEFAAMBClOLWAACAt1qojoWHYNYVX3c52kKJec1fd3mMAACgyEAAldnCFGasQ64m8Jc5T0E",
     "video_file_size": 25188830,
     "caption": "❗️Luca Guadagnino’s ARTIFICIAL. It's coming. \n\nThe movie Sam Altman doesn't want you to see. So much so, he and OpenAI tried to pressure Amazon into deleting the movie. \n\n@aipost 🏴",
@@ -7022,6 +6994,351 @@
     ],
     "update_ids": [
       378304786
+    ],
+    "retry_count": 0
+  },
+  {
+    "type": "photo",
+    "photo_file_ids": [
+      "AgACAgQAAyEFAAMBClOLWAACA39qtCAAAUnbAoFpHdfiY-8D6nyHcwYAAqIQaxs1jZlRCcRRyU3GKrMBAAMCAAN5AAM9BA"
+    ],
+    "caption": "AI progress is getting weird\n\nOpus 5.5 has arrived, reportedly more than 5× cheaper and better than Fable. GPT-6 Sol is also here, at roughly half the price of GPT-5.6.\n\nBoth models are significantly better than their predecessors, and this entire cycle happened in less than two months.\n\nThis is probably what the next few years will look like: not one dramatic moment where the world suddenly changes, but a constant stream of models getting cheaper, smarter and more capable.\n\nOpenAI says it plans to work with top mathematicians and universities to systematically release more proofs and solutions.\n\nThe same pattern will spread far beyond mathematics:\n\nMore medicines.\nMore products.\nMore capable digital lawyers.\nMore personalized education.\nMore ambitious movies.\nMore capable robots.\n\nThe world probably won’t stop. It will just keep getting upgraded.\n\n@aipost 🏴",
+    "entities": [
+      {
+        "offset": 0,
+        "length": 28,
+        "type": "bold"
+      },
+      {
+        "offset": 861,
+        "length": 7,
+        "type": "mention"
+      },
+      {
+        "offset": 869,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5431390559912614642"
+      }
+    ],
+    "media_group_id": null,
+    "chat_id": -1004468214616,
+    "message_ids": [
+      895
+    ],
+    "update_ids": [
+      378304787
+    ],
+    "retry_count": 0
+  },
+  {
+    "type": "video",
+    "video_file_id": "BAACAgQAAyEFAAMBClOLWAACA4BqtCAAATsX1L1zguqVsIE6Yp_DmsYAAtMfAAI1jZlRCu_AdEBwxLU9BA",
+    "video_file_size": 3179107,
+    "caption": "🗣 UN Secretary-General Guterres:\n\n\"Killer robots should be forbidden. I don’t accept the idea that a machine can decide on the life or death of people.\n\nDecisions related to the life or death of people need to be taken by humans\".\n\n@aipost 🏴",
+    "entities": [
+      {
+        "offset": 0,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5287468155738821335"
+      },
+      {
+        "offset": 35,
+        "length": 196,
+        "type": "blockquote"
+      },
+      {
+        "offset": 233,
+        "length": 7,
+        "type": "mention"
+      },
+      {
+        "offset": 241,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5431390559912614642"
+      }
+    ],
+    "media_group_id": null,
+    "chat_id": -1004468214616,
+    "message_ids": [
+      896
+    ],
+    "update_ids": [
+      378304788
+    ],
+    "retry_count": 0
+  },
+  {
+    "type": "video",
+    "video_file_id": "BAACAgQAAyEFAAMBClOLWAACA4FqtCAAAb4G4eRRcodosav90gOiQPAAAvIfAAI1jZlR1eZGsKojwfc9BA",
+    "video_file_size": 61745342,
+    "caption": "🇺🇸Imagine hating AI so much that you physically show up at ChatGPT’s front door\n\nAnti-AI protesters rallied outside OpenAI’s SoHo office in NYC, taking their anger over artificial intelligence straight to the company building it.\n\n@aipost 🏴",
+    "entities": [
+      {
+        "offset": 0,
+        "length": 4,
+        "type": "bold"
+      },
+      {
+        "offset": 0,
+        "length": 4,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5202021044105257611"
+      },
+      {
+        "offset": 4,
+        "length": 77,
+        "type": "bold"
+      },
+      {
+        "offset": 233,
+        "length": 7,
+        "type": "mention"
+      },
+      {
+        "offset": 241,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5431390559912614642"
+      }
+    ],
+    "media_group_id": null,
+    "chat_id": -1004468214616,
+    "message_ids": [
+      897
+    ],
+    "update_ids": [
+      378304789
+    ],
+    "retry_count": 0
+  },
+  {
+    "type": "video",
+    "video_file_id": "BAACAgQAAyEFAAMBClOLWAACA4JqtCAAAYv4LwjLPQ7ijOH6JfTAOE4AAsEgAAI1jZlR2A5UVZGvIZM9BA",
+    "video_file_size": 14718447,
+    "caption": "🇺🇸 Trump says U.S. will call AI “Super Intelligence\"\n\nSpeaking at the UN General Assembly, President Trump said U.S. government documents will use the term “Super Intelligence,” arguing that “artificial” makes the technology sound fake.\n\n“Whoever wins super intelligence wins,” Trump said, adding that he does not want to stifle development of a technology he believes could become bigger than the Industrial Revolution.\n\nHe also rejected international efforts to broadly control AI development.\n\n@aipost 🏴",
+    "entities": [
+      {
+        "offset": 0,
+        "length": 4,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5202021044105257611"
+      },
+      {
+        "offset": 5,
+        "length": 49,
+        "type": "bold"
+      },
+      {
+        "offset": 499,
+        "length": 7,
+        "type": "mention"
+      },
+      {
+        "offset": 507,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5431390559912614642"
+      }
+    ],
+    "media_group_id": null,
+    "chat_id": -1004468214616,
+    "message_ids": [
+      898
+    ],
+    "update_ids": [
+      378304790
+    ],
+    "retry_count": 0
+  },
+  {
+    "type": "photo",
+    "photo_file_ids": [
+      "AgACAgQAAyEFAAMBClOLWAACA4NqtCAAATQmPRpSCywgHUJQC3-Vr4cAAk8Qaxs1jZlRAkFLaZZSyXsBAAMCAAN4AAM9BA"
+    ],
+    "caption": "🇨🇳 China is probing DeepSeek and Moonshot over alleged data leaks.\n\nChina’s internet regulator is investigating DeepSeek and Moonshot AI after Anthropic alleged the companies secretly routed millions of customer requests to Claude, potentially sending sensitive Chinese data to U.S. servers, according to The Information.\n\nAnthropic says Moonshot routed 23M+ exchanges to Claude between May and July, while DeepSeek routed 12.1M+ exchanges in just 14 days in July.\n\nThe allegedly exposed data included surveillance footage near PLA-linked sites, corporate information, police-system data and user credentials.\n\nChina’s regulator has reportedly summoned seven companies named in Anthropic’s report, but the investigation is now focused on DeepSeek and Moonshot.The probe is ongoing, with no penalties announced so far.\n\nSource. \n\n@aipost",
+    "entities": [
+      {
+        "offset": 0,
+        "length": 4,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5431782733376399004"
+      },
+      {
+        "offset": 5,
+        "length": 63,
+        "type": "bold"
+      },
+      {
+        "offset": 821,
+        "length": 8,
+        "type": "text_link",
+        "url": "https://www.theinformation.com/articles/china-probes-deepseek-moonshot-potential-data-leaks-anthropic?rc=fi8p5u"
+      },
+      {
+        "offset": 831,
+        "length": 7,
+        "type": "mention"
+      }
+    ],
+    "media_group_id": null,
+    "chat_id": -1004468214616,
+    "message_ids": [
+      899
+    ],
+    "update_ids": [
+      378304791
+    ],
+    "retry_count": 0
+  },
+  {
+    "type": "photo",
+    "photo_file_ids": [
+      "AgACAgIAAyEFAAMBClOLWAACA4RqtCAAAc0cJlM3lIr5WejpVEii4eAAApgbaxuHAplJMrPU_YHLffABAAMCAAN5AAM9BA"
+    ],
+    "caption": "The cost of achieving high benchmark scores in artificial intelligence has decreased significantly in recent years.\n\nAccording to Epoch, OpenAI's o3 model required approximately $0.30 per question to reach a 75% score on GPQA Diamond. Less than a year and a half later, GPT-5.6 Luna achieved the same result for about $0.0004 per question. This represents a drop in costs by a factor of 725.\n\nEpoch’s analysis suggests that since 2023, matching benchmark performance has become roughly 47% cheaper each quarter. This translates to about a 13-fold annual reduction across five key benchmarks.\n\nUnlike previous studies focusing on token prices, Epoch examines the actual dollar amount needed to reach fixed benchmark accuracy, replaying benchmark transcripts under stricter token limits. The cost reduction rate for AI surpasses that of electricity, batteries, compute, or DNA sequencing.\n\n📰 @aipost",
+    "entities": [
+      {
+        "offset": 888,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5363988332466438547"
+      },
+      {
+        "offset": 891,
+        "length": 7,
+        "type": "mention"
+      }
+    ],
+    "media_group_id": null,
+    "chat_id": -1004468214616,
+    "message_ids": [
+      900
+    ],
+    "update_ids": [
+      378304792
+    ],
+    "retry_count": 0
+  },
+  {
+    "type": "album",
+    "photo_file_ids": [
+      "AgACAgQAAyEFAAMBClOLWAACA4VqtCAAAf87Y-vBtU68qZpTV1eZu5QAAr4VaxswN6BR0VWq9ZZhsBYBAAMCAAN4AAM9BA",
+      "AgACAgQAAyEFAAMBClOLWAACA4ZqtCAAAfUTybjgMl5aEbEy3KRhcUMAAr8VaxswN6BRY4FRiP_nNpYBAAMCAAN4AAM9BA"
+    ],
+    "caption": "✍️ Opus 5.5’s biggest upgrade might not be reasoning, it’s the writing.\n\nAn early tester of Opus 5.5 noticed  that they've really fixed the writing.  He noticed that Claude hadn't written in such a straightforward, normal and non-slop way since at least Opus 4.6, nearly eight months ago.\n\n(Opus 5 left, Opus 5.5 right)\n\n@aipost 🏴",
+    "entities": [
+      {
+        "offset": 0,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5238156910363950406"
+      },
+      {
+        "offset": 3,
+        "length": 68,
+        "type": "bold"
+      },
+      {
+        "offset": 321,
+        "length": 7,
+        "type": "mention"
+      },
+      {
+        "offset": 329,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5431390559912614642"
+      }
+    ],
+    "media_group_id": "14321516549464797",
+    "chat_id": -1004468214616,
+    "message_ids": [
+      901,
+      902
+    ],
+    "update_ids": [
+      378304793,
+      378304794
+    ],
+    "retry_count": 0
+  },
+  {
+    "type": "photo",
+    "photo_file_ids": [
+      "AgACAgQAAyEFAAMBClOLWAACA4dqtCAAARGyaHJzTXeDDtNtms6RvEwAAsEVaxswN6BR2Ww0P8CzzxcBAAMCAAN5AAM9BA"
+    ],
+    "caption": "🇪🇺 Europe’s chip industry has a problem and ASML is calling it out\n\nASML, Europe’s most valuable company and a critical supplier to the global semiconductor industry, sold zero chipmaking systems to European customers last quarter.\n\nEvery machine went to customers in Asia or the US.\n\nAn ASML executive said Europe simply isn’t investing enough or building enough chip factories:\n\n“We’re not selling anything at all in Europe.”\n\nThe company is also under pressure to expand production outside the Netherlands. China and India are offering major incentives to attract ASML investment, while the US is pushing for more of the company’s R&D to happen there.\n\n@aipost 🏴",
+    "entities": [
+      {
+        "offset": 0,
+        "length": 4,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5228784522924930237"
+      },
+      {
+        "offset": 5,
+        "length": 63,
+        "type": "bold"
+      },
+      {
+        "offset": 383,
+        "length": 46,
+        "type": "blockquote"
+      },
+      {
+        "offset": 658,
+        "length": 7,
+        "type": "mention"
+      },
+      {
+        "offset": 666,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5431390559912614642"
+      }
+    ],
+    "media_group_id": null,
+    "chat_id": -1004468214616,
+    "message_ids": [
+      903
+    ],
+    "update_ids": [
+      378304795
+    ],
+    "retry_count": 0
+  },
+  {
+    "type": "album",
+    "photo_file_ids": [
+      "AgACAgIAAyEFAAMBClOLWAACA4hqtCAAAX7JVxprWFToZJFi8npLJ44AAm0baxsNSqlJdMT8JtCNc80BAAMCAAN5AAM9BA",
+      "AgACAgIAAyEFAAMBClOLWAACA4lqtCAAAQmhe1L4myFfK2qeBFR9jG4AAm4baxsNSqlJDgyJlEdsQOsBAAMCAAN4AAM9BA"
+    ],
+    "caption": "Anthropic’s new wet lab has achieved its first scientific result. Nearly 950 Claude agents operated simultaneously for 21 hours, analyzing an extensive dataset.\n\nDuring the process, one agent detected a recurring DNA sequence. Further investigation and laboratory validation led to the identification of a previously uncharacterized enzyme system within bacteriophages.\n\nAccording to company representatives, the project consumed 210 million tokens of compute. The discovery marks an early milestone for Anthropic's wet-lab efforts in automated scientific research.\n\n📰 @aipost",
+    "entities": [
+      {
+        "offset": 567,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5363988332466438547"
+      },
+      {
+        "offset": 570,
+        "length": 7,
+        "type": "mention"
+      }
+    ],
+    "media_group_id": "14321516549464813",
+    "chat_id": -1004468214616,
+    "message_ids": [
+      904,
+      905
+    ],
+    "update_ids": [
+      378304796,
+      378304797
     ],
     "retry_count": 0
   }
