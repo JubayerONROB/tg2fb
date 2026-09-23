@@ -1,48 +1,5 @@
 [
   {
-    "type": "album",
-    "photo_file_ids": [
-      "AgACAgQAAyEFAAMBClOLWAACAthqoXxN7ed_t5gbcqDNLYhiEFL80gACnxNrG5KOCFHbf8TdloylrwEAAwIAA3gAAz0E",
-      "AgACAgQAAyEFAAMBClOLWAACAtlqoXxN5t7sF5yVpENJZJ2KNCLy-AACoBNrG5KOCFF3Mp2CyrkO-wEAAwIAA3kAAz0E"
-    ],
-    "caption": "❗️OpenAI used $15 MILLION in tokens to tackle this 90-year-old mathematical mystery.\n\nThe Navier–Stokes equations describe how fluids move, from water swirling in a glass to air flowing over a wing. \n\nThe mystery is whether a smooth 3D flow can remain stable forever, or tighten into a singularity where velocity becomes infinite in finite time.\n\nOpenAI deployed 10,000 coordinating AI agents, which would cost an everyday user $15M in tokens, paired with a next-generation model. The system first solved a simpler version before producing a full result in just 88 hours.\n\nThe proposed solution identifies a vortex that spirals inward and stretches until the flow breaks down, while total energy remains finite.\n\nThe proof was then formally verified in Lean, allowing a computer to check every logical step.\n\nThe problem carries a $1 MILLION Clay Mathematics Institute prize, which OpenAI says it will not accept.\n\n@aipost 🏴",
-    "entities": [
-      {
-        "offset": 0,
-        "length": 2,
-        "type": "custom_emoji",
-        "custom_emoji_id": "5289761612440310918"
-      },
-      {
-        "offset": 2,
-        "length": 82,
-        "type": "bold"
-      },
-      {
-        "offset": 915,
-        "length": 7,
-        "type": "mention"
-      },
-      {
-        "offset": 923,
-        "length": 2,
-        "type": "custom_emoji",
-        "custom_emoji_id": "5431390559912614642"
-      }
-    ],
-    "media_group_id": "14311744104890349",
-    "chat_id": -1004468214616,
-    "message_ids": [
-      728,
-      729
-    ],
-    "update_ids": [
-      378304620,
-      378304621
-    ],
-    "retry_count": 0
-  },
-  {
     "type": "photo",
     "photo_file_ids": [
       "AgACAgQAAyEFAAMBClOLWAACAtpqoXxpeHNn8q_I1vnc95dfib10sAAC2Q9rG1dnCFEOR7L-7fnD5QEAAwIAA3kAAz0E"
