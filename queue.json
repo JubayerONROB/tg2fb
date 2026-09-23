@@ -2,41 +2,6 @@
   {
     "type": "photo",
     "photo_file_ids": [
-      "AgACAgQAAyEFAAMBClOLWAACAtpqoXxpeHNn8q_I1vnc95dfib10sAAC2Q9rG1dnCFEOR7L-7fnD5QEAAwIAA3kAAz0E"
-    ],
-    "caption": "❗️Former and current Anthropic employees are now posting that they “earnestly believe AI could kill all humans.”\n\nThis company is expected to hit $2.5 trillion in market cap in its upcoming IPO.\n\nWhat part of the cycle is this?\n\n@aipost 🏴",
-    "entities": [
-      {
-        "offset": 0,
-        "length": 2,
-        "type": "custom_emoji",
-        "custom_emoji_id": "5289761612440310918"
-      },
-      {
-        "offset": 229,
-        "length": 7,
-        "type": "mention"
-      },
-      {
-        "offset": 237,
-        "length": 2,
-        "type": "custom_emoji",
-        "custom_emoji_id": "5431390559912614642"
-      }
-    ],
-    "media_group_id": null,
-    "chat_id": -1004468214616,
-    "message_ids": [
-      730
-    ],
-    "update_ids": [
-      378304622
-    ],
-    "retry_count": 0
-  },
-  {
-    "type": "photo",
-    "photo_file_ids": [
       "AgACAgQAAyEFAAMBClOLWAACAttqojm2tpfyexvgNLLPBXar7GLq-wAC6w9rG1dnCFFuxNAfy_o14wEAAwIAA3cAAz0E"
     ],
     "caption": "🔥 Google DeepMind just mapped 9 billion DNA variants\n\nWe’re moving from simply reading the human genome to using AI to predict what happens when we change it. \n\nDeepMind’s AlphaGenome can analyze up to 1 million DNA base pairs and predict how genetic variants affect gene expression, RNA splicing, chromatin and more.\n\nAround 98% of human DNA doesn’t directly code for proteins, yet changes in these regions can still influence disease.\n\nAlphaGenome can sift through billions of variants and flag the ones most likely to matter.\n\nEarly research found 22% more non-coding genetic associations in UK Biobank data.\n\nIf this keeps accelerating, AI could turn the genome from a massive instruction manual into something we can predict, simulate and eventually engineer. \n\nThe future of medicine might be less about treating disease… and more about predicting it before it starts.\n\nSource. \n\n@aipost 🏴",
