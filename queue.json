@@ -1,56 +1,5 @@
 [
   {
-    "type": "photo",
-    "photo_file_ids": [
-      "AgACAgQAAyEFAAMBClOLWAACAtdqoXw6CAjqKHCk9KGAj5hY8Yl-3AACHBBrG9_oAVGpsQd_Sb3ICQEAAwIAA3cAAz0E"
-    ],
-    "caption": "⚡️An AI-designed drug may have made people biologically younger\n\nRentosertib just delivered a fascinating result: after 12 weeks of treatment, six different biological-age clocks all estimated patients to be roughly 3–4 years younger.\n\nThe six clocks came from independent groups, used different features and weren’t trained on the same data. Two measure mortality risk, while four track chronological age, yet they still moved in the same direction.\n\n• 54 statistical tests. 21 were significant.\n• By chance, only about 0.15 would be expected.\n\nNobel laureate Michael Levitt says the agreement between the clocks is what caught his attention, while stressing that the study cannot yet prove slower aging, since treating a lung condition could itself change the biomarkers.\n\nThe next test is Healthy volunteers. If those results hold, things get very interesting.\n\nThe first experiment is done. Now the race is to see whether AI can actually help us turn back the biological clock.\n\nSource. \n\n@aipost 🏴",
-    "entities": [
-      {
-        "offset": 0,
-        "length": 2,
-        "type": "custom_emoji",
-        "custom_emoji_id": "5366360391364412817"
-      },
-      {
-        "offset": 2,
-        "length": 61,
-        "type": "bold"
-      },
-      {
-        "offset": 810,
-        "length": 2,
-        "type": "bold"
-      },
-      {
-        "offset": 983,
-        "length": 8,
-        "type": "text_link",
-        "url": "https://dddbench.insilico.com/"
-      },
-      {
-        "offset": 993,
-        "length": 7,
-        "type": "mention"
-      },
-      {
-        "offset": 1001,
-        "length": 2,
-        "type": "custom_emoji",
-        "custom_emoji_id": "5431390559912614642"
-      }
-    ],
-    "media_group_id": null,
-    "chat_id": -1004468214616,
-    "message_ids": [
-      727
-    ],
-    "update_ids": [
-      378304619
-    ],
-    "retry_count": 0
-  },
-  {
     "type": "album",
     "photo_file_ids": [
       "AgACAgQAAyEFAAMBClOLWAACAthqoXxN7ed_t5gbcqDNLYhiEFL80gACnxNrG5KOCFHbf8TdloylrwEAAwIAA3gAAz0E",
