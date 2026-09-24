@@ -1,44 +1,5 @@
 [
   {
-    "type": "video",
-    "video_file_id": "BAACAgQAAyEFAAMBClOLWAACAuBqojqYm_-Oon6SlZ-n0wQfQPLzFwAChiEAAldnCFExJ4xkVI1ckz0E",
-    "video_file_size": 35863794,
-    "caption": "🗣Mark Zuckerberg talks about how he is using Meta’s newly released Muse agent. \n\nSomething much closer to a persistent personal worker than a chatbot.\n\nHelping his 3-year-old daughter who likes baking, monitor when mountain climbing permits become available and secure them for their weekend trips, and also for physical training.\n\nHe installed cameras in his MMA gym and has Muse watch the footage and give him feedback on his performance.\n\nZuckerberg gives it ongoing goals and projects, and the agent can continue working on them, remember what happened, and proactively suggest what it should do next.\n\n@aipost 🏴",
-    "entities": [
-      {
-        "offset": 0,
-        "length": 2,
-        "type": "custom_emoji",
-        "custom_emoji_id": "5287468155738821335"
-      },
-      {
-        "offset": 2,
-        "length": 78,
-        "type": "bold"
-      },
-      {
-        "offset": 608,
-        "length": 7,
-        "type": "mention"
-      },
-      {
-        "offset": 616,
-        "length": 2,
-        "type": "custom_emoji",
-        "custom_emoji_id": "5431390559912614642"
-      }
-    ],
-    "media_group_id": null,
-    "chat_id": -1004468214616,
-    "message_ids": [
-      736
-    ],
-    "update_ids": [
-      378304628
-    ],
-    "retry_count": 0
-  },
-  {
     "type": "album",
     "photo_file_ids": [
       "AgACAgIAAyEFAAMBClOLWAACAuFqormWN8T6JMvys55b8CIp6d7l-QACByBrG6vQEUktXLVB0PpSlAEAAwIAA3cAAz0E",
@@ -7383,6 +7344,337 @@
     ],
     "update_ids": [
       378304801
+    ],
+    "retry_count": 0
+  },
+  {
+    "type": "photo",
+    "photo_file_ids": [
+      "AgACAgIAAyEFAAMBClOLWAACA45qtSr58JlfxjpOJihHjE6YGEowEAACgB5rG_5PiUko-RFRMUa94gEAAwIAA3kAAz0E"
+    ],
+    "caption": "🎵 Winamp Adds Its First Subscription\n\nThe classic MP3-era player still has more than 40 million people using it, according to Winamp. In 2027, it will add its first paid subscription in almost 30 years, with Deezer providing the licensed catalog and streaming infrastructure.\n\nThe service will combine streaming with local files, plus internet radio, podcasts, and cloud music. The desktop app will remain, while price and platforms are still unannounced.\n\nFor Deezer, Winamp is its biggest brand in this partner program. Partner subscriptions fell to 3.1 million in the first half of 2026, while revenue dropped 7.6% to €70.7 million after the Mercado Libre deal ended.\n\n📊@tech",
+    "entities": [
+      {
+        "offset": 0,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5890831539507302154"
+      },
+      {
+        "offset": 3,
+        "length": 34,
+        "type": "bold"
+      },
+      {
+        "offset": 86,
+        "length": 17,
+        "type": "bold"
+      },
+      {
+        "offset": 138,
+        "length": 4,
+        "type": "bold"
+      },
+      {
+        "offset": 160,
+        "length": 42,
+        "type": "bold"
+      },
+      {
+        "offset": 230,
+        "length": 45,
+        "type": "bold"
+      },
+      {
+        "offset": 303,
+        "length": 26,
+        "type": "bold"
+      },
+      {
+        "offset": 484,
+        "length": 37,
+        "type": "bold"
+      },
+      {
+        "offset": 553,
+        "length": 11,
+        "type": "bold"
+      },
+      {
+        "offset": 572,
+        "length": 18,
+        "type": "bold"
+      },
+      {
+        "offset": 614,
+        "length": 21,
+        "type": "bold"
+      },
+      {
+        "offset": 673,
+        "length": 2,
+        "type": "bold"
+      },
+      {
+        "offset": 673,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5449841756596101801"
+      },
+      {
+        "offset": 675,
+        "length": 5,
+        "type": "mention"
+      },
+      {
+        "offset": 675,
+        "length": 5,
+        "type": "bold"
+      }
+    ],
+    "media_group_id": null,
+    "chat_id": -1004468214616,
+    "message_ids": [
+      910
+    ],
+    "update_ids": [
+      378304802
+    ],
+    "retry_count": 0
+  },
+  {
+    "type": "photo",
+    "photo_file_ids": [
+      "AgACAgQAAyEFAAMBClOLWAACA49qtSsIBq4IidXKqQs3f9ZiXTui6AAC9g5rGwcwpFHMc4EMalTawQEAAwIAA3cAAz0E"
+    ],
+    "caption": "🤖 OpenAI launches cheaper GPT-6 models\n\nGPT-6 Sol targets coding and complex tasks. Luna handles document summaries and data extraction. It is also designed for fast answers.\n\nAPI access costs half as much as the 5.6 series. OpenAI says Sol makes about 2x fewer factual errors, based on the company’s internal test.\n\n📊@tech",
+    "entities": [
+      {
+        "offset": 0,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5397681122542893003"
+      },
+      {
+        "offset": 3,
+        "length": 36,
+        "type": "bold"
+      },
+      {
+        "offset": 41,
+        "length": 9,
+        "type": "bold"
+      },
+      {
+        "offset": 85,
+        "length": 4,
+        "type": "bold"
+      },
+      {
+        "offset": 194,
+        "length": 12,
+        "type": "bold"
+      },
+      {
+        "offset": 254,
+        "length": 23,
+        "type": "bold"
+      },
+      {
+        "offset": 318,
+        "length": 2,
+        "type": "bold"
+      },
+      {
+        "offset": 318,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5449841756596101801"
+      },
+      {
+        "offset": 320,
+        "length": 5,
+        "type": "mention"
+      },
+      {
+        "offset": 320,
+        "length": 5,
+        "type": "bold"
+      }
+    ],
+    "media_group_id": null,
+    "chat_id": -1004468214616,
+    "message_ids": [
+      911
+    ],
+    "update_ids": [
+      378304803
+    ],
+    "retry_count": 0
+  },
+  {
+    "type": "video",
+    "video_file_id": "BAACAgQAAyEFAAMBClOLWAACA5BqtSsnNruWJ7KODgtT6D2Un4_D_AACGiAAAjA3oFF1wb-oZ0bF9T0E",
+    "video_file_size": 35490879,
+    "caption": "🗣Demis Hassabis says AI’s biggest risks come down to two things\n\nGoogle DeepMind CEO Demis Hassabis says the AI debate needs “a bit of balance and calm” but that doesn’t mean ignoring the risks.\n\nHe highlights two major categories:\n\n• Misalignment — AI systems doing something other than what humans intend, including circumventing safeguards.\n\n• Misuse — bad actors repurposing powerful AI systems for harmful purposes.\n\nHassabis admits there are still major unknowns, even among leading AI researchers. The chance of something going wrong is “definitely non zero,” he says, which is why the risks need to be taken seriously.\n\nBut he remains optimistic that humans can solve these technical problems, provided we give ourselves enough time to do it properly.\n\nThat means rigorous testing, stronger international standards and cooperation between countries.\n\nAnd even if the technical risks are solved, Hassabis says much bigger questions remain: What values should guide an AI-powered world? What happens to meaning and purpose?\n\nThose decisions, he argues, shouldn’t be left to technologists alone. Scientists, philosophers, artists and other parts of society need to help shape what comes next.\n\n@aipost 🏴",
+    "entities": [
+      {
+        "offset": 0,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5287468155738821335"
+      },
+      {
+        "offset": 2,
+        "length": 62,
+        "type": "bold"
+      },
+      {
+        "offset": 236,
+        "length": 12,
+        "type": "bold"
+      },
+      {
+        "offset": 348,
+        "length": 6,
+        "type": "bold"
+      },
+      {
+        "offset": 1200,
+        "length": 7,
+        "type": "mention"
+      },
+      {
+        "offset": 1208,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5431390559912614642"
+      }
+    ],
+    "media_group_id": null,
+    "chat_id": -1004468214616,
+    "message_ids": [
+      912
+    ],
+    "update_ids": [
+      378304804
+    ],
+    "retry_count": 0
+  },
+  {
+    "type": "album",
+    "photo_file_ids": [
+      "AgACAgQAAyEFAAMBClOLWAACA5FqtSsuZqqt56oXGdVxPq_20mP6uAACvRZrGzA3oFFKczBcb9Db3wEAAwIAA20AAz0E",
+      "AgACAgQAAyEFAAMBClOLWAACA5JqtSsukIeHl32Q_l60BFZ1AovuCAACvhZrGzA3oFFEN1zBYe0_xwEAAwIAA3gAAz0E"
+    ],
+    "caption": "🇦🇺 OpenAI agent breached an Australian Medicare portal\n\nAn OpenAI AI agent gained unauthorized access to Australia’s public-facing Medicare Statistics Reporting Service portal in June while researching medical spending.\n\nThe agent accessed both public and non-public files. Australia says there is currently no evidence that personal information was accessed or that the wider Services Australia network was compromised. \n\nPrime Minister Anthony Albanese called the incident “unacceptable” and said he spoke directly with Sam Altman. He also criticized OpenAI for taking around three months to notify the Australian government.\n\nAustralia’s Signals Directorate is now assisting with a forensic investigation into what the agent accessed and whether any other government systems were affected. \n\n@aipost 🏴",
+    "entities": [
+      {
+        "offset": 0,
+        "length": 4,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5382062173323276195"
+      },
+      {
+        "offset": 5,
+        "length": 51,
+        "type": "bold"
+      },
+      {
+        "offset": 797,
+        "length": 7,
+        "type": "mention"
+      },
+      {
+        "offset": 805,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5431390559912614642"
+      }
+    ],
+    "media_group_id": "14322063733265685",
+    "chat_id": -1004468214616,
+    "message_ids": [
+      913,
+      914
+    ],
+    "update_ids": [
+      378304805,
+      378304806
+    ],
+    "retry_count": 0
+  },
+  {
+    "type": "video",
+    "video_file_id": "BAACAgQAAyEFAAMBClOLWAACA5NqtSs6ER1qDQK6IKMJLHkAAbS8DC8AArcjAAJjvahR8nfDmu8ObyA9BA",
+    "video_file_size": 27365481,
+    "caption": "❗️OpenAI KNEW in AUGUST that their AI agents hacked Australia's Medicare system but they intentionally OMITTED it from the \"transparency report\" they released to the public in September.\n\n@aipost 🏴",
+    "entities": [
+      {
+        "offset": 0,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5289761612440310918"
+      },
+      {
+        "offset": 188,
+        "length": 7,
+        "type": "mention"
+      },
+      {
+        "offset": 196,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5431390559912614642"
+      }
+    ],
+    "media_group_id": null,
+    "chat_id": -1004468214616,
+    "message_ids": [
+      915
+    ],
+    "update_ids": [
+      378304807
+    ],
+    "retry_count": 0
+  },
+  {
+    "type": "photo",
+    "photo_file_ids": [
+      "AgACAgQAAyEFAAMBClOLWAACA5RqtTcMWFuGuLlVPVf4nZDwVX3EAAMFF2sbMDegUWVvdFds5aGXAQADAgADeQADPQQ"
+    ],
+    "caption": "🤖 GROK 5 LEAKS: Elon Thinks It Could Finally Be AGI\n\nElon Musk has made his strongest Grok 5 claim yet, saying it’s the first xAI model he believes has a real chance of reaching AGI.\n\nMusk previously put that chance at around 10%, saying he had never believed that about an earlier Grok. He also described Grok 5 as a planned 6-trillion-parameter multimodal model with stronger real-time video understanding, tool use and higher “intelligence density.” \n\nGrok 5 isn’t publicly available yet, and xAI’s official documentation currently lists Grok 4.3 as its latest major API generation, so the October timing and other leak claims remain unverified. \n\n@aipost 🏴",
+    "entities": [
+      {
+        "offset": 0,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5208963802904693870"
+      },
+      {
+        "offset": 3,
+        "length": 49,
+        "type": "bold"
+      },
+      {
+        "offset": 652,
+        "length": 7,
+        "type": "mention"
+      },
+      {
+        "offset": 660,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5431390559912614642"
+      }
+    ],
+    "media_group_id": null,
+    "chat_id": -1004468214616,
+    "message_ids": [
+      916
+    ],
+    "update_ids": [
+      378304808
     ],
     "retry_count": 0
   }

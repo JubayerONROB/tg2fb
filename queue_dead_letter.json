@@ -4246,5 +4246,44 @@
       378304625
     ],
     "retry_count": 0
+  },
+  {
+    "type": "video",
+    "video_file_id": "BAACAgQAAyEFAAMBClOLWAACAuBqojqYm_-Oon6SlZ-n0wQfQPLzFwAChiEAAldnCFExJ4xkVI1ckz0E",
+    "video_file_size": 35863794,
+    "caption": "🗣Mark Zuckerberg talks about how he is using Meta’s newly released Muse agent. \n\nSomething much closer to a persistent personal worker than a chatbot.\n\nHelping his 3-year-old daughter who likes baking, monitor when mountain climbing permits become available and secure them for their weekend trips, and also for physical training.\n\nHe installed cameras in his MMA gym and has Muse watch the footage and give him feedback on his performance.\n\nZuckerberg gives it ongoing goals and projects, and the agent can continue working on them, remember what happened, and proactively suggest what it should do next.\n\n@aipost 🏴",
+    "entities": [
+      {
+        "offset": 0,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5287468155738821335"
+      },
+      {
+        "offset": 2,
+        "length": 78,
+        "type": "bold"
+      },
+      {
+        "offset": 608,
+        "length": 7,
+        "type": "mention"
+      },
+      {
+        "offset": 616,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5431390559912614642"
+      }
+    ],
+    "media_group_id": null,
+    "chat_id": -1004468214616,
+    "message_ids": [
+      736
+    ],
+    "update_ids": [
+      378304628
+    ],
+    "retry_count": 0
   }
 ]
