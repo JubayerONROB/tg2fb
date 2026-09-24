@@ -31,45 +31,6 @@
     "media_group_id": null,
     "chat_id": -1004468214616,
     "message_ids": [
-      734
-    ],
-    "update_ids": [
-      378304626
-    ],
-    "retry_count": 0
-  },
-  {
-    "type": "video",
-    "video_file_id": "BAACAgQAAyEFAAMBClOLWAACAt5qojomn_wUE_V9PEoavS-ucGITrAAChCEAAldnCFHvD6XOn_TeEz0E",
-    "video_file_size": 20237768,
-    "caption": "❗️Meta is giving its AI an upgrade: Muse, a personal AI agent that can actually do things for you.\n\nInstead of just answering questions, Muse can book travel, send emails, fill out forms, negotiate bills, make purchases, and keep working even after you close the app.\n\nIt runs inside its own secure cloud computer, remembers context, takes the next steps proactively, and can even operate through WhatsApp.\n\nAnd Meta says it’s coming to AI glasses. \n\n@aipost 🏴",
-    "entities": [
-      {
-        "offset": 0,
-        "length": 2,
-        "type": "custom_emoji",
-        "custom_emoji_id": "5289761612440310918"
-      },
-      {
-        "offset": 2,
-        "length": 96,
-        "type": "bold"
-      },
-      {
-        "offset": 451,
-        "length": 7,
-        "type": "mention"
-      },
-      {
-        "offset": 459,
-        "length": 2,
-        "type": "custom_emoji",
-        "custom_emoji_id": "5431390559912614642"
-      }
-    ],
-    "media_group_id": null,
-    "chat_id": -1004468214616,
-    "message_ids": [
       735
     ],
     "update_ids": [
