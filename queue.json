@@ -1,45 +1,6 @@
 [
   {
     "type": "video",
-    "video_file_id": "BAACAgQAAyEFAAMBClOLWAACAt5qojomn_wUE_V9PEoavS-ucGITrAAChCEAAldnCFHvD6XOn_TeEz0E",
-    "video_file_size": 20237768,
-    "caption": "❗️Meta is giving its AI an upgrade: Muse, a personal AI agent that can actually do things for you.\n\nInstead of just answering questions, Muse can book travel, send emails, fill out forms, negotiate bills, make purchases, and keep working even after you close the app.\n\nIt runs inside its own secure cloud computer, remembers context, takes the next steps proactively, and can even operate through WhatsApp.\n\nAnd Meta says it’s coming to AI glasses. \n\n@aipost 🏴",
-    "entities": [
-      {
-        "offset": 0,
-        "length": 2,
-        "type": "custom_emoji",
-        "custom_emoji_id": "5289761612440310918"
-      },
-      {
-        "offset": 2,
-        "length": 96,
-        "type": "bold"
-      },
-      {
-        "offset": 451,
-        "length": 7,
-        "type": "mention"
-      },
-      {
-        "offset": 459,
-        "length": 2,
-        "type": "custom_emoji",
-        "custom_emoji_id": "5431390559912614642"
-      }
-    ],
-    "media_group_id": null,
-    "chat_id": -1004468214616,
-    "message_ids": [
-      735
-    ],
-    "update_ids": [
-      378304627
-    ],
-    "retry_count": 0
-  },
-  {
-    "type": "video",
     "video_file_id": "BAACAgQAAyEFAAMBClOLWAACAuBqojqYm_-Oon6SlZ-n0wQfQPLzFwAChiEAAldnCFExJ4xkVI1ckz0E",
     "video_file_size": 35863794,
     "caption": "🗣Mark Zuckerberg talks about how he is using Meta’s newly released Muse agent. \n\nSomething much closer to a persistent personal worker than a chatbot.\n\nHelping his 3-year-old daughter who likes baking, monitor when mountain climbing permits become available and secure them for their weekend trips, and also for physical training.\n\nHe installed cameras in his MMA gym and has Muse watch the footage and give him feedback on his performance.\n\nZuckerberg gives it ongoing goals and projects, and the agent can continue working on them, remember what happened, and proactively suggest what it should do next.\n\n@aipost 🏴",
@@ -7261,6 +7222,167 @@
     "update_ids": [
       378304796,
       378304797
+    ],
+    "retry_count": 0
+  },
+  {
+    "type": "video",
+    "video_file_id": "BAACAgQAAyEFAAMBClOLWAACA4pqtLocM3gw3RjxePC6qa9RRbclqgAC8h8AAjA3oFHBgBxcRQNfNj0E",
+    "video_file_size": 25527587,
+    "caption": "OpenAI announced that ChatGPT Voice can now:\n\n- Use plugins like your email, calendar, and Slack.\n\n- Be powered by GPT-6 Astra, Sol, and Luna.\n\n- Be used in ChatGPT Work on web and mobile, so you can create docs, decks, sites, and spreadsheets or tackle complex tasks in the browser, just by talking.\n\nRolling out globally today in the latest version of the app.\n\n@aipost 🏴",
+    "entities": [
+      {
+        "offset": 0,
+        "length": 44,
+        "type": "bold"
+      },
+      {
+        "offset": 364,
+        "length": 7,
+        "type": "mention"
+      },
+      {
+        "offset": 372,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5431390559912614642"
+      }
+    ],
+    "media_group_id": null,
+    "chat_id": -1004468214616,
+    "message_ids": [
+      906
+    ],
+    "update_ids": [
+      378304798
+    ],
+    "retry_count": 0
+  },
+  {
+    "type": "video",
+    "video_file_id": "BAACAgIAAyEFAAMBClOLWAACA4tqtLokgv7faNh5OFqAOKQpaaubggACsKEAAgz5qElfoiLQdf5bOT0E",
+    "video_file_size": 29049864,
+    "caption": "A short video chronicling the development of artificial intelligence, from “Attention is all you need” to AGI, was produced utilizing Opus 5.5. The three-minute project was created solely through code, without stock footage or AI-generated images.\n\nAll frames were rendered programmatically using approximately 7,400 lines of React and TypeScript via Remotion. Visuals were drawn in SVG and Canvas, narration was provided through open-source text-to-speech, and the soundtrack was synthesized in Python. Completion required around one hour and accounted for 7% of a weekly workload.\n\n📰 @aipost",
+    "entities": [
+      {
+        "offset": 584,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5363988332466438547"
+      },
+      {
+        "offset": 587,
+        "length": 7,
+        "type": "mention"
+      }
+    ],
+    "media_group_id": null,
+    "chat_id": -1004468214616,
+    "message_ids": [
+      907
+    ],
+    "update_ids": [
+      378304799
+    ],
+    "retry_count": 0
+  },
+  {
+    "type": "photo",
+    "photo_file_ids": [
+      "AgACAgQAAyEFAAMBClOLWAACA4xqtLoqWO8pnnF4kBabgTE-bCOGOwAC9BVrGzA3oFF0jg9oqAlKpAEAAwIAA3kAAz0E"
+    ],
+    "caption": "🤖OpenAI may be turning Aeon into something much bigger than a chatbot.\n\nNew leaks suggest Aeon could have its own profile, DMs and groups effectively giving OpenAI’s AI a social layer of its own.\n\nThe project is reportedly designed to compete with AI products like Grok Bot and Muse, and could launch as early as Thursday, potentially around OpenAI DevDay.\n\n@aipost 🏴",
+    "entities": [
+      {
+        "offset": 0,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5397681122542893003"
+      },
+      {
+        "offset": 2,
+        "length": 69,
+        "type": "bold"
+      },
+      {
+        "offset": 359,
+        "length": 7,
+        "type": "mention"
+      },
+      {
+        "offset": 367,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5431390559912614642"
+      }
+    ],
+    "media_group_id": null,
+    "chat_id": -1004468214616,
+    "message_ids": [
+      908
+    ],
+    "update_ids": [
+      378304800
+    ],
+    "retry_count": 0
+  },
+  {
+    "type": "photo",
+    "photo_file_ids": [
+      "AgACAgQAAyEFAAMBClOLWAACA41qtLyBIwQTn7QCatHI-nP5aKuYDQACjBZrGzA3oFEriAVbGHfgWAEAAwIAA3kAAz0E"
+    ],
+    "caption": "🤖 OpenAI may already have its next AGI-level model\n\nA new leak claims OpenAI has an internal model called Bel, reportedly a 10T+ parameter system that could become the foundation for its next generation of models.\n\nAccording to the claims, Bel is the internal model behind OpenAI’s recent Navier–Stokes breakthrough, where roughly 10,000 agents produced a proposed solution to one of the seven Millennium Prize Problems in just 88 hours. OpenAI officially confirms that an internal model drove the effort, but it has not publicly identified that model as “Bel.”\n\nThe leak further claims:\n\n→ Bel was used to help train Astra\n→ It could become the base model for a future AGI-threshold system\n→ It has 10T+ total parameters\n→ OpenAI could potentially release it before 2027, after GPT-6.1 Astra\n\n@aipost 🏴",
+    "entities": [
+      {
+        "offset": 0,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5397681122542893003"
+      },
+      {
+        "offset": 3,
+        "length": 48,
+        "type": "bold"
+      },
+      {
+        "offset": 110,
+        "length": 2,
+        "type": "bold"
+      },
+      {
+        "offset": 564,
+        "length": 24,
+        "type": "bold"
+      },
+      {
+        "offset": 619,
+        "length": 5,
+        "type": "bold"
+      },
+      {
+        "offset": 701,
+        "length": 21,
+        "type": "bold"
+      },
+      {
+        "offset": 795,
+        "length": 7,
+        "type": "mention"
+      },
+      {
+        "offset": 803,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5431390559912614642"
+      }
+    ],
+    "media_group_id": null,
+    "chat_id": -1004468214616,
+    "message_ids": [
+      909
+    ],
+    "update_ids": [
+      378304801
     ],
     "retry_count": 0
   }
