@@ -2,145 +2,6 @@
   {
     "type": "album",
     "photo_file_ids": [
-      "AgACAgIAAyEFAAMBClOLWAACAuFqormWN8T6JMvys55b8CIp6d7l-QACByBrG6vQEUktXLVB0PpSlAEAAwIAA3cAAz0E",
-      "AgACAgIAAyEFAAMBClOLWAACAuJqormWfP1cSe9i4J8UXl8eSDta6AACCCBrG6vQEUm82jDGz3QfnwEAAwIAA3cAAz0E",
-      "AgACAgIAAyEFAAMBClOLWAACAuNqormW8V03oS6RrZF43HEENDkc2wACCSBrG6vQEUk0skLSbi4X9QEAAwIAA3cAAz0E",
-      "AgACAgIAAyEFAAMBClOLWAACAuRqormW5xyFMwtuAAFduFu7aZeEbpEAAgogaxur0BFJRz2seD041lkBAAMCAAN3AAM9BA"
-    ],
-    "caption": "🍏 iPhone Duo packs two screens\n\nThe foldable has a 7.6-inch inner display, 80% larger than the iPhone 18 Pro’s, plus a 5.4-inch outer screen. Custom iOS 27 adapts to folding.\n\nIts front camera hides under the display. It has a 48-megapixel main camera, 2x telephoto lens, A20 Pro, Touch ID and Apple Pencil.\n\nTwo apps can run at once, even partly folded. The largest iPhone battery lasts 24 hours across both screens. Price: $1,999. Sales start October 23.\n\n📊@tech",
-    "entities": [
-      {
-        "offset": 0,
-        "length": 2,
-        "type": "custom_emoji",
-        "custom_emoji_id": "5398012024003246287"
-      },
-      {
-        "offset": 3,
-        "length": 28,
-        "type": "bold"
-      },
-      {
-        "offset": 52,
-        "length": 8,
-        "type": "bold"
-      },
-      {
-        "offset": 76,
-        "length": 10,
-        "type": "bold"
-      },
-      {
-        "offset": 96,
-        "length": 15,
-        "type": "bold"
-      },
-      {
-        "offset": 120,
-        "length": 8,
-        "type": "bold"
-      },
-      {
-        "offset": 143,
-        "length": 13,
-        "type": "bold"
-      },
-      {
-        "offset": 194,
-        "length": 23,
-        "type": "bold"
-      },
-      {
-        "offset": 228,
-        "length": 24,
-        "type": "bold"
-      },
-      {
-        "offset": 254,
-        "length": 17,
-        "type": "bold"
-      },
-      {
-        "offset": 273,
-        "length": 7,
-        "type": "bold"
-      },
-      {
-        "offset": 282,
-        "length": 8,
-        "type": "bold"
-      },
-      {
-        "offset": 295,
-        "length": 12,
-        "type": "bold"
-      },
-      {
-        "offset": 310,
-        "length": 24,
-        "type": "bold"
-      },
-      {
-        "offset": 360,
-        "length": 22,
-        "type": "bold"
-      },
-      {
-        "offset": 389,
-        "length": 8,
-        "type": "bold"
-      },
-      {
-        "offset": 426,
-        "length": 6,
-        "type": "bold"
-      },
-      {
-        "offset": 446,
-        "length": 10,
-        "type": "bold"
-      },
-      {
-        "offset": 459,
-        "length": 2,
-        "type": "bold"
-      },
-      {
-        "offset": 459,
-        "length": 2,
-        "type": "custom_emoji",
-        "custom_emoji_id": "5449841756596101801"
-      },
-      {
-        "offset": 461,
-        "length": 5,
-        "type": "mention"
-      },
-      {
-        "offset": 461,
-        "length": 5,
-        "type": "bold"
-      }
-    ],
-    "media_group_id": "14312393910954757",
-    "chat_id": -1004468214616,
-    "message_ids": [
-      737,
-      738,
-      739,
-      740
-    ],
-    "update_ids": [
-      378304629,
-      378304630,
-      378304631,
-      378304632
-    ],
-    "retry_count": 0
-  },
-  {
-    "type": "album",
-    "photo_file_ids": [
       "AgACAgIAAyEFAAMBClOLWAACAuVqormeE7x7RpOG28u6PExdwTozKAACECBrG6vQEUnAaLySdwAB-sIBAAMCAAN3AAM9BA",
       "AgACAgIAAyEFAAMBClOLWAACAuZqormexNYQlFdRfBnDMlV3kb67FQACESBrG6vQEUlPSoFoahMX-wEAAwIAA3cAAz0E",
       "AgACAgIAAyEFAAMBClOLWAACAudqormeyQ9i0_zBzFk_S3Kl2y09BAACEiBrG6vQEUmlEkyPBPUizwEAAwIAA3cAAz0E"
@@ -7675,6 +7536,113 @@
     ],
     "update_ids": [
       378304808
+    ],
+    "retry_count": 0
+  },
+  {
+    "type": "video",
+    "video_file_id": "BAACAgQAAyEFAAMBClOLWAACA5VqtU9Z2cocGaMmtJVtueCAZQHRlwAC-h8AApIkqFESoGW5yiyUtD0E",
+    "video_file_size": 25645800,
+    "caption": "Ⓜ️ Meta has unveiled their new VR glasses.\n\n• Price: $1,299\n• Available Spring 2027\n• Weight: 100 grams, about the weight of a deck of cards\n• Glasses contain the displays and sensors, while a separate puck houses the processor, battery and storage.\n• 5K display with micro-OLED panels\n• Pixel density: 37 pixels per degree\n• Custom pancake lenses\n• Dolby Vision\n• Dolby Atmos\n• No head straps\n• Qualcomm Snapdragon Reality Elite chip\n• Battery life: Up to 3 hours of continuous high-resolution media playback\n• 45W fast charging\n• Full-color passthrough cameras let you see your surroundings while wearing the glasses.\n• Open-sided design\n• Meta AI integrated directly into the operating system.\n• Voice commands, eye tracking and natural hand gestures, with no controllers required\n• First IMAX Enhanced-certified VR device, supporting select movies in IMAX's expanded aspect ratio.\n• Disney+ will offer select 3D movies\n• Streaming services: Partnerships with Disney+, Prime Video, YouTube, DIRECTV, AMC+, Crunchyroll, Plex, ESPN, Tubi and others\n• Immersive live sports: Front-row viewing experiences with 8K streaming and 180-degree views\n• Works with calling apps including WhatsApp and Zoom\n\n@aipost 🏴",
+    "entities": [
+      {
+        "offset": 0,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5431901622366124338"
+      },
+      {
+        "offset": 3,
+        "length": 39,
+        "type": "bold"
+      },
+      {
+        "offset": 1199,
+        "length": 7,
+        "type": "mention"
+      },
+      {
+        "offset": 1207,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5431390559912614642"
+      }
+    ],
+    "media_group_id": null,
+    "chat_id": -1004468214616,
+    "message_ids": [
+      917
+    ],
+    "update_ids": [
+      378304809
+    ],
+    "retry_count": 0
+  },
+  {
+    "type": "video",
+    "video_file_id": "BAACAgQAAyEFAAMBClOLWAACA5ZqtVeY4b9WAAFjORcQfpGPIu9aSrcAAvQfAAKSJKhR2G2l86hBY7w9BA",
+    "video_file_size": 22020179,
+    "caption": "Ⓜ️ Meta unveils Muse Charm, a Tamagotchi-style AI device that puts a personal AI agent on your keychain.\n\nThe palm-sized 5G gadget lets users talk directly to Meta’s Muse AI agent without a phone, computer or glasses. Zuckerberg calls it a “joyful little device.” Meta plans to ship it in December, just in time for the holidays.\n\n@aipost 🏴",
+    "entities": [
+      {
+        "offset": 0,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5431901622366124338"
+      },
+      {
+        "offset": 331,
+        "length": 7,
+        "type": "mention"
+      },
+      {
+        "offset": 339,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5431390559912614642"
+      }
+    ],
+    "media_group_id": null,
+    "chat_id": -1004468214616,
+    "message_ids": [
+      918
+    ],
+    "update_ids": [
+      378304810
+    ],
+    "retry_count": 0
+  },
+  {
+    "type": "video",
+    "video_file_id": "BAACAgQAAyEFAAMBClOLWAACA5dqtVeeWRi9rk4R-EIfFkm2YuFXywACGiQAAmO9qFEcdwadlOmlmz0E",
+    "video_file_size": 8312655,
+    "caption": "Meta VR Glasses come with Hologram Calling, something straight out of a movie. 🤯\n\n@aipost 🏴",
+    "entities": [
+      {
+        "offset": 79,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5370745797786738962"
+      },
+      {
+        "offset": 83,
+        "length": 7,
+        "type": "mention"
+      },
+      {
+        "offset": 91,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5431390559912614642"
+      }
+    ],
+    "media_group_id": null,
+    "chat_id": -1004468214616,
+    "message_ids": [
+      919
+    ],
+    "update_ids": [
+      378304811
     ],
     "retry_count": 0
   }
