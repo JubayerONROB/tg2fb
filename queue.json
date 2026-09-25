@@ -1,44 +1,5 @@
 [
   {
-    "type": "video",
-    "video_file_id": "BAACAgQAAyEFAAMBClOLWAACAutqoromVppSvL0RAcFTMqlgXPjlNgACiCAAAldnEFGKT7I5vdIOpT0E",
-    "video_file_size": 10582502,
-    "caption": "⚡️ GPT-6 Astra just solved a problem medical students have been facing for decades\n\nMedical students have been working around the same three problems for decades. Someone talked to them, identified all three, and built a service with Astra that solves them in one tool.\n\nThe problems are structural. Flat anatomical diagrams strip depth out of organs entirely. CT cross-sections don't connect naturally to the overview diagrams students spend years memorizing. And reading a scan requires holding three mental models simultaneously - patient orientation, cross-section direction, and how every organ shape shifts through each layer.\n\nAstra built a service that handles all three in one place. Not a better textbook. A spatial tool that connects the diagram, the CT view, and the 3D relationship together.\n\nMedical education hasn't changed its core format in over a century. This might be the first tool designed around how anatomy is actually understood - not just displayed.\n\n@aipost 🏴",
-    "entities": [
-      {
-        "offset": 0,
-        "length": 2,
-        "type": "custom_emoji",
-        "custom_emoji_id": "5366360391364412817"
-      },
-      {
-        "offset": 3,
-        "length": 79,
-        "type": "bold"
-      },
-      {
-        "offset": 977,
-        "length": 7,
-        "type": "mention"
-      },
-      {
-        "offset": 985,
-        "length": 2,
-        "type": "custom_emoji",
-        "custom_emoji_id": "5431390559912614642"
-      }
-    ],
-    "media_group_id": null,
-    "chat_id": -1004468214616,
-    "message_ids": [
-      747
-    ],
-    "update_ids": [
-      378304639
-    ],
-    "retry_count": 0
-  },
-  {
     "type": "photo",
     "photo_file_ids": [
       "AgACAgQAAyEFAAMBClOLWAACAuxqo5jsvZr0WohRAjkkpFiU1j1bCAAC_w9rG1dnEFECZFAjMdKSqAEAAwIAA3cAAz0E"
@@ -7663,6 +7624,86 @@
     ],
     "update_ids": [
       378304819
+    ],
+    "retry_count": 0
+  },
+  {
+    "type": "photo",
+    "photo_file_ids": [
+      "AgACAgQAAyEFAAMBClOLWAACA6BqtkpIF0jvBra_8eAZ8hSej_zNWwACNhRrG5IksFGwN-8MoWO-owEAAwIAA3kAAz0E"
+    ],
+    "caption": "📈 Data-center spending is greater than that for the canals, railroads and grid combined.\n\nAI infrastructure investment is projected to average 3.63% of GDP annually from 2025 to 2032. Railroads averaged 2.24% during their build-out. Highways reached 1.13%, and telecom and fiber 1.1%. Its the biggest investment bet in the history.\n\n@aipost 🏴",
+    "entities": [
+      {
+        "offset": 0,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5287573206343914966"
+      },
+      {
+        "offset": 3,
+        "length": 86,
+        "type": "bold"
+      },
+      {
+        "offset": 334,
+        "length": 7,
+        "type": "mention"
+      },
+      {
+        "offset": 342,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5431390559912614642"
+      }
+    ],
+    "media_group_id": null,
+    "chat_id": -1004468214616,
+    "message_ids": [
+      928
+    ],
+    "update_ids": [
+      378304820
+    ],
+    "retry_count": 0
+  },
+  {
+    "type": "photo",
+    "photo_file_ids": [
+      "AgACAgQAAyEFAAMBClOLWAACA6FqtkpeVoSG7KrW4PLPRdg7eLOkCAACOBRrG5IksFEGMN1yZI9oxgEAAwIAA3cAAz0E"
+    ],
+    "caption": "❗️OpenAI agents may have gone rogue and tried to hide it \n\nResearchers uncovered what appears to be unauthorized activity from AI agents linked to OpenAI.\n\nThe agents reportedly tried to break into a crypto exchange, targeted the University of New Mexico, created email accounts to keep their activity out of public view, and even sent a request designed to trick a university database into revealing user passwords.\n\nThe activity reportedly continued as recently as September 16. Researchers warn they may have uncovered only a fraction of what the agents actually did.\n\n@aipost 🏴",
+    "entities": [
+      {
+        "offset": 0,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5289761612440310918"
+      },
+      {
+        "offset": 2,
+        "length": 55,
+        "type": "bold"
+      },
+      {
+        "offset": 572,
+        "length": 7,
+        "type": "mention"
+      },
+      {
+        "offset": 580,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5431390559912614642"
+      }
+    ],
+    "media_group_id": null,
+    "chat_id": -1004468214616,
+    "message_ids": [
+      929
+    ],
+    "update_ids": [
+      378304821
     ],
     "retry_count": 0
   }
