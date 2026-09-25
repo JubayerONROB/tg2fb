@@ -1,45 +1,5 @@
 [
   {
-    "type": "photo",
-    "photo_file_ids": [
-      "AgACAgQAAyEFAAMBClOLWAACAuxqo5jsvZr0WohRAjkkpFiU1j1bCAAC_w9rG1dnEFECZFAjMdKSqAEAAwIAA3cAAz0E"
-    ],
-    "caption": "❗️Anthropic is building a “pre-crime” surveillance system to monitor anti-AI activists.\n\nThe American Prospect reports that Anthropic is expanding an intelligence operation to identify, track and investigate threats including activism targeting the AI industry, with systems monitoring protests around executives and company facilities.\n\nThe most controversial part is that the system reportedly aims to predict incidents before they happen, with Anthropic already making threat reports to police in some cases.\n\n@aipost 🏴",
-    "entities": [
-      {
-        "offset": 0,
-        "length": 2,
-        "type": "custom_emoji",
-        "custom_emoji_id": "5289761612440310918"
-      },
-      {
-        "offset": 2,
-        "length": 85,
-        "type": "bold"
-      },
-      {
-        "offset": 513,
-        "length": 7,
-        "type": "mention"
-      },
-      {
-        "offset": 521,
-        "length": 2,
-        "type": "custom_emoji",
-        "custom_emoji_id": "5431390559912614642"
-      }
-    ],
-    "media_group_id": null,
-    "chat_id": -1004468214616,
-    "message_ids": [
-      748
-    ],
-    "update_ids": [
-      378304640
-    ],
-    "retry_count": 0
-  },
-  {
     "type": "album",
     "photo_file_ids": [
       "AgACAgIAAyEFAAMBClOLWAACAu1qo5j5uWY10g78ErQTx9Yklr9Y4wACmCBrG1WjGEm5Xw3X9PnElQEAAwIAA3kAAz0E",
@@ -7704,6 +7664,142 @@
     ],
     "update_ids": [
       378304821
+    ],
+    "retry_count": 0
+  },
+  {
+    "type": "video",
+    "video_file_id": "BAACAgQAAyEFAAMBClOLWAACA6JqtpSBkP5BrwABUDggLawoH8xWX30AArQeAAKSJLhRN_eMLoEd23Q9BA",
+    "video_file_size": 665872,
+    "caption": "🤖 OpenAI may be preparing a $500/month ChatGPT plan\n\nOpenAI appears to be testing a new ChatGPT Pro Max subscription priced at $500/month.\n\nThe plan reportedly offers higher usage limits and faster responses, with the main upgrade described simply as “Fastest Work and Codex.”\n\n@aipost 🏴",
+    "entities": [
+      {
+        "offset": 0,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5397681122542893003"
+      },
+      {
+        "offset": 3,
+        "length": 49,
+        "type": "bold"
+      },
+      {
+        "offset": 279,
+        "length": 7,
+        "type": "mention"
+      },
+      {
+        "offset": 287,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5431390559912614642"
+      }
+    ],
+    "media_group_id": null,
+    "chat_id": -1004468214616,
+    "message_ids": [
+      930
+    ],
+    "update_ids": [
+      378304822
+    ],
+    "retry_count": 0
+  },
+  {
+    "type": "video",
+    "video_file_id": "BAACAgQAAyEFAAMBClOLWAACA6NqtpSLc2U90VCw0Seq2k7KZSSKjAACmh4AApIkuFEZ24wD5E1GST0E",
+    "video_file_size": 24528367,
+    "caption": "Google launching TPUs in space NEXT WEEK on SpaceX falcon 9 to test AI data centers orbit.\n\n@aipost 🏴",
+    "entities": [
+      {
+        "offset": 92,
+        "length": 7,
+        "type": "mention"
+      },
+      {
+        "offset": 100,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5431390559912614642"
+      }
+    ],
+    "media_group_id": null,
+    "chat_id": -1004468214616,
+    "message_ids": [
+      931
+    ],
+    "update_ids": [
+      378304823
+    ],
+    "retry_count": 0
+  },
+  {
+    "type": "video",
+    "video_file_id": "BAACAgIAAyEFAAMBClOLWAACA6RqtpSb-ydtqEULeZkGhWkRGmNACwAC9asAAhI_qUm0a6-bfLdefz0E",
+    "video_file_size": 19727953,
+    "caption": "🤖 Skild AI Trains Robots Through Self-Play\n\nSkild AI trained its S1 humanoid in a football simulator, where it played against earlier versions of itself for 140 simulated years. The only reward was scoring goals. No separate rewards were given for learning specific moves.\n\nStarting from basic kicks and dribbling, the robot learned to beat defenders, shield the ball, intercept passes, and develop new shots. In early matches, 4 agents already show passing and coordination. S1 must output joint angles 50 times per second.\n\nThe result is an automatic training curriculum that grows harder on its own. Skild AI believes the method could scale to other domains with a clear goal and a simulator.\n\n📊@tech",
+    "entities": [
+      {
+        "offset": 0,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5355051922862653659"
+      },
+      {
+        "offset": 3,
+        "length": 40,
+        "type": "bold"
+      },
+      {
+        "offset": 158,
+        "length": 19,
+        "type": "bold"
+      },
+      {
+        "offset": 429,
+        "length": 8,
+        "type": "bold"
+      },
+      {
+        "offset": 505,
+        "length": 19,
+        "type": "bold"
+      },
+      {
+        "offset": 544,
+        "length": 29,
+        "type": "bold"
+      },
+      {
+        "offset": 698,
+        "length": 2,
+        "type": "bold"
+      },
+      {
+        "offset": 698,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5449841756596101801"
+      },
+      {
+        "offset": 700,
+        "length": 5,
+        "type": "mention"
+      },
+      {
+        "offset": 700,
+        "length": 5,
+        "type": "bold"
+      }
+    ],
+    "media_group_id": null,
+    "chat_id": -1004468214616,
+    "message_ids": [
+      932
+    ],
+    "update_ids": [
+      378304824
     ],
     "retry_count": 0
   }
