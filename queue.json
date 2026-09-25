@@ -1,40 +1,5 @@
 [
   {
-    "type": "album",
-    "photo_file_ids": [
-      "AgACAgIAAyEFAAMBClOLWAACAu1qo5j5uWY10g78ErQTx9Yklr9Y4wACmCBrG1WjGEm5Xw3X9PnElQEAAwIAA3kAAz0E",
-      "AgACAgIAAyEFAAMBClOLWAACAu5qo5j53UKH5B8RyNLa9YWYX3jwWQAClyBrG1WjGEmCUuQKOvYpNwEAAwIAA3kAAz0E",
-      "AgACAgIAAyEFAAMBClOLWAACAu9qo5j5MmU1X97hCjrh_jaqoT_t8wACmSBrG1WjGEl6FIR9lm3HmwEAAwIAA3kAAz0E"
-    ],
-    "caption": "A number of major updates in the AI field have taken place today.\n\nOpenAI has indicated it is close to resolving the second Millennium Problem and may soon make a public announcement. According to reports, DeepSeek 4.1 Flash now outperforms both GPT-5.6 Sol and Opus 5 in DeepSWE, while also reducing API costs by 94 percent. Additionally, ChatGPT pro subscriptions are reportedly being paused, which sources attribute to increased demand.\n\nOpenAI is also preparing to expand its cybersecurity operations and has cautioned that artificial intelligence technology could pose risks to energy infrastructure.\n\n📰 @aipost",
-    "entities": [
-      {
-        "offset": 607,
-        "length": 2,
-        "type": "custom_emoji",
-        "custom_emoji_id": "5363988332466438547"
-      },
-      {
-        "offset": 610,
-        "length": 7,
-        "type": "mention"
-      }
-    ],
-    "media_group_id": "14312851401327045",
-    "chat_id": -1004468214616,
-    "message_ids": [
-      749,
-      750,
-      751
-    ],
-    "update_ids": [
-      378304641,
-      378304642,
-      378304643
-    ],
-    "retry_count": 0
-  },
-  {
     "type": "video",
     "video_file_id": "BAACAgIAAyEFAAMBClOLWAACAvBqo5kTcU7fETK2rSk9xJZPURVU_gAC6KwAAnflGEkb3aUbrcECvz0E",
     "video_file_size": 14175461,
@@ -7800,6 +7765,54 @@
     ],
     "update_ids": [
       378304824
+    ],
+    "retry_count": 0
+  },
+  {
+    "type": "album",
+    "photo_file_ids": [
+      "AgACAgQAAyEFAAMBClOLWAACA6VqtsE3lIzOU6tl_4CG74i3m5hb3AACUBBrG5IkuFEMHRJG8gTsfgEAAwIAA3kAAz0E",
+      "AgACAgQAAyEFAAMBClOLWAACA6ZqtsE3yfzuXVI9KznRPOqqeV-lJwACURBrG5IkuFGZyf29wa4TRgEAAwIAA20AAz0E"
+    ],
+    "caption": "SpaceXAI could hit 1M GPUs next week 🚀\n\nSpaceXAI is reportedly on track to have 1 million GPUs online next week, climbing to 1.44 million by year-end.\n\nThe reported breakdown:\n\n• Colossus 1: 150K H100 + 50K H200 + 30K GB200\n• Colossus 2: 110K GB200 + 440K GB300\n• +220K GB300 next week\n• +220K in November\n• +220K in December\n\nThat would mean 660,000 GB300 GPUs coming online in just 90 days.\n\n@aipost 🏴",
+    "entities": [
+      {
+        "offset": 0,
+        "length": 37,
+        "type": "bold"
+      },
+      {
+        "offset": 37,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5316571734604790521"
+      },
+      {
+        "offset": 153,
+        "length": 23,
+        "type": "bold"
+      },
+      {
+        "offset": 395,
+        "length": 7,
+        "type": "mention"
+      },
+      {
+        "offset": 403,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5431390559912614642"
+      }
+    ],
+    "media_group_id": "14322895288614133",
+    "chat_id": -1004468214616,
+    "message_ids": [
+      933,
+      934
+    ],
+    "update_ids": [
+      378304825,
+      378304826
     ],
     "retry_count": 0
   }
