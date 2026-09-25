@@ -1,54 +1,5 @@
 [
   {
-    "type": "album",
-    "photo_file_ids": [
-      "AgACAgQAAyEFAAMBClOLWAACAulqoroW6uXrr62AQJ9OZV2luHdDDQACyA9rG1dnEFH4LVOlcTUgCwEAAwIAA3kAAz0E",
-      "AgACAgQAAyEFAAMBClOLWAACAupqoroWsdFG1RT-svO7iwIjJtKv8QACyQ9rG1dnEFEkjBiDN0scuQEAAwIAA3cAAz0E"
-    ],
-    "caption": "🐋 DeepSeek just made its AI architecture much cheaper\n\nDeepSeek has introduced V4.1-Flash, a new multimodal model designed to deliver more intelligence while using dramatically less compute and memory.\n\nThe model has 552B parameters, but only 8B are active for input and 16B for output thanks to a new Causal Encoder–Decoder architecture. DeepSeek says its combination of new pre-training and large-scale RL can outperform even its flagship V4-Pro on several benchmarks.\n\nThe bigger breakthrough may be efficiency. V4.1-Flash uses just 1/4 of the HBM and 1/8 of the SSD storage needed for its previous-generation KV cache. That matters a lot for AI agents, where cached context can become a major part of inference costs.\n\nDeepSeek is also cutting prices, with off-peak rates set at 50% of peak pricing.\n\nSource.\n\n@aipost 🏴",
-    "entities": [
-      {
-        "offset": 0,
-        "length": 2,
-        "type": "custom_emoji",
-        "custom_emoji_id": "5343586984407360663"
-      },
-      {
-        "offset": 3,
-        "length": 51,
-        "type": "bold"
-      },
-      {
-        "offset": 806,
-        "length": 6,
-        "type": "text_link",
-        "url": "https://huggingface.co/deepseek-ai/DeepSeek-V4.1-Flash"
-      },
-      {
-        "offset": 815,
-        "length": 7,
-        "type": "mention"
-      },
-      {
-        "offset": 823,
-        "length": 2,
-        "type": "custom_emoji",
-        "custom_emoji_id": "5431390559912614642"
-      }
-    ],
-    "media_group_id": "14312394934840725",
-    "chat_id": -1004468214616,
-    "message_ids": [
-      745,
-      746
-    ],
-    "update_ids": [
-      378304637,
-      378304638
-    ],
-    "retry_count": 0
-  },
-  {
     "type": "video",
     "video_file_id": "BAACAgQAAyEFAAMBClOLWAACAutqoromVppSvL0RAcFTMqlgXPjlNgACiCAAAldnEFGKT7I5vdIOpT0E",
     "video_file_size": 10582502,
@@ -7603,6 +7554,115 @@
     ],
     "update_ids": [
       378304816
+    ],
+    "retry_count": 0
+  },
+  {
+    "type": "photo",
+    "photo_file_ids": [
+      "AgACAgQAAyEFAAMBClOLWAACA51qtgt5PDkWIFPmZjOQ_qURhCJU4QAC_hFrG5IkqFFZlH9W2HYG_AEAAwIAA3gAAz0E"
+    ],
+    "caption": "❗️OpenAI published a mental-health benchmark where several frontier AI models scored higher than manually written responses from mental-health experts.\n\n- GPT-6 Astra: 57.3\n- Claude Opus 5.5: 52.4\n- Expert responses: 38.5\n\nClinicians actually incurred fewer penalties. OpenAI says they scored lower largely because they answered like they would in person, extremely briefly, often with a single question or statement.\n\n@aipost 🏴",
+    "entities": [
+      {
+        "offset": 0,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5289761612440310918"
+      },
+      {
+        "offset": 419,
+        "length": 7,
+        "type": "mention"
+      },
+      {
+        "offset": 427,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5431390559912614642"
+      }
+    ],
+    "media_group_id": null,
+    "chat_id": -1004468214616,
+    "message_ids": [
+      925
+    ],
+    "update_ids": [
+      378304817
+    ],
+    "retry_count": 0
+  },
+  {
+    "type": "photo",
+    "photo_file_ids": [
+      "AgACAgQAAyEFAAMBClOLWAACA55qtguCsy0bQ1tVSvLJI24RUJ7_ZgACNxRrG5IksFH1hnewtUkHygEAAwIAA3kAAz0E"
+    ],
+    "caption": "GPT-6.5 Astra could be OpenAI’s next move 👀\n\nClaude Opus 5.5 just landed and it’s already putting pressure on GPT-6 Astra.\n\nAnthropic says Opus 5.5 matches its top-tier Fable 5.1 on many tasks while costing 40% less to run than Opus 5. On Anthropic’s published benchmarks, it also beats Astra on several coding and knowledge-work tests. \n\nNow, reports are pointing to a possible new Astra-class update already in preparation.\n\n- Could be GPT-6.1 Astra\n- Could even jump to GPT-6.5\n- Possible timing: DevDay or early October\n- Goal: push beyond Opus 5.5 and stay ahead of Anthropic’s next models\n\nOpenAI’s DevDay is happening September 29, with Sam Altman scheduled to deliver the opening keynote. OpenAI has not confirmed a GPT-6.1 or GPT-6.5 Astra.\n\nBut if the leak is real, Anthropic’s Opus 5.5 may have accelerated OpenAI’s next move.\n\n@aipost 🏴",
+    "entities": [
+      {
+        "offset": 0,
+        "length": 42,
+        "type": "bold"
+      },
+      {
+        "offset": 42,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5357121491508928442"
+      },
+      {
+        "offset": 840,
+        "length": 7,
+        "type": "mention"
+      },
+      {
+        "offset": 848,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5431390559912614642"
+      }
+    ],
+    "media_group_id": null,
+    "chat_id": -1004468214616,
+    "message_ids": [
+      926
+    ],
+    "update_ids": [
+      378304818
+    ],
+    "retry_count": 0
+  },
+  {
+    "type": "video",
+    "video_file_id": "BAACAgQAAyEFAAMBClOLWAACA59qtguQkSvmI6SjdIloWTTUXjI0TwACCCAAApIkqFH4TjEtHKo5wD0E",
+    "video_file_size": 31773064,
+    "caption": "🗣Jensen Huang says if OpenAI or Anthropic believe their models “aren’t safe” then we have to shut the labs down.\n\n@aipost 🏴",
+    "entities": [
+      {
+        "offset": 0,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5287468155738821335"
+      },
+      {
+        "offset": 115,
+        "length": 7,
+        "type": "mention"
+      },
+      {
+        "offset": 123,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5431390559912614642"
+      }
+    ],
+    "media_group_id": null,
+    "chat_id": -1004468214616,
+    "message_ids": [
+      927
+    ],
+    "update_ids": [
+      378304819
     ],
     "retry_count": 0
   }
