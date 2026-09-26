@@ -1,45 +1,6 @@
 [
   {
     "type": "video",
-    "video_file_id": "BAACAgQAAyEFAAMBClOLWAACAvVqo-5Ywj0NLB_0MXG0yVlbFLhRogACjiEAAmfpIFFi0OOztIO82j0E",
-    "video_file_size": 11057373,
-    "caption": "🤖 OpenAI just announced the launch of ChatGPT for Financial Services\n\n“A tailored ChatGPT Work experience that combines built-in financial data with GPT‑6 Astra⁠’s reasoning to help teams develop research, financial models, and customized client materials.”\n\n@aipost 🏴",
-    "entities": [
-      {
-        "offset": 0,
-        "length": 2,
-        "type": "custom_emoji",
-        "custom_emoji_id": "5397681122542893003"
-      },
-      {
-        "offset": 3,
-        "length": 66,
-        "type": "bold"
-      },
-      {
-        "offset": 260,
-        "length": 7,
-        "type": "mention"
-      },
-      {
-        "offset": 268,
-        "length": 2,
-        "type": "custom_emoji",
-        "custom_emoji_id": "5431390559912614642"
-      }
-    ],
-    "media_group_id": null,
-    "chat_id": -1004468214616,
-    "message_ids": [
-      757
-    ],
-    "update_ids": [
-      378304649
-    ],
-    "retry_count": 0
-  },
-  {
-    "type": "video",
     "video_file_id": "BAACAgIAAyEFAAMBClOLWAACAvZqpAcV_II1DK4mooSjpo5EaEtyMwAC1qsAAsugGUl43OS1iVowOT0E",
     "video_file_size": 10295084,
     "caption": "👾 30 Robots Call for AI Rules\n\nAround 30 robots appeared at a Warsaw demonstration calling for tighter AI regulation. Organizers warned that AI and humanoid robots could put human jobs at risk.\n\nDemocratism and Delta Robots organized the protest for stronger worker protection as automation spreads. People sent robots to protest robots taking human jobs.\n\n📊@tech",
