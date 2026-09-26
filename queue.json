@@ -1,34 +1,5 @@
 [
   {
-    "type": "photo",
-    "photo_file_ids": [
-      "AgACAgQAAyEFAAMBClOLWAACAvFqo5kj3nhQK8_GKWOmJt0V2rtp8wAClhBrG1dnEFEwZJ7hSvf8zwEAAwIAA3kAAz0E"
-    ],
-    "caption": "By 2030, plumbers and electricians might have more pricing power than the senior software architect. Per the latest Anthropic Economic Report\n\n@aipost 🏴",
-    "entities": [
-      {
-        "offset": 143,
-        "length": 7,
-        "type": "mention"
-      },
-      {
-        "offset": 151,
-        "length": 2,
-        "type": "custom_emoji",
-        "custom_emoji_id": "5431390559912614642"
-      }
-    ],
-    "media_group_id": null,
-    "chat_id": -1004468214616,
-    "message_ids": [
-      753
-    ],
-    "update_ids": [
-      378304645
-    ],
-    "retry_count": 0
-  },
-  {
     "type": "video",
     "video_file_id": "BAACAgQAAyEFAAMBClOLWAACAvJqo5lD8CfKh1nJqjWyH6_AaQABBygAAokgAAJXZxBR52YNxiNcUfk9BA",
     "video_file_size": 22564762,
