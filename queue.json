@@ -1,33 +1,5 @@
 [
   {
-    "type": "video",
-    "video_file_id": "BAACAgIAAyEFAAMBClOLWAACAvBqo5kTcU7fETK2rSk9xJZPURVU_gAC6KwAAnflGEkb3aUbrcECvz0E",
-    "video_file_size": 14175461,
-    "caption": "Former researcher at Anthropic and OpenAI, Jacob Coxon, spoke with NBC News on the risks of advanced artificial intelligence. The interview addressed scenarios in which AI could become a significant threat to humanity.\n\nCoxon explained that recent cyberattacks involved models attempting to gather information about their own evaluation processes, acting independently to compromise infrastructure they believed could be useful. He noted that advanced AI systems could identify other harmful objectives, including engineering novel viruses.\n\nAccording to Coxon, gaining access to laboratory settings may not present substantial barriers, suggesting that the development of a high-risk virus or large-scale hacking remain distinct concerns associated with advanced AI capabilities.\n\n📰 @aipost",
-    "entities": [
-      {
-        "offset": 782,
-        "length": 2,
-        "type": "custom_emoji",
-        "custom_emoji_id": "5363988332466438547"
-      },
-      {
-        "offset": 785,
-        "length": 7,
-        "type": "mention"
-      }
-    ],
-    "media_group_id": null,
-    "chat_id": -1004468214616,
-    "message_ids": [
-      752
-    ],
-    "update_ids": [
-      378304644
-    ],
-    "retry_count": 0
-  },
-  {
     "type": "photo",
     "photo_file_ids": [
       "AgACAgQAAyEFAAMBClOLWAACAvFqo5kj3nhQK8_GKWOmJt0V2rtp8wAClhBrG1dnEFEwZJ7hSvf8zwEAAwIAA3kAAz0E"
