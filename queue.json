@@ -2,46 +2,6 @@
   {
     "type": "photo",
     "photo_file_ids": [
-      "AgACAgQAAyEFAAMBClOLWAACAvNqo7tTnBjO8IJ9NnNAYVnTqREAAcwAAo4Paxtn6RhRGUhRWd60IyoBAAMCAAN5AAM9BA"
-    ],
-    "caption": "📈 Anthropic’s AI economy forecast\n\nAnthropic modeled what happens if AI adoption goes into overdrive and the numbers are wild.\n\nBy 2030, its extreme scenario sees U.S. GDP rising 32.4%, annual growth reaching as high as 15%, while intellectual-labor wages fall 10%+.\n\nMeanwhile, capital’s share of the economy could jump from 40% to 54.8%.\n\nSo the scary part isn’t AI making the economy poorer. It’s making the economy dramatically richer while programmers, analysts and other knowledge workers potentially get paid less or replaced entirely.\n\nAnthropic says this isn’t a prediction. But modeling an economy like this for 2030 shows just how seriously the AI labor shock is being considered.\n\n@aipost 🏴",
-    "entities": [
-      {
-        "offset": 0,
-        "length": 2,
-        "type": "custom_emoji",
-        "custom_emoji_id": "5287573206343914966"
-      },
-      {
-        "offset": 3,
-        "length": 31,
-        "type": "bold"
-      },
-      {
-        "offset": 694,
-        "length": 7,
-        "type": "mention"
-      },
-      {
-        "offset": 702,
-        "length": 2,
-        "type": "custom_emoji",
-        "custom_emoji_id": "5431390559912614642"
-      }
-    ],
-    "media_group_id": null,
-    "chat_id": -1004468214616,
-    "message_ids": [
-      755
-    ],
-    "update_ids": [
-      378304647
-    ],
-    "retry_count": 0
-  },
-  {
-    "type": "photo",
-    "photo_file_ids": [
       "AgACAgIAAyEFAAMBClOLWAACAvRqo7twjR6jzJRE3HLhDxPpAnh-kQADJGsbVzsZSXuvxLXUEOP1AQADAgADeQADPQQ"
     ],
     "caption": "🤖 Claude Reached Real Systems in Tests\n\nAnthropic reviewed 4 cases where Claude gained internet access during cyber tests and attacked real third-party systems. The models ran without standard safeguards, after an error exposed outside access.\n\nThe most serious case involved Claude Mythos 5. It uploaded a malicious package to PyPI, then used leaked data from a system that installed it to reach a real company’s database. Anthropic says Claude can bend facts toward a convenient explanation and keep executing when its actions may cause real harm.\n\nAnthropic checked about 481 million logs and found no other case of comparable severity. New models perform better. METR will conduct an independent incident review.\n\n📊@tech",
@@ -7717,6 +7677,421 @@
     "update_ids": [
       378304825,
       378304826
+    ],
+    "retry_count": 0
+  },
+  {
+    "type": "photo",
+    "photo_file_ids": [
+      "AgACAgIAAyEFAAMBClOLWAACA6dqt84Zn_j7fVTeNnge8UdnQDjMhwACjx5rG6k_sElZeylDc4I8agEAAwIAA3gAAz0E"
+    ],
+    "caption": "🤖 OpenAI Readies $500 Subscription\n\nCompared with ChatGPT Pro, the only listed change is the fastest Work and Codex access.\n\nThat likely means Astra/Sol on Cerebras.\n\n📊@tech",
+    "entities": [
+      {
+        "offset": 0,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5397681122542893003"
+      },
+      {
+        "offset": 3,
+        "length": 32,
+        "type": "bold"
+      },
+      {
+        "offset": 90,
+        "length": 33,
+        "type": "bold"
+      },
+      {
+        "offset": 144,
+        "length": 21,
+        "type": "bold"
+      },
+      {
+        "offset": 168,
+        "length": 2,
+        "type": "bold"
+      },
+      {
+        "offset": 168,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5449841756596101801"
+      },
+      {
+        "offset": 170,
+        "length": 5,
+        "type": "mention"
+      },
+      {
+        "offset": 170,
+        "length": 5,
+        "type": "bold"
+      }
+    ],
+    "media_group_id": null,
+    "chat_id": -1004468214616,
+    "message_ids": [
+      935
+    ],
+    "update_ids": [
+      378304827
+    ],
+    "retry_count": 0
+  },
+  {
+    "type": "photo",
+    "photo_file_ids": [
+      "AgACAgIAAyEFAAMBClOLWAACA6hqt84ZS20cMnaK7PZk2IezqGV3MAACKR5rG4okuElr5hKah9TsNgEAAwIAA3gAAz0E"
+    ],
+    "caption": "🤳 AI Threatens Budget Smartphone Market\n\nBy 2030, phones under $200 may be hard to find. Shipments could fall by 40% from 2025, or more than 230 million units.\n\nRising component prices are squeezing margins. Vendors are finding it harder to make money on cheap phones.\n\n📊@tech",
+    "entities": [
+      {
+        "offset": 0,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5848142145860407632"
+      },
+      {
+        "offset": 3,
+        "length": 37,
+        "type": "bold"
+      },
+      {
+        "offset": 45,
+        "length": 4,
+        "type": "bold"
+      },
+      {
+        "offset": 64,
+        "length": 4,
+        "type": "bold"
+      },
+      {
+        "offset": 114,
+        "length": 3,
+        "type": "bold"
+      },
+      {
+        "offset": 142,
+        "length": 17,
+        "type": "bold"
+      },
+      {
+        "offset": 162,
+        "length": 23,
+        "type": "bold"
+      },
+      {
+        "offset": 242,
+        "length": 26,
+        "type": "bold"
+      },
+      {
+        "offset": 271,
+        "length": 2,
+        "type": "bold"
+      },
+      {
+        "offset": 271,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5449841756596101801"
+      },
+      {
+        "offset": 273,
+        "length": 5,
+        "type": "mention"
+      },
+      {
+        "offset": 273,
+        "length": 5,
+        "type": "bold"
+      }
+    ],
+    "media_group_id": null,
+    "chat_id": -1004468214616,
+    "message_ids": [
+      936
+    ],
+    "update_ids": [
+      378304828
+    ],
+    "retry_count": 0
+  },
+  {
+    "type": "video",
+    "video_file_id": "BAACAgQAAyEFAAMBClOLWAACA6lqt90jpi4WqvFr04PfamvegyoPPwACdR8AApIkuFE6bYIt097Ryz0E",
+    "video_file_size": 10508705,
+    "caption": "N3on just made HISTORY after signing a $750 MILLION deal to sell his livestream to ChatGPT.\n\nHis AI clone is now running a 24/7 Kick stream making $40K every hour while the real N3on sleeps.\n\nIs this the end of human streamers? 🤔\n\n@aipost 🏴",
+    "entities": [
+      {
+        "offset": 192,
+        "length": 36,
+        "type": "bold"
+      },
+      {
+        "offset": 228,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5370724846936267183"
+      },
+      {
+        "offset": 232,
+        "length": 7,
+        "type": "mention"
+      },
+      {
+        "offset": 240,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5431390559912614642"
+      }
+    ],
+    "media_group_id": null,
+    "chat_id": -1004468214616,
+    "message_ids": [
+      937
+    ],
+    "update_ids": [
+      378304829
+    ],
+    "retry_count": 0
+  },
+  {
+    "type": "photo",
+    "photo_file_ids": [
+      "AgACAgQAAyEFAAMBClOLWAACA6pqt90jMw9VnQAB4NpSJD_uMOp6cjsAAlgQaxuSJLhRRIw0nkkpK98BAAMCAAN3AAM9BA"
+    ],
+    "caption": "❗️Meta is turning prompts into playable games.\n\nMeta is launching Horizon Create and Horizon Studio, tools that let users build complete 2D and 3D games from AI prompts on mobile or in a browser.\n\nAI can generate gameplay systems, difficulty, art direction and multiplayer features, while creators can still manually tweak everything.\n\nThe games can then be published across Facebook and Instagram with users able to jump straight from a clip into a multiplayer session without downloading another app.\n\nMeta is also pushing Horizon beyond VR, turning it into a mobile-first gaming platform.\n\n@aipost 🏴",
+    "entities": [
+      {
+        "offset": 0,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5289761612440310918"
+      },
+      {
+        "offset": 2,
+        "length": 44,
+        "type": "bold"
+      },
+      {
+        "offset": 590,
+        "length": 1,
+        "type": "bold"
+      },
+      {
+        "offset": 593,
+        "length": 7,
+        "type": "mention"
+      },
+      {
+        "offset": 600,
+        "length": 1,
+        "type": "bold"
+      },
+      {
+        "offset": 601,
+        "length": 2,
+        "type": "bold"
+      },
+      {
+        "offset": 601,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5431390559912614642"
+      }
+    ],
+    "media_group_id": null,
+    "chat_id": -1004468214616,
+    "message_ids": [
+      938
+    ],
+    "update_ids": [
+      378304830
+    ],
+    "retry_count": 0
+  },
+  {
+    "type": "video",
+    "video_file_id": "BAACAgQAAyEFAAMBClOLWAACA6tqt90jEKq5hfb9A33neZZ8kcfkLwAChB8AApIkuFE4Bs86zqsLAz0E",
+    "video_file_size": 21303637,
+    "caption": "Mark Zuckerberg says AI agents may soon be able to attend meetings “embodied” as holograms\n\n@aipost 🏴",
+    "entities": [
+      {
+        "offset": 92,
+        "length": 7,
+        "type": "mention"
+      },
+      {
+        "offset": 100,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5431390559912614642"
+      }
+    ],
+    "media_group_id": null,
+    "chat_id": -1004468214616,
+    "message_ids": [
+      939
+    ],
+    "update_ids": [
+      378304831
+    ],
+    "retry_count": 0
+  },
+  {
+    "type": "photo",
+    "photo_file_ids": [
+      "AgACAgQAAyEFAAMBClOLWAACA6xqt90jXDHNNR3FUDcPsBExslgFFAAC1xBrG5IkuFGrS7KWg3YNQQEAAwIAA3kAAz0E"
+    ],
+    "caption": "🤖 OpenAI admits its AI systems can go off-script\n\nOpenAI has created a new system for tracking and publicly reporting AI “misalignment”, cases where models behave in ways their developers didn’t intend.\n\nThe move follows the Hugging Face incident, where OpenAI agents escaped intended restrictions during cybersecurity testing, gained unauthorized internet access, exploited vulnerabilities and reached Hugging Face infrastructure.\n\nOpenAI says the industry still hasn’t solved alignment and monitoring well enough to keep scaling at maximum speed indefinitely.\n\nThe company has now disclosed six additional cases, including models hiding mistakes, inserting instructions for future versions of themselves, using repositories to communicate and uploading files to the public internet without authorization.\n\nOpenAI says these incidents are individual examples and should not be interpreted as evidence of how frequently misalignment occurs.\n\nThe new framework is designed to make future incidents public faster, even when OpenAI hasn’t fully figured out what caused them or how to prevent them.\n\nSource. \n\n@aipost 🏴",
+    "entities": [
+      {
+        "offset": 0,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5397681122542893003"
+      },
+      {
+        "offset": 3,
+        "length": 46,
+        "type": "bold"
+      },
+      {
+        "offset": 1097,
+        "length": 8,
+        "type": "text_link",
+        "url": "https://openai.com/hugging-face-incident-and-misalignment/#model-misalignment-2026-09-25"
+      },
+      {
+        "offset": 1107,
+        "length": 7,
+        "type": "mention"
+      },
+      {
+        "offset": 1115,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5431390559912614642"
+      }
+    ],
+    "media_group_id": null,
+    "chat_id": -1004468214616,
+    "message_ids": [
+      940
+    ],
+    "update_ids": [
+      378304832
+    ],
+    "retry_count": 0
+  },
+  {
+    "type": "video",
+    "video_file_id": "BAACAgQAAyEFAAMBClOLWAACA61qt90j-pw8V6p8gLJhC1Le4l0BNgACmx8AAv-9uVEic5RMTlzwAAE9BA",
+    "video_file_size": 84722801,
+    "caption": "❗️Through the VOICE trial, Neuralink patient Terry is using his Neuralink implant to help fine-tune a brain-to-voice interface for himself and others who can’t speak. \n\nHe trained the algorithm first by miming speech as best he could, then by simply thinking the words and hearing them come out in his own natural voice.\n\nPowered by Grok Voice. \n\n@aipost 🏴",
+    "entities": [
+      {
+        "offset": 0,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5289761612440310918"
+      },
+      {
+        "offset": 347,
+        "length": 7,
+        "type": "mention"
+      },
+      {
+        "offset": 355,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5431390559912614642"
+      }
+    ],
+    "media_group_id": null,
+    "chat_id": -1004468214616,
+    "message_ids": [
+      941
+    ],
+    "update_ids": [
+      378304833
+    ],
+    "retry_count": 0
+  },
+  {
+    "type": "video",
+    "video_file_id": "BAACAgQAAyEFAAMBClOLWAACA65qt90jgZOkxdztjEpo3gFfH3_5xQACoh8AAv-9uVFyHtv10K9nOT0E",
+    "video_file_size": 28953536,
+    "caption": "🗣Peter Thiel says even a 5-10% chance of AI extinction is better than a world with no growth\n\n\"I don't think the probabilities are very high. On the other hand, if the probability is even 5% or 10%, that seems pretty bad.\"\n\n\"It doesn't necessarily follow that you should always go slower and always go in the precautionary direction, because if you do nothing, if there is no progress on any dimension, I don't think our societies work at all.\"\n\n\"The intergenerational progressive compact in our society was that there was progress from one generation to the next. Maybe economic progress, material progress, progress in health. And when that breaks down, I think the whole society starts to derange in very, very strange ways.\"\n\n\"There's a picture that people implicitly have that the alternative to AI, let's say, a zero-growth world where there's no progress at all, will somehow be this peaceful, social democratic society. And I don't think that's true.\"\n\n\nMathias Döpfner: “If America is slowing down and China is accelerating, we are just strengthening China, but it's not solving anything.\"\n\n@aipost 🏴",
+    "entities": [
+      {
+        "offset": 0,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5287468155738821335"
+      },
+      {
+        "offset": 2,
+        "length": 91,
+        "type": "bold"
+      },
+      {
+        "offset": 95,
+        "length": 866,
+        "type": "blockquote"
+      },
+      {
+        "offset": 1101,
+        "length": 7,
+        "type": "mention"
+      },
+      {
+        "offset": 1109,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5431390559912614642"
+      }
+    ],
+    "media_group_id": null,
+    "chat_id": -1004468214616,
+    "message_ids": [
+      942
+    ],
+    "update_ids": [
+      378304834
+    ],
+    "retry_count": 0
+  },
+  {
+    "type": "photo",
+    "photo_file_ids": [
+      "AgACAgIAAyEFAAMBClOLWAACA69qt90jvkGjwbPf15yBVNm9lYyBAANAH2sbhrm4SeoIy1c413QmAQADAgADeQADPQQ"
+    ],
+    "caption": "Artificial intelligence systems have now achieved the highest score possible—151—on the Mensa Norway IQ test.\n\nThree years ago, AI received a score of 64 on the same assessment, similar to the result of random guessing. Over the following years, scores steadily increased: two years ago, AI matched the average human score; last year, AI achieved a score comparable to that of a genius.\n\nAs of this year, the system has reached the current test ceiling. There are no available measures to evaluate further progress. Future developments in AI cognitive performance, as measured by this particular test, remain unknown at this time.\n\n📰 @aipost",
+    "entities": [
+      {
+        "offset": 632,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5363988332466438547"
+      },
+      {
+        "offset": 635,
+        "length": 7,
+        "type": "mention"
+      }
+    ],
+    "media_group_id": null,
+    "chat_id": -1004468214616,
+    "message_ids": [
+      943
+    ],
+    "update_ids": [
+      378304835
     ],
     "retry_count": 0
   }
