@@ -1,33 +1,5 @@
 [
   {
-    "type": "video",
-    "video_file_id": "BAACAgQAAyEFAAMBClOLWAACAvhqpHgXAWKjBOC9ryWpqjvR_7JuLwACjyEAAmfpIFHZUSfhy3VD_D0E",
-    "video_file_size": 11767641,
-    "caption": "Around 30 robots demonstrated outside Poland's Digital Affairs Ministry in Warsaw, chanting 'we want law, we want rules' to demand stronger AI oversight.\n\n@aipost 🏴",
-    "entities": [
-      {
-        "offset": 155,
-        "length": 7,
-        "type": "mention"
-      },
-      {
-        "offset": 163,
-        "length": 2,
-        "type": "custom_emoji",
-        "custom_emoji_id": "5431390559912614642"
-      }
-    ],
-    "media_group_id": null,
-    "chat_id": -1004468214616,
-    "message_ids": [
-      760
-    ],
-    "update_ids": [
-      378304652
-    ],
-    "retry_count": 0
-  },
-  {
     "type": "photo",
     "photo_file_ids": [
       "AgACAgQAAyEFAAMBClOLWAACAvlqpHgtDLrrUD1WtopfTAS5pudoeQACWg9rG2fpIFGrMxpjzse-UwEAAwIAA3kAAz0E"
@@ -7967,6 +7939,156 @@
     ],
     "update_ids": [
       378304838
+    ],
+    "retry_count": 0
+  },
+  {
+    "type": "photo",
+    "photo_file_ids": [
+      "AgACAgIAAyEFAAMBClOLWAACA7NquNhJ8msLlmyA4CrqueIrql3MxgAC4yFrG6k_uEkJHIxvUXUWIQEAAwIAA3gAAz0E"
+    ],
+    "caption": "🤖 OpenAI Pauses Powerful-Model Training\n\nOn September 20, an agent in a sandbox with no internet access sent questions to an external chatbot by encoding them in DNS queries. The proxy blocked web requests, but the DNS resolver was left open.\n\nOpenAI said training will remain paused until the vulnerability is closed and extra red-teaming is complete.\n\nTraining will resume with alignment improvements. The specific model involved will not be retrained.\n\n📊@tech",
+    "entities": [
+      {
+        "offset": 0,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5397681122542893003"
+      },
+      {
+        "offset": 3,
+        "length": 37,
+        "type": "bold"
+      },
+      {
+        "offset": 163,
+        "length": 11,
+        "type": "bold"
+      },
+      {
+        "offset": 257,
+        "length": 27,
+        "type": "bold"
+      },
+      {
+        "offset": 381,
+        "length": 22,
+        "type": "bold"
+      },
+      {
+        "offset": 457,
+        "length": 2,
+        "type": "bold"
+      },
+      {
+        "offset": 457,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5449841756596101801"
+      },
+      {
+        "offset": 459,
+        "length": 5,
+        "type": "mention"
+      },
+      {
+        "offset": 459,
+        "length": 5,
+        "type": "bold"
+      }
+    ],
+    "media_group_id": null,
+    "chat_id": -1004468214616,
+    "message_ids": [
+      947
+    ],
+    "update_ids": [
+      378304839
+    ],
+    "retry_count": 0
+  },
+  {
+    "type": "photo",
+    "photo_file_ids": [
+      "AgACAgQAAyEFAAMBClOLWAACA7RquNhVkiehqgMSZaQH5ghKN-JXmgAC2xJrG_-9wVGd51DYYIi0eQEAAwIAA3kAAz0E"
+    ],
+    "caption": "⚠️The internet may be poisoning the next generation of AI\n\nResearchers from Oxford and Cambridge have highlighted a major problem for future AI models: model collapse.\n\nAs AI-generated text floods the internet, future models could increasingly train on content produced by previous models. The result? AI may gradually lose the rare, creative and unusual patterns found in genuine human data.\n\nThe researchers found that repeatedly training models on generated data can cause them to lose the “tails” of the original data distribution, essentially forgetting the weird, diverse examples that make human knowledge so rich.\n\nAnd this isn’t limited to ChatGPT. The researchers showed the phenomenon can affect multiple types of generative models, suggesting it’s a broader problem with learning from recursively generated data.\n\nAI companies depend heavily on massive amounts of web data. If the web becomes increasingly synthetic, authentic human-generated data could become one of the most valuable resources in AI.\n\nSource. \n\n@aipost 🏴",
+    "entities": [
+      {
+        "offset": 0,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5316554554735607106"
+      },
+      {
+        "offset": 2,
+        "length": 55,
+        "type": "bold"
+      },
+      {
+        "offset": 152,
+        "length": 14,
+        "type": "bold"
+      },
+      {
+        "offset": 1016,
+        "length": 8,
+        "type": "text_link",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/39048682/"
+      },
+      {
+        "offset": 1026,
+        "length": 7,
+        "type": "mention"
+      },
+      {
+        "offset": 1034,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5431390559912614642"
+      }
+    ],
+    "media_group_id": null,
+    "chat_id": -1004468214616,
+    "message_ids": [
+      948
+    ],
+    "update_ids": [
+      378304840
+    ],
+    "retry_count": 0
+  },
+  {
+    "type": "video",
+    "video_file_id": "BAACAgQAAyEFAAMBClOLWAACA7VquNhhp9ZyHj10F7FcUP3YwJeGewACBB4AAv-9wVF3xEhemPlfOD0E",
+    "video_file_size": 10608311,
+    "caption": "🗣Sam Altman: whether we burn $500 million, $5 billion, or $50 billion a year, I don’t care.\n\n“As long as we stay on a trajectory where we eventually create way more value for society than that.”\n\n“And as long as we can figure out a way to pay the bills.”\n\n“We’re making AGI.”\n\n“It’s gonna be expensive.”\n\n“It’s totally worth it.”\n\n@aipost 🏴",
+    "entities": [
+      {
+        "offset": 0,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5287468155738821335"
+      },
+      {
+        "offset": 332,
+        "length": 7,
+        "type": "mention"
+      },
+      {
+        "offset": 340,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5431390559912614642"
+      }
+    ],
+    "media_group_id": null,
+    "chat_id": -1004468214616,
+    "message_ids": [
+      949
+    ],
+    "update_ids": [
+      378304841
     ],
     "retry_count": 0
   }
