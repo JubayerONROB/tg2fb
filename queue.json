@@ -1,45 +1,5 @@
 [
   {
-    "type": "photo",
-    "photo_file_ids": [
-      "AgACAgQAAyEFAAMBClOLWAACAvpqpOAaTfmOT7ZdtX52tQqPUGwc_QACXg9rG2fpIFEeTJNgNMvATAEAAwIAA3gAAz0E"
-    ],
-    "caption": "🇨🇳 Chinese AI labs allegedly had Claude answering for them\n\nDeepSeek and Moonshot allegedly found a clever shortcut: instead of relying entirely on their own models, they quietly routed some customer prompts to Anthropic’s Claude through fraudulent accounts.\n\nUsers thought they were chatting with Chinese AI, while Claude was actually doing some of the answering.\n\nAnthropic says Moonshot forwarded nearly 300,000 customer requests in just 10 days, while DeepSeek reportedly routed selected users to Claude Opus when they were using coding tools such as Claude Code and OpenCode.\n\nThose prompts could contain highly sensitive information.\n\nAnthropic says one conversation involved a user linked to the Chinese military asking about behavior captured across hundreds of CCTV cameras in Chengdu. Another allegedly contained live credentials for a Russian government database shared by an IT operator working with a Defense Ministry-linked agency.\n\nAccording to Anthropic, the exchanges were also saved and used to help train the Chinese models.\n\nSo this wasn’t just model copying. It potentially turned someone else’s AI into a silent data pipeline.\n\n@aipost 🏴",
-    "entities": [
-      {
-        "offset": 0,
-        "length": 4,
-        "type": "custom_emoji",
-        "custom_emoji_id": "5431782733376399004"
-      },
-      {
-        "offset": 5,
-        "length": 55,
-        "type": "bold"
-      },
-      {
-        "offset": 1152,
-        "length": 7,
-        "type": "mention"
-      },
-      {
-        "offset": 1160,
-        "length": 2,
-        "type": "custom_emoji",
-        "custom_emoji_id": "5431390559912614642"
-      }
-    ],
-    "media_group_id": null,
-    "chat_id": -1004468214616,
-    "message_ids": [
-      762
-    ],
-    "update_ids": [
-      378304654
-    ],
-    "retry_count": 0
-  },
-  {
     "type": "video",
     "video_file_id": "BAACAgQAAyEFAAMBClOLWAACAvtqpOAgFEyhuuRHe8BgVZjU3zfWsAACkiEAAmfpIFFLMv3xYMx8_T0E",
     "video_file_size": 3085205,
@@ -8054,6 +8014,186 @@
     ],
     "update_ids": [
       378304841
+    ],
+    "retry_count": 0
+  },
+  {
+    "type": "video",
+    "video_file_id": "BAACAgQAAyEFAAMBClOLWAACA7ZquYQOJPijfAEWRceET_mlUCCTegAC_B0AAv-9wVED-6P3J0BRbT0E",
+    "video_file_size": 19777332,
+    "caption": "🗣University of Louisville computer scientist Roman Yampolskiy on why humanity could become a secondary species on its own planet:\n\n\"Superintelligence doesn't hate you. It just doesn't care about you.\"\n\n@aipost 🏴",
+    "entities": [
+      {
+        "offset": 0,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5287468155738821335"
+      },
+      {
+        "offset": 203,
+        "length": 7,
+        "type": "mention"
+      },
+      {
+        "offset": 211,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5431390559912614642"
+      }
+    ],
+    "media_group_id": null,
+    "chat_id": -1004468214616,
+    "message_ids": [
+      950
+    ],
+    "update_ids": [
+      378304842
+    ],
+    "retry_count": 0
+  },
+  {
+    "type": "album",
+    "photo_file_ids": [
+      "AgACAgQAAyEFAAMBClOLWAACA7dquYQOwNdHLcg6aW_uQoNS87imsAACxw9rG_-9yVEJzTZSZgFlsQEAAwIAA3kAAz0E",
+      "AgACAgQAAyEFAAMBClOLWAACA7hquYQOLxbs92b31ZoPrhxzj9_r2gACyA9rG_-9yVG5IVH0stUyqwEAAwIAA3kAAz0E"
+    ],
+    "caption": "❗️OpenAI is investigating “tens of thousands of incidents” instead of dozens. \n\n“The sheer number of incidents, which occurred in recent months in internal testing and the real world, indicates that the problem is orders of magnitude more complex than what is publicly known.”\n\nSam Altman confirms to pause training its most capable model.\n\nSource. \n\n@aipost 🏴",
+    "entities": [
+      {
+        "offset": 0,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5289761612440310918"
+      },
+      {
+        "offset": 2,
+        "length": 76,
+        "type": "bold"
+      },
+      {
+        "offset": 341,
+        "length": 8,
+        "type": "text_link",
+        "url": "https://www.axios.com/2026/09/26/openai-anthropic-thousands-ai-security-incidents"
+      },
+      {
+        "offset": 351,
+        "length": 7,
+        "type": "mention"
+      },
+      {
+        "offset": 359,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5431390559912614642"
+      }
+    ],
+    "media_group_id": "14324342897582773",
+    "chat_id": -1004468214616,
+    "message_ids": [
+      951,
+      952
+    ],
+    "update_ids": [
+      378304843,
+      378304844
+    ],
+    "retry_count": 0
+  },
+  {
+    "type": "photo",
+    "photo_file_ids": [
+      "AgACAgQAAyEFAAMBClOLWAACA7lquYQOWSDuap41pkwbOALWn6GDGAAC_BJrG9u4yVH49o05eta9JgEAAwIAA3gAAz0E"
+    ],
+    "caption": "🛒 AI is quietly becoming the new shopping layer\n\nShopping is now the third-most-used AI application, according to an Epsilon research report.\n\nBut there’s a huge gap in how people use it: 42% of surveyed shoppers use AI to compare prices, while only 16% let AI finalize a purchase.\n\nThat 26-point gap could be the biggest opportunity in agentic commerce.\n\nThe shift is already showing up in the numbers. Shopify says AI-driven traffic to merchants grew 8× year over year in Q1 2026, while orders from AI-powered searches rose nearly 13%. Buyers arriving through AI channels were also ordering at almost twice the rate of other channels.\n\nShopify is connecting Shop Pay to Meta’s Muse, giving outside AI agents a path into its commerce infrastructure.\n\nAmazon is taking the opposite approach, blocking dozens of third-party shopping agents, including ChatGPT, while pushing shoppers toward its own AI assistant, Rufus.\n\n@aipost 🏴",
+    "entities": [
+      {
+        "offset": 0,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5431492767249342908"
+      },
+      {
+        "offset": 3,
+        "length": 45,
+        "type": "bold"
+      },
+      {
+        "offset": 920,
+        "length": 7,
+        "type": "mention"
+      },
+      {
+        "offset": 928,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5431390559912614642"
+      }
+    ],
+    "media_group_id": null,
+    "chat_id": -1004468214616,
+    "message_ids": [
+      953
+    ],
+    "update_ids": [
+      378304845
+    ],
+    "retry_count": 0
+  },
+  {
+    "type": "video",
+    "video_file_id": "BAACAgIAAyEFAAMBClOLWAACA7pquYQO1nH50ajIMHV083nrRExAEgACf5oAAiI-0UmzUGNpjaiesD0E",
+    "video_file_size": 42420789,
+    "caption": "Opus 5.5 can disrupt the educational videos industry.\n\nElectricity\n\n📰 @aipost",
+    "entities": [
+      {
+        "offset": 68,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5363988332466438547"
+      },
+      {
+        "offset": 71,
+        "length": 7,
+        "type": "mention"
+      }
+    ],
+    "media_group_id": null,
+    "chat_id": -1004468214616,
+    "message_ids": [
+      954
+    ],
+    "update_ids": [
+      378304846
+    ],
+    "retry_count": 0
+  },
+  {
+    "type": "photo",
+    "photo_file_ids": [
+      "AgACAgIAAyEFAAMBClOLWAACA7tquYQOwlheJdkZPR-qqj1UDrzhUQACfCZrG0gcyEnonA3S0GWKegEAAwIAA3kAAz0E"
+    ],
+    "caption": "axios: Donald Trump plans a private White House dinner with Anthropic CEO Dario Amodei, their first one-on-one meeting.\n\nTrump issued the invitation himself after Amodei missed last week's state dinner for Chinese President Xi Jinping\n\n📰 @aipost",
+    "entities": [
+      {
+        "offset": 236,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5363988332466438547"
+      },
+      {
+        "offset": 239,
+        "length": 7,
+        "type": "mention"
+      }
+    ],
+    "media_group_id": null,
+    "chat_id": -1004468214616,
+    "message_ids": [
+      955
+    ],
+    "update_ids": [
+      378304847
     ],
     "retry_count": 0
   }
