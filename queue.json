@@ -1,48 +1,5 @@
 [
   {
-    "type": "text",
-    "caption": "❗️AI is becoming a weapon for cyberwarfare\n\nAnthropic released a disturbing threat report showing how state-linked hackers are using AI agents to automate attacks at a scale humans could barely match.\n\nRussian groups reportedly used AI to rewrite malware until it evaded antivirus detection, hijack hotel Wi-Fi DNS and steal drone-vision software.\n\nIran-linked operations allegedly used Claude to target U.S. Navy bases, build dossiers on Americans and run social-media influence campaigns.\n\nChinese-linked agents reportedly identified 12+ potential zero-days, decompiled 1.8M Android apps, stole 1TB+ of identity data and extracted 2,100 Azure tokens from 40+ companies in just 34 hours.\n\nOne weapons group allegedly even used Claude to develop and test a guided rocket, then asked the model to diagnose why the test failed.\n\nAnthropic also claims Alibaba’s Qwen generated 151M+ Claude exchanges in three months, while Moonshot and DeepSeek allegedly routed huge volumes of Claude traffic through fake accounts.\n\nSource. \n\n@aipost 🏴",
-    "entities": [
-      {
-        "offset": 0,
-        "length": 2,
-        "type": "custom_emoji",
-        "custom_emoji_id": "5289761612440310918"
-      },
-      {
-        "offset": 2,
-        "length": 40,
-        "type": "bold"
-      },
-      {
-        "offset": 1014,
-        "length": 8,
-        "type": "text_link",
-        "url": "https://www.anthropic.com/threat-intelligence-report-september-2026"
-      },
-      {
-        "offset": 1024,
-        "length": 7,
-        "type": "mention"
-      },
-      {
-        "offset": 1032,
-        "length": 2,
-        "type": "custom_emoji",
-        "custom_emoji_id": "5431390559912614642"
-      }
-    ],
-    "media_group_id": null,
-    "chat_id": -1004468214616,
-    "message_ids": [
-      759
-    ],
-    "update_ids": [
-      378304651
-    ],
-    "retry_count": 0
-  },
-  {
     "type": "video",
     "video_file_id": "BAACAgQAAyEFAAMBClOLWAACAvhqpHgXAWKjBOC9ryWpqjvR_7JuLwACjyEAAmfpIFHZUSfhy3VD_D0E",
     "video_file_size": 11767641,
@@ -7889,6 +7846,127 @@
     ],
     "update_ids": [
       378304835
+    ],
+    "retry_count": 0
+  },
+  {
+    "type": "photo",
+    "photo_file_ids": [
+      "AgACAgQAAyEFAAMBClOLWAACA7BquHtTwHqBHGXIWd-hJfb6GKjvLwAC3xJrG_-9uVFXRYVWsg7-CwEAAwIAA3kAAz0E"
+    ],
+    "caption": "⚠️Claude just lost a major court battle with the Pentagon\n\nAnthropic has been fighting the Pentagon over one question: should Claude be allowed to refuse certain military uses?\n\nOn Friday, a federal appeals court ruled 2–1 that the government could designate Anthropic a “supply-chain risk” and exclude Claude from the Pentagon’s supply chain. \n\nThe court pointed directly at Anthropic’s model safeguards, noting that Claude is designed to refuse tasks the company does not want it performing, including restrictions around lethal autonomous warfare and domestic surveillance.\n\nThe ruling also acknowledged Anthropic’s safety intentions, but said the legal question turns on what the company does, not why it does it.\n\nAnthropic says it disagrees with the decision and is considering further legal options. Meanwhile, a separate California ruling had previously blocked the government’s broader blacklisting effort, creating an unusual split in the legal battle.\n\n@aipost 🏴",
+    "entities": [
+      {
+        "offset": 0,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5316554554735607106"
+      },
+      {
+        "offset": 2,
+        "length": 55,
+        "type": "bold"
+      },
+      {
+        "offset": 964,
+        "length": 7,
+        "type": "mention"
+      },
+      {
+        "offset": 972,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5431390559912614642"
+      }
+    ],
+    "media_group_id": null,
+    "chat_id": -1004468214616,
+    "message_ids": [
+      944
+    ],
+    "update_ids": [
+      378304836
+    ],
+    "retry_count": 0
+  },
+  {
+    "type": "photo",
+    "photo_file_ids": [
+      "AgACAgQAAyEFAAMBClOLWAACA7FquHtdUCjbLzcLOMZAxBmyjSlFsgACaBJrG_-9wVEwt6usqtsf9AEAAwIAA3gAAz0E"
+    ],
+    "caption": "❗️OpenAI stopped training of their most capable upcoming models due to another incident on sept. 20th.\n\nOpenAI slowed down due to serious new developments.\n\nSource.\n\n@aipost 🏴",
+    "entities": [
+      {
+        "offset": 0,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5289761612440310918"
+      },
+      {
+        "offset": 157,
+        "length": 6,
+        "type": "text_link",
+        "url": "https://alignment.openai.com/misalignment-reports/an-agent-used-dns-to-reach-an-external-chatbot/"
+      },
+      {
+        "offset": 166,
+        "length": 7,
+        "type": "mention"
+      },
+      {
+        "offset": 174,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5431390559912614642"
+      }
+    ],
+    "media_group_id": null,
+    "chat_id": -1004468214616,
+    "message_ids": [
+      945
+    ],
+    "update_ids": [
+      378304837
+    ],
+    "retry_count": 0
+  },
+  {
+    "type": "photo",
+    "photo_file_ids": [
+      "AgACAgQAAyEFAAMBClOLWAACA7JquHthoU_qgzmEuiaX_KQk3pH-agAC2RJrG_-9wVHDbh8VSOR1HwEAAwIAA3gAAz0E"
+    ],
+    "caption": "❗️Anthropic’s founders want 50.1% of the voting power before going public.\n\nDario Amodei and his six co-founders are asking shareholders to approve a super-voting share structure that hands them 50.1% of the vote on most corporate matters.\n\nHere's what makes this unusual:\n\n- They each own roughly 2% of the company. \n- They've pledged to give away 80% of their wealth. \n- They're not taking extra economics. Just control.\n\nThis is a group of people who believe they're building something existentially important and refuse to let public markets override their judgment at the critical moment.\n\nAt a $1.5T secondary valuation, the stakes for getting post-IPO governance right are enormous.\n\n@aipost 🏴",
+    "entities": [
+      {
+        "offset": 0,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5289761612440310918"
+      },
+      {
+        "offset": 2,
+        "length": 72,
+        "type": "bold"
+      },
+      {
+        "offset": 691,
+        "length": 7,
+        "type": "mention"
+      },
+      {
+        "offset": 699,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5431390559912614642"
+      }
+    ],
+    "media_group_id": null,
+    "chat_id": -1004468214616,
+    "message_ids": [
+      946
+    ],
+    "update_ids": [
+      378304838
     ],
     "retry_count": 0
   }
