@@ -2,41 +2,6 @@
   {
     "type": "photo",
     "photo_file_ids": [
-      "AgACAgQAAyEFAAMBClOLWAACAvlqpHgtDLrrUD1WtopfTAS5pudoeQACWg9rG2fpIFGrMxpjzse-UwEAAwIAA3kAAz0E"
-    ],
-    "caption": "Why are employees from Google, OpenAI and Anthropic suddenly speaking up about AI risks? 🤔\n\n@aipost 🏴",
-    "entities": [
-      {
-        "offset": 89,
-        "length": 2,
-        "type": "custom_emoji",
-        "custom_emoji_id": "5370724846936267183"
-      },
-      {
-        "offset": 93,
-        "length": 7,
-        "type": "mention"
-      },
-      {
-        "offset": 101,
-        "length": 2,
-        "type": "custom_emoji",
-        "custom_emoji_id": "5431390559912614642"
-      }
-    ],
-    "media_group_id": null,
-    "chat_id": -1004468214616,
-    "message_ids": [
-      761
-    ],
-    "update_ids": [
-      378304653
-    ],
-    "retry_count": 0
-  },
-  {
-    "type": "photo",
-    "photo_file_ids": [
       "AgACAgQAAyEFAAMBClOLWAACAvpqpOAaTfmOT7ZdtX52tQqPUGwc_QACXg9rG2fpIFEeTJNgNMvATAEAAwIAA3gAAz0E"
     ],
     "caption": "🇨🇳 Chinese AI labs allegedly had Claude answering for them\n\nDeepSeek and Moonshot allegedly found a clever shortcut: instead of relying entirely on their own models, they quietly routed some customer prompts to Anthropic’s Claude through fraudulent accounts.\n\nUsers thought they were chatting with Chinese AI, while Claude was actually doing some of the answering.\n\nAnthropic says Moonshot forwarded nearly 300,000 customer requests in just 10 days, while DeepSeek reportedly routed selected users to Claude Opus when they were using coding tools such as Claude Code and OpenCode.\n\nThose prompts could contain highly sensitive information.\n\nAnthropic says one conversation involved a user linked to the Chinese military asking about behavior captured across hundreds of CCTV cameras in Chengdu. Another allegedly contained live credentials for a Russian government database shared by an IT operator working with a Defense Ministry-linked agency.\n\nAccording to Anthropic, the exchanges were also saved and used to help train the Chinese models.\n\nSo this wasn’t just model copying. It potentially turned someone else’s AI into a silent data pipeline.\n\n@aipost 🏴",
