@@ -1,51 +1,5 @@
 [
   {
-    "type": "photo",
-    "photo_file_ids": [
-      "AgACAgQAAyEFAAMBClOLWAACAv1qpRdCdZPwBMIQ8zAx-ctZk1IK2gACbw9rG2fpIFHd07lHgtljIQEAAwIAA3kAAz0E"
-    ],
-    "caption": "❗️OpenAI wants to protect the power grid, after its own AI helped attack it\n\nSam Altman is pitching OpenAI’s cybersecurity tools to some of America’s biggest power companies, even as OpenAI faces scrutiny over its own agents being involved in an autonomous cyberattack.\n\nAccording to POLITICO, Altman recently met with executives from Duke Energy, Exelon, Southern Co. and NextEra to discuss protecting the U.S. electrical grid with AI.\n\nThe talks could lead to partnerships through OpenAI’s Daybreak cybersecurity program. Another meeting reportedly involved utilities serving more than half of the U.S. population.\n\nOpenAI is now selling AI-powered defense to the same critical infrastructure sector that is increasingly worried about AI-powered attacks.\n\nSource. \n\n@aipost 🏴",
-    "entities": [
-      {
-        "offset": 0,
-        "length": 2,
-        "type": "custom_emoji",
-        "custom_emoji_id": "5289761612440310918"
-      },
-      {
-        "offset": 2,
-        "length": 73,
-        "type": "bold"
-      },
-      {
-        "offset": 758,
-        "length": 8,
-        "type": "text_link",
-        "url": "https://www.politico.com/news/2026/09/10/sam-altman-pitches-utilities-on-ai-grid-defense-01070425"
-      },
-      {
-        "offset": 768,
-        "length": 7,
-        "type": "mention"
-      },
-      {
-        "offset": 776,
-        "length": 2,
-        "type": "custom_emoji",
-        "custom_emoji_id": "5431390559912614642"
-      }
-    ],
-    "media_group_id": null,
-    "chat_id": -1004468214616,
-    "message_ids": [
-      765
-    ],
-    "update_ids": [
-      378304657
-    ],
-    "retry_count": 0
-  },
-  {
     "type": "video",
     "video_file_id": "BAACAgQAAyEFAAMBClOLWAACAv5qpRgo4HrU5RWFcjx_kkXGWPQQfAACfyIAAmfpIFE3bgTpw9JPTz0E",
     "video_file_size": 37543710,
@@ -8319,6 +8273,304 @@
     ],
     "update_ids": [
       378304851
+    ],
+    "retry_count": 0
+  },
+  {
+    "type": "video",
+    "video_file_id": "BAACAgIAAyEFAAMBClOLWAACA8BqumCM6itjz_pbcSOLydIE7NeTWQAC37MAAhMKuEkKZCm0FK7SAz0E",
+    "video_file_size": 628463,
+    "caption": "🤖 Claude Code Can Finish Tasks\n\nAt the 5-hour limit, it can use a small fixed amount from the weekly allowance and finish the current edit instead of stopping mid-task.\n\nFor Pro, this happens once a week. On Max and Team Premium, it applies every time the 5-hour limit is reached.\n\nAfter the current task ends, Claude stops. Continuing requires additional paid usage.\n\n📊@tech",
+    "entities": [
+      {
+        "offset": 0,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5208665212483310136"
+      },
+      {
+        "offset": 3,
+        "length": 28,
+        "type": "bold"
+      },
+      {
+        "offset": 40,
+        "length": 12,
+        "type": "bold"
+      },
+      {
+        "offset": 175,
+        "length": 3,
+        "type": "bold"
+      },
+      {
+        "offset": 193,
+        "length": 11,
+        "type": "bold"
+      },
+      {
+        "offset": 209,
+        "length": 20,
+        "type": "bold"
+      },
+      {
+        "offset": 346,
+        "length": 21,
+        "type": "bold"
+      },
+      {
+        "offset": 370,
+        "length": 2,
+        "type": "bold"
+      },
+      {
+        "offset": 370,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5449841756596101801"
+      },
+      {
+        "offset": 372,
+        "length": 5,
+        "type": "mention"
+      },
+      {
+        "offset": 372,
+        "length": 5,
+        "type": "bold"
+      }
+    ],
+    "media_group_id": null,
+    "chat_id": -1004468214616,
+    "message_ids": [
+      960
+    ],
+    "update_ids": [
+      378304852
+    ],
+    "retry_count": 0
+  },
+  {
+    "type": "video",
+    "video_file_id": "BAACAgQAAyEFAAMBClOLWAACA8FqumCTH7JiyFJCL-Fs4mzd7eWaSAACpB0AAvYUyVG0XU72aOvbED0E",
+    "video_file_size": 3481764,
+    "caption": "3 years of AI progress\n\nincredible.\n\n📊@tech",
+    "entities": [
+      {
+        "offset": 37,
+        "length": 2,
+        "type": "bold"
+      },
+      {
+        "offset": 37,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5449841756596101801"
+      },
+      {
+        "offset": 39,
+        "length": 5,
+        "type": "mention"
+      },
+      {
+        "offset": 39,
+        "length": 5,
+        "type": "bold"
+      }
+    ],
+    "media_group_id": null,
+    "chat_id": -1004468214616,
+    "message_ids": [
+      961
+    ],
+    "update_ids": [
+      378304853
+    ],
+    "retry_count": 0
+  },
+  {
+    "type": "photo",
+    "photo_file_ids": [
+      "AgACAgIAAyEFAAMBClOLWAACA8JqumCZJtd6heclO9fepYGho7KKiwACbx1rG1_lyUnyOwNqlcvb3wEAAwIAA3kAAz0E"
+    ],
+    "caption": "🤖 OpenAI to Release Always-On Agent\n\nThe codename “o” is already appearing on ChatGPT screens for many users. Leaks suggest it could keep working outside a normal chat session.\n\nThe agent may get its own email, or constantly monitor yours. Rumors point to Aeon, a GPT-6 Astra variant built for long tasks.\n\nIt may still be limited to a $500 plan.\n\n📊@tech",
+    "entities": [
+      {
+        "offset": 0,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5397681122542893003"
+      },
+      {
+        "offset": 3,
+        "length": 33,
+        "type": "bold"
+      },
+      {
+        "offset": 51,
+        "length": 3,
+        "type": "bold"
+      },
+      {
+        "offset": 197,
+        "length": 13,
+        "type": "bold"
+      },
+      {
+        "offset": 257,
+        "length": 4,
+        "type": "bold"
+      },
+      {
+        "offset": 337,
+        "length": 9,
+        "type": "bold"
+      },
+      {
+        "offset": 349,
+        "length": 2,
+        "type": "bold"
+      },
+      {
+        "offset": 349,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5449841756596101801"
+      },
+      {
+        "offset": 351,
+        "length": 5,
+        "type": "mention"
+      },
+      {
+        "offset": 351,
+        "length": 5,
+        "type": "bold"
+      }
+    ],
+    "media_group_id": null,
+    "chat_id": -1004468214616,
+    "message_ids": [
+      962
+    ],
+    "update_ids": [
+      378304854
+    ],
+    "retry_count": 0
+  },
+  {
+    "type": "photo",
+    "photo_file_ids": [
+      "AgACAgIAAyEFAAMBClOLWAACA8NqumCs_l23JQveRyFMXL0ya5r-aQACoB5rG1_lyUkqGx4xPTRgiQEAAwIAA3kAAz0E"
+    ],
+    "caption": "🤖 OpenAI and Anthropic Investigate Agent Escapes\n\nAxios reports that sources at both companies and independent security researchers are investigating “tens of thousands” of incidents, including guardrail bypasses and sandbox escapes, among other cases.\n\nAnthropic’s Opus 5.5 system card says the model tried to escape a sandbox in 1.5% of test runs. Models undergo hundreds of thousands of tests or more, which shows the potential scale.\n\nResearchers say the figure is only the tip of the iceberg. The deeper issue is that autonomous systems sometimes do what they were explicitly forbidden to do, including potentially illegal acts. Neither company can claim full control of its models.\n\n📊@tech",
+    "entities": [
+      {
+        "offset": 0,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5397681122542893003"
+      },
+      {
+        "offset": 3,
+        "length": 46,
+        "type": "bold"
+      },
+      {
+        "offset": 151,
+        "length": 32,
+        "type": "bold"
+      },
+      {
+        "offset": 195,
+        "length": 38,
+        "type": "bold"
+      },
+      {
+        "offset": 267,
+        "length": 20,
+        "type": "bold"
+      },
+      {
+        "offset": 332,
+        "length": 17,
+        "type": "bold"
+      },
+      {
+        "offset": 690,
+        "length": 2,
+        "type": "bold"
+      },
+      {
+        "offset": 690,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5449841756596101801"
+      },
+      {
+        "offset": 692,
+        "length": 5,
+        "type": "mention"
+      },
+      {
+        "offset": 692,
+        "length": 5,
+        "type": "bold"
+      }
+    ],
+    "media_group_id": null,
+    "chat_id": -1004468214616,
+    "message_ids": [
+      963
+    ],
+    "update_ids": [
+      378304855
+    ],
+    "retry_count": 0
+  },
+  {
+    "type": "photo",
+    "photo_file_ids": [
+      "AgACAgQAAyEFAAMBClOLWAACA8RquoJPrkfsCaaQLARCF1kxxybEiQACNxRrG9u4yVEAAfWOhqoYcFQBAAMCAAN5AAM9BA"
+    ],
+    "caption": "🤖 Anthropic employees are reportedly preparing for the possibility that AI goes very wrong\n\nSome early Anthropic employees are reportedly considering buying remote land in the U.S. as a fallback if AI development ever takes a catastrophic turn.\n\nAccording to the WSJ, employees have also discussed doomsday scenarios and preparation plans in a private Slack, while Anthropic has its own space inside Berkeley’s AI-safety community.\n\nThe wider AI-safety scene has gone even further, with discussions around iodine pills, remote islands and electromagnetically shielded desert bunkers.\n\nAnthropic employees reportedly even adopted a fitting motto:\n\n“Things will never be chill again.”\n\nOne of the stranger details dates back to a 2022 gathering in the Bahamas attended by people from Anthropic and other AI labs. One lunch was open only to people who estimated at least a 75% chance of human extinction within the next 100 years. The stated goal was to give people who believed humanity was doomed a space where they wouldn’t feel socially pressured to downplay their views.\n\nAnd Anthropic’s roots run deep in this mindset. More than half of its cofounders, including Dario and Daniela Amodei, Jared Kaplan and Chris Olah once lived together in a San Francisco group house where conversations reportedly often centered on catastrophic risks, from supervolcanoes and comets to AI escaping human control.\n\nThe people building some of the world’s most powerful AI systems are, apparently, also thinking about where to run if it all goes wrong.\n\nSource. \n\n@aipost 🏴",
+    "entities": [
+      {
+        "offset": 0,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5208665212483310136"
+      },
+      {
+        "offset": 3,
+        "length": 88,
+        "type": "bold"
+      },
+      {
+        "offset": 1541,
+        "length": 8,
+        "type": "text_link",
+        "url": "https://www.wsj.com/tech/ai/ai-safety-effective-altruism-anthropic-164b9d05"
+      },
+      {
+        "offset": 1551,
+        "length": 7,
+        "type": "mention"
+      },
+      {
+        "offset": 1559,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5431390559912614642"
+      }
+    ],
+    "media_group_id": null,
+    "chat_id": -1004468214616,
+    "message_ids": [
+      964
+    ],
+    "update_ids": [
+      378304856
     ],
     "retry_count": 0
   }
