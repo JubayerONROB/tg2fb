@@ -2,52 +2,6 @@
   {
     "type": "photo",
     "photo_file_ids": [
-      "AgACAgQAAyEFAAMBClOLWAACAvxqpRc68e0lyhijFWGMr6akeNDXdAACZQ9rG2fpIFFcMTf_2Jiu_gEAAwIAA3gAAz0E"
-    ],
-    "caption": "⚡️SpaceX could fix the AI power bottleneck without making turbines\n\nAI data centers need electricity faster than turbine manufacturers can supply it, with some orders reportedly stretching toward 2030.\n\nSpaceX is now planning to manufacture scarce gas-turbine parts like blades and vanes itself.\n\nSpaceX may not even need to produce them at scale. Just proving it can make these components could pressure existing turbine suppliers to expand production before AI companies start building their own supply chains.\n\nThat extra capacity could mean more turbines, shorter wait times and faster power deployment for data centers.\n\nSpaceX may not need to become a turbine company. It just needs to make turbine makers nervous enough to build more.\n\nSource.\n\n@aipost 🏴",
-    "entities": [
-      {
-        "offset": 0,
-        "length": 2,
-        "type": "custom_emoji",
-        "custom_emoji_id": "5366360391364412817"
-      },
-      {
-        "offset": 2,
-        "length": 64,
-        "type": "bold"
-      },
-      {
-        "offset": 743,
-        "length": 6,
-        "type": "text_link",
-        "url": "https://www.ft.com/content/38e0e6c6-0775-4f05-89e4-c02bbcf7008a?syn-25a6b1a6=1"
-      },
-      {
-        "offset": 752,
-        "length": 7,
-        "type": "mention"
-      },
-      {
-        "offset": 760,
-        "length": 2,
-        "type": "custom_emoji",
-        "custom_emoji_id": "5431390559912614642"
-      }
-    ],
-    "media_group_id": null,
-    "chat_id": -1004468214616,
-    "message_ids": [
-      764
-    ],
-    "update_ids": [
-      378304656
-    ],
-    "retry_count": 0
-  },
-  {
-    "type": "photo",
-    "photo_file_ids": [
       "AgACAgQAAyEFAAMBClOLWAACAv1qpRdCdZPwBMIQ8zAx-ctZk1IK2gACbw9rG2fpIFHd07lHgtljIQEAAwIAA3kAAz0E"
     ],
     "caption": "❗️OpenAI wants to protect the power grid, after its own AI helped attack it\n\nSam Altman is pitching OpenAI’s cybersecurity tools to some of America’s biggest power companies, even as OpenAI faces scrutiny over its own agents being involved in an autonomous cyberattack.\n\nAccording to POLITICO, Altman recently met with executives from Duke Energy, Exelon, Southern Co. and NextEra to discuss protecting the U.S. electrical grid with AI.\n\nThe talks could lead to partnerships through OpenAI’s Daybreak cybersecurity program. Another meeting reportedly involved utilities serving more than half of the U.S. population.\n\nOpenAI is now selling AI-powered defense to the same critical infrastructure sector that is increasingly worried about AI-powered attacks.\n\nSource. \n\n@aipost 🏴",
@@ -8160,6 +8114,211 @@
     ],
     "update_ids": [
       378304847
+    ],
+    "retry_count": 0
+  },
+  {
+    "type": "video",
+    "video_file_id": "BAACAgQAAyEFAAMBClOLWAACA7xqufUAAVUPQc5UUESP5vo1O5aulrEAAmAfAALbuMlRdFRB1XSxG0w9BA",
+    "video_file_size": 12422451,
+    "caption": "LeCun says AGI isn’t here. Huang says it might already be. 👀\n\nTwo AI heavyweights have very different takes on where we are.\n\n🗣️ Yann LeCun:\n“There’s absolutely no way in hell” we’ll reach human-level intelligence simply by scaling LLMs.\n\nHis argument: LLMs have enormous memory and retrieval capabilities, but that doesn’t mean they can genuinely solve problems they’ve never encountered.\n\n🗣️ Jensen Huang:\n“I think we’ve achieved AGI.”\n\nHuang points to what today’s agents can already do, from creating apps that could reach billions of users to finding jobs, doing work and making money.\n\nHe also argues that AI changing a job doesn’t necessarily mean the job itself disappears.\n\nSo who do you agree with? 🤔\n\n• LeCun: scaling LLMs alone won’t get us to AGI\n• Huang: AI has already reached AGI-level capabilities\n\nDrop your take below. 👇\n\n@aipost 🏴",
+    "entities": [
+      {
+        "offset": 0,
+        "length": 59,
+        "type": "bold"
+      },
+      {
+        "offset": 59,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5357121491508928442"
+      },
+      {
+        "offset": 127,
+        "length": 3,
+        "type": "bold"
+      },
+      {
+        "offset": 127,
+        "length": 3,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5316756151910546445"
+      },
+      {
+        "offset": 130,
+        "length": 12,
+        "type": "bold"
+      },
+      {
+        "offset": 393,
+        "length": 3,
+        "type": "custom_emoji",
+        "custom_emoji_id": "4904973211763999824"
+      },
+      {
+        "offset": 396,
+        "length": 14,
+        "type": "bold"
+      },
+      {
+        "offset": 686,
+        "length": 26,
+        "type": "bold"
+      },
+      {
+        "offset": 712,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5370724846936267183"
+      },
+      {
+        "offset": 820,
+        "length": 22,
+        "type": "bold"
+      },
+      {
+        "offset": 842,
+        "length": 2,
+        "type": "bold"
+      },
+      {
+        "offset": 842,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5470177992950946662"
+      },
+      {
+        "offset": 846,
+        "length": 7,
+        "type": "mention"
+      },
+      {
+        "offset": 853,
+        "length": 1,
+        "type": "bold"
+      },
+      {
+        "offset": 854,
+        "length": 2,
+        "type": "bold"
+      },
+      {
+        "offset": 854,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5431390559912614642"
+      }
+    ],
+    "media_group_id": "14324574212891845",
+    "chat_id": -1004468214616,
+    "message_ids": [
+      956
+    ],
+    "update_ids": [
+      378304848
+    ],
+    "retry_count": 0
+  },
+  {
+    "type": "video",
+    "video_file_id": "BAACAgQAAyEFAAMBClOLWAACA71qufUAAbTIcogp9tQFgUBQnZ_q-F0AAmIfAALbuMlRQruP_2c0Xr49BA",
+    "video_file_size": 35744264,
+    "caption": "",
+    "entities": [],
+    "media_group_id": "14324574212891845",
+    "chat_id": -1004468214616,
+    "message_ids": [
+      957
+    ],
+    "update_ids": [
+      378304849
+    ],
+    "retry_count": 0
+  },
+  {
+    "type": "video",
+    "video_file_id": "BAACAgQAAyEFAAMBClOLWAACA75qufUIE7RdD1YjmsQKf54OKEiPmAACRh8AAtu4yVHcfNlxvFD2dz0E",
+    "video_file_size": 12741193,
+    "caption": "🗣️Dario Amodei: If my revenue is not $1 trillion by 2027, Anthropic will go bankrupt.\n\n“I could assume that revenue will continue growing 10x a year.”\n\n“$100 billion at the end of 2026 and $1 trillion at the end of 2027.”\n\n“I could buy a trillion dollars a year of compute.”\n\n“But if my revenue is not a trillion dollars, if it’s even $800 billion, there’s no hedge on earth that could stop me from going bankrupt.”\n\n“If the growth rate is 5x instead of 10x, then you go bankrupt.”\n\n\n@aipost 🏴",
+    "entities": [
+      {
+        "offset": 0,
+        "length": 3,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5316756151910546445"
+      },
+      {
+        "offset": 3,
+        "length": 83,
+        "type": "bold"
+      },
+      {
+        "offset": 88,
+        "length": 395,
+        "type": "blockquote"
+      },
+      {
+        "offset": 485,
+        "length": 7,
+        "type": "mention"
+      },
+      {
+        "offset": 493,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5431390559912614642"
+      }
+    ],
+    "media_group_id": null,
+    "chat_id": -1004468214616,
+    "message_ids": [
+      958
+    ],
+    "update_ids": [
+      378304850
+    ],
+    "retry_count": 0
+  },
+  {
+    "type": "text",
+    "caption": "❗️The biotech rabbit hole is getting strange\n\nThe wild part of AI in biology right now isn’t that models can predict proteins.It’s that the entire research loop is starting to close.\n\nThis week alone:\n\n• Stanford ran a virtual biotech with 37,000 AI agents that generated and tested hypotheses at a scale humans couldn’t realistically match. One proposed cancer therapy was later independently confirmed by a pharmaceutical company seven months afterward.\n• Novo Nordisk revealed it now has 600+ AI and digital employees and more than 30 AI partnerships embedded in its actual R&D operation.\n• Nvidia-backed Iambic filed for a US IPO with an AI-designed oncology drug already in clinical development, alongside a new partnership with AbbVie.\n• A model trained on 20,000+ private pharmaceutical protein structures reportedly outperformed public models, raising a potentially bigger question: is proprietary biological data becoming the real moat?\n• Stanford trained a cell model on 112 million cells across 12 species, pushing toward something closer to a general-purpose model of biology.\n• Anthropic is even operating a molecular-biology lab where humans and AI agents generate hypotheses and run physical experiments.\n\nAnd that points to a strange new bottleneck. AI may soon be able to generate biological hypotheses faster than scientists can physically test them.\n\nAt that point, the limiting factor isn’t just intelligence. It’s data, lab capacity and the speed at which reality can catch up with the machines.\n\n@aipost 🏴",
+    "entities": [
+      {
+        "offset": 0,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5289761612440310918"
+      },
+      {
+        "offset": 2,
+        "length": 42,
+        "type": "bold"
+      },
+      {
+        "offset": 184,
+        "length": 16,
+        "type": "bold"
+      },
+      {
+        "offset": 1518,
+        "length": 7,
+        "type": "mention"
+      },
+      {
+        "offset": 1526,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5431390559912614642"
+      }
+    ],
+    "media_group_id": null,
+    "chat_id": -1004468214616,
+    "message_ids": [
+      959
+    ],
+    "update_ids": [
+      378304851
     ],
     "retry_count": 0
   }
