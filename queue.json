@@ -1,39 +1,5 @@
 [
   {
-    "type": "video",
-    "video_file_id": "BAACAgQAAyEFAAMBClOLWAACAvtqpOAgFEyhuuRHe8BgVZjU3zfWsAACkiEAAmfpIFFLMv3xYMx8_T0E",
-    "video_file_size": 3085205,
-    "caption": "⚡️ Meet Tron 2, a robot from China-based LimX Dynamics that can change its body for different jobs.\n\nIt can use a fixed base for precise tasks, a wheeled-leg base to carry heavy loads, or two legs to walk and climb stairs. The arms and brain stay the same, while the lower body changes depending on the mission.\n\n@aipost 🏴",
-    "entities": [
-      {
-        "offset": 0,
-        "length": 2,
-        "type": "custom_emoji",
-        "custom_emoji_id": "5366360391364412817"
-      },
-      {
-        "offset": 313,
-        "length": 7,
-        "type": "mention"
-      },
-      {
-        "offset": 321,
-        "length": 2,
-        "type": "custom_emoji",
-        "custom_emoji_id": "5431390559912614642"
-      }
-    ],
-    "media_group_id": null,
-    "chat_id": -1004468214616,
-    "message_ids": [
-      763
-    ],
-    "update_ids": [
-      378304655
-    ],
-    "retry_count": 0
-  },
-  {
     "type": "photo",
     "photo_file_ids": [
       "AgACAgQAAyEFAAMBClOLWAACAvxqpRc68e0lyhijFWGMr6akeNDXdAACZQ9rG2fpIFFcMTf_2Jiu_gEAAwIAA3gAAz0E"
