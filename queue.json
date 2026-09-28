@@ -1,50 +1,6 @@
 [
   {
     "type": "video",
-    "video_file_id": "BAACAgQAAyEFAAMBClOLWAACAv5qpRgo4HrU5RWFcjx_kkXGWPQQfAACfyIAAmfpIFE3bgTpw9JPTz0E",
-    "video_file_size": 37543710,
-    "caption": "😎 Sam Altman: Compute will be the currency of the future.\n\n“I think it will be maybe the most precious commodity in the world.”\n\n“Intelligence is going to be more like energy.”\n\n“If it’s really cheap, I’ll have it reading my email all day, giving me suggestions, and trying to cure cancer.”\n\n“The world is going to want a tremendous amount of compute.”\n\n“Energy is the hardest part. Building data centers is also hard.”\n\n“We’re going to want an amount of compute that’s just hard to reason about right now.”\n\n@aipost 🏴",
-    "entities": [
-      {
-        "offset": 0,
-        "length": 2,
-        "type": "custom_emoji",
-        "custom_emoji_id": "5289834369186299969"
-      },
-      {
-        "offset": 3,
-        "length": 55,
-        "type": "bold"
-      },
-      {
-        "offset": 60,
-        "length": 448,
-        "type": "blockquote"
-      },
-      {
-        "offset": 510,
-        "length": 7,
-        "type": "mention"
-      },
-      {
-        "offset": 518,
-        "length": 2,
-        "type": "custom_emoji",
-        "custom_emoji_id": "5431390559912614642"
-      }
-    ],
-    "media_group_id": null,
-    "chat_id": -1004468214616,
-    "message_ids": [
-      766
-    ],
-    "update_ids": [
-      378304658
-    ],
-    "retry_count": 0
-  },
-  {
-    "type": "video",
     "video_file_id": "BAACAgIAAyEFAAMBClOLWAACAv9qpYpXHXeLwpNUhp6MAAHq3kQ17_0AAtqnAALDyRlJLY-3KxEmUvw9BA",
     "video_file_size": 17641924,
     "caption": "🤖 Andrew Garfield Quit ChatGPT After ‘Artificial’\n\nFor the role of Sam Altman in Artificial, Garfield studied interviews, articles, court transcripts, and a biography. After filming, he said he stopped using ChatGPT.\n\nHe compared it with making The Social Network, after which he quit Facebook. Garfield said that the more he learned, the more it felt like humanity was rushing into unknown territory.\n\n📊@tech",
@@ -8571,6 +8527,120 @@
     ],
     "update_ids": [
       378304856
+    ],
+    "retry_count": 0
+  },
+  {
+    "type": "video",
+    "video_file_id": "BAACAgIAAyEFAAMBClOLWAACA8VqupAkflkCzTvK3h9dRRaV7GuDPgAChqoAAlzZyEk-LMIdinEFFz0E",
+    "video_file_size": 1499312,
+    "caption": "🍓 Raspberry Pi Prototype Watches Railways\n\nA Raspberry Pi prototype combines a camera that scans the tracks, AI that detects defects and cracks, GPS location tracking, vibration sensing for anomalies, and automatic logging.\n\nThe idea is to replace scheduled inspections with continuous monitoring, so problems can be found while they are still minor. The prototype is only a small part of that approach.\n\n📊@tech",
+    "entities": [
+      {
+        "offset": 0,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5444900306527737419"
+      },
+      {
+        "offset": 3,
+        "length": 39,
+        "type": "bold"
+      },
+      {
+        "offset": 46,
+        "length": 22,
+        "type": "bold"
+      },
+      {
+        "offset": 110,
+        "length": 34,
+        "type": "bold"
+      },
+      {
+        "offset": 146,
+        "length": 21,
+        "type": "bold"
+      },
+      {
+        "offset": 169,
+        "length": 31,
+        "type": "bold"
+      },
+      {
+        "offset": 241,
+        "length": 56,
+        "type": "bold"
+      },
+      {
+        "offset": 406,
+        "length": 2,
+        "type": "bold"
+      },
+      {
+        "offset": 406,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5449841756596101801"
+      },
+      {
+        "offset": 408,
+        "length": 5,
+        "type": "mention"
+      },
+      {
+        "offset": 408,
+        "length": 5,
+        "type": "bold"
+      }
+    ],
+    "media_group_id": null,
+    "chat_id": -1004468214616,
+    "message_ids": [
+      965
+    ],
+    "update_ids": [
+      378304857
+    ],
+    "retry_count": 0
+  },
+  {
+    "type": "photo",
+    "photo_file_ids": [
+      "AgACAgQAAyEFAAMBClOLWAACA8Zquq3JMCzwx8IaYoKAkzmCjDJufAACdhJrG9u40VF-M0wbe3aWQgEAAwIAA3gAAz0E"
+    ],
+    "caption": "📊 The AI boom is starting to borrow from everyone\n\nBig Tech is borrowing money like there’s no tomorrow to fund the AI race and it could make borrowing more expensive for the rest of us.\n\nInvestors have already poured around $500 billion into AI-related corporate debt this year. Amazon, Google, Meta, Microsoft and Oracle could collectively borrow more than $1 trillion over the next few years.\n\nTech giants have already pushed corporate borrowing to records in countries including the UK, Canada, Australia and Switzerland.\n\nThe problem is that there’s only so much capital to go around. If Big Tech keeps competing with governments and other companies for investors’ money, everyone may have to pay more to borrow.\n\nThat pressure is already showing up in U.S. bond markets, with the 10-year Treasury yield recently reaching its highest level since 2007.\n\nAnd those rates don’t stay on Wall Street. They can eventually affect mortgages, car loans and credit cards.\n\nEven retirement savings could be caught in the middle, since pension funds and insurers are major buyers of corporate debt.\n\n@aipost 🏴",
+    "entities": [
+      {
+        "offset": 0,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5289720732941587857"
+      },
+      {
+        "offset": 3,
+        "length": 47,
+        "type": "bold"
+      },
+      {
+        "offset": 1094,
+        "length": 7,
+        "type": "mention"
+      },
+      {
+        "offset": 1102,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5431390559912614642"
+      }
+    ],
+    "media_group_id": null,
+    "chat_id": -1004468214616,
+    "message_ids": [
+      966
+    ],
+    "update_ids": [
+      378304858
     ],
     "retry_count": 0
   }

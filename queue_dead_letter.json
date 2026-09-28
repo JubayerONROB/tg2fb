@@ -4324,5 +4324,49 @@
       378304646
     ],
     "retry_count": 0
+  },
+  {
+    "type": "video",
+    "video_file_id": "BAACAgQAAyEFAAMBClOLWAACAv5qpRgo4HrU5RWFcjx_kkXGWPQQfAACfyIAAmfpIFE3bgTpw9JPTz0E",
+    "video_file_size": 37543710,
+    "caption": "😎 Sam Altman: Compute will be the currency of the future.\n\n“I think it will be maybe the most precious commodity in the world.”\n\n“Intelligence is going to be more like energy.”\n\n“If it’s really cheap, I’ll have it reading my email all day, giving me suggestions, and trying to cure cancer.”\n\n“The world is going to want a tremendous amount of compute.”\n\n“Energy is the hardest part. Building data centers is also hard.”\n\n“We’re going to want an amount of compute that’s just hard to reason about right now.”\n\n@aipost 🏴",
+    "entities": [
+      {
+        "offset": 0,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5289834369186299969"
+      },
+      {
+        "offset": 3,
+        "length": 55,
+        "type": "bold"
+      },
+      {
+        "offset": 60,
+        "length": 448,
+        "type": "blockquote"
+      },
+      {
+        "offset": 510,
+        "length": 7,
+        "type": "mention"
+      },
+      {
+        "offset": 518,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5431390559912614642"
+      }
+    ],
+    "media_group_id": null,
+    "chat_id": -1004468214616,
+    "message_ids": [
+      766
+    ],
+    "update_ids": [
+      378304658
+    ],
+    "retry_count": 0
   }
 ]
