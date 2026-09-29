@@ -4368,5 +4368,74 @@
       378304658
     ],
     "retry_count": 0
+  },
+  {
+    "type": "video",
+    "video_file_id": "BAACAgIAAyEFAAMBClOLWAACAwFqpYp3UT2dgLBA1ztkDvdhr_QctwACmqsAAlc7GUnj2Ve8ikXs2z0E",
+    "video_file_size": 28247469,
+    "caption": "🤖 OpenAI Puts GPT-Live-1 in API\n\nThe model can be interrupted mid-sentence, pause, or change direction instead of waiting for the user to finish.\n\nIt handles the voice exchange, while harder tasks can go to GPT-6 Astra, separating conversation speed from reasoning depth.\n\nOpenAI improved noise handling and phone calls. In tests, it scored 30 percentage points above GPT-Realtime-2.1. API access costs 5 cents per minute.\n\n📊@tech",
+    "entities": [
+      {
+        "offset": 0,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5397681122542893003"
+      },
+      {
+        "offset": 3,
+        "length": 29,
+        "type": "bold"
+      },
+      {
+        "offset": 51,
+        "length": 24,
+        "type": "bold"
+      },
+      {
+        "offset": 208,
+        "length": 11,
+        "type": "bold"
+      },
+      {
+        "offset": 342,
+        "length": 20,
+        "type": "bold"
+      },
+      {
+        "offset": 404,
+        "length": 18,
+        "type": "bold"
+      },
+      {
+        "offset": 425,
+        "length": 2,
+        "type": "bold"
+      },
+      {
+        "offset": 425,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5449841756596101801"
+      },
+      {
+        "offset": 427,
+        "length": 5,
+        "type": "mention"
+      },
+      {
+        "offset": 427,
+        "length": 5,
+        "type": "bold"
+      }
+    ],
+    "media_group_id": null,
+    "chat_id": -1004468214616,
+    "message_ids": [
+      769
+    ],
+    "update_ids": [
+      378304661
+    ],
+    "retry_count": 0
   }
 ]
