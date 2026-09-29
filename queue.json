@@ -2,46 +2,6 @@
   {
     "type": "photo",
     "photo_file_ids": [
-      "AgACAgQAAyEFAAMBClOLWAACAwJqpbkcSZWffRsVCR0BmGFYd5vE3gACYw9rG6OFKVGMykiwmobfVAEAAwIAA3kAAz0E"
-    ],
-    "caption": "🤖 OpenAI’s Bel may be ahead of the ASI countdown\n\nOpenAI’s internal model Bel appears to be outperforming the timeline predicted by the “AI 2027” scenario.\n\nAfter reportedly solving the Navier–Stokes problem, Bel is estimated to have reached around 80 hours of effective research progress, a figure that puts it ahead of the projection’s expected pace.\n\nIf the estimate holds, AI systems may be progressing toward autonomous research capabilities faster than the AI 2027 forecast anticipated.\n\n@aipost 🏴",
-    "entities": [
-      {
-        "offset": 0,
-        "length": 2,
-        "type": "custom_emoji",
-        "custom_emoji_id": "5397681122542893003"
-      },
-      {
-        "offset": 3,
-        "length": 46,
-        "type": "bold"
-      },
-      {
-        "offset": 495,
-        "length": 7,
-        "type": "mention"
-      },
-      {
-        "offset": 503,
-        "length": 2,
-        "type": "custom_emoji",
-        "custom_emoji_id": "5431390559912614642"
-      }
-    ],
-    "media_group_id": null,
-    "chat_id": -1004468214616,
-    "message_ids": [
-      770
-    ],
-    "update_ids": [
-      378304662
-    ],
-    "retry_count": 0
-  },
-  {
-    "type": "photo",
-    "photo_file_ids": [
       "AgACAgQAAyEFAAMBClOLWAACAwNqpbk05nBz0dceeJI3EqMLeJXs8wACZA9rG6OFKVETKqyVu_CKWwEAAwIAA3gAAz0E"
     ],
     "caption": "❗️Terence Tao and friends aren’t happy\n\nMathematicians who have spent decades wrestling with some of the hardest problems in the field are understandably not thrilled about AI suddenly showing up and solving them.\n\nApparently, spending your entire life trying to crack impossible math problems only for an AI to walk in and do it is not everyone’s idea of progress. \n\nSource.\n\n@aipost 🏴",
