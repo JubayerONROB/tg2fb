@@ -1,51 +1,5 @@
 [
   {
-    "type": "photo",
-    "photo_file_ids": [
-      "AgACAgQAAyEFAAMBClOLWAACAwRqpjniodqrisS9ghm2XsnEcgQa3QACuw9rG6OFKVEpwiJvg3UE4wEAAwIAA3gAAz0E"
-    ],
-    "caption": "❗️Dario Amodei just published a new essay on the future of AI\n\nAnthropic CEO Dario Amodei has published a new essay, “We Must Pace the Frontier,” arguing that the AI industry may need to deliberately slow the pace of frontier development before AI progress starts moving faster than our ability to control it.\n\nHis concern is that AI is increasingly being used to accelerate AI research itself. Once that feedback loop becomes powerful enough, capability gains could compound rapidly, leaving safety research struggling to keep up.\n\nAmodei isn’t calling for an AI pause or a halt to development. Instead, he argues for “pacing” the frontier, creating checkpoints where increasingly capable AI systems have to meet specific safety requirements before development continues.\n\nHis proposals include independent third-party evaluators with deep access to frontier labs, coordination between democratic governments, and eventually international agreements around the most powerful AI systems.\n\nSource.\n\n@aipost 🏴",
-    "entities": [
-      {
-        "offset": 0,
-        "length": 2,
-        "type": "custom_emoji",
-        "custom_emoji_id": "5289761612440310918"
-      },
-      {
-        "offset": 2,
-        "length": 59,
-        "type": "bold"
-      },
-      {
-        "offset": 989,
-        "length": 6,
-        "type": "text_link",
-        "url": "https://darioamodei.com/post/we-must-pace-the-frontier"
-      },
-      {
-        "offset": 998,
-        "length": 7,
-        "type": "mention"
-      },
-      {
-        "offset": 1006,
-        "length": 2,
-        "type": "custom_emoji",
-        "custom_emoji_id": "5431390559912614642"
-      }
-    ],
-    "media_group_id": null,
-    "chat_id": -1004468214616,
-    "message_ids": [
-      772
-    ],
-    "update_ids": [
-      378304664
-    ],
-    "retry_count": 0
-  },
-  {
     "type": "album",
     "photo_file_ids": [
       "AgACAgQAAyEFAAMBClOLWAACAwVqpjn5vWuelkLoB-RgfTvsQmParAACLxBrG6OFMVHrLxIvCr1zMgEAAwIAA3gAAz0E",
