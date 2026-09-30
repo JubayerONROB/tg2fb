@@ -2,35 +2,6 @@
   {
     "type": "photo",
     "photo_file_ids": [
-      "AgACAgQAAyEFAAMBClOLWAACAwhqpjoVCTLWVnSR8jO3UHNxXOsewAACHxdrGxPjMVGGtfFrCU3aSAEAAwIAA3kAAz0E"
-    ],
-    "caption": "Sam Altman agrees with Dario Amodei on his proposal to pace frontier AI development.\n\n@aipost 🏴",
-    "entities": [
-      {
-        "offset": 86,
-        "length": 7,
-        "type": "mention"
-      },
-      {
-        "offset": 94,
-        "length": 2,
-        "type": "custom_emoji",
-        "custom_emoji_id": "5431390559912614642"
-      }
-    ],
-    "media_group_id": null,
-    "chat_id": -1004468214616,
-    "message_ids": [
-      776
-    ],
-    "update_ids": [
-      378304668
-    ],
-    "retry_count": 0
-  },
-  {
-    "type": "photo",
-    "photo_file_ids": [
       "AgACAgQAAyEFAAMBClOLWAACAwlqpk_qYM2Klx7UQ0-WX815MA-wGwACMxBrG6OFMVFqm8YjBQ77eAEAAwIAA3kAAz0E"
     ],
     "caption": "⚠️ Meta AI got way too personal\n\nA Utah mom says Meta AI crossed a serious privacy line after she posted a simple video of herself singing in the car with one of her young daughters.\n\nThe AI suggested a question asking who the child in the backseat was. When she clicked it, Meta AI reportedly started pulling together information about both of her daughters including their names, birth details, photos, videos, interests and even details about their schooling.\n\nIt allegedly went further. Meta AI suggested asking where the mother lived, then began piecing together old and recent posts to narrow down her location.\n\nThe mother says the AI surfaced a photo of her daughter that she had deleted years ago.\n\nMeta says its AI can search content a user already has access to, along with public information on the web. But the company admitted the suggested prompts “missed the mark” and said the issue has been fixed. \n\nSource. \n\n@aipost 🏴",
