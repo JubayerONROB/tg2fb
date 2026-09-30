@@ -2,35 +2,6 @@
   {
     "type": "photo",
     "photo_file_ids": [
-      "AgACAgQAAyEFAAMBClOLWAACAwdqpjoL_q4K5zXypn_aRpMZCUO0hQACLRBrG6OFMVEGl4JTOpfyNQEAAwIAA3kAAz0E"
-    ],
-    "caption": "@aipost 🏴",
-    "entities": [
-      {
-        "offset": 0,
-        "length": 7,
-        "type": "mention"
-      },
-      {
-        "offset": 8,
-        "length": 2,
-        "type": "custom_emoji",
-        "custom_emoji_id": "5431390559912614642"
-      }
-    ],
-    "media_group_id": null,
-    "chat_id": -1004468214616,
-    "message_ids": [
-      775
-    ],
-    "update_ids": [
-      378304667
-    ],
-    "retry_count": 0
-  },
-  {
-    "type": "photo",
-    "photo_file_ids": [
       "AgACAgQAAyEFAAMBClOLWAACAwhqpjoVCTLWVnSR8jO3UHNxXOsewAACHxdrGxPjMVGGtfFrCU3aSAEAAwIAA3kAAz0E"
     ],
     "caption": "Sam Altman agrees with Dario Amodei on his proposal to pace frontier AI development.\n\n@aipost 🏴",
