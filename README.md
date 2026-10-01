@@ -114,7 +114,7 @@ python app.py
 
 ### 3. Run automatically (GitHub Actions)
 
-The workflow in `.github/workflows/hourly_run.yml` runs every hour and can also
+The workflow in `.github/workflows/hourly_run.yml` runs every 10 minutes and can also
 be triggered manually from the **Actions** tab (`workflow_dispatch`).
 
 Add the three variables as repository secrets under
@@ -135,11 +135,9 @@ A few things to know about how the hourly schedule behaves:
 - **Default branch only.** GitHub runs `schedule` workflows *only* from the
   default branch (`main`). The workflow file must be committed to `main` — a
   scheduled run will never fire from a feature branch.
-- **Cron is best-effort.** The schedule (`17 * * * *`, hourly at :17 UTC) is a
+- **Cron is best-effort.** The schedule (`*/10 * * * *`, every 10 minutes UTC) is a
   hint, not a guarantee. GitHub can delay runs — often by several minutes at
-  busy times — and occasionally skip one under heavy load. An off-peak minute
-  (`:17` instead of `:00`) reduces the top-of-hour queue delay, but don't rely
-  on exact timing.
+  busy times — and occasionally skip one under heavy load. Don't rely on exact timing.
 - **60-day inactivity auto-disable + heartbeat.** GitHub automatically disables
   scheduled workflows after **60 days with no repository activity**. To keep a
   quiet channel from silently killing the automation, every real (non-dry-run)

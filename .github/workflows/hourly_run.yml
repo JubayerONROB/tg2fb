@@ -2,17 +2,23 @@ name: Hourly Telegram to Facebook Cross-Post
 
 on:
   schedule:
-    # Runs hourly at :17 rather than :00. GitHub queues a flood of jobs at the
-    # top of the hour, so an off-peak minute reduces scheduling delay. Note that
-    # GitHub cron is best-effort and can still be delayed (or occasionally
-    # skipped) under load -- do not rely on exact timing.
-    - cron: "17 * * * *"   # every hour at :17 (UTC) -- always posts for real
+    # Runs every 10 minutes, posting one queued item per run. GitHub cron is
+    # best-effort: runs are often delayed and some are skipped under load, so
+    # the real cadence can be slower than 10 minutes -- do not rely on exact
+    # timing.
+    - cron: "*/10 * * * *"   # every 10 minutes (UTC) -- always posts for real
   workflow_dispatch:        # allow manual runs for testing
     inputs:
       dry_run:
         description: "Dry run: prepare posts but do NOT publish to Facebook or advance state."
         type: boolean
         default: true
+
+# Never overlap runs: each one commits state.json/queue.json back, and
+# concurrent runs would race on those files.
+concurrency:
+  group: cross-post
+  cancel-in-progress: false
 
 permissions:
   contents: write           # needed to commit state.json + heartbeat back to the repo
