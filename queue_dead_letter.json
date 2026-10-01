@@ -4663,5 +4663,79 @@
       378304680
     ],
     "retry_count": 0
+  },
+  {
+    "type": "video",
+    "video_file_id": "BAACAgIAAyEFAAMBClOLWAACAxZqp_qE9VGcCyOOI0hSsU6JIVOtFAACvagAAn_gMElxDNa6Z4Me3D0E",
+    "video_file_size": 29876039,
+    "caption": "🤖 Higgsfield Adds ChatGPT to After Effects\n\nIts AI Motion Designer connects ChatGPT to an After Effects project, turning plain-text commands into motion work.\n\nIt can also write After Effects expressions and work with existing videos or compositions.\n\nThe result stays editable, so layers and keyframes can still be changed manually.\n\n📊@tech",
+    "entities": [
+      {
+        "offset": 0,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5397681122542893003"
+      },
+      {
+        "offset": 3,
+        "length": 40,
+        "type": "bold"
+      },
+      {
+        "offset": 49,
+        "length": 18,
+        "type": "bold"
+      },
+      {
+        "offset": 77,
+        "length": 7,
+        "type": "bold"
+      },
+      {
+        "offset": 91,
+        "length": 21,
+        "type": "bold"
+      },
+      {
+        "offset": 179,
+        "length": 25,
+        "type": "bold"
+      },
+      {
+        "offset": 270,
+        "length": 8,
+        "type": "bold"
+      },
+      {
+        "offset": 336,
+        "length": 2,
+        "type": "bold"
+      },
+      {
+        "offset": 336,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5449841756596101801"
+      },
+      {
+        "offset": 338,
+        "length": 5,
+        "type": "mention"
+      },
+      {
+        "offset": 338,
+        "length": 5,
+        "type": "bold"
+      }
+    ],
+    "media_group_id": null,
+    "chat_id": -1004468214616,
+    "message_ids": [
+      790
+    ],
+    "update_ids": [
+      378304682
+    ],
+    "retry_count": 0
   }
 ]
