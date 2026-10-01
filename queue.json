@@ -2,52 +2,6 @@
   {
     "type": "photo",
     "photo_file_ids": [
-      "AgACAgQAAyEFAAMBClOLWAACAwlqpk_qYM2Klx7UQ0-WX815MA-wGwACMxBrG6OFMVFqm8YjBQ77eAEAAwIAA3kAAz0E"
-    ],
-    "caption": "⚠️ Meta AI got way too personal\n\nA Utah mom says Meta AI crossed a serious privacy line after she posted a simple video of herself singing in the car with one of her young daughters.\n\nThe AI suggested a question asking who the child in the backseat was. When she clicked it, Meta AI reportedly started pulling together information about both of her daughters including their names, birth details, photos, videos, interests and even details about their schooling.\n\nIt allegedly went further. Meta AI suggested asking where the mother lived, then began piecing together old and recent posts to narrow down her location.\n\nThe mother says the AI surfaced a photo of her daughter that she had deleted years ago.\n\nMeta says its AI can search content a user already has access to, along with public information on the web. But the company admitted the suggested prompts “missed the mark” and said the issue has been fixed. \n\nSource. \n\n@aipost 🏴",
-    "entities": [
-      {
-        "offset": 0,
-        "length": 2,
-        "type": "custom_emoji",
-        "custom_emoji_id": "5366332658760580843"
-      },
-      {
-        "offset": 3,
-        "length": 28,
-        "type": "bold"
-      },
-      {
-        "offset": 918,
-        "length": 8,
-        "type": "text_link",
-        "url": "https://nypost.com/2026/09/11/business/mom-horrified-after-meta-ai-starts-asking-about-her-young-daughters-where-family-lives-and-allegedly-digs-up-years-old-deleted-photo"
-      },
-      {
-        "offset": 928,
-        "length": 7,
-        "type": "mention"
-      },
-      {
-        "offset": 936,
-        "length": 2,
-        "type": "custom_emoji",
-        "custom_emoji_id": "5431390559912614642"
-      }
-    ],
-    "media_group_id": null,
-    "chat_id": -1004468214616,
-    "message_ids": [
-      777
-    ],
-    "update_ids": [
-      378304669
-    ],
-    "retry_count": 0
-  },
-  {
-    "type": "photo",
-    "photo_file_ids": [
       "AgACAgIAAyEFAAMBClOLWAACAwpqpllaZhUieEiFFzUUdlSwMuc-DQACMh5rGzDjIUlKN7LKD_wDeQEAAwIAA3gAAz0E"
     ],
     "caption": "📺 YouTube Locks Smart TV Accounts\n\nThe Smart TV app now supports account protection with a PIN. It can also be unlocked through the YouTube mobile app.\n\nThat keeps younger family members from reshaping personal recommendations and watch history, while protecting account privacy. The TV stays locked when needed.\n\n📊@tech",
