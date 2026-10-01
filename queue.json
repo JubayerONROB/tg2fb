@@ -2,71 +2,6 @@
   {
     "type": "photo",
     "photo_file_ids": [
-      "AgACAgIAAyEFAAMBClOLWAACAwpqpllaZhUieEiFFzUUdlSwMuc-DQACMh5rGzDjIUlKN7LKD_wDeQEAAwIAA3gAAz0E"
-    ],
-    "caption": "📺 YouTube Locks Smart TV Accounts\n\nThe Smart TV app now supports account protection with a PIN. It can also be unlocked through the YouTube mobile app.\n\nThat keeps younger family members from reshaping personal recommendations and watch history, while protecting account privacy. The TV stays locked when needed.\n\n📊@tech",
-    "entities": [
-      {
-        "offset": 0,
-        "length": 2,
-        "type": "custom_emoji",
-        "custom_emoji_id": "5398043965675024710"
-      },
-      {
-        "offset": 3,
-        "length": 31,
-        "type": "bold"
-      },
-      {
-        "offset": 66,
-        "length": 29,
-        "type": "bold"
-      },
-      {
-        "offset": 133,
-        "length": 18,
-        "type": "bold"
-      },
-      {
-        "offset": 203,
-        "length": 42,
-        "type": "bold"
-      },
-      {
-        "offset": 315,
-        "length": 2,
-        "type": "bold"
-      },
-      {
-        "offset": 315,
-        "length": 2,
-        "type": "custom_emoji",
-        "custom_emoji_id": "5449841756596101801"
-      },
-      {
-        "offset": 317,
-        "length": 5,
-        "type": "mention"
-      },
-      {
-        "offset": 317,
-        "length": 5,
-        "type": "bold"
-      }
-    ],
-    "media_group_id": null,
-    "chat_id": -1004468214616,
-    "message_ids": [
-      778
-    ],
-    "update_ids": [
-      378304670
-    ],
-    "retry_count": 0
-  },
-  {
-    "type": "photo",
-    "photo_file_ids": [
       "AgACAgQAAyEFAAMBClOLWAACAwtqpoKxVAOlgdQBHQEr-y3mm_y4YwACjxBrG6OFMVGBW0pVe25j2AEAAwIAA3kAAz0E"
     ],
     "caption": "Mark Zuckerberg says AI is “not moving fast enough”\n\n@aipost 🏴",
@@ -9036,6 +8971,874 @@
     ],
     "update_ids": [
       378304881
+    ],
+    "retry_count": 0
+  },
+  {
+    "type": "video",
+    "video_file_id": "BAACAgQAAyEFAAMBClOLWAACA95qvgABt3x0iKf06Xe_O0RJYof8fwwAAp4eAAI8ruBR3NRaDFzpSnw9BA",
+    "video_file_size": 11878799,
+    "caption": "🗣President Trump: \"Elon and I sat with President Xi the other day. And he will take EVERY DATA CENTER that we don't want! Do you agree with that?\"\n\nELON MUSK: \"Yes.\"\n\nTRUMP: \"He would love to have every single one, because you know why? They're smart. They want every data center. They want it, because that's great for China. It's GREAT FOR US.\"\n\nThat's precisely why America must BUILD in the right locations and reap the mass benefits of SI! NO surrendering to Chinese communists. That is AMERICA LAST.\n\n@aipost 🏴",
+    "entities": [
+      {
+        "offset": 0,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5287468155738821335"
+      },
+      {
+        "offset": 508,
+        "length": 7,
+        "type": "mention"
+      },
+      {
+        "offset": 516,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5431390559912614642"
+      }
+    ],
+    "media_group_id": null,
+    "chat_id": -1004468214616,
+    "message_ids": [
+      990
+    ],
+    "update_ids": [
+      378304882
+    ],
+    "retry_count": 0
+  },
+  {
+    "type": "video",
+    "video_file_id": "BAACAgQAAyEFAAMBClOLWAACA99qvgABtzr4f8wQrD4ldNrioZ1h9hgAAqEeAAI8ruBRToWu3L6sLqY9BA",
+    "video_file_size": 30161101,
+    "caption": "🗣 Elon Musk: Robots and superintelligence will create an age of abundance, with universal high income and better medical care for everyone.\n\n“I think by far the most likely outcome is an age of abundance where we don’t have just a universal basic income, we have universal high income.\n\nWhen you have robots and you have superintelligence, it means that everyone in the world can have better medical care than anyone here, including me. Jobs are going to change. Jobs have always changed. I think we’ll see an evolution of roles.\n\nThe most likely outcome is incredibly beneficial. It is a future you would want.”\n\n@aipost🏴",
+    "entities": [
+      {
+        "offset": 0,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5287468155738821335"
+      },
+      {
+        "offset": 3,
+        "length": 137,
+        "type": "bold"
+      },
+      {
+        "offset": 142,
+        "length": 471,
+        "type": "blockquote"
+      },
+      {
+        "offset": 615,
+        "length": 7,
+        "type": "mention"
+      },
+      {
+        "offset": 622,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5431390559912614642"
+      }
+    ],
+    "media_group_id": null,
+    "chat_id": -1004468214616,
+    "message_ids": [
+      991
+    ],
+    "update_ids": [
+      378304883
+    ],
+    "retry_count": 0
+  },
+  {
+    "type": "video",
+    "video_file_id": "BAACAgQAAyEFAAMBClOLWAACA-BqvgABtziwPQGhvQ7UqNdV80KgJRIAAqAeAAI8ruBR8g43C2O03tA9BA",
+    "video_file_size": 30418038,
+    "caption": "❗️Mark Zuckerberg outlines the AI framework tech leaders agreed to after meeting with President Trump at the White House.\n\nThe Meta CEO says the principles center on robust internal controls, internal risk reviews, outside auditors and evaluators, and independent reviews of audit reports by company boards.\n\n\"The idea isn't that this is the only thing that we will ever do. It is that this is a start and an accord that the whole industry could come to.\"\n\nHe says the goal is to give Americans and customers confidence that the technology is working the way companies intend.\n\n@aipost 🏴",
+    "entities": [
+      {
+        "offset": 0,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5289761612440310918"
+      },
+      {
+        "offset": 2,
+        "length": 119,
+        "type": "bold"
+      },
+      {
+        "offset": 578,
+        "length": 7,
+        "type": "mention"
+      },
+      {
+        "offset": 586,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5431390559912614642"
+      }
+    ],
+    "media_group_id": null,
+    "chat_id": -1004468214616,
+    "message_ids": [
+      992
+    ],
+    "update_ids": [
+      378304884
+    ],
+    "retry_count": 0
+  },
+  {
+    "type": "video",
+    "video_file_id": "BAACAgQAAyEFAAMBClOLWAACA-FqvgABt-EiZnKlYYAfItniKehU4vsAAp0eAAI8ruBRlC1Oe1-q-TY9BA",
+    "video_file_size": 17094683,
+    "caption": "President Trump tells Dario \"be careful with what you say\" 🤣\n\n@aipost 🏴",
+    "entities": [
+      {
+        "offset": 59,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5370712413005945913"
+      },
+      {
+        "offset": 63,
+        "length": 7,
+        "type": "mention"
+      },
+      {
+        "offset": 71,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5431390559912614642"
+      }
+    ],
+    "media_group_id": null,
+    "chat_id": -1004468214616,
+    "message_ids": [
+      993
+    ],
+    "update_ids": [
+      378304885
+    ],
+    "retry_count": 0
+  },
+  {
+    "type": "video",
+    "video_file_id": "BAACAgQAAyEFAAMBClOLWAACA-JqvgABtw0f1Aa4kHYYH6DHO2rYfbMAAqMeAAI8ruBRC4yWaDcadLs9BA",
+    "video_file_size": 26554699,
+    "caption": "🗣Anthropic chief DARIO walked up and said President Trump helped put his Super Intelligence worries at ease.\n\n\"If we do this right, we work with the President and everyone here, we can win safely!\"\n\n@aipost 🏴",
+    "entities": [
+      {
+        "offset": 0,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5287468155738821335"
+      },
+      {
+        "offset": 2,
+        "length": 107,
+        "type": "bold"
+      },
+      {
+        "offset": 200,
+        "length": 7,
+        "type": "mention"
+      },
+      {
+        "offset": 208,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5431390559912614642"
+      }
+    ],
+    "media_group_id": null,
+    "chat_id": -1004468214616,
+    "message_ids": [
+      994
+    ],
+    "update_ids": [
+      378304886
+    ],
+    "retry_count": 0
+  },
+  {
+    "type": "video",
+    "video_file_id": "BAACAgQAAyEFAAMBClOLWAACA-NqvgABt_m0QMjpapcHBQNPYyOgWQIAAh8fAALGUOhRxXt4rDbVjG89BA",
+    "video_file_size": 1852747,
+    "caption": "OpenAI: Launches dots\n\nSpaceXAI: Buys dot .com and redirects it to Grok Bot\n\n🤣🤣\n\n@aipost 🏴",
+    "entities": [
+      {
+        "offset": 77,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5370712413005945913"
+      },
+      {
+        "offset": 79,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5370712413005945913"
+      },
+      {
+        "offset": 83,
+        "length": 7,
+        "type": "mention"
+      },
+      {
+        "offset": 91,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5431390559912614642"
+      }
+    ],
+    "media_group_id": null,
+    "chat_id": -1004468214616,
+    "message_ids": [
+      995
+    ],
+    "update_ids": [
+      378304887
+    ],
+    "retry_count": 0
+  },
+  {
+    "type": "photo",
+    "photo_file_ids": [
+      "AgACAgQAAyEFAAMBClOLWAACA-RqvgABt8QxtI5E2NIwLV6P4F33wawAAgoRaxvGUOhRavYUGs7DwDABAAMCAAN4AAM9BA"
+    ],
+    "caption": "Elon spending $20M on a domain just to troll Sam Altman is peak Silicon Valley villain behavior 🤣🤣\n\n@aipost 🏴",
+    "entities": [
+      {
+        "offset": 96,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5370712413005945913"
+      },
+      {
+        "offset": 98,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5370712413005945913"
+      },
+      {
+        "offset": 102,
+        "length": 7,
+        "type": "mention"
+      },
+      {
+        "offset": 110,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5431390559912614642"
+      }
+    ],
+    "media_group_id": null,
+    "chat_id": -1004468214616,
+    "message_ids": [
+      996
+    ],
+    "update_ids": [
+      378304888
+    ],
+    "retry_count": 0
+  },
+  {
+    "type": "video",
+    "video_file_id": "BAACAgQAAyEFAAMBClOLWAACA-VqvgABt7SNJe0vMopmXzPmViLwWn0AAqgeAAI8ruBRDk0SiK9D7uY9BA",
+    "video_file_size": 16140087,
+    "caption": "America.gov is starting to look like an Apple launch event for government 🇺🇸\n\nThe idea is bigger than a new website: the US government is trying to turn bureaucracy into a software product.\n\nAn AI interface could make government services easier to use, while new digital tools for things like passports and name changes give citizens something governments rarely deliver: actual product updates.\n\nThe software is visible. People can test it, find bugs and see whether fixes actually work. That could make these launches more consequential than traditional political speeches.\n\nIt also shows where tech and government can overlap: automate paperwork, remove friction and replace 20th-century forms with code.\n\nAirbnb co-founder Joe Gebbia went through YC in 2009. Now, years later, that startup ecosystem is helping reshape how Americans interact with their government.\n\n@aipost 🏴",
+    "entities": [
+      {
+        "offset": 0,
+        "length": 11,
+        "type": "url"
+      },
+      {
+        "offset": 0,
+        "length": 11,
+        "type": "bold"
+      },
+      {
+        "offset": 11,
+        "length": 63,
+        "type": "bold"
+      },
+      {
+        "offset": 74,
+        "length": 4,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5202021044105257611"
+      },
+      {
+        "offset": 872,
+        "length": 7,
+        "type": "mention"
+      },
+      {
+        "offset": 880,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5431390559912614642"
+      }
+    ],
+    "media_group_id": null,
+    "chat_id": -1004468214616,
+    "message_ids": [
+      997
+    ],
+    "update_ids": [
+      378304889
+    ],
+    "retry_count": 0
+  },
+  {
+    "type": "photo",
+    "photo_file_ids": [
+      "AgACAgQAAyEFAAMBClOLWAACA-ZqvgABt99hQqi33nNUgYu1gb9r1_UAAm4Paxs8ruBRcXf6usTXhkIBAAMCAAN5AAM9BA"
+    ],
+    "caption": "❗️Women report more concern about AI than men\n\nA survey of roughly 3,000 people across the US and Canada found a consistent gender gap in attitudes toward AI: women were more likely to view the technology as risky and were more skeptical of its benefits than men.\n\nResearchers point to two possible factors:\n\n• Risk orientation — women, on average, report greater caution toward uncertain or rapidly changing technologies.\n\n• Risk exposure — women may perceive greater risks from AI-driven job displacement and economic disruption.\n\nThe researchers warn that ignoring these concerns could deepen existing inequalities and fuel resistance to AI adoption.\n\nSource.\n\n@aipost 🏴",
+    "entities": [
+      {
+        "offset": 0,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5289761612440310918"
+      },
+      {
+        "offset": 2,
+        "length": 43,
+        "type": "bold"
+      },
+      {
+        "offset": 265,
+        "length": 42,
+        "type": "bold"
+      },
+      {
+        "offset": 655,
+        "length": 6,
+        "type": "text_link",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/40396147/"
+      },
+      {
+        "offset": 664,
+        "length": 7,
+        "type": "mention"
+      },
+      {
+        "offset": 672,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5431390559912614642"
+      }
+    ],
+    "media_group_id": null,
+    "chat_id": -1004468214616,
+    "message_ids": [
+      998
+    ],
+    "update_ids": [
+      378304890
+    ],
+    "retry_count": 0
+  },
+  {
+    "type": "photo",
+    "photo_file_ids": [
+      "AgACAgQAAyEFAAMBClOLWAACA-dqvgABt9i5VxHaxoqKmxA6bxcsNeUAAmwQaxvePOhR0TygU1F_ZrYBAAMCAAN4AAM9BA"
+    ],
+    "caption": "🔍 Google unveils Gemini 4 Argon\n\nGoogle has introduced Gemini 4 Argon, a new frontier model designed for complex coding, enterprise knowledge work, and cybersecurity tasks.\n\nArgon supports up to 1 million tokens of output, giving it room to reason through long, multi-step problems in a single run.\n\nIt’s initially rolling out to trusted testers through Google’s Fairwind Program, with a broader release for developers, enterprises, and consumers planned later.\n\nSource.\n\n@aipost 🏴",
+    "entities": [
+      {
+        "offset": 0,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5431644246450908867"
+      },
+      {
+        "offset": 3,
+        "length": 29,
+        "type": "bold"
+      },
+      {
+        "offset": 464,
+        "length": 6,
+        "type": "text_link",
+        "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-4-argon/?utm_source=x&utm_medium=social&utm_campaign=&utm_content="
+      },
+      {
+        "offset": 473,
+        "length": 7,
+        "type": "mention"
+      },
+      {
+        "offset": 481,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5431390559912614642"
+      }
+    ],
+    "media_group_id": null,
+    "chat_id": -1004468214616,
+    "message_ids": [
+      999
+    ],
+    "update_ids": [
+      378304891
+    ],
+    "retry_count": 0
+  },
+  {
+    "type": "album",
+    "photo_file_ids": [
+      "AgACAgIAAyEFAAMBClOLWAACA-hqvgABtxlO_45m1HQXAS-AYcP5hjgAAlYgaxuu6OhJvmUXp0hAZWcBAAMCAAN4AAM9BA",
+      "AgACAgIAAyEFAAMBClOLWAACA-lqvgABt52ZV_5uiluHsX3bO8Yt69wAAlcgaxuu6OhJDRDH3YDis1sBAAMCAAN4AAM9BA"
+    ],
+    "caption": "The New York Times published a piece saying that Anthropic has been quietly bringing in Catholic, Jewish, Sikh, evangelical, and other religious thinkers from around the world to help give its AI a moral compass.\n\n📰 @aipost",
+    "entities": [
+      {
+        "offset": 214,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5363988332466438547"
+      },
+      {
+        "offset": 217,
+        "length": 7,
+        "type": "mention"
+      }
+    ],
+    "media_group_id": "14326695354810621",
+    "chat_id": -1004468214616,
+    "message_ids": [
+      1000,
+      1001
+    ],
+    "update_ids": [
+      378304892,
+      378304893
+    ],
+    "retry_count": 0
+  },
+  {
+    "type": "photo",
+    "photo_file_ids": [
+      "AgACAgQAAyEFAAMBClOLWAACA-pqvgABt2i6bF5y6XvsqfQ0V7fThw4AAoIPaxvePOhRD3FxJcUCBOoBAAMCAAN5AAM9BA"
+    ],
+    "caption": "🧠 AI agents could disrupt the subscription economy\n\nA surprising amount of subscription revenue may come from something very simple: people forgetting to cancel.\n\nStanford research suggests around 50% of subscription revenue comes from customers who don’t actively cancel. People are also about 4× more likely to cancel when they’re prompted to make an active decision.\n\nAI agents don’t forget.\n\nAgents like Muse, Instinct, and Grok Bot can already scan accounts, find subscriptions you’ve stopped using, and bring them back to your attention.\n\nWhen personal AI agents are running on everyone’s phone, “forgot to cancel” could become a much smaller source of revenue and subscription businesses may have to rethink how they retain customers.\n\n@aipost 🏴",
+    "entities": [
+      {
+        "offset": 0,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5237889595894414384"
+      },
+      {
+        "offset": 3,
+        "length": 48,
+        "type": "bold"
+      },
+      {
+        "offset": 744,
+        "length": 7,
+        "type": "mention"
+      },
+      {
+        "offset": 752,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5431390559912614642"
+      }
+    ],
+    "media_group_id": null,
+    "chat_id": -1004468214616,
+    "message_ids": [
+      1002
+    ],
+    "update_ids": [
+      378304894
+    ],
+    "retry_count": 0
+  },
+  {
+    "type": "photo",
+    "photo_file_ids": [
+      "AgACAgQAAyEFAAMBClOLWAACA-tqvgABt_KeJaefZIvekQeg7qANdG0AAvoOaxvePPBRjXLkkTNxYn4BAAMCAAN5AAM9BA"
+    ],
+    "caption": "Why Trump is calling AI “Super Intelligence” 👀\n\nTrump just ordered the U.S. government to stop using “Artificial Intelligence” and “AI” in most official documents and replace them with “Super Intelligence” and “SI.”\n\nThe White House says the terminology reflects how far frontier systems have advanced beyond simply “imitating” human intelligence. But the legal implications could be more interesting.\n\nThe U.S. already has a growing patchwork of state AI regulations. So could a new federal definition of “Super Intelligence” eventually become part of the battle over which rules apply?\n\nThe executive order does NOT currently exempt SI companies from state AI laws. In fact, for now, it explicitly defines “Super Intelligence” using the existing federal statutory definition of artificial intelligence.\n\nHowever, the order also tells the administration to propose a new federal definition of SI within 60 days, including whether it should modify or replace the existing definition.\n\nTrump is essentially asking Washington to create a new vocabulary and potentially a new legal framework around frontier AI.\n\nThen there’s the White House’s voluntary AI accord, which Trump has described as “a form of protection.”\n\nSupporters can frame that as companies voluntarily agreeing to stronger safety standards. Critics could see it as an attempt to establish industry-friendly federal standards before states impose their own.\n\nEither way, the terminology is only the beginning.\n\nIf “AI” becomes “Super Intelligence” in federal policy, the bigger fight may be over what that new category actually means and which laws get to regulate it.\n\nSource.\n\n@aipost 🏴",
+    "entities": [
+      {
+        "offset": 0,
+        "length": 45,
+        "type": "bold"
+      },
+      {
+        "offset": 45,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5357121491508928442"
+      },
+      {
+        "offset": 1635,
+        "length": 6,
+        "type": "text_link",
+        "url": "https://www.nextgov.com/artificial-intelligence/2026/09/super-intelligence-presidents-new-term-ai-explained/416164/"
+      },
+      {
+        "offset": 1644,
+        "length": 7,
+        "type": "mention"
+      },
+      {
+        "offset": 1652,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5431390559912614642"
+      }
+    ],
+    "media_group_id": null,
+    "chat_id": -1004468214616,
+    "message_ids": [
+      1003
+    ],
+    "update_ids": [
+      378304895
+    ],
+    "retry_count": 0
+  },
+  {
+    "type": "photo",
+    "photo_file_ids": [
+      "AgACAgIAAyEFAAMBClOLWAACA-xqvhSZPR2j9wEF11jXSy-vxaSI8wACYyBrGxQo4En9debFKghG4wEAAwIAA3kAAz0E"
+    ],
+    "caption": "🤖 ChatGPT adds a $500 tier\n\nThe plan gives 25x the limits of Plus and unlocks Astra’s Ultrafast mode, which runs 8x faster.\n\nJust before that, OpenAI quietly halved limits on the $200 plan.\n\n📊@tech",
+    "entities": [
+      {
+        "offset": 0,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5397681122542893003"
+      },
+      {
+        "offset": 3,
+        "length": 24,
+        "type": "bold"
+      },
+      {
+        "offset": 44,
+        "length": 22,
+        "type": "bold"
+      },
+      {
+        "offset": 79,
+        "length": 22,
+        "type": "bold"
+      },
+      {
+        "offset": 114,
+        "length": 9,
+        "type": "bold"
+      },
+      {
+        "offset": 180,
+        "length": 9,
+        "type": "bold"
+      },
+      {
+        "offset": 192,
+        "length": 2,
+        "type": "bold"
+      },
+      {
+        "offset": 192,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5449841756596101801"
+      },
+      {
+        "offset": 194,
+        "length": 5,
+        "type": "mention"
+      },
+      {
+        "offset": 194,
+        "length": 5,
+        "type": "bold"
+      }
+    ],
+    "media_group_id": null,
+    "chat_id": -1004468214616,
+    "message_ids": [
+      1004
+    ],
+    "update_ids": [
+      378304896
+    ],
+    "retry_count": 0
+  },
+  {
+    "type": "album",
+    "photo_file_ids": [
+      "AgACAgIAAyEFAAMBClOLWAACA-1qvhSnzNdCA4nwWOvd8pBRDmUJrgACHSFrGzTp4UmOeksdn0AeiwEAAwIAA3kAAz0E",
+      "AgACAgIAAyEFAAMBClOLWAACA-5qvhSnGLOzESWsAS4I8rp8cltv5gACHiFrGzTp4Um6UWzB87EOrgEAAwIAA3kAAz0E",
+      "AgACAgIAAyEFAAMBClOLWAACA_JqvhSn8dfaQ6cnEDOZD38Rfp4logACHyFrGzTp4UktLhPc4ENHZgEAAwIAA3kAAz0E",
+      "AgACAgIAAyEFAAMBClOLWAACA_NqvhSnTjL5-lMri3iwU9R3o7oO3gACICFrGzTp4Unp1yalpfDpNQEAAwIAA3kAAz0E"
+    ],
+    "caption": "🤖 Robot Data Is the IROS Theme\n\nAt IROS 2026, 8 dedicated sessions focus on VLA models, which turn an image and text instruction into robot actions. Force and tactile sensing also appear throughout because cameras alone are not enough for dexterous work.\n\nDiffusion and flow matching now generate robot movements, not images. Humanoid work covers walking and whole-body control, while one competition had robots assembled IKEA furniture themselves.\n\nReinforcement learning and imitation learning appear in almost every second paper. Robots can already do a lot, but data remains the bottleneck. Unlike language models, they are only starting to build a training pool.\n\n📊@tech",
+    "entities": [
+      {
+        "offset": 0,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5355051922862653659"
+      },
+      {
+        "offset": 3,
+        "length": 28,
+        "type": "bold"
+      },
+      {
+        "offset": 36,
+        "length": 9,
+        "type": "bold"
+      },
+      {
+        "offset": 47,
+        "length": 20,
+        "type": "bold"
+      },
+      {
+        "offset": 77,
+        "length": 10,
+        "type": "bold"
+      },
+      {
+        "offset": 257,
+        "length": 27,
+        "type": "bold"
+      },
+      {
+        "offset": 406,
+        "length": 31,
+        "type": "bold"
+      },
+      {
+        "offset": 451,
+        "length": 45,
+        "type": "bold"
+      },
+      {
+        "offset": 567,
+        "length": 4,
+        "type": "bold"
+      },
+      {
+        "offset": 670,
+        "length": 2,
+        "type": "bold"
+      },
+      {
+        "offset": 670,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5449841756596101801"
+      },
+      {
+        "offset": 672,
+        "length": 5,
+        "type": "mention"
+      },
+      {
+        "offset": 672,
+        "length": 5,
+        "type": "bold"
+      }
+    ],
+    "media_group_id": "14326736186326605",
+    "chat_id": -1004468214616,
+    "message_ids": [
+      1005,
+      1006,
+      1010,
+      1011
+    ],
+    "update_ids": [
+      378304897,
+      378304898,
+      378304902,
+      378304903
+    ],
+    "retry_count": 0
+  },
+  {
+    "type": "video",
+    "video_file_id": "BAACAgIAAyEFAAMBClOLWAACA-9qvhSn33kSryj1u0Vd9g2JEQMfuQACsaYAAjTp4UnvpHeO-jm3SD0E",
+    "video_file_size": 3133811,
+    "caption": "",
+    "entities": [],
+    "media_group_id": "14326736186326605",
+    "chat_id": -1004468214616,
+    "message_ids": [
+      1007
+    ],
+    "update_ids": [
+      378304899
+    ],
+    "retry_count": 0
+  },
+  {
+    "type": "video",
+    "video_file_id": "BAACAgIAAyEFAAMBClOLWAACA_BqvhSnODrfE89LgImLLJb1NGRizAACs6YAAjTp4UmLm1FvHlwXfT0E",
+    "video_file_size": 4145781,
+    "caption": "",
+    "entities": [],
+    "media_group_id": "14326736186326605",
+    "chat_id": -1004468214616,
+    "message_ids": [
+      1008
+    ],
+    "update_ids": [
+      378304900
+    ],
+    "retry_count": 0
+  },
+  {
+    "type": "video",
+    "video_file_id": "BAACAgIAAyEFAAMBClOLWAACA_FqvhSnzZHS8bJ6RVheEGGo0jtNnQACtKYAAjTp4UlCfRpTeqHvOj0E",
+    "video_file_size": 4983374,
+    "caption": "",
+    "entities": [],
+    "media_group_id": "14326736186326605",
+    "chat_id": -1004468214616,
+    "message_ids": [
+      1009
+    ],
+    "update_ids": [
+      378304901
+    ],
+    "retry_count": 0
+  },
+  {
+    "type": "photo",
+    "photo_file_ids": [
+      "AgACAgIAAyEFAAMBClOLWAACA_RqvhTaCMFfNaPl1qQUoW2nXje78QACASFrG1066Ek8_DiIaLF1YgEAAwIAA3kAAz0E"
+    ],
+    "caption": "🧠 DeepSeek Builds Software for Huawei Chips\n\nThe companies open-sourced tools for Huawei Ascend, now the main Chinese AI accelerators used by local startups. The software gap is the hard part: the industry has spent 10+ years writing for Nvidia CUDA.\n\nThe release includes DeepGEMM for matrix multiplication and DeepEP for chip-to-chip communication. Their APIs match Nvidia versions, so existing code needs almost no rewriting.\n\nThe stack runs on TileLang. Its compiler now handles scheduling and data synchronization instead of requiring manual code. DeepSeek says its training kernels already run on Ascend. This covers kernel writing, not the full CUDA stack.\n\n📊@tech",
+    "entities": [
+      {
+        "offset": 0,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5260751723990899978"
+      },
+      {
+        "offset": 3,
+        "length": 41,
+        "type": "bold"
+      },
+      {
+        "offset": 83,
+        "length": 13,
+        "type": "bold"
+      },
+      {
+        "offset": 217,
+        "length": 9,
+        "type": "bold"
+      },
+      {
+        "offset": 274,
+        "length": 8,
+        "type": "bold"
+      },
+      {
+        "offset": 313,
+        "length": 6,
+        "type": "bold"
+      },
+      {
+        "offset": 449,
+        "length": 8,
+        "type": "bold"
+      },
+      {
+        "offset": 666,
+        "length": 2,
+        "type": "bold"
+      },
+      {
+        "offset": 666,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5449841756596101801"
+      },
+      {
+        "offset": 668,
+        "length": 5,
+        "type": "mention"
+      },
+      {
+        "offset": 668,
+        "length": 5,
+        "type": "bold"
+      }
+    ],
+    "media_group_id": null,
+    "chat_id": -1004468214616,
+    "message_ids": [
+      1012
+    ],
+    "update_ids": [
+      378304904
+    ],
+    "retry_count": 0
+  },
+  {
+    "type": "photo",
+    "photo_file_ids": [
+      "AgACAgQAAyEFAAMBClOLWAACA_VqviPlNuUZLZqMIDwwDGug_3Y4fQACNw9rG9488FGABb2tZAsxkwEAAwIAA3gAAz0E"
+    ],
+    "caption": "🤯 Harvard gave students an AI tutor and the results are wild\n\nWhat happens when you replace a traditional physics lesson with a custom AI tutor?\n\nHarvard tested exactly that and students using the AI system learned more than twice as much as those in an active-learning classroom, while spending less time studying.\n\nThe experiment involved 194 undergraduates taking introductory physics. Students used a purpose-built AI tutor designed around learning science, rather than a general chatbot.\n\nThe AI guided students with questions, explanations and reasoning checks instead of simply handing them answers.\n\nThe median post-test score was 4.5 for the AI group, compared with 3.5 for the classroom group. Students also spent about 49 minutes with the AI tutor versus 60 minutes in the classroom.\n\nThe really interesting part is that this wasn’t just “ChatGPT teaches physics.”\n\nThe system was specifically engineered to behave like a personalized tutor, adapting explanations, challenging students with questions and checking their reasoning.\n\nThe study was limited to two physics topics at Harvard, so it doesn’t prove AI can replace universities or teachers.\n\nSource. \n\n@aipost 🏴",
+    "entities": [
+      {
+        "offset": 0,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5370745797786738962"
+      },
+      {
+        "offset": 3,
+        "length": 58,
+        "type": "bold"
+      },
+      {
+        "offset": 1162,
+        "length": 8,
+        "type": "text_link",
+        "url": "https://tech.yahoo.com/ai/meta-ai/articles/harvard-tested-custom-ai-physics-151023766.html"
+      },
+      {
+        "offset": 1172,
+        "length": 7,
+        "type": "mention"
+      },
+      {
+        "offset": 1180,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5431390559912614642"
+      }
+    ],
+    "media_group_id": null,
+    "chat_id": -1004468214616,
+    "message_ids": [
+      1013
+    ],
+    "update_ids": [
+      378304905
     ],
     "retry_count": 0
   }
