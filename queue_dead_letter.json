@@ -4826,5 +4826,55 @@
       378304711
     ],
     "retry_count": 0
+  },
+  {
+    "type": "video",
+    "video_file_id": "BAACAgIAAyEFAAMBClOLWAACAzdqqu0JKFE1XgWfJBGKenEhy70segACv7gAArhRWEkB3ruEmBgnFD0E",
+    "video_file_size": 118551686,
+    "caption": "🔥 An AI that helps you actually solve what's going on in your life\n\nMost tools in this space are the same base model with a system prompt on top, nothing wrong with that, just worth being upfront about it. \n\niXo is built the same way, on leading frontier models, with one deliberate design choice: instead of one-shot prompting, it runs a structured, ongoing intake across separate life domains, work, finances, health, relationships, building a persistent context model, then reasoning across that instead of a single prompt window.\n\nPractical effect: it surfaces the actual cause behind a problem, not just a plausible-sounding answer, a symptom in one area (say, focus at work) traced back to its real cause in another (say, sleep). No diagnosis, no decisions made for you, it surfaces the connection, you decide what to do with it.\n\n📌 It's live now as a web app, nothing to install, just a tab. Access is limited while it rolls out, with a mobile app and a couple of connected devices said to be next.\n\nTRY NOW",
+    "entities": [
+      {
+        "offset": 0,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5363970504057191145"
+      },
+      {
+        "offset": 3,
+        "length": 64,
+        "type": "bold"
+      },
+      {
+        "offset": 838,
+        "length": 2,
+        "type": "bold"
+      },
+      {
+        "offset": 838,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5316650525779835016"
+      },
+      {
+        "offset": 840,
+        "length": 167,
+        "type": "bold"
+      },
+      {
+        "offset": 1009,
+        "length": 7,
+        "type": "text_link",
+        "url": "https://join.atqm.us/?utm_source=aipost&utm_medium=telegram&utm_campaign=1"
+      }
+    ],
+    "media_group_id": null,
+    "chat_id": -1004468214616,
+    "message_ids": [
+      823
+    ],
+    "update_ids": [
+      378304715
+    ],
+    "retry_count": 0
   }
 ]
