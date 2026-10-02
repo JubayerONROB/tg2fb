@@ -4737,5 +4737,94 @@
       378304682
     ],
     "retry_count": 0
+  },
+  {
+    "type": "video",
+    "video_file_id": "BAACAgQAAyEFAAMBClOLWAACAzBqqoDo4SlLQXiN6lygW-g0vFktJwACCyEAAtryUFHamJ-rB_jIgD0E",
+    "video_file_size": 21926834,
+    "caption": "🗣 Stephen Hawking warned us 11 years ago:\n\n\"I think the development of full artificial intelligence could spell the end of the human race\"\n\n\"Once humans develop artificial intelligence, it will take off on its and redesign itself at an ever increasing rate\"\n\n“Humans, who are limited by slow biological evolution, couldn’t compete and would be superseded.\"\n\n@aipost 🏴",
+    "entities": [
+      {
+        "offset": 0,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5287468155738821335"
+      },
+      {
+        "offset": 3,
+        "length": 39,
+        "type": "bold"
+      },
+      {
+        "offset": 44,
+        "length": 313,
+        "type": "blockquote"
+      },
+      {
+        "offset": 359,
+        "length": 7,
+        "type": "mention"
+      },
+      {
+        "offset": 367,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5431390559912614642"
+      }
+    ],
+    "media_group_id": null,
+    "chat_id": -1004468214616,
+    "message_ids": [
+      816
+    ],
+    "update_ids": [
+      378304708
+    ],
+    "retry_count": 0
+  },
+  {
+    "type": "video",
+    "video_file_id": "BAACAgQAAyEFAAMBClOLWAACAzNqquzct0JrcVavcJ5aTKJj-Ib6BgACTSIAAtryUFFaN6ZAYsMQYj0E",
+    "video_file_size": 36254568,
+    "caption": "📝A model that doesn’t generate text\n\nDiogo Almeida, a co-author of the original RLHF work and an author of the InstructGPT paper that helped lay the foundation for ChatGPT, has launched a new kind of AI model.\n\nHis company, TypeSafe AI, has spent the past two years in stealth developing Jev, the first model in what it calls “System One Models.”\n\nA lot of AI tasks can be handled without generating text.\n\nIf an agent needs to classify a request, assess risk, select an action or route a task, a traditional LLM still generates tokens and then has to parse the answer.\n\nJev skips that entire process.\n\nInstead, it directly returns a structured result along with probabilities for each possible option.\n\nThat makes it dramatically faster for these narrow tasks: TypeSafe says Jev can respond in around 70–500 ms and be 20–200× faster than typical LLMs.\n\nThe pricing is also unusual: $0.042 per 1 million input tokens, with output tokens free.\n\nSource. \n\n@aipost 🏴",
+    "entities": [
+      {
+        "offset": 0,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5257965174979042426"
+      },
+      {
+        "offset": 2,
+        "length": 34,
+        "type": "bold"
+      },
+      {
+        "offset": 945,
+        "length": 8,
+        "type": "text_link",
+        "url": "https://typesafe.ai/blog/introducing-system-one-models-and-jev"
+      },
+      {
+        "offset": 955,
+        "length": 7,
+        "type": "mention"
+      },
+      {
+        "offset": 963,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5431390559912614642"
+      }
+    ],
+    "media_group_id": null,
+    "chat_id": -1004468214616,
+    "message_ids": [
+      819
+    ],
+    "update_ids": [
+      378304711
+    ],
+    "retry_count": 0
   }
 ]
