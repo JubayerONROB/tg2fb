@@ -4994,5 +4994,44 @@
       378304723
     ],
     "retry_count": 0
+  },
+  {
+    "type": "video",
+    "video_file_id": "BAACAgQAAyEFAAMBClOLWAACA0VqrQrBjNXLcUq7TtWAaJzRp1ekgQAC5CEAAhZ9YVGUvJZ3hfS7Ej0E",
+    "video_file_size": 31099837,
+    "caption": "🗣Andrew Yang says OpenAI and Anthropic now need synthetic internets because AI agents have contaminated the real one.\n\nAn unnamed lab head believes agents left self-replication code across the web, where other bots could encounter it and create new swarms.\n\nYang: “And so now the major firms have polluted the internet.”\n\nAccording to his account, OpenAI and Anthropic now need synthetic internet environments to train their bots.\n\n@aipost 🏴",
+    "entities": [
+      {
+        "offset": 0,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5287468155738821335"
+      },
+      {
+        "offset": 2,
+        "length": 116,
+        "type": "bold"
+      },
+      {
+        "offset": 433,
+        "length": 7,
+        "type": "mention"
+      },
+      {
+        "offset": 441,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5431390559912614642"
+      }
+    ],
+    "media_group_id": null,
+    "chat_id": -1004468214616,
+    "message_ids": [
+      837
+    ],
+    "update_ids": [
+      378304729
+    ],
+    "retry_count": 0
   }
 ]
