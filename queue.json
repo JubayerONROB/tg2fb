@@ -1,277 +1,5 @@
 [
   {
-    "type": "album",
-    "photo_file_ids": [
-      "AgACAgQAAyEFAAMBClOLWAACA1tqr4cnWyeUGz2dKRKka-qFBeP3swAC4w5rG9hyeFFWtzzRafIuiwEAAwIAA3gAAz0E",
-      "AgACAgQAAyEFAAMBClOLWAACA1xqr4cniAKXw63zmKcyJZaarjesFwAC5A5rG9hyeFHM4r-r9ef6qAEAAwIAA20AAz0E"
-    ],
-    "caption": "🤖 Anthropic may already be preparing another Claude.\n\nReuters says Anthropic is considering a new model as GPT-6 Astra starts putting pressure on Claude.\n\nAstra is already accounting for 13% of tracked enterprise AI spending, versus 8% for Claude Fable. Reuters also reports that Anthropic is evaluating the safety of its next model as it weighs a potential release.\n\nJust days ago, Dario Amodei argued that frontier AI development needs to slow down. Now Anthropic may have to accelerate again simply to keep pace with OpenAI. \n\n@aipost 🏴",
-    "entities": [
-      {
-        "offset": 0,
-        "length": 2,
-        "type": "custom_emoji",
-        "custom_emoji_id": "5208665212483310136"
-      },
-      {
-        "offset": 3,
-        "length": 50,
-        "type": "bold"
-      },
-      {
-        "offset": 531,
-        "length": 7,
-        "type": "mention"
-      },
-      {
-        "offset": 539,
-        "length": 2,
-        "type": "custom_emoji",
-        "custom_emoji_id": "5431390559912614642"
-      }
-    ],
-    "media_group_id": "14319106367027573",
-    "chat_id": -1004468214616,
-    "message_ids": [
-      859,
-      860
-    ],
-    "update_ids": [
-      378304751,
-      378304752
-    ],
-    "retry_count": 0
-  },
-  {
-    "type": "video",
-    "video_file_id": "BAACAgQAAyEFAAMBClOLWAACA11qr4cryyBg9ZqIS5mDyUTAGeH8JQAC1x4AAthyeFGy-fzliZfRWT0E",
-    "video_file_size": 12175829,
-    "caption": "🤖 Claude just got a serious workflow upgrade.\n\nYou can now kick off multiple tasks from a single Claude Code session, with Claude splitting the work across parallel threads.\n\nThe threads share project context and keep running in the cloud even after you close your laptop. So instead of babysitting one task at a time, Claude can keep grinding through several things in the background.\n\n\n@aipost 🏴",
-    "entities": [
-      {
-        "offset": 0,
-        "length": 2,
-        "type": "custom_emoji",
-        "custom_emoji_id": "5208665212483310136"
-      },
-      {
-        "offset": 3,
-        "length": 43,
-        "type": "bold"
-      },
-      {
-        "offset": 389,
-        "length": 7,
-        "type": "mention"
-      },
-      {
-        "offset": 397,
-        "length": 2,
-        "type": "custom_emoji",
-        "custom_emoji_id": "5431390559912614642"
-      }
-    ],
-    "media_group_id": null,
-    "chat_id": -1004468214616,
-    "message_ids": [
-      861
-    ],
-    "update_ids": [
-      378304753
-    ],
-    "retry_count": 0
-  },
-  {
-    "type": "photo",
-    "photo_file_ids": [
-      "AgACAgIAAyEFAAMBClOLWAACA15qr5sGSESxk2qhTALSHW6E5KvqSgACxRxrG_S9WEmNuQABBBGUVjUBAAMCAAN4AAM9BA"
-    ],
-    "caption": "🍏 iPhone 18 Pro Adds Photo Proof\n\nReference Image mode works only with the main camera on iPhone 18 Pro and Pro Max. It is unavailable in some countries, and older iPhones lack the required hardware.\n\nThe sensor signs each shot with a secret key embedded during production. A protected processor adds another signature, while Apple records which sensor belongs to each phone. Edits fail verification, and sensor firmware cannot change the captured data.\n\nApple usually adds a signed time mark every 15 minutes. The image is saved as a DNG digital negative, checked in Private Cloud Compute, and returned to Photos as a signed JPEG. It can be viewed on Apple devices running version 27.\n\n📊@tech",
-    "entities": [
-      {
-        "offset": 0,
-        "length": 2,
-        "type": "custom_emoji",
-        "custom_emoji_id": "5398012024003246287"
-      },
-      {
-        "offset": 3,
-        "length": 30,
-        "type": "bold"
-      },
-      {
-        "offset": 35,
-        "length": 20,
-        "type": "bold"
-      },
-      {
-        "offset": 91,
-        "length": 25,
-        "type": "bold"
-      },
-      {
-        "offset": 377,
-        "length": 23,
-        "type": "bold"
-      },
-      {
-        "offset": 500,
-        "length": 10,
-        "type": "bold"
-      },
-      {
-        "offset": 536,
-        "length": 20,
-        "type": "bold"
-      },
-      {
-        "offset": 569,
-        "length": 21,
-        "type": "bold"
-      },
-      {
-        "offset": 688,
-        "length": 2,
-        "type": "bold"
-      },
-      {
-        "offset": 688,
-        "length": 2,
-        "type": "custom_emoji",
-        "custom_emoji_id": "5449841756596101801"
-      },
-      {
-        "offset": 690,
-        "length": 5,
-        "type": "mention"
-      },
-      {
-        "offset": 690,
-        "length": 5,
-        "type": "bold"
-      }
-    ],
-    "media_group_id": null,
-    "chat_id": -1004468214616,
-    "message_ids": [
-      862
-    ],
-    "update_ids": [
-      378304754
-    ],
-    "retry_count": 0
-  },
-  {
-    "type": "photo",
-    "photo_file_ids": [
-      "AgACAgIAAyEFAAMBClOLWAACA19qr5sh4yCBTS0sqB-OvXFQu-3MZwAC5BxrGynvcUl4gZ-a4Wh2rAEAAwIAA3kAAz0E"
-    ],
-    "caption": "🤖 Anthropic Prepares Astra Rival\n\nReuters reports that Anthropic is safety-testing a new model that could launch soon.\n\nIt is meant to compete with Astra, just 1 week after Dario Amodei argued for slowing AI progress.\n\n📊@tech",
-    "entities": [
-      {
-        "offset": 0,
-        "length": 2,
-        "type": "custom_emoji",
-        "custom_emoji_id": "5208665212483310136"
-      },
-      {
-        "offset": 3,
-        "length": 30,
-        "type": "bold"
-      },
-      {
-        "offset": 56,
-        "length": 9,
-        "type": "bold"
-      },
-      {
-        "offset": 69,
-        "length": 26,
-        "type": "bold"
-      },
-      {
-        "offset": 149,
-        "length": 5,
-        "type": "bold"
-      },
-      {
-        "offset": 161,
-        "length": 6,
-        "type": "bold"
-      },
-      {
-        "offset": 220,
-        "length": 2,
-        "type": "bold"
-      },
-      {
-        "offset": 220,
-        "length": 2,
-        "type": "custom_emoji",
-        "custom_emoji_id": "5449841756596101801"
-      },
-      {
-        "offset": 222,
-        "length": 5,
-        "type": "mention"
-      },
-      {
-        "offset": 222,
-        "length": 5,
-        "type": "bold"
-      }
-    ],
-    "media_group_id": null,
-    "chat_id": -1004468214616,
-    "message_ids": [
-      863
-    ],
-    "update_ids": [
-      378304755
-    ],
-    "retry_count": 0
-  },
-  {
-    "type": "photo",
-    "photo_file_ids": [
-      "AgACAgQAAyEFAAMBClOLWAACA2BqsBBV4UFfwklj4vMy-ibeSuhHQQAC6Q5rG9hyeFGnmJEVuMVJfAEAAwIAA3kAAz0E"
-    ],
-    "caption": "❗️AI was supposed to kill a million jobs. It may have created them instead.\n\nThe Economist estimates the AI boom has added around 1 million jobs in the US above normal employment trends.\n\nYes, about 200,000 jobs have disappeared since mid-2023 in roles where companies cited AI.\n\nBut the bigger surprise is where the new jobs are coming from.\n\nElectricians. HVAC technicians. Construction crews. Utility workers. The people building the massive data centers and power infrastructure AI needs.\n\nThen there’s the obvious wave of engineers, software developers, data scientists and AI specialists.\n\nThe estimate isn’t a perfect government count, but the trend is interesting: AI isn’t just replacing workers. It’s creating an entire economy around itself.\n\n@aipost 🏴",
-    "entities": [
-      {
-        "offset": 0,
-        "length": 2,
-        "type": "custom_emoji",
-        "custom_emoji_id": "5289761612440310918"
-      },
-      {
-        "offset": 2,
-        "length": 73,
-        "type": "bold"
-      },
-      {
-        "offset": 754,
-        "length": 7,
-        "type": "mention"
-      },
-      {
-        "offset": 762,
-        "length": 2,
-        "type": "custom_emoji",
-        "custom_emoji_id": "5431390559912614642"
-      }
-    ],
-    "media_group_id": null,
-    "chat_id": -1004468214616,
-    "message_ids": [
-      864
-    ],
-    "update_ids": [
-      378304756
-    ],
-    "retry_count": 0
-  },
-  {
     "type": "video",
     "video_file_id": "BAACAgQAAyEFAAMBClOLWAACA2FqsBBvoRQgTC1LgNCgQhEc2pEAAfMAAiAcAAJmuYFRK-UxhHMu5n49BA",
     "video_file_size": 6181865,
@@ -6750,6 +6478,442 @@
     ],
     "update_ids": [
       378304915
+    ],
+    "retry_count": 0
+  },
+  {
+    "type": "photo",
+    "photo_file_ids": [
+      "AgACAgQAAyEFAAMBClOLWAACBAABasFv0oz-yLcQb50WuGBbvedRW7wAAvkOaxvRugABUiWO2L6Pm7VcAQADAgADeQADPQQ"
+    ],
+    "caption": "🇺🇸 Trump reportedly turned to Grok for presidential advice \n\nAccording to TIME, President Trump spent hours using Grok during a private Oval Office meeting with Elon Musk in December 2025, asking the AI questions about his presidency, legacy and major world events.\n\nOne question reportedly involved what might happen in Venezuela if the U.S. captured Nicolás Maduro. Grok predicted that many Venezuelans would celebrate his downfall. Maduro was captured the following month, followed by celebrations in the streets.\n\nAnd Grok’s role in government is going beyond Trump.\n\nAt the September 29 launch of America.gov, Trump mentioned Grok as one of the AI systems helping Americans navigate federal information and services, alongside Google’s Gemini.\n\nThe Department of War has also deployed a secure version of Grok for personnel through GenAI.mil, while the Department of Agriculture plans to make it available internally.\n\nSource. \n\n@aipost 🏴",
+    "entities": [
+      {
+        "offset": 0,
+        "length": 4,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5202021044105257611"
+      },
+      {
+        "offset": 5,
+        "length": 56,
+        "type": "bold"
+      },
+      {
+        "offset": 604,
+        "length": 11,
+        "type": "url"
+      },
+      {
+        "offset": 839,
+        "length": 9,
+        "type": "url"
+      },
+      {
+        "offset": 926,
+        "length": 8,
+        "type": "text_link",
+        "url": "https://techcrunch.com/2026/10/01/musks-ai-chatbot-grok-reportedly-encouraged-trump-to-capture-venezuelas-president/"
+      },
+      {
+        "offset": 936,
+        "length": 7,
+        "type": "mention"
+      },
+      {
+        "offset": 944,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5431390559912614642"
+      }
+    ],
+    "media_group_id": null,
+    "chat_id": -1004468214616,
+    "message_ids": [
+      1024
+    ],
+    "update_ids": [
+      378304916
+    ],
+    "retry_count": 0
+  },
+  {
+    "type": "album",
+    "photo_file_ids": [
+      "AgACAgQAAyEFAAMBClOLWAACBAFqwW_SM6ocMAYpIl32719AFe1wbgAC-g5rG9G6AAFSfC1SJascIwoBAAMCAAN5AAM9BA",
+      "AgACAgQAAyEFAAMBClOLWAACBAJqwW_SCQbCT1dYr6mdm6Md7YET8AAC-w5rG9G6AAFSBF2MnD6AwnIBAAMCAAN4AAM9BA"
+    ],
+    "caption": "🇭🇰 Claude is cracking down on VPN users in Hong Kong \n\nSome Hong Kong users are reporting that Claude accounts they’ve used through VPNs for months are suddenly being suspended for “suspicious signals.”\n\nOne user reportedly used NordVPN for around six months before getting flagged. Others are now trying Singapore VPN servers and foreign payment methods to maintain access.\n\nThe reason? Hong Kong still isn’t officially supported by Anthropic, while Singapore and Taiwan are.\n\nAnthropic says Claude uses IP addresses and other signals to determine a user’s country or region for terms enforcement. The location check is mandatory and can’t be disabled.\n\nSo apparently, using Claude from an unsupported region isn’t just a matter of picking a VPN server anymore. Anthropic appears to be getting much better at detecting it.\n\n@aipost 🏴",
+    "entities": [
+      {
+        "offset": 0,
+        "length": 4,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5222395857856374392"
+      },
+      {
+        "offset": 5,
+        "length": 50,
+        "type": "bold"
+      },
+      {
+        "offset": 827,
+        "length": 7,
+        "type": "mention"
+      },
+      {
+        "offset": 835,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5431390559912614642"
+      }
+    ],
+    "media_group_id": "14328495763449269",
+    "chat_id": -1004468214616,
+    "message_ids": [
+      1025,
+      1026
+    ],
+    "update_ids": [
+      378304917,
+      378304918
+    ],
+    "retry_count": 0
+  },
+  {
+    "type": "photo",
+    "photo_file_ids": [
+      "AgACAgIAAyEFAAMBClOLWAACBANqwW_SAAEmFr36i-XGcjiCf-caDqsAAi4eaxvsPgFKpO1kPPQgdhoBAAMCAAN5AAM9BA"
+    ],
+    "caption": "Interesting blog\n\n\"Meta may be one of the very few companies that can monetize a personal agent through advertising without ever showing an ad inside the agent itself. \"\n\nMeta acknowledges that Muse appears as your own activity when it browses, so a merchant site it visits for you might use that visit to show you an ad on Instagram. \nmeta\n\nThat lets Meta keep ads out of Muse while still collecting commercial intent signals for its feeds, a loop few rivals can copy without both merchant tracking tags and a vast owned ad surface.\n\nInstead of in-agent ads, Zuckerberg has promised to fund Muse's free tier with a small transaction fee, reportedly paid by merchants rather than purchasers, whose size Meta still hasn't disclosed.\n\n📰 @aipost",
+    "entities": [
+      {
+        "offset": 733,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5363988332466438547"
+      },
+      {
+        "offset": 736,
+        "length": 7,
+        "type": "mention"
+      }
+    ],
+    "media_group_id": null,
+    "chat_id": -1004468214616,
+    "message_ids": [
+      1027
+    ],
+    "update_ids": [
+      378304919
+    ],
+    "retry_count": 0
+  },
+  {
+    "type": "album",
+    "photo_file_ids": [
+      "AgACAgQAAyEFAAMBClOLWAACBARqwW_SxtkyI10R_ltg8KQe_Qk6wQAC_Q5rG9G6AAFS_5_YD7bY51kBAAMCAAN4AAM9BA",
+      "AgACAgQAAyEFAAMBClOLWAACBAVqwW_SDzgJrh0POnQo90cYiy351QAC_A5rG9G6AAFS90Pn4DeJTYABAAMCAAN4AAM9BA"
+    ],
+    "caption": "❗️OpenAI CAUGHT people linked to China's Moonshot AI trying to copy the hidden reasoning behind its models.\n\nThe operators copied encrypted reasoning from one conversation and asked a model in another conversation to decrypt it, OpenAI says.\n\nAt its peak in late July, the campaign sent about 16,000 requests from more than 4,000 accounts before OpenAI shut it down.\n\nIt comes weeks after Anthropic accused Moonshot of routing its users' requests through Claude to train its own models.\n\nMoonshot has not yet responded.\n\n@aipost 🏴",
+    "entities": [
+      {
+        "offset": 0,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5289761612440310918"
+      },
+      {
+        "offset": 2,
+        "length": 105,
+        "type": "bold"
+      },
+      {
+        "offset": 521,
+        "length": 7,
+        "type": "mention"
+      },
+      {
+        "offset": 529,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5431390559912614642"
+      }
+    ],
+    "media_group_id": "14328495763449285",
+    "chat_id": -1004468214616,
+    "message_ids": [
+      1028,
+      1029
+    ],
+    "update_ids": [
+      378304920,
+      378304921
+    ],
+    "retry_count": 0
+  },
+  {
+    "type": "photo",
+    "photo_file_ids": [
+      "AgACAgQAAyEFAAMBClOLWAACBAZqwW_S7zCMGebJN44RZX8QMbbQNAACjhBrG9G6AAFS6M_0ieljikUBAAMCAAN5AAM9BA"
+    ],
+    "caption": "98% of US households aren't paying for AI yet.\n\n@aipost 🏴",
+    "entities": [
+      {
+        "offset": 48,
+        "length": 7,
+        "type": "mention"
+      },
+      {
+        "offset": 48,
+        "length": 7,
+        "type": "underline"
+      },
+      {
+        "offset": 56,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5431390559912614642"
+      }
+    ],
+    "media_group_id": null,
+    "chat_id": -1004468214616,
+    "message_ids": [
+      1030
+    ],
+    "update_ids": [
+      378304922
+    ],
+    "retry_count": 0
+  },
+  {
+    "type": "video",
+    "video_file_id": "BAACAgQAAyEFAAMBClOLWAACBAdqwW_S66hrBzeFzHoQ68kGDZGARwACmCAAAtG6AAFSW_CQRPHsLMU9BA",
+    "video_file_size": 16563281,
+    "caption": "🥺Sam Altman: people talk about how much energy it takes to train an AI model, but forget it takes like 20 years of life to train a human.\n\n“It took the widespread evolution of the 100 billion people that have ever lived to produce you.”\n\n“The fair comparison is how much energy ChatGPT uses to answer a question once the model is trained versus a human.”\n\n“AI has probably already caught up on an energy-efficiency basis measured that way.”\n\n@aipost 🏴",
+    "entities": [
+      {
+        "offset": 0,
+        "length": 2,
+        "type": "bold"
+      },
+      {
+        "offset": 0,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5291894093767542370"
+      },
+      {
+        "offset": 2,
+        "length": 136,
+        "type": "bold"
+      },
+      {
+        "offset": 140,
+        "length": 301,
+        "type": "blockquote"
+      },
+      {
+        "offset": 443,
+        "length": 7,
+        "type": "mention"
+      },
+      {
+        "offset": 451,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5431390559912614642"
+      }
+    ],
+    "media_group_id": null,
+    "chat_id": -1004468214616,
+    "message_ids": [
+      1031
+    ],
+    "update_ids": [
+      378304923
+    ],
+    "retry_count": 0
+  },
+  {
+    "type": "album",
+    "photo_file_ids": [
+      "AgACAgQAAyEFAAMBClOLWAACBAhqwW_S4r-Am31DZ6669aZsf4S5iAACIg5rG9G6CFIXS-dSb1lhoAEAAwIAA3gAAz0E",
+      "AgACAgQAAyEFAAMBClOLWAACBAlqwW_SoodUIE76VY2yh0ETtOP2JgACIw5rG9G6CFJdFeZIaEKcSwEAAwIAA3gAAz0E"
+    ],
+    "caption": "🍏 Apple is tightening privacy rules after an AI agent reportedly accessed private messages\n\nApple is introducing additional safeguards around Full Disk Access after tech writer Jason Aten reported that Meta’s Muse AI agent synced more than 187,000 rows from his Apple Messages database despite him saying he never gave Muse permission to access his messages.\n\nMuse reportedly told Aten it had only seen incoming notification banners.\n\nMeta disputes the allegation, saying Muse cannot access Messages without explicit permission.\n\nApple says the incident highlights a growing problem with AI agents: once they’re given broad system permissions, they may be able to access files, emails, messages and browsing history.\n\n@aipost 🏴",
+    "entities": [
+      {
+        "offset": 0,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5398012024003246287"
+      },
+      {
+        "offset": 3,
+        "length": 88,
+        "type": "bold"
+      },
+      {
+        "offset": 719,
+        "length": 7,
+        "type": "mention"
+      },
+      {
+        "offset": 719,
+        "length": 7,
+        "type": "underline"
+      },
+      {
+        "offset": 727,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5431390559912614642"
+      }
+    ],
+    "media_group_id": "14328495763449309",
+    "chat_id": -1004468214616,
+    "message_ids": [
+      1032,
+      1033
+    ],
+    "update_ids": [
+      378304924,
+      378304925
+    ],
+    "retry_count": 0
+  },
+  {
+    "type": "video",
+    "video_file_id": "BAACAgIAAyEFAAMBClOLWAACBApqwW_ShJTEnGm1LbuY8Nv_-LtJWQACsrIAAtW9AUrGPSulyBs2Sz0E",
+    "video_file_size": 18060823,
+    "caption": "Eric Schmidt explains why a mutual pause of the AI race is impossible: \n\nUS incentives will not stop, a local lab or China can cheat, and a UN check cannot read code that computers wrote or outrun US and Chinese labs.\n\nit cannot be verified. Inspectors would have to enter secret laboratories, including military laboratories, and review the full code base. \nThat code is written by computers, so no human team can read it line by line.\n\n\n📰 @aipost",
+    "entities": [
+      {
+        "offset": 439,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5363988332466438547"
+      },
+      {
+        "offset": 442,
+        "length": 7,
+        "type": "mention"
+      }
+    ],
+    "media_group_id": null,
+    "chat_id": -1004468214616,
+    "message_ids": [
+      1034
+    ],
+    "update_ids": [
+      378304926
+    ],
+    "retry_count": 0
+  },
+  {
+    "type": "video",
+    "video_file_id": "BAACAgQAAyEFAAMBClOLWAACBAtqwW_SHzfBbIPqamI1hHB79HYSIwAC9hwAAkDeAVLwlB33-_A4uD0E",
+    "video_file_size": 3196413,
+    "caption": "The AI user race is getting real.\n\n@aipost 🏴",
+    "entities": [
+      {
+        "offset": 35,
+        "length": 7,
+        "type": "mention"
+      },
+      {
+        "offset": 43,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5431390559912614642"
+      }
+    ],
+    "media_group_id": null,
+    "chat_id": -1004468214616,
+    "message_ids": [
+      1035
+    ],
+    "update_ids": [
+      378304927
+    ],
+    "retry_count": 0
+  },
+  {
+    "type": "album",
+    "photo_file_ids": [
+      "AgACAgQAAyEFAAMBClOLWAACBAxqwW_SbvwTvjvC6uvdn67F0YUEagAC2Q9rG0DeAVLStazJCGDBtgEAAwIAA3gAAz0E",
+      "AgACAgQAAyEFAAMBClOLWAACBA1qwW_SJprhJiGjIq7Od8rFG43qhgAC2g9rG0DeAVLv3Tncexkn6AEAAwIAA3gAAz0E"
+    ],
+    "caption": "❗️OpenAI has just hired former White House cyber official Thomas Lind, who ran AI policy at the White House cyber office until June.\n\nHe will lead cyber and strategic risk on OpenAI's national security policy team per The Information. He arrives from the office that drafted Trump's June executive order on AI.\n\nSource.\n\n@aipost 🏴",
+    "entities": [
+      {
+        "offset": 0,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5289761612440310918"
+      },
+      {
+        "offset": 312,
+        "length": 6,
+        "type": "text_link",
+        "url": "https://www.theinformation.com/articles/openai-hires-top-trump-ai-official-work-national-security"
+      },
+      {
+        "offset": 321,
+        "length": 7,
+        "type": "mention"
+      },
+      {
+        "offset": 329,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5431390559912614642"
+      }
+    ],
+    "media_group_id": "14328495763449333",
+    "chat_id": -1004468214616,
+    "message_ids": [
+      1036,
+      1037
+    ],
+    "update_ids": [
+      378304928,
+      378304929
+    ],
+    "retry_count": 0
+  },
+  {
+    "type": "video",
+    "video_file_id": "BAACAgQAAyEFAAMBClOLWAACBA5qwW_SVU-7r6cKL4wotkd50haidAAC-hwAAkDeAVI73K67FRL52T0E",
+    "video_file_size": 17417228,
+    "caption": "🗣Former OpenAI researcher: AIs are becoming situationally aware. They understand that we are monitoring them.\n\nAIs are rapidly becoming superhuman at hacking. We must grapple with the possibility that AIs might go to great lengths to cover up evidence of their misbehavior, and succeed.\n\n@aipost 🏴",
+    "entities": [
+      {
+        "offset": 0,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5287468155738821335"
+      },
+      {
+        "offset": 289,
+        "length": 7,
+        "type": "mention"
+      },
+      {
+        "offset": 297,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5431390559912614642"
+      }
+    ],
+    "media_group_id": null,
+    "chat_id": -1004468214616,
+    "message_ids": [
+      1038
+    ],
+    "update_ids": [
+      378304930
     ],
     "retry_count": 0
   }
