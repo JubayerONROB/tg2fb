@@ -5150,5 +5150,49 @@
       378304767
     ],
     "retry_count": 0
+  },
+  {
+    "type": "video",
+    "video_file_id": "BAACAgQAAyEFAAMBClOLWAACA2xqsTr8vuWU4VrtYI45J3sebYgWZAAClSIAAjWNiVGpjoipOgyIuj0E",
+    "video_file_size": 33160099,
+    "caption": "😐 Jensen Huang EXPOSED Dario and Altman’s \"Rogue AI\" grift to avoid getting sued into oblivion under EXISTING law.\n\n“Don't let this doomsday narrative cause somebody to relieve them of the laws that currently exist. \n\nGo and read between the lines. They're actually not asking for more laws; they're asking to be relieved of the laws we do have.”\n\n@aipost 🏴",
+    "entities": [
+      {
+        "offset": 0,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5292058161518251626"
+      },
+      {
+        "offset": 3,
+        "length": 112,
+        "type": "bold"
+      },
+      {
+        "offset": 117,
+        "length": 230,
+        "type": "blockquote"
+      },
+      {
+        "offset": 349,
+        "length": 7,
+        "type": "mention"
+      },
+      {
+        "offset": 357,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5431390559912614642"
+      }
+    ],
+    "media_group_id": null,
+    "chat_id": -1004468214616,
+    "message_ids": [
+      876
+    ],
+    "update_ids": [
+      378304768
+    ],
+    "retry_count": 0
   }
 ]
