@@ -5111,5 +5111,44 @@
       378304760
     ],
     "retry_count": 0
+  },
+  {
+    "type": "video",
+    "video_file_id": "BAACAgQAAyEFAAMBClOLWAACA2tqsTrFgErAc19VFtP1Hwb-Uz3bYgACEyMAAma5iVFwlU6AaQ47Oz0E",
+    "video_file_size": 26972950,
+    "caption": "❗️Alex Karp reveals OpenAI will never IPO, their real playbook is to get nationalized.\n\nHost: How does the liability get written into the S-1? What do the risk factors sound like?\n\nKarp: You're assuming that there will be an S-1… The only way to deal with this kind of liability is to go to the government and say: \n\n\"Nationalize us, please!\"\n\nHost: Do you think the Trump administration is going to get on board with that?\n\nKarp: When you have unlimited liability, the only way to deal with it would be to go to the government and say:\n\n\"We'll give you 50% of our business.\"\n\nOf course, the value of the business will collapse first when you do that… collapse another time when you have people on the board… collapse another time… It might even collapse the whole market.\n\n@aipost 🏴",
+    "entities": [
+      {
+        "offset": 0,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5289761612440310918"
+      },
+      {
+        "offset": 2,
+        "length": 84,
+        "type": "bold"
+      },
+      {
+        "offset": 774,
+        "length": 7,
+        "type": "mention"
+      },
+      {
+        "offset": 782,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5431390559912614642"
+      }
+    ],
+    "media_group_id": null,
+    "chat_id": -1004468214616,
+    "message_ids": [
+      875
+    ],
+    "update_ids": [
+      378304767
+    ],
+    "retry_count": 0
   }
 ]
