@@ -5194,5 +5194,60 @@
       378304768
     ],
     "retry_count": 0
+  },
+  {
+    "type": "video",
+    "video_file_id": "BAACAgQAAyEFAAMBClOLWAACA3FqsjFhPT6oSG0qyuvJXUCW5SvLBgACuCIAAjWNkVG9JpCfnk0uGj0E",
+    "video_file_size": 51108821,
+    "caption": "🇪🇸 Pedro Sanchez (Prime Minister of the Government of Spain) announced the AI360 Plan for a responsible deployment of AI.\n\nA plan with concrete actions to be developed over the next 12 months so that Spain can seize the opportunities that AI offers to our economy.\n\nPlacing at the center citizen safety, trust, and the protection of the most vulnerable, starting with minors.\n\nSpain is not currently a major player in the field of AI, and it's completely unclear where it will obtain the resources to implement its plans.\n\nI wonder how long it will take for Spain to catch up to the United States and China in the race for AI dominance? 🤔\n\n@aipost 🏴",
+    "entities": [
+      {
+        "offset": 0,
+        "length": 4,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5201957744877248121"
+      },
+      {
+        "offset": 5,
+        "length": 118,
+        "type": "bold"
+      },
+      {
+        "offset": 525,
+        "length": 114,
+        "type": "bold"
+      },
+      {
+        "offset": 639,
+        "length": 2,
+        "type": "bold"
+      },
+      {
+        "offset": 639,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5370724846936267183"
+      },
+      {
+        "offset": 643,
+        "length": 7,
+        "type": "mention"
+      },
+      {
+        "offset": 651,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5431390559912614642"
+      }
+    ],
+    "media_group_id": null,
+    "chat_id": -1004468214616,
+    "message_ids": [
+      881
+    ],
+    "update_ids": [
+      378304773
+    ],
+    "retry_count": 0
   }
 ]
