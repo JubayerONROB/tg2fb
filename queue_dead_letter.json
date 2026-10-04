@@ -5072,5 +5072,44 @@
       378304740
     ],
     "retry_count": 0
+  },
+  {
+    "type": "video",
+    "video_file_id": "BAACAgQAAyEFAAMBClOLWAACA2RqsKcbjoReizd-HXF4JPUmERrzlQACIRwAAma5gVEzL0f0hOWtVD0E",
+    "video_file_size": 49376465,
+    "caption": "🗣Sam Altman says OpenAI killed Sora even though it was good.\n\nSam Altman says Sora was a good product and he thought Atlas was a great browser, but OpenAI still stopped both. The compute and the people could go toward what he believes matters more.\n\n@aipost 🏴",
+    "entities": [
+      {
+        "offset": 0,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5287468155738821335"
+      },
+      {
+        "offset": 2,
+        "length": 59,
+        "type": "bold"
+      },
+      {
+        "offset": 251,
+        "length": 7,
+        "type": "mention"
+      },
+      {
+        "offset": 259,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5431390559912614642"
+      }
+    ],
+    "media_group_id": null,
+    "chat_id": -1004468214616,
+    "message_ids": [
+      868
+    ],
+    "update_ids": [
+      378304760
+    ],
+    "retry_count": 0
   }
 ]
