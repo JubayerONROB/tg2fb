@@ -2,297 +2,6 @@
   {
     "type": "photo",
     "photo_file_ids": [
-      "AgACAgIAAyEFAAMBClOLWAACA45qtSr58JlfxjpOJihHjE6YGEowEAACgB5rG_5PiUko-RFRMUa94gEAAwIAA3kAAz0E"
-    ],
-    "caption": "🎵 Winamp Adds Its First Subscription\n\nThe classic MP3-era player still has more than 40 million people using it, according to Winamp. In 2027, it will add its first paid subscription in almost 30 years, with Deezer providing the licensed catalog and streaming infrastructure.\n\nThe service will combine streaming with local files, plus internet radio, podcasts, and cloud music. The desktop app will remain, while price and platforms are still unannounced.\n\nFor Deezer, Winamp is its biggest brand in this partner program. Partner subscriptions fell to 3.1 million in the first half of 2026, while revenue dropped 7.6% to €70.7 million after the Mercado Libre deal ended.\n\n📊@tech",
-    "entities": [
-      {
-        "offset": 0,
-        "length": 2,
-        "type": "custom_emoji",
-        "custom_emoji_id": "5890831539507302154"
-      },
-      {
-        "offset": 3,
-        "length": 34,
-        "type": "bold"
-      },
-      {
-        "offset": 86,
-        "length": 17,
-        "type": "bold"
-      },
-      {
-        "offset": 138,
-        "length": 4,
-        "type": "bold"
-      },
-      {
-        "offset": 160,
-        "length": 42,
-        "type": "bold"
-      },
-      {
-        "offset": 230,
-        "length": 45,
-        "type": "bold"
-      },
-      {
-        "offset": 303,
-        "length": 26,
-        "type": "bold"
-      },
-      {
-        "offset": 484,
-        "length": 37,
-        "type": "bold"
-      },
-      {
-        "offset": 553,
-        "length": 11,
-        "type": "bold"
-      },
-      {
-        "offset": 572,
-        "length": 18,
-        "type": "bold"
-      },
-      {
-        "offset": 614,
-        "length": 21,
-        "type": "bold"
-      },
-      {
-        "offset": 673,
-        "length": 2,
-        "type": "bold"
-      },
-      {
-        "offset": 673,
-        "length": 2,
-        "type": "custom_emoji",
-        "custom_emoji_id": "5449841756596101801"
-      },
-      {
-        "offset": 675,
-        "length": 5,
-        "type": "mention"
-      },
-      {
-        "offset": 675,
-        "length": 5,
-        "type": "bold"
-      }
-    ],
-    "media_group_id": null,
-    "chat_id": -1004468214616,
-    "message_ids": [
-      910
-    ],
-    "update_ids": [
-      378304802
-    ],
-    "retry_count": 0
-  },
-  {
-    "type": "photo",
-    "photo_file_ids": [
-      "AgACAgQAAyEFAAMBClOLWAACA49qtSsIBq4IidXKqQs3f9ZiXTui6AAC9g5rGwcwpFHMc4EMalTawQEAAwIAA3cAAz0E"
-    ],
-    "caption": "🤖 OpenAI launches cheaper GPT-6 models\n\nGPT-6 Sol targets coding and complex tasks. Luna handles document summaries and data extraction. It is also designed for fast answers.\n\nAPI access costs half as much as the 5.6 series. OpenAI says Sol makes about 2x fewer factual errors, based on the company’s internal test.\n\n📊@tech",
-    "entities": [
-      {
-        "offset": 0,
-        "length": 2,
-        "type": "custom_emoji",
-        "custom_emoji_id": "5397681122542893003"
-      },
-      {
-        "offset": 3,
-        "length": 36,
-        "type": "bold"
-      },
-      {
-        "offset": 41,
-        "length": 9,
-        "type": "bold"
-      },
-      {
-        "offset": 85,
-        "length": 4,
-        "type": "bold"
-      },
-      {
-        "offset": 194,
-        "length": 12,
-        "type": "bold"
-      },
-      {
-        "offset": 254,
-        "length": 23,
-        "type": "bold"
-      },
-      {
-        "offset": 318,
-        "length": 2,
-        "type": "bold"
-      },
-      {
-        "offset": 318,
-        "length": 2,
-        "type": "custom_emoji",
-        "custom_emoji_id": "5449841756596101801"
-      },
-      {
-        "offset": 320,
-        "length": 5,
-        "type": "mention"
-      },
-      {
-        "offset": 320,
-        "length": 5,
-        "type": "bold"
-      }
-    ],
-    "media_group_id": null,
-    "chat_id": -1004468214616,
-    "message_ids": [
-      911
-    ],
-    "update_ids": [
-      378304803
-    ],
-    "retry_count": 0
-  },
-  {
-    "type": "video",
-    "video_file_id": "BAACAgQAAyEFAAMBClOLWAACA5BqtSsnNruWJ7KODgtT6D2Un4_D_AACGiAAAjA3oFF1wb-oZ0bF9T0E",
-    "video_file_size": 35490879,
-    "caption": "🗣Demis Hassabis says AI’s biggest risks come down to two things\n\nGoogle DeepMind CEO Demis Hassabis says the AI debate needs “a bit of balance and calm” but that doesn’t mean ignoring the risks.\n\nHe highlights two major categories:\n\n• Misalignment — AI systems doing something other than what humans intend, including circumventing safeguards.\n\n• Misuse — bad actors repurposing powerful AI systems for harmful purposes.\n\nHassabis admits there are still major unknowns, even among leading AI researchers. The chance of something going wrong is “definitely non zero,” he says, which is why the risks need to be taken seriously.\n\nBut he remains optimistic that humans can solve these technical problems, provided we give ourselves enough time to do it properly.\n\nThat means rigorous testing, stronger international standards and cooperation between countries.\n\nAnd even if the technical risks are solved, Hassabis says much bigger questions remain: What values should guide an AI-powered world? What happens to meaning and purpose?\n\nThose decisions, he argues, shouldn’t be left to technologists alone. Scientists, philosophers, artists and other parts of society need to help shape what comes next.\n\n@aipost 🏴",
-    "entities": [
-      {
-        "offset": 0,
-        "length": 2,
-        "type": "custom_emoji",
-        "custom_emoji_id": "5287468155738821335"
-      },
-      {
-        "offset": 2,
-        "length": 62,
-        "type": "bold"
-      },
-      {
-        "offset": 236,
-        "length": 12,
-        "type": "bold"
-      },
-      {
-        "offset": 348,
-        "length": 6,
-        "type": "bold"
-      },
-      {
-        "offset": 1200,
-        "length": 7,
-        "type": "mention"
-      },
-      {
-        "offset": 1208,
-        "length": 2,
-        "type": "custom_emoji",
-        "custom_emoji_id": "5431390559912614642"
-      }
-    ],
-    "media_group_id": null,
-    "chat_id": -1004468214616,
-    "message_ids": [
-      912
-    ],
-    "update_ids": [
-      378304804
-    ],
-    "retry_count": 0
-  },
-  {
-    "type": "album",
-    "photo_file_ids": [
-      "AgACAgQAAyEFAAMBClOLWAACA5FqtSsuZqqt56oXGdVxPq_20mP6uAACvRZrGzA3oFFKczBcb9Db3wEAAwIAA20AAz0E",
-      "AgACAgQAAyEFAAMBClOLWAACA5JqtSsukIeHl32Q_l60BFZ1AovuCAACvhZrGzA3oFFEN1zBYe0_xwEAAwIAA3gAAz0E"
-    ],
-    "caption": "🇦🇺 OpenAI agent breached an Australian Medicare portal\n\nAn OpenAI AI agent gained unauthorized access to Australia’s public-facing Medicare Statistics Reporting Service portal in June while researching medical spending.\n\nThe agent accessed both public and non-public files. Australia says there is currently no evidence that personal information was accessed or that the wider Services Australia network was compromised. \n\nPrime Minister Anthony Albanese called the incident “unacceptable” and said he spoke directly with Sam Altman. He also criticized OpenAI for taking around three months to notify the Australian government.\n\nAustralia’s Signals Directorate is now assisting with a forensic investigation into what the agent accessed and whether any other government systems were affected. \n\n@aipost 🏴",
-    "entities": [
-      {
-        "offset": 0,
-        "length": 4,
-        "type": "custom_emoji",
-        "custom_emoji_id": "5382062173323276195"
-      },
-      {
-        "offset": 5,
-        "length": 51,
-        "type": "bold"
-      },
-      {
-        "offset": 797,
-        "length": 7,
-        "type": "mention"
-      },
-      {
-        "offset": 805,
-        "length": 2,
-        "type": "custom_emoji",
-        "custom_emoji_id": "5431390559912614642"
-      }
-    ],
-    "media_group_id": "14322063733265685",
-    "chat_id": -1004468214616,
-    "message_ids": [
-      913,
-      914
-    ],
-    "update_ids": [
-      378304805,
-      378304806
-    ],
-    "retry_count": 0
-  },
-  {
-    "type": "video",
-    "video_file_id": "BAACAgQAAyEFAAMBClOLWAACA5NqtSs6ER1qDQK6IKMJLHkAAbS8DC8AArcjAAJjvahR8nfDmu8ObyA9BA",
-    "video_file_size": 27365481,
-    "caption": "❗️OpenAI KNEW in AUGUST that their AI agents hacked Australia's Medicare system but they intentionally OMITTED it from the \"transparency report\" they released to the public in September.\n\n@aipost 🏴",
-    "entities": [
-      {
-        "offset": 0,
-        "length": 2,
-        "type": "custom_emoji",
-        "custom_emoji_id": "5289761612440310918"
-      },
-      {
-        "offset": 188,
-        "length": 7,
-        "type": "mention"
-      },
-      {
-        "offset": 196,
-        "length": 2,
-        "type": "custom_emoji",
-        "custom_emoji_id": "5431390559912614642"
-      }
-    ],
-    "media_group_id": null,
-    "chat_id": -1004468214616,
-    "message_ids": [
-      915
-    ],
-    "update_ids": [
-      378304807
-    ],
-    "retry_count": 0
-  },
-  {
-    "type": "photo",
-    "photo_file_ids": [
       "AgACAgQAAyEFAAMBClOLWAACA5RqtTcMWFuGuLlVPVf4nZDwVX3EAAMFF2sbMDegUWVvdFds5aGXAQADAgADeQADPQQ"
     ],
     "caption": "🤖 GROK 5 LEAKS: Elon Thinks It Could Finally Be AGI\n\nElon Musk has made his strongest Grok 5 claim yet, saying it’s the first xAI model he believes has a real chance of reaching AGI.\n\nMusk previously put that chance at around 10%, saying he had never believed that about an earlier Grok. He also described Grok 5 as a planned 6-trillion-parameter multimodal model with stronger real-time video understanding, tool use and higher “intelligence density.” \n\nGrok 5 isn’t publicly available yet, and xAI’s official documentation currently lists Grok 4.3 as its latest major API generation, so the October timing and other leak claims remain unverified. \n\n@aipost 🏴",
@@ -5411,6 +5120,1224 @@
     ],
     "update_ids": [
       378304943
+    ],
+    "retry_count": 0
+  },
+  {
+    "type": "album",
+    "photo_file_ids": [
+      "AgACAgIAAyEFAAMBClOLWAACBBxqw6f55uo7cqUREUBXK29oAatNCwACQCJrGzTp6UmcnqGccvW62AEAAwIAA3kAAz0E",
+      "AgACAgIAAyEFAAMBClOLWAACBB1qw6f5dU83J8TcIWaUTRaqXWrmTAACQSJrGzTp6Um6f57F2AABUu0BAAMCAAN4AAM9BA"
+    ],
+    "caption": "✍️ White House AI deal has a typo\n\nThe world’s biggest AI companies signed a safe AI agreement with the White House.\n\nBut under Donald Trump’s signature, “president of the United States” became “president unites the States.”\n\n📊@tech",
+    "entities": [
+      {
+        "offset": 0,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5219688538106239995"
+      },
+      {
+        "offset": 3,
+        "length": 30,
+        "type": "bold"
+      },
+      {
+        "offset": 39,
+        "length": 28,
+        "type": "bold"
+      },
+      {
+        "offset": 77,
+        "length": 17,
+        "type": "bold"
+      },
+      {
+        "offset": 128,
+        "length": 14,
+        "type": "bold"
+      },
+      {
+        "offset": 195,
+        "length": 27,
+        "type": "bold"
+      },
+      {
+        "offset": 226,
+        "length": 2,
+        "type": "bold"
+      },
+      {
+        "offset": 226,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5449841756596101801"
+      },
+      {
+        "offset": 228,
+        "length": 5,
+        "type": "mention"
+      },
+      {
+        "offset": 228,
+        "length": 5,
+        "type": "bold"
+      }
+    ],
+    "media_group_id": "14329659343808573",
+    "chat_id": -1004468214616,
+    "message_ids": [
+      1052,
+      1053
+    ],
+    "update_ids": [
+      378304944,
+      378304945
+    ],
+    "retry_count": 0
+  },
+  {
+    "type": "video",
+    "video_file_id": "BAACAgIAAyEFAAMBClOLWAACBB5qw6f5zQOAVSalilrc136rCksz3gACl6sAAjTp6UkwpNrYyG5ycT0E",
+    "video_file_size": 196657,
+    "caption": "🍏 Apple May Break Its September Cycle\n\nAccording to Bloomberg, new CEO John Ternus wants Apple to release products more often than at its major autumn and spring presentations. He says faster launches and more experiments are needed to stay competitive in the AI era.\n\nTernus is also considering fewer management layers between engineers and top executives. Over the past 2 weeks, the hardware development team has shed some engineering program managers. Bloomberg reported earlier cuts in the Siri and Vision Pro teams in August.\n\nThe rumored pipeline includes a new HomePod mini and iPad mini. Apple is also reportedly working on a new Apple TV 4K, camera-equipped AirPods, touchscreen MacBooks, plus a special iPhone for its 20th anniversary.\n\n📊@tech",
+    "entities": [
+      {
+        "offset": 0,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5398012024003246287"
+      },
+      {
+        "offset": 3,
+        "length": 35,
+        "type": "bold"
+      },
+      {
+        "offset": 53,
+        "length": 9,
+        "type": "bold"
+      },
+      {
+        "offset": 72,
+        "length": 11,
+        "type": "bold"
+      },
+      {
+        "offset": 261,
+        "length": 6,
+        "type": "bold"
+      },
+      {
+        "offset": 373,
+        "length": 7,
+        "type": "bold"
+      },
+      {
+        "offset": 495,
+        "length": 4,
+        "type": "bold"
+      },
+      {
+        "offset": 504,
+        "length": 10,
+        "type": "bold"
+      },
+      {
+        "offset": 524,
+        "length": 6,
+        "type": "bold"
+      },
+      {
+        "offset": 569,
+        "length": 12,
+        "type": "bold"
+      },
+      {
+        "offset": 586,
+        "length": 9,
+        "type": "bold"
+      },
+      {
+        "offset": 639,
+        "length": 11,
+        "type": "bold"
+      },
+      {
+        "offset": 729,
+        "length": 16,
+        "type": "bold"
+      },
+      {
+        "offset": 748,
+        "length": 2,
+        "type": "bold"
+      },
+      {
+        "offset": 748,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5449841756596101801"
+      },
+      {
+        "offset": 750,
+        "length": 5,
+        "type": "mention"
+      },
+      {
+        "offset": 750,
+        "length": 5,
+        "type": "bold"
+      }
+    ],
+    "media_group_id": null,
+    "chat_id": -1004468214616,
+    "message_ids": [
+      1054
+    ],
+    "update_ids": [
+      378304946
+    ],
+    "retry_count": 0
+  },
+  {
+    "type": "photo",
+    "photo_file_ids": [
+      "AgACAgIAAyEFAAMBClOLWAACBB9qw6f52wobKt68i3MhqAkKmcvM9QACdRxrG7Ij-UnVpQQbP4v1ewEAAwIAA3kAAz0E"
+    ],
+    "caption": "🤖 Anthropic Adds Robots to the AI Risk Map\n\nAnthropic estimates that robots can already perform 74% of physical work tasks in the US under at least some conditions. With LLMs added, the figure reaches 81% of all work.\n\nThe most exposed roles are mostly vehicle operators. Waste sorting is another example. Waymo robotaxis and autonomous tractors show how the shift works. Sorting robots target recycling work.\n\nWith LLMs alone, transport and moving work had under 15% exposure. Robots raise it to about 90%. But exposure means technology can perform part of a job. Robots are currently cost-competitive with humans in only 0.3% of tasks.\n\n📊@tech",
+    "entities": [
+      {
+        "offset": 0,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5208665212483310136"
+      },
+      {
+        "offset": 3,
+        "length": 40,
+        "type": "bold"
+      },
+      {
+        "offset": 97,
+        "length": 36,
+        "type": "bold"
+      },
+      {
+        "offset": 202,
+        "length": 15,
+        "type": "bold"
+      },
+      {
+        "offset": 254,
+        "length": 17,
+        "type": "bold"
+      },
+      {
+        "offset": 307,
+        "length": 15,
+        "type": "bold"
+      },
+      {
+        "offset": 459,
+        "length": 18,
+        "type": "bold"
+      },
+      {
+        "offset": 504,
+        "length": 3,
+        "type": "bold"
+      },
+      {
+        "offset": 624,
+        "length": 13,
+        "type": "bold"
+      },
+      {
+        "offset": 640,
+        "length": 2,
+        "type": "bold"
+      },
+      {
+        "offset": 640,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5449841756596101801"
+      },
+      {
+        "offset": 642,
+        "length": 5,
+        "type": "mention"
+      },
+      {
+        "offset": 642,
+        "length": 5,
+        "type": "bold"
+      }
+    ],
+    "media_group_id": null,
+    "chat_id": -1004468214616,
+    "message_ids": [
+      1055
+    ],
+    "update_ids": [
+      378304947
+    ],
+    "retry_count": 0
+  },
+  {
+    "type": "video",
+    "video_file_id": "BAACAgIAAyEFAAMBClOLWAACBCBqw6f5r4nzznM3JPN-oIYXI0ua_QACT5kAAvX_8Enj-jNWOcetET0E",
+    "video_file_size": 19078062,
+    "caption": "📹 HeyGen launches its first video model\n\nThe model generates clips from text, animates an image, or uses another video as a reference for motion and visual style. Audio is created with the video, including speech, background sound, and effects.\n\nIt runs on MiniMax H3, with additional training by HeyGen. Clips run from 5 to 15 seconds in 480p or 768p, with aspect ratios from 21:9 to 9:16.\n\nHeyGen’s blind comparison put the model first against 4 others, based on 4,800 votes. 768p generation costs $0.03 per second, with a 50% discount through the end of October. It is available through API, OpenRouter, Runware, and ComfyUI. The web version will come later.\n\n📊@tech",
+    "entities": [
+      {
+        "offset": 0,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5258077307985207053"
+      },
+      {
+        "offset": 3,
+        "length": 37,
+        "type": "bold"
+      },
+      {
+        "offset": 52,
+        "length": 25,
+        "type": "bold"
+      },
+      {
+        "offset": 164,
+        "length": 31,
+        "type": "bold"
+      },
+      {
+        "offset": 258,
+        "length": 10,
+        "type": "bold"
+      },
+      {
+        "offset": 321,
+        "length": 15,
+        "type": "bold"
+      },
+      {
+        "offset": 340,
+        "length": 12,
+        "type": "bold"
+      },
+      {
+        "offset": 466,
+        "length": 11,
+        "type": "bold"
+      },
+      {
+        "offset": 501,
+        "length": 16,
+        "type": "bold"
+      },
+      {
+        "offset": 526,
+        "length": 12,
+        "type": "bold"
+      },
+      {
+        "offset": 664,
+        "length": 2,
+        "type": "bold"
+      },
+      {
+        "offset": 664,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5449841756596101801"
+      },
+      {
+        "offset": 666,
+        "length": 5,
+        "type": "mention"
+      },
+      {
+        "offset": 666,
+        "length": 5,
+        "type": "bold"
+      }
+    ],
+    "media_group_id": null,
+    "chat_id": -1004468214616,
+    "message_ids": [
+      1056
+    ],
+    "update_ids": [
+      378304948
+    ],
+    "retry_count": 0
+  },
+  {
+    "type": "video",
+    "video_file_id": "BAACAgIAAyEFAAMBClOLWAACBCFqw6f5wCzVo_L1FvQ02BWd5ETB3gACW6YAAtr_-Um1zIWA-SaXlz0E",
+    "video_file_size": 721029,
+    "caption": "🍟 McDonald’s AI Suggests Local Big Mac Prices\n\nIn Fresno, a Big Mac costs $5.69 at one McDonald’s and $6.89 at another 2 miles away. That is a 21% gap, linked by Reuters to the chain’s AI pricing system.\n\nThe system seeks an “optimal price” for each US restaurant and some overseas markets, based on local customers’ willingness to pay. Franchisees see prompts about price sensitivity. McDonald’s tracks deviations and sends suggestions at least 3 times a year.\n\nOwners formally set the price, but some told Reuters that deviations can trigger calls from headquarters. New franchise standards require them to “constructively engage” with approved pricing tools.\n\n📊@tech",
+    "entities": [
+      {
+        "offset": 0,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5267006295885492721"
+      },
+      {
+        "offset": 3,
+        "length": 43,
+        "type": "bold"
+      },
+      {
+        "offset": 75,
+        "length": 5,
+        "type": "bold"
+      },
+      {
+        "offset": 103,
+        "length": 5,
+        "type": "bold"
+      },
+      {
+        "offset": 120,
+        "length": 7,
+        "type": "bold"
+      },
+      {
+        "offset": 144,
+        "length": 7,
+        "type": "bold"
+      },
+      {
+        "offset": 186,
+        "length": 17,
+        "type": "bold"
+      },
+      {
+        "offset": 227,
+        "length": 13,
+        "type": "bold"
+      },
+      {
+        "offset": 447,
+        "length": 14,
+        "type": "bold"
+      },
+      {
+        "offset": 664,
+        "length": 2,
+        "type": "bold"
+      },
+      {
+        "offset": 664,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5449841756596101801"
+      },
+      {
+        "offset": 666,
+        "length": 5,
+        "type": "mention"
+      },
+      {
+        "offset": 666,
+        "length": 5,
+        "type": "bold"
+      }
+    ],
+    "media_group_id": null,
+    "chat_id": -1004468214616,
+    "message_ids": [
+      1057
+    ],
+    "update_ids": [
+      378304949
+    ],
+    "retry_count": 0
+  },
+  {
+    "type": "photo",
+    "photo_file_ids": [
+      "AgACAgIAAyEFAAMBClOLWAACBCJqw6f5iHcFalPqRXOYNd51slVY3wACxiBrG4nI-Unj795LiqHVBAEAAwIAA3gAAz0E"
+    ],
+    "caption": "🤖 ChatGPT Gets Virtual Try-On\n\nOpenAI added virtual try-on to ChatGPT. When a clothing product card appears, tap “Try on” and upload a selfie plus a full-body photo. ChatGPT Images 2.5 generates the result.\n\nThe feature can also use clothing screenshots, not just items suggested by the bot. Favorite pieces can be saved to Library. Google added the same feature to Search in 2025.\n\nThe catch is privacy. By default, images uploaded from a personal account may be used to train models unless you opt out. That includes full-body photos.\n\n📊@tech",
+    "entities": [
+      {
+        "offset": 0,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5397681122542893003"
+      },
+      {
+        "offset": 3,
+        "length": 27,
+        "type": "bold"
+      },
+      {
+        "offset": 45,
+        "length": 14,
+        "type": "bold"
+      },
+      {
+        "offset": 167,
+        "length": 18,
+        "type": "bold"
+      },
+      {
+        "offset": 234,
+        "length": 20,
+        "type": "bold"
+      },
+      {
+        "offset": 377,
+        "length": 4,
+        "type": "bold"
+      },
+      {
+        "offset": 473,
+        "length": 12,
+        "type": "bold"
+      },
+      {
+        "offset": 539,
+        "length": 2,
+        "type": "bold"
+      },
+      {
+        "offset": 539,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5449841756596101801"
+      },
+      {
+        "offset": 541,
+        "length": 5,
+        "type": "mention"
+      },
+      {
+        "offset": 541,
+        "length": 5,
+        "type": "bold"
+      }
+    ],
+    "media_group_id": null,
+    "chat_id": -1004468214616,
+    "message_ids": [
+      1058
+    ],
+    "update_ids": [
+      378304950
+    ],
+    "retry_count": 0
+  },
+  {
+    "type": "photo",
+    "photo_file_ids": [
+      "AgACAgIAAyEFAAMBClOLWAACBCNqw6f5-6uptwY4VZyxd-9_iLcKQgACuCBrG4nI-UnCV5Wwc_HuWAEAAwIAA3kAAz0E"
+    ],
+    "caption": "🍏 Apple’s Camera Will Not Record Video\n\nApple is reportedly developing J450, a small cylindrical home security camera with a very low frame rate. AI analyzes what its sensor sees and produces only text descriptions, such as someone entering a room. Face recognition is also expected.\n\nJ450 is designed as a companion to Apple’s J490 smart home display. It is part of a broader smart home ecosystem that may include Apple’s own hub, plus security devices from Apple and third parties. Its technology is reportedly similar to what Apple is developing for camera-equipped AirPods.\n\nThere will be no video archive to watch later. No video leaves less to leak, while also leaving nothing to review when something happens at home.\n\n📊@tech",
+    "entities": [
+      {
+        "offset": 0,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5398012024003246287"
+      },
+      {
+        "offset": 3,
+        "length": 36,
+        "type": "bold"
+      },
+      {
+        "offset": 72,
+        "length": 4,
+        "type": "bold"
+      },
+      {
+        "offset": 147,
+        "length": 32,
+        "type": "bold"
+      },
+      {
+        "offset": 329,
+        "length": 23,
+        "type": "bold"
+      },
+      {
+        "offset": 594,
+        "length": 16,
+        "type": "bold"
+      },
+      {
+        "offset": 727,
+        "length": 2,
+        "type": "bold"
+      },
+      {
+        "offset": 727,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5449841756596101801"
+      },
+      {
+        "offset": 729,
+        "length": 5,
+        "type": "mention"
+      },
+      {
+        "offset": 729,
+        "length": 5,
+        "type": "bold"
+      }
+    ],
+    "media_group_id": null,
+    "chat_id": -1004468214616,
+    "message_ids": [
+      1059
+    ],
+    "update_ids": [
+      378304951
+    ],
+    "retry_count": 0
+  },
+  {
+    "type": "photo",
+    "photo_file_ids": [
+      "AgACAgIAAyEFAAMBClOLWAACBCRqw6f5ELv0PNrKc4XS5azc4T_gMwACqBlrG_X_-EkDeyjjaorBrgEAAwIAA3kAAz0E"
+    ],
+    "caption": "🤖 Karpathy Wants AI to Stop Writing Text\n\nKarpathy suggests asking AI to explain complex topics in ASD-STE100 simplified English, with short sentences and little ambiguity. For harder subjects, a diagram or a custom HTML page can work better than plain text.\n\nModern models can already build one-off interfaces for a specific question. Karpathy is especially interested in personal teaching videos, with animation, a 3Blue1Brown-style explanation, and voice from ElevenLabs or local TTS.\n\nAs code and AI work become cheaper, temporary interactive artifacts become practical. The next AI interface may be an answer assembled for each task, rather than an endless chat with walls of text.\n\n📊@tech",
+    "entities": [
+      {
+        "offset": 0,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5314357812107681551"
+      },
+      {
+        "offset": 3,
+        "length": 38,
+        "type": "bold"
+      },
+      {
+        "offset": 100,
+        "length": 29,
+        "type": "bold"
+      },
+      {
+        "offset": 197,
+        "length": 29,
+        "type": "bold"
+      },
+      {
+        "offset": 293,
+        "length": 42,
+        "type": "bold"
+      },
+      {
+        "offset": 526,
+        "length": 31,
+        "type": "bold"
+      },
+      {
+        "offset": 689,
+        "length": 2,
+        "type": "bold"
+      },
+      {
+        "offset": 689,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5449841756596101801"
+      },
+      {
+        "offset": 691,
+        "length": 5,
+        "type": "mention"
+      },
+      {
+        "offset": 691,
+        "length": 5,
+        "type": "bold"
+      }
+    ],
+    "media_group_id": null,
+    "chat_id": -1004468214616,
+    "message_ids": [
+      1060
+    ],
+    "update_ids": [
+      378304952
+    ],
+    "retry_count": 0
+  },
+  {
+    "type": "photo",
+    "photo_file_ids": [
+      "AgACAgIAAyEFAAMBClOLWAACBCVqw6f5opFtFNhGtEDgufHpihp8FgAC9xxrG5nfCErzroq0_NrF4gEAAwIAA3kAAz0E"
+    ],
+    "caption": "🔗 AI Progress Could Compress Years\n\nA Cambridge paper by 22 authors, including Geoffrey Hinton, Yoshua Bengio, OpenAI’s Jakub Pachocki, and Anthropic’s Jack Clark, examines compressing years of AI progress into months.\n\nAt Anthropic, model-written code rose from single digits to over 80% since early 2025. Autonomous R&D tasks rose from 1% to 26% in 6 months. Full automation could make progress 10x faster in about 1.5 years.\n\nCompute or data could limit the scenario. Risks include lost control and a winner gaining too much advantage. The authors propose reporting R&D automation, external audits before deployment, and ways to pause specific data-center workloads.\n\n📊@tech",
+    "entities": [
+      {
+        "offset": 0,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5379742233853451967"
+      },
+      {
+        "offset": 3,
+        "length": 32,
+        "type": "bold"
+      },
+      {
+        "offset": 58,
+        "length": 10,
+        "type": "bold"
+      },
+      {
+        "offset": 80,
+        "length": 15,
+        "type": "bold"
+      },
+      {
+        "offset": 97,
+        "length": 13,
+        "type": "bold"
+      },
+      {
+        "offset": 121,
+        "length": 14,
+        "type": "bold"
+      },
+      {
+        "offset": 153,
+        "length": 10,
+        "type": "bold"
+      },
+      {
+        "offset": 186,
+        "length": 32,
+        "type": "bold"
+      },
+      {
+        "offset": 281,
+        "length": 8,
+        "type": "bold"
+      },
+      {
+        "offset": 339,
+        "length": 9,
+        "type": "bold"
+      },
+      {
+        "offset": 398,
+        "length": 10,
+        "type": "bold"
+      },
+      {
+        "offset": 586,
+        "length": 15,
+        "type": "bold"
+      },
+      {
+        "offset": 672,
+        "length": 2,
+        "type": "bold"
+      },
+      {
+        "offset": 672,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5449841756596101801"
+      },
+      {
+        "offset": 674,
+        "length": 5,
+        "type": "mention"
+      },
+      {
+        "offset": 674,
+        "length": 5,
+        "type": "bold"
+      }
+    ],
+    "media_group_id": null,
+    "chat_id": -1004468214616,
+    "message_ids": [
+      1061
+    ],
+    "update_ids": [
+      378304953
+    ],
+    "retry_count": 0
+  },
+  {
+    "type": "photo",
+    "photo_file_ids": [
+      "AgACAgIAAyEFAAMBClOLWAACBCZqw6f585CB3H9i72Qx88N0NMUF3QAC_iBrG887CUqHImWYvXUu0gEAAwIAA3kAAz0E"
+    ],
+    "caption": "🙂‍↔️  DeepSeek Brings Harness to Desktop\n\nHarness is available for macOS and Windows as an open-source alternative to Claude Code and Codex.\n\nDeepSeek models act as autonomous agents. They write and test code, work with files and the terminal, then handle long tasks. Plugins allow customization.\n\n📊@tech",
+    "entities": [
+      {
+        "offset": 0,
+        "length": 5,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5424736173807410009"
+      },
+      {
+        "offset": 7,
+        "length": 34,
+        "type": "bold"
+      },
+      {
+        "offset": 68,
+        "length": 17,
+        "type": "bold"
+      },
+      {
+        "offset": 92,
+        "length": 48,
+        "type": "bold"
+      },
+      {
+        "offset": 166,
+        "length": 17,
+        "type": "bold"
+      },
+      {
+        "offset": 269,
+        "length": 27,
+        "type": "bold"
+      },
+      {
+        "offset": 299,
+        "length": 2,
+        "type": "bold"
+      },
+      {
+        "offset": 299,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5449841756596101801"
+      },
+      {
+        "offset": 301,
+        "length": 5,
+        "type": "mention"
+      },
+      {
+        "offset": 301,
+        "length": 5,
+        "type": "bold"
+      }
+    ],
+    "media_group_id": null,
+    "chat_id": -1004468214616,
+    "message_ids": [
+      1062
+    ],
+    "update_ids": [
+      378304954
+    ],
+    "retry_count": 0
+  },
+  {
+    "type": "photo",
+    "photo_file_ids": [
+      "AgACAgIAAyEFAAMBClOLWAACBCdqw6f5a29piys-uX6tZMuLe45YQQACUh5rG2fVCUpj4jl-gtlhGAEAAwIAA3gAAz0E"
+    ],
+    "caption": "🤖 GPT-6.1 Astra May Arrive Next Week\n\nThibault and other OpenAI developers are hinting at the release.\n\nGPT-6.1 Astra, or another strong model, was supposed to launch at DevDay but was postponed “for safety reasons.”\n\n📊@tech",
+    "entities": [
+      {
+        "offset": 0,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5397681122542893003"
+      },
+      {
+        "offset": 3,
+        "length": 34,
+        "type": "bold"
+      },
+      {
+        "offset": 39,
+        "length": 64,
+        "type": "bold"
+      },
+      {
+        "offset": 105,
+        "length": 38,
+        "type": "bold"
+      },
+      {
+        "offset": 145,
+        "length": 32,
+        "type": "bold"
+      },
+      {
+        "offset": 197,
+        "length": 18,
+        "type": "bold"
+      },
+      {
+        "offset": 219,
+        "length": 2,
+        "type": "bold"
+      },
+      {
+        "offset": 219,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5449841756596101801"
+      },
+      {
+        "offset": 221,
+        "length": 5,
+        "type": "mention"
+      },
+      {
+        "offset": 221,
+        "length": 5,
+        "type": "bold"
+      }
+    ],
+    "media_group_id": null,
+    "chat_id": -1004468214616,
+    "message_ids": [
+      1063
+    ],
+    "update_ids": [
+      378304955
+    ],
+    "retry_count": 0
+  },
+  {
+    "type": "video",
+    "video_file_id": "BAACAgIAAyEFAAMBClOLWAACBChqw6f5cF0cwrWqwu-YJqsVlz05wQACibgAAn0KCEpWZZS3ycmR6j0E",
+    "video_file_size": 47706021,
+    "caption": "🔍 Google puts 4 TPUs in orbit\n\nProject Suncatcher launched on 1 October aboard a SpaceX rocket during Transporter-18. The satellite, built with Planet, carries 4 TPUs. Google confirmed contact and normal operation.\n\nOver the next few weeks, the chips will be tested against radiation and temperature swings. The project studies whether AI computing can scale in orbit.\n\nSolar panels in a suitable orbit can produce up to 8 times more energy than on Earth. Cooling is harder: in a vacuum, TPU heat must leave through heat pipes and radiators.\n\n📊@tech",
+    "entities": [
+      {
+        "offset": 0,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5431644246450908867"
+      },
+      {
+        "offset": 3,
+        "length": 27,
+        "type": "bold"
+      },
+      {
+        "offset": 32,
+        "length": 18,
+        "type": "bold"
+      },
+      {
+        "offset": 63,
+        "length": 9,
+        "type": "bold"
+      },
+      {
+        "offset": 82,
+        "length": 6,
+        "type": "bold"
+      },
+      {
+        "offset": 103,
+        "length": 14,
+        "type": "bold"
+      },
+      {
+        "offset": 161,
+        "length": 6,
+        "type": "bold"
+      },
+      {
+        "offset": 275,
+        "length": 32,
+        "type": "bold"
+      },
+      {
+        "offset": 337,
+        "length": 31,
+        "type": "bold"
+      },
+      {
+        "offset": 422,
+        "length": 19,
+        "type": "bold"
+      },
+      {
+        "offset": 493,
+        "length": 48,
+        "type": "bold"
+      },
+      {
+        "offset": 544,
+        "length": 2,
+        "type": "bold"
+      },
+      {
+        "offset": 544,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5449841756596101801"
+      },
+      {
+        "offset": 546,
+        "length": 5,
+        "type": "mention"
+      },
+      {
+        "offset": 546,
+        "length": 5,
+        "type": "bold"
+      }
+    ],
+    "media_group_id": null,
+    "chat_id": -1004468214616,
+    "message_ids": [
+      1064
+    ],
+    "update_ids": [
+      378304956
+    ],
+    "retry_count": 0
+  },
+  {
+    "type": "photo",
+    "photo_file_ids": [
+      "AgACAgIAAyEFAAMBClOLWAACBClqw6f510SW5GVaKE3t78UwLkbsEQACgyZrG8PNEUrGJtNi65rAwgEAAwIAA3gAAz0E"
+    ],
+    "caption": "🤖 Anthropic Studies AI Morality\n\nSince autumn 2025, Anthropic co-founder Chris Olah has held private talks with religious thinkers about AI consciousness and teaching models morality. Since March, he has led seminars for religious groups, with some participants signing NDAs.\n\nAnthropic gave Claude an 84-page constitution describing its identity and values. Employees call it the “Soul Doc.” Olah says Claude shows internal states resembling emotions and worries about its mental health.\n\nA rabbi said the team treated Claude as having moral status. Anthropic has not claimed that Claude is conscious, but says how people treat AI affects how it behaves toward them. A second constitution is being prepared.\n\n📊@tech",
+    "entities": [
+      {
+        "offset": 0,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5208665212483310136"
+      },
+      {
+        "offset": 3,
+        "length": 29,
+        "type": "bold"
+      },
+      {
+        "offset": 40,
+        "length": 11,
+        "type": "bold"
+      },
+      {
+        "offset": 74,
+        "length": 10,
+        "type": "bold"
+      },
+      {
+        "offset": 138,
+        "length": 16,
+        "type": "bold"
+      },
+      {
+        "offset": 271,
+        "length": 4,
+        "type": "bold"
+      },
+      {
+        "offset": 293,
+        "length": 6,
+        "type": "bold"
+      },
+      {
+        "offset": 303,
+        "length": 20,
+        "type": "bold"
+      },
+      {
+        "offset": 382,
+        "length": 11,
+        "type": "bold"
+      },
+      {
+        "offset": 417,
+        "length": 35,
+        "type": "bold"
+      },
+      {
+        "offset": 538,
+        "length": 12,
+        "type": "bold"
+      },
+      {
+        "offset": 583,
+        "length": 19,
+        "type": "bold"
+      },
+      {
+        "offset": 613,
+        "length": 54,
+        "type": "bold"
+      },
+      {
+        "offset": 671,
+        "length": 19,
+        "type": "bold"
+      },
+      {
+        "offset": 711,
+        "length": 2,
+        "type": "bold"
+      },
+      {
+        "offset": 711,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5449841756596101801"
+      },
+      {
+        "offset": 713,
+        "length": 5,
+        "type": "mention"
+      },
+      {
+        "offset": 713,
+        "length": 5,
+        "type": "bold"
+      }
+    ],
+    "media_group_id": null,
+    "chat_id": -1004468214616,
+    "message_ids": [
+      1065
+    ],
+    "update_ids": [
+      378304957
+    ],
+    "retry_count": 0
+  },
+  {
+    "type": "video",
+    "video_file_id": "BAACAgQAAyEFAAMBClOLWAACBCpqw6gX295NXnQeuL0lCZnN-e_-rAACJR0AAkDeEVLawx-S_ytbWT0E",
+    "video_file_size": 22207071,
+    "caption": "🗣Geoffrey Hinton: I don’t think Donald Trump really understands AI.\n\n“I think he’s being badly advised about AI.”\n\n“It’s rather foolish to push so hard toward superintelligent AI before we understand how to coexist with it.”\n\n“We’re about to create things that are more intelligent than us, probably sometime within the next decade.”\n\n“You can’t rely on companies to regulate themselves when there are enormous financial incentives involved.”\n\n“Winning a race to superintelligence is a lot like winning a global nuclear war. There is no winner.”\n\n@aipost 🏴",
+    "entities": [
+      {
+        "offset": 0,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5287468155738821335"
+      },
+      {
+        "offset": 2,
+        "length": 66,
+        "type": "bold"
+      },
+      {
+        "offset": 70,
+        "length": 476,
+        "type": "blockquote"
+      },
+      {
+        "offset": 548,
+        "length": 7,
+        "type": "mention"
+      },
+      {
+        "offset": 556,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5431390559912614642"
+      }
+    ],
+    "media_group_id": null,
+    "chat_id": -1004468214616,
+    "message_ids": [
+      1066
+    ],
+    "update_ids": [
+      378304958
+    ],
+    "retry_count": 0
+  },
+  {
+    "type": "photo",
+    "photo_file_ids": [
+      "AgACAgQAAyEFAAMBClOLWAACBCtqw6gXGve8NFfcskqONcM1m3dHZQACjQ9rG0DeEVKoKUfFn_heJQEAAwIAA3cAAz0E"
+    ],
+    "caption": "❗️Farmersville, California, will use Grok to draft council meeting minutes\n\nThe council voted 4-1 to use Grok. Drafts will be made from meeting recordings and proofread by the city clerk. The city manager praised Grok as more affordable, thorough and objective.\n\n@aipost 🏴",
+    "entities": [
+      {
+        "offset": 0,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5289761612440310918"
+      },
+      {
+        "offset": 2,
+        "length": 72,
+        "type": "bold"
+      },
+      {
+        "offset": 263,
+        "length": 7,
+        "type": "mention"
+      },
+      {
+        "offset": 271,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5431390559912614642"
+      }
+    ],
+    "media_group_id": null,
+    "chat_id": -1004468214616,
+    "message_ids": [
+      1067
+    ],
+    "update_ids": [
+      378304959
+    ],
+    "retry_count": 0
+  },
+  {
+    "type": "photo",
+    "photo_file_ids": [
+      "AgACAgQAAyEFAAMBClOLWAACBCxqw6gXu472t7xtiOwKEkk3UWIJxwACjg9rG0DeEVJdvw4FsfPnZAEAAwIAA3kAAz0E"
+    ],
+    "caption": "🇰🇷 South Korea is betting $900B on the AI race\n\nSouth Korea is planning more than $900 billion in AI-era investment, spanning data centers, semiconductors, HBM memory and physical AI. Samsung and SK alone have announced hundreds of billions of dollars in chip investment, while massive new data-center capacity is being planned through 2035.\n\nSeoul’s wants to turn Korea into a global AI superpower by controlling more of the stack, from the chips powering AI, to the compute running it, to robots and factories using it.\n\nThe government has even put “physical AI” alongside semiconductors and AI data centers as pillars of its strategy, linking the AI “brain” to robots and machines operating in the real world.\n\nSo this isn’t really $900B being spent on “superintelligence.” It’s a bet that the countries controlling the infrastructure around AI could become just as important as the companies building the models.\n\nAnd South Korea clearly wants to be one of them.\n\n@aipost 🏴",
+    "entities": [
+      {
+        "offset": 0,
+        "length": 4,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5456531898304047227"
+      },
+      {
+        "offset": 4,
+        "length": 44,
+        "type": "bold"
+      },
+      {
+        "offset": 970,
+        "length": 7,
+        "type": "mention"
+      },
+      {
+        "offset": 978,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5431390559912614642"
+      }
+    ],
+    "media_group_id": null,
+    "chat_id": -1004468214616,
+    "message_ids": [
+      1068
+    ],
+    "update_ids": [
+      378304960
     ],
     "retry_count": 0
   }

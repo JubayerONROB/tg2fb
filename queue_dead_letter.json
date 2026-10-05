@@ -5423,5 +5423,88 @@
       378304799
     ],
     "retry_count": 0
+  },
+  {
+    "type": "video",
+    "video_file_id": "BAACAgQAAyEFAAMBClOLWAACA5BqtSsnNruWJ7KODgtT6D2Un4_D_AACGiAAAjA3oFF1wb-oZ0bF9T0E",
+    "video_file_size": 35490879,
+    "caption": "🗣Demis Hassabis says AI’s biggest risks come down to two things\n\nGoogle DeepMind CEO Demis Hassabis says the AI debate needs “a bit of balance and calm” but that doesn’t mean ignoring the risks.\n\nHe highlights two major categories:\n\n• Misalignment — AI systems doing something other than what humans intend, including circumventing safeguards.\n\n• Misuse — bad actors repurposing powerful AI systems for harmful purposes.\n\nHassabis admits there are still major unknowns, even among leading AI researchers. The chance of something going wrong is “definitely non zero,” he says, which is why the risks need to be taken seriously.\n\nBut he remains optimistic that humans can solve these technical problems, provided we give ourselves enough time to do it properly.\n\nThat means rigorous testing, stronger international standards and cooperation between countries.\n\nAnd even if the technical risks are solved, Hassabis says much bigger questions remain: What values should guide an AI-powered world? What happens to meaning and purpose?\n\nThose decisions, he argues, shouldn’t be left to technologists alone. Scientists, philosophers, artists and other parts of society need to help shape what comes next.\n\n@aipost 🏴",
+    "entities": [
+      {
+        "offset": 0,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5287468155738821335"
+      },
+      {
+        "offset": 2,
+        "length": 62,
+        "type": "bold"
+      },
+      {
+        "offset": 236,
+        "length": 12,
+        "type": "bold"
+      },
+      {
+        "offset": 348,
+        "length": 6,
+        "type": "bold"
+      },
+      {
+        "offset": 1200,
+        "length": 7,
+        "type": "mention"
+      },
+      {
+        "offset": 1208,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5431390559912614642"
+      }
+    ],
+    "media_group_id": null,
+    "chat_id": -1004468214616,
+    "message_ids": [
+      912
+    ],
+    "update_ids": [
+      378304804
+    ],
+    "retry_count": 0
+  },
+  {
+    "type": "video",
+    "video_file_id": "BAACAgQAAyEFAAMBClOLWAACA5NqtSs6ER1qDQK6IKMJLHkAAbS8DC8AArcjAAJjvahR8nfDmu8ObyA9BA",
+    "video_file_size": 27365481,
+    "caption": "❗️OpenAI KNEW in AUGUST that their AI agents hacked Australia's Medicare system but they intentionally OMITTED it from the \"transparency report\" they released to the public in September.\n\n@aipost 🏴",
+    "entities": [
+      {
+        "offset": 0,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5289761612440310918"
+      },
+      {
+        "offset": 188,
+        "length": 7,
+        "type": "mention"
+      },
+      {
+        "offset": 196,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5431390559912614642"
+      }
+    ],
+    "media_group_id": null,
+    "chat_id": -1004468214616,
+    "message_ids": [
+      915
+    ],
+    "update_ids": [
+      378304807
+    ],
+    "retry_count": 0
   }
 ]
