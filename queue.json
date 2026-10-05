@@ -1,201 +1,5 @@
 [
   {
-    "type": "video",
-    "video_file_id": "BAACAgQAAyEFAAMBClOLWAACA4JqtCAAAYv4LwjLPQ7ijOH6JfTAOE4AAsEgAAI1jZlR2A5UVZGvIZM9BA",
-    "video_file_size": 14718447,
-    "caption": "🇺🇸 Trump says U.S. will call AI “Super Intelligence\"\n\nSpeaking at the UN General Assembly, President Trump said U.S. government documents will use the term “Super Intelligence,” arguing that “artificial” makes the technology sound fake.\n\n“Whoever wins super intelligence wins,” Trump said, adding that he does not want to stifle development of a technology he believes could become bigger than the Industrial Revolution.\n\nHe also rejected international efforts to broadly control AI development.\n\n@aipost 🏴",
-    "entities": [
-      {
-        "offset": 0,
-        "length": 4,
-        "type": "custom_emoji",
-        "custom_emoji_id": "5202021044105257611"
-      },
-      {
-        "offset": 5,
-        "length": 49,
-        "type": "bold"
-      },
-      {
-        "offset": 499,
-        "length": 7,
-        "type": "mention"
-      },
-      {
-        "offset": 507,
-        "length": 2,
-        "type": "custom_emoji",
-        "custom_emoji_id": "5431390559912614642"
-      }
-    ],
-    "media_group_id": null,
-    "chat_id": -1004468214616,
-    "message_ids": [
-      898
-    ],
-    "update_ids": [
-      378304790
-    ],
-    "retry_count": 0
-  },
-  {
-    "type": "photo",
-    "photo_file_ids": [
-      "AgACAgQAAyEFAAMBClOLWAACA4NqtCAAATQmPRpSCywgHUJQC3-Vr4cAAk8Qaxs1jZlRAkFLaZZSyXsBAAMCAAN4AAM9BA"
-    ],
-    "caption": "🇨🇳 China is probing DeepSeek and Moonshot over alleged data leaks.\n\nChina’s internet regulator is investigating DeepSeek and Moonshot AI after Anthropic alleged the companies secretly routed millions of customer requests to Claude, potentially sending sensitive Chinese data to U.S. servers, according to The Information.\n\nAnthropic says Moonshot routed 23M+ exchanges to Claude between May and July, while DeepSeek routed 12.1M+ exchanges in just 14 days in July.\n\nThe allegedly exposed data included surveillance footage near PLA-linked sites, corporate information, police-system data and user credentials.\n\nChina’s regulator has reportedly summoned seven companies named in Anthropic’s report, but the investigation is now focused on DeepSeek and Moonshot.The probe is ongoing, with no penalties announced so far.\n\nSource. \n\n@aipost",
-    "entities": [
-      {
-        "offset": 0,
-        "length": 4,
-        "type": "custom_emoji",
-        "custom_emoji_id": "5431782733376399004"
-      },
-      {
-        "offset": 5,
-        "length": 63,
-        "type": "bold"
-      },
-      {
-        "offset": 821,
-        "length": 8,
-        "type": "text_link",
-        "url": "https://www.theinformation.com/articles/china-probes-deepseek-moonshot-potential-data-leaks-anthropic?rc=fi8p5u"
-      },
-      {
-        "offset": 831,
-        "length": 7,
-        "type": "mention"
-      }
-    ],
-    "media_group_id": null,
-    "chat_id": -1004468214616,
-    "message_ids": [
-      899
-    ],
-    "update_ids": [
-      378304791
-    ],
-    "retry_count": 0
-  },
-  {
-    "type": "photo",
-    "photo_file_ids": [
-      "AgACAgIAAyEFAAMBClOLWAACA4RqtCAAAc0cJlM3lIr5WejpVEii4eAAApgbaxuHAplJMrPU_YHLffABAAMCAAN5AAM9BA"
-    ],
-    "caption": "The cost of achieving high benchmark scores in artificial intelligence has decreased significantly in recent years.\n\nAccording to Epoch, OpenAI's o3 model required approximately $0.30 per question to reach a 75% score on GPQA Diamond. Less than a year and a half later, GPT-5.6 Luna achieved the same result for about $0.0004 per question. This represents a drop in costs by a factor of 725.\n\nEpoch’s analysis suggests that since 2023, matching benchmark performance has become roughly 47% cheaper each quarter. This translates to about a 13-fold annual reduction across five key benchmarks.\n\nUnlike previous studies focusing on token prices, Epoch examines the actual dollar amount needed to reach fixed benchmark accuracy, replaying benchmark transcripts under stricter token limits. The cost reduction rate for AI surpasses that of electricity, batteries, compute, or DNA sequencing.\n\n📰 @aipost",
-    "entities": [
-      {
-        "offset": 888,
-        "length": 2,
-        "type": "custom_emoji",
-        "custom_emoji_id": "5363988332466438547"
-      },
-      {
-        "offset": 891,
-        "length": 7,
-        "type": "mention"
-      }
-    ],
-    "media_group_id": null,
-    "chat_id": -1004468214616,
-    "message_ids": [
-      900
-    ],
-    "update_ids": [
-      378304792
-    ],
-    "retry_count": 0
-  },
-  {
-    "type": "album",
-    "photo_file_ids": [
-      "AgACAgQAAyEFAAMBClOLWAACA4VqtCAAAf87Y-vBtU68qZpTV1eZu5QAAr4VaxswN6BR0VWq9ZZhsBYBAAMCAAN4AAM9BA",
-      "AgACAgQAAyEFAAMBClOLWAACA4ZqtCAAAfUTybjgMl5aEbEy3KRhcUMAAr8VaxswN6BRY4FRiP_nNpYBAAMCAAN4AAM9BA"
-    ],
-    "caption": "✍️ Opus 5.5’s biggest upgrade might not be reasoning, it’s the writing.\n\nAn early tester of Opus 5.5 noticed  that they've really fixed the writing.  He noticed that Claude hadn't written in such a straightforward, normal and non-slop way since at least Opus 4.6, nearly eight months ago.\n\n(Opus 5 left, Opus 5.5 right)\n\n@aipost 🏴",
-    "entities": [
-      {
-        "offset": 0,
-        "length": 2,
-        "type": "custom_emoji",
-        "custom_emoji_id": "5238156910363950406"
-      },
-      {
-        "offset": 3,
-        "length": 68,
-        "type": "bold"
-      },
-      {
-        "offset": 321,
-        "length": 7,
-        "type": "mention"
-      },
-      {
-        "offset": 329,
-        "length": 2,
-        "type": "custom_emoji",
-        "custom_emoji_id": "5431390559912614642"
-      }
-    ],
-    "media_group_id": "14321516549464797",
-    "chat_id": -1004468214616,
-    "message_ids": [
-      901,
-      902
-    ],
-    "update_ids": [
-      378304793,
-      378304794
-    ],
-    "retry_count": 0
-  },
-  {
-    "type": "photo",
-    "photo_file_ids": [
-      "AgACAgQAAyEFAAMBClOLWAACA4dqtCAAARGyaHJzTXeDDtNtms6RvEwAAsEVaxswN6BR2Ww0P8CzzxcBAAMCAAN5AAM9BA"
-    ],
-    "caption": "🇪🇺 Europe’s chip industry has a problem and ASML is calling it out\n\nASML, Europe’s most valuable company and a critical supplier to the global semiconductor industry, sold zero chipmaking systems to European customers last quarter.\n\nEvery machine went to customers in Asia or the US.\n\nAn ASML executive said Europe simply isn’t investing enough or building enough chip factories:\n\n“We’re not selling anything at all in Europe.”\n\nThe company is also under pressure to expand production outside the Netherlands. China and India are offering major incentives to attract ASML investment, while the US is pushing for more of the company’s R&D to happen there.\n\n@aipost 🏴",
-    "entities": [
-      {
-        "offset": 0,
-        "length": 4,
-        "type": "custom_emoji",
-        "custom_emoji_id": "5228784522924930237"
-      },
-      {
-        "offset": 5,
-        "length": 63,
-        "type": "bold"
-      },
-      {
-        "offset": 383,
-        "length": 46,
-        "type": "blockquote"
-      },
-      {
-        "offset": 658,
-        "length": 7,
-        "type": "mention"
-      },
-      {
-        "offset": 666,
-        "length": 2,
-        "type": "custom_emoji",
-        "custom_emoji_id": "5431390559912614642"
-      }
-    ],
-    "media_group_id": null,
-    "chat_id": -1004468214616,
-    "message_ids": [
-      903
-    ],
-    "update_ids": [
-      378304795
-    ],
-    "retry_count": 0
-  },
-  {
     "type": "album",
     "photo_file_ids": [
       "AgACAgIAAyEFAAMBClOLWAACA4hqtCAAAX7JVxprWFToZJFi8npLJ44AAm0baxsNSqlJdMT8JtCNc80BAAMCAAN5AAM9BA",
@@ -5266,6 +5070,540 @@
     ],
     "update_ids": [
       378304930
+    ],
+    "retry_count": 0
+  },
+  {
+    "type": "video",
+    "video_file_id": "BAACAgQAAyEFAAMBClOLWAACBA9qwyIm-A_wiU6VCTTMW67WSynCUwAC_RwAAkDeAVI-jNvKA8eFFD0E",
+    "video_file_size": 21648848,
+    "caption": "🔍 Google just put an AI chip in orbit\n\nGoogle’s first orbital AI-chip experiment is now in space and the company says it has established contact and the system is operating as expected.\n\nLaunched October 1 aboard SpaceX’s Falcon 9 Transporter-18, the prototype carries four Trillium TPUs and is running Gemini inference in roughly 15-minute bursts. It then shuts down so its radiators can dump the accumulated heat into space.\n\nThe experiment is testing a very different kind of AI infrastructure. There are no fans or air cooling: heat travels through thermal materials and heat pipes before being radiated into space. The satellite also has to deal with radiation, where Google’s testing found the HBM memory was more vulnerable than the TPU itself.\n\nAnd this is only the beginning. Google plans two more satellites in 2027 to test high-bandwidth laser links between spacecraft, with a longer-term vision of tightly packed orbital clusters containing dozens of TPUs per satellite.\n\nOne research concept models an 81-satellite cluster within roughly a 1-km radius, while the broader program has discussed eventually scaling to around 10,000 satellites for a 1 GW orbital AI cluster.\n\n@aipost 🏴",
+    "entities": [
+      {
+        "offset": 0,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5431644246450908867"
+      },
+      {
+        "offset": 3,
+        "length": 35,
+        "type": "bold"
+      },
+      {
+        "offset": 1186,
+        "length": 7,
+        "type": "mention"
+      },
+      {
+        "offset": 1194,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5431390559912614642"
+      }
+    ],
+    "media_group_id": null,
+    "chat_id": -1004468214616,
+    "message_ids": [
+      1039
+    ],
+    "update_ids": [
+      378304931
+    ],
+    "retry_count": 0
+  },
+  {
+    "type": "photo",
+    "photo_file_ids": [
+      "AgACAgQAAyEFAAMBClOLWAACBBBqwyImpqiHXyYwUnM0Q78W6gz-0gAC4w9rG0DeCVItbeF-f0JawAEAAwIAA3kAAz0E"
+    ],
+    "caption": "🇩🇪 Germany has joined the race of frontier LLMs with its sovereign model \"Kolibri\".\n\nAnd it's Open-Source, too!\nBeats Qwen2635B, Nemotron3 Super, and Mistral Small 4 in the Math, Science, and Code arena. The underlying architecture: custom MoE Transformer\n\nSource.\n\n@aipost 🏴",
+    "entities": [
+      {
+        "offset": 0,
+        "length": 4,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5409360418520967565"
+      },
+      {
+        "offset": 259,
+        "length": 6,
+        "type": "text_link",
+        "url": "https://huggingface.co/Aleph-Alpha/kolibri-1"
+      },
+      {
+        "offset": 268,
+        "length": 7,
+        "type": "mention"
+      },
+      {
+        "offset": 276,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5431390559912614642"
+      }
+    ],
+    "media_group_id": null,
+    "chat_id": -1004468214616,
+    "message_ids": [
+      1040
+    ],
+    "update_ids": [
+      378304932
+    ],
+    "retry_count": 0
+  },
+  {
+    "type": "photo",
+    "photo_file_ids": [
+      "AgACAgQAAyEFAAMBClOLWAACBBFqwyImfe3BwQABo0Umkf3bnHs-xh8AAuQPaxtA3glSJIgNJ0tGjMcBAAMCAAN4AAM9BA"
+    ],
+    "caption": "Just a little joke for the AI users in the workforce 🤣\n\n@aipost 🏴",
+    "entities": [
+      {
+        "offset": 53,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5370712413005945913"
+      },
+      {
+        "offset": 57,
+        "length": 7,
+        "type": "mention"
+      },
+      {
+        "offset": 65,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5431390559912614642"
+      }
+    ],
+    "media_group_id": null,
+    "chat_id": -1004468214616,
+    "message_ids": [
+      1041
+    ],
+    "update_ids": [
+      378304933
+    ],
+    "retry_count": 0
+  },
+  {
+    "type": "video",
+    "video_file_id": "BAACAgQAAyEFAAMBClOLWAACBBJqwyImNFFe5snlyn244W3uDERQFgACwR8AAkDeCVJx368AASyat6s9BA",
+    "video_file_size": 11401696,
+    "caption": "🤯 AI has allegedly started speaking its own language that humans can't fully understand.\n\nAsked by a US senator how far AI is from creating its own language, an AI safety researcher answered: \"Minus 12 months.\"\n\nHe said a study of an OpenAI model's reasoning last year found it \"was already using language that is not English and not perfectly understandable by humans.\"\n\n@aipost 🏴",
+    "entities": [
+      {
+        "offset": 0,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5370745797786738962"
+      },
+      {
+        "offset": 3,
+        "length": 86,
+        "type": "bold"
+      },
+      {
+        "offset": 373,
+        "length": 7,
+        "type": "mention"
+      },
+      {
+        "offset": 381,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5431390559912614642"
+      }
+    ],
+    "media_group_id": null,
+    "chat_id": -1004468214616,
+    "message_ids": [
+      1042
+    ],
+    "update_ids": [
+      378304934
+    ],
+    "retry_count": 0
+  },
+  {
+    "type": "text",
+    "caption": "🤔 Could AI become a threat to democracy without taking anyone’s job?\n\nNobel Prize–winning economist Daron Acemoglu argues that one of AI’s most underestimated consequences may not be mass unemployment, but the concentration of economic power.\n\nAI is making intelligence cheaper and more accessible. But the infrastructure behind it, the most capable models, chips, data, computing capacity and capital remains concentrated among a small number of companies. If AI becomes a major factor of production, those companies could capture an increasingly large share of the value created by the economy.\n\nAnd economic power can translate into political power.\n\nThe same dynamic could play out between countries. The US and China control significant parts of their AI infrastructure, while other countries could see productivity and GDP rise while becoming increasingly dependent on foreign models, chips and computing infrastructure. They may become richer while simultaneously losing some control over the technology driving that growth.\n\nAcemoglu sees a similar risk at every level: individuals may become more productive while losing expertise, companies may become more efficient while losing their competitive advantage, and countries may grow economically while becoming more dependent on external AI infrastructure.\n\nThat leads to a much bigger question: if AI concentrates intelligence, capital and infrastructure in fewer hands, can democratic institutions adapt to that concentration of power?\n\n@aipost 🏴",
+    "entities": [
+      {
+        "offset": 0,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5370724846936267183"
+      },
+      {
+        "offset": 3,
+        "length": 66,
+        "type": "bold"
+      },
+      {
+        "offset": 1318,
+        "length": 179,
+        "type": "bold"
+      },
+      {
+        "offset": 1499,
+        "length": 7,
+        "type": "mention"
+      },
+      {
+        "offset": 1507,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5431390559912614642"
+      }
+    ],
+    "media_group_id": null,
+    "chat_id": -1004468214616,
+    "message_ids": [
+      1043
+    ],
+    "update_ids": [
+      378304935
+    ],
+    "retry_count": 0
+  },
+  {
+    "type": "video",
+    "video_file_id": "BAACAgQAAyEFAAMBClOLWAACBBRqwyImYuepWaOM6_CkKWOU2-nTcQACwx8AAkDeCVLIFMKhwXdeAT0E",
+    "video_file_size": 7708612,
+    "caption": "🗣Bessent on Chinese AI:\n\nOne of their very powerful models is Kimi. Kimi thinks she is Claude. Kimi will tell you she is Claude sometimes.\n\nKimi sent back some PLA weapons plans to Anthropic. So I think things like that have made the Chinese realize that this is a very powerful technology.\n\n@aipost 🏴",
+    "entities": [
+      {
+        "offset": 0,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5287468155738821335"
+      },
+      {
+        "offset": 2,
+        "length": 22,
+        "type": "bold"
+      },
+      {
+        "offset": 293,
+        "length": 7,
+        "type": "mention"
+      },
+      {
+        "offset": 301,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5431390559912614642"
+      }
+    ],
+    "media_group_id": null,
+    "chat_id": -1004468214616,
+    "message_ids": [
+      1044
+    ],
+    "update_ids": [
+      378304936
+    ],
+    "retry_count": 0
+  },
+  {
+    "type": "photo",
+    "photo_file_ids": [
+      "AgACAgQAAyEFAAMBClOLWAACBBVqwyImeNZpOtxHNOVxfDwEZpz9GwACjA9rG0DeEVLxyaJvNdR3IQEAAwIAA3kAAz0E"
+    ],
+    "caption": "🇺🇸 President Trump:\n\n“I am announcing the formation of the Super Intelligence Force (SIF). The Super Intelligence Force is tasked with coordinating the effort of the Federal Government to ensure that America continues to lead the World in Super Intelligence, which many say is bigger than the Industrial Revolution, and the Internet, and will protect the interests, and improve the lives, of all Americans.” \n\n@aipost 🏴",
+    "entities": [
+      {
+        "offset": 0,
+        "length": 4,
+        "type": "bold"
+      },
+      {
+        "offset": 0,
+        "length": 4,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5202021044105257611"
+      },
+      {
+        "offset": 4,
+        "length": 17,
+        "type": "bold"
+      },
+      {
+        "offset": 23,
+        "length": 387,
+        "type": "blockquote"
+      },
+      {
+        "offset": 412,
+        "length": 7,
+        "type": "mention"
+      },
+      {
+        "offset": 420,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5431390559912614642"
+      }
+    ],
+    "media_group_id": null,
+    "chat_id": -1004468214616,
+    "message_ids": [
+      1045
+    ],
+    "update_ids": [
+      378304937
+    ],
+    "retry_count": 0
+  },
+  {
+    "type": "photo",
+    "photo_file_ids": [
+      "AgACAgQAAyEFAAMBClOLWAACBBZqwyImLTo5tuZADqpwZkvN9MQvmwAC5g9rG0DeCVJCXJxwWQJjGQEAAwIAA3kAAz0E"
+    ],
+    "caption": "🤖 OpenAI’s AI investigation is reportedly costing $500K a day\n\nOpenAI is conducting a massive investigation into incidents where its AI agents behaved online in ways the company didn’t intend.\n\nThe investigation reportedly involves analyzing around 50 petabytes of data, an amount that, if converted into ordinary English text, would take a single person roughly 66 million years to read.\n\nThe scale is huge: around 7,000 GPUs are being used, with the investigation reportedly costing OpenAI more than $500,000 every day.\n\nSource.\n\n@aipost 🏴",
+    "entities": [
+      {
+        "offset": 0,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5397681122542893003"
+      },
+      {
+        "offset": 3,
+        "length": 59,
+        "type": "bold"
+      },
+      {
+        "offset": 524,
+        "length": 6,
+        "type": "text_link",
+        "url": "https://www.theguardian.com/technology/2026/oct/03/openai-review-hacks-australian-government-sites-costing-500000-a-day"
+      },
+      {
+        "offset": 533,
+        "length": 7,
+        "type": "mention"
+      },
+      {
+        "offset": 541,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5431390559912614642"
+      }
+    ],
+    "media_group_id": null,
+    "chat_id": -1004468214616,
+    "message_ids": [
+      1046
+    ],
+    "update_ids": [
+      378304938
+    ],
+    "retry_count": 0
+  },
+  {
+    "type": "video",
+    "video_file_id": "BAACAgQAAyEFAAMBClOLWAACBBdqwyIm5k5eDNTyuTxbjXnOqmqpUQACrBwAAkDeEVJkb_DDYVwesj0E",
+    "video_file_size": 19613647,
+    "caption": "🗣Eric Schmidt says an evil dictator with a perfect AI system could just say attack this country and tell me when you're done.\n\n\"So let's imagine I'm an evil dictator and I wake up one day and I have a perfect AI system and I say, attack this country, tell me when you're done. That's my command.\"\n\n\"Notice I didn't say anything else. The system would be free to do whatever it thought was appropriate, which would include massive war crimes, all sorts of terrible things.\"\n\n\"It could destroy civilians, it could destroy infrastructure, it might attack another country that was uninvolved in order to annoy the first country. It could have all sorts of reasoning that is not appropriate.\"\n\n\"It's really important we establish some basic rules about AI and war. And the most important one is that there's a human involved in every military decision.\"\n\n@aipost 🏴",
+    "entities": [
+      {
+        "offset": 0,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5287468155738821335"
+      },
+      {
+        "offset": 2,
+        "length": 124,
+        "type": "bold"
+      },
+      {
+        "offset": 128,
+        "length": 721,
+        "type": "blockquote"
+      },
+      {
+        "offset": 851,
+        "length": 7,
+        "type": "mention"
+      },
+      {
+        "offset": 859,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5431390559912614642"
+      }
+    ],
+    "media_group_id": null,
+    "chat_id": -1004468214616,
+    "message_ids": [
+      1047
+    ],
+    "update_ids": [
+      378304939
+    ],
+    "retry_count": 0
+  },
+  {
+    "type": "photo",
+    "photo_file_ids": [
+      "AgACAgQAAyEFAAMBClOLWAACBBhqwyImnnsI_aTMxByCos9brQ1RpgACVA9rG0DeEVK9H2eqQqO0IgEAAwIAA3gAAz0E"
+    ],
+    "caption": "How it feels to ask the Chinese AI models for help on something Claude won’t agree to. 🤣🤣\n\n@aipost 🏴",
+    "entities": [
+      {
+        "offset": 87,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5370712413005945913"
+      },
+      {
+        "offset": 89,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5370712413005945913"
+      },
+      {
+        "offset": 93,
+        "length": 7,
+        "type": "mention"
+      },
+      {
+        "offset": 93,
+        "length": 7,
+        "type": "underline"
+      },
+      {
+        "offset": 101,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5431390559912614642"
+      }
+    ],
+    "media_group_id": null,
+    "chat_id": -1004468214616,
+    "message_ids": [
+      1048
+    ],
+    "update_ids": [
+      378304940
+    ],
+    "retry_count": 0
+  },
+  {
+    "type": "photo",
+    "photo_file_ids": [
+      "AgACAgQAAyEFAAMBClOLWAACBBlqwyImvyrsD2fRb3NMNQt7Qt1-iAACew9rG0DeEVL_SHpAHBSwdAEAAwIAA3kAAz0E"
+    ],
+    "caption": "What if AI stopped answering with text? 🤔\n\nAndrej Karpathy thinks the future of AI interfaces could look a lot less like ChatGPT and a lot more like a teacher building something specifically for you.\n\nFor simple questions, AI could explain things using ASD-STE100-style simplified English: short sentences, clear words, and as little ambiguity as possible. But when a topic gets complicated, a wall of text may simply be the wrong interface.\n\nInstead, AI could generate a diagram, build a custom interactive webpage, or even create a personal teaching video on the spot, complete with animations inspired by 3Blue1Brown and a synthetic voice.\n\nAs AI makes coding and content creation dramatically cheaper, generating a temporary interactive lesson for one person and one question starts to make sense.\n\n@aipost 🏴",
+    "entities": [
+      {
+        "offset": 0,
+        "length": 40,
+        "type": "bold"
+      },
+      {
+        "offset": 40,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5370724846936267183"
+      },
+      {
+        "offset": 804,
+        "length": 7,
+        "type": "mention"
+      },
+      {
+        "offset": 812,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5431390559912614642"
+      }
+    ],
+    "media_group_id": null,
+    "chat_id": -1004468214616,
+    "message_ids": [
+      1049
+    ],
+    "update_ids": [
+      378304941
+    ],
+    "retry_count": 0
+  },
+  {
+    "type": "video",
+    "video_file_id": "BAACAgQAAyEFAAMBClOLWAACBBpqwyImuIGrWFjrj36KL9DjHikvLAACHR0AAkDeEVL9ZCYF_cy06T0E",
+    "video_file_size": 662115,
+    "caption": "@aipost 🏴",
+    "entities": [
+      {
+        "offset": 0,
+        "length": 7,
+        "type": "mention"
+      },
+      {
+        "offset": 0,
+        "length": 7,
+        "type": "underline"
+      },
+      {
+        "offset": 8,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5431390559912614642"
+      }
+    ],
+    "media_group_id": null,
+    "chat_id": -1004468214616,
+    "message_ids": [
+      1050
+    ],
+    "update_ids": [
+      378304942
+    ],
+    "retry_count": 0
+  },
+  {
+    "type": "photo",
+    "photo_file_ids": [
+      "AgACAgQAAyEFAAMBClOLWAACBBtqwyIm1oziMSKzpv3_wuhFRJzvwgACfg9rG0DeEVK9-TX4GjQOLwEAAwIAA3kAAz0E"
+    ],
+    "caption": "🙃 Elon Musk just confirmed that SpaceXAI will be renamed to SpaceXSI.\n\n@aipost 🏴",
+    "entities": [
+      {
+        "offset": 0,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5289701946754633864"
+      },
+      {
+        "offset": 72,
+        "length": 7,
+        "type": "mention"
+      },
+      {
+        "offset": 72,
+        "length": 7,
+        "type": "underline"
+      },
+      {
+        "offset": 80,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5431390559912614642"
+      }
+    ],
+    "media_group_id": null,
+    "chat_id": -1004468214616,
+    "message_ids": [
+      1051
+    ],
+    "update_ids": [
+      378304943
     ],
     "retry_count": 0
   }
