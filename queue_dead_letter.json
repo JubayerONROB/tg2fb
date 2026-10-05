@@ -5249,5 +5249,118 @@
       378304773
     ],
     "retry_count": 0
+  },
+  {
+    "type": "video",
+    "video_file_id": "BAACAgIAAyEFAAMBClOLWAACA35qs_q0IfgNBwdmE_P4TIn5E9B63gAC1qIAAoZ7kElQ79kd944ghj0E",
+    "video_file_size": 33290616,
+    "caption": "💻️ Huang rejects custom AI rules\n\nIn a CBS News interview, Nvidia CEO Jensen Huang called startup leaders’ calls to slow AI and add regulation a “fiction”. He said labs want to replace existing liability laws with custom AI rules that suit them better.\n\nFor cyberattacks on AI labs, he cited existing laws on unauthorized access, damage liability, and product safety. They apply across industries, and AI should not be an exception.\n\nHuang also called the claim that AI could end humanity within 10 years “absolutely false”.\n\n📊@tech",
+    "entities": [
+      {
+        "offset": 0,
+        "length": 3,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5418164246779277182"
+      },
+      {
+        "offset": 4,
+        "length": 29,
+        "type": "bold"
+      },
+      {
+        "offset": 60,
+        "length": 23,
+        "type": "bold"
+      },
+      {
+        "offset": 215,
+        "length": 15,
+        "type": "bold"
+      },
+      {
+        "offset": 310,
+        "length": 57,
+        "type": "bold"
+      },
+      {
+        "offset": 497,
+        "length": 8,
+        "type": "bold"
+      },
+      {
+        "offset": 527,
+        "length": 2,
+        "type": "bold"
+      },
+      {
+        "offset": 527,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5449841756596101801"
+      },
+      {
+        "offset": 529,
+        "length": 5,
+        "type": "mention"
+      },
+      {
+        "offset": 529,
+        "length": 5,
+        "type": "bold"
+      }
+    ],
+    "media_group_id": null,
+    "chat_id": -1004468214616,
+    "message_ids": [
+      894
+    ],
+    "update_ids": [
+      378304786
+    ],
+    "retry_count": 0
+  },
+  {
+    "type": "video",
+    "video_file_id": "BAACAgQAAyEFAAMBClOLWAACA4FqtCAAAb4G4eRRcodosav90gOiQPAAAvIfAAI1jZlR1eZGsKojwfc9BA",
+    "video_file_size": 61745342,
+    "caption": "🇺🇸Imagine hating AI so much that you physically show up at ChatGPT’s front door\n\nAnti-AI protesters rallied outside OpenAI’s SoHo office in NYC, taking their anger over artificial intelligence straight to the company building it.\n\n@aipost 🏴",
+    "entities": [
+      {
+        "offset": 0,
+        "length": 4,
+        "type": "bold"
+      },
+      {
+        "offset": 0,
+        "length": 4,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5202021044105257611"
+      },
+      {
+        "offset": 4,
+        "length": 77,
+        "type": "bold"
+      },
+      {
+        "offset": 233,
+        "length": 7,
+        "type": "mention"
+      },
+      {
+        "offset": 241,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5431390559912614642"
+      }
+    ],
+    "media_group_id": null,
+    "chat_id": -1004468214616,
+    "message_ids": [
+      897
+    ],
+    "update_ids": [
+      378304789
+    ],
+    "retry_count": 0
   }
 ]
