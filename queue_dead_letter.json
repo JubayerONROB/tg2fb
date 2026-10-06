@@ -5641,5 +5641,111 @@
       378304823
     ],
     "retry_count": 0
+  },
+  {
+    "type": "video",
+    "video_file_id": "BAACAgQAAyEFAAMBClOLWAACA6tqt90jEKq5hfb9A33neZZ8kcfkLwAChB8AApIkuFE4Bs86zqsLAz0E",
+    "video_file_size": 21303637,
+    "caption": "Mark Zuckerberg says AI agents may soon be able to attend meetings “embodied” as holograms\n\n@aipost 🏴",
+    "entities": [
+      {
+        "offset": 92,
+        "length": 7,
+        "type": "mention"
+      },
+      {
+        "offset": 100,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5431390559912614642"
+      }
+    ],
+    "media_group_id": null,
+    "chat_id": -1004468214616,
+    "message_ids": [
+      939
+    ],
+    "update_ids": [
+      378304831
+    ],
+    "retry_count": 0
+  },
+  {
+    "type": "video",
+    "video_file_id": "BAACAgQAAyEFAAMBClOLWAACA61qt90j-pw8V6p8gLJhC1Le4l0BNgACmx8AAv-9uVEic5RMTlzwAAE9BA",
+    "video_file_size": 84722801,
+    "caption": "❗️Through the VOICE trial, Neuralink patient Terry is using his Neuralink implant to help fine-tune a brain-to-voice interface for himself and others who can’t speak. \n\nHe trained the algorithm first by miming speech as best he could, then by simply thinking the words and hearing them come out in his own natural voice.\n\nPowered by Grok Voice. \n\n@aipost 🏴",
+    "entities": [
+      {
+        "offset": 0,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5289761612440310918"
+      },
+      {
+        "offset": 347,
+        "length": 7,
+        "type": "mention"
+      },
+      {
+        "offset": 355,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5431390559912614642"
+      }
+    ],
+    "media_group_id": null,
+    "chat_id": -1004468214616,
+    "message_ids": [
+      941
+    ],
+    "update_ids": [
+      378304833
+    ],
+    "retry_count": 0
+  },
+  {
+    "type": "video",
+    "video_file_id": "BAACAgQAAyEFAAMBClOLWAACA65qt90jgZOkxdztjEpo3gFfH3_5xQACoh8AAv-9uVFyHtv10K9nOT0E",
+    "video_file_size": 28953536,
+    "caption": "🗣Peter Thiel says even a 5-10% chance of AI extinction is better than a world with no growth\n\n\"I don't think the probabilities are very high. On the other hand, if the probability is even 5% or 10%, that seems pretty bad.\"\n\n\"It doesn't necessarily follow that you should always go slower and always go in the precautionary direction, because if you do nothing, if there is no progress on any dimension, I don't think our societies work at all.\"\n\n\"The intergenerational progressive compact in our society was that there was progress from one generation to the next. Maybe economic progress, material progress, progress in health. And when that breaks down, I think the whole society starts to derange in very, very strange ways.\"\n\n\"There's a picture that people implicitly have that the alternative to AI, let's say, a zero-growth world where there's no progress at all, will somehow be this peaceful, social democratic society. And I don't think that's true.\"\n\n\nMathias Döpfner: “If America is slowing down and China is accelerating, we are just strengthening China, but it's not solving anything.\"\n\n@aipost 🏴",
+    "entities": [
+      {
+        "offset": 0,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5287468155738821335"
+      },
+      {
+        "offset": 2,
+        "length": 91,
+        "type": "bold"
+      },
+      {
+        "offset": 95,
+        "length": 866,
+        "type": "blockquote"
+      },
+      {
+        "offset": 1101,
+        "length": 7,
+        "type": "mention"
+      },
+      {
+        "offset": 1109,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5431390559912614642"
+      }
+    ],
+    "media_group_id": null,
+    "chat_id": -1004468214616,
+    "message_ids": [
+      942
+    ],
+    "update_ids": [
+      378304834
+    ],
+    "retry_count": 0
   }
 ]
