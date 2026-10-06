@@ -5506,5 +5506,78 @@
       378304807
     ],
     "retry_count": 0
+  },
+  {
+    "type": "video",
+    "video_file_id": "BAACAgQAAyEFAAMBClOLWAACA5VqtU9Z2cocGaMmtJVtueCAZQHRlwAC-h8AApIkqFESoGW5yiyUtD0E",
+    "video_file_size": 25645800,
+    "caption": "Ⓜ️ Meta has unveiled their new VR glasses.\n\n• Price: $1,299\n• Available Spring 2027\n• Weight: 100 grams, about the weight of a deck of cards\n• Glasses contain the displays and sensors, while a separate puck houses the processor, battery and storage.\n• 5K display with micro-OLED panels\n• Pixel density: 37 pixels per degree\n• Custom pancake lenses\n• Dolby Vision\n• Dolby Atmos\n• No head straps\n• Qualcomm Snapdragon Reality Elite chip\n• Battery life: Up to 3 hours of continuous high-resolution media playback\n• 45W fast charging\n• Full-color passthrough cameras let you see your surroundings while wearing the glasses.\n• Open-sided design\n• Meta AI integrated directly into the operating system.\n• Voice commands, eye tracking and natural hand gestures, with no controllers required\n• First IMAX Enhanced-certified VR device, supporting select movies in IMAX's expanded aspect ratio.\n• Disney+ will offer select 3D movies\n• Streaming services: Partnerships with Disney+, Prime Video, YouTube, DIRECTV, AMC+, Crunchyroll, Plex, ESPN, Tubi and others\n• Immersive live sports: Front-row viewing experiences with 8K streaming and 180-degree views\n• Works with calling apps including WhatsApp and Zoom\n\n@aipost 🏴",
+    "entities": [
+      {
+        "offset": 0,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5431901622366124338"
+      },
+      {
+        "offset": 3,
+        "length": 39,
+        "type": "bold"
+      },
+      {
+        "offset": 1199,
+        "length": 7,
+        "type": "mention"
+      },
+      {
+        "offset": 1207,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5431390559912614642"
+      }
+    ],
+    "media_group_id": null,
+    "chat_id": -1004468214616,
+    "message_ids": [
+      917
+    ],
+    "update_ids": [
+      378304809
+    ],
+    "retry_count": 0
+  },
+  {
+    "type": "video",
+    "video_file_id": "BAACAgQAAyEFAAMBClOLWAACA5ZqtVeY4b9WAAFjORcQfpGPIu9aSrcAAvQfAAKSJKhR2G2l86hBY7w9BA",
+    "video_file_size": 22020179,
+    "caption": "Ⓜ️ Meta unveils Muse Charm, a Tamagotchi-style AI device that puts a personal AI agent on your keychain.\n\nThe palm-sized 5G gadget lets users talk directly to Meta’s Muse AI agent without a phone, computer or glasses. Zuckerberg calls it a “joyful little device.” Meta plans to ship it in December, just in time for the holidays.\n\n@aipost 🏴",
+    "entities": [
+      {
+        "offset": 0,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5431901622366124338"
+      },
+      {
+        "offset": 331,
+        "length": 7,
+        "type": "mention"
+      },
+      {
+        "offset": 339,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5431390559912614642"
+      }
+    ],
+    "media_group_id": null,
+    "chat_id": -1004468214616,
+    "message_ids": [
+      918
+    ],
+    "update_ids": [
+      378304810
+    ],
+    "retry_count": 0
   }
 ]
