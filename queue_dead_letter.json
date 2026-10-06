@@ -5579,5 +5579,67 @@
       378304810
     ],
     "retry_count": 0
+  },
+  {
+    "type": "video",
+    "video_file_id": "BAACAgQAAyEFAAMBClOLWAACA59qtguQkSvmI6SjdIloWTTUXjI0TwACCCAAApIkqFH4TjEtHKo5wD0E",
+    "video_file_size": 31773064,
+    "caption": "🗣Jensen Huang says if OpenAI or Anthropic believe their models “aren’t safe” then we have to shut the labs down.\n\n@aipost 🏴",
+    "entities": [
+      {
+        "offset": 0,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5287468155738821335"
+      },
+      {
+        "offset": 115,
+        "length": 7,
+        "type": "mention"
+      },
+      {
+        "offset": 123,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5431390559912614642"
+      }
+    ],
+    "media_group_id": null,
+    "chat_id": -1004468214616,
+    "message_ids": [
+      927
+    ],
+    "update_ids": [
+      378304819
+    ],
+    "retry_count": 0
+  },
+  {
+    "type": "video",
+    "video_file_id": "BAACAgQAAyEFAAMBClOLWAACA6NqtpSLc2U90VCw0Seq2k7KZSSKjAACmh4AApIkuFEZ24wD5E1GST0E",
+    "video_file_size": 24528367,
+    "caption": "Google launching TPUs in space NEXT WEEK on SpaceX falcon 9 to test AI data centers orbit.\n\n@aipost 🏴",
+    "entities": [
+      {
+        "offset": 92,
+        "length": 7,
+        "type": "mention"
+      },
+      {
+        "offset": 100,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5431390559912614642"
+      }
+    ],
+    "media_group_id": null,
+    "chat_id": -1004468214616,
+    "message_ids": [
+      931
+    ],
+    "update_ids": [
+      378304823
+    ],
+    "retry_count": 0
   }
 ]
