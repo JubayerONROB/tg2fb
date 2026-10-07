@@ -5747,5 +5747,49 @@
       378304834
     ],
     "retry_count": 0
+  },
+  {
+    "type": "video",
+    "video_file_id": "BAACAgIAAyEFAAMBClOLWAACA7pquYQO1nH50ajIMHV083nrRExAEgACf5oAAiI-0UmzUGNpjaiesD0E",
+    "video_file_size": 42420789,
+    "caption": "Opus 5.5 can disrupt the educational videos industry.\n\nElectricity\n\n📰 @aipost",
+    "entities": [
+      {
+        "offset": 68,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5363988332466438547"
+      },
+      {
+        "offset": 71,
+        "length": 7,
+        "type": "mention"
+      }
+    ],
+    "media_group_id": null,
+    "chat_id": -1004468214616,
+    "message_ids": [
+      954
+    ],
+    "update_ids": [
+      378304846
+    ],
+    "retry_count": 0
+  },
+  {
+    "type": "video",
+    "video_file_id": "BAACAgQAAyEFAAMBClOLWAACA71qufUAAbTIcogp9tQFgUBQnZ_q-F0AAmIfAALbuMlRQruP_2c0Xr49BA",
+    "video_file_size": 35744264,
+    "caption": "",
+    "entities": [],
+    "media_group_id": "14324574212891845",
+    "chat_id": -1004468214616,
+    "message_ids": [
+      957
+    ],
+    "update_ids": [
+      378304849
+    ],
+    "retry_count": 0
   }
 ]
