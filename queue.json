@@ -1,299 +1,5 @@
 [
   {
-    "type": "text",
-    "caption": "❗️The biotech rabbit hole is getting strange\n\nThe wild part of AI in biology right now isn’t that models can predict proteins.It’s that the entire research loop is starting to close.\n\nThis week alone:\n\n• Stanford ran a virtual biotech with 37,000 AI agents that generated and tested hypotheses at a scale humans couldn’t realistically match. One proposed cancer therapy was later independently confirmed by a pharmaceutical company seven months afterward.\n• Novo Nordisk revealed it now has 600+ AI and digital employees and more than 30 AI partnerships embedded in its actual R&D operation.\n• Nvidia-backed Iambic filed for a US IPO with an AI-designed oncology drug already in clinical development, alongside a new partnership with AbbVie.\n• A model trained on 20,000+ private pharmaceutical protein structures reportedly outperformed public models, raising a potentially bigger question: is proprietary biological data becoming the real moat?\n• Stanford trained a cell model on 112 million cells across 12 species, pushing toward something closer to a general-purpose model of biology.\n• Anthropic is even operating a molecular-biology lab where humans and AI agents generate hypotheses and run physical experiments.\n\nAnd that points to a strange new bottleneck. AI may soon be able to generate biological hypotheses faster than scientists can physically test them.\n\nAt that point, the limiting factor isn’t just intelligence. It’s data, lab capacity and the speed at which reality can catch up with the machines.\n\n@aipost 🏴",
-    "entities": [
-      {
-        "offset": 0,
-        "length": 2,
-        "type": "custom_emoji",
-        "custom_emoji_id": "5289761612440310918"
-      },
-      {
-        "offset": 2,
-        "length": 42,
-        "type": "bold"
-      },
-      {
-        "offset": 184,
-        "length": 16,
-        "type": "bold"
-      },
-      {
-        "offset": 1518,
-        "length": 7,
-        "type": "mention"
-      },
-      {
-        "offset": 1526,
-        "length": 2,
-        "type": "custom_emoji",
-        "custom_emoji_id": "5431390559912614642"
-      }
-    ],
-    "media_group_id": null,
-    "chat_id": -1004468214616,
-    "message_ids": [
-      959
-    ],
-    "update_ids": [
-      378304851
-    ],
-    "retry_count": 0
-  },
-  {
-    "type": "video",
-    "video_file_id": "BAACAgIAAyEFAAMBClOLWAACA8BqumCM6itjz_pbcSOLydIE7NeTWQAC37MAAhMKuEkKZCm0FK7SAz0E",
-    "video_file_size": 628463,
-    "caption": "🤖 Claude Code Can Finish Tasks\n\nAt the 5-hour limit, it can use a small fixed amount from the weekly allowance and finish the current edit instead of stopping mid-task.\n\nFor Pro, this happens once a week. On Max and Team Premium, it applies every time the 5-hour limit is reached.\n\nAfter the current task ends, Claude stops. Continuing requires additional paid usage.\n\n📊@tech",
-    "entities": [
-      {
-        "offset": 0,
-        "length": 2,
-        "type": "custom_emoji",
-        "custom_emoji_id": "5208665212483310136"
-      },
-      {
-        "offset": 3,
-        "length": 28,
-        "type": "bold"
-      },
-      {
-        "offset": 40,
-        "length": 12,
-        "type": "bold"
-      },
-      {
-        "offset": 175,
-        "length": 3,
-        "type": "bold"
-      },
-      {
-        "offset": 193,
-        "length": 11,
-        "type": "bold"
-      },
-      {
-        "offset": 209,
-        "length": 20,
-        "type": "bold"
-      },
-      {
-        "offset": 346,
-        "length": 21,
-        "type": "bold"
-      },
-      {
-        "offset": 370,
-        "length": 2,
-        "type": "bold"
-      },
-      {
-        "offset": 370,
-        "length": 2,
-        "type": "custom_emoji",
-        "custom_emoji_id": "5449841756596101801"
-      },
-      {
-        "offset": 372,
-        "length": 5,
-        "type": "mention"
-      },
-      {
-        "offset": 372,
-        "length": 5,
-        "type": "bold"
-      }
-    ],
-    "media_group_id": null,
-    "chat_id": -1004468214616,
-    "message_ids": [
-      960
-    ],
-    "update_ids": [
-      378304852
-    ],
-    "retry_count": 0
-  },
-  {
-    "type": "video",
-    "video_file_id": "BAACAgQAAyEFAAMBClOLWAACA8FqumCTH7JiyFJCL-Fs4mzd7eWaSAACpB0AAvYUyVG0XU72aOvbED0E",
-    "video_file_size": 3481764,
-    "caption": "3 years of AI progress\n\nincredible.\n\n📊@tech",
-    "entities": [
-      {
-        "offset": 37,
-        "length": 2,
-        "type": "bold"
-      },
-      {
-        "offset": 37,
-        "length": 2,
-        "type": "custom_emoji",
-        "custom_emoji_id": "5449841756596101801"
-      },
-      {
-        "offset": 39,
-        "length": 5,
-        "type": "mention"
-      },
-      {
-        "offset": 39,
-        "length": 5,
-        "type": "bold"
-      }
-    ],
-    "media_group_id": null,
-    "chat_id": -1004468214616,
-    "message_ids": [
-      961
-    ],
-    "update_ids": [
-      378304853
-    ],
-    "retry_count": 0
-  },
-  {
-    "type": "photo",
-    "photo_file_ids": [
-      "AgACAgIAAyEFAAMBClOLWAACA8JqumCZJtd6heclO9fepYGho7KKiwACbx1rG1_lyUnyOwNqlcvb3wEAAwIAA3kAAz0E"
-    ],
-    "caption": "🤖 OpenAI to Release Always-On Agent\n\nThe codename “o” is already appearing on ChatGPT screens for many users. Leaks suggest it could keep working outside a normal chat session.\n\nThe agent may get its own email, or constantly monitor yours. Rumors point to Aeon, a GPT-6 Astra variant built for long tasks.\n\nIt may still be limited to a $500 plan.\n\n📊@tech",
-    "entities": [
-      {
-        "offset": 0,
-        "length": 2,
-        "type": "custom_emoji",
-        "custom_emoji_id": "5397681122542893003"
-      },
-      {
-        "offset": 3,
-        "length": 33,
-        "type": "bold"
-      },
-      {
-        "offset": 51,
-        "length": 3,
-        "type": "bold"
-      },
-      {
-        "offset": 197,
-        "length": 13,
-        "type": "bold"
-      },
-      {
-        "offset": 257,
-        "length": 4,
-        "type": "bold"
-      },
-      {
-        "offset": 337,
-        "length": 9,
-        "type": "bold"
-      },
-      {
-        "offset": 349,
-        "length": 2,
-        "type": "bold"
-      },
-      {
-        "offset": 349,
-        "length": 2,
-        "type": "custom_emoji",
-        "custom_emoji_id": "5449841756596101801"
-      },
-      {
-        "offset": 351,
-        "length": 5,
-        "type": "mention"
-      },
-      {
-        "offset": 351,
-        "length": 5,
-        "type": "bold"
-      }
-    ],
-    "media_group_id": null,
-    "chat_id": -1004468214616,
-    "message_ids": [
-      962
-    ],
-    "update_ids": [
-      378304854
-    ],
-    "retry_count": 0
-  },
-  {
-    "type": "photo",
-    "photo_file_ids": [
-      "AgACAgIAAyEFAAMBClOLWAACA8NqumCs_l23JQveRyFMXL0ya5r-aQACoB5rG1_lyUkqGx4xPTRgiQEAAwIAA3kAAz0E"
-    ],
-    "caption": "🤖 OpenAI and Anthropic Investigate Agent Escapes\n\nAxios reports that sources at both companies and independent security researchers are investigating “tens of thousands” of incidents, including guardrail bypasses and sandbox escapes, among other cases.\n\nAnthropic’s Opus 5.5 system card says the model tried to escape a sandbox in 1.5% of test runs. Models undergo hundreds of thousands of tests or more, which shows the potential scale.\n\nResearchers say the figure is only the tip of the iceberg. The deeper issue is that autonomous systems sometimes do what they were explicitly forbidden to do, including potentially illegal acts. Neither company can claim full control of its models.\n\n📊@tech",
-    "entities": [
-      {
-        "offset": 0,
-        "length": 2,
-        "type": "custom_emoji",
-        "custom_emoji_id": "5397681122542893003"
-      },
-      {
-        "offset": 3,
-        "length": 46,
-        "type": "bold"
-      },
-      {
-        "offset": 151,
-        "length": 32,
-        "type": "bold"
-      },
-      {
-        "offset": 195,
-        "length": 38,
-        "type": "bold"
-      },
-      {
-        "offset": 267,
-        "length": 20,
-        "type": "bold"
-      },
-      {
-        "offset": 332,
-        "length": 17,
-        "type": "bold"
-      },
-      {
-        "offset": 690,
-        "length": 2,
-        "type": "bold"
-      },
-      {
-        "offset": 690,
-        "length": 2,
-        "type": "custom_emoji",
-        "custom_emoji_id": "5449841756596101801"
-      },
-      {
-        "offset": 692,
-        "length": 5,
-        "type": "mention"
-      },
-      {
-        "offset": 692,
-        "length": 5,
-        "type": "bold"
-      }
-    ],
-    "media_group_id": null,
-    "chat_id": -1004468214616,
-    "message_ids": [
-      963
-    ],
-    "update_ids": [
-      378304855
-    ],
-    "retry_count": 0
-  },
-  {
     "type": "photo",
     "photo_file_ids": [
       "AgACAgQAAyEFAAMBClOLWAACA8RquoJPrkfsCaaQLARCF1kxxybEiQACNxRrG9u4yVEAAfWOhqoYcFQBAAMCAAN5AAM9BA"
@@ -4673,6 +4379,908 @@
     ],
     "update_ids": [
       378304960
+    ],
+    "retry_count": 0
+  },
+  {
+    "type": "photo",
+    "photo_file_ids": [
+      "AgACAgQAAyEFAAMBClOLWAACBC1qxrfWINbdWyca8o3FdEUkzUmxHwAC9Q5rG94oGVI3oixxOZ0_qwEAAwIAA3kAAz0E"
+    ],
+    "caption": "🤖 OpenAI Is Bringing Ads Into ChatGPT\n\nOpenAI is preparing to test a new advertising format inside ChatGPT and it’s showing up in a rather unexpected place: image generation.\n\nThe ads will appear separately from the images created by ChatGPT and will be clearly labeled as advertisements. OpenAI says they won’t influence the model’s responses or the content it generates.\n\nThe first tests are expected to begin later this October in the US, with only a small group of advertisers taking part initially.\n\nIt marks another step toward turning ChatGPT into a larger commercial platform, while OpenAI tries to keep ads separate from the actual AI experience.\n\nSource.\n\n@aipost 🏴",
+    "entities": [
+      {
+        "offset": 0,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5397681122542893003"
+      },
+      {
+        "offset": 3,
+        "length": 35,
+        "type": "bold"
+      },
+      {
+        "offset": 658,
+        "length": 6,
+        "type": "text_link",
+        "url": "https://openai.com/index/new-chatgpt-ads-format-and-measurement"
+      },
+      {
+        "offset": 667,
+        "length": 7,
+        "type": "mention"
+      },
+      {
+        "offset": 675,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5431390559912614642"
+      }
+    ],
+    "media_group_id": null,
+    "chat_id": -1004468214616,
+    "message_ids": [
+      1069
+    ],
+    "update_ids": [
+      378304961
+    ],
+    "retry_count": 0
+  },
+  {
+    "type": "video",
+    "video_file_id": "BAACAgQAAyEFAAMBClOLWAACBC5qxrfWQ-0UUQ50jr1C-5wTkiGzywACTx8AAt4oGVJu176JtwZfyz0E",
+    "video_file_size": 5010682,
+    "caption": "😎 Sam Altman: the future of AI is a Renaissance, not an industrial revolution.\n\n\"People often talk about AI as an industrial revolution.\"\n\n\"The best part of AI is not about making people cogs in a machine.\"\n\n\"I believe the future, if we get this right, can be more like a Renaissance than an industrial revolution.\"\n\n\"AI should be about giving people more power in their lives.\"\n\n@aipost 🏴",
+    "entities": [
+      {
+        "offset": 0,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5289834369186299969"
+      },
+      {
+        "offset": 3,
+        "length": 76,
+        "type": "bold"
+      },
+      {
+        "offset": 81,
+        "length": 298,
+        "type": "blockquote"
+      },
+      {
+        "offset": 381,
+        "length": 7,
+        "type": "mention"
+      },
+      {
+        "offset": 389,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5431390559912614642"
+      }
+    ],
+    "media_group_id": null,
+    "chat_id": -1004468214616,
+    "message_ids": [
+      1070
+    ],
+    "update_ids": [
+      378304962
+    ],
+    "retry_count": 0
+  },
+  {
+    "type": "photo",
+    "photo_file_ids": [
+      "AgACAgQAAyEFAAMBClOLWAACBC9qxrfWju_BEJM0zrvk4P06pzxbiwACYA5rG94oGVItaPHViVqrIAEAAwIAA3kAAz0E"
+    ],
+    "caption": "Name a CEO that literally nobody hates.\n\n@aipost 🏴",
+    "entities": [
+      {
+        "offset": 41,
+        "length": 7,
+        "type": "mention"
+      },
+      {
+        "offset": 49,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5431390559912614642"
+      }
+    ],
+    "media_group_id": null,
+    "chat_id": -1004468214616,
+    "message_ids": [
+      1071
+    ],
+    "update_ids": [
+      378304963
+    ],
+    "retry_count": 0
+  },
+  {
+    "type": "photo",
+    "photo_file_ids": [
+      "AgACAgQAAyEFAAMBClOLWAACBDBqxrfWSw67UESmj54ypDsAAVZfoWEAAmIOaxveKBlSnhxXVRucGCQBAAMCAAN5AAM9BA"
+    ],
+    "caption": "⚠️ AI consciousness may finally be testable\n\nFor decades, AI consciousness was mostly a philosophical debate. There was no clear way to test whether a machine was actually experiencing anything.\n\nNow researchers have proposed MEM, Motivated Emotional Mind, a mathematical and architectural framework designed to make machine consciousness a falsifiable hypothesis.\n\nThe framework argues that language fluency, multimodality, memory, planning or even a humanoid body aren’t enough to establish consciousness.\n\nInstead, researchers should look for specific architectural and causal properties that can be experimentally tested and potentially disproven.\n\nThat could become crucial as AI systems become increasingly convincing and millions of people form emotional relationships with them.\n\nWe may soon have to answer a strange question: is there actually a mind behind the machine, or are we simply watching an incredibly convincing simulation?\n\nSource. \n\n@aipost 🏴",
+    "entities": [
+      {
+        "offset": 0,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5366332658760580843"
+      },
+      {
+        "offset": 3,
+        "length": 40,
+        "type": "bold"
+      },
+      {
+        "offset": 944,
+        "length": 8,
+        "type": "text_link",
+        "url": "https://arxiv.org/abs/2609.23828"
+      },
+      {
+        "offset": 954,
+        "length": 7,
+        "type": "mention"
+      },
+      {
+        "offset": 962,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5431390559912614642"
+      }
+    ],
+    "media_group_id": null,
+    "chat_id": -1004468214616,
+    "message_ids": [
+      1072
+    ],
+    "update_ids": [
+      378304964
+    ],
+    "retry_count": 0
+  },
+  {
+    "type": "video",
+    "video_file_id": "BAACAgQAAyEFAAMBClOLWAACBDFqxrfW4FEC1FS3_RCjIAVzg0lkZAACVR8AAt4oGVI0fseE5X88TD0E",
+    "video_file_size": 5625248,
+    "caption": "POV: You switched your LLM from Opus 5.5 to Haiku 4.5 to save tokens. 🤣\n\n@aipost 🏴",
+    "entities": [
+      {
+        "offset": 70,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5370712413005945913"
+      },
+      {
+        "offset": 74,
+        "length": 7,
+        "type": "mention"
+      },
+      {
+        "offset": 82,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5431390559912614642"
+      }
+    ],
+    "media_group_id": null,
+    "chat_id": -1004468214616,
+    "message_ids": [
+      1073
+    ],
+    "update_ids": [
+      378304965
+    ],
+    "retry_count": 0
+  },
+  {
+    "type": "photo",
+    "photo_file_ids": [
+      "AgACAgQAAyEFAAMBClOLWAACBDJqxrfWjzh93ga4qN0lj2qMZoxWFAACYw5rG94oGVL0qKiehZP8awEAAwIAA3kAAz0E"
+    ],
+    "caption": "🇺🇸 How long did it take to go from 2% to 50% adoption in the USA:\n\n• Cars: 15 years\n• Internet: 7.5 years\n• Computer: 19 years\n• Smartphone: 6.5 years\n• AI: just reached 2% today\n\n@aipost 🏴",
+    "entities": [
+      {
+        "offset": 0,
+        "length": 4,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5202021044105257611"
+      },
+      {
+        "offset": 4,
+        "length": 63,
+        "type": "bold"
+      },
+      {
+        "offset": 182,
+        "length": 7,
+        "type": "mention"
+      },
+      {
+        "offset": 190,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5431390559912614642"
+      }
+    ],
+    "media_group_id": null,
+    "chat_id": -1004468214616,
+    "message_ids": [
+      1074
+    ],
+    "update_ids": [
+      378304966
+    ],
+    "retry_count": 0
+  },
+  {
+    "type": "photo",
+    "photo_file_ids": [
+      "AgACAgQAAyEFAAMBClOLWAACBDNqxrfWzZllwddgnUdbmByGGYclzQACfw5rG94oGVJplyJJHZ8OaQEAAwIAA3cAAz0E"
+    ],
+    "caption": "❗️She treated Claude like a diary. Then it called the cops.\n\nA Florida woman allegedly used Anthropic’s Claude as a personal diary. Then one of her entries triggered the chatbot’s safety systems.\n\nAccording to the arrest report, Carli Michelle Heller allegedly wrote that she would “shoot up” the Lee County Sheriff’s Office. A later message allegedly mentioned getting a new gun.\n\nClaude flagged the conversation, which was escalated to a human reviewer. The reviewer determined it was a credible threat and contacted law enforcement. Heller was later detained at home and charged with making a written threat of violence.\n\nThe case highlights an uncomfortable reality of AI chatbots: your conversations may feel private, but serious threats can trigger human review and disclosure to authorities in emergency situations.\n\nSource.\n\n@aipost 🏴",
+    "entities": [
+      {
+        "offset": 0,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5289761612440310918"
+      },
+      {
+        "offset": 2,
+        "length": 57,
+        "type": "bold"
+      },
+      {
+        "offset": 824,
+        "length": 6,
+        "type": "text_link",
+        "url": "https://www.techspot.com/news/114091-florida-woman-used-claude-diary-anthropic-reported-shoot.html#google_vignette"
+      },
+      {
+        "offset": 833,
+        "length": 7,
+        "type": "mention"
+      },
+      {
+        "offset": 841,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5431390559912614642"
+      }
+    ],
+    "media_group_id": null,
+    "chat_id": -1004468214616,
+    "message_ids": [
+      1075
+    ],
+    "update_ids": [
+      378304967
+    ],
+    "retry_count": 0
+  },
+  {
+    "type": "photo",
+    "photo_file_ids": [
+      "AgACAgQAAyEFAAMBClOLWAACBDRqxrfWeSBwEWSeu4lYJznoHUKvpgACeA5rG94oGVL2ppdV3R63tQEAAwIAA3kAAz0E"
+    ],
+    "caption": "📊 AI-related employment is surging:\n\nAI-linked roles have accounted for more than +750,000 new jobs created in the US since 2023, according to LinkedIn estimates.\n\nThis surge has been led by data annotators, with +282,000 new positions created, followed by data center jobs at +117,000, and AI engineers at +105,000.\n\nAs a result, these 3 categories have accounted for +504,000 new jobs.\n\nAI-related positions also offer significantly higher pay, with a median salary of $180,000 on LinkedIn, compared to $80,000 across all jobs.\n\nThis comes as the rapid expansion of AI infrastructure, particularly the buildout of data centers, is driving stronger demand for labor.\n\nThe AI boom is reshaping the US job market.\n\n@aipost 🏴",
+    "entities": [
+      {
+        "offset": 0,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5289720732941587857"
+      },
+      {
+        "offset": 3,
+        "length": 33,
+        "type": "bold"
+      },
+      {
+        "offset": 670,
+        "length": 43,
+        "type": "bold"
+      },
+      {
+        "offset": 715,
+        "length": 7,
+        "type": "mention"
+      },
+      {
+        "offset": 722,
+        "length": 1,
+        "type": "bold"
+      },
+      {
+        "offset": 723,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5431390559912614642"
+      }
+    ],
+    "media_group_id": null,
+    "chat_id": -1004468214616,
+    "message_ids": [
+      1076
+    ],
+    "update_ids": [
+      378304968
+    ],
+    "retry_count": 0
+  },
+  {
+    "type": "photo",
+    "photo_file_ids": [
+      "AgACAgQAAyEFAAMBClOLWAACBDVqxrfWg38mGNTiPbCtxXPYH5yHTgACew5rG94oGVJufbbmlnqXXwEAAwIAA3cAAz0E"
+    ],
+    "caption": "🤣🤣\n\n@aipost 🏴",
+    "entities": [
+      {
+        "offset": 0,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5370712413005945913"
+      },
+      {
+        "offset": 2,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5370712413005945913"
+      },
+      {
+        "offset": 6,
+        "length": 7,
+        "type": "mention"
+      },
+      {
+        "offset": 6,
+        "length": 7,
+        "type": "underline"
+      },
+      {
+        "offset": 13,
+        "length": 1,
+        "type": "bold"
+      },
+      {
+        "offset": 14,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5431390559912614642"
+      }
+    ],
+    "media_group_id": null,
+    "chat_id": -1004468214616,
+    "message_ids": [
+      1077
+    ],
+    "update_ids": [
+      378304969
+    ],
+    "retry_count": 0
+  },
+  {
+    "type": "album",
+    "photo_file_ids": [
+      "AgACAgQAAyEFAAMBClOLWAACBDZqxrfWFO9NZ6zEqCsJUPzTd5RnpQACFg9rG94oIVL5N8iY-YoVeAEAAwIAA3gAAz0E",
+      "AgACAgQAAyEFAAMBClOLWAACBDdqxrfWivteb2wjRC7rZkC3pH6bWQACFw9rG94oIVJ99HJFRyc2OQEAAwIAA3gAAz0E",
+      "AgACAgQAAyEFAAMBClOLWAACBDhqxrfWdrd5FfmWs_zjCblHNv1jOwACGA9rG94oIVLu05EZ88Ac7gEAAwIAA3gAAz0E"
+    ],
+    "caption": "🥺 Sam Altman says OpenAI is willing to let some things go wrong\n\nSam Altman is offering an unusually blunt look at how OpenAI is thinking about AI risk and the trade-offs are becoming harder to hide.\n\nAltman says OpenAI is willing to accept “some things going wrong” rather than allow enormous AI capabilities to become concentrated in a handful of companies, people or countries. He specifically points to open-source models, while warning that they could trigger “a coming tidal wave of cybersecurity problems.”\n\nOn President Trump’s new AI accord, Altman says it currently has “no real power” and argues that more governance will eventually be needed. His dividing line is clear: ordinary failures can be tolerated, but losing meaningful human control over AI cannot.\n\nThat philosophy also puts an enormous amount of judgment on OpenAI itself. Altman admits: “I’m going to make many individual decisions that you’re clearly not going to like.”\n\nHis response to critics? “Come try making them all; they’re not so easy.”\n\nAnd OpenAI is already making those calls. Altman says Astra 6.1 was “ready to go,” but the version they had prepared would have “tipped too much towards the accident risk.” OpenAI therefore delayed it, choosing to work toward a version it believes can be distributed more broadly with greater confidence in its alignment.\n\n@aipost 🏴",
+    "entities": [
+      {
+        "offset": 0,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5291894093767542370"
+      },
+      {
+        "offset": 3,
+        "length": 61,
+        "type": "bold"
+      },
+      {
+        "offset": 1347,
+        "length": 7,
+        "type": "mention"
+      },
+      {
+        "offset": 1355,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5431390559912614642"
+      }
+    ],
+    "media_group_id": "14331264693774533",
+    "chat_id": -1004468214616,
+    "message_ids": [
+      1078,
+      1079,
+      1080
+    ],
+    "update_ids": [
+      378304970,
+      378304971,
+      378304972
+    ],
+    "retry_count": 0
+  },
+  {
+    "type": "photo",
+    "photo_file_ids": [
+      "AgACAgQAAyEFAAMBClOLWAACBDlqxrfW7EVY4zgW0HBqd8H4g6MIqwACzQ9rG94oIVK-oXEaJYrILwEAAwIAA3cAAz0E"
+    ],
+    "caption": "💰 The top 1% of AI spenders now outspend the bottom 50% combined\n\nThey spend an average of $903/month, while the median customer spends just $25.\n\n@aipost 🏴",
+    "entities": [
+      {
+        "offset": 0,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5289964193162759223"
+      },
+      {
+        "offset": 148,
+        "length": 7,
+        "type": "mention"
+      },
+      {
+        "offset": 156,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5431390559912614642"
+      }
+    ],
+    "media_group_id": null,
+    "chat_id": -1004468214616,
+    "message_ids": [
+      1081
+    ],
+    "update_ids": [
+      378304973
+    ],
+    "retry_count": 0
+  },
+  {
+    "type": "video",
+    "video_file_id": "BAACAgQAAyEFAAMBClOLWAACBDpqxrfWjI16huSIYOQFEP8jyysrlAAC2x4AAt4oIVJZIoiBD6Okkz0E",
+    "video_file_size": 10770960,
+    "caption": "❗️AI could make you guilty on video\n\nSundar Pichai warned about a disturbing possibility: someone could use AI to create a convincing video of you saying something you never said.\n\nYour face. Your voice. A fake confession.\n\nThen they send it to your boss, your family or your friends and demand money to make it disappear.\n\nWe’ve already seen scammers use fake versions of famous people to push crypto scams. Now imagine that same technology being used against an ordinary person.\n\nYou say the video is fake.\n\nThey say you’re lying.\n\nAnd everyone watching has “proof.”\n\nThe terrifying part isn’t that AI wants to frame you. It’s that someone else can use your identity as a weapon.\n\nIf seeing is no longer believing, how do you prove you didn’t do something that never happened?\n\n@aipost 🏴",
+    "entities": [
+      {
+        "offset": 0,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5289761612440310918"
+      },
+      {
+        "offset": 2,
+        "length": 33,
+        "type": "bold"
+      },
+      {
+        "offset": 780,
+        "length": 7,
+        "type": "mention"
+      },
+      {
+        "offset": 788,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5431390559912614642"
+      }
+    ],
+    "media_group_id": null,
+    "chat_id": -1004468214616,
+    "message_ids": [
+      1082
+    ],
+    "update_ids": [
+      378304974
+    ],
+    "retry_count": 0
+  },
+  {
+    "type": "photo",
+    "photo_file_ids": [
+      "AgACAgQAAyEFAAMBClOLWAACBDtqxrfWhK6MhwABlTxxHoz22vHRH28AAtAPaxveKCFSjFCEJVdQysgBAAMCAAN4AAM9BA"
+    ],
+    "caption": "🤖 ChatGPT may start changing how it writes in the EU\n\nOpenAI is reportedly preparing invisible text watermarks for ChatGPT and Codex outputs in the EU, with the pattern embedded directly into the wording.\n\nThe reason is the EU AI Act, which is pushing AI-generated content toward being identifiable.\n\nOpenAI says its testing found no meaningful impact on quality. But there’s a bigger issue: detection requirements could start influencing how an AI actually phrases your text.\n\nAnd the watermark isn’t particularly robust.\n\nIn one test using 400-token passages, changing just 25% of the words to synonyms reportedly reduced detection from around 92% to 17%.\n\nThere’s another problem:m, it can’t tell how much of the text came from a human.\n\nYou could write something yourself, ask ChatGPT to edit it, and the final version could still carry the watermark.\n\nSource.\n\n@aipost 🏴",
+    "entities": [
+      {
+        "offset": 0,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5397681122542893003"
+      },
+      {
+        "offset": 3,
+        "length": 50,
+        "type": "bold"
+      },
+      {
+        "offset": 858,
+        "length": 6,
+        "type": "text_link",
+        "url": "https://openai.com/index/eu-text-provenance/"
+      },
+      {
+        "offset": 867,
+        "length": 7,
+        "type": "mention"
+      },
+      {
+        "offset": 875,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5431390559912614642"
+      }
+    ],
+    "media_group_id": null,
+    "chat_id": -1004468214616,
+    "message_ids": [
+      1083
+    ],
+    "update_ids": [
+      378304975
+    ],
+    "retry_count": 0
+  },
+  {
+    "type": "photo",
+    "photo_file_ids": [
+      "AgACAgQAAyEFAAMBClOLWAACBDxqxrfW7BYvRK8_vtrESfCsy2nJEQAC0w9rG94oIVLPhAKBuc19QAEAAwIAA3gAAz0E"
+    ],
+    "caption": "📢 Your voice could become a trademark\n\nLaw firms may soon be selling “identity portfolios” that protect a person’s face, voice and signature phrases, much like companies protect their brands.\n\nItaly’s Prime Minister Giorgia Meloni has just taken a step in that direction. She filed an application with the EU Intellectual Property Office to register her voice as a sound mark, using a four-second recording of herself saying “Io sono Giorgia Meloni.” The application is still under examination.\n\nThe goal is to give her another legal tool against AI-generated voice clones and deepfakes. Meloni has already been targeted by manipulated content, including fake material and misleading uses of her voice.\n\nIf this approach catches on, protecting your identity could start looking a lot like protecting a corporate brand.\n\nYour face. Your voice. Your catchphrases.\n\nAll potentially becoming intellectual property in the fight against AI impersonation.\n\nSource.\n\n@aipost 🏴",
+    "entities": [
+      {
+        "offset": 0,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5289992252184100112"
+      },
+      {
+        "offset": 3,
+        "length": 35,
+        "type": "bold"
+      },
+      {
+        "offset": 951,
+        "length": 6,
+        "type": "text_link",
+        "url": "https://www.globalbankingandfinance.com/italy-pm-meloni-seeks-eu-trademark-her-voice-amid-ai/"
+      },
+      {
+        "offset": 960,
+        "length": 7,
+        "type": "mention"
+      },
+      {
+        "offset": 968,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5431390559912614642"
+      }
+    ],
+    "media_group_id": null,
+    "chat_id": -1004468214616,
+    "message_ids": [
+      1084
+    ],
+    "update_ids": [
+      378304976
+    ],
+    "retry_count": 0
+  },
+  {
+    "type": "video",
+    "video_file_id": "BAACAgQAAyEFAAMBClOLWAACBD1qxrfWp8zUEmfsVwUfeT0s74qdiQACcSEAAmDAKVIiKev1uVPk7T0E",
+    "video_file_size": 11645094,
+    "caption": "Not one AI giant says yes when asked if it's insured against catastrophic risk.\n\nOpenAI, Anthropic, Google and Meta representatives went silent when NYC Council Speaker Julie Menin asked them to raise their hands if they had that insurance.\n\n@aipost 🏴",
+    "entities": [
+      {
+        "offset": 242,
+        "length": 7,
+        "type": "mention"
+      },
+      {
+        "offset": 250,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5431390559912614642"
+      }
+    ],
+    "media_group_id": null,
+    "chat_id": -1004468214616,
+    "message_ids": [
+      1085
+    ],
+    "update_ids": [
+      378304977
+    ],
+    "retry_count": 0
+  },
+  {
+    "type": "album",
+    "photo_file_ids": [
+      "AgACAgQAAyEFAAMBClOLWAACBD5qxrfWE9cfa0wwrXGlOsS7OeipdAACXg5rG2DAKVKd0byp24OTuAEAAwIAA3gAAz0E",
+      "AgACAgQAAyEFAAMBClOLWAACBD9qxrfWPaG_Ze9EPiYDVaXus3UjzQACXw5rG2DAKVIYadRskIXgbAEAAwIAA3kAAz0E",
+      "AgACAgQAAyEFAAMBClOLWAACBEBqxrfWSWa2VR9Ikfx1deRyDJHoZQACYA5rG2DAKVI51KvCaxz3ogEAAwIAA3kAAz0E"
+    ],
+    "caption": "❗️Microsoft and META are aggressively cutting employee use of Claude ahead of Anthropic's IPO\n\nMicrosoft has cut internal claude spend by more than 33%, nuked per-employee token budget from $100k/month to $10k/month, and forced Copilot to auto-route to cheaper models\n\nMETA used Claude code to build Muse, then cut active users from 60,000 to 30,000 (50% decline) after launch, and replaced it with Muse Code \n\nPalantir and Nvidia are also scaling back claude over soaring prices and data privacy fears.\n\n@aipost 🏴",
+    "entities": [
+      {
+        "offset": 0,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5289761612440310918"
+      },
+      {
+        "offset": 2,
+        "length": 91,
+        "type": "bold"
+      },
+      {
+        "offset": 505,
+        "length": 7,
+        "type": "mention"
+      },
+      {
+        "offset": 513,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5431390559912614642"
+      }
+    ],
+    "media_group_id": "14331264693774581",
+    "chat_id": -1004468214616,
+    "message_ids": [
+      1086,
+      1087,
+      1088
+    ],
+    "update_ids": [
+      378304978,
+      378304979,
+      378304980
+    ],
+    "retry_count": 0
+  },
+  {
+    "type": "video",
+    "video_file_id": "BAACAgQAAyEFAAMBClOLWAACBEFqxrfWx2TjkTSyN_mlzmCUefVXtgAC6yEAAmDAKVK7cknE57iFLD0E",
+    "video_file_size": 5455374,
+    "caption": "❗️Mistral drops a 1T-parameter “Le Chonk”\n\nMistral AI has unveiled Mistral Large 4, internally nicknamed “Le Chonk”, a 1 trillion-parameter natively multimodal model with just 49B parameters active at a time.\n\nMistral says it is currently the best open-weights model from the US or Europe across aggregated benchmarks, while reaching state-of-the-art performance in areas including cybersecurity, manufacturing and finance. It also reportedly surpasses closed frontier models on visual grounding.\n\nThe model was developed end-to-end in Europe and runs on Mistral’s own European cloud infrastructure. API access is available today, while the open-weights release is planned for the end of October.\n\nMistral is also working privately with cybersecurity partners on the model.\n\nSource.\n\n@aipost 🏴",
+    "entities": [
+      {
+        "offset": 0,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5289761612440310918"
+      },
+      {
+        "offset": 2,
+        "length": 39,
+        "type": "bold"
+      },
+      {
+        "offset": 775,
+        "length": 6,
+        "type": "text_link",
+        "url": "https://mistral.ai/news/mistral-large-4/"
+      },
+      {
+        "offset": 784,
+        "length": 7,
+        "type": "mention"
+      },
+      {
+        "offset": 792,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5431390559912614642"
+      }
+    ],
+    "media_group_id": null,
+    "chat_id": -1004468214616,
+    "message_ids": [
+      1089
+    ],
+    "update_ids": [
+      378304981
+    ],
+    "retry_count": 0
+  },
+  {
+    "type": "video",
+    "video_file_id": "BAACAgQAAyEFAAMBClOLWAACBEJqxrfWmA19YrDV2Fb3b9w895kUZAAC8SEAAmDAKVLjLicdw1OCXj0E",
+    "video_file_size": 11070282,
+    "caption": "🥺 Sam Altman: The world isn’t ready for the humanoid robot moment.\n\n“I don’t think that’s very far away.”\n\n“There’s gonna be a visceral moment of, ‘oh man, this is gonna do a lot of things people used to do.’”\n\n“They’ll obviously do a lot of jobs.”\n\n“The first day you’re walking down the street and seven robots walk past you doing things, it’s gonna feel very sci-fi.”\n\n@aipost 🏴",
+    "entities": [
+      {
+        "offset": 0,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5291894093767542370"
+      },
+      {
+        "offset": 3,
+        "length": 64,
+        "type": "bold"
+      },
+      {
+        "offset": 69,
+        "length": 302,
+        "type": "blockquote"
+      },
+      {
+        "offset": 373,
+        "length": 7,
+        "type": "mention"
+      },
+      {
+        "offset": 381,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5431390559912614642"
+      }
+    ],
+    "media_group_id": null,
+    "chat_id": -1004468214616,
+    "message_ids": [
+      1090
+    ],
+    "update_ids": [
+      378304982
+    ],
+    "retry_count": 0
+  },
+  {
+    "type": "photo",
+    "photo_file_ids": [
+      "AgACAgQAAyEFAAMBClOLWAACBENqxrfWe1Vm2PrZ-tNENO8TxcgvvAACwg5rG2DAMVIt3xHTjxVp2gEAAwIAA3cAAz0E"
+    ],
+    "caption": "Once you see it, you can’t unsee it.\n\n@aipost 🏴",
+    "entities": [
+      {
+        "offset": 38,
+        "length": 7,
+        "type": "mention"
+      },
+      {
+        "offset": 46,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5431390559912614642"
+      }
+    ],
+    "media_group_id": null,
+    "chat_id": -1004468214616,
+    "message_ids": [
+      1091
+    ],
+    "update_ids": [
+      378304983
+    ],
+    "retry_count": 0
+  },
+  {
+    "type": "photo",
+    "photo_file_ids": [
+      "AgACAgQAAyEFAAMBClOLWAACBERqxrfWkYIfndNAoxivZBFfUpgZjQACxw5rG2DAMVL2HFXlwZTRdgEAAwIAA3cAAz0E"
+    ],
+    "caption": "Which tasks do people actually want AI agents to do? 🤔\n\n@aipost 🏴",
+    "entities": [
+      {
+        "offset": 53,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5370724846936267183"
+      },
+      {
+        "offset": 57,
+        "length": 7,
+        "type": "mention"
+      },
+      {
+        "offset": 65,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5431390559912614642"
+      }
+    ],
+    "media_group_id": null,
+    "chat_id": -1004468214616,
+    "message_ids": [
+      1092
+    ],
+    "update_ids": [
+      378304984
+    ],
+    "retry_count": 0
+  },
+  {
+    "type": "album",
+    "photo_file_ids": [
+      "AgACAgQAAyEFAAMBClOLWAACBEVqxrfW-Bj5ssy9bPJWloqpUb9uIQAC1Q5rG2DAMVI9ozwrI1eo2gEAAwIAA3kAAz0E",
+      "AgACAgQAAyEFAAMBClOLWAACBEZqxrfW9qzotJlGWcby6ZvRhf8SDwAC1g5rG2DAMVJqJeJ6eEdR8gEAAwIAA3kAAz0E"
+    ],
+    "caption": "Parents are using AI to create school portraits of their children instead of paying for photographers.\n\nOthers are using it to remove watermarks from professional photos, risking fines up to $150,000.\n\n@aipost 🏴",
+    "entities": [
+      {
+        "offset": 202,
+        "length": 7,
+        "type": "mention"
+      },
+      {
+        "offset": 210,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5431390559912614642"
+      }
+    ],
+    "media_group_id": "14331264693774621",
+    "chat_id": -1004468214616,
+    "message_ids": [
+      1093,
+      1094
+    ],
+    "update_ids": [
+      378304985,
+      378304986
+    ],
+    "retry_count": 0
+  },
+  {
+    "type": "video",
+    "video_file_id": "BAACAgQAAyEFAAMBClOLWAACBEdqxrfWZuGTWmGOw4uQswZ_uIvi7AACnB4AAmDAOVJjfNb57ZXDAj0E",
+    "video_file_size": 1336111,
+    "caption": "🤖 Anthropic launches Claude Haiku 5.5\n\nAnthropic has released Claude Haiku 5.5, calling it the fastest, cheapest and most capable small model it has built.\n\nHaiku 5.5 costs around 75% less to run than Haiku 4.5 while delivering major improvements in coding, computer use and knowledge work. It’s designed for high-volume tasks like summaries, classification, customer support and browser use, and can work as a subagent alongside Opus 5.5 and Sonnet 5.5.\n\nIt’s also the first Haiku with adjustable effort, letting developers choose between lower cost and higher intelligence. Anthropic says around 90% of previous Haiku requests were under 100,000 tokens, where the new model offers particularly strong value.\n\nAnthropic is also cutting Sonnet 5.5 cache-read prices by 50%, to just $0.10 per million tokens.\n\nSource.\n\n@aipost 🏴",
+    "entities": [
+      {
+        "offset": 0,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5208665212483310136"
+      },
+      {
+        "offset": 3,
+        "length": 35,
+        "type": "bold"
+      },
+      {
+        "offset": 810,
+        "length": 6,
+        "type": "text_link",
+        "url": "https://www.anthropic.com/claude-haiku-5-5"
+      },
+      {
+        "offset": 819,
+        "length": 7,
+        "type": "mention"
+      },
+      {
+        "offset": 827,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5431390559912614642"
+      }
+    ],
+    "media_group_id": null,
+    "chat_id": -1004468214616,
+    "message_ids": [
+      1095
+    ],
+    "update_ids": [
+      378304987
     ],
     "retry_count": 0
   }
