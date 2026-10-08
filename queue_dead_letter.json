@@ -5791,5 +5791,84 @@
       378304849
     ],
     "retry_count": 0
+  },
+  {
+    "type": "video",
+    "video_file_id": "BAACAgIAAyEFAAMBClOLWAACA8pqvMkpSLz0ubjBY6s-avjG5cOVhAACUqcAAl064EkJwn6lCJQjaD0E",
+    "video_file_size": 26758190,
+    "caption": "🤖 OpenAI Shows Dots Agents\n\nBuilt on GPT-6 Astra, Dots take on work tasks in the background and notify users on a PC or smartphone when they are ready.\n\nUsers can give an agent a unique name and connect it to software, including calendars and messaging apps. Dots will appear inside ChatGPT, with one agent first and full teams later.\n\nSoon, users will also be able to talk to them in messengers and by phone.\n\n📊@tech",
+    "entities": [
+      {
+        "offset": 0,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5397681122542893003"
+      },
+      {
+        "offset": 3,
+        "length": 24,
+        "type": "bold"
+      },
+      {
+        "offset": 38,
+        "length": 11,
+        "type": "bold"
+      },
+      {
+        "offset": 56,
+        "length": 36,
+        "type": "bold"
+      },
+      {
+        "offset": 180,
+        "length": 11,
+        "type": "bold"
+      },
+      {
+        "offset": 277,
+        "length": 14,
+        "type": "bold"
+      },
+      {
+        "offset": 318,
+        "length": 16,
+        "type": "bold"
+      },
+      {
+        "offset": 386,
+        "length": 23,
+        "type": "bold"
+      },
+      {
+        "offset": 412,
+        "length": 2,
+        "type": "bold"
+      },
+      {
+        "offset": 412,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5449841756596101801"
+      },
+      {
+        "offset": 414,
+        "length": 5,
+        "type": "mention"
+      },
+      {
+        "offset": 414,
+        "length": 5,
+        "type": "bold"
+      }
+    ],
+    "media_group_id": null,
+    "chat_id": -1004468214616,
+    "message_ids": [
+      970
+    ],
+    "update_ids": [
+      378304862
+    ],
+    "retry_count": 0
   }
 ]
