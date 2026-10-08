@@ -5870,5 +5870,49 @@
       378304862
     ],
     "retry_count": 0
+  },
+  {
+    "type": "video",
+    "video_file_id": "BAACAgQAAyEFAAMBClOLWAACA9NqvNB6WoQ7l1sAATt4RqNgcFrNnbAAAl4eAAI8rthR02p7jLdy33M9BA",
+    "video_file_size": 21944443,
+    "caption": "❗️Bill Gates proposes reserving some jobs for humans, even if AI and robots can do them. His example: childcare.\n\n\"I put forward a concept that I haven't seen anywhere before, that we should have some job categories that are human reserved.\"\n\n\"That is, even if the AI, with or without robots, can do child care, should we not allow that?\"\n\n\"And there's a lot of things that would be good, either where you're allowing the people in that profession to continue to be paid until retirement...\"\n\n\"...in terms of human uniqueness and humans engaging with each other, and just the incredible value of jobs that go way beyond the economics, to not have this  disruption.\"\n\n@aipost 🏴",
+    "entities": [
+      {
+        "offset": 0,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5289761612440310918"
+      },
+      {
+        "offset": 2,
+        "length": 110,
+        "type": "bold"
+      },
+      {
+        "offset": 114,
+        "length": 551,
+        "type": "blockquote"
+      },
+      {
+        "offset": 667,
+        "length": 7,
+        "type": "mention"
+      },
+      {
+        "offset": 675,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5431390559912614642"
+      }
+    ],
+    "media_group_id": null,
+    "chat_id": -1004468214616,
+    "message_ids": [
+      979
+    ],
+    "update_ids": [
+      378304871
+    ],
+    "retry_count": 0
   }
 ]
