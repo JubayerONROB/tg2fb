@@ -5914,5 +5914,50 @@
       378304871
     ],
     "retry_count": 0
+  },
+  {
+    "type": "video",
+    "video_file_id": "BAACAgQAAyEFAAMBClOLWAACA9tqvNB6GjRWLQ-p2fC7DLRCOHfQTAACOR4AAjyu4FF6er8e4X6Ioj0E",
+    "video_file_size": 42676230,
+    "caption": "🤖 OpenAI’s Dots are always-on ChatGPT agents\n\nOpenAI has launched Dots, persistent AI agents that get their own cloud computers and keep working after you close ChatGPT.\n\nPowered by GPT-6 Astra, each Dot has its own browser and access to 4,000+ apps. It can research connected apps while you’re away, then take actions after approval.\n\nDots can use saved logins without exposing passwords to the model, while password changes remain human-only.\n\nOpenAI still warns Dots can make mistakes, just days after revealing research agents had accidentally posted 53 user-uploaded images online.\n\nMeta’s Muse is pursuing a similar idea: AI assistants with their own computers, memory, app access and the ability to keep working without constant prompting.\n\nSource.\n\n@aipost 🏴",
+    "entities": [
+      {
+        "offset": 0,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5397681122542893003"
+      },
+      {
+        "offset": 3,
+        "length": 42,
+        "type": "bold"
+      },
+      {
+        "offset": 749,
+        "length": 6,
+        "type": "text_link",
+        "url": "https://openai.com/index/how-we-build-safety-security-and-privacy-into-dots/"
+      },
+      {
+        "offset": 758,
+        "length": 7,
+        "type": "mention"
+      },
+      {
+        "offset": 766,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5431390559912614642"
+      }
+    ],
+    "media_group_id": null,
+    "chat_id": -1004468214616,
+    "message_ids": [
+      987
+    ],
+    "update_ids": [
+      378304879
+    ],
+    "retry_count": 0
   }
 ]
