@@ -1,239 +1,5 @@
 [
   {
-    "type": "photo",
-    "photo_file_ids": [
-      "AgACAgQAAyEFAAMBClOLWAACA-dqvgABt9i5VxHaxoqKmxA6bxcsNeUAAmwQaxvePOhR0TygU1F_ZrYBAAMCAAN4AAM9BA"
-    ],
-    "caption": "🔍 Google unveils Gemini 4 Argon\n\nGoogle has introduced Gemini 4 Argon, a new frontier model designed for complex coding, enterprise knowledge work, and cybersecurity tasks.\n\nArgon supports up to 1 million tokens of output, giving it room to reason through long, multi-step problems in a single run.\n\nIt’s initially rolling out to trusted testers through Google’s Fairwind Program, with a broader release for developers, enterprises, and consumers planned later.\n\nSource.\n\n@aipost 🏴",
-    "entities": [
-      {
-        "offset": 0,
-        "length": 2,
-        "type": "custom_emoji",
-        "custom_emoji_id": "5431644246450908867"
-      },
-      {
-        "offset": 3,
-        "length": 29,
-        "type": "bold"
-      },
-      {
-        "offset": 464,
-        "length": 6,
-        "type": "text_link",
-        "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-4-argon/?utm_source=x&utm_medium=social&utm_campaign=&utm_content="
-      },
-      {
-        "offset": 473,
-        "length": 7,
-        "type": "mention"
-      },
-      {
-        "offset": 481,
-        "length": 2,
-        "type": "custom_emoji",
-        "custom_emoji_id": "5431390559912614642"
-      }
-    ],
-    "media_group_id": null,
-    "chat_id": -1004468214616,
-    "message_ids": [
-      999
-    ],
-    "update_ids": [
-      378304891
-    ],
-    "retry_count": 0
-  },
-  {
-    "type": "album",
-    "photo_file_ids": [
-      "AgACAgIAAyEFAAMBClOLWAACA-hqvgABtxlO_45m1HQXAS-AYcP5hjgAAlYgaxuu6OhJvmUXp0hAZWcBAAMCAAN4AAM9BA",
-      "AgACAgIAAyEFAAMBClOLWAACA-lqvgABt52ZV_5uiluHsX3bO8Yt69wAAlcgaxuu6OhJDRDH3YDis1sBAAMCAAN4AAM9BA"
-    ],
-    "caption": "The New York Times published a piece saying that Anthropic has been quietly bringing in Catholic, Jewish, Sikh, evangelical, and other religious thinkers from around the world to help give its AI a moral compass.\n\n📰 @aipost",
-    "entities": [
-      {
-        "offset": 214,
-        "length": 2,
-        "type": "custom_emoji",
-        "custom_emoji_id": "5363988332466438547"
-      },
-      {
-        "offset": 217,
-        "length": 7,
-        "type": "mention"
-      }
-    ],
-    "media_group_id": "14326695354810621",
-    "chat_id": -1004468214616,
-    "message_ids": [
-      1000,
-      1001
-    ],
-    "update_ids": [
-      378304892,
-      378304893
-    ],
-    "retry_count": 0
-  },
-  {
-    "type": "photo",
-    "photo_file_ids": [
-      "AgACAgQAAyEFAAMBClOLWAACA-pqvgABt2i6bF5y6XvsqfQ0V7fThw4AAoIPaxvePOhRD3FxJcUCBOoBAAMCAAN5AAM9BA"
-    ],
-    "caption": "🧠 AI agents could disrupt the subscription economy\n\nA surprising amount of subscription revenue may come from something very simple: people forgetting to cancel.\n\nStanford research suggests around 50% of subscription revenue comes from customers who don’t actively cancel. People are also about 4× more likely to cancel when they’re prompted to make an active decision.\n\nAI agents don’t forget.\n\nAgents like Muse, Instinct, and Grok Bot can already scan accounts, find subscriptions you’ve stopped using, and bring them back to your attention.\n\nWhen personal AI agents are running on everyone’s phone, “forgot to cancel” could become a much smaller source of revenue and subscription businesses may have to rethink how they retain customers.\n\n@aipost 🏴",
-    "entities": [
-      {
-        "offset": 0,
-        "length": 2,
-        "type": "custom_emoji",
-        "custom_emoji_id": "5237889595894414384"
-      },
-      {
-        "offset": 3,
-        "length": 48,
-        "type": "bold"
-      },
-      {
-        "offset": 744,
-        "length": 7,
-        "type": "mention"
-      },
-      {
-        "offset": 752,
-        "length": 2,
-        "type": "custom_emoji",
-        "custom_emoji_id": "5431390559912614642"
-      }
-    ],
-    "media_group_id": null,
-    "chat_id": -1004468214616,
-    "message_ids": [
-      1002
-    ],
-    "update_ids": [
-      378304894
-    ],
-    "retry_count": 0
-  },
-  {
-    "type": "photo",
-    "photo_file_ids": [
-      "AgACAgQAAyEFAAMBClOLWAACA-tqvgABt_KeJaefZIvekQeg7qANdG0AAvoOaxvePPBRjXLkkTNxYn4BAAMCAAN5AAM9BA"
-    ],
-    "caption": "Why Trump is calling AI “Super Intelligence” 👀\n\nTrump just ordered the U.S. government to stop using “Artificial Intelligence” and “AI” in most official documents and replace them with “Super Intelligence” and “SI.”\n\nThe White House says the terminology reflects how far frontier systems have advanced beyond simply “imitating” human intelligence. But the legal implications could be more interesting.\n\nThe U.S. already has a growing patchwork of state AI regulations. So could a new federal definition of “Super Intelligence” eventually become part of the battle over which rules apply?\n\nThe executive order does NOT currently exempt SI companies from state AI laws. In fact, for now, it explicitly defines “Super Intelligence” using the existing federal statutory definition of artificial intelligence.\n\nHowever, the order also tells the administration to propose a new federal definition of SI within 60 days, including whether it should modify or replace the existing definition.\n\nTrump is essentially asking Washington to create a new vocabulary and potentially a new legal framework around frontier AI.\n\nThen there’s the White House’s voluntary AI accord, which Trump has described as “a form of protection.”\n\nSupporters can frame that as companies voluntarily agreeing to stronger safety standards. Critics could see it as an attempt to establish industry-friendly federal standards before states impose their own.\n\nEither way, the terminology is only the beginning.\n\nIf “AI” becomes “Super Intelligence” in federal policy, the bigger fight may be over what that new category actually means and which laws get to regulate it.\n\nSource.\n\n@aipost 🏴",
-    "entities": [
-      {
-        "offset": 0,
-        "length": 45,
-        "type": "bold"
-      },
-      {
-        "offset": 45,
-        "length": 2,
-        "type": "custom_emoji",
-        "custom_emoji_id": "5357121491508928442"
-      },
-      {
-        "offset": 1635,
-        "length": 6,
-        "type": "text_link",
-        "url": "https://www.nextgov.com/artificial-intelligence/2026/09/super-intelligence-presidents-new-term-ai-explained/416164/"
-      },
-      {
-        "offset": 1644,
-        "length": 7,
-        "type": "mention"
-      },
-      {
-        "offset": 1652,
-        "length": 2,
-        "type": "custom_emoji",
-        "custom_emoji_id": "5431390559912614642"
-      }
-    ],
-    "media_group_id": null,
-    "chat_id": -1004468214616,
-    "message_ids": [
-      1003
-    ],
-    "update_ids": [
-      378304895
-    ],
-    "retry_count": 0
-  },
-  {
-    "type": "photo",
-    "photo_file_ids": [
-      "AgACAgIAAyEFAAMBClOLWAACA-xqvhSZPR2j9wEF11jXSy-vxaSI8wACYyBrGxQo4En9debFKghG4wEAAwIAA3kAAz0E"
-    ],
-    "caption": "🤖 ChatGPT adds a $500 tier\n\nThe plan gives 25x the limits of Plus and unlocks Astra’s Ultrafast mode, which runs 8x faster.\n\nJust before that, OpenAI quietly halved limits on the $200 plan.\n\n📊@tech",
-    "entities": [
-      {
-        "offset": 0,
-        "length": 2,
-        "type": "custom_emoji",
-        "custom_emoji_id": "5397681122542893003"
-      },
-      {
-        "offset": 3,
-        "length": 24,
-        "type": "bold"
-      },
-      {
-        "offset": 44,
-        "length": 22,
-        "type": "bold"
-      },
-      {
-        "offset": 79,
-        "length": 22,
-        "type": "bold"
-      },
-      {
-        "offset": 114,
-        "length": 9,
-        "type": "bold"
-      },
-      {
-        "offset": 180,
-        "length": 9,
-        "type": "bold"
-      },
-      {
-        "offset": 192,
-        "length": 2,
-        "type": "bold"
-      },
-      {
-        "offset": 192,
-        "length": 2,
-        "type": "custom_emoji",
-        "custom_emoji_id": "5449841756596101801"
-      },
-      {
-        "offset": 194,
-        "length": 5,
-        "type": "mention"
-      },
-      {
-        "offset": 194,
-        "length": 5,
-        "type": "bold"
-      }
-    ],
-    "media_group_id": null,
-    "chat_id": -1004468214616,
-    "message_ids": [
-      1004
-    ],
-    "update_ids": [
-      378304896
-    ],
-    "retry_count": 0
-  },
-  {
     "type": "album",
     "photo_file_ids": [
       "AgACAgIAAyEFAAMBClOLWAACA-1qvhSnzNdCA4nwWOvd8pBRDmUJrgACHSFrGzTp4UmOeksdn0AeiwEAAwIAA3kAAz0E",
@@ -3864,6 +3630,622 @@
     ],
     "update_ids": [
       378304987
+    ],
+    "retry_count": 0
+  },
+  {
+    "type": "album",
+    "photo_file_ids": [
+      "AgACAgQAAyEFAAMBClOLWAACBEhqyPiTD4UdR6CfSJkKgFGgRG-i4AAC-RFrG2DAOVLem79devUqiAEAAwIAA3gAAz0E",
+      "AgACAgQAAyEFAAMBClOLWAACBElqyPiT1qEB9JgEoT8cK-5D4fo6YgAC-hFrG2DAOVLHCbZl0dfWEgEAAwIAA3gAAz0E"
+    ],
+    "caption": "❗️The White House is preparing to unveil OVER $1 BILLION in industry commitments for its AI-driven Genesis Mission, according to Axios.\n\nThe mission aims to harness advanced AI to accelerate American scientific breakthroughs. AMD, OpenAI and Anthropic are among the companies involved. President Trump is expected to attend Thursday's AI science summit as Washington pushes to accelerate scientific discoveries amid federal research funding cuts.\n\n@aipost 🏴",
+    "entities": [
+      {
+        "offset": 0,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5289761612440310918"
+      },
+      {
+        "offset": 448,
+        "length": 7,
+        "type": "mention"
+      },
+      {
+        "offset": 456,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5431390559912614642"
+      }
+    ],
+    "media_group_id": "14332445854226773",
+    "chat_id": -1004468214616,
+    "message_ids": [
+      1096,
+      1097
+    ],
+    "update_ids": [
+      378304988,
+      378304989
+    ],
+    "retry_count": 0
+  },
+  {
+    "type": "album",
+    "photo_file_ids": [
+      "AgACAgQAAyEFAAMBClOLWAACBEpqyPiTjDDjadXod8bGDu3ffdnTFwAC3RFrG2DAOVLbOCFYMWTf1wEAAwIAA3kAAz0E",
+      "AgACAgQAAyEFAAMBClOLWAACBEtqyPiTtxHuVnkak7aOLDn2j5VETAAC3hFrG2DAOVJPu1hwAAHeck4BAAMCAAN5AAM9BA"
+    ],
+    "caption": "🤖 ChatGPT now accepts audio files!\n\nPaid users can upload a recording and ask for a transcript, a summary, or answers about what was said.\n\nIt supports formats like MP3, WAV and M4A, with a 512 MB limit per file. \n\nFree users don’t have access yet.\n\n@aipost 🏴",
+    "entities": [
+      {
+        "offset": 0,
+        "length": 2,
+        "type": "bold"
+      },
+      {
+        "offset": 0,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5397681122542893003"
+      },
+      {
+        "offset": 2,
+        "length": 33,
+        "type": "bold"
+      },
+      {
+        "offset": 251,
+        "length": 7,
+        "type": "mention"
+      },
+      {
+        "offset": 259,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5431390559912614642"
+      }
+    ],
+    "media_group_id": "14332445854226781",
+    "chat_id": -1004468214616,
+    "message_ids": [
+      1098,
+      1099
+    ],
+    "update_ids": [
+      378304990,
+      378304991
+    ],
+    "retry_count": 0
+  },
+  {
+    "type": "album",
+    "photo_file_ids": [
+      "AgACAgQAAyEFAAMBClOLWAACBExqyPiTfCtZ8Kz-xLGMUayequOx3AAC_BFrG2DAOVIbHQu7QWW90wEAAwIAA3gAAz0E",
+      "AgACAgQAAyEFAAMBClOLWAACBE1qyPiTb2VS0csW8Abkp1Iwg1VjvgAC_RFrG2DAOVKcepyyU1GewwEAAwIAA3gAAz0E"
+    ],
+    "caption": "❗️AI hits biology’s data bottleneck\n\nAI biology has reached a problem GPUs alone can’t solve: there simply isn’t enough training data.\n\nA $1.8 billion effort backed by Biohub, the U.S. Department of Energy, NIH, Meta, Google DeepMind and Isomorphic Labs aims to build a “universal virtual cell” that could predict how cells respond to interventions and let researchers test biological experiments digitally before doing them in the lab.\n\nToday’s datasets contain hundreds of millions of cells. Future models may need billions and eventually trillions. The goal is to compress work that normally takes decades into about five years, with the first dataset expected in roughly one year.\n\nThere’s also an unusual access model: commercial funders get one year of exclusive access to the data they help generate before it becomes public. Government-funded data has no such embargo.\n\n@aipost 🏴",
+    "entities": [
+      {
+        "offset": 0,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5289761612440310918"
+      },
+      {
+        "offset": 2,
+        "length": 33,
+        "type": "bold"
+      },
+      {
+        "offset": 878,
+        "length": 7,
+        "type": "mention"
+      },
+      {
+        "offset": 886,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5431390559912614642"
+      }
+    ],
+    "media_group_id": "14332445854226789",
+    "chat_id": -1004468214616,
+    "message_ids": [
+      1100,
+      1101
+    ],
+    "update_ids": [
+      378304992,
+      378304993
+    ],
+    "retry_count": 0
+  },
+  {
+    "type": "photo",
+    "photo_file_ids": [
+      "AgACAgQAAyEFAAMBClOLWAACBE5qyPiThkeaQ_WjtzKVVXZezOd3nQADEmsbYMA5UmAAAWeYkPvBvgEAAwIAA3cAAz0E"
+    ],
+    "caption": "⚡️ AI is rewriting America’s power demand\n\nThe U.S. is heading for record electricity consumption in both 2026 and 2027 and AI data centers are becoming a major driver.\n\nElectricity use is projected to rise from 4.195 trillion kWh in 2025 to 4.288 trillion in 2026 and 4.356 trillion in 2027.\n\nThat’s an additional 161 billion kWh of demand in just two years, as data centers built to train and run increasingly powerful AI systems consume enormous amounts of electricity.\n\nSource.\n\n@aipost 🏴",
+    "entities": [
+      {
+        "offset": 0,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5366360391364412817"
+      },
+      {
+        "offset": 3,
+        "length": 38,
+        "type": "bold"
+      },
+      {
+        "offset": 474,
+        "length": 6,
+        "type": "text_link",
+        "url": "https://www.reuters.com/business/energy/us-power-use-beat-record-highs-2026-2027-ai-use-surges-eia-says-2026-10-06"
+      },
+      {
+        "offset": 483,
+        "length": 7,
+        "type": "mention"
+      },
+      {
+        "offset": 491,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5431390559912614642"
+      }
+    ],
+    "media_group_id": null,
+    "chat_id": -1004468214616,
+    "message_ids": [
+      1102
+    ],
+    "update_ids": [
+      378304994
+    ],
+    "retry_count": 0
+  },
+  {
+    "type": "photo",
+    "photo_file_ids": [
+      "AgACAgQAAyEFAAMBClOLWAACBE9qyPiTr4UFRdXtAtfd2e1SrhPg3gAC7A9rG3MxQFLLRLV5_D6fZwEAAwIAA3gAAz0E"
+    ],
+    "caption": "⚠️ For the first time in either presidency, Trump will present the National Medal of Science.\n\nElon Musk, Jensen Huang, Lisa Su and Sergey Brin will receive it Thursday at the White House's \"Science: A New Golden Age\" summit. Satya Nadella and Michael Dell will receive the separate National Medal of Technology and Innovation.\n\n@aipost 🏴",
+    "entities": [
+      {
+        "offset": 0,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5366332658760580843"
+      },
+      {
+        "offset": 329,
+        "length": 7,
+        "type": "mention"
+      },
+      {
+        "offset": 337,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5431390559912614642"
+      }
+    ],
+    "media_group_id": null,
+    "chat_id": -1004468214616,
+    "message_ids": [
+      1103
+    ],
+    "update_ids": [
+      378304995
+    ],
+    "retry_count": 0
+  },
+  {
+    "type": "album",
+    "photo_file_ids": [
+      "AgACAgQAAyEFAAMBClOLWAACBFBqyPiTSTPNBb-5GsjRpYvDpNUTjgACaBBrG3MxQFJrF36fk0AglAEAAwIAA3gAAz0E",
+      "AgACAgQAAyEFAAMBClOLWAACBFFqyPiTYuvX9fRJiXxjonm0-NPhfAACahBrG3MxQFKtaEpP1zT_QgEAAwIAA3gAAz0E"
+    ],
+    "caption": "❗️Demis Hassabis is in talks to raise new funding at a $50 BILLION valuation for Isomorphic Labs.\n\nMission: Solve all disease\n\n@aipost 🏴",
+    "entities": [
+      {
+        "offset": 0,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5289761612440310918"
+      },
+      {
+        "offset": 127,
+        "length": 7,
+        "type": "mention"
+      },
+      {
+        "offset": 135,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5431390559912614642"
+      }
+    ],
+    "media_group_id": "14332445854226813",
+    "chat_id": -1004468214616,
+    "message_ids": [
+      1104,
+      1105
+    ],
+    "update_ids": [
+      378304996,
+      378304997
+    ],
+    "retry_count": 0
+  },
+  {
+    "type": "album",
+    "photo_file_ids": [
+      "AgACAgQAAyEFAAMBClOLWAACBFJqyPiToEEH6rIrfEQuoWBSDjmd1AAC8w9rG3MxQFIzKOj7740_lwEAAwIAA3kAAz0E",
+      "AgACAgQAAyEFAAMBClOLWAACBFNqyPiTtc1PgxZiw1l-BcUrZyPDQwAC9A9rG3MxQFLiFSLf_C-kRQEAAwIAA3gAAz0E"
+    ],
+    "caption": "❗️Hacker may have exposed himself by asking AI to write his résumé\n\nA hacker suspected of targeting South Korean banks may have accidentally revealed his identity after asking Claude Code to write a résumé about his own hacking activities.\n\nCrowdStrike traced the attacks to infrastructure running an AI hacking tool called ARTEX. Investigators later found publicly exposed folders containing the attacker’s saved Claude Code conversations.\n\nIn one chat, he asked Claude to create a cybersecurity résumé describing his ARTEX work and provided personal details including a phone number, Telegram handle, claimed age of 26, university and location in China. The same Telegram handle appeared in other hacking-related conversations.\n\nHe had also asked Claude where stolen Korean data is typically sold.\n\nHis identity has not been independently confirmed but asking an AI to turn your own cybercrime history into a résumé is certainly an unusual way to leave a trail.\n\n@aipost 🏴",
+    "entities": [
+      {
+        "offset": 0,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5289761612440310918"
+      },
+      {
+        "offset": 2,
+        "length": 64,
+        "type": "bold"
+      },
+      {
+        "offset": 965,
+        "length": 7,
+        "type": "mention"
+      },
+      {
+        "offset": 973,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5431390559912614642"
+      }
+    ],
+    "media_group_id": "14332445854226821",
+    "chat_id": -1004468214616,
+    "message_ids": [
+      1106,
+      1107
+    ],
+    "update_ids": [
+      378304998,
+      378304999
+    ],
+    "retry_count": 0
+  },
+  {
+    "type": "video",
+    "video_file_id": "BAACAgQAAyEFAAMBClOLWAACBFRqyPiTIVbBXne_LJaYFawgDj4GzgACax8AAnMxQFLye0axSxrtoT0E",
+    "video_file_size": 21157632,
+    "caption": "🗣Sam Altman says the public has mischaracterized him as AI's villain for the same reason he once mischaracterized Mark Zuckerberg: \n\nWhen a new technology brings fast change, people project their fear onto the person who seems to hold the most power. Admits that in the early days of Meta he held similar belief towards Mark Zuckerberg, at a time when he did not know Zuckerberg personally.\n\n@aipost 🏴",
+    "entities": [
+      {
+        "offset": 0,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5287468155738821335"
+      },
+      {
+        "offset": 393,
+        "length": 7,
+        "type": "mention"
+      },
+      {
+        "offset": 401,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5431390559912614642"
+      }
+    ],
+    "media_group_id": null,
+    "chat_id": -1004468214616,
+    "message_ids": [
+      1108
+    ],
+    "update_ids": [
+      378305000
+    ],
+    "retry_count": 0
+  },
+  {
+    "type": "photo",
+    "photo_file_ids": [
+      "AgACAgQAAyEFAAMBClOLWAACBFVqyPiTvLKkaQTd0tOU4EH0-6XryQAC8g9rG3MxQFKe2zh8PPjrWwEAAwIAA3gAAz0E"
+    ],
+    "caption": "💰 AI agents are becoming major users of economic data\n\nAI agents now account for roughly half of all visits to FRED, the St. Louis Fed’s economic data portal, according to Bloomberg.\n\nThat changes what a data platform like FRED needs to be designed for. Humans see a chart alongside its source, notes and footnotes. An AI agent can simply extract the numbers, interpret them and rebuild them into an answer, potentially leaving important context and provenance behind.\n\nAs more AI systems become the middleman between people and economic data, making sure they preserve where numbers came from could become just as important as the numbers themselves.\n\nSource. \n\n@aipost 🏴",
+    "entities": [
+      {
+        "offset": 0,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5289964193162759223"
+      },
+      {
+        "offset": 3,
+        "length": 51,
+        "type": "bold"
+      },
+      {
+        "offset": 654,
+        "length": 8,
+        "type": "text_link",
+        "url": "https://www.bloomberg.com/news/newsletters/2026-10-07/ai-bots-swarm-the-fed-s-fred-data-site-as-jamie-dimon-warns-of-security-risks"
+      },
+      {
+        "offset": 664,
+        "length": 7,
+        "type": "mention"
+      },
+      {
+        "offset": 672,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5431390559912614642"
+      }
+    ],
+    "media_group_id": null,
+    "chat_id": -1004468214616,
+    "message_ids": [
+      1109
+    ],
+    "update_ids": [
+      378305001
+    ],
+    "retry_count": 0
+  },
+  {
+    "type": "album",
+    "photo_file_ids": [
+      "AgACAgQAAyEFAAMBClOLWAACBFZqyPiTxG9SNxqeKMiFJXi1yg4GmwAC-g9rG3MxQFKyVY6xfPtpWgEAAwIAA3gAAz0E",
+      "AgACAgQAAyEFAAMBClOLWAACBFdqyPiT1yuo57vjMz9F0hKyZr81rwAC-w9rG3MxQFLn3nm7bjWtoAEAAwIAA3gAAz0E"
+    ],
+    "caption": "❗️AI is starting to trigger a backlash in mathematics\n\nOpenAI’s release of 722 AI-generated mathematics manuscripts is already causing a backlash among some mathematicians.\n\nThe Association for Human Mathematics (AHM) criticized the release and urged mathematicians to “discontinue their work with OpenAI.” Terence Tao also reposted the AHM statement on his blog.\n\nThe debate is bigger than whether AI-generated proofs are good or bad. If AI can increasingly produce serious mathematical results, the field now has to figure out how to verify, publish and evaluate them.\n\nWalking away from the technology doesn’t resolve that question. The more interesting challenge is figuring out how mathematicians and AI can actually work together.\n\nSource.\n\n@aipost 🏴",
+    "entities": [
+      {
+        "offset": 0,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5289761612440310918"
+      },
+      {
+        "offset": 2,
+        "length": 51,
+        "type": "bold"
+      },
+      {
+        "offset": 738,
+        "length": 6,
+        "type": "text_link",
+        "url": "https://terrytao.wordpress.com/2026/10/07/ahm-statement-on-openais-october-6-release-of-mathematical-documents/"
+      },
+      {
+        "offset": 747,
+        "length": 7,
+        "type": "mention"
+      },
+      {
+        "offset": 755,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5431390559912614642"
+      }
+    ],
+    "media_group_id": "14332445854226845",
+    "chat_id": -1004468214616,
+    "message_ids": [
+      1110,
+      1111
+    ],
+    "update_ids": [
+      378305002,
+      378305003
+    ],
+    "retry_count": 0
+  },
+  {
+    "type": "album",
+    "photo_file_ids": [
+      "AgACAgQAAyEFAAMBClOLWAACBFhqyPiTiI6-pc5oZlOE1U0du2_4swAC9BBrG3MxQFLHMGWtUTUalgEAAwIAA3kAAz0E",
+      "AgACAgQAAyEFAAMBClOLWAACBFlqyPiTFM2kipqg5jBGSvMtwfuYQgAC9RBrG3MxQFLnmOhGh0o35gEAAwIAA3kAAz0E",
+      "AgACAgQAAyEFAAMBClOLWAACBFpqyPiTlIy4JKxceSZWqH-BWeIQsAAC9hBrG3MxQFKzENx51WcFJwEAAwIAA3kAAz0E"
+    ],
+    "caption": "❗️Anthropic says: be nice to Claude \n\nAnthropic’s new global usage policy bans weapons development, mass surveillance and political psyops.\n\nIt also bans “abusive or cruel behavior” toward Claude.\n\nYes, Claude can apparently end the conversation if you’re being too mean.\n\nDario Amodei has said Anthropic doesn’t know whether Claude is conscious. Now the company’s policy is basically: just in case… behave yourself.\n\nAnthropic can warn, throttle, limit, suspend or terminate access over violations. Though government use gets some restrictions “tailored” to the situation.\n\n@aipost 🏴",
+    "entities": [
+      {
+        "offset": 0,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5289761612440310918"
+      },
+      {
+        "offset": 2,
+        "length": 34,
+        "type": "bold"
+      },
+      {
+        "offset": 575,
+        "length": 7,
+        "type": "mention"
+      },
+      {
+        "offset": 583,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5431390559912614642"
+      }
+    ],
+    "media_group_id": "14332445854226853",
+    "chat_id": -1004468214616,
+    "message_ids": [
+      1112,
+      1113,
+      1114
+    ],
+    "update_ids": [
+      378305004,
+      378305005,
+      378305006
+    ],
+    "retry_count": 0
+  },
+  {
+    "type": "video",
+    "video_file_id": "BAACAgQAAyEFAAMBClOLWAACBFtqyPiTQr6e8KV5uQ5-zKrEwCM53QACqSAAAnMxQFIkYpFFpBdlwT0E",
+    "video_file_size": 15883140,
+    "caption": "ChatGPT in 2023: \"wait, it can actually talk back?\"\n\nChatGPT now: \"wait, the interface can become whatever I need?\"\n\n@aipost 🏴",
+    "entities": [
+      {
+        "offset": 117,
+        "length": 7,
+        "type": "mention"
+      },
+      {
+        "offset": 125,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5431390559912614642"
+      }
+    ],
+    "media_group_id": null,
+    "chat_id": -1004468214616,
+    "message_ids": [
+      1115
+    ],
+    "update_ids": [
+      378305007
+    ],
+    "retry_count": 0
+  },
+  {
+    "type": "album",
+    "photo_file_ids": [
+      "AgACAgQAAyEFAAMBClOLWAACBFxqyPiTAAGfKj44vzmDBAtmojTNdNUAAvUPaxtzMUBSYMZfQsJdQ_MBAAMCAAN4AAM9BA",
+      "AgACAgQAAyEFAAMBClOLWAACBF1qyPiTdDcQFmygXLAK_bRQXkWIwgAC9g9rG3MxQFJseslDM5dOpQEAAwIAA3gAAz0E"
+    ],
+    "caption": "❗️The AI domain war has officially begun\n\nOpenAI, Google and Meta are now fighting over some of the most valuable AI-related internet domains.\n\nICANN received 1,615 applications from 481 applicants in its first new domain expansion since 2012. OpenAI applied for 15 domains, including .agent, .agi, .asi, .chatgpt, .gpt, .mcp, .model and .openai.\n\nGoogle went even bigger with 39 applications, including .agent, .mcp, .gemini, .deepmind and .api. Meta submitted 18, including .agent, .llama, .metaai and .superintelligence.\n\nSome strings are already crowded: .agent has 13 applicants, .agi has 7, and .mcp has 5. Interestingly, Anthropic, which created MCP didn’t apply for .mcp at all.\n\nAnthropic only applied for .anthropic and .claude, while Microsoft went for .copilot and .msft.\n\nEach application costs $227,000, and contested domains can become extremely expensive. Google previously paid $25 million for .app.\n\nThe process could continue until 2030, and none of these domains has been awarded yet.\n\n@aipost 🏴",
+    "entities": [
+      {
+        "offset": 0,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5289761612440310918"
+      },
+      {
+        "offset": 2,
+        "length": 38,
+        "type": "bold"
+      },
+      {
+        "offset": 1006,
+        "length": 7,
+        "type": "mention"
+      },
+      {
+        "offset": 1014,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5431390559912614642"
+      }
+    ],
+    "media_group_id": "14332445854226869",
+    "chat_id": -1004468214616,
+    "message_ids": [
+      1116,
+      1117
+    ],
+    "update_ids": [
+      378305008,
+      378305009
+    ],
+    "retry_count": 0
+  },
+  {
+    "type": "video",
+    "video_file_id": "BAACAgQAAyEFAAMBClOLWAACBF5qyPiT9K2O3zaylwSEo1vjs_K_HQACzh4AAnMxSFIycDYha03s5z0E",
+    "video_file_size": 22017761,
+    "caption": "🗣Jeff Bezos BACKS President Trump’s plan to change Artificial Intelligence to Super Intelligence. \n\nBret Baier: “The president says SI. Are you into SI?”\n\nJeff Bezos: “I do like SI because artificial is not a very flattering thing. Nobody wants an artificial sweetener or artificial flavoring.”\n\nBret Baier: “Isn't Super Intelligence a little scary?” \n\nJeff Bezos: “Artificial means fake. It's a big road to change everybody getting to say Super Intelligence only because they're so used to AI at this point… but I do understand the desire to get away from the word artificial.”\n\n@aipost 🏴",
+    "entities": [
+      {
+        "offset": 0,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5287468155738821335"
+      },
+      {
+        "offset": 2,
+        "length": 97,
+        "type": "bold"
+      },
+      {
+        "offset": 581,
+        "length": 7,
+        "type": "mention"
+      },
+      {
+        "offset": 589,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5431390559912614642"
+      }
+    ],
+    "media_group_id": null,
+    "chat_id": -1004468214616,
+    "message_ids": [
+      1118
+    ],
+    "update_ids": [
+      378305010
+    ],
+    "retry_count": 0
+  },
+  {
+    "type": "photo",
+    "photo_file_ids": [
+      "AgACAgQAAyEFAAMBClOLWAACBF9qyPiT_6gycd1FyS3PodF1QG8O5wACYQ9rG3MxSFJvG9aJCtabBgEAAwIAA3gAAz0E"
+    ],
+    "caption": "🇺🇸 President Trump declared on Thursday that anyone who says “Artificial Intelligence” instead of “Super Intelligence” is “THE ENEMY!”  (even as own White House still uses “AI.”). Time to get used to Super Intelligence I guess.\n\n@aipost 🏴",
+    "entities": [
+      {
+        "offset": 0,
+        "length": 4,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5202021044105257611"
+      },
+      {
+        "offset": 231,
+        "length": 7,
+        "type": "mention"
+      },
+      {
+        "offset": 231,
+        "length": 7,
+        "type": "underline"
+      },
+      {
+        "offset": 239,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5431390559912614642"
+      }
+    ],
+    "media_group_id": null,
+    "chat_id": -1004468214616,
+    "message_ids": [
+      1119
+    ],
+    "update_ids": [
+      378305011
     ],
     "retry_count": 0
   }
