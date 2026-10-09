@@ -6042,5 +6042,44 @@
       378304884
     ],
     "retry_count": 0
+  },
+  {
+    "type": "video",
+    "video_file_id": "BAACAgQAAyEFAAMBClOLWAACA-JqvgABtw0f1Aa4kHYYH6DHO2rYfbMAAqMeAAI8ruBRC4yWaDcadLs9BA",
+    "video_file_size": 26554699,
+    "caption": "🗣Anthropic chief DARIO walked up and said President Trump helped put his Super Intelligence worries at ease.\n\n\"If we do this right, we work with the President and everyone here, we can win safely!\"\n\n@aipost 🏴",
+    "entities": [
+      {
+        "offset": 0,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5287468155738821335"
+      },
+      {
+        "offset": 2,
+        "length": 107,
+        "type": "bold"
+      },
+      {
+        "offset": 200,
+        "length": 7,
+        "type": "mention"
+      },
+      {
+        "offset": 208,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5431390559912614642"
+      }
+    ],
+    "media_group_id": null,
+    "chat_id": -1004468214616,
+    "message_ids": [
+      994
+    ],
+    "update_ids": [
+      378304886
+    ],
+    "retry_count": 0
   }
 ]
