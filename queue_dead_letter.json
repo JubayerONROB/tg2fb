@@ -5959,5 +5959,88 @@
       378304879
     ],
     "retry_count": 0
+  },
+  {
+    "type": "video",
+    "video_file_id": "BAACAgQAAyEFAAMBClOLWAACA99qvgABtzr4f8wQrD4ldNrioZ1h9hgAAqEeAAI8ruBRToWu3L6sLqY9BA",
+    "video_file_size": 30161101,
+    "caption": "🗣 Elon Musk: Robots and superintelligence will create an age of abundance, with universal high income and better medical care for everyone.\n\n“I think by far the most likely outcome is an age of abundance where we don’t have just a universal basic income, we have universal high income.\n\nWhen you have robots and you have superintelligence, it means that everyone in the world can have better medical care than anyone here, including me. Jobs are going to change. Jobs have always changed. I think we’ll see an evolution of roles.\n\nThe most likely outcome is incredibly beneficial. It is a future you would want.”\n\n@aipost🏴",
+    "entities": [
+      {
+        "offset": 0,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5287468155738821335"
+      },
+      {
+        "offset": 3,
+        "length": 137,
+        "type": "bold"
+      },
+      {
+        "offset": 142,
+        "length": 471,
+        "type": "blockquote"
+      },
+      {
+        "offset": 615,
+        "length": 7,
+        "type": "mention"
+      },
+      {
+        "offset": 622,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5431390559912614642"
+      }
+    ],
+    "media_group_id": null,
+    "chat_id": -1004468214616,
+    "message_ids": [
+      991
+    ],
+    "update_ids": [
+      378304883
+    ],
+    "retry_count": 0
+  },
+  {
+    "type": "video",
+    "video_file_id": "BAACAgQAAyEFAAMBClOLWAACA-BqvgABtziwPQGhvQ7UqNdV80KgJRIAAqAeAAI8ruBR8g43C2O03tA9BA",
+    "video_file_size": 30418038,
+    "caption": "❗️Mark Zuckerberg outlines the AI framework tech leaders agreed to after meeting with President Trump at the White House.\n\nThe Meta CEO says the principles center on robust internal controls, internal risk reviews, outside auditors and evaluators, and independent reviews of audit reports by company boards.\n\n\"The idea isn't that this is the only thing that we will ever do. It is that this is a start and an accord that the whole industry could come to.\"\n\nHe says the goal is to give Americans and customers confidence that the technology is working the way companies intend.\n\n@aipost 🏴",
+    "entities": [
+      {
+        "offset": 0,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5289761612440310918"
+      },
+      {
+        "offset": 2,
+        "length": 119,
+        "type": "bold"
+      },
+      {
+        "offset": 578,
+        "length": 7,
+        "type": "mention"
+      },
+      {
+        "offset": 586,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5431390559912614642"
+      }
+    ],
+    "media_group_id": null,
+    "chat_id": -1004468214616,
+    "message_ids": [
+      992
+    ],
+    "update_ids": [
+      378304884
+    ],
+    "retry_count": 0
   }
 ]
