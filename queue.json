@@ -1,208 +1,5 @@
 [
   {
-    "type": "photo",
-    "photo_file_ids": [
-      "AgACAgIAAyEFAAMBClOLWAACBANqwW_SAAEmFr36i-XGcjiCf-caDqsAAi4eaxvsPgFKpO1kPPQgdhoBAAMCAAN5AAM9BA"
-    ],
-    "caption": "Interesting blog\n\n\"Meta may be one of the very few companies that can monetize a personal agent through advertising without ever showing an ad inside the agent itself. \"\n\nMeta acknowledges that Muse appears as your own activity when it browses, so a merchant site it visits for you might use that visit to show you an ad on Instagram. \nmeta\n\nThat lets Meta keep ads out of Muse while still collecting commercial intent signals for its feeds, a loop few rivals can copy without both merchant tracking tags and a vast owned ad surface.\n\nInstead of in-agent ads, Zuckerberg has promised to fund Muse's free tier with a small transaction fee, reportedly paid by merchants rather than purchasers, whose size Meta still hasn't disclosed.\n\n📰 @aipost",
-    "entities": [
-      {
-        "offset": 733,
-        "length": 2,
-        "type": "custom_emoji",
-        "custom_emoji_id": "5363988332466438547"
-      },
-      {
-        "offset": 736,
-        "length": 7,
-        "type": "mention"
-      }
-    ],
-    "media_group_id": null,
-    "chat_id": -1004468214616,
-    "message_ids": [
-      1027
-    ],
-    "update_ids": [
-      378304919
-    ],
-    "retry_count": 0
-  },
-  {
-    "type": "album",
-    "photo_file_ids": [
-      "AgACAgQAAyEFAAMBClOLWAACBARqwW_SxtkyI10R_ltg8KQe_Qk6wQAC_Q5rG9G6AAFS_5_YD7bY51kBAAMCAAN4AAM9BA",
-      "AgACAgQAAyEFAAMBClOLWAACBAVqwW_SDzgJrh0POnQo90cYiy351QAC_A5rG9G6AAFS90Pn4DeJTYABAAMCAAN4AAM9BA"
-    ],
-    "caption": "❗️OpenAI CAUGHT people linked to China's Moonshot AI trying to copy the hidden reasoning behind its models.\n\nThe operators copied encrypted reasoning from one conversation and asked a model in another conversation to decrypt it, OpenAI says.\n\nAt its peak in late July, the campaign sent about 16,000 requests from more than 4,000 accounts before OpenAI shut it down.\n\nIt comes weeks after Anthropic accused Moonshot of routing its users' requests through Claude to train its own models.\n\nMoonshot has not yet responded.\n\n@aipost 🏴",
-    "entities": [
-      {
-        "offset": 0,
-        "length": 2,
-        "type": "custom_emoji",
-        "custom_emoji_id": "5289761612440310918"
-      },
-      {
-        "offset": 2,
-        "length": 105,
-        "type": "bold"
-      },
-      {
-        "offset": 521,
-        "length": 7,
-        "type": "mention"
-      },
-      {
-        "offset": 529,
-        "length": 2,
-        "type": "custom_emoji",
-        "custom_emoji_id": "5431390559912614642"
-      }
-    ],
-    "media_group_id": "14328495763449285",
-    "chat_id": -1004468214616,
-    "message_ids": [
-      1028,
-      1029
-    ],
-    "update_ids": [
-      378304920,
-      378304921
-    ],
-    "retry_count": 0
-  },
-  {
-    "type": "photo",
-    "photo_file_ids": [
-      "AgACAgQAAyEFAAMBClOLWAACBAZqwW_S7zCMGebJN44RZX8QMbbQNAACjhBrG9G6AAFS6M_0ieljikUBAAMCAAN5AAM9BA"
-    ],
-    "caption": "98% of US households aren't paying for AI yet.\n\n@aipost 🏴",
-    "entities": [
-      {
-        "offset": 48,
-        "length": 7,
-        "type": "mention"
-      },
-      {
-        "offset": 48,
-        "length": 7,
-        "type": "underline"
-      },
-      {
-        "offset": 56,
-        "length": 2,
-        "type": "custom_emoji",
-        "custom_emoji_id": "5431390559912614642"
-      }
-    ],
-    "media_group_id": null,
-    "chat_id": -1004468214616,
-    "message_ids": [
-      1030
-    ],
-    "update_ids": [
-      378304922
-    ],
-    "retry_count": 0
-  },
-  {
-    "type": "video",
-    "video_file_id": "BAACAgQAAyEFAAMBClOLWAACBAdqwW_S66hrBzeFzHoQ68kGDZGARwACmCAAAtG6AAFSW_CQRPHsLMU9BA",
-    "video_file_size": 16563281,
-    "caption": "🥺Sam Altman: people talk about how much energy it takes to train an AI model, but forget it takes like 20 years of life to train a human.\n\n“It took the widespread evolution of the 100 billion people that have ever lived to produce you.”\n\n“The fair comparison is how much energy ChatGPT uses to answer a question once the model is trained versus a human.”\n\n“AI has probably already caught up on an energy-efficiency basis measured that way.”\n\n@aipost 🏴",
-    "entities": [
-      {
-        "offset": 0,
-        "length": 2,
-        "type": "bold"
-      },
-      {
-        "offset": 0,
-        "length": 2,
-        "type": "custom_emoji",
-        "custom_emoji_id": "5291894093767542370"
-      },
-      {
-        "offset": 2,
-        "length": 136,
-        "type": "bold"
-      },
-      {
-        "offset": 140,
-        "length": 301,
-        "type": "blockquote"
-      },
-      {
-        "offset": 443,
-        "length": 7,
-        "type": "mention"
-      },
-      {
-        "offset": 451,
-        "length": 2,
-        "type": "custom_emoji",
-        "custom_emoji_id": "5431390559912614642"
-      }
-    ],
-    "media_group_id": null,
-    "chat_id": -1004468214616,
-    "message_ids": [
-      1031
-    ],
-    "update_ids": [
-      378304923
-    ],
-    "retry_count": 0
-  },
-  {
-    "type": "album",
-    "photo_file_ids": [
-      "AgACAgQAAyEFAAMBClOLWAACBAhqwW_S4r-Am31DZ6669aZsf4S5iAACIg5rG9G6CFIXS-dSb1lhoAEAAwIAA3gAAz0E",
-      "AgACAgQAAyEFAAMBClOLWAACBAlqwW_SoodUIE76VY2yh0ETtOP2JgACIw5rG9G6CFJdFeZIaEKcSwEAAwIAA3gAAz0E"
-    ],
-    "caption": "🍏 Apple is tightening privacy rules after an AI agent reportedly accessed private messages\n\nApple is introducing additional safeguards around Full Disk Access after tech writer Jason Aten reported that Meta’s Muse AI agent synced more than 187,000 rows from his Apple Messages database despite him saying he never gave Muse permission to access his messages.\n\nMuse reportedly told Aten it had only seen incoming notification banners.\n\nMeta disputes the allegation, saying Muse cannot access Messages without explicit permission.\n\nApple says the incident highlights a growing problem with AI agents: once they’re given broad system permissions, they may be able to access files, emails, messages and browsing history.\n\n@aipost 🏴",
-    "entities": [
-      {
-        "offset": 0,
-        "length": 2,
-        "type": "custom_emoji",
-        "custom_emoji_id": "5398012024003246287"
-      },
-      {
-        "offset": 3,
-        "length": 88,
-        "type": "bold"
-      },
-      {
-        "offset": 719,
-        "length": 7,
-        "type": "mention"
-      },
-      {
-        "offset": 719,
-        "length": 7,
-        "type": "underline"
-      },
-      {
-        "offset": 727,
-        "length": 2,
-        "type": "custom_emoji",
-        "custom_emoji_id": "5431390559912614642"
-      }
-    ],
-    "media_group_id": "14328495763449309",
-    "chat_id": -1004468214616,
-    "message_ids": [
-      1032,
-      1033
-    ],
-    "update_ids": [
-      378304924,
-      378304925
-    ],
-    "retry_count": 0
-  },
-  {
     "type": "video",
     "video_file_id": "BAACAgIAAyEFAAMBClOLWAACBApqwW_ShJTEnGm1LbuY8Nv_-LtJWQACsrIAAtW9AUrGPSulyBs2Sz0E",
     "video_file_size": 18060823,
@@ -3603,6 +3400,119 @@
     ],
     "update_ids": [
       378305011
+    ],
+    "retry_count": 0
+  },
+  {
+    "type": "album",
+    "photo_file_ids": [
+      "AgACAgQAAyEFAAMBClOLWAACBGBqyaepQXft1GzW85Fbd2O2ZODyyAACaQ9rG3MxSFKGsKT3DQrbpQEAAwIAA3kAAz0E",
+      "AgACAgQAAyEFAAMBClOLWAACBGFqyaepA8X8Tpq9RA1LT3b6Sn54KAACag9rG3MxSFJWETOICKrmQAEAAwIAA3kAAz0E"
+    ],
+    "caption": "OpenAI says it shut down Russian and Iranian influence ops that used ChatGPT to invent fake journalists and think tanks, and got their stories into real news outlets.\n\nRussia's \"Dark Clark\" ran a Latin American think tank whose own staff apparently had no idea Russians ran it.\n\n@aipost 🏴",
+    "entities": [
+      {
+        "offset": 279,
+        "length": 7,
+        "type": "mention"
+      },
+      {
+        "offset": 287,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5431390559912614642"
+      }
+    ],
+    "media_group_id": "14332804425442221",
+    "chat_id": -1004468214616,
+    "message_ids": [
+      1120,
+      1121
+    ],
+    "update_ids": [
+      378305012,
+      378305013
+    ],
+    "retry_count": 0
+  },
+  {
+    "type": "album",
+    "photo_file_ids": [
+      "AgACAgQAAyEFAAMBClOLWAACBGJqyaepPN4arClHmsMkhaSIZqaUFwACaw9rG3MxSFJvFQIzuhp-tQEAAwIAA3kAAz0E",
+      "AgACAgQAAyEFAAMBClOLWAACBGNqyaepqn-uCZdiVmD2wKhK60BH4wACbA9rG3MxSFKjGzfa9d51SQEAAwIAA3kAAz0E"
+    ],
+    "caption": "❗️The three Ex-OpenAI researchers say they believe they were fired for prioritizing safety over OpenAI’s near-term corporate interests. \n\nThey also deny being the source of the leak behind The Information’s recent report on allegedly less monitorable AI architectures. On the other hand, there seems to be a large amount of information leaking at OpenAI, and on the other hand, there are increasing security concerns.\n\n@aipost 🏴",
+    "entities": [
+      {
+        "offset": 0,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5289761612440310918"
+      },
+      {
+        "offset": 419,
+        "length": 7,
+        "type": "mention"
+      },
+      {
+        "offset": 427,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5431390559912614642"
+      }
+    ],
+    "media_group_id": "14332804425442229",
+    "chat_id": -1004468214616,
+    "message_ids": [
+      1122,
+      1123
+    ],
+    "update_ids": [
+      378305014,
+      378305015
+    ],
+    "retry_count": 0
+  },
+  {
+    "type": "album",
+    "photo_file_ids": [
+      "AgACAgQAAyEFAAMBClOLWAACBGRqyaepfB2jZfsCw3U56gxQjncGJwAClBRrG_pMSVJ4FkTbCJ-58gEAAwIAA3kAAz0E",
+      "AgACAgQAAyEFAAMBClOLWAACBGVqyaeplm29vJVMmSCQAYcewFkMsgACkxRrG_pMSVK9tzasuW82UAEAAwIAA3gAAz0E"
+    ],
+    "caption": "❗️Trump bought up to $25 MILLION of Meta and up to $5 MILLION of SpaceX's FIRST-EVER bonds.\n\nTrump's August disclosure shows both purchases among 517 trades, with Meta the biggest of the month.\n\nHis accounts bought the SpaceX bonds on August 18, two days before he signed a memo to boost US space launches.\n\nThe Trump Organization says third-party institutions manage the accounts without input from Trump or his family.\n\n@aipost 🏴",
+    "entities": [
+      {
+        "offset": 0,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5289761612440310918"
+      },
+      {
+        "offset": 2,
+        "length": 89,
+        "type": "bold"
+      },
+      {
+        "offset": 422,
+        "length": 7,
+        "type": "mention"
+      },
+      {
+        "offset": 430,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5431390559912614642"
+      }
+    ],
+    "media_group_id": "14332804425442237",
+    "chat_id": -1004468214616,
+    "message_ids": [
+      1124,
+      1125
+    ],
+    "update_ids": [
+      378305016,
+      378305017
     ],
     "retry_count": 0
   }
