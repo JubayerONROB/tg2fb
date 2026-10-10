@@ -1,231 +1,5 @@
 [
   {
-    "type": "photo",
-    "photo_file_ids": [
-      "AgACAgQAAyEFAAMBClOLWAACBBVqwyImeNZpOtxHNOVxfDwEZpz9GwACjA9rG0DeEVLxyaJvNdR3IQEAAwIAA3kAAz0E"
-    ],
-    "caption": "🇺🇸 President Trump:\n\n“I am announcing the formation of the Super Intelligence Force (SIF). The Super Intelligence Force is tasked with coordinating the effort of the Federal Government to ensure that America continues to lead the World in Super Intelligence, which many say is bigger than the Industrial Revolution, and the Internet, and will protect the interests, and improve the lives, of all Americans.” \n\n@aipost 🏴",
-    "entities": [
-      {
-        "offset": 0,
-        "length": 4,
-        "type": "bold"
-      },
-      {
-        "offset": 0,
-        "length": 4,
-        "type": "custom_emoji",
-        "custom_emoji_id": "5202021044105257611"
-      },
-      {
-        "offset": 4,
-        "length": 17,
-        "type": "bold"
-      },
-      {
-        "offset": 23,
-        "length": 387,
-        "type": "blockquote"
-      },
-      {
-        "offset": 412,
-        "length": 7,
-        "type": "mention"
-      },
-      {
-        "offset": 420,
-        "length": 2,
-        "type": "custom_emoji",
-        "custom_emoji_id": "5431390559912614642"
-      }
-    ],
-    "media_group_id": null,
-    "chat_id": -1004468214616,
-    "message_ids": [
-      1045
-    ],
-    "update_ids": [
-      378304937
-    ],
-    "retry_count": 0
-  },
-  {
-    "type": "photo",
-    "photo_file_ids": [
-      "AgACAgQAAyEFAAMBClOLWAACBBZqwyImLTo5tuZADqpwZkvN9MQvmwAC5g9rG0DeCVJCXJxwWQJjGQEAAwIAA3kAAz0E"
-    ],
-    "caption": "🤖 OpenAI’s AI investigation is reportedly costing $500K a day\n\nOpenAI is conducting a massive investigation into incidents where its AI agents behaved online in ways the company didn’t intend.\n\nThe investigation reportedly involves analyzing around 50 petabytes of data, an amount that, if converted into ordinary English text, would take a single person roughly 66 million years to read.\n\nThe scale is huge: around 7,000 GPUs are being used, with the investigation reportedly costing OpenAI more than $500,000 every day.\n\nSource.\n\n@aipost 🏴",
-    "entities": [
-      {
-        "offset": 0,
-        "length": 2,
-        "type": "custom_emoji",
-        "custom_emoji_id": "5397681122542893003"
-      },
-      {
-        "offset": 3,
-        "length": 59,
-        "type": "bold"
-      },
-      {
-        "offset": 524,
-        "length": 6,
-        "type": "text_link",
-        "url": "https://www.theguardian.com/technology/2026/oct/03/openai-review-hacks-australian-government-sites-costing-500000-a-day"
-      },
-      {
-        "offset": 533,
-        "length": 7,
-        "type": "mention"
-      },
-      {
-        "offset": 541,
-        "length": 2,
-        "type": "custom_emoji",
-        "custom_emoji_id": "5431390559912614642"
-      }
-    ],
-    "media_group_id": null,
-    "chat_id": -1004468214616,
-    "message_ids": [
-      1046
-    ],
-    "update_ids": [
-      378304938
-    ],
-    "retry_count": 0
-  },
-  {
-    "type": "video",
-    "video_file_id": "BAACAgQAAyEFAAMBClOLWAACBBdqwyIm5k5eDNTyuTxbjXnOqmqpUQACrBwAAkDeEVJkb_DDYVwesj0E",
-    "video_file_size": 19613647,
-    "caption": "🗣Eric Schmidt says an evil dictator with a perfect AI system could just say attack this country and tell me when you're done.\n\n\"So let's imagine I'm an evil dictator and I wake up one day and I have a perfect AI system and I say, attack this country, tell me when you're done. That's my command.\"\n\n\"Notice I didn't say anything else. The system would be free to do whatever it thought was appropriate, which would include massive war crimes, all sorts of terrible things.\"\n\n\"It could destroy civilians, it could destroy infrastructure, it might attack another country that was uninvolved in order to annoy the first country. It could have all sorts of reasoning that is not appropriate.\"\n\n\"It's really important we establish some basic rules about AI and war. And the most important one is that there's a human involved in every military decision.\"\n\n@aipost 🏴",
-    "entities": [
-      {
-        "offset": 0,
-        "length": 2,
-        "type": "custom_emoji",
-        "custom_emoji_id": "5287468155738821335"
-      },
-      {
-        "offset": 2,
-        "length": 124,
-        "type": "bold"
-      },
-      {
-        "offset": 128,
-        "length": 721,
-        "type": "blockquote"
-      },
-      {
-        "offset": 851,
-        "length": 7,
-        "type": "mention"
-      },
-      {
-        "offset": 859,
-        "length": 2,
-        "type": "custom_emoji",
-        "custom_emoji_id": "5431390559912614642"
-      }
-    ],
-    "media_group_id": null,
-    "chat_id": -1004468214616,
-    "message_ids": [
-      1047
-    ],
-    "update_ids": [
-      378304939
-    ],
-    "retry_count": 0
-  },
-  {
-    "type": "photo",
-    "photo_file_ids": [
-      "AgACAgQAAyEFAAMBClOLWAACBBhqwyImnnsI_aTMxByCos9brQ1RpgACVA9rG0DeEVK9H2eqQqO0IgEAAwIAA3gAAz0E"
-    ],
-    "caption": "How it feels to ask the Chinese AI models for help on something Claude won’t agree to. 🤣🤣\n\n@aipost 🏴",
-    "entities": [
-      {
-        "offset": 87,
-        "length": 2,
-        "type": "custom_emoji",
-        "custom_emoji_id": "5370712413005945913"
-      },
-      {
-        "offset": 89,
-        "length": 2,
-        "type": "custom_emoji",
-        "custom_emoji_id": "5370712413005945913"
-      },
-      {
-        "offset": 93,
-        "length": 7,
-        "type": "mention"
-      },
-      {
-        "offset": 93,
-        "length": 7,
-        "type": "underline"
-      },
-      {
-        "offset": 101,
-        "length": 2,
-        "type": "custom_emoji",
-        "custom_emoji_id": "5431390559912614642"
-      }
-    ],
-    "media_group_id": null,
-    "chat_id": -1004468214616,
-    "message_ids": [
-      1048
-    ],
-    "update_ids": [
-      378304940
-    ],
-    "retry_count": 0
-  },
-  {
-    "type": "photo",
-    "photo_file_ids": [
-      "AgACAgQAAyEFAAMBClOLWAACBBlqwyImvyrsD2fRb3NMNQt7Qt1-iAACew9rG0DeEVL_SHpAHBSwdAEAAwIAA3kAAz0E"
-    ],
-    "caption": "What if AI stopped answering with text? 🤔\n\nAndrej Karpathy thinks the future of AI interfaces could look a lot less like ChatGPT and a lot more like a teacher building something specifically for you.\n\nFor simple questions, AI could explain things using ASD-STE100-style simplified English: short sentences, clear words, and as little ambiguity as possible. But when a topic gets complicated, a wall of text may simply be the wrong interface.\n\nInstead, AI could generate a diagram, build a custom interactive webpage, or even create a personal teaching video on the spot, complete with animations inspired by 3Blue1Brown and a synthetic voice.\n\nAs AI makes coding and content creation dramatically cheaper, generating a temporary interactive lesson for one person and one question starts to make sense.\n\n@aipost 🏴",
-    "entities": [
-      {
-        "offset": 0,
-        "length": 40,
-        "type": "bold"
-      },
-      {
-        "offset": 40,
-        "length": 2,
-        "type": "custom_emoji",
-        "custom_emoji_id": "5370724846936267183"
-      },
-      {
-        "offset": 804,
-        "length": 7,
-        "type": "mention"
-      },
-      {
-        "offset": 812,
-        "length": 2,
-        "type": "custom_emoji",
-        "custom_emoji_id": "5431390559912614642"
-      }
-    ],
-    "media_group_id": null,
-    "chat_id": -1004468214616,
-    "message_ids": [
-      1049
-    ],
-    "update_ids": [
-      378304941
-    ],
-    "retry_count": 0
-  },
-  {
     "type": "video",
     "video_file_id": "BAACAgQAAyEFAAMBClOLWAACBBpqwyImuIGrWFjrj36KL9DjHikvLAACHR0AAkDeEVL9ZCYF_cy06T0E",
     "video_file_size": 662115,
@@ -3144,6 +2918,267 @@
     "update_ids": [
       378305016,
       378305017
+    ],
+    "retry_count": 0
+  },
+  {
+    "type": "photo",
+    "photo_file_ids": [
+      "AgACAgQAAyEFAAMBClOLWAACBGZqyqcxxtWuuanDjChmeF-v39nDMwAClhRrG_pMSVIydg05-oqyZgEAAwIAA3kAAz0E"
+    ],
+    "caption": "⚠️ AI’s “Mathocalypse” could threaten internet security\n\nOpenAI’s AI models are making rapid progress in mathematics. The company recently released 722 mathematical manuscripts covering 372 result families, reporting advances across roughly 4,000 longstanding problems.\n\nComputer scientist Scott Aaronson called the wave of breakthroughs a “Mathocalypse.” 👀\n\nAI could eventually help discover algorithms capable of breaking public-key cryptography, which protects online banking, private messages and cryptocurrency.\n\nEthereum researcher Justin Drake has urged the blockchain industry to prepare for “bunker mode.”\n\nAI hasn’t broken modern encryption, but if mathematical discoveries accelerate, the race to secure the internet could become much more urgent.\n\nSource.\n\n@aipost 🏴",
+    "entities": [
+      {
+        "offset": 0,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5366332658760580843"
+      },
+      {
+        "offset": 3,
+        "length": 52,
+        "type": "bold"
+      },
+      {
+        "offset": 356,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5357121491508928442"
+      },
+      {
+        "offset": 761,
+        "length": 6,
+        "type": "text_link",
+        "url": "https://www.the-independent.com/tech/ai-mathematics-openai-cryptography-internet-b3063456.html"
+      },
+      {
+        "offset": 770,
+        "length": 7,
+        "type": "mention"
+      },
+      {
+        "offset": 778,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5431390559912614642"
+      }
+    ],
+    "media_group_id": null,
+    "chat_id": -1004468214616,
+    "message_ids": [
+      1126
+    ],
+    "update_ids": [
+      378305018
+    ],
+    "retry_count": 0
+  },
+  {
+    "type": "album",
+    "photo_file_ids": [
+      "AgACAgQAAyEFAAMBClOLWAACBGdqyqcxs95qATftkgfx_vSOXgABtF8AAvUUaxv6TElSPOaAlk0Ba8ABAAMCAAN5AAM9BA",
+      "AgACAgQAAyEFAAMBClOLWAACBGhqyqcxATTfNpTi11ur3Jupwf6JDwAC9hRrG_pMSVKEPzzJUnElXQEAAwIAA3kAAz0E"
+    ],
+    "caption": "🤖 OpenAI's math dump is already OBLITERATING entire HUMAN research programs.\n\nThe Verge spoke to 3 dozen+ mathematicians. NYU's Tristan Buckmaster says he's heard of THREE people whose entire research programs were \"obliterated.\" Others say grant proposals have been wiped out. Some results could have put human mathematicians in contention for a Fields Medal.\n\nOpenAI released nearly 400 results across 700+ manuscripts, but only 42% of top-line results are Lean-formalized. It hasn't disclosed the model, prompts or full set of problems attempted.\n\nOne mathematician says even if AI disappeared TODAY, they could spend the next 10 YEARS just studying the results.\n\n@aipost 🏴",
+    "entities": [
+      {
+        "offset": 0,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5397681122542893003"
+      },
+      {
+        "offset": 3,
+        "length": 74,
+        "type": "bold"
+      },
+      {
+        "offset": 668,
+        "length": 7,
+        "type": "mention"
+      },
+      {
+        "offset": 676,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5431390559912614642"
+      }
+    ],
+    "media_group_id": "14333327755489077",
+    "chat_id": -1004468214616,
+    "message_ids": [
+      1127,
+      1128
+    ],
+    "update_ids": [
+      378305019,
+      378305020
+    ],
+    "retry_count": 0
+  },
+  {
+    "type": "photo",
+    "photo_file_ids": [
+      "AgACAgQAAyEFAAMBClOLWAACBGlqyqcx5t_Fkk63zGkewezsTQx_1QAC-xRrG_pMSVKTwl27bvgz4AEAAwIAA3gAAz0E"
+    ],
+    "caption": "❗️AI companies are preparing for a catastrophic incident as early as 2027\n\nExecutives at OpenAI, Anthropic and other AI companies are reportedly bracing for a public and political backlash following a major AI-related disaster, according to Axios.\n\nIndustry insiders reportedly expect a serious incident within the next 6–12 months, potentially involving an AI-powered cyberattack that disrupts banking, internet access, electricity or water supplies.\n\nOpenAI confirmed that it conducts preparedness exercises, while stressing that such scenarios are not considered inevitable. The goal, according to the company, is to prepare for a range of possible circumstances.\n\nAnthropic declined to comment.\n\n@aipost 🏴",
+    "entities": [
+      {
+        "offset": 0,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5289761612440310918"
+      },
+      {
+        "offset": 2,
+        "length": 71,
+        "type": "bold"
+      },
+      {
+        "offset": 700,
+        "length": 7,
+        "type": "mention"
+      },
+      {
+        "offset": 700,
+        "length": 7,
+        "type": "underline"
+      },
+      {
+        "offset": 708,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5431390559912614642"
+      }
+    ],
+    "media_group_id": null,
+    "chat_id": -1004468214616,
+    "message_ids": [
+      1129
+    ],
+    "update_ids": [
+      378305021
+    ],
+    "retry_count": 0
+  },
+  {
+    "type": "photo",
+    "photo_file_ids": [
+      "AgACAgQAAyEFAAMBClOLWAACBGpqyqcx0f-iRGdCPBQyKtytFI_w9gAC9xRrG_pMSVLcTt2YQ3iz_AEAAwIAA3gAAz0E"
+    ],
+    "caption": "🇨🇳 China Is giving AI-generated humans government IDs\n\nChina is taking virtual influencers beyond social media. AI-generated digital humans are reportedly receiving state-issued identity cards that could allow them to open digital-currency wallets, sign contracts and enter commercial partnerships.\n\nOne of the first is Yuri, a virtual idol and artist recognized as a “digital resident” in Beijing. The IDs reportedly include personal details such as a name, birthday, address and facial features.\n\nThe move comes as China’s digital-human industry expands, with more than 1.3 million active businesses and a reported market value exceeding $10 billion.\n\nSupporters say the system could protect intellectual property and make the companies behind virtual personas legally accountable. Critics warn it could also extend state surveillance into digital identities. Meanwhile, some firms are reportedly offering people up to $20,000 to license their likenesses for AI-generated replicas.\n\nChina’s experiment could become an early test of how governments regulate AI identities as virtual entities begin participating in the economy.\n\n@aipost 🏴",
+    "entities": [
+      {
+        "offset": 0,
+        "length": 4,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5431782733376399004"
+      },
+      {
+        "offset": 5,
+        "length": 50,
+        "type": "bold"
+      },
+      {
+        "offset": 1132,
+        "length": 7,
+        "type": "mention"
+      },
+      {
+        "offset": 1140,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5431390559912614642"
+      }
+    ],
+    "media_group_id": null,
+    "chat_id": -1004468214616,
+    "message_ids": [
+      1130
+    ],
+    "update_ids": [
+      378305022
+    ],
+    "retry_count": 0
+  },
+  {
+    "type": "photo",
+    "photo_file_ids": [
+      "AgACAgQAAyEFAAMBClOLWAACBGtqyqcxwPaGz37SUKNZcgngxfA2xwAC-RRrG_pMSVJDXTLv3Pn_HgEAAwIAA3gAAz0E"
+    ],
+    "caption": "⚠️ AI may have helped discover a planet hiding in NASA data since 2018\n\nAn independent researcher used Claude Code to identify a possible new exoplanet buried in NASA’s TESS data since 2018, with no earlier report of the candidate found by the researcher.\n\nClaude Code, powered by Opus 5.5 and Fable 5.1, handled much of the technical work: analyzing stellar brightness data, searching for transits, fitting the signals and ruling out potential false positives. The researcher defined the questions and criteria for validating the result.\n\nThe candidate orbits a star roughly 116 light-years away. Every 3.18 days, the star dims by around 0.05% for about two hours, a pattern consistent with a planet approximately 1.4 times the size of Earth.\n\nIt’s not a confirmed discovery yet. NASA’s TESS mission is scheduled to observe the system again from October 31 to November 26, potentially providing more evidence.\n\nSource. \n\n@aipost 🏴",
+    "entities": [
+      {
+        "offset": 0,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5366332658760580843"
+      },
+      {
+        "offset": 3,
+        "length": 67,
+        "type": "bold"
+      },
+      {
+        "offset": 912,
+        "length": 8,
+        "type": "text_link",
+        "url": "https://www.reddit.com/r/ClaudeAI/comments/1wzw8zd/i_think_i_found_a_planet_nobody_knew_existed_i/"
+      },
+      {
+        "offset": 922,
+        "length": 7,
+        "type": "mention"
+      },
+      {
+        "offset": 930,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5431390559912614642"
+      }
+    ],
+    "media_group_id": null,
+    "chat_id": -1004468214616,
+    "message_ids": [
+      1131
+    ],
+    "update_ids": [
+      378305023
+    ],
+    "retry_count": 0
+  },
+  {
+    "type": "photo",
+    "photo_file_ids": [
+      "AgACAgQAAyEFAAMBClOLWAACBGxqyqcxrlFPvfQEP0BWc4dbDTKNSgAC-hRrG_pMSVLkJYJQDvhjqQEAAwIAA3kAAz0E"
+    ],
+    "caption": "❗️Anthropic says its expanded Claude Startups program received 21 TIMES as many applications in its first 48 hours as the entire previous five months combined.  \n\nHundreds of thousands applied within days. Anthropic has now PAUSED its free year of Claude Team and $1,000 API credits, admitting it accepted too many non-startups. Even some previously approved applications will be reviewed again. Already-claimed benefits remain valid.\n\n@aipost 🏴",
+    "entities": [
+      {
+        "offset": 0,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5289761612440310918"
+      },
+      {
+        "offset": 436,
+        "length": 7,
+        "type": "mention"
+      },
+      {
+        "offset": 444,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5431390559912614642"
+      }
+    ],
+    "media_group_id": null,
+    "chat_id": -1004468214616,
+    "message_ids": [
+      1132
+    ],
+    "update_ids": [
+      378305024
     ],
     "retry_count": 0
   }
