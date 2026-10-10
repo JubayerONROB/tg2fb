@@ -6081,5 +6081,44 @@
       378304886
     ],
     "retry_count": 0
+  },
+  {
+    "type": "video",
+    "video_file_id": "BAACAgQAAyEFAAMBClOLWAACBA9qwyIm-A_wiU6VCTTMW67WSynCUwAC_RwAAkDeAVI-jNvKA8eFFD0E",
+    "video_file_size": 21648848,
+    "caption": "🔍 Google just put an AI chip in orbit\n\nGoogle’s first orbital AI-chip experiment is now in space and the company says it has established contact and the system is operating as expected.\n\nLaunched October 1 aboard SpaceX’s Falcon 9 Transporter-18, the prototype carries four Trillium TPUs and is running Gemini inference in roughly 15-minute bursts. It then shuts down so its radiators can dump the accumulated heat into space.\n\nThe experiment is testing a very different kind of AI infrastructure. There are no fans or air cooling: heat travels through thermal materials and heat pipes before being radiated into space. The satellite also has to deal with radiation, where Google’s testing found the HBM memory was more vulnerable than the TPU itself.\n\nAnd this is only the beginning. Google plans two more satellites in 2027 to test high-bandwidth laser links between spacecraft, with a longer-term vision of tightly packed orbital clusters containing dozens of TPUs per satellite.\n\nOne research concept models an 81-satellite cluster within roughly a 1-km radius, while the broader program has discussed eventually scaling to around 10,000 satellites for a 1 GW orbital AI cluster.\n\n@aipost 🏴",
+    "entities": [
+      {
+        "offset": 0,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5431644246450908867"
+      },
+      {
+        "offset": 3,
+        "length": 35,
+        "type": "bold"
+      },
+      {
+        "offset": 1186,
+        "length": 7,
+        "type": "mention"
+      },
+      {
+        "offset": 1194,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5431390559912614642"
+      }
+    ],
+    "media_group_id": null,
+    "chat_id": -1004468214616,
+    "message_ids": [
+      1039
+    ],
+    "update_ids": [
+      378304931
+    ],
+    "retry_count": 0
   }
 ]
