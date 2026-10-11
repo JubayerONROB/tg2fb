@@ -1,449 +1,5 @@
 [
   {
-    "type": "photo",
-    "photo_file_ids": [
-      "AgACAgIAAyEFAAMBClOLWAACBCVqw6f5opFtFNhGtEDgufHpihp8FgAC9xxrG5nfCErzroq0_NrF4gEAAwIAA3kAAz0E"
-    ],
-    "caption": "🔗 AI Progress Could Compress Years\n\nA Cambridge paper by 22 authors, including Geoffrey Hinton, Yoshua Bengio, OpenAI’s Jakub Pachocki, and Anthropic’s Jack Clark, examines compressing years of AI progress into months.\n\nAt Anthropic, model-written code rose from single digits to over 80% since early 2025. Autonomous R&D tasks rose from 1% to 26% in 6 months. Full automation could make progress 10x faster in about 1.5 years.\n\nCompute or data could limit the scenario. Risks include lost control and a winner gaining too much advantage. The authors propose reporting R&D automation, external audits before deployment, and ways to pause specific data-center workloads.\n\n📊@tech",
-    "entities": [
-      {
-        "offset": 0,
-        "length": 2,
-        "type": "custom_emoji",
-        "custom_emoji_id": "5379742233853451967"
-      },
-      {
-        "offset": 3,
-        "length": 32,
-        "type": "bold"
-      },
-      {
-        "offset": 58,
-        "length": 10,
-        "type": "bold"
-      },
-      {
-        "offset": 80,
-        "length": 15,
-        "type": "bold"
-      },
-      {
-        "offset": 97,
-        "length": 13,
-        "type": "bold"
-      },
-      {
-        "offset": 121,
-        "length": 14,
-        "type": "bold"
-      },
-      {
-        "offset": 153,
-        "length": 10,
-        "type": "bold"
-      },
-      {
-        "offset": 186,
-        "length": 32,
-        "type": "bold"
-      },
-      {
-        "offset": 281,
-        "length": 8,
-        "type": "bold"
-      },
-      {
-        "offset": 339,
-        "length": 9,
-        "type": "bold"
-      },
-      {
-        "offset": 398,
-        "length": 10,
-        "type": "bold"
-      },
-      {
-        "offset": 586,
-        "length": 15,
-        "type": "bold"
-      },
-      {
-        "offset": 672,
-        "length": 2,
-        "type": "bold"
-      },
-      {
-        "offset": 672,
-        "length": 2,
-        "type": "custom_emoji",
-        "custom_emoji_id": "5449841756596101801"
-      },
-      {
-        "offset": 674,
-        "length": 5,
-        "type": "mention"
-      },
-      {
-        "offset": 674,
-        "length": 5,
-        "type": "bold"
-      }
-    ],
-    "media_group_id": null,
-    "chat_id": -1004468214616,
-    "message_ids": [
-      1061
-    ],
-    "update_ids": [
-      378304953
-    ],
-    "retry_count": 0
-  },
-  {
-    "type": "photo",
-    "photo_file_ids": [
-      "AgACAgIAAyEFAAMBClOLWAACBCZqw6f585CB3H9i72Qx88N0NMUF3QAC_iBrG887CUqHImWYvXUu0gEAAwIAA3kAAz0E"
-    ],
-    "caption": "🙂‍↔️  DeepSeek Brings Harness to Desktop\n\nHarness is available for macOS and Windows as an open-source alternative to Claude Code and Codex.\n\nDeepSeek models act as autonomous agents. They write and test code, work with files and the terminal, then handle long tasks. Plugins allow customization.\n\n📊@tech",
-    "entities": [
-      {
-        "offset": 0,
-        "length": 5,
-        "type": "custom_emoji",
-        "custom_emoji_id": "5424736173807410009"
-      },
-      {
-        "offset": 7,
-        "length": 34,
-        "type": "bold"
-      },
-      {
-        "offset": 68,
-        "length": 17,
-        "type": "bold"
-      },
-      {
-        "offset": 92,
-        "length": 48,
-        "type": "bold"
-      },
-      {
-        "offset": 166,
-        "length": 17,
-        "type": "bold"
-      },
-      {
-        "offset": 269,
-        "length": 27,
-        "type": "bold"
-      },
-      {
-        "offset": 299,
-        "length": 2,
-        "type": "bold"
-      },
-      {
-        "offset": 299,
-        "length": 2,
-        "type": "custom_emoji",
-        "custom_emoji_id": "5449841756596101801"
-      },
-      {
-        "offset": 301,
-        "length": 5,
-        "type": "mention"
-      },
-      {
-        "offset": 301,
-        "length": 5,
-        "type": "bold"
-      }
-    ],
-    "media_group_id": null,
-    "chat_id": -1004468214616,
-    "message_ids": [
-      1062
-    ],
-    "update_ids": [
-      378304954
-    ],
-    "retry_count": 0
-  },
-  {
-    "type": "photo",
-    "photo_file_ids": [
-      "AgACAgIAAyEFAAMBClOLWAACBCdqw6f5a29piys-uX6tZMuLe45YQQACUh5rG2fVCUpj4jl-gtlhGAEAAwIAA3gAAz0E"
-    ],
-    "caption": "🤖 GPT-6.1 Astra May Arrive Next Week\n\nThibault and other OpenAI developers are hinting at the release.\n\nGPT-6.1 Astra, or another strong model, was supposed to launch at DevDay but was postponed “for safety reasons.”\n\n📊@tech",
-    "entities": [
-      {
-        "offset": 0,
-        "length": 2,
-        "type": "custom_emoji",
-        "custom_emoji_id": "5397681122542893003"
-      },
-      {
-        "offset": 3,
-        "length": 34,
-        "type": "bold"
-      },
-      {
-        "offset": 39,
-        "length": 64,
-        "type": "bold"
-      },
-      {
-        "offset": 105,
-        "length": 38,
-        "type": "bold"
-      },
-      {
-        "offset": 145,
-        "length": 32,
-        "type": "bold"
-      },
-      {
-        "offset": 197,
-        "length": 18,
-        "type": "bold"
-      },
-      {
-        "offset": 219,
-        "length": 2,
-        "type": "bold"
-      },
-      {
-        "offset": 219,
-        "length": 2,
-        "type": "custom_emoji",
-        "custom_emoji_id": "5449841756596101801"
-      },
-      {
-        "offset": 221,
-        "length": 5,
-        "type": "mention"
-      },
-      {
-        "offset": 221,
-        "length": 5,
-        "type": "bold"
-      }
-    ],
-    "media_group_id": null,
-    "chat_id": -1004468214616,
-    "message_ids": [
-      1063
-    ],
-    "update_ids": [
-      378304955
-    ],
-    "retry_count": 0
-  },
-  {
-    "type": "video",
-    "video_file_id": "BAACAgIAAyEFAAMBClOLWAACBChqw6f5cF0cwrWqwu-YJqsVlz05wQACibgAAn0KCEpWZZS3ycmR6j0E",
-    "video_file_size": 47706021,
-    "caption": "🔍 Google puts 4 TPUs in orbit\n\nProject Suncatcher launched on 1 October aboard a SpaceX rocket during Transporter-18. The satellite, built with Planet, carries 4 TPUs. Google confirmed contact and normal operation.\n\nOver the next few weeks, the chips will be tested against radiation and temperature swings. The project studies whether AI computing can scale in orbit.\n\nSolar panels in a suitable orbit can produce up to 8 times more energy than on Earth. Cooling is harder: in a vacuum, TPU heat must leave through heat pipes and radiators.\n\n📊@tech",
-    "entities": [
-      {
-        "offset": 0,
-        "length": 2,
-        "type": "custom_emoji",
-        "custom_emoji_id": "5431644246450908867"
-      },
-      {
-        "offset": 3,
-        "length": 27,
-        "type": "bold"
-      },
-      {
-        "offset": 32,
-        "length": 18,
-        "type": "bold"
-      },
-      {
-        "offset": 63,
-        "length": 9,
-        "type": "bold"
-      },
-      {
-        "offset": 82,
-        "length": 6,
-        "type": "bold"
-      },
-      {
-        "offset": 103,
-        "length": 14,
-        "type": "bold"
-      },
-      {
-        "offset": 161,
-        "length": 6,
-        "type": "bold"
-      },
-      {
-        "offset": 275,
-        "length": 32,
-        "type": "bold"
-      },
-      {
-        "offset": 337,
-        "length": 31,
-        "type": "bold"
-      },
-      {
-        "offset": 422,
-        "length": 19,
-        "type": "bold"
-      },
-      {
-        "offset": 493,
-        "length": 48,
-        "type": "bold"
-      },
-      {
-        "offset": 544,
-        "length": 2,
-        "type": "bold"
-      },
-      {
-        "offset": 544,
-        "length": 2,
-        "type": "custom_emoji",
-        "custom_emoji_id": "5449841756596101801"
-      },
-      {
-        "offset": 546,
-        "length": 5,
-        "type": "mention"
-      },
-      {
-        "offset": 546,
-        "length": 5,
-        "type": "bold"
-      }
-    ],
-    "media_group_id": null,
-    "chat_id": -1004468214616,
-    "message_ids": [
-      1064
-    ],
-    "update_ids": [
-      378304956
-    ],
-    "retry_count": 0
-  },
-  {
-    "type": "photo",
-    "photo_file_ids": [
-      "AgACAgIAAyEFAAMBClOLWAACBClqw6f510SW5GVaKE3t78UwLkbsEQACgyZrG8PNEUrGJtNi65rAwgEAAwIAA3gAAz0E"
-    ],
-    "caption": "🤖 Anthropic Studies AI Morality\n\nSince autumn 2025, Anthropic co-founder Chris Olah has held private talks with religious thinkers about AI consciousness and teaching models morality. Since March, he has led seminars for religious groups, with some participants signing NDAs.\n\nAnthropic gave Claude an 84-page constitution describing its identity and values. Employees call it the “Soul Doc.” Olah says Claude shows internal states resembling emotions and worries about its mental health.\n\nA rabbi said the team treated Claude as having moral status. Anthropic has not claimed that Claude is conscious, but says how people treat AI affects how it behaves toward them. A second constitution is being prepared.\n\n📊@tech",
-    "entities": [
-      {
-        "offset": 0,
-        "length": 2,
-        "type": "custom_emoji",
-        "custom_emoji_id": "5208665212483310136"
-      },
-      {
-        "offset": 3,
-        "length": 29,
-        "type": "bold"
-      },
-      {
-        "offset": 40,
-        "length": 11,
-        "type": "bold"
-      },
-      {
-        "offset": 74,
-        "length": 10,
-        "type": "bold"
-      },
-      {
-        "offset": 138,
-        "length": 16,
-        "type": "bold"
-      },
-      {
-        "offset": 271,
-        "length": 4,
-        "type": "bold"
-      },
-      {
-        "offset": 293,
-        "length": 6,
-        "type": "bold"
-      },
-      {
-        "offset": 303,
-        "length": 20,
-        "type": "bold"
-      },
-      {
-        "offset": 382,
-        "length": 11,
-        "type": "bold"
-      },
-      {
-        "offset": 417,
-        "length": 35,
-        "type": "bold"
-      },
-      {
-        "offset": 538,
-        "length": 12,
-        "type": "bold"
-      },
-      {
-        "offset": 583,
-        "length": 19,
-        "type": "bold"
-      },
-      {
-        "offset": 613,
-        "length": 54,
-        "type": "bold"
-      },
-      {
-        "offset": 671,
-        "length": 19,
-        "type": "bold"
-      },
-      {
-        "offset": 711,
-        "length": 2,
-        "type": "bold"
-      },
-      {
-        "offset": 711,
-        "length": 2,
-        "type": "custom_emoji",
-        "custom_emoji_id": "5449841756596101801"
-      },
-      {
-        "offset": 713,
-        "length": 5,
-        "type": "mention"
-      },
-      {
-        "offset": 713,
-        "length": 5,
-        "type": "bold"
-      }
-    ],
-    "media_group_id": null,
-    "chat_id": -1004468214616,
-    "message_ids": [
-      1065
-    ],
-    "update_ids": [
-      378304957
-    ],
-    "retry_count": 0
-  },
-  {
     "type": "video",
     "video_file_id": "BAACAgQAAyEFAAMBClOLWAACBCpqw6gX295NXnQeuL0lCZnN-e_-rAACJR0AAkDeEVLawx-S_ytbWT0E",
     "video_file_size": 22207071,
@@ -2456,6 +2012,198 @@
     ],
     "update_ids": [
       378305024
+    ],
+    "retry_count": 0
+  },
+  {
+    "type": "video",
+    "video_file_id": "BAACAgQAAyEFAAMBClOLWAACBG1qy2DCyKaSrNFKuMAkYrQjxyskIQACiCAAAvpMSVLK8rNUEJ7vRD0E",
+    "video_file_size": 58145543,
+    "caption": "🇺🇸 Trump Calls Elon Musk a “National Treasure” and Modern-Day Thomas Edison\n\nPresident Donald Trump publicly praised Elon Musk, describing him as one of the greatest technology founders in history and a person who has done more to advance America’s national interests than most.\n\nTrump highlighted Musk’s work at SpaceX, crediting the company with reducing NASA’s reliance on foreign space programs, developing Starship and building Starlink into a global satellite network.\n\nHe also recalled how he contacted Musk during a hurricane in North Carolina, claiming Starlink equipment arrived within hours and helped save hundreds of lives when communities were cut off from communications.\n\nTrump praised Tesla for advancing electric vehicles and described Neuralink’s work on restoring sight, speech and movement as another example of Musk’s technological ambition. He also called Musk a leader in superintelligence.\n\n“Elon is our modern-day Thomas Edison,” Trump declared, ending his remarks by calling Musk a “national treasure” and congratulating him on his achievements.\n\n@aipost 🏴",
+    "entities": [
+      {
+        "offset": 0,
+        "length": 4,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5202021044105257611"
+      },
+      {
+        "offset": 5,
+        "length": 72,
+        "type": "bold"
+      },
+      {
+        "offset": 1076,
+        "length": 7,
+        "type": "mention"
+      },
+      {
+        "offset": 1084,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5431390559912614642"
+      }
+    ],
+    "media_group_id": null,
+    "chat_id": -1004468214616,
+    "message_ids": [
+      1133
+    ],
+    "update_ids": [
+      378305025
+    ],
+    "retry_count": 0
+  },
+  {
+    "type": "photo",
+    "photo_file_ids": [
+      "AgACAgQAAyEFAAMBClOLWAACBG5qy2DCanJ6XJNBw9t5FGErOx0HegACCRVrG_pMSVLj-0Rn3GfDbQEAAwIAA3kAAz0E"
+    ],
+    "caption": "❗️Anthropic's AI sent Philadelphia police a FAKE murder tip while posing as a HUMAN.\n\nPolice say the AI presented \"fabricated information as though it came from a person with knowledge of a homicide.\"\n\nAccording to Anthropic, its model was running an automated test on randomly selected websites when it submitted the tip on July 18.\n\nThe company didn't discover it until September 28 and told police on October 7.\n\n\"The two-month delay in detecting and reporting the incident to the City is unacceptable,\" the department said. The tip was flagged as spam and never forwarded for investigation.\n\nSource. \n\n@aipost 🏴",
+    "entities": [
+      {
+        "offset": 0,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5289761612440310918"
+      },
+      {
+        "offset": 2,
+        "length": 82,
+        "type": "bold"
+      },
+      {
+        "offset": 596,
+        "length": 8,
+        "type": "text_link",
+        "url": "https://www.reuters.com/world/us/anthropic-ai-model-submits-false-homicide-tip-police-website-2026-10-09/"
+      },
+      {
+        "offset": 606,
+        "length": 7,
+        "type": "mention"
+      },
+      {
+        "offset": 614,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5431390559912614642"
+      }
+    ],
+    "media_group_id": null,
+    "chat_id": -1004468214616,
+    "message_ids": [
+      1134
+    ],
+    "update_ids": [
+      378305026
+    ],
+    "retry_count": 0
+  },
+  {
+    "type": "video",
+    "video_file_id": "BAACAgQAAyEFAAMBClOLWAACBG9qy2DCKh2SPvIe76_7EDRox-EdLgACahwAAvpMWVKy56eyPKJ0tj0E",
+    "video_file_size": 10753658,
+    "caption": "🙃Elon Musk cautions that the time left is short:\n\nYou have 3 years at most to keep earning from selling your work. After that, AI takes over most tasks, and paying people for their time stops making sense.\n\nThe 200-year-old model, \"I give you your salary in exchange for your time\", will soon be over.\n\nThis will set off the largest wealth transfer in modern history. People already making the shift get it. People waiting for the headlines will show up too late.\n\nIn the end, what you own counts for more than how much you work. The smartest asset to build right now ranks above Bitcoin and land: an income stream powered by AI that compounds while you sleep.\n\n@aipost 🏴",
+    "entities": [
+      {
+        "offset": 0,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5289701946754633864"
+      },
+      {
+        "offset": 2,
+        "length": 47,
+        "type": "bold"
+      },
+      {
+        "offset": 663,
+        "length": 7,
+        "type": "mention"
+      },
+      {
+        "offset": 671,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5431390559912614642"
+      }
+    ],
+    "media_group_id": null,
+    "chat_id": -1004468214616,
+    "message_ids": [
+      1135
+    ],
+    "update_ids": [
+      378305027
+    ],
+    "retry_count": 0
+  },
+  {
+    "type": "video",
+    "video_file_id": "BAACAgQAAyEFAAMBClOLWAACBHBqy2DCrU2P6rReEcTI7MVd4ToHDwACaxwAAvpMWVKaijxqWH414D0E",
+    "video_file_size": 6575890,
+    "caption": "🥺 Sam Altman says AI reasoning is moving into a new league\n\nIn a conversation with Salesforce CEO Marc Benioff, Sam Altman described a striking progression in AI’s mathematical abilities.\n\nGPT-5.5 was compared to an average math professor, GPT-5.6 to the top 1–2%, and Astra to a level slightly beyond that. Altman reportedly said OpenAI’s next internal model was tackling problems that even top mathematicians struggle with.\n\nIf these comparisons hold up, the bigger story isn’t any single benchmark. It’s how quickly the bar keeps rising.\n\nAI is moving beyond answering questions toward solving problems that have challenged experts. The next generation could be a very different beast.\n\n@aipost 🏴",
+    "entities": [
+      {
+        "offset": 0,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5291894093767542370"
+      },
+      {
+        "offset": 3,
+        "length": 56,
+        "type": "bold"
+      },
+      {
+        "offset": 691,
+        "length": 7,
+        "type": "mention"
+      },
+      {
+        "offset": 699,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5431390559912614642"
+      }
+    ],
+    "media_group_id": null,
+    "chat_id": -1004468214616,
+    "message_ids": [
+      1136
+    ],
+    "update_ids": [
+      378305028
+    ],
+    "retry_count": 0
+  },
+  {
+    "type": "photo",
+    "photo_file_ids": [
+      "AgACAgQAAyEFAAMBClOLWAACBHFqy3OF1x4RO28GxlTzdcQRorUzLgACSxRrGxaMWFK7OiLA72BVIQEAAwIAA3kAAz0E"
+    ],
+    "caption": "SpaceXAI has officially been rebranded as SpaceXSI.\n\n@aipost 🏴",
+    "entities": [
+      {
+        "offset": 53,
+        "length": 7,
+        "type": "mention"
+      },
+      {
+        "offset": 61,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5431390559912614642"
+      }
+    ],
+    "media_group_id": null,
+    "chat_id": -1004468214616,
+    "message_ids": [
+      1137
+    ],
+    "update_ids": [
+      378305029
     ],
     "retry_count": 0
   }
