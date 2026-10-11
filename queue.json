@@ -1,219 +1,5 @@
 [
   {
-    "type": "video",
-    "video_file_id": "BAACAgQAAyEFAAMBClOLWAACBCpqw6gX295NXnQeuL0lCZnN-e_-rAACJR0AAkDeEVLawx-S_ytbWT0E",
-    "video_file_size": 22207071,
-    "caption": "🗣Geoffrey Hinton: I don’t think Donald Trump really understands AI.\n\n“I think he’s being badly advised about AI.”\n\n“It’s rather foolish to push so hard toward superintelligent AI before we understand how to coexist with it.”\n\n“We’re about to create things that are more intelligent than us, probably sometime within the next decade.”\n\n“You can’t rely on companies to regulate themselves when there are enormous financial incentives involved.”\n\n“Winning a race to superintelligence is a lot like winning a global nuclear war. There is no winner.”\n\n@aipost 🏴",
-    "entities": [
-      {
-        "offset": 0,
-        "length": 2,
-        "type": "custom_emoji",
-        "custom_emoji_id": "5287468155738821335"
-      },
-      {
-        "offset": 2,
-        "length": 66,
-        "type": "bold"
-      },
-      {
-        "offset": 70,
-        "length": 476,
-        "type": "blockquote"
-      },
-      {
-        "offset": 548,
-        "length": 7,
-        "type": "mention"
-      },
-      {
-        "offset": 556,
-        "length": 2,
-        "type": "custom_emoji",
-        "custom_emoji_id": "5431390559912614642"
-      }
-    ],
-    "media_group_id": null,
-    "chat_id": -1004468214616,
-    "message_ids": [
-      1066
-    ],
-    "update_ids": [
-      378304958
-    ],
-    "retry_count": 0
-  },
-  {
-    "type": "photo",
-    "photo_file_ids": [
-      "AgACAgQAAyEFAAMBClOLWAACBCtqw6gXGve8NFfcskqONcM1m3dHZQACjQ9rG0DeEVKoKUfFn_heJQEAAwIAA3cAAz0E"
-    ],
-    "caption": "❗️Farmersville, California, will use Grok to draft council meeting minutes\n\nThe council voted 4-1 to use Grok. Drafts will be made from meeting recordings and proofread by the city clerk. The city manager praised Grok as more affordable, thorough and objective.\n\n@aipost 🏴",
-    "entities": [
-      {
-        "offset": 0,
-        "length": 2,
-        "type": "custom_emoji",
-        "custom_emoji_id": "5289761612440310918"
-      },
-      {
-        "offset": 2,
-        "length": 72,
-        "type": "bold"
-      },
-      {
-        "offset": 263,
-        "length": 7,
-        "type": "mention"
-      },
-      {
-        "offset": 271,
-        "length": 2,
-        "type": "custom_emoji",
-        "custom_emoji_id": "5431390559912614642"
-      }
-    ],
-    "media_group_id": null,
-    "chat_id": -1004468214616,
-    "message_ids": [
-      1067
-    ],
-    "update_ids": [
-      378304959
-    ],
-    "retry_count": 0
-  },
-  {
-    "type": "photo",
-    "photo_file_ids": [
-      "AgACAgQAAyEFAAMBClOLWAACBCxqw6gXu472t7xtiOwKEkk3UWIJxwACjg9rG0DeEVJdvw4FsfPnZAEAAwIAA3kAAz0E"
-    ],
-    "caption": "🇰🇷 South Korea is betting $900B on the AI race\n\nSouth Korea is planning more than $900 billion in AI-era investment, spanning data centers, semiconductors, HBM memory and physical AI. Samsung and SK alone have announced hundreds of billions of dollars in chip investment, while massive new data-center capacity is being planned through 2035.\n\nSeoul’s wants to turn Korea into a global AI superpower by controlling more of the stack, from the chips powering AI, to the compute running it, to robots and factories using it.\n\nThe government has even put “physical AI” alongside semiconductors and AI data centers as pillars of its strategy, linking the AI “brain” to robots and machines operating in the real world.\n\nSo this isn’t really $900B being spent on “superintelligence.” It’s a bet that the countries controlling the infrastructure around AI could become just as important as the companies building the models.\n\nAnd South Korea clearly wants to be one of them.\n\n@aipost 🏴",
-    "entities": [
-      {
-        "offset": 0,
-        "length": 4,
-        "type": "custom_emoji",
-        "custom_emoji_id": "5456531898304047227"
-      },
-      {
-        "offset": 4,
-        "length": 44,
-        "type": "bold"
-      },
-      {
-        "offset": 970,
-        "length": 7,
-        "type": "mention"
-      },
-      {
-        "offset": 978,
-        "length": 2,
-        "type": "custom_emoji",
-        "custom_emoji_id": "5431390559912614642"
-      }
-    ],
-    "media_group_id": null,
-    "chat_id": -1004468214616,
-    "message_ids": [
-      1068
-    ],
-    "update_ids": [
-      378304960
-    ],
-    "retry_count": 0
-  },
-  {
-    "type": "photo",
-    "photo_file_ids": [
-      "AgACAgQAAyEFAAMBClOLWAACBC1qxrfWINbdWyca8o3FdEUkzUmxHwAC9Q5rG94oGVI3oixxOZ0_qwEAAwIAA3kAAz0E"
-    ],
-    "caption": "🤖 OpenAI Is Bringing Ads Into ChatGPT\n\nOpenAI is preparing to test a new advertising format inside ChatGPT and it’s showing up in a rather unexpected place: image generation.\n\nThe ads will appear separately from the images created by ChatGPT and will be clearly labeled as advertisements. OpenAI says they won’t influence the model’s responses or the content it generates.\n\nThe first tests are expected to begin later this October in the US, with only a small group of advertisers taking part initially.\n\nIt marks another step toward turning ChatGPT into a larger commercial platform, while OpenAI tries to keep ads separate from the actual AI experience.\n\nSource.\n\n@aipost 🏴",
-    "entities": [
-      {
-        "offset": 0,
-        "length": 2,
-        "type": "custom_emoji",
-        "custom_emoji_id": "5397681122542893003"
-      },
-      {
-        "offset": 3,
-        "length": 35,
-        "type": "bold"
-      },
-      {
-        "offset": 658,
-        "length": 6,
-        "type": "text_link",
-        "url": "https://openai.com/index/new-chatgpt-ads-format-and-measurement"
-      },
-      {
-        "offset": 667,
-        "length": 7,
-        "type": "mention"
-      },
-      {
-        "offset": 675,
-        "length": 2,
-        "type": "custom_emoji",
-        "custom_emoji_id": "5431390559912614642"
-      }
-    ],
-    "media_group_id": null,
-    "chat_id": -1004468214616,
-    "message_ids": [
-      1069
-    ],
-    "update_ids": [
-      378304961
-    ],
-    "retry_count": 0
-  },
-  {
-    "type": "video",
-    "video_file_id": "BAACAgQAAyEFAAMBClOLWAACBC5qxrfWQ-0UUQ50jr1C-5wTkiGzywACTx8AAt4oGVJu176JtwZfyz0E",
-    "video_file_size": 5010682,
-    "caption": "😎 Sam Altman: the future of AI is a Renaissance, not an industrial revolution.\n\n\"People often talk about AI as an industrial revolution.\"\n\n\"The best part of AI is not about making people cogs in a machine.\"\n\n\"I believe the future, if we get this right, can be more like a Renaissance than an industrial revolution.\"\n\n\"AI should be about giving people more power in their lives.\"\n\n@aipost 🏴",
-    "entities": [
-      {
-        "offset": 0,
-        "length": 2,
-        "type": "custom_emoji",
-        "custom_emoji_id": "5289834369186299969"
-      },
-      {
-        "offset": 3,
-        "length": 76,
-        "type": "bold"
-      },
-      {
-        "offset": 81,
-        "length": 298,
-        "type": "blockquote"
-      },
-      {
-        "offset": 381,
-        "length": 7,
-        "type": "mention"
-      },
-      {
-        "offset": 389,
-        "length": 2,
-        "type": "custom_emoji",
-        "custom_emoji_id": "5431390559912614642"
-      }
-    ],
-    "media_group_id": null,
-    "chat_id": -1004468214616,
-    "message_ids": [
-      1070
-    ],
-    "update_ids": [
-      378304962
-    ],
-    "retry_count": 0
-  },
-  {
     "type": "photo",
     "photo_file_ids": [
       "AgACAgQAAyEFAAMBClOLWAACBC9qxrfWju_BEJM0zrvk4P06pzxbiwACYA5rG94oGVItaPHViVqrIAEAAwIAA3kAAz0E"
@@ -2204,6 +1990,124 @@
     ],
     "update_ids": [
       378305029
+    ],
+    "retry_count": 0
+  },
+  {
+    "type": "video",
+    "video_file_id": "BAACAgQAAyEFAAMBClOLWAACBHJqy8aeTBp8-VL0XvcFz2YwA-yrPQACxyAAAhaMWFIC0spw4NVBdj0E",
+    "video_file_size": 18161042,
+    "caption": "❗️A top mathematician warns against sharing original ideas with ChatGPT\n\nTristan Buckmaster still uses AI tools but says he no longer shares his original research ideas with OpenAI or Anthropic.\n\nHis concern grew after OpenAI published 722 mathematical manuscripts covering 372 families of results, generated using an experimental model unavailable to outside researchers. He fears young mathematicians could see years of work overtaken overnight.\n\nHe also warns that grant reviewers sometimes upload research proposals to AI tools, potentially exposing confidential ideas.\n\nOpenAI denies misusing user data, and there’s no proof it took Buckmaster’s work.\n\nHis warning: the AI helping you make a breakthrough could belong to a company racing to make that breakthrough first.\n\n@aipost 🏴",
+    "entities": [
+      {
+        "offset": 0,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5289761612440310918"
+      },
+      {
+        "offset": 2,
+        "length": 69,
+        "type": "bold"
+      },
+      {
+        "offset": 777,
+        "length": 7,
+        "type": "mention"
+      },
+      {
+        "offset": 785,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5431390559912614642"
+      }
+    ],
+    "media_group_id": null,
+    "chat_id": -1004468214616,
+    "message_ids": [
+      1138
+    ],
+    "update_ids": [
+      378305030
+    ],
+    "retry_count": 0
+  },
+  {
+    "type": "video",
+    "video_file_id": "BAACAgQAAyEFAAMBClOLWAACBHNqy8ae5hfmmisNCTOOyrRK5hGDzwACyCAAAhaMWFIJy3st33lR4D0E",
+    "video_file_size": 8272101,
+    "caption": "😐 Jensen Huang: China is no longer catching up in AI. In many fields, it has become advanced.\n\nNvidia's CEO said it clearly:\n\n\"50% of the world's AI researchers are Chinese.\"\n\n\"70% of AI patents last year were published in China.\"\n\n\"China's AI ecosystem is vibrant, rich, and unbelievably innovative.\"\n\n\"Nine of the top ten science and technology schools in the world are now in China.\"\n\n\"We used to lead most of these fields. Now they lead most of them.\"\n\nThe statement from the man who sells chips to both sides. And the message is clear: The race is no longer one-sided. \n\n@aipost 🏴",
+    "entities": [
+      {
+        "offset": 0,
+        "length": 2,
+        "type": "bold"
+      },
+      {
+        "offset": 0,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5292058161518251626"
+      },
+      {
+        "offset": 2,
+        "length": 92,
+        "type": "bold"
+      },
+      {
+        "offset": 127,
+        "length": 329,
+        "type": "blockquote"
+      },
+      {
+        "offset": 577,
+        "length": 7,
+        "type": "mention"
+      },
+      {
+        "offset": 585,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5431390559912614642"
+      }
+    ],
+    "media_group_id": null,
+    "chat_id": -1004468214616,
+    "message_ids": [
+      1139
+    ],
+    "update_ids": [
+      378305031
+    ],
+    "retry_count": 0
+  },
+  {
+    "type": "text",
+    "caption": "God-like super intelligence arrives. \n\nFirst three things you ask for: \n1. ___________\n2. ___________\n3. ___________",
+    "entities": [
+      {
+        "offset": 74,
+        "length": 13,
+        "type": "italic"
+      },
+      {
+        "offset": 89,
+        "length": 13,
+        "type": "italic"
+      },
+      {
+        "offset": 104,
+        "length": 12,
+        "type": "italic"
+      }
+    ],
+    "media_group_id": null,
+    "chat_id": -1004468214616,
+    "message_ids": [
+      1140
+    ],
+    "update_ids": [
+      378305032
     ],
     "retry_count": 0
   }

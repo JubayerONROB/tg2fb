@@ -6214,5 +6214,49 @@
       378304956
     ],
     "retry_count": 0
+  },
+  {
+    "type": "video",
+    "video_file_id": "BAACAgQAAyEFAAMBClOLWAACBCpqw6gX295NXnQeuL0lCZnN-e_-rAACJR0AAkDeEVLawx-S_ytbWT0E",
+    "video_file_size": 22207071,
+    "caption": "🗣Geoffrey Hinton: I don’t think Donald Trump really understands AI.\n\n“I think he’s being badly advised about AI.”\n\n“It’s rather foolish to push so hard toward superintelligent AI before we understand how to coexist with it.”\n\n“We’re about to create things that are more intelligent than us, probably sometime within the next decade.”\n\n“You can’t rely on companies to regulate themselves when there are enormous financial incentives involved.”\n\n“Winning a race to superintelligence is a lot like winning a global nuclear war. There is no winner.”\n\n@aipost 🏴",
+    "entities": [
+      {
+        "offset": 0,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5287468155738821335"
+      },
+      {
+        "offset": 2,
+        "length": 66,
+        "type": "bold"
+      },
+      {
+        "offset": 70,
+        "length": 476,
+        "type": "blockquote"
+      },
+      {
+        "offset": 548,
+        "length": 7,
+        "type": "mention"
+      },
+      {
+        "offset": 556,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5431390559912614642"
+      }
+    ],
+    "media_group_id": null,
+    "chat_id": -1004468214616,
+    "message_ids": [
+      1066
+    ],
+    "update_ids": [
+      378304958
+    ],
+    "retry_count": 0
   }
 ]
