@@ -6258,5 +6258,39 @@
       378304958
     ],
     "retry_count": 0
+  },
+  {
+    "type": "video",
+    "video_file_id": "BAACAgQAAyEFAAMBClOLWAACBFRqyPiTIVbBXne_LJaYFawgDj4GzgACax8AAnMxQFLye0axSxrtoT0E",
+    "video_file_size": 21157632,
+    "caption": "🗣Sam Altman says the public has mischaracterized him as AI's villain for the same reason he once mischaracterized Mark Zuckerberg: \n\nWhen a new technology brings fast change, people project their fear onto the person who seems to hold the most power. Admits that in the early days of Meta he held similar belief towards Mark Zuckerberg, at a time when he did not know Zuckerberg personally.\n\n@aipost 🏴",
+    "entities": [
+      {
+        "offset": 0,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5287468155738821335"
+      },
+      {
+        "offset": 393,
+        "length": 7,
+        "type": "mention"
+      },
+      {
+        "offset": 401,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5431390559912614642"
+      }
+    ],
+    "media_group_id": null,
+    "chat_id": -1004468214616,
+    "message_ids": [
+      1108
+    ],
+    "update_ids": [
+      378305000
+    ],
+    "retry_count": 0
   }
 ]
