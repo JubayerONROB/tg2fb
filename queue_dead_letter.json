@@ -6292,5 +6292,44 @@
       378305000
     ],
     "retry_count": 0
+  },
+  {
+    "type": "video",
+    "video_file_id": "BAACAgQAAyEFAAMBClOLWAACBF5qyPiT9K2O3zaylwSEo1vjs_K_HQACzh4AAnMxSFIycDYha03s5z0E",
+    "video_file_size": 22017761,
+    "caption": "🗣Jeff Bezos BACKS President Trump’s plan to change Artificial Intelligence to Super Intelligence. \n\nBret Baier: “The president says SI. Are you into SI?”\n\nJeff Bezos: “I do like SI because artificial is not a very flattering thing. Nobody wants an artificial sweetener or artificial flavoring.”\n\nBret Baier: “Isn't Super Intelligence a little scary?” \n\nJeff Bezos: “Artificial means fake. It's a big road to change everybody getting to say Super Intelligence only because they're so used to AI at this point… but I do understand the desire to get away from the word artificial.”\n\n@aipost 🏴",
+    "entities": [
+      {
+        "offset": 0,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5287468155738821335"
+      },
+      {
+        "offset": 2,
+        "length": 97,
+        "type": "bold"
+      },
+      {
+        "offset": 581,
+        "length": 7,
+        "type": "mention"
+      },
+      {
+        "offset": 589,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5431390559912614642"
+      }
+    ],
+    "media_group_id": null,
+    "chat_id": -1004468214616,
+    "message_ids": [
+      1118
+    ],
+    "update_ids": [
+      378305010
+    ],
+    "retry_count": 0
   }
 ]
