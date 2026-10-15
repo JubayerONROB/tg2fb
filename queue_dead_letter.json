@@ -6414,5 +6414,69 @@
       378305036
     ],
     "retry_count": 0
+  },
+  {
+    "type": "video",
+    "video_file_id": "BAACAgIAAyEFAAMBClOLWAACBJZq0MT0mB4QBXEIG-SchGvHn36tqAACjbAAAkD_SEq4xQ26fBSMRz0E",
+    "video_file_size": 34350355,
+    "caption": "🤖 Dots Gain New Mobile Features\n\nOn ChatGPT on iOS and Android, users can create a Dot with a custom name and appearance, enable plugins, and set it as the default companion.\n\nWith Codex integration, it can start coding tasks and resume unfinished ones using ChatGPT history for earlier Codex tasks and configured automations.\n\nIt can also view and edit scheduled tasks in ChatGPT Work, including recurring report schedules and automated processes.\n\n📊@tech",
+    "entities": [
+      {
+        "offset": 0,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5397681122542893003"
+      },
+      {
+        "offset": 3,
+        "length": 29,
+        "type": "bold"
+      },
+      {
+        "offset": 37,
+        "length": 26,
+        "type": "bold"
+      },
+      {
+        "offset": 182,
+        "length": 17,
+        "type": "bold"
+      },
+      {
+        "offset": 355,
+        "length": 31,
+        "type": "bold"
+      },
+      {
+        "offset": 451,
+        "length": 2,
+        "type": "bold"
+      },
+      {
+        "offset": 451,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5449841756596101801"
+      },
+      {
+        "offset": 453,
+        "length": 5,
+        "type": "mention"
+      },
+      {
+        "offset": 453,
+        "length": 5,
+        "type": "bold"
+      }
+    ],
+    "media_group_id": null,
+    "chat_id": -1004468214616,
+    "message_ids": [
+      1174
+    ],
+    "update_ids": [
+      378305066
+    ],
+    "retry_count": 0
   }
 ]
