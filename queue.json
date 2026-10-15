@@ -1,1 +1,80 @@
-[]
+[
+  {
+    "type": "photo",
+    "photo_file_ids": [
+      "AgACAgQAAyEFAAMBClOLWAACBH5q0F3EvtuLn-Jx1qJMu_9AKYDWHwACehhrGxaMYFLhwYa4JRNUiAEAAwIAA3kAAz0E"
+    ],
+    "caption": "❗️Karpathy: 5,000 people are living in a different AI world\n\nAndrej Karpathy believes the gap between public perception of AI and its real capabilities has widened dramatically over the past six months.\n\nAround 6 billion people have barely used LLMs, while another 1–2 billion mainly treat free chatbots as improved search engines. Meanwhile, roughly 20 million developers and mathematicians are already using frontier models to complete projects in days that once took far longer.\n\nBut inside AI labs, a much smaller group of around 5,000 people is seeing something even more extreme: thousands of AI agents working for weeks to find software vulnerabilities and explore scientific and mathematical problems faster than humans can verify the results.\n\nKarpathy attributes this divide to task complexity, uneven model capabilities, and access. Simple questions reveal little of what AI can do on large, complex tasks. Models perform particularly well on digital problems with verifiable outcomes, where reinforcement learning can optimize their performance.\n\nThe result is a strange reality, most people see chatbots that still make obvious mistakes, while a tiny group watches AI capabilities accelerate at a pace that is becoming difficult to comprehend.\n\nBoth worlds exist simultaneously but the gap between them keeps growing.\n\n@aipost 🏴",
+    "entities": [
+      {
+        "offset": 0,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5289761612440310918"
+      },
+      {
+        "offset": 2,
+        "length": 57,
+        "type": "bold"
+      },
+      {
+        "offset": 1332,
+        "length": 7,
+        "type": "mention"
+      },
+      {
+        "offset": 1340,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5431390559912614642"
+      }
+    ],
+    "media_group_id": null,
+    "chat_id": -1004468214616,
+    "message_ids": [
+      1150
+    ],
+    "update_ids": [
+      378305042
+    ],
+    "retry_count": 0
+  },
+  {
+    "type": "album",
+    "photo_file_ids": [
+      "AgACAgQAAyEFAAMBClOLWAACBH9q0F3E6oIa85MFvypcY_ADrqdhzwACexhrGxaMYFKQXfegAtTcvQEAAwIAA3gAAz0E",
+      "AgACAgQAAyEFAAMBClOLWAACBIBq0F3ECdeXS5cnZvDqY2G-mow3dwACfBhrGxaMYFKGLQvNPIUuhQEAAwIAA3kAAz0E"
+    ],
+    "caption": "❗️The prestigious £10,000 Caine Prize for African Writing has launched an investigation into its 2026 winner after AI detector Pangram flagged almost his ENTIRE award-winning story as AI-generated, The Atlantic reports.\n\nThe findings get even more interesting: The Atlantic tested ALL 25 previous winners, plus a 2021 story by this year's winner, Zimbabwean writer Simbarashe Steyn Kundizeza. Every single one was classified as HUMAN-WRITTEN by Pangram. The investigation is ongoing.\n\n@aipost 🏴",
+    "entities": [
+      {
+        "offset": 0,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5289761612440310918"
+      },
+      {
+        "offset": 485,
+        "length": 7,
+        "type": "mention"
+      },
+      {
+        "offset": 493,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5431390559912614642"
+      }
+    ],
+    "media_group_id": "14336234784048141",
+    "chat_id": -1004468214616,
+    "message_ids": [
+      1151,
+      1152
+    ],
+    "update_ids": [
+      378305043,
+      378305044
+    ],
+    "retry_count": 0
+  }
+]

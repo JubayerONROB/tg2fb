@@ -6370,5 +6370,49 @@
       378305025
     ],
     "retry_count": 0
+  },
+  {
+    "type": "video",
+    "video_file_id": "BAACAgQAAyEFAAMBClOLWAACBHhq0F3EfhzFIy8zcaTrukMXCSbsUAAC5SAAAhaMWFIvhlirNDCNGT0E",
+    "video_file_size": 37841900,
+    "caption": "🥺 Sam Altman thinks AI may surpass us, but it won’t make us happy\n\n“This was the year that I think AI got smarter than us,” Sam Altman said, suggesting humanity may have crossed a historic threshold without fully realizing it.\n\nWhat comes next? Even Altman doesn’t know. Questions once confined to science fiction including whether humans could live forever inside computers are increasingly entering mainstream discussions.\n\nAltman recently praised Pantheon, an animated series exploring digital consciousness and the possibility of uploading human minds, calling it the best show he has watched in a very long time.\n\nBut even if AI becomes smarter than humans, Altman doesn’t believe it will solve everything.\n\n“I think we’ll all still find ways to be miserable and manufacture a bunch of adversity.”\n\nIn other words, intelligence may solve many of humanity’s problems, but it won’t necessarily solve human nature.\n\n@aipost 🏴",
+    "entities": [
+      {
+        "offset": 0,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5291894093767542370"
+      },
+      {
+        "offset": 3,
+        "length": 63,
+        "type": "bold"
+      },
+      {
+        "offset": 451,
+        "length": 8,
+        "type": "italic"
+      },
+      {
+        "offset": 919,
+        "length": 7,
+        "type": "mention"
+      },
+      {
+        "offset": 927,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5431390559912614642"
+      }
+    ],
+    "media_group_id": null,
+    "chat_id": -1004468214616,
+    "message_ids": [
+      1144
+    ],
+    "update_ids": [
+      378305036
+    ],
+    "retry_count": 0
   }
 ]
