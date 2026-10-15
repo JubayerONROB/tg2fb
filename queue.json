@@ -1,1 +1,2818 @@
-[]
+[
+  {
+    "type": "video",
+    "video_file_id": "BAACAgIAAyEFAAMBClOLWAACBIpq0MT0C_8Ypu3lGCDcOt1HuJjsZwACY6gAAnt8MUrE8y5Ix-CRzj0E",
+    "video_file_size": 12551670,
+    "caption": "",
+    "entities": [],
+    "media_group_id": "14336534439637517",
+    "chat_id": -1004468214616,
+    "message_ids": [
+      1162
+    ],
+    "update_ids": [
+      378305054
+    ],
+    "retry_count": 0
+  },
+  {
+    "type": "photo",
+    "photo_file_ids": [
+      "AgACAgIAAyEFAAMBClOLWAACBItq0MT0rkuJ3zANkphsFcOEhliL1AACUx1rG3t8MUos9l3vehtEjgEAAwIAA3kAAz0E"
+    ],
+    "caption": "",
+    "entities": [],
+    "media_group_id": "14336534439637517",
+    "chat_id": -1004468214616,
+    "message_ids": [
+      1163
+    ],
+    "update_ids": [
+      378305055
+    ],
+    "retry_count": 0
+  },
+  {
+    "type": "photo",
+    "photo_file_ids": [
+      "AgACAgIAAyEFAAMBClOLWAACBIxq0MT0l-W17axDN58qyhonOHoItQACpCVrG2jtOEpVzG-B_m5Z1gEAAwIAA3kAAz0E"
+    ],
+    "caption": "🤖 Anthropic releases cheaper Haiku 5.5\n\nAnthropic’s first Haiku update in a year costs up to 20 times less than Sonnet 5.5. It is already available to all users.\n\nThe model handles routine work, including summaries and document tasks, plus search support for Opus and Sonnet. Benchmarks put it ahead of GPT-6 Luna.\n\n📊@tech",
+    "entities": [
+      {
+        "offset": 0,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5208665212483310136"
+      },
+      {
+        "offset": 3,
+        "length": 36,
+        "type": "bold"
+      },
+      {
+        "offset": 53,
+        "length": 28,
+        "type": "bold"
+      },
+      {
+        "offset": 94,
+        "length": 29,
+        "type": "bold"
+      },
+      {
+        "offset": 139,
+        "length": 22,
+        "type": "bold"
+      },
+      {
+        "offset": 182,
+        "length": 12,
+        "type": "bold"
+      },
+      {
+        "offset": 295,
+        "length": 19,
+        "type": "bold"
+      },
+      {
+        "offset": 317,
+        "length": 2,
+        "type": "bold"
+      },
+      {
+        "offset": 317,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5449841756596101801"
+      },
+      {
+        "offset": 319,
+        "length": 5,
+        "type": "mention"
+      },
+      {
+        "offset": 319,
+        "length": 5,
+        "type": "bold"
+      }
+    ],
+    "media_group_id": null,
+    "chat_id": -1004468214616,
+    "message_ids": [
+      1164
+    ],
+    "update_ids": [
+      378305056
+    ],
+    "retry_count": 0
+  },
+  {
+    "type": "video",
+    "video_file_id": "BAACAgIAAyEFAAMBClOLWAACBI1q0MT0B6khr-k7XHluQCS7wJgJLAACCJ8AAn_4MEpYgFTe85r0WT0E",
+    "video_file_size": 8574166,
+    "caption": "🖤  Ben Affleck Writes Python\n\nThe actor writes Python scripts, understands convolutional neural networks, and works extensively with GPUs.\n\nHe learned machine learning through visual effects, then founded InterPositive, an AI startup later acquired by Netflix. He says he can call Google or OpenAI as Ben Affleck and sometimes get a look at their latest models.\n\n📊@tech",
+    "entities": [
+      {
+        "offset": 0,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5877218017892372225"
+      },
+      {
+        "offset": 4,
+        "length": 25,
+        "type": "bold"
+      },
+      {
+        "offset": 48,
+        "length": 14,
+        "type": "bold"
+      },
+      {
+        "offset": 76,
+        "length": 29,
+        "type": "bold"
+      },
+      {
+        "offset": 134,
+        "length": 4,
+        "type": "bold"
+      },
+      {
+        "offset": 206,
+        "length": 13,
+        "type": "bold"
+      },
+      {
+        "offset": 253,
+        "length": 7,
+        "type": "bold"
+      },
+      {
+        "offset": 282,
+        "length": 16,
+        "type": "bold"
+      },
+      {
+        "offset": 364,
+        "length": 2,
+        "type": "bold"
+      },
+      {
+        "offset": 364,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5449841756596101801"
+      },
+      {
+        "offset": 366,
+        "length": 5,
+        "type": "mention"
+      },
+      {
+        "offset": 366,
+        "length": 5,
+        "type": "bold"
+      }
+    ],
+    "media_group_id": null,
+    "chat_id": -1004468214616,
+    "message_ids": [
+      1165
+    ],
+    "update_ids": [
+      378305057
+    ],
+    "retry_count": 0
+  },
+  {
+    "type": "video",
+    "video_file_id": "BAACAgIAAyEFAAMBClOLWAACBI5q0MT0NF-8sy1Ys0vat1_OjDGM0wACoqcAArk8MEqUt6--VTuKWj0E",
+    "video_file_size": 2046981,
+    "caption": "💠 Tesla Expands Car-to-Home Backup\n\nOwners of Model 3 and Model Y in Premium and Performance versions can now use the car to power their home during an outage. Tesla says the backup can last more than 2 days. Cybertruck can run a home for more than 3 days.\n\nThe feature requires Powerwall 3. Tesla guarantees support only for cars ordered from October 1, since older vehicles may lack the required PCS2 Lite inverter. It is currently limited to the US and Puerto Rico.\n\nModel S and Model X are excluded, while grid support remains a Cybertruck feature. Kia and GM already offer home backup from their vehicles, and Nissan Leaf has fed energy into the grid for years.\n\n📊@tech",
+    "entities": [
+      {
+        "offset": 0,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5938087703160557191"
+      },
+      {
+        "offset": 3,
+        "length": 32,
+        "type": "bold"
+      },
+      {
+        "offset": 47,
+        "length": 19,
+        "type": "bold"
+      },
+      {
+        "offset": 70,
+        "length": 23,
+        "type": "bold"
+      },
+      {
+        "offset": 192,
+        "length": 16,
+        "type": "bold"
+      },
+      {
+        "offset": 280,
+        "length": 11,
+        "type": "bold"
+      },
+      {
+        "offset": 345,
+        "length": 9,
+        "type": "bold"
+      },
+      {
+        "offset": 399,
+        "length": 18,
+        "type": "bold"
+      },
+      {
+        "offset": 450,
+        "length": 18,
+        "type": "bold"
+      },
+      {
+        "offset": 471,
+        "length": 19,
+        "type": "bold"
+      },
+      {
+        "offset": 669,
+        "length": 2,
+        "type": "bold"
+      },
+      {
+        "offset": 669,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5449841756596101801"
+      },
+      {
+        "offset": 671,
+        "length": 5,
+        "type": "mention"
+      },
+      {
+        "offset": 671,
+        "length": 5,
+        "type": "bold"
+      }
+    ],
+    "media_group_id": null,
+    "chat_id": -1004468214616,
+    "message_ids": [
+      1166
+    ],
+    "update_ids": [
+      378305058
+    ],
+    "retry_count": 0
+  },
+  {
+    "type": "photo",
+    "photo_file_ids": [
+      "AgACAgIAAyEFAAMBClOLWAACBI9q0MT0u8ANjdXw8yR1Q3CiZtz2SgAC5SFrG3_4QEo1DgFzKY5I5QEAAwIAA3cAAz0E"
+    ],
+    "caption": "🇺🇸 US Blocks Big Tech Green Cards\n\nThe US Labor Department will stop reviewing all current and new applications. H-1B employees at affected companies will no longer receive work-based US residence.\n\nThe measure covers Microsoft, Adobe, and other big tech firms. The White House wants to target foreign students at Harvard, Yale, and Stanford next.\n\n📊@tech",
+    "entities": [
+      {
+        "offset": 0,
+        "length": 4,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5474446335744680905"
+      },
+      {
+        "offset": 5,
+        "length": 30,
+        "type": "bold"
+      },
+      {
+        "offset": 41,
+        "length": 19,
+        "type": "bold"
+      },
+      {
+        "offset": 115,
+        "length": 14,
+        "type": "bold"
+      },
+      {
+        "offset": 220,
+        "length": 42,
+        "type": "bold"
+      },
+      {
+        "offset": 316,
+        "length": 27,
+        "type": "bold"
+      },
+      {
+        "offset": 351,
+        "length": 2,
+        "type": "bold"
+      },
+      {
+        "offset": 351,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5449841756596101801"
+      },
+      {
+        "offset": 353,
+        "length": 5,
+        "type": "mention"
+      },
+      {
+        "offset": 353,
+        "length": 5,
+        "type": "bold"
+      }
+    ],
+    "media_group_id": null,
+    "chat_id": -1004468214616,
+    "message_ids": [
+      1167
+    ],
+    "update_ids": [
+      378305059
+    ],
+    "retry_count": 0
+  },
+  {
+    "type": "video",
+    "video_file_id": "BAACAgIAAyEFAAMBClOLWAACBJBq0MT0SlUBmFnh2miweTLo9HTSVwAC66MAArk8QEqQZdli0l295z0E",
+    "video_file_size": 4163230,
+    "caption": "☀️ Blue Origin’s Lunar Power Tower\n\nBlue Origin’s 20-meter Power Tower is designed to deploy after landing. The Mark 1 lander extends a spiral mast, then unrolls a folded solar panel from its top, like window blinds. The panel tracks the Sun on its own.\n\nAt the lunar south pole, the Sun stays near the horizon and shines from the side. A flat panel on the lander would see little of that light, while the vertical design is built for it.\n\nOne tower should produce more than 10 kW. Solar power could be available for 44% to 100% of the time, depending on the season. Several towers could form a microgrid for lunar vehicles and base systems.\n\n📊@tech",
+    "entities": [
+      {
+        "offset": 0,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5175089039358821263"
+      },
+      {
+        "offset": 3,
+        "length": 31,
+        "type": "bold"
+      },
+      {
+        "offset": 50,
+        "length": 20,
+        "type": "bold"
+      },
+      {
+        "offset": 112,
+        "length": 13,
+        "type": "bold"
+      },
+      {
+        "offset": 227,
+        "length": 25,
+        "type": "bold"
+      },
+      {
+        "offset": 262,
+        "length": 16,
+        "type": "bold"
+      },
+      {
+        "offset": 406,
+        "length": 15,
+        "type": "bold"
+      },
+      {
+        "offset": 465,
+        "length": 15,
+        "type": "bold"
+      },
+      {
+        "offset": 517,
+        "length": 23,
+        "type": "bold"
+      },
+      {
+        "offset": 588,
+        "length": 16,
+        "type": "bold"
+      },
+      {
+        "offset": 643,
+        "length": 2,
+        "type": "bold"
+      },
+      {
+        "offset": 643,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5449841756596101801"
+      },
+      {
+        "offset": 645,
+        "length": 5,
+        "type": "mention"
+      },
+      {
+        "offset": 645,
+        "length": 5,
+        "type": "bold"
+      }
+    ],
+    "media_group_id": null,
+    "chat_id": -1004468214616,
+    "message_ids": [
+      1168
+    ],
+    "update_ids": [
+      378305060
+    ],
+    "retry_count": 0
+  },
+  {
+    "type": "photo",
+    "photo_file_ids": [
+      "AgACAgIAAyEFAAMBClOLWAACBJFq0MT0LmgcrpX0AqFv3yA1GOvFZQACIyJrG9z-OUo3qxgFUmQsewEAAwIAA3kAAz0E"
+    ],
+    "caption": "🖥 Microsoft Rebuilds Windows for AI Agents\n\nIts Hybrid Intelligence system will route each task between on-device models and the cloud. On powerful PCs, models with hundreds of billions of parameters can run locally. Microsoft showed MAI Code 1.1 Flash with 137 billion parameters and a 256K context.\n\nThe target is autonomous agents that can operate on the computer and write code, with access to files and apps.\n\nExecution Containers isolate the agent and let users grant separate access to selected files or the internet. They already support several tools, while Claude Code is planned for later.\n\n📊@tech",
+    "entities": [
+      {
+        "offset": 0,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5433621112523077530"
+      },
+      {
+        "offset": 3,
+        "length": 40,
+        "type": "bold"
+      },
+      {
+        "offset": 49,
+        "length": 19,
+        "type": "bold"
+      },
+      {
+        "offset": 235,
+        "length": 18,
+        "type": "bold"
+      },
+      {
+        "offset": 259,
+        "length": 22,
+        "type": "bold"
+      },
+      {
+        "offset": 288,
+        "length": 12,
+        "type": "bold"
+      },
+      {
+        "offset": 317,
+        "length": 17,
+        "type": "bold"
+      },
+      {
+        "offset": 416,
+        "length": 20,
+        "type": "bold"
+      },
+      {
+        "offset": 603,
+        "length": 2,
+        "type": "bold"
+      },
+      {
+        "offset": 603,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5449841756596101801"
+      },
+      {
+        "offset": 605,
+        "length": 5,
+        "type": "mention"
+      },
+      {
+        "offset": 605,
+        "length": 5,
+        "type": "bold"
+      }
+    ],
+    "media_group_id": null,
+    "chat_id": -1004468214616,
+    "message_ids": [
+      1169
+    ],
+    "update_ids": [
+      378305061
+    ],
+    "retry_count": 0
+  },
+  {
+    "type": "photo",
+    "photo_file_ids": [
+      "AgACAgIAAyEFAAMBClOLWAACBJJq0MT0swKHo15hY62n9woPqaiTKQACECRrG9S0SEoEjbKtgmuS9QEAAwIAA3kAAz0E"
+    ],
+    "caption": "🤖 AHM Calls for OpenAI Boycott\n\nThe Association for Humanistic Mathematics called for mathematicians to stop working with OpenAI after the company released 722 AI-generated mathematical manuscripts covering 372 groups of results, including claimed solutions to longstanding problems.\n\nTerence Tao published the statement as a guest post on his blog. AHM says OpenAI ignored warnings against using unsolved problems to test internal AI models, and called the release a show of strength rather than scientific work.\n\nOpenAI says the aim is to advance mathematical research and let researchers examine the results. Researchers still have to verify the papers and assess their value.\n\n📊@tech",
+    "entities": [
+      {
+        "offset": 0,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5397681122542893003"
+      },
+      {
+        "offset": 3,
+        "length": 28,
+        "type": "bold"
+      },
+      {
+        "offset": 123,
+        "length": 6,
+        "type": "bold"
+      },
+      {
+        "offset": 157,
+        "length": 41,
+        "type": "bold"
+      },
+      {
+        "offset": 208,
+        "length": 21,
+        "type": "bold"
+      },
+      {
+        "offset": 286,
+        "length": 11,
+        "type": "bold"
+      },
+      {
+        "offset": 682,
+        "length": 2,
+        "type": "bold"
+      },
+      {
+        "offset": 682,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5449841756596101801"
+      },
+      {
+        "offset": 684,
+        "length": 5,
+        "type": "mention"
+      },
+      {
+        "offset": 684,
+        "length": 5,
+        "type": "bold"
+      }
+    ],
+    "media_group_id": null,
+    "chat_id": -1004468214616,
+    "message_ids": [
+      1170
+    ],
+    "update_ids": [
+      378305062
+    ],
+    "retry_count": 0
+  },
+  {
+    "type": "photo",
+    "photo_file_ids": [
+      "AgACAgIAAyEFAAMBClOLWAACBJNq0MT0_H8iPqP5gN8lb6r3GrZgSwACCyRrG9S0SEq6o7kys4gjOQEAAwIAA3kAAz0E"
+    ],
+    "caption": "🤖 Anthropic Adds a Cruelty Rule for Claude\n\nFrom November 12, 2026, Anthropic’s policy will ban “systematic and unjustified abusive or cruel behavior” toward its models. It applies only in extreme cases involving repeated cruelty without an apparent purpose.\n\nOrdinary frustration and resistance are excluded. So are dark creative texts and model testing. Claude can already end chats with repeatedly abusive users on  and Claude Code. Anthropic says this will remain the main enforcement tool.\n\nThe update also extends the weapons ban to software used by weapons and drone armament. It clarifies that tracking people without consent is prohibited and adds safety requirements when Claude controls equipment that could harm people.\n\n📊@tech",
+    "entities": [
+      {
+        "offset": 0,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5208665212483310136"
+      },
+      {
+        "offset": 3,
+        "length": 40,
+        "type": "bold"
+      },
+      {
+        "offset": 50,
+        "length": 17,
+        "type": "bold"
+      },
+      {
+        "offset": 98,
+        "length": 52,
+        "type": "bold"
+      },
+      {
+        "offset": 214,
+        "length": 16,
+        "type": "bold"
+      },
+      {
+        "offset": 357,
+        "length": 6,
+        "type": "bold"
+      },
+      {
+        "offset": 419,
+        "length": 16,
+        "type": "bold"
+      },
+      {
+        "offset": 473,
+        "length": 21,
+        "type": "bold"
+      },
+      {
+        "offset": 525,
+        "length": 11,
+        "type": "bold"
+      },
+      {
+        "offset": 603,
+        "length": 31,
+        "type": "bold"
+      },
+      {
+        "offset": 658,
+        "length": 19,
+        "type": "bold"
+      },
+      {
+        "offset": 734,
+        "length": 2,
+        "type": "bold"
+      },
+      {
+        "offset": 734,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5449841756596101801"
+      },
+      {
+        "offset": 736,
+        "length": 5,
+        "type": "mention"
+      },
+      {
+        "offset": 736,
+        "length": 5,
+        "type": "bold"
+      }
+    ],
+    "media_group_id": null,
+    "chat_id": -1004468214616,
+    "message_ids": [
+      1171
+    ],
+    "update_ids": [
+      378305063
+    ],
+    "retry_count": 0
+  },
+  {
+    "type": "photo",
+    "photo_file_ids": [
+      "AgACAgIAAyEFAAMBClOLWAACBJRq0MT0_hFREYnn4gGLfUPUrHpUlwAC3R9rG2AtSUpfkvJ-USk_ZwEAAwIAA3kAAz0E"
+    ],
+    "caption": "🚀 SpaceX Targets the US Mobile Market\n\nSpaceX wants Starlink Mobile to become a major US mobile operator. It bought licenses for up to 14 MHz of paired spectrum in the 800 MHz band, where signals can pass through walls and buildings.\n\nThe planned service combines satellites that connect directly to smartphones with a conventional terrestrial network. SpaceX says it would be the first operator to unite satellite and terrestrial spectrum in one network.\n\nThe FCC has approved 15,000 second-generation Starlink Mobile satellites. SpaceX says their capacity will exceed today’s level by more than 100 times. The spectrum deal still needs FCC approval, so deployment starts only after that.\n\n📊@tech",
+    "entities": [
+      {
+        "offset": 0,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5425096654707521936"
+      },
+      {
+        "offset": 3,
+        "length": 35,
+        "type": "bold"
+      },
+      {
+        "offset": 53,
+        "length": 15,
+        "type": "bold"
+      },
+      {
+        "offset": 81,
+        "length": 24,
+        "type": "bold"
+      },
+      {
+        "offset": 136,
+        "length": 6,
+        "type": "bold"
+      },
+      {
+        "offset": 169,
+        "length": 12,
+        "type": "bold"
+      },
+      {
+        "offset": 265,
+        "length": 47,
+        "type": "bold"
+      },
+      {
+        "offset": 320,
+        "length": 32,
+        "type": "bold"
+      },
+      {
+        "offset": 382,
+        "length": 58,
+        "type": "bold"
+      },
+      {
+        "offset": 479,
+        "length": 51,
+        "type": "bold"
+      },
+      {
+        "offset": 588,
+        "length": 19,
+        "type": "bold"
+      },
+      {
+        "offset": 627,
+        "length": 24,
+        "type": "bold"
+      },
+      {
+        "offset": 692,
+        "length": 2,
+        "type": "bold"
+      },
+      {
+        "offset": 692,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5449841756596101801"
+      },
+      {
+        "offset": 694,
+        "length": 5,
+        "type": "mention"
+      },
+      {
+        "offset": 694,
+        "length": 5,
+        "type": "bold"
+      }
+    ],
+    "media_group_id": null,
+    "chat_id": -1004468214616,
+    "message_ids": [
+      1172
+    ],
+    "update_ids": [
+      378305064
+    ],
+    "retry_count": 0
+  },
+  {
+    "type": "photo",
+    "photo_file_ids": [
+      "AgACAgIAAyEFAAMBClOLWAACBJVq0MT0tXAptNJgFPnPIZMcLYmHKAAC3h9rG04rWUqc6gPLaDIGsQEAAwIAA3kAAz0E"
+    ],
+    "caption": "🤖 OpenAI to test ads in image generation\n\nBy the end of October, US users will see the first ad blocks with images inside ChatGPT’s built-in image generator.\n\nThe promotional material will be labeled and will not affect image generation or answer accuracy. Ads will be excluded from chats about sensitive topics, including physical or mental health.\n\nOpenAI introduced text ads earlier this year. Plus and Pro plans remain ad-free.\n\n📊@tech",
+    "entities": [
+      {
+        "offset": 0,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5397681122542893003"
+      },
+      {
+        "offset": 3,
+        "length": 38,
+        "type": "bold"
+      },
+      {
+        "offset": 66,
+        "length": 8,
+        "type": "bold"
+      },
+      {
+        "offset": 88,
+        "length": 27,
+        "type": "bold"
+      },
+      {
+        "offset": 123,
+        "length": 34,
+        "type": "bold"
+      },
+      {
+        "offset": 193,
+        "length": 7,
+        "type": "bold"
+      },
+      {
+        "offset": 205,
+        "length": 51,
+        "type": "bold"
+      },
+      {
+        "offset": 270,
+        "length": 42,
+        "type": "bold"
+      },
+      {
+        "offset": 352,
+        "length": 6,
+        "type": "bold"
+      },
+      {
+        "offset": 379,
+        "length": 17,
+        "type": "bold"
+      },
+      {
+        "offset": 398,
+        "length": 18,
+        "type": "bold"
+      },
+      {
+        "offset": 424,
+        "length": 7,
+        "type": "bold"
+      },
+      {
+        "offset": 434,
+        "length": 2,
+        "type": "bold"
+      },
+      {
+        "offset": 434,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5449841756596101801"
+      },
+      {
+        "offset": 436,
+        "length": 5,
+        "type": "mention"
+      },
+      {
+        "offset": 436,
+        "length": 5,
+        "type": "bold"
+      }
+    ],
+    "media_group_id": null,
+    "chat_id": -1004468214616,
+    "message_ids": [
+      1173
+    ],
+    "update_ids": [
+      378305065
+    ],
+    "retry_count": 0
+  },
+  {
+    "type": "video",
+    "video_file_id": "BAACAgIAAyEFAAMBClOLWAACBJZq0MT0mB4QBXEIG-SchGvHn36tqAACjbAAAkD_SEq4xQ26fBSMRz0E",
+    "video_file_size": 34350355,
+    "caption": "🤖 Dots Gain New Mobile Features\n\nOn ChatGPT on iOS and Android, users can create a Dot with a custom name and appearance, enable plugins, and set it as the default companion.\n\nWith Codex integration, it can start coding tasks and resume unfinished ones using ChatGPT history for earlier Codex tasks and configured automations.\n\nIt can also view and edit scheduled tasks in ChatGPT Work, including recurring report schedules and automated processes.\n\n📊@tech",
+    "entities": [
+      {
+        "offset": 0,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5397681122542893003"
+      },
+      {
+        "offset": 3,
+        "length": 29,
+        "type": "bold"
+      },
+      {
+        "offset": 37,
+        "length": 26,
+        "type": "bold"
+      },
+      {
+        "offset": 182,
+        "length": 17,
+        "type": "bold"
+      },
+      {
+        "offset": 355,
+        "length": 31,
+        "type": "bold"
+      },
+      {
+        "offset": 451,
+        "length": 2,
+        "type": "bold"
+      },
+      {
+        "offset": 451,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5449841756596101801"
+      },
+      {
+        "offset": 453,
+        "length": 5,
+        "type": "mention"
+      },
+      {
+        "offset": 453,
+        "length": 5,
+        "type": "bold"
+      }
+    ],
+    "media_group_id": null,
+    "chat_id": -1004468214616,
+    "message_ids": [
+      1174
+    ],
+    "update_ids": [
+      378305066
+    ],
+    "retry_count": 0
+  },
+  {
+    "type": "video",
+    "video_file_id": "BAACAgQAAyEFAAMBClOLWAACBJdq0MT0yaHdOR8dzD4zCozzU7Z_bwAClCEAAu4gWVJceaPtUZa5mT0E",
+    "video_file_size": 722868,
+    "caption": "The guy who built this digital whip for Claude Code is definitely getting a lifetime Claude ban for “abusive or cruel behavior.”\n\n📊@tech",
+    "entities": [
+      {
+        "offset": 130,
+        "length": 2,
+        "type": "bold"
+      },
+      {
+        "offset": 130,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5449841756596101801"
+      },
+      {
+        "offset": 132,
+        "length": 5,
+        "type": "mention"
+      },
+      {
+        "offset": 132,
+        "length": 5,
+        "type": "bold"
+      }
+    ],
+    "media_group_id": null,
+    "chat_id": -1004468214616,
+    "message_ids": [
+      1175
+    ],
+    "update_ids": [
+      378305067
+    ],
+    "retry_count": 0
+  },
+  {
+    "type": "video",
+    "video_file_id": "BAACAgIAAyEFAAMBClOLWAACBJhq0MT0I4DPQbRAVjT3TJ_fY9mXWgACdKsAAsOMYEr6HxYPbXItbj0E",
+    "video_file_size": 8013951,
+    "caption": "🤖 Claude Builds Interactive Mechanisms From One Sentence\n\nAnatomy is an open-source tool for Claude Code. Describe a device or how it works, and the agent designs the structure and adds animation. It can illustrate a mechanical clock or a jet engine.\n\nThe tool supports isometric SVG with animation. WebGL adds fire or water effects, while the 3D mode lets parts rotate separately and is still in beta.\n\nModels export to HTML, SVG or React components. User actions drive the animation, and instrument readings follow the mechanism. Anatomy uses an MIT license, and its browser gallery includes 33 examples.\n\n📊@tech",
+    "entities": [
+      {
+        "offset": 0,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5208665212483310136"
+      },
+      {
+        "offset": 3,
+        "length": 54,
+        "type": "bold"
+      },
+      {
+        "offset": 59,
+        "length": 7,
+        "type": "text_link",
+        "url": "https://github.com/wheresryan22/anatomy"
+      },
+      {
+        "offset": 94,
+        "length": 11,
+        "type": "bold"
+      },
+      {
+        "offset": 271,
+        "length": 13,
+        "type": "bold"
+      },
+      {
+        "offset": 422,
+        "length": 29,
+        "type": "bold"
+      },
+      {
+        "offset": 595,
+        "length": 11,
+        "type": "bold"
+      },
+      {
+        "offset": 609,
+        "length": 2,
+        "type": "bold"
+      },
+      {
+        "offset": 609,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5449841756596101801"
+      },
+      {
+        "offset": 611,
+        "length": 5,
+        "type": "mention"
+      },
+      {
+        "offset": 611,
+        "length": 5,
+        "type": "bold"
+      }
+    ],
+    "media_group_id": "14336534439637621",
+    "chat_id": -1004468214616,
+    "message_ids": [
+      1176
+    ],
+    "update_ids": [
+      378305068
+    ],
+    "retry_count": 0
+  },
+  {
+    "type": "video",
+    "video_file_id": "BAACAgIAAyEFAAMBClOLWAACBJlq0MT05feICVQ-PfxlcsJq8KiD9gACdqsAAsOMYErG-KGnUDpyDz0E",
+    "video_file_size": 3031746,
+    "caption": "",
+    "entities": [],
+    "media_group_id": "14336534439637621",
+    "chat_id": -1004468214616,
+    "message_ids": [
+      1177
+    ],
+    "update_ids": [
+      378305069
+    ],
+    "retry_count": 0
+  },
+  {
+    "type": "video",
+    "video_file_id": "BAACAgIAAyEFAAMBClOLWAACBJpq0MT0EysnAWRWIEUkGKmbIwtIlgACd6sAAsOMYEq5W56K4KLgcj0E",
+    "video_file_size": 2642305,
+    "caption": "",
+    "entities": [],
+    "media_group_id": "14336534439637621",
+    "chat_id": -1004468214616,
+    "message_ids": [
+      1178
+    ],
+    "update_ids": [
+      378305070
+    ],
+    "retry_count": 0
+  },
+  {
+    "type": "video",
+    "video_file_id": "BAACAgIAAyEFAAMBClOLWAACBJtq0MT0eTPlTpoy6_4IJeKhLvmESgACeKsAAsOMYEo3UlOqoDbK_D0E",
+    "video_file_size": 2924982,
+    "caption": "",
+    "entities": [],
+    "media_group_id": "14336534439637621",
+    "chat_id": -1004468214616,
+    "message_ids": [
+      1179
+    ],
+    "update_ids": [
+      378305071
+    ],
+    "retry_count": 0
+  },
+  {
+    "type": "album",
+    "photo_file_ids": [
+      "AgACAgIAAyEFAAMBClOLWAACBJxq0MT0HnHnU_hIOrCJkBBVEgv6twACGSZrG8OMYEpI4dSWDeujpwEAAwIAA3kAAz0E",
+      "AgACAgIAAyEFAAMBClOLWAACBJ1q0MT0NGDOikLgahIfuGUc73472AACGiZrG8OMYEpwcuvLr5tZzwEAAwIAA3gAAz0E"
+    ],
+    "caption": "💦 Humidity Turns Wallpaper into Power\n\nResearchers at Binghamton University built a full-size sheet with 1,596 connected cells. At 80% humidity, it produced about 0.34 V at 2.2 μW/cm², enough to run a wireless keyboard without batteries.\n\nThe sheet uses tiny moisture-electric generators. Glycerin absorbs water at the edges, while a raised polymer layer and wax pattern control evaporation and move moisture through the material. No sunlight is needed.\n\nAt indoor humidity of 30% to 60%, it could power smart thermostats or climate sensors. Testing also reduced humidity from 38% to 32%, but its microwatt output rules out appliances such as refrigerators.\n\n📊@tech",
+    "entities": [
+      {
+        "offset": 0,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5238060101801100798"
+      },
+      {
+        "offset": 3,
+        "length": 35,
+        "type": "bold"
+      },
+      {
+        "offset": 55,
+        "length": 21,
+        "type": "bold"
+      },
+      {
+        "offset": 106,
+        "length": 21,
+        "type": "bold"
+      },
+      {
+        "offset": 164,
+        "length": 6,
+        "type": "bold"
+      },
+      {
+        "offset": 174,
+        "length": 10,
+        "type": "bold"
+      },
+      {
+        "offset": 255,
+        "length": 33,
+        "type": "bold"
+      },
+      {
+        "offset": 478,
+        "length": 10,
+        "type": "bold"
+      },
+      {
+        "offset": 578,
+        "length": 10,
+        "type": "bold"
+      },
+      {
+        "offset": 660,
+        "length": 2,
+        "type": "bold"
+      },
+      {
+        "offset": 660,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5449841756596101801"
+      },
+      {
+        "offset": 662,
+        "length": 5,
+        "type": "mention"
+      },
+      {
+        "offset": 662,
+        "length": 5,
+        "type": "bold"
+      }
+    ],
+    "media_group_id": "14336534439637629",
+    "chat_id": -1004468214616,
+    "message_ids": [
+      1180,
+      1181
+    ],
+    "update_ids": [
+      378305072,
+      378305073
+    ],
+    "retry_count": 0
+  },
+  {
+    "type": "video",
+    "video_file_id": "BAACAgIAAyEFAAMBClOLWAACBJ5q0MT0xAEOOpIJBvGEEJDZ7zGhwQACfKsAAsOMYEoNpSe3aOBAAT0E",
+    "video_file_size": 1083877,
+    "caption": "🖥 Microsoft Releases Decision-1\n\nDecision-1 does not generate text. It takes a task with several answer options and returns a probability for each in one pass. It is built on Qwen3.5-9B. Microsoft says it is 35 times faster than GPT-6 Sol in internal tests.\n\nThe model can help AI agents choose whether to continue a task or hand control to a person. It achieved the highest accuracy across 36 benchmarks, covering nearly 150,000 questions.\n\nXbox used Decision-1 to classify more than 10,000 player reviews. Processing was 14 times faster than GPT-6 Sol and 200 times cheaper. Input costs $0.042 per million tokens, with free output tokens. It is available through Microsoft Foundry and will later appear on OpenRouter.\n\n📊@tech",
+    "entities": [
+      {
+        "offset": 0,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5433621112523077530"
+      },
+      {
+        "offset": 3,
+        "length": 29,
+        "type": "bold"
+      },
+      {
+        "offset": 176,
+        "length": 10,
+        "type": "bold"
+      },
+      {
+        "offset": 209,
+        "length": 30,
+        "type": "bold"
+      },
+      {
+        "offset": 368,
+        "length": 37,
+        "type": "bold"
+      },
+      {
+        "offset": 486,
+        "length": 21,
+        "type": "bold"
+      },
+      {
+        "offset": 590,
+        "length": 25,
+        "type": "bold"
+      },
+      {
+        "offset": 722,
+        "length": 2,
+        "type": "bold"
+      },
+      {
+        "offset": 722,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5449841756596101801"
+      },
+      {
+        "offset": 724,
+        "length": 5,
+        "type": "mention"
+      },
+      {
+        "offset": 724,
+        "length": 5,
+        "type": "bold"
+      }
+    ],
+    "media_group_id": null,
+    "chat_id": -1004468214616,
+    "message_ids": [
+      1182
+    ],
+    "update_ids": [
+      378305074
+    ],
+    "retry_count": 0
+  },
+  {
+    "type": "album",
+    "photo_file_ids": [
+      "AgACAgIAAyEFAAMBClOLWAACBJ9q0MT0ice3kKtcnjUAAcvCIEKD7twAAkkeaxvDjHBKtXTNu8FN6BEBAAMCAAN5AAM9BA",
+      "AgACAgIAAyEFAAMBClOLWAACBKBq0MT09t25zASpCTwt5JsNjN9HrwACSh5rG8OMcEoy_lKAZeiW8QEAAwIAA3kAAz0E",
+      "AgACAgIAAyEFAAMBClOLWAACBKFq0MT0QH9Lz5A7lRCIfZi_XMT_NAACSx5rG8OMcEqKxr1aiLk3CgEAAwIAA3kAAz0E"
+    ],
+    "caption": "Ⓜ️ Meta presents Muse Wonder models\n\nThe lineup has 2 models: Muse Wonder and Muse Wonder Full. On DeepSWE, Muse Wonder unexpectedly beat Opus 5.5 and GPT-6 Astra. On Terminal Bench, it outperformed Fable 5.1.\n\nThe models are trained for long tasks, coding, and agents. Their Active Memory feature pulls relevant context from other chats for a specific task in real time.\n\nThey are already available through Meta Model API and Muse Code.\n\n📊@tech",
+    "entities": [
+      {
+        "offset": 0,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5431901622366124338"
+      },
+      {
+        "offset": 3,
+        "length": 32,
+        "type": "bold"
+      },
+      {
+        "offset": 52,
+        "length": 42,
+        "type": "bold"
+      },
+      {
+        "offset": 138,
+        "length": 24,
+        "type": "bold"
+      },
+      {
+        "offset": 199,
+        "length": 9,
+        "type": "bold"
+      },
+      {
+        "offset": 238,
+        "length": 30,
+        "type": "bold"
+      },
+      {
+        "offset": 408,
+        "length": 14,
+        "type": "bold"
+      },
+      {
+        "offset": 427,
+        "length": 9,
+        "type": "bold"
+      },
+      {
+        "offset": 439,
+        "length": 2,
+        "type": "bold"
+      },
+      {
+        "offset": 439,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5449841756596101801"
+      },
+      {
+        "offset": 441,
+        "length": 5,
+        "type": "mention"
+      },
+      {
+        "offset": 441,
+        "length": 5,
+        "type": "bold"
+      }
+    ],
+    "media_group_id": "14336534439637645",
+    "chat_id": -1004468214616,
+    "message_ids": [
+      1183,
+      1184,
+      1185
+    ],
+    "update_ids": [
+      378305075,
+      378305076,
+      378305077
+    ],
+    "retry_count": 0
+  },
+  {
+    "type": "photo",
+    "photo_file_ids": [
+      "AgACAgIAAyEFAAMBClOLWAACBKJq0MT00K9vzuH3AcoT6ZyfuRVjrQACSB9rG68gYUo0MBb_sS9bnQEAAwIAA3kAAz0E"
+    ],
+    "caption": "🍏 Apple’s HomeView May Debut Tuesday\n\nBloomberg’s Mark Gurman says Apple may show the hub on Tuesday, 13 October, at the “Welcome home” event. HomeView is expected in 2 versions, a tabletop model with a metal speaker base and a wall-mounted one. The tabletop version has 4 color options, the wall version 2.\n\nIt will run a limited set of Apple apps with no App Store. Accessories will connect through Siri and the Home app, with other Apple devices also supported. LG worked on the lineup, while Schneider Electric handled European-market products. Sales will use the Apple Home Collection brand. Without an App Store, compatible accessories are central to what HomeView can do.\n\n📊@tech",
+    "entities": [
+      {
+        "offset": 0,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5398012024003246287"
+      },
+      {
+        "offset": 3,
+        "length": 34,
+        "type": "bold"
+      },
+      {
+        "offset": 168,
+        "length": 10,
+        "type": "bold"
+      },
+      {
+        "offset": 204,
+        "length": 18,
+        "type": "bold"
+      },
+      {
+        "offset": 272,
+        "length": 15,
+        "type": "bold"
+      },
+      {
+        "offset": 324,
+        "length": 25,
+        "type": "bold"
+      },
+      {
+        "offset": 355,
+        "length": 12,
+        "type": "bold"
+      },
+      {
+        "offset": 402,
+        "length": 21,
+        "type": "bold"
+      },
+      {
+        "offset": 569,
+        "length": 21,
+        "type": "bold"
+      },
+      {
+        "offset": 681,
+        "length": 2,
+        "type": "bold"
+      },
+      {
+        "offset": 681,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5449841756596101801"
+      },
+      {
+        "offset": 683,
+        "length": 5,
+        "type": "mention"
+      },
+      {
+        "offset": 683,
+        "length": 5,
+        "type": "bold"
+      }
+    ],
+    "media_group_id": null,
+    "chat_id": -1004468214616,
+    "message_ids": [
+      1186
+    ],
+    "update_ids": [
+      378305078
+    ],
+    "retry_count": 0
+  },
+  {
+    "type": "photo",
+    "photo_file_ids": [
+      "AgACAgIAAyEFAAMBClOLWAACBKNq0MT0lvdk1qkmdxfhtDek_wTZ7QACSR9rG68gYUq2v02jzGvmEAEAAwIAA3gAAz0E"
+    ],
+    "caption": "🔊 A Squid’s Skin May Sense Sound\n\nResearchers made the first full map of a squid’s lateral line and found hundreds more hair cells than expected, spread across the body. These cells detect movement in the surrounding water.\n\nThe hair bundles vary in length. Similar tuning in the human cochlea lets different cells respond to different frequencies. Researchers hypothesize that squid may adjust bundle length to distinguish water vibrations, making the skin work roughly like an ear.\n\nBecause these structures sit on the surface, squid could help explain how hair cells are built, maintained, and damaged in humans.\n\n📊@tech",
+    "entities": [
+      {
+        "offset": 0,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5890997763331591703"
+      },
+      {
+        "offset": 3,
+        "length": 30,
+        "type": "bold"
+      },
+      {
+        "offset": 56,
+        "length": 14,
+        "type": "bold"
+      },
+      {
+        "offset": 107,
+        "length": 24,
+        "type": "bold"
+      },
+      {
+        "offset": 230,
+        "length": 27,
+        "type": "bold"
+      },
+      {
+        "offset": 413,
+        "length": 28,
+        "type": "bold"
+      },
+      {
+        "offset": 511,
+        "length": 18,
+        "type": "bold"
+      },
+      {
+        "offset": 618,
+        "length": 2,
+        "type": "bold"
+      },
+      {
+        "offset": 618,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5449841756596101801"
+      },
+      {
+        "offset": 620,
+        "length": 5,
+        "type": "mention"
+      },
+      {
+        "offset": 620,
+        "length": 5,
+        "type": "bold"
+      }
+    ],
+    "media_group_id": null,
+    "chat_id": -1004468214616,
+    "message_ids": [
+      1187
+    ],
+    "update_ids": [
+      378305079
+    ],
+    "retry_count": 0
+  },
+  {
+    "type": "video",
+    "video_file_id": "BAACAgIAAyEFAAMBClOLWAACBKRq0MT0f7zu3zmI3RlHgkPKEl4w-wAC4rEAAmUccEp68oPgjrP6TD0E",
+    "video_file_size": 18839486,
+    "caption": "🔍 Google Turns Gemini Into an AI Agent\n\nThe Gemini 4 Argon model is now available in the Gemini app. Google says it improves reasoning, coding, and complex-task solving, with more direct answers and fewer boilerplate phrases.\n\nA new Tasks mode lets Gemini carry out assignments while the user is away. It is connected to more than 40 apps, including Adobe, Shopify, OpenTable and Instacart, for bookings, grocery orders, design work and business management.\n\nOn macOS, Google also embedded the Antigravity development environment in Gemini, so users can switch between chat and coding without opening another tool. Gemini 4 Argon and Tasks are available to Google AI Pro and Ultra subscribers.\n\n📊@tech",
+    "entities": [
+      {
+        "offset": 0,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5431644246450908867"
+      },
+      {
+        "offset": 3,
+        "length": 36,
+        "type": "bold"
+      },
+      {
+        "offset": 45,
+        "length": 14,
+        "type": "bold"
+      },
+      {
+        "offset": 234,
+        "length": 10,
+        "type": "bold"
+      },
+      {
+        "offset": 332,
+        "length": 7,
+        "type": "bold"
+      },
+      {
+        "offset": 495,
+        "length": 35,
+        "type": "bold"
+      },
+      {
+        "offset": 658,
+        "length": 23,
+        "type": "bold"
+      },
+      {
+        "offset": 696,
+        "length": 2,
+        "type": "bold"
+      },
+      {
+        "offset": 696,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5449841756596101801"
+      },
+      {
+        "offset": 698,
+        "length": 5,
+        "type": "mention"
+      },
+      {
+        "offset": 698,
+        "length": 5,
+        "type": "bold"
+      }
+    ],
+    "media_group_id": null,
+    "chat_id": -1004468214616,
+    "message_ids": [
+      1188
+    ],
+    "update_ids": [
+      378305080
+    ],
+    "retry_count": 0
+  },
+  {
+    "type": "album",
+    "photo_file_ids": [
+      "AgACAgIAAyEFAAMBClOLWAACBKVq0MT0dx2NG3cFPoDz0MwcXOiIZAACUSFrGyA3eEqpWdwO1xT4AgEAAwIAA3kAAz0E",
+      "AgACAgIAAyEFAAMBClOLWAACBKZq0MT0hJIvzOJHJgFm85gfzQUBlQACUiFrGyA3eEoW1GRDbzb1cwEAAwIAA3kAAz0E",
+      "AgACAgIAAyEFAAMBClOLWAACBKdq0MT0N2GH141l5TqvMAJ2FF9YpQACUyFrGyA3eEoSuM0TR_cO8QEAAwIAA3kAAz0E",
+      "AgACAgIAAyEFAAMBClOLWAACBKhq0MT0E_js8MKe2CU-oRWFzyMcjAACVCFrGyA3eEo-w5wa0brLgwEAAwIAA3kAAz0E",
+      "AgACAgIAAyEFAAMBClOLWAACBKlq0MT0Jrbwl_EGKwtgjct1lbyC9wACVSFrGyA3eEosb8aAHz7icwEAAwIAA3kAAz0E",
+      "AgACAgIAAyEFAAMBClOLWAACBKpq0MT0BBAwdnOzC0Yt1ZkCUMhu5QACViFrGyA3eEptPB0pZFnlgAEAAwIAA3kAAz0E",
+      "AgACAgIAAyEFAAMBClOLWAACBKtq0MT0_qS1NmsIF4BuEk576OhLNQACVyFrGyA3eErKKL-c8sSSIQEAAwIAA3kAAz0E"
+    ],
+    "caption": "🍏 Apple Builds a Connected Home\n\nFour LG cameras join a smart lock, 2 thermostats and sensors in the Home app. They record up to 2.5K, identify familiar faces and packages, and keep 10 days of footage end-to-end encrypted in iCloud+. There is no separate camera subscription. US and Canada sales start in December.\n\nHomePod mini 2 costs $149 and arrives October 30. Apple TV 4K costs $299 and goes on sale November 13, with an A19 chip up to 50% faster in CPU tasks. Siri answers questions hands-free, and the remote is searchable through Find My.\n\nApple TV 4K can use 4 HomePod mini 2 speakers as a surround-sound theater, detecting their positions and syncing volume automatically. Siri AI is coming later and currently works only in English.\n\n📊@tech",
+    "entities": [
+      {
+        "offset": 0,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5398012024003246287"
+      },
+      {
+        "offset": 3,
+        "length": 29,
+        "type": "bold"
+      },
+      {
+        "offset": 39,
+        "length": 10,
+        "type": "bold"
+      },
+      {
+        "offset": 69,
+        "length": 13,
+        "type": "bold"
+      },
+      {
+        "offset": 130,
+        "length": 4,
+        "type": "bold"
+      },
+      {
+        "offset": 183,
+        "length": 7,
+        "type": "bold"
+      },
+      {
+        "offset": 317,
+        "length": 14,
+        "type": "bold"
+      },
+      {
+        "offset": 338,
+        "length": 4,
+        "type": "bold"
+      },
+      {
+        "offset": 367,
+        "length": 11,
+        "type": "bold"
+      },
+      {
+        "offset": 385,
+        "length": 4,
+        "type": "bold"
+      },
+      {
+        "offset": 428,
+        "length": 3,
+        "type": "bold"
+      },
+      {
+        "offset": 570,
+        "length": 16,
+        "type": "bold"
+      },
+      {
+        "offset": 685,
+        "length": 7,
+        "type": "bold"
+      },
+      {
+        "offset": 747,
+        "length": 2,
+        "type": "bold"
+      },
+      {
+        "offset": 747,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5449841756596101801"
+      },
+      {
+        "offset": 749,
+        "length": 5,
+        "type": "mention"
+      },
+      {
+        "offset": 749,
+        "length": 5,
+        "type": "bold"
+      }
+    ],
+    "media_group_id": "14336534439637677",
+    "chat_id": -1004468214616,
+    "message_ids": [
+      1189,
+      1190,
+      1191,
+      1192,
+      1193,
+      1194,
+      1195
+    ],
+    "update_ids": [
+      378305081,
+      378305082,
+      378305083,
+      378305084,
+      378305085,
+      378305086,
+      378305087
+    ],
+    "retry_count": 0
+  },
+  {
+    "type": "video",
+    "video_file_id": "BAACAgIAAyEFAAMBClOLWAACBKxq0MT00Ns5WOe3xiB3UmEql7ogxwACI60AAvG6eEohUjzhkh0ufD0E",
+    "video_file_size": 11372793,
+    "caption": "🗣 Zuckerberg’s Guinness Face Goes Viral\n\nVideo from yesterday’s Cheeky Pint podcast is already drawing millions of views on social media.\n\nZuckerberg came to discuss AI and a new model that became No. 2 in the world. People remembered his unhappy Guinness face instead.\n\n📊@tech",
+    "entities": [
+      {
+        "offset": 0,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5330058709303312171"
+      },
+      {
+        "offset": 3,
+        "length": 37,
+        "type": "bold"
+      },
+      {
+        "offset": 65,
+        "length": 19,
+        "type": "bold"
+      },
+      {
+        "offset": 104,
+        "length": 17,
+        "type": "bold"
+      },
+      {
+        "offset": 140,
+        "length": 10,
+        "type": "bold"
+      },
+      {
+        "offset": 198,
+        "length": 18,
+        "type": "bold"
+      },
+      {
+        "offset": 240,
+        "length": 21,
+        "type": "bold"
+      },
+      {
+        "offset": 272,
+        "length": 2,
+        "type": "bold"
+      },
+      {
+        "offset": 272,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5449841756596101801"
+      },
+      {
+        "offset": 274,
+        "length": 5,
+        "type": "mention"
+      },
+      {
+        "offset": 274,
+        "length": 5,
+        "type": "bold"
+      }
+    ],
+    "media_group_id": null,
+    "chat_id": -1004468214616,
+    "message_ids": [
+      1196
+    ],
+    "update_ids": [
+      378305088
+    ],
+    "retry_count": 0
+  },
+  {
+    "type": "album",
+    "photo_file_ids": [
+      "AgACAgIAAyEFAAMBClOLWAACBK1q0MT0Ph6WE7fgXns67rB8BaO-hQAC3xhrGzhQiUqqnukHBVPwzAEAAwIAA3gAAz0E",
+      "AgACAgIAAyEFAAMBClOLWAACBK5q0MT0azGqQ8x4svbIP7W_yV6IfAAC4BhrGzhQiUpAtn6x6isOPQEAAwIAA3kAAz0E"
+    ],
+    "caption": "🤖 PhoneBot Uses a Smartphone as Its Brain\n\nThe 48-centimeter robot costs about $400 without a phone. A regular smartphone provides its camera and processing, while a small onboard computer sends commands to the motors over Wi-Fi.\n\nIt walks and follows a person. After a face-down fall, it can stand up again. Its 13 low-cost servos control the legs and torso. Tests on 4 Android phones showed that the basic functions worked on all of them. The project is open for study and experiments.\n\n📊@tech",
+    "entities": [
+      {
+        "offset": 0,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5355051922862653659"
+      },
+      {
+        "offset": 3,
+        "length": 39,
+        "type": "bold"
+      },
+      {
+        "offset": 48,
+        "length": 19,
+        "type": "bold"
+      },
+      {
+        "offset": 80,
+        "length": 20,
+        "type": "bold"
+      },
+      {
+        "offset": 314,
+        "length": 18,
+        "type": "bold"
+      },
+      {
+        "offset": 370,
+        "length": 16,
+        "type": "bold"
+      },
+      {
+        "offset": 490,
+        "length": 2,
+        "type": "bold"
+      },
+      {
+        "offset": 490,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5449841756596101801"
+      },
+      {
+        "offset": 492,
+        "length": 5,
+        "type": "mention"
+      },
+      {
+        "offset": 492,
+        "length": 5,
+        "type": "bold"
+      }
+    ],
+    "media_group_id": "14336534439637693",
+    "chat_id": -1004468214616,
+    "message_ids": [
+      1197,
+      1198
+    ],
+    "update_ids": [
+      378305089,
+      378305090
+    ],
+    "retry_count": 0
+  },
+  {
+    "type": "photo",
+    "photo_file_ids": [
+      "AgACAgQAAyEFAAMBClOLWAACBK9q0MT0BFOB33i8RWBkIEz8cGqVxwACnA9rG-bmhVKlpp1T0ppLBgEAAwIAA3kAAz0E"
+    ],
+    "caption": "🔍 Google Launches Deep Review\n\nMultiple AI agents scan scientific and technical documents for contradictions, calculation errors, and weak spots. The free limit is 2 reviews per week.\n\nIn tests using papers with known errors, Deep Review found 89.7% of problems. It can also flag errors that are not there. Uploaded files are not used for training, but are stored for up to 1 year.\n\n📊@tech",
+    "entities": [
+      {
+        "offset": 0,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5431644246450908867"
+      },
+      {
+        "offset": 3,
+        "length": 27,
+        "type": "bold"
+      },
+      {
+        "offset": 41,
+        "length": 9,
+        "type": "bold"
+      },
+      {
+        "offset": 165,
+        "length": 18,
+        "type": "bold"
+      },
+      {
+        "offset": 245,
+        "length": 17,
+        "type": "bold"
+      },
+      {
+        "offset": 369,
+        "length": 12,
+        "type": "bold"
+      },
+      {
+        "offset": 384,
+        "length": 2,
+        "type": "bold"
+      },
+      {
+        "offset": 384,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5449841756596101801"
+      },
+      {
+        "offset": 386,
+        "length": 5,
+        "type": "mention"
+      },
+      {
+        "offset": 386,
+        "length": 5,
+        "type": "bold"
+      }
+    ],
+    "media_group_id": null,
+    "chat_id": -1004468214616,
+    "message_ids": [
+      1199
+    ],
+    "update_ids": [
+      378305091
+    ],
+    "retry_count": 0
+  },
+  {
+    "type": "album",
+    "photo_file_ids": [
+      "AgACAgIAAyEFAAMBClOLWAACBLBq0MUv0jnxX8gaLohmv1ZcMwABmb0AAtQmaxu7cHBKoE1oSBfFGV0BAAMCAAN5AAM9BA",
+      "AgACAgIAAyEFAAMBClOLWAACBLFq0MUv_kfAaGpPlTlXykEnjCRBhQAC1SZrG7twcErlgRmGTzLBmgEAAwIAA3kAAz0E",
+      "AgACAgIAAyEFAAMBClOLWAACBLJq0MUvanPnpjjUrqKw9WdlGckYkQAC1iZrG7twcEpBApTd8i9HqAEAAwIAA3kAAz0E"
+    ],
+    "caption": "Muse wonder brings Meta back to the frontier of AI\n\nThey just released Muse Wonder, whose top version beats Claude Opus 5.5 on 8 of 14 published benchmarks.\n\nA rally major milestone for Zuckerberg\n\nIts ahead of GPT-6 Astra and Claude Fable 5.1 on long-running coding, legal work and business automation. \n\nThe widest gap comes on SWE-Marathon, an ultra-long engineering test, where Full scores 57.5 against 46.3 for Opus 5.5. \n\nFull also leads DeepSWE 1.1, a long-horizon coding test, 79.0 to 74.2, in what Meta says were independent third-party runs. \n\nOn Harvey’s legal agent benchmark, which credits only tasks finished in full without hallucination, Full scores 13.1, more than triple Opus 5.5’s 4.2.\n\n\n📰 @aipost",
+    "entities": [
+      {
+        "offset": 707,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5363988332466438547"
+      },
+      {
+        "offset": 710,
+        "length": 7,
+        "type": "mention"
+      }
+    ],
+    "media_group_id": "14336534905526365",
+    "chat_id": -1004468214616,
+    "message_ids": [
+      1200,
+      1201,
+      1202
+    ],
+    "update_ids": [
+      378305092,
+      378305093,
+      378305094
+    ],
+    "retry_count": 0
+  },
+  {
+    "type": "photo",
+    "photo_file_ids": [
+      "AgACAgQAAyEFAAMBClOLWAACBLNq0MUvyRlxeCsDrMz1Xs0WJh08DAACfxhrGxaMYFL9NcPW8ErtUgEAAwIAA3kAAz0E"
+    ],
+    "caption": "⚠️ Researchers are opening the black box of AI understanding\n\nMechanistic interpretability is giving researchers a closer look at what happens inside large language models and how they develop internal representations that go beyond simple word associations.\n\nStudies have found that models can develop internal features representing concepts, track relationships between facts, and sometimes discover general rules that let them solve problems they haven’t seen before.\n\nOne intriguing phenomenon is called “grokking”: during training, a model can suddenly shift from memorizing examples to generalizing from underlying patterns. In some experiments, performance on new problems improves dramatically even after a long period of apparent failure.\n\nThis suggests that neural networks can discover compact rules from data without anyone explicitly programming those rules into them.\n\nThese findings don’t prove that AI understands reality the same way humans do, or that models simply erase memorized facts and replace them with a complete world model.\n\nSource.\n\n@aipost 🏴",
+    "entities": [
+      {
+        "offset": 0,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5366332658760580843"
+      },
+      {
+        "offset": 3,
+        "length": 57,
+        "type": "bold"
+      },
+      {
+        "offset": 1053,
+        "length": 6,
+        "type": "text_link",
+        "url": "https://arxiv.org/abs/2507.08017"
+      },
+      {
+        "offset": 1062,
+        "length": 7,
+        "type": "mention"
+      },
+      {
+        "offset": 1070,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5431390559912614642"
+      }
+    ],
+    "media_group_id": null,
+    "chat_id": -1004468214616,
+    "message_ids": [
+      1203
+    ],
+    "update_ids": [
+      378305095
+    ],
+    "retry_count": 0
+  },
+  {
+    "type": "photo",
+    "photo_file_ids": [
+      "AgACAgQAAyEFAAMBClOLWAACBLRq0MUvLk-TM1Z9I_K8l1KXX9f0aAACgBhrGxaMYFJ2uM7ruCYEzQEAAwIAA3kAAz0E"
+    ],
+    "caption": "This is probably evil but LMAO 🤣🤣\n\n@aipost 🏴",
+    "entities": [
+      {
+        "offset": 31,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5370712413005945913"
+      },
+      {
+        "offset": 33,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5370712413005945913"
+      },
+      {
+        "offset": 37,
+        "length": 7,
+        "type": "mention"
+      },
+      {
+        "offset": 45,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5431390559912614642"
+      }
+    ],
+    "media_group_id": null,
+    "chat_id": -1004468214616,
+    "message_ids": [
+      1204
+    ],
+    "update_ids": [
+      378305096
+    ],
+    "retry_count": 0
+  },
+  {
+    "type": "video",
+    "video_file_id": "BAACAgQAAyEFAAMBClOLWAACBLVq0MUvg13u39Hb9vPWM0rH_hm3OQAC7SEAAhaMYFLPaV3J9X2AiD0E",
+    "video_file_size": 8758212,
+    "caption": "🗣\"Labor and capital are about to divorce because capital doesn't does need your labor, it'll just hire GPUs. So you need to own the means of production.\"\n\n~ Emad Mostaque, founder of Stability AI:\n\n\"In 2 years' time, if your job is on the other side of a screen, you will be the dumbest person on the team that drags down everyone else because all your colleagues will be AIs. And so the value of your cognitive labor is negative. They would pay you not to be a part of the team. As of this week, we are no longer the smartest things on this planet. \"\n\n@aipost 🏴",
+    "entities": [
+      {
+        "offset": 0,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5287468155738821335"
+      },
+      {
+        "offset": 2,
+        "length": 152,
+        "type": "bold"
+      },
+      {
+        "offset": 199,
+        "length": 353,
+        "type": "blockquote"
+      },
+      {
+        "offset": 554,
+        "length": 7,
+        "type": "mention"
+      },
+      {
+        "offset": 562,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5431390559912614642"
+      }
+    ],
+    "media_group_id": null,
+    "chat_id": -1004468214616,
+    "message_ids": [
+      1205
+    ],
+    "update_ids": [
+      378305097
+    ],
+    "retry_count": 0
+  },
+  {
+    "type": "video",
+    "video_file_id": "BAACAgQAAyEFAAMBClOLWAACBLZq0MUvrNTB844qTWA3lSsXuwABthYAAvIhAAIWjGBSNpIhkMktFQs9BA",
+    "video_file_size": 4241741,
+    "caption": "⚡️ Dario Amodei: AI could help double the human lifespan\n\nAnthropic CEO Dario Amodei has argued that AI could dramatically accelerate biology, potentially compressing a century of scientific progress into just 5–10 years.\n\nThe longevity race is already attracting major tech fortunes. Jeff Bezos has backed Altos Labs, Sam Altman is involved with Retro Biosciences, and Peter Thiel is associated with NewLimit. Their shared ambition is to understand aging and develop ways to extend healthy human life.\n\nSome of this research is moving beyond the laboratory. Retro Biosciences, for example, is pursuing therapies aimed at improving cellular health, while scientists are exploring ways to reverse aspects of cellular aging. But these approaches remain experimental, and doubling human lifespan is far from a proven outcome.\n\nThe bigger possibility is that AI could accelerate drug discovery, uncover mechanisms of aging and help researchers develop treatments that would otherwise take decades to discover.\n\nThat makes the next decade particularly interesting for longevity science. We don’t know when major breakthroughs will arrive, or whether they will deliver the results people hope for.\n\nUntil then, protecting your health today may be the most practical way to give yourself the opportunity to benefit from tomorrow’s medicine.\n\n@aipost 🏴",
+    "entities": [
+      {
+        "offset": 0,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5366360391364412817"
+      },
+      {
+        "offset": 3,
+        "length": 53,
+        "type": "bold"
+      },
+      {
+        "offset": 1335,
+        "length": 7,
+        "type": "mention"
+      },
+      {
+        "offset": 1343,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5431390559912614642"
+      }
+    ],
+    "media_group_id": null,
+    "chat_id": -1004468214616,
+    "message_ids": [
+      1206
+    ],
+    "update_ids": [
+      378305098
+    ],
+    "retry_count": 0
+  },
+  {
+    "type": "photo",
+    "photo_file_ids": [
+      "AgACAgQAAyEFAAMBClOLWAACBLdq0MUv1BPdApdsIRJ9H8CTVhDM8wACsxFrG7iSaFJRVPeCQ0rurgEAAwIAA3cAAz0E"
+    ],
+    "caption": "😐 Jensen Huang just committed $1 BILLION to put AI in the hands of America's scientists.\n\nAt the White House science summit, 11 companies pledged $2.4 billion in compute and AI tools to the Genesis Mission, which now covers more than 15 federal agencies.\n\nNvidia gave the most at $1 billion over 5 years. AMD gave $500 million, OpenAI $200 million, and Anthropic and Google $150 million each, with Micron, AWS and Crusoe at $50 million each.\n\nThe government is quickly becoming one of the BIGGEST new buyers of AI compute.\n\n@aipost",
+    "entities": [
+      {
+        "offset": 0,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5292058161518251626"
+      },
+      {
+        "offset": 3,
+        "length": 86,
+        "type": "bold"
+      },
+      {
+        "offset": 525,
+        "length": 7,
+        "type": "mention"
+      }
+    ],
+    "media_group_id": null,
+    "chat_id": -1004468214616,
+    "message_ids": [
+      1207
+    ],
+    "update_ids": [
+      378305099
+    ],
+    "retry_count": 0
+  },
+  {
+    "type": "photo",
+    "photo_file_ids": [
+      "AgACAgQAAyEFAAMBClOLWAACBLhq0MUv6oXNuPVPLX-kQBSLZ5f7IAACtxFrG7iSaFKMgbGlqgpIugEAAwIAA3gAAz0E"
+    ],
+    "caption": "❗️The Information just reported a filmmaker-focused startup is negotiating deep access to OpenAI’s shuttered Sora video model.\n\nJeffrey Katzenberg, former Sora research lead Bill Peebles and ex-Dropbox CFO Sujay Jaswa co-founded that unnamed startup to build AI video for filmmakers. Under the terms being discussed, the startup could heavily customize Sora and sell software built on it, while OpenAI would get an undisclosed equity stake.\n\nSource. \n\n@aipost 🏴",
+    "entities": [
+      {
+        "offset": 0,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5289761612440310918"
+      },
+      {
+        "offset": 442,
+        "length": 8,
+        "type": "text_link",
+        "url": "https://www.theinformation.com/newsletters/ai-agenda/openais-plan-revive-sora"
+      },
+      {
+        "offset": 452,
+        "length": 7,
+        "type": "mention"
+      },
+      {
+        "offset": 460,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5431390559912614642"
+      }
+    ],
+    "media_group_id": null,
+    "chat_id": -1004468214616,
+    "message_ids": [
+      1208
+    ],
+    "update_ids": [
+      378305100
+    ],
+    "retry_count": 0
+  },
+  {
+    "type": "photo",
+    "photo_file_ids": [
+      "AgACAgQAAyEFAAMBClOLWAACBLlq0MUvLLI_yR0nc2MVTdL9GVdKEQACuRFrG7iSaFLr3Dh5YFb-9AEAAwIAA3cAAz0E"
+    ],
+    "caption": "❗️Satya Nadella says Microsoft is making its \"BIGGEST BET YET\" on its own AI chips.\n\nStarting in 2027, Microsoft plans MULTI-GIGAWATT Maia deployments, potentially exceeding 1 MILLION chips, making them its primary AI inference system. Maia 300 promises 40% more tokens per watt than leading GPU systems.\n\n@aipost 🏴",
+    "entities": [
+      {
+        "offset": 0,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5289761612440310918"
+      },
+      {
+        "offset": 2,
+        "length": 81,
+        "type": "bold"
+      },
+      {
+        "offset": 306,
+        "length": 7,
+        "type": "mention"
+      },
+      {
+        "offset": 314,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5431390559912614642"
+      }
+    ],
+    "media_group_id": null,
+    "chat_id": -1004468214616,
+    "message_ids": [
+      1209
+    ],
+    "update_ids": [
+      378305101
+    ],
+    "retry_count": 0
+  },
+  {
+    "type": "photo",
+    "photo_file_ids": [
+      "AgACAgQAAyEFAAMBClOLWAACBLpq0MUv9uyxIIESvCJUeGJIJU5OlwACjRJrG7iSaFLg7ovrCCP2jgEAAwIAA3kAAz0E"
+    ],
+    "caption": "❗️Mark Zuckerberg tells the FT that Meta has FINALLY caught up with OpenAI and Anthropic at the AI frontier.\n\nHe's pledging more spending and still REJECTS calls to slow AI development. Meta is already building its next model, and expects development to get 'quite a bit faster from here'. Meta expects to do 'way more things' in the future, but each task could require 'somewhat fewer people'.\n\n@aipost 🏴",
+    "entities": [
+      {
+        "offset": 0,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5289761612440310918"
+      },
+      {
+        "offset": 396,
+        "length": 7,
+        "type": "mention"
+      },
+      {
+        "offset": 404,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5431390559912614642"
+      }
+    ],
+    "media_group_id": null,
+    "chat_id": -1004468214616,
+    "message_ids": [
+      1210
+    ],
+    "update_ids": [
+      378305102
+    ],
+    "retry_count": 0
+  },
+  {
+    "type": "album",
+    "photo_file_ids": [
+      "AgACAgQAAyEFAAMBClOLWAACBLtq0MUv_1f2PTCyEStiIsdlEhzTngACHhBrG7iScFKVX303BxbevgEAAwIAA20AAz0E",
+      "AgACAgQAAyEFAAMBClOLWAACBLxq0MUvh0a6zsK6lJKClARF_tQ8vQACHRBrG7iScFJcesx3VT3txQEAAwIAA20AAz0E"
+    ],
+    "caption": "🤖 OpenAI CAUGHT Russian operatives using ChatGPT in a campaign targeting schools in Peru.\n\nTheir internal reports claim they posed as a regional education authority in Peru to get schools to hold Ukraine-related events.\n\nOpenAI says the campaign drew a reaction from at least one Polish member of the European Parliament.\n\nMeanwhile, Iranian operatives used 7 fake authors to publish almost 100 articles in outlets including Daily Kos. OpenAI says it has banned the Russian and Iranian accounts.\n\n@aipost 🏴",
+    "entities": [
+      {
+        "offset": 0,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5397681122542893003"
+      },
+      {
+        "offset": 3,
+        "length": 87,
+        "type": "bold"
+      },
+      {
+        "offset": 498,
+        "length": 7,
+        "type": "mention"
+      },
+      {
+        "offset": 506,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5431390559912614642"
+      }
+    ],
+    "media_group_id": "14336534905526437",
+    "chat_id": -1004468214616,
+    "message_ids": [
+      1211,
+      1212
+    ],
+    "update_ids": [
+      378305103,
+      378305104
+    ],
+    "retry_count": 0
+  },
+  {
+    "type": "album",
+    "photo_file_ids": [
+      "AgACAgQAAyEFAAMBClOLWAACBL1q0MUvIHjUoIEwR1t6px--L_HZogACIBBrG7iScFL1wBMWNeCs4wEAAwIAA3gAAz0E",
+      "AgACAgQAAyEFAAMBClOLWAACBL5q0MUvjatlxrk-YXHRlxAvGKUorAACIRBrG7iScFKkDnmlquqIDwEAAwIAA3kAAz0E"
+    ],
+    "caption": "🌱 EcoGPT is growing fast and planting trees along the way\n\nIn just six months, EcoGPT has reached 5M+ users, planted more than 425,000 trees, and delivered over 5 trillion tokens.\n\nThe AI platform is free to use, powered by efficient open-source AI, and says it doesn’t train foundation models on your chats.\n\nGrowth is accelerating at 50%+ month over month, and the team is hiring.\n\nSource.\n\n@aipost 🏴",
+    "entities": [
+      {
+        "offset": 0,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5449885771420934013"
+      },
+      {
+        "offset": 3,
+        "length": 55,
+        "type": "bold"
+      },
+      {
+        "offset": 385,
+        "length": 6,
+        "type": "text_link",
+        "url": "https://ecogpt.com/careers"
+      },
+      {
+        "offset": 394,
+        "length": 7,
+        "type": "mention"
+      },
+      {
+        "offset": 402,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5431390559912614642"
+      }
+    ],
+    "media_group_id": "14336534905526445",
+    "chat_id": -1004468214616,
+    "message_ids": [
+      1213,
+      1214
+    ],
+    "update_ids": [
+      378305105,
+      378305106
+    ],
+    "retry_count": 0
+  },
+  {
+    "type": "album",
+    "photo_file_ids": [
+      "AgACAgQAAyEFAAMBClOLWAACBL9q0MUvQPxvrzBLyk4I5MngWP5wXQACKBBrG7iScFL6FjxhRES6mwEAAwIAA3kAAz0E",
+      "AgACAgQAAyEFAAMBClOLWAACBMBq0MUvBd3yt6gDDOF2EdDiQIjnQgACJxBrG7iScFL9q_c-mmnb3AEAAwIAA3cAAz0E",
+      "AgACAgQAAyEFAAMBClOLWAACBMFq0MUvT-RnPdTOyZYAAbLIvzjENEUAAiYQaxu4knBSJudM8ek_UvwBAAMCAAN3AAM9BA",
+      "AgACAgQAAyEFAAMBClOLWAACBMJq0MUvUbMMiZSs6otT2zYvwYk1BQACJRBrG7iScFLyrbe0EUU5EgEAAwIAA3gAAz0E"
+    ],
+    "caption": "❗️Character AI faces bankruptcy after once reaching a $1 billion valuation\n\nCharacter AI has reportedly filed for Chapter 11 bankruptcy, with its chatbot platform potentially facing shutdown if no buyer agrees to keep it running.\n\nThe situation is striking given the company’s history. Just two years ago, Google struck a $2.7 billion deal involving licensing and talent. Now, Disney is reportedly bidding $20 million for certain intellectual property rights and claims, despite having sent Character AI a cease-and-desist letter last year.\n\nCharacter AI’s former CEO reportedly became Disney’s CTO just 10 days earlier.\n\nA company once valued at $1 billion could now see parts of its intellectual property sold off, while the future of its AI chatbot service remains uncertain.\n\n@aipost 🏴",
+    "entities": [
+      {
+        "offset": 0,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5289761612440310918"
+      },
+      {
+        "offset": 2,
+        "length": 72,
+        "type": "bold"
+      },
+      {
+        "offset": 780,
+        "length": 7,
+        "type": "mention"
+      },
+      {
+        "offset": 788,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5431390559912614642"
+      }
+    ],
+    "media_group_id": "14336534905526453",
+    "chat_id": -1004468214616,
+    "message_ids": [
+      1215,
+      1216,
+      1217,
+      1218
+    ],
+    "update_ids": [
+      378305107,
+      378305108,
+      378305109,
+      378305110
+    ],
+    "retry_count": 0
+  },
+  {
+    "type": "photo",
+    "photo_file_ids": [
+      "AgACAgQAAyEFAAMBClOLWAACBMNq0MUvR_8vehVyK7TdCOYUmc1vNwACKRBrG7iScFIStJ53s64gYgEAAwIAA3cAAz0E"
+    ],
+    "caption": "And here I thought I was AI pilled…\n\n@aipost 🏴",
+    "entities": [
+      {
+        "offset": 37,
+        "length": 7,
+        "type": "mention"
+      },
+      {
+        "offset": 45,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5431390559912614642"
+      }
+    ],
+    "media_group_id": null,
+    "chat_id": -1004468214616,
+    "message_ids": [
+      1219
+    ],
+    "update_ids": [
+      378305111
+    ],
+    "retry_count": 0
+  },
+  {
+    "type": "photo",
+    "photo_file_ids": [
+      "AgACAgQAAyEFAAMBClOLWAACBMRq0MUvma47CExKG9a5Ddeya9-IiwACKhBrG7iScFK5Euj_4a_6pQEAAwIAA3gAAz0E"
+    ],
+    "caption": "❗️The Information reports, the Trump administration intends to transfer 3 top officials from the Center for Advancing Innovation and Standards for Super Intelligence (CAISSI) to the White House.\n\nIts being done so its testers are in the room when policy on new models gets made rather than being consulted after the fact. A White House official framed it as a fix for poor coordination with Commerce.\n\n@aipost 🏴",
+    "entities": [
+      {
+        "offset": 0,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5289761612440310918"
+      },
+      {
+        "offset": 402,
+        "length": 7,
+        "type": "mention"
+      },
+      {
+        "offset": 410,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5431390559912614642"
+      }
+    ],
+    "media_group_id": null,
+    "chat_id": -1004468214616,
+    "message_ids": [
+      1220
+    ],
+    "update_ids": [
+      378305112
+    ],
+    "retry_count": 0
+  },
+  {
+    "type": "photo",
+    "photo_file_ids": [
+      "AgACAgQAAyEFAAMBClOLWAACBMVq0MUv3hepfqD9WwPo-8HPr0aGMwACYRBrG7iScFL79Hno-eXsjgEAAwIAA3gAAz0E"
+    ],
+    "caption": "❗️Some students at Northwestern University are now asking whether they should stay in mathematics at all, after OpenAI posted hundreds of AI-generated papers on open problems in a single release. \n\nAntonio Auffinger, a professor of mathematics at Northwestern University says his own priority has moved to keeping talented people in the field and helping them grow.\n\nSource. \n\n@aipost 🏴",
+    "entities": [
+      {
+        "offset": 0,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5289761612440310918"
+      },
+      {
+        "offset": 367,
+        "length": 8,
+        "type": "text_link",
+        "url": "https://www.nbcnews.com/tech/tech-news/openai-math-discoveries-are-jewels-verified-mathematicians-are-wary-sl-rcna602148"
+      },
+      {
+        "offset": 377,
+        "length": 7,
+        "type": "mention"
+      },
+      {
+        "offset": 385,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5431390559912614642"
+      }
+    ],
+    "media_group_id": null,
+    "chat_id": -1004468214616,
+    "message_ids": [
+      1221
+    ],
+    "update_ids": [
+      378305113
+    ],
+    "retry_count": 0
+  },
+  {
+    "type": "album",
+    "photo_file_ids": [
+      "AgACAgQAAyEFAAMBClOLWAACBMZq0MUvahAjyg9aPjI52mC-NeaDkgACnQ9rG7iSeFInZvtlW_pV4AEAAwIAA3kAAz0E",
+      "AgACAgQAAyEFAAMBClOLWAACBMdq0MUvR_F4CzeJXsnSIEOCyKc-EAACng9rG7iSeFLr7Ye6egZWEgEAAwIAA3kAAz0E"
+    ],
+    "caption": "🇺🇸 American tech billionaire and co-owner of Palantir Alex Karp has bought himself a 15,000 hectare property in northern Sweden for €25M.\n\nHis newly founded Swedish company Cladonia describes itself as engaged in forestry and denies any plans for data centers. The property is almost the size of the City of Stockholm and is located in the middle of nowhere.\n\n@aipost 🏴",
+    "entities": [
+      {
+        "offset": 0,
+        "length": 4,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5202021044105257611"
+      },
+      {
+        "offset": 362,
+        "length": 7,
+        "type": "mention"
+      },
+      {
+        "offset": 370,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5431390559912614642"
+      }
+    ],
+    "media_group_id": "14336534905526485",
+    "chat_id": -1004468214616,
+    "message_ids": [
+      1222,
+      1223
+    ],
+    "update_ids": [
+      378305114,
+      378305115
+    ],
+    "retry_count": 0
+  },
+  {
+    "type": "album",
+    "photo_file_ids": [
+      "AgACAgQAAyEFAAMBClOLWAACBMhq0MUvlRioeUrHwqqvegcsLkCLlgACoA9rG7iSeFKFT9y5Or3qFgEAAwIAA3gAAz0E",
+      "AgACAgQAAyEFAAMBClOLWAACBMlq0MUv_yWrK5BgYMMs1HbhyUq0pgACoQ9rG7iSeFIV1vIyQiHT9wEAAwIAA3kAAz0E"
+    ],
+    "caption": "❗️Anthropic says rogue “AI WORMS” could soon HIJACK smart home devices and spread across the internet WITHOUT human intervention.\n\n“We’re seeing signs of life for AI worms,” Anthropic warned, comparing their potential spread to “digital slime mold”, FT reports.\n\nThe firm warns self-replicating AI agents may be just MONTHS away from infiltrating smart TVs, ovens, security cameras and other connected devices.\n\nUnlike traditional malware, these AI worms could autonomously identify vulnerable devices, compromise them and replicate across networks.\n\nThe company says a :fully autonomous\" AI worm has NOT yet emerged, but the individual capabilities needed are rapidly developing.\n\n@aipost 🏴",
+    "entities": [
+      {
+        "offset": 0,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5289761612440310918"
+      },
+      {
+        "offset": 2,
+        "length": 127,
+        "type": "bold"
+      },
+      {
+        "offset": 682,
+        "length": 7,
+        "type": "mention"
+      },
+      {
+        "offset": 690,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5431390559912614642"
+      }
+    ],
+    "media_group_id": "14336534905526493",
+    "chat_id": -1004468214616,
+    "message_ids": [
+      1224,
+      1225
+    ],
+    "update_ids": [
+      378305116,
+      378305117
+    ],
+    "retry_count": 0
+  },
+  {
+    "type": "video",
+    "video_file_id": "BAACAgQAAyEFAAMBClOLWAACBMpq0MUv6eG0rN-OvNdubOS4BpB7aAACwhwAAriSeFLQ5nqe4AUC1z0E",
+    "video_file_size": 16285922,
+    "caption": "🤖 Grok Music is here.\n\nGrok Imagine now creates Suno-quality songs and you can add them to your videos and edit them yourself. You can even write your own prompts for the tracks. Music quality is impressive.\n\n@aipost 🏴",
+    "entities": [
+      {
+        "offset": 0,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5208963802904693870"
+      },
+      {
+        "offset": 3,
+        "length": 19,
+        "type": "bold"
+      },
+      {
+        "offset": 210,
+        "length": 7,
+        "type": "mention"
+      },
+      {
+        "offset": 218,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5431390559912614642"
+      }
+    ],
+    "media_group_id": null,
+    "chat_id": -1004468214616,
+    "message_ids": [
+      1226
+    ],
+    "update_ids": [
+      378305118
+    ],
+    "retry_count": 0
+  },
+  {
+    "type": "video",
+    "video_file_id": "BAACAgQAAyEFAAMBClOLWAACBMtq0MUvoebQTZUsyQglVBEqnirWsAACxBwAAriSeFILq1mNUDLEzD0E",
+    "video_file_size": 12106223,
+    "caption": "😐 Jensen Huang: We can’t design a chip anymore without AI.\n\n“At night, our AIs are exploring design spaces vast and wide that we would never do ourselves.”\n\n“Our chips are so much better because of AI. We can reduce energy use and get higher performance.”\n\n“Our software, we can’t write software without AI anymore.”\n\n“We use AI to find bugs, figure out what’s wrong with the code, and who’s likely involved.”\n\n“I want every organization and company to use AI very aggressively.”\n\n“I want to turn NVIDIA into one giant AI.”\n\n@aipost 🏴",
+    "entities": [
+      {
+        "offset": 0,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5292058161518251626"
+      },
+      {
+        "offset": 3,
+        "length": 56,
+        "type": "bold"
+      },
+      {
+        "offset": 61,
+        "length": 463,
+        "type": "blockquote"
+      },
+      {
+        "offset": 526,
+        "length": 7,
+        "type": "mention"
+      },
+      {
+        "offset": 534,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5431390559912614642"
+      }
+    ],
+    "media_group_id": null,
+    "chat_id": -1004468214616,
+    "message_ids": [
+      1227
+    ],
+    "update_ids": [
+      378305119
+    ],
+    "retry_count": 0
+  },
+  {
+    "type": "photo",
+    "photo_file_ids": [
+      "AgACAgQAAyEFAAMBClOLWAACBMxq0MUvKJ0cHksxv2tXIt6I60o3CwACRA9rG4KmgVJCq6EpkmDoSwEAAwIAA3gAAz0E"
+    ],
+    "caption": "❗️AI could predict your next move before you make it\n\nPalantir CEO Alex Karp says AI could eventually anticipate human behavior by analyzing the digital trails we leave behind, from purchases and social media posts to our movements and daily routines.\n\nThe idea builds on predictive tools already used by the U.S. military and its allies to analyze data and anticipate potential threats.\n\nAI doesn’t need to read your mind if it can learn your habits well enough to predict what you’ll do next.\n\nWhat sounds like science fiction could become a much bigger reality as these systems grow more powerful. The question is how far this predictive capability will go and who gets to use it.\n\nThe future might not need to read your thoughts. It might only need access to your data.\n\n@aipost 🏴",
+    "entities": [
+      {
+        "offset": 0,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5289761612440310918"
+      },
+      {
+        "offset": 2,
+        "length": 50,
+        "type": "bold"
+      },
+      {
+        "offset": 775,
+        "length": 7,
+        "type": "mention"
+      },
+      {
+        "offset": 783,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5431390559912614642"
+      }
+    ],
+    "media_group_id": null,
+    "chat_id": -1004468214616,
+    "message_ids": [
+      1228
+    ],
+    "update_ids": [
+      378305120
+    ],
+    "retry_count": 0
+  },
+  {
+    "type": "photo",
+    "photo_file_ids": [
+      "AgACAgQAAyEFAAMBClOLWAACBM1q0MUvpEroE5sZZca_N3Rmb2ebLAACRQ9rG4KmgVICH5iT1vL3wgEAAwIAA3gAAz0E"
+    ],
+    "caption": "⚠️ Hackers stole Meta’s source code using an employee’s credentials\n\nAttackers gained access to Meta’s private GitHub repositories using stolen employee credentials, taking software code and personal information affecting roughly 1,500 people, mostly Meta employees in the United States.\n\nThe breach exposed an uncomfortable detail: the personal information was stored in those repositories in violation of Meta’s own company policy.\n\nAccording to Meta, around 99% of the stolen material was business data, primarily software code. The remaining 1% contained personal information.\n\nMeta says it has shut down the unauthorized access, notified law enforcement, and is offering affected individuals credit and dark web monitoring.\n\n@aipost 🏴",
+    "entities": [
+      {
+        "offset": 0,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5366332658760580843"
+      },
+      {
+        "offset": 3,
+        "length": 64,
+        "type": "bold"
+      },
+      {
+        "offset": 730,
+        "length": 7,
+        "type": "mention"
+      },
+      {
+        "offset": 738,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5431390559912614642"
+      }
+    ],
+    "media_group_id": null,
+    "chat_id": -1004468214616,
+    "message_ids": [
+      1229
+    ],
+    "update_ids": [
+      378305121
+    ],
+    "retry_count": 0
+  },
+  {
+    "type": "video",
+    "video_file_id": "BAACAgQAAyEFAAMBClOLWAACBM5q0MUvbrxq1xbWdcepG35rYJW8zwACSR8AAoKmgVKCiwPRhwRo7D0E",
+    "video_file_size": 12221528,
+    "caption": "🗣 Shou Zi Chew says TikTok can now deploy 1,000 AI agents overnight to test what a 14-year-old in Nigeria sees, work its human trust-and-safety testers used to do by hand.\n\n\"Now, in order for us to understand, say, a 14-year-old's experience in Nigeria, you know, the French-speaking experience in Nigeria for a 14-year-old.\"\n\n\"You know, in the past, yes, you know, we can have our trust and safety human beings go set up an account, you know, test the account, watch 100 videos, write a report about it.\"\n\n\"Now, I can just deploy 1,000 agents and do it overnight. And the next morning, it will just generate its own report. What is the content you saw, you know, whether it's, how much of it is violative against our guidelines. I mean, this whole thing is automated.\"\n\n@aipost 🏴",
+    "entities": [
+      {
+        "offset": 0,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5287468155738821335"
+      },
+      {
+        "offset": 3,
+        "length": 169,
+        "type": "bold"
+      },
+      {
+        "offset": 174,
+        "length": 596,
+        "type": "blockquote"
+      },
+      {
+        "offset": 772,
+        "length": 7,
+        "type": "mention"
+      },
+      {
+        "offset": 780,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5431390559912614642"
+      }
+    ],
+    "media_group_id": null,
+    "chat_id": -1004468214616,
+    "message_ids": [
+      1230
+    ],
+    "update_ids": [
+      378305122
+    ],
+    "retry_count": 0
+  }
+]
