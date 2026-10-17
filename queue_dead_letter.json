@@ -6478,5 +6478,44 @@
       378305066
     ],
     "retry_count": 0
+  },
+  {
+    "type": "video",
+    "video_file_id": "BAACAgQAAyEFAAMBClOLWAACBNpq0zNv5Y3OBFE3gg0LEunUJSMQvQACYCAAAoKmiVJIvVwTQRoQNT0E",
+    "video_file_size": 45020395,
+    "caption": "🗣 Former DeepMind communications chief says AI safety is just 1% of the problem\n\nDex Hunter-Torricke spent years inside Big Tech, working with Elon Musk at SpaceX, writing speeches for Mark Zuckerberg at Facebook, and leading communications at Google DeepMind from 2023 to 2025.\n\nNow, he argues the AI debate is focused on the wrong threat.\n\n“We talk about AI governance… how you manage the AI systems themselves. That’s like 1% of the problem.”\n\nHis bigger concern is what happens to society as AI advances, mass job displacement without economic alternatives, mounting pressure on energy and natural resources, and governments betting their future on promises from technology companies.\n\nHunter-Torricke warns that AI could concentrate wealth in a small fraction of society while living standards decline for hundreds of millions of people over the next 10–15 years.\n\nHis central argument is that humanity is preparing to control the technology but not preparing for the economic, environmental and geopolitical upheaval it could bring.\n\n@aipost 🏴",
+    "entities": [
+      {
+        "offset": 0,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5287468155738821335"
+      },
+      {
+        "offset": 3,
+        "length": 77,
+        "type": "bold"
+      },
+      {
+        "offset": 1041,
+        "length": 7,
+        "type": "mention"
+      },
+      {
+        "offset": 1049,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5431390559912614642"
+      }
+    ],
+    "media_group_id": null,
+    "chat_id": -1004468214616,
+    "message_ids": [
+      1242
+    ],
+    "update_ids": [
+      378305134
+    ],
+    "retry_count": 0
   }
 ]
