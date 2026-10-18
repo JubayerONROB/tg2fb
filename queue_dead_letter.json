@@ -6605,5 +6605,54 @@
       378305139
     ],
     "retry_count": 0
+  },
+  {
+    "type": "video",
+    "video_file_id": "BAACAgQAAyEFAAMBClOLWAACBPFq1Sg-1AnB7FkQCzSIbD0EuspYHAAC7RoAAjngoVKSVAcBTyKRvD0E",
+    "video_file_size": 27516613,
+    "caption": "🗣Yuval Noah Harari: AI will take over the financial system.\n\n“Today, very few people understand the financial system. For AI, it’s easy.”\n\n“Increasingly, humans will give AI control of financial decisions.”\n\n“AI will come up with new financial devices far more sophisticated than bonds and stocks, and we will not be able to understand them anymore.”\n\n“In 10 years, there could be a financial crash and no human on the planet understands why.”\n\n“The AI says, ‘Do X.’ We have no idea why, but we just have to believe it.”\n\n@aipost 🏴",
+    "entities": [
+      {
+        "offset": 0,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5287468155738821335"
+      },
+      {
+        "offset": 2,
+        "length": 58,
+        "type": "bold"
+      },
+      {
+        "offset": 62,
+        "length": 459,
+        "type": "blockquote"
+      },
+      {
+        "offset": 523,
+        "length": 7,
+        "type": "mention"
+      },
+      {
+        "offset": 523,
+        "length": 7,
+        "type": "underline"
+      },
+      {
+        "offset": 531,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5431390559912614642"
+      }
+    ],
+    "media_group_id": null,
+    "chat_id": -1004468214616,
+    "message_ids": [
+      1265
+    ],
+    "update_ids": [
+      378305157
+    ],
+    "retry_count": 0
   }
 ]

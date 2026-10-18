@@ -1,1 +1,180 @@
-[]
+[
+  {
+    "type": "video",
+    "video_file_id": "BAACAgQAAyEFAAMBClOLWAACBPJq1Sg-pmjFJBqfzBdLGE0gMvA_4AAC7hoAAjngoVKtSDZwNwABnYI9BA",
+    "video_file_size": 2176593,
+    "caption": "🗣Bill Gates claims “over the next year, we are going to have a lot of NEGATIVE SURPRISES” from AI cyberattacks.\n\nJust 2 days ago, OpenAI and Anthropic were revealed to be PRIVATELY WAR-GAMING the fallout from AI cyberattacks. AI false flag risk is now VERY HIGH.\n\n@aipost 🏴",
+    "entities": [
+      {
+        "offset": 0,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5287468155738821335"
+      },
+      {
+        "offset": 265,
+        "length": 7,
+        "type": "mention"
+      },
+      {
+        "offset": 265,
+        "length": 7,
+        "type": "underline"
+      },
+      {
+        "offset": 273,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5431390559912614642"
+      }
+    ],
+    "media_group_id": null,
+    "chat_id": -1004468214616,
+    "message_ids": [
+      1266
+    ],
+    "update_ids": [
+      378305158
+    ],
+    "retry_count": 0
+  },
+  {
+    "type": "album",
+    "photo_file_ids": [
+      "AgACAgQAAyEFAAMBClOLWAACBPNq1Sg-YVX9doTxrXN7u01hcwvF5gACgQ5rGzngqVJlja_4ujrEgAEAAwIAA3kAAz0E",
+      "AgACAgQAAyEFAAMBClOLWAACBPRq1Sg-Ls9QDtTH61p5isWUCy4MdwACgg5rGzngqVJv0berYCqJ7QEAAwIAA3kAAz0E"
+    ],
+    "caption": "❗️Anthropic’s report is basically saying humans are the bottleneck.\n\n“Amid this model-driven acceleration, human attention is a constant bottleneck. Claude sessions amount to around 80% idly waiting for human input. As one engineer put it, people are “bottlenecking the agents.”\n\n@aipost 🏴",
+    "entities": [
+      {
+        "offset": 0,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5289761612440310918"
+      },
+      {
+        "offset": 69,
+        "length": 209,
+        "type": "blockquote"
+      },
+      {
+        "offset": 280,
+        "length": 7,
+        "type": "mention"
+      },
+      {
+        "offset": 288,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5431390559912614642"
+      }
+    ],
+    "media_group_id": "14338834932135965",
+    "chat_id": -1004468214616,
+    "message_ids": [
+      1267,
+      1268
+    ],
+    "update_ids": [
+      378305159,
+      378305160
+    ],
+    "retry_count": 0
+  },
+  {
+    "type": "photo",
+    "photo_file_ids": [
+      "AgACAgQAAyEFAAMBClOLWAACBPVq1Sg-qgExCKumyh_COpaFPVfOSAAChA5rGzngqVJqmfHP4MNUZQEAAwIAA3cAAz0E"
+    ],
+    "caption": "🤖Anthropic wants the government to stop dangerous AI but only under strict conditions\n\nAnthropic is quietly pitching US lawmakers its own AI safety bill, proposing rules that would make it possible to halt an AI model’s release in narrowly defined, high-risk situations.\n\nAccording to Politico, the draft would allow intervention only when a model poses a foreseeable and imminent threat of causing more than $1 billion in damage or killing or seriously injuring more than 50 people. The risks would need to involve biological weapons, cyberattacks or an AI model bypassing its developer’s safeguards.\n\nThe proposal would also require independent evaluators registered with the US Department of Commerce to assess frontier AI models. If they identify a qualifying imminent risk, they would have 72 hours after completing their assessment to report it to the department.\n\nOnly a federal judge could order a model’s suspension, following action initiated through the Commerce Department. Other government agencies would be barred from independently halting its development or deployment.\n\nAnthropic says the proposal reflects its broader Advanced AI Framework. The company wants a mechanism to stop genuinely dangerous AI deployments without giving the government unlimited power over AI development.\n\nSource.\n\n@aipost 🏴",
+    "entities": [
+      {
+        "offset": 0,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5208665212483310136"
+      },
+      {
+        "offset": 2,
+        "length": 84,
+        "type": "bold"
+      },
+      {
+        "offset": 1301,
+        "length": 6,
+        "type": "text_link",
+        "url": "https://www.politico.com/news/2026/10/16/anthropic-ai-safety-01124654"
+      },
+      {
+        "offset": 1310,
+        "length": 7,
+        "type": "mention"
+      },
+      {
+        "offset": 1318,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5431390559912614642"
+      }
+    ],
+    "media_group_id": null,
+    "chat_id": -1004468214616,
+    "message_ids": [
+      1269
+    ],
+    "update_ids": [
+      378305161
+    ],
+    "retry_count": 0
+  },
+  {
+    "type": "album",
+    "photo_file_ids": [
+      "AgACAgQAAyEFAAMBClOLWAACBPZq1Sg-FKZDtsbk6a8qnsQrR8-1cgAChQ5rGzngqVJOMGNxLdkhTwEAAwIAA3cAAz0E",
+      "AgACAgQAAyEFAAMBClOLWAACBPdq1Sg-gB3SvJWP-dLnfk0Lle2K2gAChg5rGzngqVK5xT4gGsA9xgEAAwIAA3cAAz0E"
+    ],
+    "caption": "❗️There’s a ridiculous trend going viral on tiktok right now called “malfoid” a harry potter fanfic story where draco malfoy is a girl and in an enemies-to-lovers story line with harry.\n\nThe AI videos are so good and it’s actively shifting AI sentiment on tiktok to positive (was historically super negative)\n\nTikToks: First and Second\n\n@aipost 🏴",
+    "entities": [
+      {
+        "offset": 0,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5289761612440310918"
+      },
+      {
+        "offset": 319,
+        "length": 5,
+        "type": "text_link",
+        "url": "https://www.tiktok.com/@histor232/video/7696122693233478932?_r=1&_t=ZP-9AdS4It858g"
+      },
+      {
+        "offset": 329,
+        "length": 6,
+        "type": "text_link",
+        "url": "https://www.tiktok.com/@adayasmr/video/7697582043705773320?_r=1&_t=ZP-9AdT4UjdNh1"
+      },
+      {
+        "offset": 337,
+        "length": 7,
+        "type": "mention"
+      },
+      {
+        "offset": 345,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5431390559912614642"
+      }
+    ],
+    "media_group_id": "14338834932135981",
+    "chat_id": -1004468214616,
+    "message_ids": [
+      1270,
+      1271
+    ],
+    "update_ids": [
+      378305162,
+      378305163
+    ],
+    "retry_count": 0
+  }
+]
