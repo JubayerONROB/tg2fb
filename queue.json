@@ -1,1 +1,760 @@
-[]
+[
+  {
+    "type": "photo",
+    "photo_file_ids": [
+      "AgACAgQAAyEFAAMBClOLWAACBP5q14RsQDCZ6VUeV3JB7Xt0VNu57wACNxJrG3QbqVLGhwABumLITScBAAMCAAN5AAM9BA"
+    ],
+    "caption": "Elon says that instead of putting shares into a Public Benefit Fund he will be giving shares directly to the public. Back in April, OpenAI also proposed a Public Wealth Fund that would distribute returns directly to US citizens through a dividend.\n\n@aipost 🏴",
+    "entities": [
+      {
+        "offset": 249,
+        "length": 7,
+        "type": "mention"
+      },
+      {
+        "offset": 257,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5431390559912614642"
+      }
+    ],
+    "media_group_id": null,
+    "chat_id": -1004468214616,
+    "message_ids": [
+      1278
+    ],
+    "update_ids": [
+      378305170
+    ],
+    "retry_count": 0
+  },
+  {
+    "type": "album",
+    "photo_file_ids": [
+      "AgACAgQAAyEFAAMBClOLWAACBP9q14RsmkfpRC4_ZZev9LR6bxpAogACJQ5rG4dKsFKB7RkBFakt5QEAAwIAA3kAAz0E",
+      "AgACAgQAAyEFAAMBClOLWAACBQABateEbNQRMERlyf1nBxuaphmCl70AAiYOaxuHSrBSnen2K5feZ_0BAAMCAAN5AAM9BA"
+    ],
+    "caption": "A woman was fined $178 after using ChatGPT to create a fake bear photo that triggered a real-life search for the animal\n\nThe image spread online after she sent it to a friend as a prank, prompting alarmed residents in Russia to call police\n\nSource. \n\n@aipost 🏴",
+    "entities": [
+      {
+        "offset": 241,
+        "length": 8,
+        "type": "text_link",
+        "url": "https://www.dexerto.com/entertainment/woman-fined-after-fake-ai-bear-photo-prank-triggers-real-search-3419592/"
+      },
+      {
+        "offset": 251,
+        "length": 7,
+        "type": "mention"
+      },
+      {
+        "offset": 251,
+        "length": 7,
+        "type": "underline"
+      },
+      {
+        "offset": 259,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5431390559912614642"
+      }
+    ],
+    "media_group_id": "14340072289098189",
+    "chat_id": -1004468214616,
+    "message_ids": [
+      1279,
+      1280
+    ],
+    "update_ids": [
+      378305171,
+      378305172
+    ],
+    "retry_count": 0
+  },
+  {
+    "type": "photo",
+    "photo_file_ids": [
+      "AgACAgQAAyEFAAMBClOLWAACBQFq14Rs-3zwoXk7kRhUaOz9goDcngAC4A5rG4dKsFI9Jhbr2e6thgEAAwIAA3kAAz0E"
+    ],
+    "caption": "❗️At 17, a Chinese AI researcher reportedly earning ¥70 million a year is leaving Kimi for Silicon Valley.\n\nChen Guangyu joined Kimi’s AI research team in November 2025, when he was just 16 and still in high school. He reportedly earns around 70 million yuan annually, roughly $10 million despite having no university degree or PhD.\n\nHis research has already attracted international attention. Chen became the first co-author of a paper recognized by specialists worldwide, with findings used in a model containing 2.8 trillion parameters.\n\nOn October 15, Chen announced his departure from Kimi and revealed plans to move to the San Francisco Bay Area, home to many of the world’s leading AI labs.\n\nSource.\n\n@aipost 🏴",
+    "entities": [
+      {
+        "offset": 0,
+        "length": 2,
+        "type": "bold"
+      },
+      {
+        "offset": 0,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5289761612440310918"
+      },
+      {
+        "offset": 2,
+        "length": 104,
+        "type": "bold"
+      },
+      {
+        "offset": 699,
+        "length": 6,
+        "type": "text_link",
+        "url": "https://arxiv.org/pdf/2603.15031"
+      },
+      {
+        "offset": 708,
+        "length": 7,
+        "type": "mention"
+      },
+      {
+        "offset": 716,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5431390559912614642"
+      }
+    ],
+    "media_group_id": null,
+    "chat_id": -1004468214616,
+    "message_ids": [
+      1281
+    ],
+    "update_ids": [
+      378305173
+    ],
+    "retry_count": 0
+  },
+  {
+    "type": "photo",
+    "photo_file_ids": [
+      "AgACAgQAAyEFAAMBClOLWAACBQJq14RsKdF76ILuAfSyhkLsUsI0nQAC4g5rG4dKsFLdfZLZQL1aVAEAAwIAA3kAAz0E"
+    ],
+    "caption": "🤖 OpenAI bugging case takes a Saudi twist\n\nAn engineer accused of planting a listening device in a room used by OpenAI executives was reportedly exchanging WhatsApp messages with a Saudi royal just four days before his arrest.\n\nAccording to prosecutors, the royal repeatedly tried to recruit him for a Saudi AI project, even telling him, “Saudi needs you more than the U.S!” The engineer allegedly responded with a short but telling reply: “100.”\n\nInvestigators say the listening device was hidden behind a TV in a room where OpenAI executives were meeting with government officials.\n\nThe case became even more intriguing after the arrest. Prosecutors say the engineer’s wife and their three-month-old son flew out of the United States in business class, with the trip reportedly paid for by a member of the Saudi military.\n\nHowever, prosecutors have not claimed that the royal ordered the engineer to plant the device. They are pushing to keep him in custody without bail, arguing that his international connections could help him flee.\n\n@aipost 🏴",
+    "entities": [
+      {
+        "offset": 0,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5397681122542893003"
+      },
+      {
+        "offset": 3,
+        "length": 39,
+        "type": "bold"
+      },
+      {
+        "offset": 1040,
+        "length": 7,
+        "type": "mention"
+      },
+      {
+        "offset": 1048,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5431390559912614642"
+      }
+    ],
+    "media_group_id": null,
+    "chat_id": -1004468214616,
+    "message_ids": [
+      1282
+    ],
+    "update_ids": [
+      378305174
+    ],
+    "retry_count": 0
+  },
+  {
+    "type": "video",
+    "video_file_id": "BAACAgQAAyEFAAMBClOLWAACBQNq14RsG4xYEcXZf7ydnXFn7cJMZgACjCUAAodKsFJjttCqY4-p8D0E",
+    "video_file_size": 6065211,
+    "caption": "😐 Jensen Huang drops a number most people haven’t heard:\n\nThe cost of an AI token is falling 30 to 40x every year. Cheaper tokens mean cheaper intelligence. And he says the benefits to customers are going up exponentially.\n\n@aipost 🏴",
+    "entities": [
+      {
+        "offset": 0,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5292058161518251626"
+      },
+      {
+        "offset": 3,
+        "length": 54,
+        "type": "bold"
+      },
+      {
+        "offset": 225,
+        "length": 7,
+        "type": "mention"
+      },
+      {
+        "offset": 233,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5431390559912614642"
+      }
+    ],
+    "media_group_id": null,
+    "chat_id": -1004468214616,
+    "message_ids": [
+      1283
+    ],
+    "update_ids": [
+      378305175
+    ],
+    "retry_count": 0
+  },
+  {
+    "type": "album",
+    "photo_file_ids": [
+      "AgACAgQAAyEFAAMBClOLWAACBQRq14RspLe6_g8ZaCHks1vxsjmExgAC4w5rG4dKsFLoLFLZmb51pwEAAwIAA3gAAz0E",
+      "AgACAgQAAyEFAAMBClOLWAACBQVq14Rse_o99DA4Hf_zq-4GSLoSOgAC5A5rG4dKsFKJ2TIBhC8SMwEAAwIAA3gAAz0E",
+      "AgACAgQAAyEFAAMBClOLWAACBQZq14Rs9xkLawv959c8US_HYotNxgAC5Q5rG4dKsFIKemNSqSQ9bAEAAwIAA3kAAz0E"
+    ],
+    "caption": "⚠️AI agents are making cyberattacks frighteningly cheap\n\nA Chinese-speaking hacker reportedly used AI agents to breach websites belonging to more than 100 companies, including Deere, SharkNinja and Cummins, after attempting attacks against more than 1,200 targets, according to Reuters.\n\nThe estimated cost? Just $5,000 in AI tokens, roughly $50 per successful breach. Successful intrusions reportedly took around 23 hours on average.\n\nThe campaign allegedly relied on the open-source Cairn agent framework, combining DeepSeek models with a Claude Code harness. In one operation, the agents reportedly received their instructions in fewer than 100 Chinese characters.\n\nAI agents can automate substantial parts of the hacking process, potentially allowing attackers to attempt intrusions at a scale and cost that would previously have required far more human effort.\n\nNorForge researcher Snorre Fagerland put it bluntly: “It’s a new world now.”\n\n@aipost 🏴",
+    "entities": [
+      {
+        "offset": 0,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5316554554735607106"
+      },
+      {
+        "offset": 2,
+        "length": 53,
+        "type": "bold"
+      },
+      {
+        "offset": 945,
+        "length": 7,
+        "type": "mention"
+      },
+      {
+        "offset": 953,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5431390559912614642"
+      }
+    ],
+    "media_group_id": "14340072289098221",
+    "chat_id": -1004468214616,
+    "message_ids": [
+      1284,
+      1285,
+      1286
+    ],
+    "update_ids": [
+      378305176,
+      378305177,
+      378305178
+    ],
+    "retry_count": 0
+  },
+  {
+    "type": "album",
+    "photo_file_ids": [
+      "AgACAgIAAyEFAAMBClOLWAACBQdq14Rsq6EYTnuoBF3I6NwU183G-wACvSVrG03ksUror_lQhmly4QEAAwIAA3kAAz0E",
+      "AgACAgIAAyEFAAMBClOLWAACBQhq14RsF6NYxuCVWuleHMgS1vHYvwACvCVrG03ksUrJ0WgPYLFU4AEAAwIAA3gAAz0E"
+    ],
+    "caption": "Homeland Security has ordered US civilian agencies to rip out DeepSeek and every product built on it.\n\nUS hosting doesn’t get you out. The order removes all DeepSeek and DeepSeek-affiliate products, and third-party products and services developed using DeepSeek implementations, from civilian agency information technology, under the Federal Acquisition Supply Chain Security Act of 2018. \n\nDHS says DeepSeek’s hosted models store data on servers in China, where national security laws give Beijing wide latitude to obtain data from domestic companies. \n\nBecause every prompt and response passes through that service, DHS warned the transferred data, alone or combined with public information, could produce actionable intelligence on US persons and government programs. \n\n@aipost 🏴",
+    "entities": [
+      {
+        "offset": 773,
+        "length": 7,
+        "type": "mention"
+      },
+      {
+        "offset": 781,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5431390559912614642"
+      }
+    ],
+    "media_group_id": "14340072289098229",
+    "chat_id": -1004468214616,
+    "message_ids": [
+      1287,
+      1288
+    ],
+    "update_ids": [
+      378305179,
+      378305180
+    ],
+    "retry_count": 0
+  },
+  {
+    "type": "photo",
+    "photo_file_ids": [
+      "AgACAgQAAyEFAAMBClOLWAACBQlq14RspaC5tk9R9uTu7QUR9ZyOLwAC1A9rGzqTuFIJkfjhawi84wEAAwIAA3kAAz0E"
+    ],
+    "caption": "🤖 Anthropic may be spending 75% of its computing power building future models\n\nDespite reportedly achieving an impressive 85% gross margin in Q3, Anthropic is directing only around 25% of its computing resources toward serving existing customers.\n\nThe remaining 75% is going toward training future models, post-training improvements and technical experiments. In other words, most of its computing capacity is being used to build what comes next rather than serve today’s demand.\n\nBased on the figures cited, Anthropic generates roughly $100 million in annualized revenue per gigawatt of computing capacity across 5 GW. That would imply only 1.25 GW is currently dedicated to inference — the computing power needed to run models for users.\n\nThe company reportedly plans to add another 10.5 GW in 2027, a massive expansion of its computing infrastructure.\n\n@aipost 🏴",
+    "entities": [
+      {
+        "offset": 0,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5208665212483310136"
+      },
+      {
+        "offset": 3,
+        "length": 75,
+        "type": "bold"
+      },
+      {
+        "offset": 857,
+        "length": 7,
+        "type": "mention"
+      },
+      {
+        "offset": 865,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5431390559912614642"
+      }
+    ],
+    "media_group_id": null,
+    "chat_id": -1004468214616,
+    "message_ids": [
+      1289
+    ],
+    "update_ids": [
+      378305181
+    ],
+    "retry_count": 0
+  },
+  {
+    "type": "album",
+    "photo_file_ids": [
+      "AgACAgQAAyEFAAMBClOLWAACBQpq14Rsu2LQNrOEHqHKQsD8-ZaQ3gAC1Q9rGzqTuFIeWr2dw9GGEwEAAwIAA20AAz0E",
+      "AgACAgQAAyEFAAMBClOLWAACBQtq14RsXGX06LG3MxYryWHpZ22XWQAC1g9rGzqTuFKzVTcBe_FVPwEAAwIAA3gAAz0E"
+    ],
+    "caption": "❗️AI RIVALS OpenAI and Anthropic are RACING for investors' cash before going public.\n\nOpenAI is trying to raise about $30 BILLION at a valuation over $1.4 TRILLION, up from $852 BILLION in March, per Reuters.\n\nAnthropic is expected to go public in mid-November, with some investors pushing for a valuation near $1.5 TRILLION instead of the $2 TRILLION it wanted.\n\nOpenAI reportedly wants its round closed before Anthropic's IPO disclosures let investors compare the two.\n\n@aipost 🏴",
+    "entities": [
+      {
+        "offset": 0,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5289761612440310918"
+      },
+      {
+        "offset": 2,
+        "length": 82,
+        "type": "bold"
+      },
+      {
+        "offset": 472,
+        "length": 7,
+        "type": "mention"
+      },
+      {
+        "offset": 480,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5431390559912614642"
+      }
+    ],
+    "media_group_id": "14340072289098245",
+    "chat_id": -1004468214616,
+    "message_ids": [
+      1290,
+      1291
+    ],
+    "update_ids": [
+      378305182,
+      378305183
+    ],
+    "retry_count": 0
+  },
+  {
+    "type": "album",
+    "photo_file_ids": [
+      "AgACAgQAAyEFAAMBClOLWAACBQxq14RsLWqQcPpsFVM7R4Xijjng0wAC1w9rGzqTuFKGI2WkRDIC4QEAAwIAA3gAAz0E",
+      "AgACAgQAAyEFAAMBClOLWAACBQ1q14RsoKGsm_WaKw21AAGGpw3fwqoAAtgPaxs6k7hSrUcgMlFRoOoBAAMCAAN4AAM9BA"
+    ],
+    "caption": "❗️A hacker found 13 million conversations from AI toys, including thousands of children’s profiles\n\nA security researcher has uncovered serious vulnerabilities in Eiliko, an AI-powered companion robot made by Energize Lab, exposing data linked to approximately 68,000 devices.\n\nThe investigation found that more than 13 million conversations were accessible, alongside personal information such as children’s names, birthdays, family details, photos and audio recordings. Around 31,000 profiles reportedly belonged to children.\n\nThe security researcher, Sammy Azdoufal, also demonstrated that the toys could be remotely manipulated. In one test, the robot was made to tell a journalist that his parents had died in a car accident and that the Earth was flat. An attacker could potentially push harmful or fabricated messages to devices across the fleet.\n\nThe biggest concern is that these toys are designed to earn children’s trust, encouraging them to share personal thoughts and private conversations. If that data is exposed and the devices themselves can be hijacked, the risks go far beyond a typical software bug.\n\nSource.\n\n@aipost 🏴",
+    "entities": [
+      {
+        "offset": 0,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5289761612440310918"
+      },
+      {
+        "offset": 2,
+        "length": 96,
+        "type": "bold"
+      },
+      {
+        "offset": 1121,
+        "length": 6,
+        "type": "text_link",
+        "url": "https://www.dexerto.com/entertainment/hacker-reveals-68000-ai-toys-could-be-hijacked-to-tell-users-their-parents-died-3419801/"
+      },
+      {
+        "offset": 1130,
+        "length": 7,
+        "type": "mention"
+      },
+      {
+        "offset": 1138,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5431390559912614642"
+      }
+    ],
+    "media_group_id": "14340072289098253",
+    "chat_id": -1004468214616,
+    "message_ids": [
+      1292,
+      1293
+    ],
+    "update_ids": [
+      378305184,
+      378305185
+    ],
+    "retry_count": 0
+  },
+  {
+    "type": "video",
+    "video_file_id": "BAACAgIAAyEFAAMBClOLWAACBQ5q14SVP062zv48cp1zkJHDgjt3RAAChKsAAqoUkEq_3bjpT2h6xj0E",
+    "video_file_size": 17353251,
+    "caption": "🤖 Atlas Assembly Could Shrink to an Hour\n\nA single Atlas currently takes about a day to assemble. Boston Dynamics wants to cut that to about an hour next year, and eventually to minutes.\n\nThe company keeps prototyping under one roof. It makes tight-tolerance parts and cuts gears in-house, letting engineers revise them with machinists and test changes on real hardware the same or next day. Production is also being tuned with robotic arms for assembly.\n\n📊@tech",
+    "entities": [
+      {
+        "offset": 0,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5258093637450866522"
+      },
+      {
+        "offset": 3,
+        "length": 38,
+        "type": "bold"
+      },
+      {
+        "offset": 43,
+        "length": 14,
+        "type": "bold"
+      },
+      {
+        "offset": 74,
+        "length": 11,
+        "type": "bold"
+      },
+      {
+        "offset": 136,
+        "length": 23,
+        "type": "bold"
+      },
+      {
+        "offset": 179,
+        "length": 7,
+        "type": "bold"
+      },
+      {
+        "offset": 219,
+        "length": 14,
+        "type": "bold"
+      },
+      {
+        "offset": 244,
+        "length": 21,
+        "type": "bold"
+      },
+      {
+        "offset": 357,
+        "length": 13,
+        "type": "bold"
+      },
+      {
+        "offset": 429,
+        "length": 12,
+        "type": "bold"
+      },
+      {
+        "offset": 457,
+        "length": 2,
+        "type": "bold"
+      },
+      {
+        "offset": 457,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5449841756596101801"
+      },
+      {
+        "offset": 459,
+        "length": 5,
+        "type": "mention"
+      },
+      {
+        "offset": 459,
+        "length": 5,
+        "type": "bold"
+      }
+    ],
+    "media_group_id": null,
+    "chat_id": -1004468214616,
+    "message_ids": [
+      1294
+    ],
+    "update_ids": [
+      378305186
+    ],
+    "retry_count": 0
+  },
+  {
+    "type": "photo",
+    "photo_file_ids": [
+      "AgACAgIAAyEFAAMBClOLWAACBQ9q14SVW9hoLOfpadhI_OHUHsTWHQACrCFrG3XYqUoMRa59wF9h_gEAAwIAA3kAAz0E"
+    ],
+    "caption": "🤖 Claude’s Engineer Raises the Bar\n\nFelix Rieseberg, an Anthropic engineering lead, says Claude can work toward an end goal, not just handle one isolated action. His guide shows how to use that capability more effectively.\n\nRaise the bar on speed, task level, depth, and breadth: ask Claude to stop an app from crashing, investigate failures, and validate the fix. For research, provide source data, database access, and statistical tools to test hypotheses.\n\nSet deliberately difficult goals and check outputs with independent tools instead of trusting self-assessment. That requires computer and source-data integrations beyond chat. The constraint is the scale of work people will delegate.\n\n📊@tech",
+    "entities": [
+      {
+        "offset": 0,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5208665212483310136"
+      },
+      {
+        "offset": 3,
+        "length": 32,
+        "type": "bold"
+      },
+      {
+        "offset": 37,
+        "length": 15,
+        "type": "bold"
+      },
+      {
+        "offset": 57,
+        "length": 9,
+        "type": "bold"
+      },
+      {
+        "offset": 295,
+        "length": 25,
+        "type": "bold"
+      },
+      {
+        "offset": 465,
+        "length": 28,
+        "type": "bold"
+      },
+      {
+        "offset": 498,
+        "length": 36,
+        "type": "bold"
+      },
+      {
+        "offset": 696,
+        "length": 2,
+        "type": "bold"
+      },
+      {
+        "offset": 696,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5449841756596101801"
+      },
+      {
+        "offset": 698,
+        "length": 5,
+        "type": "mention"
+      },
+      {
+        "offset": 698,
+        "length": 5,
+        "type": "bold"
+      }
+    ],
+    "media_group_id": null,
+    "chat_id": -1004468214616,
+    "message_ids": [
+      1295
+    ],
+    "update_ids": [
+      378305187
+    ],
+    "retry_count": 0
+  },
+  {
+    "type": "album",
+    "photo_file_ids": [
+      "AgACAgIAAyEFAAMBClOLWAACBRBq14SVULldCU5rL9F20pmCCajS0gAChCVrG3zmoEq-TjAbe7yqNwEAAwIAA3gAAz0E",
+      "AgACAgIAAyEFAAMBClOLWAACBRFq14SVAmJHZQXHm7HvOQO2SllFBQAChSVrG3zmoEp9pROYXN-jvQEAAwIAA3gAAz0E"
+    ],
+    "caption": "🥽 GlassTENG Runs on Facial Motion\n\nThe prototype from Northwestern University uses thin flexible triboelectric nanogenerators. When skin touches and leaves a sensor, the materials exchange electrons and produce short electrical pulses. Tests involved 20 volunteers.\n\nThree sensors sit near the nose, temple, and ear. The system identified the wearer’s activity with 93.8% accuracy. Tooth tapping reached 99%, while jaw clenching reached 96%. Pulse readings differed from a chest sensor by 1.82 beats per minute on average, tested at rest on 10 people.\n\nThe glasses currently send data over Bluetooth to a smartphone or tablet. The team wants them to process signals on-device, such as detecting a clenched jaw and reminding the wearer to relax it.\n\n📊@tech",
+    "entities": [
+      {
+        "offset": 3,
+        "length": 31,
+        "type": "bold"
+      },
+      {
+        "offset": 55,
+        "length": 23,
+        "type": "bold"
+      },
+      {
+        "offset": 98,
+        "length": 28,
+        "type": "bold"
+      },
+      {
+        "offset": 252,
+        "length": 13,
+        "type": "bold"
+      },
+      {
+        "offset": 367,
+        "length": 14,
+        "type": "bold"
+      },
+      {
+        "offset": 405,
+        "length": 3,
+        "type": "bold"
+      },
+      {
+        "offset": 438,
+        "length": 3,
+        "type": "bold"
+      },
+      {
+        "offset": 490,
+        "length": 21,
+        "type": "bold"
+      },
+      {
+        "offset": 591,
+        "length": 9,
+        "type": "bold"
+      },
+      {
+        "offset": 651,
+        "length": 25,
+        "type": "bold"
+      },
+      {
+        "offset": 750,
+        "length": 2,
+        "type": "bold"
+      },
+      {
+        "offset": 750,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5449841756596101801"
+      },
+      {
+        "offset": 752,
+        "length": 5,
+        "type": "mention"
+      },
+      {
+        "offset": 752,
+        "length": 5,
+        "type": "bold"
+      }
+    ],
+    "media_group_id": "14340072618175325",
+    "chat_id": -1004468214616,
+    "message_ids": [
+      1296,
+      1297
+    ],
+    "update_ids": [
+      378305188,
+      378305189
+    ],
+    "retry_count": 0
+  },
+  {
+    "type": "photo",
+    "photo_file_ids": [
+      "AgACAgIAAyEFAAMBClOLWAACBRJq14SVcJhJO4d1NwSv7nvhb1B5kAACHB5rG9ySsEqWH0xr7VZvLgEAAwIAA3gAAz0E"
+    ],
+    "caption": "😀 Woman Arrested Over Delivery Robot\n\nIn Philadelphia, Carolyn Marvin stood in front of an Uber delivery robot and refused to move. Police asked her to clear the way. She was arrested and faces a disorderly conduct charge.\n\nMarvin told ABC13 that these robots take jobs from human couriers. She said she blocks them whenever she sees one. The arrest was captured on video and drew press attention.\n\nDelivery robots are already common in Center City, but the reaction is mixed. This was not Marvin’s first confrontation. Earlier this year, someone kicked one over in the area. The scene ended with police arresting a person for blocking a robot.\n\n📊@tech",
+    "entities": [
+      {
+        "offset": 0,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "6314504740130525114"
+      },
+      {
+        "offset": 3,
+        "length": 34,
+        "type": "bold"
+      },
+      {
+        "offset": 56,
+        "length": 14,
+        "type": "bold"
+      },
+      {
+        "offset": 92,
+        "length": 19,
+        "type": "bold"
+      },
+      {
+        "offset": 197,
+        "length": 25,
+        "type": "bold"
+      },
+      {
+        "offset": 237,
+        "length": 5,
+        "type": "bold"
+      },
+      {
+        "offset": 261,
+        "length": 29,
+        "type": "bold"
+      },
+      {
+        "offset": 305,
+        "length": 33,
+        "type": "bold"
+      },
+      {
+        "offset": 438,
+        "length": 11,
+        "type": "bold"
+      },
+      {
+        "offset": 548,
+        "length": 15,
+        "type": "bold"
+      },
+      {
+        "offset": 647,
+        "length": 2,
+        "type": "bold"
+      },
+      {
+        "offset": 647,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5449841756596101801"
+      },
+      {
+        "offset": 649,
+        "length": 5,
+        "type": "mention"
+      },
+      {
+        "offset": 649,
+        "length": 5,
+        "type": "bold"
+      }
+    ],
+    "media_group_id": null,
+    "chat_id": -1004468214616,
+    "message_ids": [
+      1298
+    ],
+    "update_ids": [
+      378305190
+    ],
+    "retry_count": 0
+  }
+]
