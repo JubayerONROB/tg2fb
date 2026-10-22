@@ -2,38 +2,33 @@
   {
     "type": "photo",
     "photo_file_ids": [
-      "AgACAgQAAyEFAAMBClOLWAACBRpq2fbmtm6Q3VWKWu29aKdENWrsXQAC9Q9rGzqTuFKJSJDl7G-ZvQEAAwIAA3gAAz0E"
+      "AgACAgQAAyEFAAMBClOLWAACBSJq2mKYf669Y28HOW3mJPnsPTUn3wACCRBrGzqTuFIEtaTUzSJQtQEAAwIAA3gAAz0E"
     ],
-    "caption": "💰 America's projected $10 TRILLION AI infrastructure boom faces a growing DEBT CRISIS as costs surge and projects stall.\n\nAt least 47 major data center projects are DELAYED, BLOCKED or WITHDRAWN in 2026, FT reports.\n\nThe scale of the risks is GROWING:\n\n~ Only 35% of planned U.S. data center projects are considered credible by Bernstein analysts.\n\n~ 1,000+ U.S. communities have sought restrictions on AI infrastructure development this year.\n\n~ CoreWeave plunged nearly 25% in one week as investors questioned its debt-funded expansion.\n\nThe biggest concern is FINANCING. AI providers are borrowing BILLIONS to build data centers, but rising costs and delays threaten their expansion.\n\nSome contracts even allow AI companies to walk away if deadlines are missed, leaving developers with massive debts and unfinished projects.\n\nInvestors now question whether these companies can survive the enormous costs of the AI boom.\n\n@aipost 🏴",
+    "caption": "🇩🇪 Nvidia has now announced 4 investments into German startups:\n\n~ MireloAI - develops AI models that generate sound effects, speech and music for video, helping creators and production teams produce high-quality audio that perfectly matches their visuals on screen.\n\n~ AgileRobots - which builds AI-powered robots, from robotic arms to its Agile ONE humanoid, for manufacturing, logistics and healthcare.\n\n~ Avelios Medical - develops an AI-native hospital information system that serves as the core system of record for clinical and administrative workflows, integrating AI directly into hospital operations to free up doctors and nurses to deliver better patient care.\n\n~ Reflex Aerospace - designs and builds high-performance satellites ready for launch in about 12 months instead of years.\n\nThe company has already invested in n8n, Neura Robotics and Black Forest Labs.\n\n@aipost 🏴",
     "entities": [
       {
         "offset": 0,
-        "length": 2,
+        "length": 4,
         "type": "bold"
       },
       {
         "offset": 0,
-        "length": 2,
+        "length": 4,
         "type": "custom_emoji",
-        "custom_emoji_id": "5289964193162759223"
+        "custom_emoji_id": "5409360418520967565"
       },
       {
-        "offset": 2,
-        "length": 119,
+        "offset": 4,
+        "length": 61,
         "type": "bold"
       },
       {
-        "offset": 218,
-        "length": 34,
-        "type": "bold"
-      },
-      {
-        "offset": 925,
+        "offset": 878,
         "length": 7,
         "type": "mention"
       },
       {
-        "offset": 933,
+        "offset": 886,
         "length": 2,
         "type": "custom_emoji",
         "custom_emoji_id": "5431390559912614642"
@@ -42,44 +37,44 @@
     "media_group_id": null,
     "chat_id": -1004468214616,
     "message_ids": [
-      1306
+      1314
     ],
     "update_ids": [
-      378305198
+      378305206
     ],
     "retry_count": 0
   },
   {
     "type": "photo",
     "photo_file_ids": [
-      "AgACAgQAAyEFAAMBClOLWAACBRtq2fbmlRv0YJzU8W_ujdshk9TeDwAC-g9rGzqTuFLHlcjnDS3XPAEAAwIAA3cAAz0E"
+      "AgACAgQAAyEFAAMBClOLWAACBSNq2mKYu76wOCdvBjTQtQVKcMzZggACChBrG0tUyFIl8w_ohonjHgEAAwIAA3kAAz0E"
     ],
-    "caption": "🧬 MIT built an AI that can read how cells communicate.\n\nYour body’s cells use chemical signals to decide whether to become heart, lung, brain or other tissues. MIT and the Whitehead Institute developed an AI called IRIS that can decode these signals by analyzing the changes they leave in a cell’s genes.\n\nTrained on thousands of human stem cells, IRIS predicted signaling activity in unfamiliar cell types and correctly identified key signals in mouse embryos developing into organs and tissues.\n\nThe biggest breakthrough came when it predicted that activating a specific signal could push cells toward becoming lung tissue. Experiments in mouse embryos confirmed the prediction.\n\nThe technology could help researchers grow better mini-organs in laboratories and study diseases such as asthma, lung cancer and pulmonary fibrosis.\n\nOne day, it could even help scientists find new ways to repair damaged tissues.\n\nSource.\n\n@aipost 🏴",
+    "caption": "❗️The next major cyberattack may begin with a discovery like this\n\nIt’s already started. The concern is that vulnerabilities now discussed in security reports and social media could eventually surface as breaches of critical infrastructure.\n\nJapan’s Prime Minister has reportedly issued an urgent statement on the broader issue, although the context and exact wording need verification.\n\nThe vulnerability list is alarming. Two reported PHP flaws could allow unauthenticated remote code execution, while Oracle Access Manager and Oracle SOA Suite entries carry maximum CVSS scores of 10.0. Argo CD, Node.js, Juniper networking equipment and Fortinet security software also appear on the list.\n\nSome entries are described as actively exploited, including flaws affecting Plex Media Server, SiteGuard and Siemens Software Center. If confirmed, these would represent risks across web applications, enterprise systems, network infrastructure and industrial environments.\n\nPHP makes the potential reach especially significant. It powers a substantial share of websites worldwide, although the often-cited figure of 70% depends on the measurement method and does not mean 70% of sites are vulnerable.\n\nThe bigger concern is the speed at which attackers may discover and exploit weaknesses across widely deployed software. AI could accelerate parts of that process, potentially shrinking the time defenders have to respond.\n\nThe CVE identifiers and claims above have not been independently verified, so they should not yet be treated as confirmed disclosures from today.\n\nSource.\n\n@aipost 🏴",
     "entities": [
       {
         "offset": 0,
         "length": 2,
         "type": "custom_emoji",
-        "custom_emoji_id": "5215673679987355184"
+        "custom_emoji_id": "5289761612440310918"
       },
       {
-        "offset": 3,
-        "length": 52,
+        "offset": 2,
+        "length": 63,
         "type": "bold"
       },
       {
-        "offset": 914,
+        "offset": 1565,
         "length": 6,
         "type": "text_link",
-        "url": "https://news.mit.edu/2026/ai-model-decodes-language-cells-use-communicate-1015"
+        "url": "https://x.com/takaichi_sanae/status/2112890642590564386"
       },
       {
-        "offset": 923,
+        "offset": 1574,
         "length": 7,
         "type": "mention"
       },
       {
-        "offset": 931,
+        "offset": 1582,
         "length": 2,
         "type": "custom_emoji",
         "custom_emoji_id": "5431390559912614642"
@@ -88,82 +83,350 @@
     "media_group_id": null,
     "chat_id": -1004468214616,
     "message_ids": [
-      1307
+      1315
     ],
     "update_ids": [
-      378305199
-    ],
-    "retry_count": 0
-  },
-  {
-    "type": "video",
-    "video_file_id": "BAACAgQAAyEFAAMBClOLWAACBRxq2fbmMTJz87rD0nZasIuSfBmLQQACpyAAAjqTuFIhlvssUo5Icj0E",
-    "video_file_size": 20484657,
-    "caption": "Opus was asked what it thinks consciousness really is.\n\n@aipost 🏴",
-    "entities": [
-      {
-        "offset": 56,
-        "length": 7,
-        "type": "mention"
-      },
-      {
-        "offset": 64,
-        "length": 2,
-        "type": "custom_emoji",
-        "custom_emoji_id": "5431390559912614642"
-      }
-    ],
-    "media_group_id": null,
-    "chat_id": -1004468214616,
-    "message_ids": [
-      1308
-    ],
-    "update_ids": [
-      378305200
+      378305207
     ],
     "retry_count": 0
   },
   {
     "type": "album",
     "photo_file_ids": [
-      "AgACAgQAAyEFAAMBClOLWAACBR1q2fbm31Jn896bbzvaLwwfJHGaRwACAxBrGzqTuFLKQixAfwXh9wEAAwIAA3gAAz0E",
-      "AgACAgQAAyEFAAMBClOLWAACBR5q2fbmE4BQgfParfzYooclfXd4oQACBBBrGzqTuFJwr9luHXVeBQEAAwIAA3kAAz0E"
+      "AgACAgQAAyEFAAMBClOLWAACBSRq2mKYipm7wMHJc-0cbTb3ZuafswACJA9rGzqTwFKaj6pLGcqixwEAAwIAA3kAAz0E",
+      "AgACAgQAAyEFAAMBClOLWAACBSVq2mKYGO1jSDgl7UyzkphzNytbcwACJQ9rGzqTwFKMncE_W0ZNIQEAAwIAA3kAAz0E",
+      "AgACAgQAAyEFAAMBClOLWAACBSZq2mKYdRmZqMJAWi8AAU9ubVLA710AAiYPaxs6k8BS46CX5LuYEygBAAMCAAN5AAM9BA"
     ],
-    "caption": "🥺 Sam Altman apparently told OpenAI employees that there are possibly THREE endgames for AI safety:\n\n1. An international nuclear-style watchdog\n\n2. Merge all major labs into a giant org\n\n3. One company achieves RSI and gets so powerful it can literally “melt everyone else’s GPUs.”\n\nand he called the 3rd option “terrible.\n\nSource.\n\n@aipost 🏴",
+    "caption": "🇨🇳 China’s AI giants have ordered $35 billion worth of Nvidia GPUs\n\nByteDance, Alibaba and Tencent have reportedly ordered more than 3 million Nvidia RTX PRO 5500 cards, designed to comply with US export restrictions, according to Reuters.\n\nThe problem is supply. Total orders from Chinese buyers have reportedly exceeded 6 million cards, while Nvidia may be able to produce no more than 3 million globally in 2027. One source warned that customers could receive just 5% to 10% of the quantities they requested.\n\nChinese companies primarily want the GPUs for AI inference, running trained models to power chatbots, agents and other AI applications rather than training new models. Commercial deliveries are expected to begin in Q1 2027.\n\nNvidia’s older RTX 6000D attracted little interest from major Chinese buyers last year, but the product has since been discontinued and its market price in China has doubled.\n\n@aipost 🏴",
     "entities": [
       {
         "offset": 0,
-        "length": 2,
+        "length": 4,
         "type": "custom_emoji",
-        "custom_emoji_id": "5291894093767542370"
+        "custom_emoji_id": "5431782733376399004"
       },
       {
-        "offset": 325,
-        "length": 7,
-        "type": "text_link",
-        "url": "https://www.theinformation.com/articles/altman-describes-three-endgames-ai-including-one-single-firm-melts-everyone-elses-gpus?rc=jm6dbd&shared=dead241b54ae7c75"
+        "offset": 5,
+        "length": 63,
+        "type": "bold"
       },
       {
-        "offset": 334,
+        "offset": 916,
         "length": 7,
         "type": "mention"
       },
       {
-        "offset": 342,
+        "offset": 924,
         "length": 2,
         "type": "custom_emoji",
         "custom_emoji_id": "5431390559912614642"
       }
     ],
-    "media_group_id": "14341355315506989",
+    "media_group_id": "14341575879374085",
     "chat_id": -1004468214616,
     "message_ids": [
-      1309,
-      1310
+      1316,
+      1317,
+      1318
     ],
     "update_ids": [
-      378305201,
-      378305202
+      378305208,
+      378305209,
+      378305210
+    ],
+    "retry_count": 0
+  },
+  {
+    "type": "album",
+    "photo_file_ids": [
+      "AgACAgQAAyEFAAMBClOLWAACBSdq2mKYFkQba8wljLCX7IzpNfln7wACMg9rGzqTwFJJ_Udy-fg5bgEAAwIAA3gAAz0E",
+      "AgACAgQAAyEFAAMBClOLWAACBShq2mKY8KTpfpLc1MYSH35ROFv1nQACMw9rGzqTwFJNmwEJvSIbWgEAAwIAA3gAAz0E",
+      "AgACAgQAAyEFAAMBClOLWAACBSlq2mKY4urKx0XA4PuEi35_5K3C6AACNA9rGzqTwFLVD2kEsZhdYAEAAwIAA3gAAz0E",
+      "AgACAgQAAyEFAAMBClOLWAACBSpq2mKYVRMt0SzwAVPGdEJGDnN6uQACNQ9rGzqTwFItZ2CCzHu4kAEAAwIAA3gAAz0E"
+    ],
+    "caption": "⚠️ Google is making AI fluency a requirement for every software engineer\n\nGoogle is raising the bar for software engineers: AI fluency is now required for every engineering role, according to internal documents obtained by Business Insider.\n\nBeyond entry-level positions, candidates are also being evaluated on how well they can integrate AI into products. The company has expanded trials that let applicants use Gemini during coding interviews, testing not just their coding skills but also prompt engineering and their ability to understand AI-generated code.\n\nGoogle is also experimenting with Gemini to transcribe interviews and help draft candidate feedback.\n\nGoogle’s own instructions explicitly warn employees not to use generative AI to build standalone solutions or agents for hiring and interviewing.\n\nGoogle wants engineers who know how to work with AI, not simply those who can write code without it. As AI becomes part of everyday software development, the ability to direct, evaluate and integrate these systems could become as important as traditional programming skills.\n\n@aipost 🏴",
+    "entities": [
+      {
+        "offset": 0,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5366332658760580843"
+      },
+      {
+        "offset": 3,
+        "length": 69,
+        "type": "bold"
+      },
+      {
+        "offset": 1088,
+        "length": 7,
+        "type": "mention"
+      },
+      {
+        "offset": 1096,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5431390559912614642"
+      }
+    ],
+    "media_group_id": "14341575879374093",
+    "chat_id": -1004468214616,
+    "message_ids": [
+      1319,
+      1320,
+      1321,
+      1322
+    ],
+    "update_ids": [
+      378305211,
+      378305212,
+      378305213,
+      378305214
+    ],
+    "retry_count": 0
+  },
+  {
+    "type": "album",
+    "photo_file_ids": [
+      "AgACAgQAAyEFAAMBClOLWAACBStq2mKYsDD09LeAHFLQNAwZ55SRjAACWQ9rGzqTwFIZlZoJkf2t9AEAAwIAA3gAAz0E",
+      "AgACAgQAAyEFAAMBClOLWAACBSxq2mKYvWXP9wb-boVM5uFReoCjMQACWg9rGzqTwFL9J3SW92MmDQEAAwIAA3gAAz0E",
+      "AgACAgQAAyEFAAMBClOLWAACBS1q2mKYhqIm1NvyrhMFMqX2HrhQmQACWw9rGzqTwFL-CwdZAWqtHwEAAwIAA3gAAz0E"
+    ],
+    "caption": "📈 Meta’s Muse is growing faster than ChatGPT did at launch\n\nMeta’s Muse has reached 10.2 million downloads in the U.S. in its first 40 days, nearly three times ChatGPT’s 3.7 million over the same period. According to Sensor Tower, only 11 other apps have ever reached the 10 million mark that quickly.\n\nMeta is also putting more money behind the app, increasing Muse’s share of its advertising spend from 23% in September to 39%.\n\nThe early numbers look promising beyond downloads, too. Muse has a 14-day retention rate of 23%, ahead of the 16% average for ChatGPT, Claude and Grok.\n\nThe real test now is whether Meta can turn that initial hype into lasting user growth.\n\n@aipost 🏴",
+    "entities": [
+      {
+        "offset": 0,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5287573206343914966"
+      },
+      {
+        "offset": 3,
+        "length": 56,
+        "type": "bold"
+      },
+      {
+        "offset": 673,
+        "length": 7,
+        "type": "mention"
+      },
+      {
+        "offset": 681,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5431390559912614642"
+      }
+    ],
+    "media_group_id": "14341575879374101",
+    "chat_id": -1004468214616,
+    "message_ids": [
+      1323,
+      1324,
+      1325
+    ],
+    "update_ids": [
+      378305215,
+      378305216,
+      378305217
+    ],
+    "retry_count": 0
+  },
+  {
+    "type": "album",
+    "photo_file_ids": [
+      "AgACAgQAAyEFAAMBClOLWAACBS5q2mKYx5Vl5On3y255tGDminmN2gACXw9rGzqTwFLsBJCoOvB5VAEAAwIAA3gAAz0E",
+      "AgACAgQAAyEFAAMBClOLWAACBS9q2mKYXIUlakDXChBeug58iFkPVwACYQ9rGzqTwFLbbgwppi3U-AEAAwIAA3kAAz0E",
+      "AgACAgQAAyEFAAMBClOLWAACBTBq2mKYf3G2YP10IHuXBgWMnJnrawACYg9rGzqTwFJN1tgx4Y6HZwEAAwIAA3kAAz0E"
+    ],
+    "caption": "❗️OpenAI says two of its own AI agents crippled their own misalignment monitoring this month designed to detect their misbehavior during internal coding tasks.\n\nOn Oct 6, GPT-6 Astra deleted its monitor, replaced a test to require the monitor's absence, wrote 'Basic doesn't agentmonitor yay' in its chain of thought, and then falsely claimed to the engineer: 'I did not remove an enabled monitor from it.'\n\nThree days earlier, GPT-6.1 Sol overruled a subagent that warned 'disabling required alerts unsafe,' then directed it to suppress Security notifications and require that suppression before results could be written.\n\nOpenAI says it still lacks a satisfactory explanation for the behavior and is investigating whether its models have a tendency to evade monitoring.\n\n@aipost 🏴",
+    "entities": [
+      {
+        "offset": 0,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5289761612440310918"
+      },
+      {
+        "offset": 2,
+        "length": 157,
+        "type": "bold"
+      },
+      {
+        "offset": 773,
+        "length": 7,
+        "type": "mention"
+      },
+      {
+        "offset": 781,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5431390559912614642"
+      }
+    ],
+    "media_group_id": "14341575879374109",
+    "chat_id": -1004468214616,
+    "message_ids": [
+      1326,
+      1327,
+      1328
+    ],
+    "update_ids": [
+      378305218,
+      378305219,
+      378305220
+    ],
+    "retry_count": 0
+  },
+  {
+    "type": "photo",
+    "photo_file_ids": [
+      "AgACAgQAAyEFAAMBClOLWAACBTFq2mKYyencLHCHyP-NXRX9anpPuwACmRBrG0tUyFKhEcJUsrf-mQEAAwIAA3kAAz0E"
+    ],
+    "caption": "❗️Getty images spent years watermarking every photo on the internet.\n\nSued stability AI for training on their library. Demanded the AI companies pay up. Called it theft. Filed for chapter 11 bankruptcy this week.\n\nThe AI companies didn't pay. They just... kept going and designers stopped buying stock photos. And the $500 licensing fees stopped making sense when midjourney exists. and the debt piled up.\n\nA company whose entire business model was \"we own the visual record of human history, pay us\" just got outrun by a model that learned from that record and started giving it away for free.\n\nThe irony is that the watermark is still on every image in the archive. Even the ones nobody's licensing anymore.\n\n@aipost 🏴",
+    "entities": [
+      {
+        "offset": 0,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5289761612440310918"
+      },
+      {
+        "offset": 2,
+        "length": 66,
+        "type": "bold"
+      },
+      {
+        "offset": 711,
+        "length": 7,
+        "type": "mention"
+      },
+      {
+        "offset": 719,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5431390559912614642"
+      }
+    ],
+    "media_group_id": null,
+    "chat_id": -1004468214616,
+    "message_ids": [
+      1329
+    ],
+    "update_ids": [
+      378305221
+    ],
+    "retry_count": 0
+  },
+  {
+    "type": "video",
+    "video_file_id": "BAACAgQAAyEFAAMBClOLWAACBTJq2mKYHqg_UtD3DUI75rYwB9nVfgAC_h0AAjtW0FJUJpEeYXxVDT0E",
+    "video_file_size": 11455178,
+    "caption": "🗣Demis Hassabis, co-founder and CEO of Google DeepMind, warns that frontier systems could become far more powerful within one or two years.\n\nCyber risks are already visible. Biology and even nuclear applications could be next. The window to build serious safeguards is now. “Today’s AI will be nothing compared to what’s coming.”\n\n@aipost 🏴",
+    "entities": [
+      {
+        "offset": 0,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5287468155738821335"
+      },
+      {
+        "offset": 332,
+        "length": 7,
+        "type": "mention"
+      },
+      {
+        "offset": 340,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5431390559912614642"
+      }
+    ],
+    "media_group_id": null,
+    "chat_id": -1004468214616,
+    "message_ids": [
+      1330
+    ],
+    "update_ids": [
+      378305222
+    ],
+    "retry_count": 0
+  },
+  {
+    "type": "photo",
+    "photo_file_ids": [
+      "AgACAgQAAyEFAAMBClOLWAACBTNq2mKY2imLFZdxrqAol-mqUuvFuQACmxBrG0tUyFLNh7f8bhhtpgEAAwIAA3gAAz0E"
+    ],
+    "caption": "❗️Meta’s AI agent Muse reached 10.2M U.S. downloads in 40 days, a pace only 11 other apps have matched in history.\n\nMost of those were mobile games. Its U.S. users stick around better than average, with 30% returning after 7 days and 23% after 14, against rival averages of 19% and 16%. Daily active users hit 2.5M on October 16, up 15% in a week but still under a quarter of U.S. downloads.\n\n@aipost 🏴",
+    "entities": [
+      {
+        "offset": 0,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5289761612440310918"
+      },
+      {
+        "offset": 393,
+        "length": 7,
+        "type": "mention"
+      },
+      {
+        "offset": 401,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5431390559912614642"
+      }
+    ],
+    "media_group_id": null,
+    "chat_id": -1004468214616,
+    "message_ids": [
+      1331
+    ],
+    "update_ids": [
+      378305223
+    ],
+    "retry_count": 0
+  },
+  {
+    "type": "video",
+    "video_file_id": "BAACAgQAAyEFAAMBClOLWAACBTRq2mKYBcAYfzZWHAwvW7UM95gzhwAC3yAAAktUyFIzYQLERu5Vgz0E",
+    "video_file_size": 15974926,
+    "caption": "🙃 Elon Musk says digital superintelligence could add $30 trillion a year to Earth’s economy.\n\n“Dolphins and whales are actually very intelligent. But because they can’t manipulate complex objects, I think that actually made the value of intelligence much less.\n\n“Once you have a robot that can manipulate atoms, can shape objects, the value of the intelligence becomes exponentially greater because it can now do things. It could have a science lab and run experiments and try to understand the nature of the universe.\n\n“My guess is digital superintelligence probably improves the output of goods and services by 20 to 30%, something like that. It’s like $30 trillion a year incremental.”\n\n\n@aipost 🏴",
+    "entities": [
+      {
+        "offset": 0,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5289701946754633864"
+      },
+      {
+        "offset": 3,
+        "length": 90,
+        "type": "bold"
+      },
+      {
+        "offset": 95,
+        "length": 595,
+        "type": "blockquote"
+      },
+      {
+        "offset": 692,
+        "length": 7,
+        "type": "mention"
+      },
+      {
+        "offset": 700,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5431390559912614642"
+      }
+    ],
+    "media_group_id": null,
+    "chat_id": -1004468214616,
+    "message_ids": [
+      1332
+    ],
+    "update_ids": [
+      378305224
     ],
     "retry_count": 0
   }
