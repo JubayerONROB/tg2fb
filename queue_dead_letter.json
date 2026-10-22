@@ -6654,5 +6654,44 @@
       378305157
     ],
     "retry_count": 0
+  },
+  {
+    "type": "video",
+    "video_file_id": "BAACAgQAAyEFAAMBClOLWAACBRNq2fbmwlXUTlwTbwu4HqAnLrgwhgACkSAAAjqTuFKrNvJs738HmT0E",
+    "video_file_size": 21170661,
+    "caption": "🗣Mathematician Terence Tao:\n\n\"one thing this whole era of AI is teaching us is that our idea of intelligence is not really accurate\"\n\nThe history of AI has been: 'here’s a task only humans can do', and then one by one, an algorithm does it too. Maybe we're not quite as smart as we think.\n\n@aipost 🏴",
+    "entities": [
+      {
+        "offset": 0,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5287468155738821335"
+      },
+      {
+        "offset": 2,
+        "length": 26,
+        "type": "bold"
+      },
+      {
+        "offset": 291,
+        "length": 7,
+        "type": "mention"
+      },
+      {
+        "offset": 299,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5431390559912614642"
+      }
+    ],
+    "media_group_id": null,
+    "chat_id": -1004468214616,
+    "message_ids": [
+      1299
+    ],
+    "update_ids": [
+      378305191
+    ],
+    "retry_count": 0
   }
 ]

@@ -1,1 +1,170 @@
-[]
+[
+  {
+    "type": "photo",
+    "photo_file_ids": [
+      "AgACAgQAAyEFAAMBClOLWAACBRpq2fbmtm6Q3VWKWu29aKdENWrsXQAC9Q9rGzqTuFKJSJDl7G-ZvQEAAwIAA3gAAz0E"
+    ],
+    "caption": "💰 America's projected $10 TRILLION AI infrastructure boom faces a growing DEBT CRISIS as costs surge and projects stall.\n\nAt least 47 major data center projects are DELAYED, BLOCKED or WITHDRAWN in 2026, FT reports.\n\nThe scale of the risks is GROWING:\n\n~ Only 35% of planned U.S. data center projects are considered credible by Bernstein analysts.\n\n~ 1,000+ U.S. communities have sought restrictions on AI infrastructure development this year.\n\n~ CoreWeave plunged nearly 25% in one week as investors questioned its debt-funded expansion.\n\nThe biggest concern is FINANCING. AI providers are borrowing BILLIONS to build data centers, but rising costs and delays threaten their expansion.\n\nSome contracts even allow AI companies to walk away if deadlines are missed, leaving developers with massive debts and unfinished projects.\n\nInvestors now question whether these companies can survive the enormous costs of the AI boom.\n\n@aipost 🏴",
+    "entities": [
+      {
+        "offset": 0,
+        "length": 2,
+        "type": "bold"
+      },
+      {
+        "offset": 0,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5289964193162759223"
+      },
+      {
+        "offset": 2,
+        "length": 119,
+        "type": "bold"
+      },
+      {
+        "offset": 218,
+        "length": 34,
+        "type": "bold"
+      },
+      {
+        "offset": 925,
+        "length": 7,
+        "type": "mention"
+      },
+      {
+        "offset": 933,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5431390559912614642"
+      }
+    ],
+    "media_group_id": null,
+    "chat_id": -1004468214616,
+    "message_ids": [
+      1306
+    ],
+    "update_ids": [
+      378305198
+    ],
+    "retry_count": 0
+  },
+  {
+    "type": "photo",
+    "photo_file_ids": [
+      "AgACAgQAAyEFAAMBClOLWAACBRtq2fbmlRv0YJzU8W_ujdshk9TeDwAC-g9rGzqTuFLHlcjnDS3XPAEAAwIAA3cAAz0E"
+    ],
+    "caption": "🧬 MIT built an AI that can read how cells communicate.\n\nYour body’s cells use chemical signals to decide whether to become heart, lung, brain or other tissues. MIT and the Whitehead Institute developed an AI called IRIS that can decode these signals by analyzing the changes they leave in a cell’s genes.\n\nTrained on thousands of human stem cells, IRIS predicted signaling activity in unfamiliar cell types and correctly identified key signals in mouse embryos developing into organs and tissues.\n\nThe biggest breakthrough came when it predicted that activating a specific signal could push cells toward becoming lung tissue. Experiments in mouse embryos confirmed the prediction.\n\nThe technology could help researchers grow better mini-organs in laboratories and study diseases such as asthma, lung cancer and pulmonary fibrosis.\n\nOne day, it could even help scientists find new ways to repair damaged tissues.\n\nSource.\n\n@aipost 🏴",
+    "entities": [
+      {
+        "offset": 0,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5215673679987355184"
+      },
+      {
+        "offset": 3,
+        "length": 52,
+        "type": "bold"
+      },
+      {
+        "offset": 914,
+        "length": 6,
+        "type": "text_link",
+        "url": "https://news.mit.edu/2026/ai-model-decodes-language-cells-use-communicate-1015"
+      },
+      {
+        "offset": 923,
+        "length": 7,
+        "type": "mention"
+      },
+      {
+        "offset": 931,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5431390559912614642"
+      }
+    ],
+    "media_group_id": null,
+    "chat_id": -1004468214616,
+    "message_ids": [
+      1307
+    ],
+    "update_ids": [
+      378305199
+    ],
+    "retry_count": 0
+  },
+  {
+    "type": "video",
+    "video_file_id": "BAACAgQAAyEFAAMBClOLWAACBRxq2fbmMTJz87rD0nZasIuSfBmLQQACpyAAAjqTuFIhlvssUo5Icj0E",
+    "video_file_size": 20484657,
+    "caption": "Opus was asked what it thinks consciousness really is.\n\n@aipost 🏴",
+    "entities": [
+      {
+        "offset": 56,
+        "length": 7,
+        "type": "mention"
+      },
+      {
+        "offset": 64,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5431390559912614642"
+      }
+    ],
+    "media_group_id": null,
+    "chat_id": -1004468214616,
+    "message_ids": [
+      1308
+    ],
+    "update_ids": [
+      378305200
+    ],
+    "retry_count": 0
+  },
+  {
+    "type": "album",
+    "photo_file_ids": [
+      "AgACAgQAAyEFAAMBClOLWAACBR1q2fbm31Jn896bbzvaLwwfJHGaRwACAxBrGzqTuFLKQixAfwXh9wEAAwIAA3gAAz0E",
+      "AgACAgQAAyEFAAMBClOLWAACBR5q2fbmE4BQgfParfzYooclfXd4oQACBBBrGzqTuFJwr9luHXVeBQEAAwIAA3kAAz0E"
+    ],
+    "caption": "🥺 Sam Altman apparently told OpenAI employees that there are possibly THREE endgames for AI safety:\n\n1. An international nuclear-style watchdog\n\n2. Merge all major labs into a giant org\n\n3. One company achieves RSI and gets so powerful it can literally “melt everyone else’s GPUs.”\n\nand he called the 3rd option “terrible.\n\nSource.\n\n@aipost 🏴",
+    "entities": [
+      {
+        "offset": 0,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5291894093767542370"
+      },
+      {
+        "offset": 325,
+        "length": 7,
+        "type": "text_link",
+        "url": "https://www.theinformation.com/articles/altman-describes-three-endgames-ai-including-one-single-firm-melts-everyone-elses-gpus?rc=jm6dbd&shared=dead241b54ae7c75"
+      },
+      {
+        "offset": 334,
+        "length": 7,
+        "type": "mention"
+      },
+      {
+        "offset": 342,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5431390559912614642"
+      }
+    ],
+    "media_group_id": "14341355315506989",
+    "chat_id": -1004468214616,
+    "message_ids": [
+      1309,
+      1310
+    ],
+    "update_ids": [
+      378305201,
+      378305202
+    ],
+    "retry_count": 0
+  }
+]
