@@ -6693,5 +6693,69 @@
       378305191
     ],
     "retry_count": 0
+  },
+  {
+    "type": "video",
+    "video_file_id": "BAACAgIAAyEFAAMBClOLWAACBT1q2xTqOQ4p8K3PJ9j9wR8NF4NzMgACbaMAAl_x0UqNxjNeag_xxT0E",
+    "video_file_size": 43062152,
+    "caption": "🤖 Unitree’s Robot Bodyguard Gets an Action Reel\n\nUnitree’s H2-X, presented as Kung Fu Legend Guardian, crushes car doors, performs a flip, jumps from a 4-meter platform, rescues people, and lifts vehicles.\n\nUnitree claims up to 8 hours of autonomy, but gives no load conditions. The robot’s independent decision-making is also unclear. The rescue dummy appears to take a hit too, while Unitree asks users to operate it safely and kindly.\n\n📊@tech",
+    "entities": [
+      {
+        "offset": 0,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5355051922862653659"
+      },
+      {
+        "offset": 3,
+        "length": 45,
+        "type": "bold"
+      },
+      {
+        "offset": 60,
+        "length": 4,
+        "type": "bold"
+      },
+      {
+        "offset": 79,
+        "length": 23,
+        "type": "bold"
+      },
+      {
+        "offset": 229,
+        "length": 19,
+        "type": "bold"
+      },
+      {
+        "offset": 440,
+        "length": 2,
+        "type": "bold"
+      },
+      {
+        "offset": 440,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5449841756596101801"
+      },
+      {
+        "offset": 442,
+        "length": 5,
+        "type": "mention"
+      },
+      {
+        "offset": 442,
+        "length": 5,
+        "type": "bold"
+      }
+    ],
+    "media_group_id": null,
+    "chat_id": -1004468214616,
+    "message_ids": [
+      1341
+    ],
+    "update_ids": [
+      378305233
+    ],
+    "retry_count": 0
   }
 ]
