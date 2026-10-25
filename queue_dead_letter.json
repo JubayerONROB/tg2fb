@@ -6757,5 +6757,54 @@
       378305233
     ],
     "retry_count": 0
+  },
+  {
+    "type": "video",
+    "video_file_id": "BAACAgQAAyEFAAMBClOLWAACBUxq3pDvk5jlciaygPg6SttNFAEJYgACQx4AApqp8FIOd4Q4xzTtDD0E",
+    "video_file_size": 23191215,
+    "caption": "🥺 Sam Altman says the internet can no longer be SECURED by patching bugs.\n\n“I no longer think we’re going to be able to just patch all the bugs,” the OpenAI CEO said, warning smarter models can find “hardware level insane stuff.”\n\nHe says OpenAI can’t responsibly open source its best model “anytime soon,” but the open source world isn’t far behind: “Not super.”\n\n@aipost 🏴",
+    "entities": [
+      {
+        "offset": 0,
+        "length": 2,
+        "type": "bold"
+      },
+      {
+        "offset": 0,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5291894093767542370"
+      },
+      {
+        "offset": 2,
+        "length": 72,
+        "type": "bold"
+      },
+      {
+        "offset": 76,
+        "length": 154,
+        "type": "blockquote"
+      },
+      {
+        "offset": 366,
+        "length": 7,
+        "type": "mention"
+      },
+      {
+        "offset": 374,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5431390559912614642"
+      }
+    ],
+    "media_group_id": null,
+    "chat_id": -1004468214616,
+    "message_ids": [
+      1356
+    ],
+    "update_ids": [
+      378305248
+    ],
+    "retry_count": 0
   }
 ]
