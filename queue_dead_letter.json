@@ -6806,5 +6806,49 @@
       378305248
     ],
     "retry_count": 0
+  },
+  {
+    "type": "video",
+    "video_file_id": "BAACAgIAAyEFAAMBClOLWAACBVdq4NoDFlrwTO_WEEL6cKdqR0trpQAC0LcAAnfr-Eq0CTBQIURLLj0E",
+    "video_file_size": 29849789,
+    "caption": "🗣 Harari: Britain can be a US \"vassal\" or pay £500 billion for its own AI\n\nIf a country's economy and military run on AI infrastructure \"that the Americans can shut down at the press of a button,\" it's no longer independent, Yuval Noah Harari told Rory Stewart on The Rest Is Politics. He calls it \"a real imminent threat.\"\n\nHe sees three options for Britain. Accept being a US vassal, and then whenever Washington says jump, you jump, even if it asks you to give the Falklands to Argentina.\n\nOr build UK AI. The price is around £500 billion, paid for with cuts to welfare, education and transport.\n\nOr split the bill with Germany, France and Spain. That only works if Britain rejoins the EU \"today\" and integrates much more closely.\n\n\n@aipost 🏴",
+    "entities": [
+      {
+        "offset": 0,
+        "length": 2,
+        "type": "bold"
+      },
+      {
+        "offset": 0,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5287468155738821335"
+      },
+      {
+        "offset": 2,
+        "length": 72,
+        "type": "bold"
+      },
+      {
+        "offset": 737,
+        "length": 7,
+        "type": "mention"
+      },
+      {
+        "offset": 745,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5431390559912614642"
+      }
+    ],
+    "media_group_id": null,
+    "chat_id": -1004468214616,
+    "message_ids": [
+      1367
+    ],
+    "update_ids": [
+      378305259
+    ],
+    "retry_count": 0
   }
 ]
