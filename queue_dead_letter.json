@@ -6850,5 +6850,60 @@
       378305259
     ],
     "retry_count": 0
+  },
+  {
+    "type": "video",
+    "video_file_id": "BAACAgQAAyEFAAMBClOLWAACBWBq4TMCqrD9BDHpuhDn-5ILGw504gACtxsAAmMuCVPJXEStNE8t-z0E",
+    "video_file_size": 22205831,
+    "caption": "🗣 Sam Altman on Anthropic letting Claude end abusive chats: \"a very dangerous path\"\n\nMatthew Berman asked him about Anthropic's new rule that lets the model disengage from users who keep abusing it.\n\n\"We do not ascribe personhood to our models.\"\n\n\"I think this is like a very dangerous path to start down\"\n\n\"I hope we come to an understanding that this technology is not a person\"\n\n\"But you can imagine all of these ways where things go very wrong\"\n\nAnd Anthropic filed its S-1 yesterday. Should Claude be allowed to walk out on you if you're abusive? 🤔\n\n@aipost 🏴",
+    "entities": [
+      {
+        "offset": 0,
+        "length": 2,
+        "type": "bold"
+      },
+      {
+        "offset": 0,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5287468155738821335"
+      },
+      {
+        "offset": 2,
+        "length": 82,
+        "type": "bold"
+      },
+      {
+        "offset": 201,
+        "length": 248,
+        "type": "blockquote"
+      },
+      {
+        "offset": 553,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5370724846936267183"
+      },
+      {
+        "offset": 557,
+        "length": 7,
+        "type": "mention"
+      },
+      {
+        "offset": 565,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5431390559912614642"
+      }
+    ],
+    "media_group_id": null,
+    "chat_id": -1004468214616,
+    "message_ids": [
+      1376
+    ],
+    "update_ids": [
+      378305268
+    ],
+    "retry_count": 0
   }
 ]
