@@ -1,1 +1,140 @@
-[]
+[
+  {
+    "type": "photo",
+    "photo_file_ids": [
+      "AgACAgIAAyEFAAMBClOLWAACBV9q4TMCI4iTDtP6Zmz_dsSbsn5afQACkh5rG6OaCUs0TYB5ulKOfQEAAwIAA3kAAz0E"
+    ],
+    "caption": "👀 China's first fully AI-made feature film cost $1.5 million. It has taken $181,000\n\nSanxingdui: Future Past opened on October 23 with more than 10,000 screenings on day one. Through Monday it had earned about 1.21 million yuan ($181,000), Cartoon Brew reports.\n\nBona Film Group says the sci-fi film cost more than 10 million yuan and took nearly 100 people over two years. Opening-day seats were 0.9% full.\n\nBona's own executive says AI saved on filming actors and on rendering, but didn't cut human work or production time.\n\nOn Monday, Bona's shares fell by the daily limit.\n\n@aipost 🏴",
+    "entities": [
+      {
+        "offset": 0,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5424885441100782420"
+      },
+      {
+        "offset": 3,
+        "length": 81,
+        "type": "bold"
+      },
+      {
+        "offset": 241,
+        "length": 20,
+        "type": "text_link",
+        "url": "https://www.cartoonbrew.com/box-office-report/chinese-ai-film-sanxingdui-future-past-box-office-flop-268426.html"
+      },
+      {
+        "offset": 579,
+        "length": 7,
+        "type": "mention"
+      },
+      {
+        "offset": 587,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5431390559912614642"
+      }
+    ],
+    "media_group_id": null,
+    "chat_id": -1004468214616,
+    "message_ids": [
+      1375
+    ],
+    "update_ids": [
+      378305267
+    ],
+    "retry_count": 0
+  },
+  {
+    "type": "video",
+    "video_file_id": "BAACAgQAAyEFAAMBClOLWAACBWBq4TMCqrD9BDHpuhDn-5ILGw504gACtxsAAmMuCVPJXEStNE8t-z0E",
+    "video_file_size": 22205831,
+    "caption": "🗣 Sam Altman on Anthropic letting Claude end abusive chats: \"a very dangerous path\"\n\nMatthew Berman asked him about Anthropic's new rule that lets the model disengage from users who keep abusing it.\n\n\"We do not ascribe personhood to our models.\"\n\n\"I think this is like a very dangerous path to start down\"\n\n\"I hope we come to an understanding that this technology is not a person\"\n\n\"But you can imagine all of these ways where things go very wrong\"\n\nAnd Anthropic filed its S-1 yesterday. Should Claude be allowed to walk out on you if you're abusive? 🤔\n\n@aipost 🏴",
+    "entities": [
+      {
+        "offset": 0,
+        "length": 2,
+        "type": "bold"
+      },
+      {
+        "offset": 0,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5287468155738821335"
+      },
+      {
+        "offset": 2,
+        "length": 82,
+        "type": "bold"
+      },
+      {
+        "offset": 201,
+        "length": 248,
+        "type": "blockquote"
+      },
+      {
+        "offset": 553,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5370724846936267183"
+      },
+      {
+        "offset": 557,
+        "length": 7,
+        "type": "mention"
+      },
+      {
+        "offset": 565,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5431390559912614642"
+      }
+    ],
+    "media_group_id": null,
+    "chat_id": -1004468214616,
+    "message_ids": [
+      1376
+    ],
+    "update_ids": [
+      378305268
+    ],
+    "retry_count": 0
+  },
+  {
+    "type": "text",
+    "caption": "Ray Kurzweil, 78, built an AI copy of himself that he hopes will outlive him\n\nThe futurist behind \"The Singularity Is Near\" spent the past year on Rai, an AI replica of himself that can speak, reason and learn from conversations, The Information reports.\n\nTalking to it is much like a Zoom call. A 3D Kurzweil appears against a cosmos backdrop in your browser or phone and answers your voice.\n\nHe doesn't want to die, and at 78 he thinks about it more. He calls that a \"major motivating force of human beings.\"\n\nRai was first shown in July at the UN's AI for Good summit in Geneva, built together with a company called Praxis AI.\n\n@aipost 🏴",
+    "entities": [
+      {
+        "offset": 0,
+        "length": 76,
+        "type": "bold"
+      },
+      {
+        "offset": 230,
+        "length": 23,
+        "type": "text_link",
+        "url": "https://www.theinformation.com/articles/can-ai-help-ray-kurzweil-cheat-death"
+      },
+      {
+        "offset": 631,
+        "length": 7,
+        "type": "mention"
+      },
+      {
+        "offset": 639,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5431390559912614642"
+      }
+    ],
+    "media_group_id": null,
+    "chat_id": -1004468214616,
+    "message_ids": [
+      1377
+    ],
+    "update_ids": [
+      378305269
+    ],
+    "retry_count": 0
+  }
+]
