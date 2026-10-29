@@ -1,310 +1,5 @@
 [
   {
-    "type": "video",
-    "video_file_id": "BAACAgIAAyEFAAMBClOLWAACBW1q4wlV9Tm2yWJTztCb-eRVVXf-wwACprcAAv4eEEu3LHtT3GkbRT0E",
-    "video_file_size": 2695114,
-    "caption": "💬 Your iMessage group chat can now get its own AI agent\n\nInstinct, the AI agent startup valued at $10 billion in September, opened group chats to every iMessage user on Tuesday. Add it to a thread and it works for the whole group, even for friends who never signed up.\n\nThe group gets its own Instinct. It only knows what's in that chat, not anyone's accounts or data.\n\nWhen it needs something from you, it goes through your personal Instinct, which asks you first.\n\nEarly testers used it to plan a dinner party, organize a road trip and decorate an apartment, founder Noah Shinn says.\n\nGroup chats first went to early-access users on October 5. Now anyone on iMessage can add it.\n\n@aipost 🏴",
-    "entities": [
-      {
-        "offset": 0,
-        "length": 2,
-        "type": "custom_emoji",
-        "custom_emoji_id": "5465300082628763143"
-      },
-      {
-        "offset": 3,
-        "length": 53,
-        "type": "bold"
-      },
-      {
-        "offset": 125,
-        "length": 18,
-        "type": "text_link",
-        "url": "https://x.com/instinct/status/2115144785132740669"
-      },
-      {
-        "offset": 683,
-        "length": 7,
-        "type": "mention"
-      },
-      {
-        "offset": 691,
-        "length": 2,
-        "type": "custom_emoji",
-        "custom_emoji_id": "5431390559912614642"
-      }
-    ],
-    "media_group_id": null,
-    "chat_id": -1004468214616,
-    "message_ids": [
-      1389
-    ],
-    "update_ids": [
-      378305281
-    ],
-    "retry_count": 0
-  },
-  {
-    "type": "photo",
-    "photo_file_ids": [
-      "AgACAgIAAyEFAAMBClOLWAACBW5q4wlVZ802eQSErQvKyM0yHoA3UgACUyFrG_4eEEusxJx1uMIWCAEAAwIAA3kAAz0E"
-    ],
-    "caption": "🤖 About 1 in 4 web pages now has AI-written text in it\n\nIn August 2026, about 24% of crawlable web pages contained AI-generated or AI-edited text, a new study of 5.1 million pages from 2019 to 2026 estimates. Before 2022 the share was near zero.\n\nAnd it's speeding up: from 4.6 percentage points a year between early 2023 and early 2025 to 8.1 points a year since.\n\nMost of the growth is on sites that few others link to. They account for about four-fifths of the increase, while the most linked-to pages are the least likely to have AI text.\n\nEnglish pages have more of it than other languages. Government and university sites (.gov, .edu) have far less than .com.\n\nThe team, led by researchers at the University of Washington and UC Berkeley, used several AI detectors and corrected for their false positives and false negatives.\n\n@aipost 🏴",
-    "entities": [
-      {
-        "offset": 0,
-        "length": 2,
-        "type": "custom_emoji",
-        "custom_emoji_id": "5384247104791148900"
-      },
-      {
-        "offset": 3,
-        "length": 52,
-        "type": "bold"
-      },
-      {
-        "offset": 150,
-        "length": 9,
-        "type": "text_link",
-        "url": "https://arxiv.org/abs/2610.36631"
-      },
-      {
-        "offset": 834,
-        "length": 7,
-        "type": "mention"
-      },
-      {
-        "offset": 842,
-        "length": 2,
-        "type": "custom_emoji",
-        "custom_emoji_id": "5431390559912614642"
-      }
-    ],
-    "media_group_id": null,
-    "chat_id": -1004468214616,
-    "message_ids": [
-      1390
-    ],
-    "update_ids": [
-      378305282
-    ],
-    "retry_count": 0
-  },
-  {
-    "type": "video",
-    "video_file_id": "BAACAgIAAyEFAAMBClOLWAACBW9q4wlVWKMwzI87khRzTXBPFpyfowAC_LkAAv4eEEsvxPWukcL8eD0E",
-    "video_file_size": 12195930,
-    "caption": "📢 Claude now has ready-made tools that check a lawyer's citations\n\nAnthropic added a gallery of interactive legal tools, which it calls artifacts, to Claude for Legal. Each opens with an example, then you add your own documents and connectors.\n\nSome of what's inside:\n• Cite check flags quotes that don't match their sources, wrong page numbers and sources that don't support the claim\n• Playbook deviation board flags contract clauses that differ from your company's standard terms\n• Tabular review turns a set of contracts into one table, say severance or non-compete terms, with links to the exact language\n• Regulatory horizon scan puts upcoming rules on a timeline, ranked by impact\n\nHarvey, PwC, Goodwin and Foley & Lardner built some of the tools. Nine more are for access-to-justice work, like a rent ledger checker for eviction cases in D.C.\n\n@aipost 🏴",
-    "entities": [
-      {
-        "offset": 0,
-        "length": 2,
-        "type": "custom_emoji",
-        "custom_emoji_id": "5289992252184100112"
-      },
-      {
-        "offset": 3,
-        "length": 63,
-        "type": "bold"
-      },
-      {
-        "offset": 151,
-        "length": 16,
-        "type": "text_link",
-        "url": "https://claude.com/resources/articles/introducing-artifacts-for-legal-work"
-      },
-      {
-        "offset": 271,
-        "length": 10,
-        "type": "bold"
-      },
-      {
-        "offset": 389,
-        "length": 24,
-        "type": "bold"
-      },
-      {
-        "offset": 486,
-        "length": 14,
-        "type": "bold"
-      },
-      {
-        "offset": 613,
-        "length": 23,
-        "type": "bold"
-      },
-      {
-        "offset": 853,
-        "length": 7,
-        "type": "mention"
-      },
-      {
-        "offset": 861,
-        "length": 2,
-        "type": "custom_emoji",
-        "custom_emoji_id": "5431390559912614642"
-      }
-    ],
-    "media_group_id": null,
-    "chat_id": -1004468214616,
-    "message_ids": [
-      1391
-    ],
-    "update_ids": [
-      378305283
-    ],
-    "retry_count": 0
-  },
-  {
-    "type": "video",
-    "video_file_id": "BAACAgIAAyEFAAMBClOLWAACBXBq4wnf8m8kQ06KJM9KFA057w81FQACd6YAAlQM2Eop7M57FAg_RT0E",
-    "video_file_size": 904168,
-    "caption": "🔥 ChatGPT and Claude Get 270M Contacts\n\nFirecrawl’s People Data in Alexandria gives AI agents access to 270 million contacts. They can search for employees in companies, then retrieve work emails or career histories inside chat.\n\nThe Firecrawl plugin works with ChatGPT and Claude. Apollo handles employee searches by company, role, or location. FullEnrich and Data Legion cover professional history and missing contact data.\n\nThe free plan includes 1000 credits per month. Apollo searches are free, while work emails and advanced profiles use credits.\n\n📊@tech",
-    "entities": [
-      {
-        "offset": 0,
-        "length": 2,
-        "type": "custom_emoji",
-        "custom_emoji_id": "5222148368955877900"
-      },
-      {
-        "offset": 3,
-        "length": 36,
-        "type": "bold"
-      },
-      {
-        "offset": 53,
-        "length": 25,
-        "type": "bold"
-      },
-      {
-        "offset": 105,
-        "length": 20,
-        "type": "bold"
-      },
-      {
-        "offset": 235,
-        "length": 16,
-        "type": "bold"
-      },
-      {
-        "offset": 451,
-        "length": 22,
-        "type": "bold"
-      },
-      {
-        "offset": 555,
-        "length": 2,
-        "type": "bold"
-      },
-      {
-        "offset": 555,
-        "length": 2,
-        "type": "custom_emoji",
-        "custom_emoji_id": "5449841756596101801"
-      },
-      {
-        "offset": 557,
-        "length": 5,
-        "type": "mention"
-      },
-      {
-        "offset": 557,
-        "length": 5,
-        "type": "bold"
-      }
-    ],
-    "media_group_id": null,
-    "chat_id": -1004468214616,
-    "message_ids": [
-      1392
-    ],
-    "update_ids": [
-      378305284
-    ],
-    "retry_count": 0
-  },
-  {
-    "type": "photo",
-    "photo_file_ids": [
-      "AgACAgIAAyEFAAMBClOLWAACBXFq4wnf6y44-9Sc4VETR_mwWKbtxgACpRxrGyVT0Eo7czlW2vkkLgEAAwIAA3kAAz0E"
-    ],
-    "caption": "🚘 Tesla Names 2027 Robotaxi Target\n\nTesla says the first customer-owned cars could join its robotaxi network around Q2 2027. The company had promised 1 million robotaxis by 2020, but that target never arrived.\n\nThe autonomous Cybercab and regular Model Y will use the same software, planned for the V15 release. Owners will also need to place cars inside geofenced areas and Tesla’s fleet-management system. Without that setup, full autonomy is unavailable.\n\nTesla currently has several hundred robotaxis in Texas and Florida, with human monitors still present in some, plus several dozen fully driverless Cybercabs in Austin. The 2027 date will test Tesla’s timelines.\n\n📊@tech",
-    "entities": [
-      {
-        "offset": 0,
-        "length": 2,
-        "type": "custom_emoji",
-        "custom_emoji_id": "5264845824256387702"
-      },
-      {
-        "offset": 3,
-        "length": 32,
-        "type": "bold"
-      },
-      {
-        "offset": 58,
-        "length": 19,
-        "type": "bold"
-      },
-      {
-        "offset": 117,
-        "length": 7,
-        "type": "bold"
-      },
-      {
-        "offset": 151,
-        "length": 27,
-        "type": "bold"
-      },
-      {
-        "offset": 227,
-        "length": 55,
-        "type": "bold"
-      },
-      {
-        "offset": 356,
-        "length": 51,
-        "type": "bold"
-      },
-      {
-        "offset": 480,
-        "length": 46,
-        "type": "bold"
-      },
-      {
-        "offset": 672,
-        "length": 2,
-        "type": "bold"
-      },
-      {
-        "offset": 672,
-        "length": 2,
-        "type": "custom_emoji",
-        "custom_emoji_id": "5449841756596101801"
-      },
-      {
-        "offset": 674,
-        "length": 5,
-        "type": "mention"
-      },
-      {
-        "offset": 674,
-        "length": 5,
-        "type": "bold"
-      }
-    ],
-    "media_group_id": null,
-    "chat_id": -1004468214616,
-    "message_ids": [
-      1393
-    ],
-    "update_ids": [
-      378305285
-    ],
-    "retry_count": 0
-  },
-  {
     "type": "photo",
     "photo_file_ids": [
       "AgACAgIAAyEFAAMBClOLWAACBXJq4wnfudAP3YdUtPnvBL2RR_oDGAACzB5rG-eZ2UoRGpvV4DGf0gEAAwIAA3cAAz0E"
@@ -1231,6 +926,228 @@
     ],
     "update_ids": [
       378305299
+    ],
+    "retry_count": 0
+  },
+  {
+    "type": "video",
+    "video_file_id": "BAACAgIAAyEFAAMBClOLWAACBYBq46ku_eOcCi_Iu9XOcNE1pymJ5gAC_bkAAv4eEEtLlOcii7ylmj0E",
+    "video_file_size": 27022310,
+    "caption": "🗣 Mark Cuban: \"There will be the trillionaire in the basement\"\n\nOn an a16z podcast, Cuban says big companies struggle with AI until their bosses understand how it works. That leaves an opening: \"There's no better time to be an entrepreneur than right now.\"\n\nHe thinks AI still needs a person guiding it: \"AI is not smart. It's book smart maybe, but it's not street smart. It's not entrepreneur smart.\"\n\nHis demo for the head of a consumer food company: take their number one product, a cookie, and ask ChatGPT to create a competitor. \"And in about three minutes he was like, 'Oh, s**t.'\"\n\n@aipost 🏴",
+    "entities": [
+      {
+        "offset": 0,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5287468155738821335"
+      },
+      {
+        "offset": 3,
+        "length": 60,
+        "type": "bold"
+      },
+      {
+        "offset": 590,
+        "length": 7,
+        "type": "mention"
+      },
+      {
+        "offset": 598,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5431390559912614642"
+      }
+    ],
+    "media_group_id": null,
+    "chat_id": -1004468214616,
+    "message_ids": [
+      1408
+    ],
+    "update_ids": [
+      378305300
+    ],
+    "retry_count": 0
+  },
+  {
+    "type": "photo",
+    "photo_file_ids": [
+      "AgACAgIAAyEFAAMBClOLWAACBYFq46ku_sjyqBWVyyIF53AN3vjHkQACVyFrG_4eEEuonUJdI3yJPgEAAwIAA3kAAz0E"
+    ],
+    "caption": "💳 Someone put a $59.7 million AI supercomputer on eBay. Free shipping\n\nIT hardware seller Core 4 Solutions listed a decommissioned cluster of 300 server racks with 9,600 Nvidia A100 chips and 4,200 AMD processors. Price: $59,700,000, \"or Best Offer.\" FedEx Ground shipping costs nothing.\n\nThat's about 1.4 petabytes of memory. The A100 is a 2020 chip, but Tom's Hardware calls it a real budget option: a single new Nvidia rack costs up to $6.5 million (Blackwell) or $7.8 million (Vera Rubin), with long waitlists.\n\nIts rough math for the chips and memory alone comes to about $28 million.\n\n@aipost 🏴",
+    "entities": [
+      {
+        "offset": 0,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5859411701958446805"
+      },
+      {
+        "offset": 3,
+        "length": 67,
+        "type": "bold"
+      },
+      {
+        "offset": 108,
+        "length": 6,
+        "type": "text_link",
+        "url": "https://www.ebay.ca/itm/880041409723"
+      },
+      {
+        "offset": 357,
+        "length": 14,
+        "type": "text_link",
+        "url": "https://www.tomshardware.com/desktops/servers/it-vendor-lists-massive-usd60-million-ai-cluster-on-ebay-300x-racks-of-decommissioned-gpus-includes-9-600-nvidia-a100-gpus-and-4-200-amd-epyc-cpus-plus-free-shipping"
+      },
+      {
+        "offset": 592,
+        "length": 7,
+        "type": "mention"
+      },
+      {
+        "offset": 600,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5431390559912614642"
+      }
+    ],
+    "media_group_id": null,
+    "chat_id": -1004468214616,
+    "message_ids": [
+      1409
+    ],
+    "update_ids": [
+      378305301
+    ],
+    "retry_count": 0
+  },
+  {
+    "type": "photo",
+    "photo_file_ids": [
+      "AgACAgIAAyEFAAMBClOLWAACBYJq46kut4RRNyfe2GiQBjpuUb5vzQACAyNrG_4eEEsOsANwNQrsAQEAAwIAA3kAAz0E"
+    ],
+    "caption": "Ask Google's AI Mode who won the 2020 election and it may not say\n\nInstead of naming Joe Biden, Google's AI search mode told users to check the Federal Election Commission's official results. Asked about 2016, it answered right away: Donald Trump.\n\nGoogle's standalone Gemini app, ChatGPT and Claude all named the 2020 winner in tests by Ars Technica. AI Mode often gave the answer when asked a second time, and answered straight away when Ars checked from other countries via VPN.\n\nGoogle says it's fixing it: \"Our systems verify election responses using news articles or AP data for recent elections, and historic records for older ones. There was a technical gap with 2020 – same is true for 2022 Senate races.\"\n\nThe US midterms are on Nov. 3.\n\n@aipost 🏴",
+    "entities": [
+      {
+        "offset": 0,
+        "length": 65,
+        "type": "bold"
+      },
+      {
+        "offset": 338,
+        "length": 12,
+        "type": "text_link",
+        "url": "https://arstechnica.com/ai/2026/10/google-ai-gets-cagey-when-asked-who-won-the-2020-elections/"
+      },
+      {
+        "offset": 748,
+        "length": 7,
+        "type": "mention"
+      },
+      {
+        "offset": 756,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5431390559912614642"
+      }
+    ],
+    "media_group_id": null,
+    "chat_id": -1004468214616,
+    "message_ids": [
+      1410
+    ],
+    "update_ids": [
+      378305302
+    ],
+    "retry_count": 0
+  },
+  {
+    "type": "video",
+    "video_file_id": "BAACAgIAAyEFAAMBClOLWAACBYNq46kuIiFo56EoLPRCGK1jrL3I0gACXrwAAv4eEEsNVqA-6_UxsD0E",
+    "video_file_size": 2538607,
+    "caption": "😎 Google's first Android XR glasses are on sale for $1,099\n\nXREAL AURA weighs under 95 grams and puts virtual screens in front of your eyes, while the clear lenses let you see the room around you. The heavy work happens in a compute puck on a cable, which also holds the battery.\n\nGemini is built in and understands what you're looking at, on your screens and in the real world. Google Play apps run on it, and you can plug a computer or a handheld game console into the puck to mirror it.\n\nOrders opened Wednesday in the US, Canada and Korea, with Japan from Nov. 2 and shipping from mid-November. The $1,099 price for the 12GB/256GB model is a launch deal through December, down from $1,279, Google and XREAL say.\n\n@aipost 🏴",
+    "entities": [
+      {
+        "offset": 0,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5289834369186299969"
+      },
+      {
+        "offset": 3,
+        "length": 56,
+        "type": "bold"
+      },
+      {
+        "offset": 695,
+        "length": 6,
+        "type": "text_link",
+        "url": "https://blog.google/products-and-platforms/platforms/android/xreal-aura/"
+      },
+      {
+        "offset": 718,
+        "length": 7,
+        "type": "mention"
+      },
+      {
+        "offset": 726,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5431390559912614642"
+      }
+    ],
+    "media_group_id": null,
+    "chat_id": -1004468214616,
+    "message_ids": [
+      1411
+    ],
+    "update_ids": [
+      378305303
+    ],
+    "retry_count": 0
+  },
+  {
+    "type": "photo",
+    "photo_file_ids": [
+      "AgACAgIAAyEFAAMBClOLWAACBYRq46kufEfUnDRN1qu3D3mdosDG2gACcBprG_4eGEuL8GWCwv4TogEAAwIAA3kAAz0E"
+    ],
+    "caption": "🤨 DeepSeek and Kimi reportedly trained on answers from OpenAI's top AI\n\nBoth Chinese labs leaned heavily on outputs from GPT-6 Astra to build their newest models, The Information reported Wednesday, citing people with direct knowledge. The trick is called distillation: a lab feeds a stronger model's answers to its own, so it learns the skills far more cheaply.\n\nThe models named are Moonshot's Kimi K3.1 Pro, released last week, and DeepSeek's V4.1-Flash 1017, out since October 17. OpenAI, DeepSeek and Moonshot didn't respond to Reuters' requests for comment.\n\nClaude got harder to copy this month. Anthropic said new limits, account bans and blocks cut the data distillers harvest from it by about 90% to 99%. OpenAI said on September 30 it had tied a distillation campaign that began in July to people linked to Moonshot.\n\n@aipost 🏴",
+    "entities": [
+      {
+        "offset": 0,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5843611058442342544"
+      },
+      {
+        "offset": 3,
+        "length": 68,
+        "type": "bold"
+      },
+      {
+        "offset": 164,
+        "length": 24,
+        "type": "text_link",
+        "url": "https://www.theinformation.com/articles/openais-astra-model-becomes-top-distillation-target-chinas-ai-labs"
+      },
+      {
+        "offset": 830,
+        "length": 7,
+        "type": "mention"
+      },
+      {
+        "offset": 838,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5431390559912614642"
+      }
+    ],
+    "media_group_id": null,
+    "chat_id": -1004468214616,
+    "message_ids": [
+      1412
+    ],
+    "update_ids": [
+      378305304
     ],
     "retry_count": 0
   }
