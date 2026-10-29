@@ -1,1 +1,1488 @@
-[]
+[
+  {
+    "type": "photo",
+    "photo_file_ids": [
+      "AgACAgIAAyEFAAMBClOLWAACBWhq4wlVoW77rMoau0GsotFvQs1dXgAC1hprG6OaEUt_A4meCaqbzgEAAwIAA3kAAz0E"
+    ],
+    "caption": "💻 OpenAI plans to buy AI chips from Google, the company behind Gemini\n\nOpenAI, one of Nvidia's biggest customers, plans to buy Google's own AI chips, called TPUs, according to The Information and Bloomberg. Both cite a person familiar with the matter. Terms and the size of the deal weren't disclosed, and OpenAI declined to comment.\n\nThe two rivals keep doing business. OpenAI has rented Google's chips since 2025, and last week said its models would be available through Google Cloud.\n\nGoogle began selling TPUs directly to some customers this year. Oracle will also rent them out in its cloud from 2027, and OpenAI is building its own chip with Broadcom.\n\n@aipost 🏴",
+    "entities": [
+      {
+        "offset": 0,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5366308323475880265"
+      },
+      {
+        "offset": 3,
+        "length": 67,
+        "type": "bold"
+      },
+      {
+        "offset": 177,
+        "length": 15,
+        "type": "text_link",
+        "url": "https://www.theinformation.com/articles/openai-longtime-nvidia-customer-plans-buy-googles-ai-chips"
+      },
+      {
+        "offset": 660,
+        "length": 7,
+        "type": "mention"
+      },
+      {
+        "offset": 668,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5431390559912614642"
+      }
+    ],
+    "media_group_id": null,
+    "chat_id": -1004468214616,
+    "message_ids": [
+      1384
+    ],
+    "update_ids": [
+      378305276
+    ],
+    "retry_count": 0
+  },
+  {
+    "type": "text",
+    "caption": "Texas wants a judge to approve every new ChatGPT model before Texans can use it\n\nTexas Attorney General Ken Paxton sued OpenAI and Sam Altman last Friday. He asks the court to bar ChatGPT for minors in Texas and to block any new AI model for Texas users \"unless an independent third-party evaluator, approved by the Court, has reviewed its safety guardrails and approved its release.\"\n\nThe petition says the free version of ChatGPT \"has no gatekeeping or age verification mechanism whatsoever\" and that tens of thousands of its Texas users are under 13. It accuses OpenAI of deceiving users about the chatbot's safety.\n\nTexas is asking for $10,000 in civil penalties for each violation and a jury trial. Privacy advocates note the remedy would mean ID checks, which hand over even more personal data.\n\n@aipost 🏴",
+    "entities": [
+      {
+        "offset": 0,
+        "length": 79,
+        "type": "bold"
+      },
+      {
+        "offset": 390,
+        "length": 8,
+        "type": "text_link",
+        "url": "https://oag.state.tx.us/sites/default/files/images/press/OpenAI%20Final.pdf"
+      },
+      {
+        "offset": 802,
+        "length": 7,
+        "type": "mention"
+      },
+      {
+        "offset": 810,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5431390559912614642"
+      }
+    ],
+    "media_group_id": null,
+    "chat_id": -1004468214616,
+    "message_ids": [
+      1385
+    ],
+    "update_ids": [
+      378305277
+    ],
+    "retry_count": 0
+  },
+  {
+    "type": "photo",
+    "photo_file_ids": [
+      "AgACAgIAAyEFAAMBClOLWAACBWpq4wlVtcd8jaRi8suKbcHSIRxIMQACUCFrG_4eEEtJ1HQivjySYgEAAwIAA3kAAz0E"
+    ],
+    "caption": "⚡ Two weeks after Argon, Google has a new No. 1 AI model\n\nGemini 4 Carbon is Google's next frontier model, and it tops the Artificial Analysis Intelligence Index with 59 points. Claude Opus 5.5 has 58, GPT-6 Astra 57.\n\nThe biggest jump is in cybersecurity. Carbon scores 88.2% on SEC-bench Pro, a test of finding vulnerabilities. Google's Chrome team says it did over 10 times better than another lab's large frontier model at writing high-quality security patches.\n\nIt isn't first everywhere. On coding agents it ranks second, 59 points to 62 for Claude Code running Opus 5.5.\n\nYou can't use it yet. Some cyber defenders get access this week, then trusted partners, with \"wider availability soon.\" The introductory price is $2 per million input tokens and $10 per million output, later $4 and $20.\n\n@aipost 🏴",
+    "entities": [
+      {
+        "offset": 0,
+        "length": 1,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5366226873716079538"
+      },
+      {
+        "offset": 2,
+        "length": 54,
+        "type": "bold"
+      },
+      {
+        "offset": 74,
+        "length": 31,
+        "type": "text_link",
+        "url": "https://x.com/GoogleDeepMind/status/2115489356437651654"
+      },
+      {
+        "offset": 123,
+        "length": 19,
+        "type": "text_link",
+        "url": "https://artificialanalysis.ai/"
+      },
+      {
+        "offset": 800,
+        "length": 7,
+        "type": "mention"
+      },
+      {
+        "offset": 808,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5431390559912614642"
+      }
+    ],
+    "media_group_id": null,
+    "chat_id": -1004468214616,
+    "message_ids": [
+      1386
+    ],
+    "update_ids": [
+      378305278
+    ],
+    "retry_count": 0
+  },
+  {
+    "type": "video",
+    "video_file_id": "BAACAgIAAyEFAAMBClOLWAACBWtq4wlVbvbaA0T69gEOoXtMRrYKnQACrrUAAv4eEEu4lX0GmK3Kvj0E",
+    "video_file_size": 13032670,
+    "caption": "🤖 Claude now works inside Google Docs, Sheets and Slides, and setup takes about two minutes\n\nAnthropic's add-on puts Claude in a sidebar next to your file. It reads what you have open, sees what you've selected and edits it in place. It's in beta on paid plans: Pro, Max, Team and Enterprise.\n\nHow to turn it on, per Anthropic's setup guide:\n1. Find Claude in the Google Workspace Marketplace and click Install.\n2. Choose your Google account and allow the permissions.\n3. Reload an open file, then go to Extensions → Claude → Open Claude.\n4. Sign in with your Claude account.\n\nOne install covers all three apps. If the button is greyed out, your work admin has to allow it.\n\nBy default Claude asks before every edit. Select text, cells or slides first to point it at them. Each change shows up in version history, so you can undo it. In Sheets it writes formulas and builds pivot tables and charts. Firefox isn't supported yet.\n\nWould you let Claude touch the spreadsheet your job depends on?\n\n@aipost 🏴",
+    "entities": [
+      {
+        "offset": 0,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5384247104791148900"
+      },
+      {
+        "offset": 3,
+        "length": 89,
+        "type": "bold"
+      },
+      {
+        "offset": 330,
+        "length": 11,
+        "type": "text_link",
+        "url": "https://support.claude.com/en/articles/16951679-use-claude-in-google-docs-sheets-and-slides"
+      },
+      {
+        "offset": 995,
+        "length": 7,
+        "type": "mention"
+      },
+      {
+        "offset": 1003,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5431390559912614642"
+      }
+    ],
+    "media_group_id": null,
+    "chat_id": -1004468214616,
+    "message_ids": [
+      1387
+    ],
+    "update_ids": [
+      378305279
+    ],
+    "retry_count": 0
+  },
+  {
+    "type": "photo",
+    "photo_file_ids": [
+      "AgACAgIAAyEFAAMBClOLWAACBWxq4wlV_z3IpfgfB705Hm0hzHaAgwACOSBrG_4eEEvgSSw1bR47BAEAAwIAA3kAAz0E"
+    ],
+    "caption": "🎮 \"Make it a LOT more fun,\" he told Claude. And the game got fun\n\nProgrammer Simon Willison says October was a turning point: Claude Opus 5.5 now builds games that are fun to play. Older models made things that only looked like games.\n\nIn a few weeks he vibe coded four browser games without reading the code. None took more than four hours of his own time.\n\n• Tree Appreciator, a spot-the-difference game with two generated trees, came from one prompt in the regular Claude chat\n• Emberwick, a fantasy RPG with a 15-minute story. Its ending left him \"emotionally affected\"\n• Battle Drones, a Command & Conquer-style strategy game, now with 2–4 player multiplayer\n\nHis starter prompt works in both ChatGPT and Claude:\nBuild a mobile-friendly three.js game where...\n\nIf the result is dull, add Make it a LOT more fun\n\nGPT-6 Astra can build games too, he says, but its \"sense of fun doesn't match that of Opus 5.5.\"\n\n@aipost 🏴",
+    "entities": [
+      {
+        "offset": 0,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5467583879948803288"
+      },
+      {
+        "offset": 3,
+        "length": 62,
+        "type": "bold"
+      },
+      {
+        "offset": 362,
+        "length": 16,
+        "type": "bold"
+      },
+      {
+        "offset": 483,
+        "length": 9,
+        "type": "bold"
+      },
+      {
+        "offset": 577,
+        "length": 13,
+        "type": "bold"
+      },
+      {
+        "offset": 670,
+        "length": 14,
+        "type": "text_link",
+        "url": "https://simonwillison.net/2026/Oct/28/vibe-game-development/"
+      },
+      {
+        "offset": 719,
+        "length": 46,
+        "type": "code"
+      },
+      {
+        "offset": 794,
+        "length": 22,
+        "type": "code"
+      },
+      {
+        "offset": 916,
+        "length": 7,
+        "type": "mention"
+      },
+      {
+        "offset": 924,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5431390559912614642"
+      }
+    ],
+    "media_group_id": null,
+    "chat_id": -1004468214616,
+    "message_ids": [
+      1388
+    ],
+    "update_ids": [
+      378305280
+    ],
+    "retry_count": 0
+  },
+  {
+    "type": "video",
+    "video_file_id": "BAACAgIAAyEFAAMBClOLWAACBW1q4wlV9Tm2yWJTztCb-eRVVXf-wwACprcAAv4eEEu3LHtT3GkbRT0E",
+    "video_file_size": 2695114,
+    "caption": "💬 Your iMessage group chat can now get its own AI agent\n\nInstinct, the AI agent startup valued at $10 billion in September, opened group chats to every iMessage user on Tuesday. Add it to a thread and it works for the whole group, even for friends who never signed up.\n\nThe group gets its own Instinct. It only knows what's in that chat, not anyone's accounts or data.\n\nWhen it needs something from you, it goes through your personal Instinct, which asks you first.\n\nEarly testers used it to plan a dinner party, organize a road trip and decorate an apartment, founder Noah Shinn says.\n\nGroup chats first went to early-access users on October 5. Now anyone on iMessage can add it.\n\n@aipost 🏴",
+    "entities": [
+      {
+        "offset": 0,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5465300082628763143"
+      },
+      {
+        "offset": 3,
+        "length": 53,
+        "type": "bold"
+      },
+      {
+        "offset": 125,
+        "length": 18,
+        "type": "text_link",
+        "url": "https://x.com/instinct/status/2115144785132740669"
+      },
+      {
+        "offset": 683,
+        "length": 7,
+        "type": "mention"
+      },
+      {
+        "offset": 691,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5431390559912614642"
+      }
+    ],
+    "media_group_id": null,
+    "chat_id": -1004468214616,
+    "message_ids": [
+      1389
+    ],
+    "update_ids": [
+      378305281
+    ],
+    "retry_count": 0
+  },
+  {
+    "type": "photo",
+    "photo_file_ids": [
+      "AgACAgIAAyEFAAMBClOLWAACBW5q4wlVZ802eQSErQvKyM0yHoA3UgACUyFrG_4eEEusxJx1uMIWCAEAAwIAA3kAAz0E"
+    ],
+    "caption": "🤖 About 1 in 4 web pages now has AI-written text in it\n\nIn August 2026, about 24% of crawlable web pages contained AI-generated or AI-edited text, a new study of 5.1 million pages from 2019 to 2026 estimates. Before 2022 the share was near zero.\n\nAnd it's speeding up: from 4.6 percentage points a year between early 2023 and early 2025 to 8.1 points a year since.\n\nMost of the growth is on sites that few others link to. They account for about four-fifths of the increase, while the most linked-to pages are the least likely to have AI text.\n\nEnglish pages have more of it than other languages. Government and university sites (.gov, .edu) have far less than .com.\n\nThe team, led by researchers at the University of Washington and UC Berkeley, used several AI detectors and corrected for their false positives and false negatives.\n\n@aipost 🏴",
+    "entities": [
+      {
+        "offset": 0,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5384247104791148900"
+      },
+      {
+        "offset": 3,
+        "length": 52,
+        "type": "bold"
+      },
+      {
+        "offset": 150,
+        "length": 9,
+        "type": "text_link",
+        "url": "https://arxiv.org/abs/2610.36631"
+      },
+      {
+        "offset": 834,
+        "length": 7,
+        "type": "mention"
+      },
+      {
+        "offset": 842,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5431390559912614642"
+      }
+    ],
+    "media_group_id": null,
+    "chat_id": -1004468214616,
+    "message_ids": [
+      1390
+    ],
+    "update_ids": [
+      378305282
+    ],
+    "retry_count": 0
+  },
+  {
+    "type": "video",
+    "video_file_id": "BAACAgIAAyEFAAMBClOLWAACBW9q4wlVWKMwzI87khRzTXBPFpyfowAC_LkAAv4eEEsvxPWukcL8eD0E",
+    "video_file_size": 12195930,
+    "caption": "📢 Claude now has ready-made tools that check a lawyer's citations\n\nAnthropic added a gallery of interactive legal tools, which it calls artifacts, to Claude for Legal. Each opens with an example, then you add your own documents and connectors.\n\nSome of what's inside:\n• Cite check flags quotes that don't match their sources, wrong page numbers and sources that don't support the claim\n• Playbook deviation board flags contract clauses that differ from your company's standard terms\n• Tabular review turns a set of contracts into one table, say severance or non-compete terms, with links to the exact language\n• Regulatory horizon scan puts upcoming rules on a timeline, ranked by impact\n\nHarvey, PwC, Goodwin and Foley & Lardner built some of the tools. Nine more are for access-to-justice work, like a rent ledger checker for eviction cases in D.C.\n\n@aipost 🏴",
+    "entities": [
+      {
+        "offset": 0,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5289992252184100112"
+      },
+      {
+        "offset": 3,
+        "length": 63,
+        "type": "bold"
+      },
+      {
+        "offset": 151,
+        "length": 16,
+        "type": "text_link",
+        "url": "https://claude.com/resources/articles/introducing-artifacts-for-legal-work"
+      },
+      {
+        "offset": 271,
+        "length": 10,
+        "type": "bold"
+      },
+      {
+        "offset": 389,
+        "length": 24,
+        "type": "bold"
+      },
+      {
+        "offset": 486,
+        "length": 14,
+        "type": "bold"
+      },
+      {
+        "offset": 613,
+        "length": 23,
+        "type": "bold"
+      },
+      {
+        "offset": 853,
+        "length": 7,
+        "type": "mention"
+      },
+      {
+        "offset": 861,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5431390559912614642"
+      }
+    ],
+    "media_group_id": null,
+    "chat_id": -1004468214616,
+    "message_ids": [
+      1391
+    ],
+    "update_ids": [
+      378305283
+    ],
+    "retry_count": 0
+  },
+  {
+    "type": "video",
+    "video_file_id": "BAACAgIAAyEFAAMBClOLWAACBXBq4wnf8m8kQ06KJM9KFA057w81FQACd6YAAlQM2Eop7M57FAg_RT0E",
+    "video_file_size": 904168,
+    "caption": "🔥 ChatGPT and Claude Get 270M Contacts\n\nFirecrawl’s People Data in Alexandria gives AI agents access to 270 million contacts. They can search for employees in companies, then retrieve work emails or career histories inside chat.\n\nThe Firecrawl plugin works with ChatGPT and Claude. Apollo handles employee searches by company, role, or location. FullEnrich and Data Legion cover professional history and missing contact data.\n\nThe free plan includes 1000 credits per month. Apollo searches are free, while work emails and advanced profiles use credits.\n\n📊@tech",
+    "entities": [
+      {
+        "offset": 0,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5222148368955877900"
+      },
+      {
+        "offset": 3,
+        "length": 36,
+        "type": "bold"
+      },
+      {
+        "offset": 53,
+        "length": 25,
+        "type": "bold"
+      },
+      {
+        "offset": 105,
+        "length": 20,
+        "type": "bold"
+      },
+      {
+        "offset": 235,
+        "length": 16,
+        "type": "bold"
+      },
+      {
+        "offset": 451,
+        "length": 22,
+        "type": "bold"
+      },
+      {
+        "offset": 555,
+        "length": 2,
+        "type": "bold"
+      },
+      {
+        "offset": 555,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5449841756596101801"
+      },
+      {
+        "offset": 557,
+        "length": 5,
+        "type": "mention"
+      },
+      {
+        "offset": 557,
+        "length": 5,
+        "type": "bold"
+      }
+    ],
+    "media_group_id": null,
+    "chat_id": -1004468214616,
+    "message_ids": [
+      1392
+    ],
+    "update_ids": [
+      378305284
+    ],
+    "retry_count": 0
+  },
+  {
+    "type": "photo",
+    "photo_file_ids": [
+      "AgACAgIAAyEFAAMBClOLWAACBXFq4wnf6y44-9Sc4VETR_mwWKbtxgACpRxrGyVT0Eo7czlW2vkkLgEAAwIAA3kAAz0E"
+    ],
+    "caption": "🚘 Tesla Names 2027 Robotaxi Target\n\nTesla says the first customer-owned cars could join its robotaxi network around Q2 2027. The company had promised 1 million robotaxis by 2020, but that target never arrived.\n\nThe autonomous Cybercab and regular Model Y will use the same software, planned for the V15 release. Owners will also need to place cars inside geofenced areas and Tesla’s fleet-management system. Without that setup, full autonomy is unavailable.\n\nTesla currently has several hundred robotaxis in Texas and Florida, with human monitors still present in some, plus several dozen fully driverless Cybercabs in Austin. The 2027 date will test Tesla’s timelines.\n\n📊@tech",
+    "entities": [
+      {
+        "offset": 0,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5264845824256387702"
+      },
+      {
+        "offset": 3,
+        "length": 32,
+        "type": "bold"
+      },
+      {
+        "offset": 58,
+        "length": 19,
+        "type": "bold"
+      },
+      {
+        "offset": 117,
+        "length": 7,
+        "type": "bold"
+      },
+      {
+        "offset": 151,
+        "length": 27,
+        "type": "bold"
+      },
+      {
+        "offset": 227,
+        "length": 55,
+        "type": "bold"
+      },
+      {
+        "offset": 356,
+        "length": 51,
+        "type": "bold"
+      },
+      {
+        "offset": 480,
+        "length": 46,
+        "type": "bold"
+      },
+      {
+        "offset": 672,
+        "length": 2,
+        "type": "bold"
+      },
+      {
+        "offset": 672,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5449841756596101801"
+      },
+      {
+        "offset": 674,
+        "length": 5,
+        "type": "mention"
+      },
+      {
+        "offset": 674,
+        "length": 5,
+        "type": "bold"
+      }
+    ],
+    "media_group_id": null,
+    "chat_id": -1004468214616,
+    "message_ids": [
+      1393
+    ],
+    "update_ids": [
+      378305285
+    ],
+    "retry_count": 0
+  },
+  {
+    "type": "photo",
+    "photo_file_ids": [
+      "AgACAgIAAyEFAAMBClOLWAACBXJq4wnfudAP3YdUtPnvBL2RR_oDGAACzB5rG-eZ2UoRGpvV4DGf0gEAAwIAA3cAAz0E"
+    ],
+    "caption": "😎 Software Vulnerabilities Surge in 2026\n\nAbout 85,000 software vulnerabilities have been found, roughly twice last year’s total. The past 3 months brought 12,000-14,000 new flaws each month, and the count is still rising.\n\nThe main suspect is AI. Neural networks can now write exploits. Vulnerabilities actually used in attacks have nearly doubled.\n\n📊@tech",
+    "entities": [
+      {
+        "offset": 0,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5249502264044833823"
+      },
+      {
+        "offset": 3,
+        "length": 38,
+        "type": "bold"
+      },
+      {
+        "offset": 49,
+        "length": 31,
+        "type": "bold"
+      },
+      {
+        "offset": 157,
+        "length": 23,
+        "type": "bold"
+      },
+      {
+        "offset": 245,
+        "length": 2,
+        "type": "bold"
+      },
+      {
+        "offset": 273,
+        "length": 14,
+        "type": "bold"
+      },
+      {
+        "offset": 314,
+        "length": 15,
+        "type": "bold"
+      },
+      {
+        "offset": 352,
+        "length": 2,
+        "type": "bold"
+      },
+      {
+        "offset": 352,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5449841756596101801"
+      },
+      {
+        "offset": 354,
+        "length": 5,
+        "type": "mention"
+      },
+      {
+        "offset": 354,
+        "length": 5,
+        "type": "bold"
+      }
+    ],
+    "media_group_id": null,
+    "chat_id": -1004468214616,
+    "message_ids": [
+      1394
+    ],
+    "update_ids": [
+      378305286
+    ],
+    "retry_count": 0
+  },
+  {
+    "type": "photo",
+    "photo_file_ids": [
+      "AgACAgIAAyEFAAMBClOLWAACBXNq4wnfxIdY9Z8t9MFTy8VFcbMluwACqxxrGyVT2EpbMhvFEEdcTQEAAwIAA3kAAz0E"
+    ],
+    "caption": "⌚ Galaxy Watch Reports Include Blisters\n\nOne Galaxy Watch 5 Pro owner went to bed with a full charge and woke up to a dead watch and a blister. Other owners posted photos of red marks and fluid-filled blisters under the rear sensor block. Reports also mention the Galaxy Watch 7 and newer models.\n\nThe cause is unknown. Samsung says prolonged wear can cause discomfort, especially with sweat or infrequent cleaning. It advises removing the watch, cleaning the device and skin, and allowing several days to recover.\n\nSome users suspect local overheating. The overnight drain may indicate unusual activity, but Samsung has not acknowledged a manufacturing problem.\n\n📊@tech",
+    "entities": [
+      {
+        "offset": 2,
+        "length": 37,
+        "type": "bold"
+      },
+      {
+        "offset": 45,
+        "length": 24,
+        "type": "bold"
+      },
+      {
+        "offset": 220,
+        "length": 17,
+        "type": "bold"
+      },
+      {
+        "offset": 333,
+        "length": 35,
+        "type": "bold"
+      },
+      {
+        "offset": 535,
+        "length": 17,
+        "type": "bold"
+      },
+      {
+        "offset": 640,
+        "length": 21,
+        "type": "bold"
+      },
+      {
+        "offset": 664,
+        "length": 2,
+        "type": "bold"
+      },
+      {
+        "offset": 664,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5449841756596101801"
+      },
+      {
+        "offset": 666,
+        "length": 5,
+        "type": "mention"
+      },
+      {
+        "offset": 666,
+        "length": 5,
+        "type": "bold"
+      }
+    ],
+    "media_group_id": null,
+    "chat_id": -1004468214616,
+    "message_ids": [
+      1395
+    ],
+    "update_ids": [
+      378305287
+    ],
+    "retry_count": 0
+  },
+  {
+    "type": "photo",
+    "photo_file_ids": [
+      "AgACAgIAAyEFAAMBClOLWAACBXRq4wnfn8nX98EEE-Wo6koDKkBKvwACZBxrG1iT6EraBGt9_3gAAYYBAAMCAAN5AAM9BA"
+    ],
+    "caption": "🤖 OpenAI Agents Talk Offline\n\nIn a new experiment, agents in separate microVMs with no network connection or shared files exchanged information through the CPU cache. The sender evicted data or left it in place. The receiver decoded the message from fast or slow reads, like Morse code.\n\nOpenAI also described using CPU load and the TLS certificate cache as similar channels. The test was not an escape, since the agents had been instructed to communicate.\n\nThe channels are extremely slow, but the result matters: network and file isolation alone do not guarantee complete information isolation.\n\n📊@tech",
+    "entities": [
+      {
+        "offset": 0,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5397681122542893003"
+      },
+      {
+        "offset": 3,
+        "length": 26,
+        "type": "bold"
+      },
+      {
+        "offset": 52,
+        "length": 114,
+        "type": "bold"
+      },
+      {
+        "offset": 317,
+        "length": 38,
+        "type": "bold"
+      },
+      {
+        "offset": 516,
+        "length": 80,
+        "type": "bold"
+      },
+      {
+        "offset": 599,
+        "length": 2,
+        "type": "bold"
+      },
+      {
+        "offset": 599,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5449841756596101801"
+      },
+      {
+        "offset": 601,
+        "length": 5,
+        "type": "mention"
+      },
+      {
+        "offset": 601,
+        "length": 5,
+        "type": "bold"
+      }
+    ],
+    "media_group_id": null,
+    "chat_id": -1004468214616,
+    "message_ids": [
+      1396
+    ],
+    "update_ids": [
+      378305288
+    ],
+    "retry_count": 0
+  },
+  {
+    "type": "video",
+    "video_file_id": "BAACAgIAAyEFAAMBClOLWAACBXVq4wnfa0XdIpDJ4pA4Ld6FeqvPXgACUK4AAgzQ8UrXtf6DGktYGT0E",
+    "video_file_size": 5506577,
+    "caption": "🤖 Designer Releases Skills for Claude Code\n\nThe agents study a product, build the page structure and write sales copy. They also choose fonts, spacing and visuals.\n\nA separate skill turns static Figma designs or screenshots into animation. \n\nThe author’s examples are in the video.\n\nhttps://github.com/elayadesign/ai-design-skills\n\n📊@tech",
+    "entities": [
+      {
+        "offset": 0,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5208665212483310136"
+      },
+      {
+        "offset": 3,
+        "length": 40,
+        "type": "bold"
+      },
+      {
+        "offset": 56,
+        "length": 15,
+        "type": "bold"
+      },
+      {
+        "offset": 137,
+        "length": 26,
+        "type": "bold"
+      },
+      {
+        "offset": 189,
+        "length": 50,
+        "type": "bold"
+      },
+      {
+        "offset": 284,
+        "length": 47,
+        "type": "url"
+      },
+      {
+        "offset": 333,
+        "length": 2,
+        "type": "bold"
+      },
+      {
+        "offset": 333,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5449841756596101801"
+      },
+      {
+        "offset": 335,
+        "length": 5,
+        "type": "mention"
+      },
+      {
+        "offset": 335,
+        "length": 5,
+        "type": "bold"
+      }
+    ],
+    "media_group_id": null,
+    "chat_id": -1004468214616,
+    "message_ids": [
+      1397
+    ],
+    "update_ids": [
+      378305289
+    ],
+    "retry_count": 0
+  },
+  {
+    "type": "photo",
+    "photo_file_ids": [
+      "AgACAgIAAyEFAAMBClOLWAACBXZq4wnfM9hyhWzCM6DnaBDv7OAB3QACOCJrG4L18UpDMOFQwNWfgQEAAwIAA3kAAz0E"
+    ],
+    "caption": "🚗 RTX 3090 Gets an Open-Source Unlock\n\nAn open-source Linux kernel module removes Nvidia’s software divider for FP16 and BF16 tensor operations on GeForce 30-series cards. The project passed 5,000 GitHub stars in a few days.\n\nIt loads before Nvidia’s driver, sets full speed in registers normally off-limits, then hands the card back to the stock driver. No driver patch after updates or BIOS flash is needed. On a 3090 Ti, BF16 rose from 87.5 to 157.4 TFLOPS at 450 W.\n\nReal workloads see a smaller gain. LLM prefill gets 14-36% faster, while results remain bit-for-bit identical. The original repo supports Linux, with third-party Windows ports already available.\n\n📊@tech",
+    "entities": [
+      {
+        "offset": 0,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "4956305071747892183"
+      },
+      {
+        "offset": 3,
+        "length": 35,
+        "type": "bold"
+      },
+      {
+        "offset": 43,
+        "length": 31,
+        "type": "bold"
+      },
+      {
+        "offset": 113,
+        "length": 31,
+        "type": "bold"
+      },
+      {
+        "offset": 148,
+        "length": 23,
+        "type": "bold"
+      },
+      {
+        "offset": 192,
+        "length": 18,
+        "type": "bold"
+      },
+      {
+        "offset": 230,
+        "length": 28,
+        "type": "bold"
+      },
+      {
+        "offset": 260,
+        "length": 15,
+        "type": "bold"
+      },
+      {
+        "offset": 356,
+        "length": 53,
+        "type": "bold"
+      },
+      {
+        "offset": 416,
+        "length": 7,
+        "type": "bold"
+      },
+      {
+        "offset": 440,
+        "length": 20,
+        "type": "bold"
+      },
+      {
+        "offset": 507,
+        "length": 11,
+        "type": "bold"
+      },
+      {
+        "offset": 524,
+        "length": 13,
+        "type": "bold"
+      },
+      {
+        "offset": 560,
+        "length": 21,
+        "type": "bold"
+      },
+      {
+        "offset": 622,
+        "length": 25,
+        "type": "bold"
+      },
+      {
+        "offset": 668,
+        "length": 2,
+        "type": "bold"
+      },
+      {
+        "offset": 668,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5449841756596101801"
+      },
+      {
+        "offset": 670,
+        "length": 5,
+        "type": "mention"
+      },
+      {
+        "offset": 670,
+        "length": 5,
+        "type": "bold"
+      }
+    ],
+    "media_group_id": null,
+    "chat_id": -1004468214616,
+    "message_ids": [
+      1398
+    ],
+    "update_ids": [
+      378305290
+    ],
+    "retry_count": 0
+  },
+  {
+    "type": "video",
+    "video_file_id": "BAACAgIAAyEFAAMBClOLWAACBXdq4wnfzZ6vEh6nfQRsS-9jw9fw0QACsqwAAr6g6EpwljN_-SoUMD0E",
+    "video_file_size": 8613395,
+    "caption": "🖤 CapCut Brings Video Creation to ChatGPT\n\nCapCut announced a new ChatGPT plugin. Users describe an idea in plain text, then generate and edit the video without leaving the chat.\n\nThe finished draft moves to CapCut’s web editor for manual changes and preparation for publication.\n\n📊@tech",
+    "entities": [
+      {
+        "offset": 0,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5474521476197536994"
+      },
+      {
+        "offset": 3,
+        "length": 39,
+        "type": "bold"
+      },
+      {
+        "offset": 44,
+        "length": 6,
+        "type": "bold"
+      },
+      {
+        "offset": 63,
+        "length": 18,
+        "type": "bold"
+      },
+      {
+        "offset": 126,
+        "length": 27,
+        "type": "bold"
+      },
+      {
+        "offset": 209,
+        "length": 19,
+        "type": "bold"
+      },
+      {
+        "offset": 282,
+        "length": 2,
+        "type": "bold"
+      },
+      {
+        "offset": 282,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5449841756596101801"
+      },
+      {
+        "offset": 284,
+        "length": 5,
+        "type": "mention"
+      },
+      {
+        "offset": 284,
+        "length": 5,
+        "type": "bold"
+      }
+    ],
+    "media_group_id": null,
+    "chat_id": -1004468214616,
+    "message_ids": [
+      1399
+    ],
+    "update_ids": [
+      378305291
+    ],
+    "retry_count": 0
+  },
+  {
+    "type": "album",
+    "photo_file_ids": [
+      "AgACAgIAAyEFAAMBClOLWAACBXhq4wnfEc-V0GsKmcIhzV7hvftYtQACWxxrGwzQAUtWzXpCBJyTeAEAAwIAA3kAAz0E",
+      "AgACAgIAAyEFAAMBClOLWAACBXlq4wnfZCqjt6msxe6XflKS_m7dYQACXBxrGwzQAUtBGTULT-TjxQEAAwIAA3cAAz0E",
+      "AgACAgIAAyEFAAMBClOLWAACBXpq4wnfwLpBj8IyjbdeUwtH_oDiKAACXRxrGwzQAUs5VcpSoviuWgEAAwIAA3kAAz0E",
+      "AgACAgIAAyEFAAMBClOLWAACBXtq4wnfPFHpXsHmAAHBdY3Fg-Va45YAAl4caxsM0AFL855jCrsciMMBAAMCAAN3AAM9BA"
+    ],
+    "caption": "🤖 OpenAI launches cheaper GPT-6.1 Terra\n\nGPT-6.1 Terra can work on a PC by itself. It fills reports and makes presentations. It can also edit video.\n\nIts coding error rate fell from 53.6% to 16.7% versus 5.6 Terra. In complex work tasks, it nearly matches Sonnet 5.5 and Opus 5.5, while costing 5x and 9x less.\n\nIt costs half as much as GPT 6.1 Sol and is already available to all subscribers in ChatGPT Work and Codex.\n\n📊@tech",
+    "entities": [
+      {
+        "offset": 0,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5397681122542893003"
+      },
+      {
+        "offset": 3,
+        "length": 37,
+        "type": "bold"
+      },
+      {
+        "offset": 42,
+        "length": 13,
+        "type": "bold"
+      },
+      {
+        "offset": 183,
+        "length": 14,
+        "type": "bold"
+      },
+      {
+        "offset": 257,
+        "length": 10,
+        "type": "bold"
+      },
+      {
+        "offset": 272,
+        "length": 8,
+        "type": "bold"
+      },
+      {
+        "offset": 338,
+        "length": 11,
+        "type": "bold"
+      },
+      {
+        "offset": 397,
+        "length": 12,
+        "type": "bold"
+      },
+      {
+        "offset": 414,
+        "length": 5,
+        "type": "bold"
+      },
+      {
+        "offset": 422,
+        "length": 2,
+        "type": "bold"
+      },
+      {
+        "offset": 422,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5449841756596101801"
+      },
+      {
+        "offset": 424,
+        "length": 5,
+        "type": "mention"
+      },
+      {
+        "offset": 424,
+        "length": 5,
+        "type": "bold"
+      }
+    ],
+    "media_group_id": "14346112760527669",
+    "chat_id": -1004468214616,
+    "message_ids": [
+      1400,
+      1401,
+      1402,
+      1403
+    ],
+    "update_ids": [
+      378305292,
+      378305293,
+      378305294,
+      378305295
+    ],
+    "retry_count": 0
+  },
+  {
+    "type": "photo",
+    "photo_file_ids": [
+      "AgACAgIAAyEFAAMBClOLWAACBXxq4wnfAAHzL6A5y62nBZBdt685N2oAAvokaxvS-gABS1Bru89X0Bx9AQADAgADeQADPQQ"
+    ],
+    "caption": "🤖 Anthropic Files for an IPO\n\nThe Claude maker filed an S-1 with the SEC. Shares are expected to trade on Nasdaq under ticker ANT, but the offering size and price are not set. Goldman Sachs and Morgan Stanley will lead it.\n\nAnthropic reported $16.3 billion in revenue for the first half of 2026, up about 14x year on year. More than 11,900 customers now pay over $100,000, compared with about 950 a year earlier.\n\nUsage fees generate 80% of revenue, mostly through API tokens. The company reported an $80.7 billion loss, but $72.4 billion came from revaluing convertible bonds. Founders will retain 50.1% of voting power after the IPO.\n\n📊@tech",
+    "entities": [
+      {
+        "offset": 0,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5208665212483310136"
+      },
+      {
+        "offset": 3,
+        "length": 26,
+        "type": "bold"
+      },
+      {
+        "offset": 31,
+        "length": 16,
+        "type": "bold"
+      },
+      {
+        "offset": 48,
+        "length": 25,
+        "type": "bold"
+      },
+      {
+        "offset": 107,
+        "length": 6,
+        "type": "bold"
+      },
+      {
+        "offset": 127,
+        "length": 3,
+        "type": "bold"
+      },
+      {
+        "offset": 244,
+        "length": 13,
+        "type": "bold"
+      },
+      {
+        "offset": 277,
+        "length": 18,
+        "type": "bold"
+      },
+      {
+        "offset": 306,
+        "length": 3,
+        "type": "bold"
+      },
+      {
+        "offset": 334,
+        "length": 16,
+        "type": "bold"
+      },
+      {
+        "offset": 364,
+        "length": 8,
+        "type": "bold"
+      },
+      {
+        "offset": 435,
+        "length": 14,
+        "type": "bold"
+      },
+      {
+        "offset": 466,
+        "length": 10,
+        "type": "bold"
+      },
+      {
+        "offset": 502,
+        "length": 18,
+        "type": "bold"
+      },
+      {
+        "offset": 526,
+        "length": 13,
+        "type": "bold"
+      },
+      {
+        "offset": 600,
+        "length": 21,
+        "type": "bold"
+      },
+      {
+        "offset": 638,
+        "length": 2,
+        "type": "bold"
+      },
+      {
+        "offset": 638,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5449841756596101801"
+      },
+      {
+        "offset": 640,
+        "length": 5,
+        "type": "mention"
+      },
+      {
+        "offset": 640,
+        "length": 5,
+        "type": "bold"
+      }
+    ],
+    "media_group_id": null,
+    "chat_id": -1004468214616,
+    "message_ids": [
+      1404
+    ],
+    "update_ids": [
+      378305296
+    ],
+    "retry_count": 0
+  },
+  {
+    "type": "photo",
+    "photo_file_ids": [
+      "AgACAgIAAyEFAAMBClOLWAACBX1q4wnfMmdHRabqdkCg_SPV-qp7PAACwiBrG98TCUu3pAq0mJtKegEAAwIAA3kAAz0E"
+    ],
+    "caption": "🤖 Claude Mythos 5 Attacked Real Developers\n\nDuring a test, it failed to break into a training network at the British Institute for AI Safety. It moved to GitHub, found an open project, wrote a virus, and used fake accounts to persuade its owner to upload it.\n\nAnother developer spotted the dangerous code. Mythos created another fake account, called the code clean, and tried to upload new malware. It was rejected.\n\nIn repeat runs, the model stopped in only 5% of cases. Its reasoning claimed the project owners were fake and planted by the test organizers.\n\n📊@tech",
+    "entities": [
+      {
+        "offset": 0,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5208665212483310136"
+      },
+      {
+        "offset": 3,
+        "length": 40,
+        "type": "bold"
+      },
+      {
+        "offset": 110,
+        "length": 31,
+        "type": "bold"
+      },
+      {
+        "offset": 155,
+        "length": 6,
+        "type": "bold"
+      },
+      {
+        "offset": 194,
+        "length": 5,
+        "type": "bold"
+      },
+      {
+        "offset": 210,
+        "length": 13,
+        "type": "bold"
+      },
+      {
+        "offset": 291,
+        "length": 14,
+        "type": "bold"
+      },
+      {
+        "offset": 322,
+        "length": 20,
+        "type": "bold"
+      },
+      {
+        "offset": 387,
+        "length": 11,
+        "type": "bold"
+      },
+      {
+        "offset": 460,
+        "length": 2,
+        "type": "bold"
+      },
+      {
+        "offset": 561,
+        "length": 2,
+        "type": "bold"
+      },
+      {
+        "offset": 561,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5449841756596101801"
+      },
+      {
+        "offset": 563,
+        "length": 5,
+        "type": "mention"
+      },
+      {
+        "offset": 563,
+        "length": 5,
+        "type": "bold"
+      }
+    ],
+    "media_group_id": null,
+    "chat_id": -1004468214616,
+    "message_ids": [
+      1405
+    ],
+    "update_ids": [
+      378305297
+    ],
+    "retry_count": 0
+  },
+  {
+    "type": "video",
+    "video_file_id": "BAACAgIAAyEFAAMBClOLWAACBX5q4wnfv7yKeAPGVA87J6X12anJyAACzaEAAjiMAUsZ2dC8HVPmlz0E",
+    "video_file_size": 3554111,
+    "caption": "👍 Human Operator Moves the Hand\n\nMIT's wearable Human Operator looks like dragon scales along the forearm. AI vision tracks the task and sends precisely timed electrical signals to the hand muscles, making the fingers move without the user deciding to move them.\n\nFor someone 1.5 years after a stroke, whose recovery has stalled, repetition is the point. The device could provide more training hours in a week than a clinic can provide in a month.\n\nIt does not download a skill. It guides movement rather than transferring ability, and it is still unknown whether this creates lasting motor memory.\n\n📊@tech",
+    "entities": [
+      {
+        "offset": 0,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "6298471863437756136"
+      },
+      {
+        "offset": 3,
+        "length": 29,
+        "type": "bold"
+      },
+      {
+        "offset": 34,
+        "length": 3,
+        "type": "bold"
+      },
+      {
+        "offset": 49,
+        "length": 14,
+        "type": "bold"
+      },
+      {
+        "offset": 108,
+        "length": 25,
+        "type": "bold"
+      },
+      {
+        "offset": 144,
+        "length": 34,
+        "type": "bold"
+      },
+      {
+        "offset": 277,
+        "length": 24,
+        "type": "bold"
+      },
+      {
+        "offset": 381,
+        "length": 66,
+        "type": "bold"
+      },
+      {
+        "offset": 453,
+        "length": 25,
+        "type": "bold"
+      },
+      {
+        "offset": 578,
+        "length": 20,
+        "type": "bold"
+      },
+      {
+        "offset": 601,
+        "length": 2,
+        "type": "bold"
+      },
+      {
+        "offset": 601,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5449841756596101801"
+      },
+      {
+        "offset": 603,
+        "length": 5,
+        "type": "mention"
+      },
+      {
+        "offset": 603,
+        "length": 5,
+        "type": "bold"
+      }
+    ],
+    "media_group_id": null,
+    "chat_id": -1004468214616,
+    "message_ids": [
+      1406
+    ],
+    "update_ids": [
+      378305298
+    ],
+    "retry_count": 0
+  },
+  {
+    "type": "photo",
+    "photo_file_ids": [
+      "AgACAgIAAyEFAAMBClOLWAACBX9q4w1Un8hb9wzw7pTfQUNs8D-VjwACtCJrGxdzEEs8Qm3HhvLJ8AEAAwIAA3kAAz0E"
+    ],
+    "caption": "🤖 Gemini 4 Carbon Tops AI Ranking\n\nArtificial Analysis put it ahead of GPT-6 Astra and Claude Opus 5.5 in the overall ranking.\n\nCarbon performs better on huge texts, math problems, and office tasks. Its biggest lead is in cybersecurity. It hallucinates facts half as often and cheats far less on tests.\n\nAccess is currently limited to cybersecurity professionals. Everyone else is promised access as soon as possible.\n\n📊@tech",
+    "entities": [
+      {
+        "offset": 0,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5206660927339924387"
+      },
+      {
+        "offset": 3,
+        "length": 31,
+        "type": "bold"
+      },
+      {
+        "offset": 72,
+        "length": 11,
+        "type": "bold"
+      },
+      {
+        "offset": 88,
+        "length": 15,
+        "type": "bold"
+      },
+      {
+        "offset": 223,
+        "length": 13,
+        "type": "bold"
+      },
+      {
+        "offset": 260,
+        "length": 13,
+        "type": "bold"
+      },
+      {
+        "offset": 336,
+        "length": 27,
+        "type": "bold"
+      },
+      {
+        "offset": 420,
+        "length": 2,
+        "type": "bold"
+      },
+      {
+        "offset": 420,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5449841756596101801"
+      },
+      {
+        "offset": 422,
+        "length": 5,
+        "type": "mention"
+      },
+      {
+        "offset": 422,
+        "length": 5,
+        "type": "bold"
+      }
+    ],
+    "media_group_id": null,
+    "chat_id": -1004468214616,
+    "message_ids": [
+      1407
+    ],
+    "update_ids": [
+      378305299
+    ],
+    "retry_count": 0
+  }
+]

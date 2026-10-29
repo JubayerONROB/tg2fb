@@ -6905,5 +6905,33 @@
       378305268
     ],
     "retry_count": 0
+  },
+  {
+    "type": "video",
+    "video_file_id": "BAACAgQAAyEFAAMBClOLWAACBWRq4wlV0ZY9I1BiWd1uDy-H9QHYpwACrRsAAmMuCVNQVcHt0a83eT0E",
+    "video_file_size": 34862955,
+    "caption": "Grok explains why overpopulation is a myth.\n\n@aipost 🏴",
+    "entities": [
+      {
+        "offset": 45,
+        "length": 7,
+        "type": "mention"
+      },
+      {
+        "offset": 53,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5431390559912614642"
+      }
+    ],
+    "media_group_id": null,
+    "chat_id": -1004468214616,
+    "message_ids": [
+      1380
+    ],
+    "update_ids": [
+      378305272
+    ],
+    "retry_count": 0
   }
 ]
