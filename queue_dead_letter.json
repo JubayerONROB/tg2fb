@@ -6972,5 +6972,50 @@
       378305300
     ],
     "retry_count": 0
+  },
+  {
+    "type": "video",
+    "video_file_id": "BAACAgIAAyEFAAMBClOLWAACBY1q5Q_z3GlCyUgD86vEvJkXiBf1EgACvLYAAssPKEupOCQHPabAqD0E",
+    "video_file_size": 35667046,
+    "caption": "😱 Lab-grown brain cells made this AI video model 5x faster, startup says\n\nThe neurons don't make the videos. The Biological Computing Co. in San Francisco spent four years growing real brain cells on electrodes and measuring how they process information. It turned what it learned into a small software layer on top of an existing open video model, Wan 2.2, adding less than 0.1% to its size.\n\nThe result, mischief 1, launched today on fal and OpenRouter. It turns an image into a 3- or 5-second clip at 480p or 720p, from half a cent per second. A five-second clip costs 2.5 cents.\n\nThe company says it is at least 5x faster than Wan 2.2 at the same quality. No independent test exists yet. Next, it wants to bring the approach to language models and physical AI.\n\n@aipost 🏴",
+    "entities": [
+      {
+        "offset": 0,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5832225005651365030"
+      },
+      {
+        "offset": 3,
+        "length": 70,
+        "type": "bold"
+      },
+      {
+        "offset": 419,
+        "length": 14,
+        "type": "text_link",
+        "url": "https://www.prnewswire.com/news-releases/the-biological-computing-co-launches-worlds-first-publicly-available-neuron-derived-ai-video-model-302924399.html"
+      },
+      {
+        "offset": 767,
+        "length": 7,
+        "type": "mention"
+      },
+      {
+        "offset": 775,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5431390559912614642"
+      }
+    ],
+    "media_group_id": null,
+    "chat_id": -1004468214616,
+    "message_ids": [
+      1421
+    ],
+    "update_ids": [
+      378305313
+    ],
+    "retry_count": 0
   }
 ]
