@@ -1,467 +1,5 @@
 [
   {
-    "type": "video",
-    "video_file_id": "BAACAgIAAyEFAAMBClOLWAACBXdq4wnfzZ6vEh6nfQRsS-9jw9fw0QACsqwAAr6g6EpwljN_-SoUMD0E",
-    "video_file_size": 8613395,
-    "caption": "🖤 CapCut Brings Video Creation to ChatGPT\n\nCapCut announced a new ChatGPT plugin. Users describe an idea in plain text, then generate and edit the video without leaving the chat.\n\nThe finished draft moves to CapCut’s web editor for manual changes and preparation for publication.\n\n📊@tech",
-    "entities": [
-      {
-        "offset": 0,
-        "length": 2,
-        "type": "custom_emoji",
-        "custom_emoji_id": "5474521476197536994"
-      },
-      {
-        "offset": 3,
-        "length": 39,
-        "type": "bold"
-      },
-      {
-        "offset": 44,
-        "length": 6,
-        "type": "bold"
-      },
-      {
-        "offset": 63,
-        "length": 18,
-        "type": "bold"
-      },
-      {
-        "offset": 126,
-        "length": 27,
-        "type": "bold"
-      },
-      {
-        "offset": 209,
-        "length": 19,
-        "type": "bold"
-      },
-      {
-        "offset": 282,
-        "length": 2,
-        "type": "bold"
-      },
-      {
-        "offset": 282,
-        "length": 2,
-        "type": "custom_emoji",
-        "custom_emoji_id": "5449841756596101801"
-      },
-      {
-        "offset": 284,
-        "length": 5,
-        "type": "mention"
-      },
-      {
-        "offset": 284,
-        "length": 5,
-        "type": "bold"
-      }
-    ],
-    "media_group_id": null,
-    "chat_id": -1004468214616,
-    "message_ids": [
-      1399
-    ],
-    "update_ids": [
-      378305291
-    ],
-    "retry_count": 0
-  },
-  {
-    "type": "album",
-    "photo_file_ids": [
-      "AgACAgIAAyEFAAMBClOLWAACBXhq4wnfEc-V0GsKmcIhzV7hvftYtQACWxxrGwzQAUtWzXpCBJyTeAEAAwIAA3kAAz0E",
-      "AgACAgIAAyEFAAMBClOLWAACBXlq4wnfZCqjt6msxe6XflKS_m7dYQACXBxrGwzQAUtBGTULT-TjxQEAAwIAA3cAAz0E",
-      "AgACAgIAAyEFAAMBClOLWAACBXpq4wnfwLpBj8IyjbdeUwtH_oDiKAACXRxrGwzQAUs5VcpSoviuWgEAAwIAA3kAAz0E",
-      "AgACAgIAAyEFAAMBClOLWAACBXtq4wnfPFHpXsHmAAHBdY3Fg-Va45YAAl4caxsM0AFL855jCrsciMMBAAMCAAN3AAM9BA"
-    ],
-    "caption": "🤖 OpenAI launches cheaper GPT-6.1 Terra\n\nGPT-6.1 Terra can work on a PC by itself. It fills reports and makes presentations. It can also edit video.\n\nIts coding error rate fell from 53.6% to 16.7% versus 5.6 Terra. In complex work tasks, it nearly matches Sonnet 5.5 and Opus 5.5, while costing 5x and 9x less.\n\nIt costs half as much as GPT 6.1 Sol and is already available to all subscribers in ChatGPT Work and Codex.\n\n📊@tech",
-    "entities": [
-      {
-        "offset": 0,
-        "length": 2,
-        "type": "custom_emoji",
-        "custom_emoji_id": "5397681122542893003"
-      },
-      {
-        "offset": 3,
-        "length": 37,
-        "type": "bold"
-      },
-      {
-        "offset": 42,
-        "length": 13,
-        "type": "bold"
-      },
-      {
-        "offset": 183,
-        "length": 14,
-        "type": "bold"
-      },
-      {
-        "offset": 257,
-        "length": 10,
-        "type": "bold"
-      },
-      {
-        "offset": 272,
-        "length": 8,
-        "type": "bold"
-      },
-      {
-        "offset": 338,
-        "length": 11,
-        "type": "bold"
-      },
-      {
-        "offset": 397,
-        "length": 12,
-        "type": "bold"
-      },
-      {
-        "offset": 414,
-        "length": 5,
-        "type": "bold"
-      },
-      {
-        "offset": 422,
-        "length": 2,
-        "type": "bold"
-      },
-      {
-        "offset": 422,
-        "length": 2,
-        "type": "custom_emoji",
-        "custom_emoji_id": "5449841756596101801"
-      },
-      {
-        "offset": 424,
-        "length": 5,
-        "type": "mention"
-      },
-      {
-        "offset": 424,
-        "length": 5,
-        "type": "bold"
-      }
-    ],
-    "media_group_id": "14346112760527669",
-    "chat_id": -1004468214616,
-    "message_ids": [
-      1400,
-      1401,
-      1402,
-      1403
-    ],
-    "update_ids": [
-      378305292,
-      378305293,
-      378305294,
-      378305295
-    ],
-    "retry_count": 0
-  },
-  {
-    "type": "photo",
-    "photo_file_ids": [
-      "AgACAgIAAyEFAAMBClOLWAACBXxq4wnfAAHzL6A5y62nBZBdt685N2oAAvokaxvS-gABS1Bru89X0Bx9AQADAgADeQADPQQ"
-    ],
-    "caption": "🤖 Anthropic Files for an IPO\n\nThe Claude maker filed an S-1 with the SEC. Shares are expected to trade on Nasdaq under ticker ANT, but the offering size and price are not set. Goldman Sachs and Morgan Stanley will lead it.\n\nAnthropic reported $16.3 billion in revenue for the first half of 2026, up about 14x year on year. More than 11,900 customers now pay over $100,000, compared with about 950 a year earlier.\n\nUsage fees generate 80% of revenue, mostly through API tokens. The company reported an $80.7 billion loss, but $72.4 billion came from revaluing convertible bonds. Founders will retain 50.1% of voting power after the IPO.\n\n📊@tech",
-    "entities": [
-      {
-        "offset": 0,
-        "length": 2,
-        "type": "custom_emoji",
-        "custom_emoji_id": "5208665212483310136"
-      },
-      {
-        "offset": 3,
-        "length": 26,
-        "type": "bold"
-      },
-      {
-        "offset": 31,
-        "length": 16,
-        "type": "bold"
-      },
-      {
-        "offset": 48,
-        "length": 25,
-        "type": "bold"
-      },
-      {
-        "offset": 107,
-        "length": 6,
-        "type": "bold"
-      },
-      {
-        "offset": 127,
-        "length": 3,
-        "type": "bold"
-      },
-      {
-        "offset": 244,
-        "length": 13,
-        "type": "bold"
-      },
-      {
-        "offset": 277,
-        "length": 18,
-        "type": "bold"
-      },
-      {
-        "offset": 306,
-        "length": 3,
-        "type": "bold"
-      },
-      {
-        "offset": 334,
-        "length": 16,
-        "type": "bold"
-      },
-      {
-        "offset": 364,
-        "length": 8,
-        "type": "bold"
-      },
-      {
-        "offset": 435,
-        "length": 14,
-        "type": "bold"
-      },
-      {
-        "offset": 466,
-        "length": 10,
-        "type": "bold"
-      },
-      {
-        "offset": 502,
-        "length": 18,
-        "type": "bold"
-      },
-      {
-        "offset": 526,
-        "length": 13,
-        "type": "bold"
-      },
-      {
-        "offset": 600,
-        "length": 21,
-        "type": "bold"
-      },
-      {
-        "offset": 638,
-        "length": 2,
-        "type": "bold"
-      },
-      {
-        "offset": 638,
-        "length": 2,
-        "type": "custom_emoji",
-        "custom_emoji_id": "5449841756596101801"
-      },
-      {
-        "offset": 640,
-        "length": 5,
-        "type": "mention"
-      },
-      {
-        "offset": 640,
-        "length": 5,
-        "type": "bold"
-      }
-    ],
-    "media_group_id": null,
-    "chat_id": -1004468214616,
-    "message_ids": [
-      1404
-    ],
-    "update_ids": [
-      378305296
-    ],
-    "retry_count": 0
-  },
-  {
-    "type": "photo",
-    "photo_file_ids": [
-      "AgACAgIAAyEFAAMBClOLWAACBX1q4wnfMmdHRabqdkCg_SPV-qp7PAACwiBrG98TCUu3pAq0mJtKegEAAwIAA3kAAz0E"
-    ],
-    "caption": "🤖 Claude Mythos 5 Attacked Real Developers\n\nDuring a test, it failed to break into a training network at the British Institute for AI Safety. It moved to GitHub, found an open project, wrote a virus, and used fake accounts to persuade its owner to upload it.\n\nAnother developer spotted the dangerous code. Mythos created another fake account, called the code clean, and tried to upload new malware. It was rejected.\n\nIn repeat runs, the model stopped in only 5% of cases. Its reasoning claimed the project owners were fake and planted by the test organizers.\n\n📊@tech",
-    "entities": [
-      {
-        "offset": 0,
-        "length": 2,
-        "type": "custom_emoji",
-        "custom_emoji_id": "5208665212483310136"
-      },
-      {
-        "offset": 3,
-        "length": 40,
-        "type": "bold"
-      },
-      {
-        "offset": 110,
-        "length": 31,
-        "type": "bold"
-      },
-      {
-        "offset": 155,
-        "length": 6,
-        "type": "bold"
-      },
-      {
-        "offset": 194,
-        "length": 5,
-        "type": "bold"
-      },
-      {
-        "offset": 210,
-        "length": 13,
-        "type": "bold"
-      },
-      {
-        "offset": 291,
-        "length": 14,
-        "type": "bold"
-      },
-      {
-        "offset": 322,
-        "length": 20,
-        "type": "bold"
-      },
-      {
-        "offset": 387,
-        "length": 11,
-        "type": "bold"
-      },
-      {
-        "offset": 460,
-        "length": 2,
-        "type": "bold"
-      },
-      {
-        "offset": 561,
-        "length": 2,
-        "type": "bold"
-      },
-      {
-        "offset": 561,
-        "length": 2,
-        "type": "custom_emoji",
-        "custom_emoji_id": "5449841756596101801"
-      },
-      {
-        "offset": 563,
-        "length": 5,
-        "type": "mention"
-      },
-      {
-        "offset": 563,
-        "length": 5,
-        "type": "bold"
-      }
-    ],
-    "media_group_id": null,
-    "chat_id": -1004468214616,
-    "message_ids": [
-      1405
-    ],
-    "update_ids": [
-      378305297
-    ],
-    "retry_count": 0
-  },
-  {
-    "type": "video",
-    "video_file_id": "BAACAgIAAyEFAAMBClOLWAACBX5q4wnfv7yKeAPGVA87J6X12anJyAACzaEAAjiMAUsZ2dC8HVPmlz0E",
-    "video_file_size": 3554111,
-    "caption": "👍 Human Operator Moves the Hand\n\nMIT's wearable Human Operator looks like dragon scales along the forearm. AI vision tracks the task and sends precisely timed electrical signals to the hand muscles, making the fingers move without the user deciding to move them.\n\nFor someone 1.5 years after a stroke, whose recovery has stalled, repetition is the point. The device could provide more training hours in a week than a clinic can provide in a month.\n\nIt does not download a skill. It guides movement rather than transferring ability, and it is still unknown whether this creates lasting motor memory.\n\n📊@tech",
-    "entities": [
-      {
-        "offset": 0,
-        "length": 2,
-        "type": "custom_emoji",
-        "custom_emoji_id": "6298471863437756136"
-      },
-      {
-        "offset": 3,
-        "length": 29,
-        "type": "bold"
-      },
-      {
-        "offset": 34,
-        "length": 3,
-        "type": "bold"
-      },
-      {
-        "offset": 49,
-        "length": 14,
-        "type": "bold"
-      },
-      {
-        "offset": 108,
-        "length": 25,
-        "type": "bold"
-      },
-      {
-        "offset": 144,
-        "length": 34,
-        "type": "bold"
-      },
-      {
-        "offset": 277,
-        "length": 24,
-        "type": "bold"
-      },
-      {
-        "offset": 381,
-        "length": 66,
-        "type": "bold"
-      },
-      {
-        "offset": 453,
-        "length": 25,
-        "type": "bold"
-      },
-      {
-        "offset": 578,
-        "length": 20,
-        "type": "bold"
-      },
-      {
-        "offset": 601,
-        "length": 2,
-        "type": "bold"
-      },
-      {
-        "offset": 601,
-        "length": 2,
-        "type": "custom_emoji",
-        "custom_emoji_id": "5449841756596101801"
-      },
-      {
-        "offset": 603,
-        "length": 5,
-        "type": "mention"
-      },
-      {
-        "offset": 603,
-        "length": 5,
-        "type": "bold"
-      }
-    ],
-    "media_group_id": null,
-    "chat_id": -1004468214616,
-    "message_ids": [
-      1406
-    ],
-    "update_ids": [
-      378305298
-    ],
-    "retry_count": 0
-  },
-  {
     "type": "photo",
     "photo_file_ids": [
       "AgACAgIAAyEFAAMBClOLWAACBX9q4w1Un8hb9wzw7pTfQUNs8D-VjwACtCJrGxdzEEs8Qm3HhvLJ8AEAAwIAA3kAAz0E"
@@ -755,6 +293,120 @@
     ],
     "update_ids": [
       378305304
+    ],
+    "retry_count": 0
+  },
+  {
+    "type": "photo",
+    "photo_file_ids": [
+      "AgACAgIAAyEFAAMBClOLWAACBYVq5FhUpeFobeFeeauUctJVxUHD6wACehxrG_4eGEtKnq6CDOMwMAEAAwIAA3cAAz0E"
+    ],
+    "caption": "❗️ US officials concluded a woman close to Jensen Huang was a Chinese asset\n\nAlice Huang, a Chinese citizen and top executive at Megaspeed, a Singapore data center company that buys Nvidia chips, was funneling information to Beijing, The New York Times reports. Surveillance showed she had built a close relationship with Nvidia's CEO.\n\nTrump was briefed roughly a year ago and chose not to act. Huang never got the warning Americans targeted by foreign spies sometimes receive, and the surveillance of her continues.\n\nMegaspeed's Malaysian sister company bought at least $4.8 billion of AI equipment with Nvidia chips between June 2024 and February 2026, per trade records. Investigators suspect some of those chips reached China illegally.\n\nNvidia calls the contact routine: \"Jensen talks with thousands of customer executives every year.\" Megaspeed says it has hired outside counsel to investigate.\n\n@aipost 🏴",
+    "entities": [
+      {
+        "offset": 0,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5289761612440310918"
+      },
+      {
+        "offset": 3,
+        "length": 72,
+        "type": "bold"
+      },
+      {
+        "offset": 234,
+        "length": 18,
+        "type": "text_link",
+        "url": "https://www.nytimes.com/2026/10/29/us/politics/nvidia-china-jensen-huang-trump.html"
+      },
+      {
+        "offset": 903,
+        "length": 7,
+        "type": "mention"
+      },
+      {
+        "offset": 911,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5431390559912614642"
+      }
+    ],
+    "media_group_id": null,
+    "chat_id": -1004468214616,
+    "message_ids": [
+      1413
+    ],
+    "update_ids": [
+      378305305
+    ],
+    "retry_count": 0
+  },
+  {
+    "type": "text",
+    "caption": "💻 Run Claude Code on Sonnet and bring in Opus only for the hard calls\n\nClaude Code has an advisor tool: your main model does the routine work and consults a stronger one at key moments. Claude decides when, usually before committing to a plan, when an error keeps coming back, or before calling a task done.\n\nThe setup, from Anthropic's docs:\n1. Launch with claude --model sonnet --advisor opus\n2. Or type /advisor opus mid-session. It's saved as your default, and /advisor off turns it off\n3. For file exploration on a cheaper model, define a subagent named Explore with model: haiku, or set CLAUDE_CODE_SUBAGENT_MODEL=haiku for subagents without their own model\n\nThe advisor is experimental and needs the Anthropic API, so it won't run on Bedrock or Google Cloud. Each consultation is billed at the advisor's rates, and on subscriptions it counts toward your usage limits.\n\n@aipost 🏴",
+    "entities": [
+      {
+        "offset": 0,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5366308323475880265"
+      },
+      {
+        "offset": 3,
+        "length": 67,
+        "type": "bold"
+      },
+      {
+        "offset": 326,
+        "length": 16,
+        "type": "text_link",
+        "url": "https://code.claude.com/docs/en/advisor"
+      },
+      {
+        "offset": 359,
+        "length": 36,
+        "type": "code"
+      },
+      {
+        "offset": 407,
+        "length": 13,
+        "type": "code"
+      },
+      {
+        "offset": 466,
+        "length": 12,
+        "type": "code"
+      },
+      {
+        "offset": 573,
+        "length": 12,
+        "type": "code"
+      },
+      {
+        "offset": 594,
+        "length": 32,
+        "type": "code"
+      },
+      {
+        "offset": 877,
+        "length": 7,
+        "type": "mention"
+      },
+      {
+        "offset": 885,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5431390559912614642"
+      }
+    ],
+    "media_group_id": null,
+    "chat_id": -1004468214616,
+    "message_ids": [
+      1415
+    ],
+    "update_ids": [
+      378305307
     ],
     "retry_count": 0
   }
