@@ -6933,5 +6933,44 @@
       378305272
     ],
     "retry_count": 0
+  },
+  {
+    "type": "video",
+    "video_file_id": "BAACAgIAAyEFAAMBClOLWAACBYBq46ku_eOcCi_Iu9XOcNE1pymJ5gAC_bkAAv4eEEtLlOcii7ylmj0E",
+    "video_file_size": 27022310,
+    "caption": "🗣 Mark Cuban: \"There will be the trillionaire in the basement\"\n\nOn an a16z podcast, Cuban says big companies struggle with AI until their bosses understand how it works. That leaves an opening: \"There's no better time to be an entrepreneur than right now.\"\n\nHe thinks AI still needs a person guiding it: \"AI is not smart. It's book smart maybe, but it's not street smart. It's not entrepreneur smart.\"\n\nHis demo for the head of a consumer food company: take their number one product, a cookie, and ask ChatGPT to create a competitor. \"And in about three minutes he was like, 'Oh, s**t.'\"\n\n@aipost 🏴",
+    "entities": [
+      {
+        "offset": 0,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5287468155738821335"
+      },
+      {
+        "offset": 3,
+        "length": 60,
+        "type": "bold"
+      },
+      {
+        "offset": 590,
+        "length": 7,
+        "type": "mention"
+      },
+      {
+        "offset": 598,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5431390559912614642"
+      }
+    ],
+    "media_group_id": null,
+    "chat_id": -1004468214616,
+    "message_ids": [
+      1408
+    ],
+    "update_ids": [
+      378305300
+    ],
+    "retry_count": 0
   }
 ]

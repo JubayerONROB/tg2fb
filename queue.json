@@ -2,257 +2,6 @@
   {
     "type": "photo",
     "photo_file_ids": [
-      "AgACAgIAAyEFAAMBClOLWAACBX9q4w1Un8hb9wzw7pTfQUNs8D-VjwACtCJrGxdzEEs8Qm3HhvLJ8AEAAwIAA3kAAz0E"
-    ],
-    "caption": "🤖 Gemini 4 Carbon Tops AI Ranking\n\nArtificial Analysis put it ahead of GPT-6 Astra and Claude Opus 5.5 in the overall ranking.\n\nCarbon performs better on huge texts, math problems, and office tasks. Its biggest lead is in cybersecurity. It hallucinates facts half as often and cheats far less on tests.\n\nAccess is currently limited to cybersecurity professionals. Everyone else is promised access as soon as possible.\n\n📊@tech",
-    "entities": [
-      {
-        "offset": 0,
-        "length": 2,
-        "type": "custom_emoji",
-        "custom_emoji_id": "5206660927339924387"
-      },
-      {
-        "offset": 3,
-        "length": 31,
-        "type": "bold"
-      },
-      {
-        "offset": 72,
-        "length": 11,
-        "type": "bold"
-      },
-      {
-        "offset": 88,
-        "length": 15,
-        "type": "bold"
-      },
-      {
-        "offset": 223,
-        "length": 13,
-        "type": "bold"
-      },
-      {
-        "offset": 260,
-        "length": 13,
-        "type": "bold"
-      },
-      {
-        "offset": 336,
-        "length": 27,
-        "type": "bold"
-      },
-      {
-        "offset": 420,
-        "length": 2,
-        "type": "bold"
-      },
-      {
-        "offset": 420,
-        "length": 2,
-        "type": "custom_emoji",
-        "custom_emoji_id": "5449841756596101801"
-      },
-      {
-        "offset": 422,
-        "length": 5,
-        "type": "mention"
-      },
-      {
-        "offset": 422,
-        "length": 5,
-        "type": "bold"
-      }
-    ],
-    "media_group_id": null,
-    "chat_id": -1004468214616,
-    "message_ids": [
-      1407
-    ],
-    "update_ids": [
-      378305299
-    ],
-    "retry_count": 0
-  },
-  {
-    "type": "video",
-    "video_file_id": "BAACAgIAAyEFAAMBClOLWAACBYBq46ku_eOcCi_Iu9XOcNE1pymJ5gAC_bkAAv4eEEtLlOcii7ylmj0E",
-    "video_file_size": 27022310,
-    "caption": "🗣 Mark Cuban: \"There will be the trillionaire in the basement\"\n\nOn an a16z podcast, Cuban says big companies struggle with AI until their bosses understand how it works. That leaves an opening: \"There's no better time to be an entrepreneur than right now.\"\n\nHe thinks AI still needs a person guiding it: \"AI is not smart. It's book smart maybe, but it's not street smart. It's not entrepreneur smart.\"\n\nHis demo for the head of a consumer food company: take their number one product, a cookie, and ask ChatGPT to create a competitor. \"And in about three minutes he was like, 'Oh, s**t.'\"\n\n@aipost 🏴",
-    "entities": [
-      {
-        "offset": 0,
-        "length": 2,
-        "type": "custom_emoji",
-        "custom_emoji_id": "5287468155738821335"
-      },
-      {
-        "offset": 3,
-        "length": 60,
-        "type": "bold"
-      },
-      {
-        "offset": 590,
-        "length": 7,
-        "type": "mention"
-      },
-      {
-        "offset": 598,
-        "length": 2,
-        "type": "custom_emoji",
-        "custom_emoji_id": "5431390559912614642"
-      }
-    ],
-    "media_group_id": null,
-    "chat_id": -1004468214616,
-    "message_ids": [
-      1408
-    ],
-    "update_ids": [
-      378305300
-    ],
-    "retry_count": 0
-  },
-  {
-    "type": "photo",
-    "photo_file_ids": [
-      "AgACAgIAAyEFAAMBClOLWAACBYFq46ku_sjyqBWVyyIF53AN3vjHkQACVyFrG_4eEEuonUJdI3yJPgEAAwIAA3kAAz0E"
-    ],
-    "caption": "💳 Someone put a $59.7 million AI supercomputer on eBay. Free shipping\n\nIT hardware seller Core 4 Solutions listed a decommissioned cluster of 300 server racks with 9,600 Nvidia A100 chips and 4,200 AMD processors. Price: $59,700,000, \"or Best Offer.\" FedEx Ground shipping costs nothing.\n\nThat's about 1.4 petabytes of memory. The A100 is a 2020 chip, but Tom's Hardware calls it a real budget option: a single new Nvidia rack costs up to $6.5 million (Blackwell) or $7.8 million (Vera Rubin), with long waitlists.\n\nIts rough math for the chips and memory alone comes to about $28 million.\n\n@aipost 🏴",
-    "entities": [
-      {
-        "offset": 0,
-        "length": 2,
-        "type": "custom_emoji",
-        "custom_emoji_id": "5859411701958446805"
-      },
-      {
-        "offset": 3,
-        "length": 67,
-        "type": "bold"
-      },
-      {
-        "offset": 108,
-        "length": 6,
-        "type": "text_link",
-        "url": "https://www.ebay.ca/itm/880041409723"
-      },
-      {
-        "offset": 357,
-        "length": 14,
-        "type": "text_link",
-        "url": "https://www.tomshardware.com/desktops/servers/it-vendor-lists-massive-usd60-million-ai-cluster-on-ebay-300x-racks-of-decommissioned-gpus-includes-9-600-nvidia-a100-gpus-and-4-200-amd-epyc-cpus-plus-free-shipping"
-      },
-      {
-        "offset": 592,
-        "length": 7,
-        "type": "mention"
-      },
-      {
-        "offset": 600,
-        "length": 2,
-        "type": "custom_emoji",
-        "custom_emoji_id": "5431390559912614642"
-      }
-    ],
-    "media_group_id": null,
-    "chat_id": -1004468214616,
-    "message_ids": [
-      1409
-    ],
-    "update_ids": [
-      378305301
-    ],
-    "retry_count": 0
-  },
-  {
-    "type": "photo",
-    "photo_file_ids": [
-      "AgACAgIAAyEFAAMBClOLWAACBYJq46kut4RRNyfe2GiQBjpuUb5vzQACAyNrG_4eEEsOsANwNQrsAQEAAwIAA3kAAz0E"
-    ],
-    "caption": "Ask Google's AI Mode who won the 2020 election and it may not say\n\nInstead of naming Joe Biden, Google's AI search mode told users to check the Federal Election Commission's official results. Asked about 2016, it answered right away: Donald Trump.\n\nGoogle's standalone Gemini app, ChatGPT and Claude all named the 2020 winner in tests by Ars Technica. AI Mode often gave the answer when asked a second time, and answered straight away when Ars checked from other countries via VPN.\n\nGoogle says it's fixing it: \"Our systems verify election responses using news articles or AP data for recent elections, and historic records for older ones. There was a technical gap with 2020 – same is true for 2022 Senate races.\"\n\nThe US midterms are on Nov. 3.\n\n@aipost 🏴",
-    "entities": [
-      {
-        "offset": 0,
-        "length": 65,
-        "type": "bold"
-      },
-      {
-        "offset": 338,
-        "length": 12,
-        "type": "text_link",
-        "url": "https://arstechnica.com/ai/2026/10/google-ai-gets-cagey-when-asked-who-won-the-2020-elections/"
-      },
-      {
-        "offset": 748,
-        "length": 7,
-        "type": "mention"
-      },
-      {
-        "offset": 756,
-        "length": 2,
-        "type": "custom_emoji",
-        "custom_emoji_id": "5431390559912614642"
-      }
-    ],
-    "media_group_id": null,
-    "chat_id": -1004468214616,
-    "message_ids": [
-      1410
-    ],
-    "update_ids": [
-      378305302
-    ],
-    "retry_count": 0
-  },
-  {
-    "type": "video",
-    "video_file_id": "BAACAgIAAyEFAAMBClOLWAACBYNq46kuIiFo56EoLPRCGK1jrL3I0gACXrwAAv4eEEsNVqA-6_UxsD0E",
-    "video_file_size": 2538607,
-    "caption": "😎 Google's first Android XR glasses are on sale for $1,099\n\nXREAL AURA weighs under 95 grams and puts virtual screens in front of your eyes, while the clear lenses let you see the room around you. The heavy work happens in a compute puck on a cable, which also holds the battery.\n\nGemini is built in and understands what you're looking at, on your screens and in the real world. Google Play apps run on it, and you can plug a computer or a handheld game console into the puck to mirror it.\n\nOrders opened Wednesday in the US, Canada and Korea, with Japan from Nov. 2 and shipping from mid-November. The $1,099 price for the 12GB/256GB model is a launch deal through December, down from $1,279, Google and XREAL say.\n\n@aipost 🏴",
-    "entities": [
-      {
-        "offset": 0,
-        "length": 2,
-        "type": "custom_emoji",
-        "custom_emoji_id": "5289834369186299969"
-      },
-      {
-        "offset": 3,
-        "length": 56,
-        "type": "bold"
-      },
-      {
-        "offset": 695,
-        "length": 6,
-        "type": "text_link",
-        "url": "https://blog.google/products-and-platforms/platforms/android/xreal-aura/"
-      },
-      {
-        "offset": 718,
-        "length": 7,
-        "type": "mention"
-      },
-      {
-        "offset": 726,
-        "length": 2,
-        "type": "custom_emoji",
-        "custom_emoji_id": "5431390559912614642"
-      }
-    ],
-    "media_group_id": null,
-    "chat_id": -1004468214616,
-    "message_ids": [
-      1411
-    ],
-    "update_ids": [
-      378305303
-    ],
-    "retry_count": 0
-  },
-  {
-    "type": "photo",
-    "photo_file_ids": [
       "AgACAgIAAyEFAAMBClOLWAACBYRq46kufEfUnDRN1qu3D3mdosDG2gACcBprG_4eGEuL8GWCwv4TogEAAwIAA3kAAz0E"
     ],
     "caption": "🤨 DeepSeek and Kimi reportedly trained on answers from OpenAI's top AI\n\nBoth Chinese labs leaned heavily on outputs from GPT-6 Astra to build their newest models, The Information reported Wednesday, citing people with direct knowledge. The trick is called distillation: a lab feeds a stronger model's answers to its own, so it learns the skills far more cheaply.\n\nThe models named are Moonshot's Kimi K3.1 Pro, released last week, and DeepSeek's V4.1-Flash 1017, out since October 17. OpenAI, DeepSeek and Moonshot didn't respond to Reuters' requests for comment.\n\nClaude got harder to copy this month. Anthropic said new limits, account bans and blocks cut the data distillers harvest from it by about 90% to 99%. OpenAI said on September 30 it had tied a distillation campaign that began in July to people linked to Moonshot.\n\n@aipost 🏴",
@@ -407,6 +156,144 @@
     ],
     "update_ids": [
       378305307
+    ],
+    "retry_count": 0
+  },
+  {
+    "type": "photo",
+    "photo_file_ids": [
+      "AgACAgIAAyEFAAMBClOLWAACBYhq5GUDd3zwH3SdhLOHMKRwikh7ggACjh1rG_4eGEs4CJzx1PsJLAEAAwIAA3kAAz0E"
+    ],
+    "caption": "💰 A 10-person startup spends 30x its payroll on AI agents that take Sundays off\n\nSpawn, which builds a multiplayer game creation platform, spent $3.1 million on AI tokens last month. Its founder says that makes it one of Anthropic's biggest customers.\n\nThe work is done by \"the fleet\": permanent agents that each own a part of the company, from the game engine to finance to bug triage. They have names, memories and real access to company systems. In 30 days they shipped 77,000 substantial changes, about 108 an hour around the clock.\n\nAgents don't open pull requests. The full test suite runs every 15 minutes, and an agent fixes whatever breaks. Over the past year, 1,055 of 123,548 changes had to be reverted, about 0.9%.\n\nOnly Anthropic's models can do the job, the founder writes. When he asked OpenAI's GPT Astra to secure the product, it turned off every feature. He couldn't sign up, create a game or play one.\n\n@aipost 🏴",
+    "entities": [
+      {
+        "offset": 0,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5289964193162759223"
+      },
+      {
+        "offset": 3,
+        "length": 77,
+        "type": "bold"
+      },
+      {
+        "offset": 923,
+        "length": 7,
+        "type": "mention"
+      },
+      {
+        "offset": 931,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5431390559912614642"
+      }
+    ],
+    "media_group_id": null,
+    "chat_id": -1004468214616,
+    "message_ids": [
+      1416
+    ],
+    "update_ids": [
+      378305308
+    ],
+    "retry_count": 0
+  },
+  {
+    "type": "photo",
+    "photo_file_ids": [
+      "AgACAgIAAyEFAAMBClOLWAACBYlq5J94WyUQho9TCLOySydgXQhuPwACjx1rG_4eGEtzFuzG1CQEZQEAAwIAA3kAAz0E"
+    ],
+    "caption": "⚠️ Hacks are piling up so fast that cyber rescue teams are turning work away\n\nDemand for the emergency teams companies call after a breach is at an all-time high, The Wall Street Journal reports. Insiders call this month \"Black October,\" and many blame AI.\n\nSophos security chief Ross McKerchar wrote that his own team handled seven incidents in seven days, from the PHP2Shell flaw to a GitLab bug. \"A year ago, that would have been a quarter's worth.\"\n\nFormer NSA cybersecurity director Rob Joyce was blunter: \"IR firms are saturated & turning away work.\"\n\nThe month was capped by two PHP flaws hitting more than two-thirds of the world's websites. Researchers used advanced AI models to find them, CNBC reports.\n\n@aipost 🏴",
+    "entities": [
+      {
+        "offset": 0,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5366332658760580843"
+      },
+      {
+        "offset": 3,
+        "length": 73,
+        "type": "bold"
+      },
+      {
+        "offset": 163,
+        "length": 23,
+        "type": "text_link",
+        "url": "https://www.wsj.com/pro/cybersecurity/cyber-responders-strained-by-black-october-e259ea25"
+      },
+      {
+        "offset": 295,
+        "length": 5,
+        "type": "text_link",
+        "url": "https://www.sophos.com/en-us/blog/the-breachpocalypse-is-here"
+      },
+      {
+        "offset": 715,
+        "length": 7,
+        "type": "mention"
+      },
+      {
+        "offset": 723,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5431390559912614642"
+      }
+    ],
+    "media_group_id": null,
+    "chat_id": -1004468214616,
+    "message_ids": [
+      1417
+    ],
+    "update_ids": [
+      378305309
+    ],
+    "retry_count": 0
+  },
+  {
+    "type": "photo",
+    "photo_file_ids": [
+      "AgACAgIAAyEFAAMBClOLWAACBYpq5J94fmHLNsRsk6Iij92YOxmVawACkB1rG_4eGEvhitu4DxnYwgEAAwIAA3kAAz0E"
+    ],
+    "caption": "📰 Democrats want Trump's Grok chats saved after reports he asked it about Venezuela\n\nJamie Raskin and Robert Garcia, the top Democrats on the House Judiciary and Oversight committees, sent Trump a letter asking him to preserve \"any prompts\" he gave AI chatbots such as Grok, ChatGPT and Claude for official duties, plus the answers, Politico reports.\n\nThe trigger is a Time report. In December 2025, about a month before the US captured Nicolás Maduro, Trump spent hours talking to Musk's Grok, a source told Time, including asking how Venezuelans would react to Maduro's capture. Grok said many would likely celebrate.\n\n\"You consulted Grok—but not Congress,\" the letter says. The two want a briefing by 5 p.m. on November 11, and could chair those committees if Democrats win the House next week.\n\nA White House official said it \"preserves all required records in accordance with the law.\"\n\n@aipost 🏴",
+    "entities": [
+      {
+        "offset": 0,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5363988332466438547"
+      },
+      {
+        "offset": 3,
+        "length": 81,
+        "type": "bold"
+      },
+      {
+        "offset": 334,
+        "length": 8,
+        "type": "text_link",
+        "url": "https://www.politico.com/news/2026/10/29/trump-democrats-grok-oversight-01140089"
+      },
+      {
+        "offset": 893,
+        "length": 7,
+        "type": "mention"
+      },
+      {
+        "offset": 901,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5431390559912614642"
+      }
+    ],
+    "media_group_id": null,
+    "chat_id": -1004468214616,
+    "message_ids": [
+      1418
+    ],
+    "update_ids": [
+      378305310
     ],
     "retry_count": 0
   }
