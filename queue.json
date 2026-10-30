@@ -2,258 +2,6 @@
   {
     "type": "photo",
     "photo_file_ids": [
-      "AgACAgIAAyEFAAMBClOLWAACBYRq46kufEfUnDRN1qu3D3mdosDG2gACcBprG_4eGEuL8GWCwv4TogEAAwIAA3kAAz0E"
-    ],
-    "caption": "🤨 DeepSeek and Kimi reportedly trained on answers from OpenAI's top AI\n\nBoth Chinese labs leaned heavily on outputs from GPT-6 Astra to build their newest models, The Information reported Wednesday, citing people with direct knowledge. The trick is called distillation: a lab feeds a stronger model's answers to its own, so it learns the skills far more cheaply.\n\nThe models named are Moonshot's Kimi K3.1 Pro, released last week, and DeepSeek's V4.1-Flash 1017, out since October 17. OpenAI, DeepSeek and Moonshot didn't respond to Reuters' requests for comment.\n\nClaude got harder to copy this month. Anthropic said new limits, account bans and blocks cut the data distillers harvest from it by about 90% to 99%. OpenAI said on September 30 it had tied a distillation campaign that began in July to people linked to Moonshot.\n\n@aipost 🏴",
-    "entities": [
-      {
-        "offset": 0,
-        "length": 2,
-        "type": "custom_emoji",
-        "custom_emoji_id": "5843611058442342544"
-      },
-      {
-        "offset": 3,
-        "length": 68,
-        "type": "bold"
-      },
-      {
-        "offset": 164,
-        "length": 24,
-        "type": "text_link",
-        "url": "https://www.theinformation.com/articles/openais-astra-model-becomes-top-distillation-target-chinas-ai-labs"
-      },
-      {
-        "offset": 830,
-        "length": 7,
-        "type": "mention"
-      },
-      {
-        "offset": 838,
-        "length": 2,
-        "type": "custom_emoji",
-        "custom_emoji_id": "5431390559912614642"
-      }
-    ],
-    "media_group_id": null,
-    "chat_id": -1004468214616,
-    "message_ids": [
-      1412
-    ],
-    "update_ids": [
-      378305304
-    ],
-    "retry_count": 0
-  },
-  {
-    "type": "photo",
-    "photo_file_ids": [
-      "AgACAgIAAyEFAAMBClOLWAACBYVq5FhUpeFobeFeeauUctJVxUHD6wACehxrG_4eGEtKnq6CDOMwMAEAAwIAA3cAAz0E"
-    ],
-    "caption": "❗️ US officials concluded a woman close to Jensen Huang was a Chinese asset\n\nAlice Huang, a Chinese citizen and top executive at Megaspeed, a Singapore data center company that buys Nvidia chips, was funneling information to Beijing, The New York Times reports. Surveillance showed she had built a close relationship with Nvidia's CEO.\n\nTrump was briefed roughly a year ago and chose not to act. Huang never got the warning Americans targeted by foreign spies sometimes receive, and the surveillance of her continues.\n\nMegaspeed's Malaysian sister company bought at least $4.8 billion of AI equipment with Nvidia chips between June 2024 and February 2026, per trade records. Investigators suspect some of those chips reached China illegally.\n\nNvidia calls the contact routine: \"Jensen talks with thousands of customer executives every year.\" Megaspeed says it has hired outside counsel to investigate.\n\n@aipost 🏴",
-    "entities": [
-      {
-        "offset": 0,
-        "length": 2,
-        "type": "custom_emoji",
-        "custom_emoji_id": "5289761612440310918"
-      },
-      {
-        "offset": 3,
-        "length": 72,
-        "type": "bold"
-      },
-      {
-        "offset": 234,
-        "length": 18,
-        "type": "text_link",
-        "url": "https://www.nytimes.com/2026/10/29/us/politics/nvidia-china-jensen-huang-trump.html"
-      },
-      {
-        "offset": 903,
-        "length": 7,
-        "type": "mention"
-      },
-      {
-        "offset": 911,
-        "length": 2,
-        "type": "custom_emoji",
-        "custom_emoji_id": "5431390559912614642"
-      }
-    ],
-    "media_group_id": null,
-    "chat_id": -1004468214616,
-    "message_ids": [
-      1413
-    ],
-    "update_ids": [
-      378305305
-    ],
-    "retry_count": 0
-  },
-  {
-    "type": "text",
-    "caption": "💻 Run Claude Code on Sonnet and bring in Opus only for the hard calls\n\nClaude Code has an advisor tool: your main model does the routine work and consults a stronger one at key moments. Claude decides when, usually before committing to a plan, when an error keeps coming back, or before calling a task done.\n\nThe setup, from Anthropic's docs:\n1. Launch with claude --model sonnet --advisor opus\n2. Or type /advisor opus mid-session. It's saved as your default, and /advisor off turns it off\n3. For file exploration on a cheaper model, define a subagent named Explore with model: haiku, or set CLAUDE_CODE_SUBAGENT_MODEL=haiku for subagents without their own model\n\nThe advisor is experimental and needs the Anthropic API, so it won't run on Bedrock or Google Cloud. Each consultation is billed at the advisor's rates, and on subscriptions it counts toward your usage limits.\n\n@aipost 🏴",
-    "entities": [
-      {
-        "offset": 0,
-        "length": 2,
-        "type": "custom_emoji",
-        "custom_emoji_id": "5366308323475880265"
-      },
-      {
-        "offset": 3,
-        "length": 67,
-        "type": "bold"
-      },
-      {
-        "offset": 326,
-        "length": 16,
-        "type": "text_link",
-        "url": "https://code.claude.com/docs/en/advisor"
-      },
-      {
-        "offset": 359,
-        "length": 36,
-        "type": "code"
-      },
-      {
-        "offset": 407,
-        "length": 13,
-        "type": "code"
-      },
-      {
-        "offset": 466,
-        "length": 12,
-        "type": "code"
-      },
-      {
-        "offset": 573,
-        "length": 12,
-        "type": "code"
-      },
-      {
-        "offset": 594,
-        "length": 32,
-        "type": "code"
-      },
-      {
-        "offset": 877,
-        "length": 7,
-        "type": "mention"
-      },
-      {
-        "offset": 885,
-        "length": 2,
-        "type": "custom_emoji",
-        "custom_emoji_id": "5431390559912614642"
-      }
-    ],
-    "media_group_id": null,
-    "chat_id": -1004468214616,
-    "message_ids": [
-      1415
-    ],
-    "update_ids": [
-      378305307
-    ],
-    "retry_count": 0
-  },
-  {
-    "type": "photo",
-    "photo_file_ids": [
-      "AgACAgIAAyEFAAMBClOLWAACBYhq5GUDd3zwH3SdhLOHMKRwikh7ggACjh1rG_4eGEs4CJzx1PsJLAEAAwIAA3kAAz0E"
-    ],
-    "caption": "💰 A 10-person startup spends 30x its payroll on AI agents that take Sundays off\n\nSpawn, which builds a multiplayer game creation platform, spent $3.1 million on AI tokens last month. Its founder says that makes it one of Anthropic's biggest customers.\n\nThe work is done by \"the fleet\": permanent agents that each own a part of the company, from the game engine to finance to bug triage. They have names, memories and real access to company systems. In 30 days they shipped 77,000 substantial changes, about 108 an hour around the clock.\n\nAgents don't open pull requests. The full test suite runs every 15 minutes, and an agent fixes whatever breaks. Over the past year, 1,055 of 123,548 changes had to be reverted, about 0.9%.\n\nOnly Anthropic's models can do the job, the founder writes. When he asked OpenAI's GPT Astra to secure the product, it turned off every feature. He couldn't sign up, create a game or play one.\n\n@aipost 🏴",
-    "entities": [
-      {
-        "offset": 0,
-        "length": 2,
-        "type": "custom_emoji",
-        "custom_emoji_id": "5289964193162759223"
-      },
-      {
-        "offset": 3,
-        "length": 77,
-        "type": "bold"
-      },
-      {
-        "offset": 923,
-        "length": 7,
-        "type": "mention"
-      },
-      {
-        "offset": 931,
-        "length": 2,
-        "type": "custom_emoji",
-        "custom_emoji_id": "5431390559912614642"
-      }
-    ],
-    "media_group_id": null,
-    "chat_id": -1004468214616,
-    "message_ids": [
-      1416
-    ],
-    "update_ids": [
-      378305308
-    ],
-    "retry_count": 0
-  },
-  {
-    "type": "photo",
-    "photo_file_ids": [
-      "AgACAgIAAyEFAAMBClOLWAACBYlq5J94WyUQho9TCLOySydgXQhuPwACjx1rG_4eGEtzFuzG1CQEZQEAAwIAA3kAAz0E"
-    ],
-    "caption": "⚠️ Hacks are piling up so fast that cyber rescue teams are turning work away\n\nDemand for the emergency teams companies call after a breach is at an all-time high, The Wall Street Journal reports. Insiders call this month \"Black October,\" and many blame AI.\n\nSophos security chief Ross McKerchar wrote that his own team handled seven incidents in seven days, from the PHP2Shell flaw to a GitLab bug. \"A year ago, that would have been a quarter's worth.\"\n\nFormer NSA cybersecurity director Rob Joyce was blunter: \"IR firms are saturated & turning away work.\"\n\nThe month was capped by two PHP flaws hitting more than two-thirds of the world's websites. Researchers used advanced AI models to find them, CNBC reports.\n\n@aipost 🏴",
-    "entities": [
-      {
-        "offset": 0,
-        "length": 2,
-        "type": "custom_emoji",
-        "custom_emoji_id": "5366332658760580843"
-      },
-      {
-        "offset": 3,
-        "length": 73,
-        "type": "bold"
-      },
-      {
-        "offset": 163,
-        "length": 23,
-        "type": "text_link",
-        "url": "https://www.wsj.com/pro/cybersecurity/cyber-responders-strained-by-black-october-e259ea25"
-      },
-      {
-        "offset": 295,
-        "length": 5,
-        "type": "text_link",
-        "url": "https://www.sophos.com/en-us/blog/the-breachpocalypse-is-here"
-      },
-      {
-        "offset": 715,
-        "length": 7,
-        "type": "mention"
-      },
-      {
-        "offset": 723,
-        "length": 2,
-        "type": "custom_emoji",
-        "custom_emoji_id": "5431390559912614642"
-      }
-    ],
-    "media_group_id": null,
-    "chat_id": -1004468214616,
-    "message_ids": [
-      1417
-    ],
-    "update_ids": [
-      378305309
-    ],
-    "retry_count": 0
-  },
-  {
-    "type": "photo",
-    "photo_file_ids": [
       "AgACAgIAAyEFAAMBClOLWAACBYpq5J94fmHLNsRsk6Iij92YOxmVawACkB1rG_4eGEvhitu4DxnYwgEAAwIAA3kAAz0E"
     ],
     "caption": "📰 Democrats want Trump's Grok chats saved after reports he asked it about Venezuela\n\nJamie Raskin and Robert Garcia, the top Democrats on the House Judiciary and Oversight committees, sent Trump a letter asking him to preserve \"any prompts\" he gave AI chatbots such as Grok, ChatGPT and Claude for official duties, plus the answers, Politico reports.\n\nThe trigger is a Time report. In December 2025, about a month before the US captured Nicolás Maduro, Trump spent hours talking to Musk's Grok, a source told Time, including asking how Venezuelans would react to Maduro's capture. Grok said many would likely celebrate.\n\n\"You consulted Grok—but not Congress,\" the letter says. The two want a briefing by 5 p.m. on November 11, and could chair those committees if Democrats win the House next week.\n\nA White House official said it \"preserves all required records in accordance with the law.\"\n\n@aipost 🏴",
@@ -294,6 +42,52 @@
     ],
     "update_ids": [
       378305310
+    ],
+    "retry_count": 0
+  },
+  {
+    "type": "photo",
+    "photo_file_ids": [
+      "AgACAgIAAyEFAAMBClOLWAACBYtq5NYcB5p1Y7uS8njzpM-HHtnsaAACnRxrG_4eIEuVbggJvUexSgEAAwIAA3kAAz0E"
+    ],
+    "caption": "📉 Google just lost $500 billion in a day, and its own AI is part of why\n\nAlphabet stock fell about 13% on Thursday, its worst day since Google went public in 2004. Roughly $500 billion in market value vanished, the second-biggest one-day wipeout in US history after Nvidia's $589 billion drop in January 2025.\n\nSearches grew at their fastest pace in five years. Search revenue still missed forecasts, growing 12%, down from 19% in the first quarter. A Google executive told investors part of the reason is AI Mode, Google's chatbot-style search, which shows fewer ads.\n\nMeanwhile AI spending hit $51.4 billion in the quarter and free cash flow went to minus $9.1 billion, three times worse than analysts expected. Google says spending will \"increase significantly\" again in 2027.\n\nCloud, the part that sells AI to companies, more than doubled to nearly $31 billion, per CNBC.\n\n@aipost 🏴",
+    "entities": [
+      {
+        "offset": 0,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5361748661640372834"
+      },
+      {
+        "offset": 3,
+        "length": 69,
+        "type": "bold"
+      },
+      {
+        "offset": 871,
+        "length": 4,
+        "type": "text_link",
+        "url": "https://www.cnbc.com/2026/10/29/alphabet-google-search-ai-earnings.html"
+      },
+      {
+        "offset": 878,
+        "length": 7,
+        "type": "mention"
+      },
+      {
+        "offset": 886,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5431390559912614642"
+      }
+    ],
+    "media_group_id": null,
+    "chat_id": -1004468214616,
+    "message_ids": [
+      1419
+    ],
+    "update_ids": [
+      378305311
     ],
     "retry_count": 0
   }
