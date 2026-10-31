@@ -1,1 +1,186 @@
-[]
+[
+  {
+    "type": "photo",
+    "photo_file_ids": [
+      "AgACAgIAAyEFAAMBClOLWAACBZRq5iTzhR_NSC-zy9V93MVYqmAotwACeh1rG97EKEugUvcjqfBG0QEAAwIAA3kAAz0E"
+    ],
+    "caption": "🧠 Claude Model Operates on Mouse Brain\n\nSonnet 5 selected an antiepileptic drug from 19 gene therapies. Using an Arduino-based surgical rig and cameras, it calculated the injection point and delivered the dose.\n\nA human surgeon handled part of the procedure. A veterinarian watched the emergency-stop button, and the mouse recovered.\n\n📊@tech",
+    "entities": [
+      {
+        "offset": 0,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5447595110743168717"
+      },
+      {
+        "offset": 3,
+        "length": 36,
+        "type": "bold"
+      },
+      {
+        "offset": 41,
+        "length": 8,
+        "type": "bold"
+      },
+      {
+        "offset": 62,
+        "length": 18,
+        "type": "bold"
+      },
+      {
+        "offset": 86,
+        "length": 17,
+        "type": "bold"
+      },
+      {
+        "offset": 114,
+        "length": 26,
+        "type": "bold"
+      },
+      {
+        "offset": 215,
+        "length": 13,
+        "type": "bold"
+      },
+      {
+        "offset": 287,
+        "length": 21,
+        "type": "bold"
+      },
+      {
+        "offset": 318,
+        "length": 15,
+        "type": "bold"
+      },
+      {
+        "offset": 336,
+        "length": 2,
+        "type": "bold"
+      },
+      {
+        "offset": 336,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5449841756596101801"
+      },
+      {
+        "offset": 338,
+        "length": 5,
+        "type": "mention"
+      },
+      {
+        "offset": 338,
+        "length": 5,
+        "type": "bold"
+      }
+    ],
+    "media_group_id": null,
+    "chat_id": -1004468214616,
+    "message_ids": [
+      1428
+    ],
+    "update_ids": [
+      378305320
+    ],
+    "retry_count": 0
+  },
+  {
+    "type": "photo",
+    "photo_file_ids": [
+      "AgACAgIAAyEFAAMBClOLWAACBZVq5iTzUuSuQHEoqt9SmHi98TMvbQACrhtrG-PBIEvVDlzpuu1KRgEAAwIAA3cAAz0E"
+    ],
+    "caption": "⚠️ Anthropic Blocks Game Cloning\n\nA new server-delivered system rule tells Claude Code to create original games, not remakes or copies, even under a different name.\n\nThe setting appeared a few days ago and cannot be disabled or bypassed. Vibe coders have our sympathy.\n\n📊@tech",
+    "entities": [
+      {
+        "offset": 0,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5395358455768837479"
+      },
+      {
+        "offset": 3,
+        "length": 29,
+        "type": "bold"
+      },
+      {
+        "offset": 40,
+        "length": 28,
+        "type": "bold"
+      },
+      {
+        "offset": 187,
+        "length": 14,
+        "type": "bold"
+      },
+      {
+        "offset": 270,
+        "length": 2,
+        "type": "bold"
+      },
+      {
+        "offset": 270,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5449841756596101801"
+      },
+      {
+        "offset": 272,
+        "length": 5,
+        "type": "mention"
+      },
+      {
+        "offset": 272,
+        "length": 5,
+        "type": "bold"
+      }
+    ],
+    "media_group_id": null,
+    "chat_id": -1004468214616,
+    "message_ids": [
+      1429
+    ],
+    "update_ids": [
+      378305321
+    ],
+    "retry_count": 0
+  },
+  {
+    "type": "photo",
+    "photo_file_ids": [
+      "AgACAgIAAyEFAAMBClOLWAACBZZq5iUBeZOrRshig2UzLDLExcqaAgACZx5rG-QtAAFLedI0MV-GJTABAAMCAAN5AAM9BA"
+    ],
+    "caption": "📊@tech",
+    "entities": [
+      {
+        "offset": 0,
+        "length": 2,
+        "type": "bold"
+      },
+      {
+        "offset": 0,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5449841756596101801"
+      },
+      {
+        "offset": 2,
+        "length": 5,
+        "type": "mention"
+      },
+      {
+        "offset": 2,
+        "length": 5,
+        "type": "bold"
+      }
+    ],
+    "media_group_id": null,
+    "chat_id": -1004468214616,
+    "message_ids": [
+      1430
+    ],
+    "update_ids": [
+      378305322
+    ],
+    "retry_count": 0
+  }
+]
