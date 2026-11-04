@@ -26,7 +26,9 @@ import shutil
 import subprocess
 import sys
 import time
+import unicodedata
 
+import numpy as np
 import requests
 from deep_translator import GoogleTranslator
 from PIL import Image
@@ -53,6 +55,20 @@ DRY_RUN_VIDEO = "dry_run_output.mp4"
 
 LOGO_SCALE = 0.15  # logo width as a fraction of the base image/video width
 LOGO_MARGIN = 15   # px margin from the bottom-right corner
+
+# AI Post banner removal. Banners are recognised by matching these two marks,
+# so images without them (and images from other channels) are left untouched.
+# All pixel measurements below are at BANNER_REF_SIZE and at template scale 1.
+BANNER_HEADER_TEMPLATE = "aipost_header.png"   # "AI POST" mark, top-left
+BANNER_FOOTER_TEMPLATE = "aipost_footer.png"   # "@aipost" mark, bottom-left
+BANNER_REF_SIZE = 800          # images are matched with their long edge at this
+BANNER_MATCH_SCORE = 0.7       # minimum correlation to accept a mark
+BANNER_SCALES = [0.75 + 0.05 * i for i in range(14)]   # 0.75x .. 1.40x
+BANNER_NEAR_BLACK = 18         # brightest value still counted as background
+BANNER_HEADER_GAP = 10         # usual distance: bottom of header -> content
+BANNER_FOOTER_GAP = 12         # usual distance: content -> top of footer
+BANNER_SCAN = 14               # how far past the mark to look for content
+BANNER_MIN_KEEP = 0.4          # never keep less than this share of the height
 
 REQUEST_TIMEOUT = 60        # seconds for normal API calls
 VIDEO_UPLOAD_TIMEOUT = 300  # seconds for the (slower) video upload
@@ -523,21 +539,54 @@ def build_items(updates):
 # e.g. "📊@tech", "👉 @tech_news 👈", "@channel". Such lines are attribution
 # noise that should not be posted to Facebook (and should not be translated).
 _PROMO_LINE = re.compile(r"^[^\w@]*@\w+[^\w@]*$")
+_FOLLOW_LINE = re.compile(r"^\W*follow\s+@ainews_daily\b.*$", re.IGNORECASE)
+
+# A hyperlink whose visible text is just "Source" / "Source." -- the real URL is
+# only in the Telegram entity, so it would be lost on Facebook (plain text).
+_SOURCE_LABEL = re.compile(r"^\W*sources?\W*$", re.IGNORECASE)
+
+
+def extract_source_links(text, entities):
+    """Pull out "Source" hyperlinks. Returns (text without labels, urls).
+
+    Each label is blanked with spaces rather than deleted, which keeps every
+    UTF-16 entity offset valid for apply_bold_entities. A "." straight after
+    the label is blanked too, so no stray punctuation is left behind.
+    """
+    data = (text or "").encode("utf-16-le")
+    urls = []
+    for ent in sorted(entities or [], key=lambda e: e.get("offset", 0)):
+        if ent.get("type") != "text_link" or not ent.get("url"):
+            continue
+        start = ent.get("offset", 0)
+        end = start + ent.get("length", 0)
+        label = data[start * 2:end * 2].decode("utf-16-le", "ignore")
+        if not _SOURCE_LABEL.match(label):
+            continue
+        if data[end * 2:end * 2 + 2] == ".".encode("utf-16-le"):
+            end += 1
+        data = (data[:start * 2] + " ".encode("utf-16-le") * (end - start)
+                + data[end * 2:])
+        if ent["url"] not in urls:
+            urls.append(ent["url"])
+    return data.decode("utf-16-le"), urls
 
 
 def clean_source_text(text):
     """Strip trailing promo/handle footer lines (e.g. '📊@tech') and whitespace.
 
     Only *trailing* lines that are essentially just an @mention (optionally
-    wrapped in emoji/symbols) are removed, so real content that merely contains
-    an @handle mid-sentence is left untouched.
+    wrapped in emoji/symbols), or the "Follow @ainews_daily ..." sign-off, are
+    removed, so real content that merely contains an @handle mid-sentence is
+    left untouched. NFKC folds Unicode-bold letters back to ASCII for matching.
     """
     if not text:
         return text
     lines = text.splitlines()
     while lines:
-        last = lines[-1].strip()
-        if last == "" or _PROMO_LINE.match(last):
+        last = unicodedata.normalize("NFKC", lines[-1]).strip()
+        if (last == "" or _PROMO_LINE.match(last)
+                or _FOLLOW_LINE.match(last)):
             lines.pop()
         else:
             break
@@ -645,15 +694,146 @@ def compute_body(raw_caption, entities=None):
     When TRANSLATE is enabled, translate to Bangla (which has no Unicode bold,
     so bolding is skipped). Otherwise apply bold entities to the raw text first
     -- so the UTF-16 offsets stay valid against exactly what Telegram sent --
-    then strip the trailing promo/handle footer.
+    then strip the trailing promo/handle footer. Any "Source" hyperlink is
+    moved to the end as a visible URL, since Facebook has no hidden links.
     """
+    text, source_urls = extract_source_links(raw_caption or "", entities)
     if translation_enabled():
-        return translate_text(clean_source_text(raw_caption or ""))
-    styled = apply_bold_entities(raw_caption or "", entities or [])
-    cleaned = clean_source_text(styled)
-    if raw_caption and cleaned != raw_caption:
-        log.debug("Applied bold/stripped footer from source text.")
-    return cleaned
+        body = translate_text(clean_source_text(text))
+    else:
+        styled = apply_bold_entities(text, entities or [])
+        body = clean_source_text(styled)
+        if raw_caption and body != raw_caption:
+            log.debug("Applied bold/stripped footer from source text.")
+    if source_urls:
+        if body:
+            # Tidy the gap left where a label sat mid-caption.
+            body = re.sub(r"[ \t]{2,}", " ", body)
+            body = re.sub(r"\n[ \t]*(?:\n[ \t]*)+\n", "\n\n", body) + "\n\n"
+        body += "\n".join(f"Source: {url}" for url in source_urls)
+    return body
+
+
+def _match_template(region, template):
+    """Normalised cross-correlation of template over region (2-D float arrays).
+
+    Returns an array of scores in [-1, 1], one per possible top-left position.
+    Flat windows score -1 so an empty black area can never count as a match.
+    """
+    th, tw = template.shape
+    rh, rw = region.shape
+    centred = template - template.mean()
+    energy = np.sqrt((centred * centred).sum())
+    shape = (rh + th, rw + tw)
+    product = np.fft.rfft2(region, shape) * np.conj(np.fft.rfft2(centred, shape))
+    numerator = np.fft.irfft2(product, shape)[:rh - th + 1, :rw - tw + 1]
+
+    def window_sum(values):
+        total = np.zeros((rh + 1, rw + 1))
+        total[1:, 1:] = values.cumsum(0).cumsum(1)
+        return (total[th:, tw:] - total[:-th, tw:]
+                - total[th:, :-tw] + total[:-th, :-tw])
+
+    sums = window_sum(region)
+    variance = np.maximum(window_sum(region * region) - sums * sums / (th * tw), 0)
+    denominator = np.sqrt(variance) * energy
+    return np.where(denominator > energy * th * 0.5,
+                    numerator / np.maximum(denominator, 1e-6), -1.0)
+
+
+def _find_mark(gray, template, box):
+    """Find template inside box of gray. Returns (x, y, w, h, scale) or None."""
+    region = np.asarray(gray.crop(box), dtype=float)
+    best_score, best = BANNER_MATCH_SCORE, None
+    for scale in BANNER_SCALES:
+        size = (round(template.width * scale), round(template.height * scale))
+        if size[1] > region.shape[0] or size[0] > region.shape[1]:
+            continue
+        scaled = np.asarray(template.resize(size, Image.LANCZOS), dtype=float)
+        scores = _match_template(region, scaled)
+        y, x = np.unravel_index(scores.argmax(), scores.shape)
+        if scores[y, x] >= best_score:
+            best_score = scores[y, x]
+            best = (int(x) + box[0], int(y) + box[1], size[0], size[1], scale)
+    return best
+
+
+def find_banner_rows(image):
+    """Return (top, bottom) rows of the image to keep, without AI Post banners.
+
+    Each banner is detected on its own, from its own mark, so an image can lose
+    the top, the bottom, both, or nothing. Returns None when nothing is found.
+    """
+    if not (os.path.exists(BANNER_HEADER_TEMPLATE)
+            and os.path.exists(BANNER_FOOTER_TEMPLATE)):
+        log.warning("Banner templates not found; skipping banner crop.")
+        return None
+
+    factor = BANNER_REF_SIZE / max(image.size)
+    size = (max(1, round(image.width * factor)),
+            max(1, round(image.height * factor)))
+    gray = image.convert("L").resize(size, Image.LANCZOS)
+    width, height = gray.size
+    is_content = np.asarray(gray) > BANNER_NEAR_BLACK
+
+    top = bottom = None
+
+    with Image.open(BANNER_HEADER_TEMPLATE) as tpl:
+        header = _find_mark(gray, tpl.convert("L"),
+                            (0, 0, min(220, width), min(110, height)))
+    if header:
+        x, y, w, h, scale = header
+        limit = y + h + round(BANNER_SCAN * scale)
+        top = y + h + round(BANNER_HEADER_GAP * scale)
+        # Content right of the mark ends the banner early. Anything directly
+        # under the mark is the banner's own red underline, so it is ignored.
+        for row in range(y + h, min(limit, height)):
+            if is_content[row, x + w:].sum() >= 3:
+                top = row
+                break
+
+    with Image.open(BANNER_FOOTER_TEMPLATE) as tpl:
+        footer = _find_mark(gray, tpl.convert("L"),
+                            (0, max(0, height - 80), min(160, width), height))
+    if footer:
+        _x, y, _w, _h, scale = footer
+        limit = y - round(BANNER_SCAN * scale)
+        bottom = y - round(BANNER_FOOTER_GAP * scale)
+        for row in range(y - 1, max(limit, 0), -1):
+            if is_content[row].sum() >= 3:
+                bottom = row + 1
+                break
+
+    if top is None and bottom is None:
+        return None
+    return (round((top or 0) / factor),
+            round(bottom / factor) if bottom is not None else image.height)
+
+
+def crop_banners(image_path):
+    """Crop any AI Post top/bottom banner off the image (in place).
+
+    Never fails a post: on any problem the image is simply left as it was.
+    """
+    try:
+        with Image.open(image_path) as source:
+            image = source.convert("RGB")
+        rows = find_banner_rows(image)
+        if rows is None:
+            log.info("No AI Post banner on %s; not cropping.", image_path)
+            return image_path
+        top, bottom = rows
+        if bottom - top < image.height * BANNER_MIN_KEEP:
+            log.warning("Banner crop on %s would keep only rows %d-%d of %d; "
+                        "skipping it.", image_path, top, bottom, image.height)
+            return image_path
+        image.crop((0, top, image.width, bottom)).save(
+            image_path, "JPEG", quality=95)
+        log.info("Cropped AI Post banner from %s: kept rows %d-%d of %d.",
+                 image_path, top, bottom, image.height)
+    except (OSError, ValueError) as exc:
+        log.error("Failed to crop banner (%s); using original image.", exc)
+    return image_path
 
 
 def overlay_logo(image_path):
@@ -939,6 +1119,7 @@ def process_item(item, config, page_id, dry_run):
             dest = f"{TEMP_MEDIA_PREFIX}{i}.jpg"
             path, _too_big = download_file(bot_token, fid, dest)
             if path:
+                crop_banners(path)
                 overlay_logo(path)
                 local_paths.append(path)
             else:

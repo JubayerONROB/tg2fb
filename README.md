@@ -19,14 +19,17 @@ items) so nothing is ever re-posted or lost.
 3. The pipeline pops up to `POSTS_PER_RUN` items (default `1`) from the front of
    the queue (FIFO) and posts them:
    - **text** → `/{page-id}/feed`
-   - **single photo** → logo overlaid → `/{page-id}/photos`
-   - **album** → each photo logo-overlaid and uploaded unpublished, then one
-     multi-photo post via `/{page-id}/feed` with `attached_media`
+   - **single photo** → AI Post banners cropped, logo overlaid →
+     `/{page-id}/photos`
+   - **album** → each photo cropped and logo-overlaid, uploaded unpublished,
+     then one multi-photo post via `/{page-id}/feed` with `attached_media`
    - **video** → logo burned in as a watermark with `ffmpeg` → `/{page-id}/videos`
 4. Captions have Telegram `bold` spans converted to Unicode bold characters
    (see [Bold text formatting](#bold-text-formatting)) and any trailing
-   `@handle` promo footer stripped. Translation to Bangla is optional and off by
-   default (see the `TRANSLATE` env var; it replaces bolding when enabled).
+   `@handle` promo footer or `Follow @ainews_daily ...` line stripped. A
+   hyperlink labelled `Source` is moved to the end as a visible
+   `Source: <url>` line. Translation to Bangla is optional and off by default
+   (see the `TRANSLATE` env var; it replaces bolding when enabled).
 5. An item is removed from the queue only on confirmed success. On failure its
    `retry_count` is incremented and it stays at the front; after 3 failed
    attempts it is moved to `queue_dead_letter.json` so it never blocks the queue.
@@ -52,6 +55,16 @@ The Telegram Bot API can only download files up to **20 MB** via `getFile`.
 Videos larger than that cannot be fetched, so they are logged and moved straight
 to the dead-letter queue instead of crashing the run. Videos within the limit
 are watermarked with `ffmpeg` (installed by the workflow) and uploaded.
+
+## AI Post banner cropping
+
+Photos are matched against `aipost_header.png` and `aipost_footer.png`. Each mark
+is detected on its own, so an image can lose its top banner, its bottom banner,
+both, or nothing. Images without the marks are not cropped. Videos are not
+cropped.
+
+If AI Post's design changes, cut new marks out of a fresh image, replace those
+two files, and check the result with a dry run.
 
 ## Bold text formatting
 
@@ -222,6 +235,7 @@ video), and `queue_before`/`queue_after` show the queue length around the run.
 | `queue.json`                        | Persistent FIFO queue of pending, not-yet-posted items. |
 | `queue_dead_letter.json`            | Items that failed 3× or can't be posted (created on demand). |
 | `logo.png`                          | Watermark overlaid on photos and videos. |
+| `aipost_header.png` / `aipost_footer.png` | Marks used to detect AI Post banners. |
 | `dry_run_output.jpg` / `.mp4`       | Processed media saved during a dry-run (git-ignored). |
 
 ## Security
