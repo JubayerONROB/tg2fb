@@ -7017,5 +7017,50 @@
       378305313
     ],
     "retry_count": 0
+  },
+  {
+    "type": "video",
+    "video_file_id": "BAACAgIAAyEFAAMBClOLWAACBbtq6tPNjEFk6aObQ4PLaTxCGdQ2wAACEaoAAiWFSEutSnybATy4fz0E",
+    "video_file_size": 21512935,
+    "caption": "👽 Mistral's AI built a live 3D map of the 19,000 satellites and bits of space junk circling Earth\n\nMistral says it gave its Mistral Large 4 model one job: build a real-time 3D tracker of the roughly 19,000 satellites and debris fragments in orbit.\n\nAccording to the company, the model built a working app, tested it the way a user would, made it fast and passed strict verification. The app is called Orbital Trace.\n\n@aipost 🏴",
+    "entities": [
+      {
+        "offset": 0,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5366072667210283894"
+      },
+      {
+        "offset": 3,
+        "length": 95,
+        "type": "bold"
+      },
+      {
+        "offset": 100,
+        "length": 12,
+        "type": "text_link",
+        "url": "https://x.com/MistralAI/status/2117574509179900410"
+      },
+      {
+        "offset": 418,
+        "length": 7,
+        "type": "mention"
+      },
+      {
+        "offset": 426,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5431390559912614642"
+      }
+    ],
+    "media_group_id": null,
+    "chat_id": -1004468214616,
+    "message_ids": [
+      1467
+    ],
+    "update_ids": [
+      378305359
+    ],
+    "retry_count": 0
   }
 ]

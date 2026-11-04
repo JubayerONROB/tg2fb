@@ -2,279 +2,6 @@
   {
     "type": "photo",
     "photo_file_ids": [
-      "AgACAgIAAyEFAAMBClOLWAACBbpq6tPN80m_Zt_W6TGBDDczFy8GDwAC7R9rGyWFUEsnVja3Es7-wgEAAwIAA3kAAz0E"
-    ],
-    "caption": "😐 Schools that switch off Google's AI will lose Google Search too\n\nEarly next year, Google will turn its AI tools off by default for K-12 student accounts. Schools will have to switch them on themselves.\n\nBut a district that blocks the AI completely loses Search as well. \"Search and A.I. are deeply integrated,\" Google's education VP Chris Phillips told The New York Times. Students \"will not have access to search,\" he said, and will see a message from their school that it's not available.\n\nSchools that keep AI get two choices: regular Search with AI Overviews and AI chats, or a student mode called Guided Learning that walks kids through homework step by step instead of handing over the answer.\n\nThe move reverses an August change that turned AI on by default in Google Classroom. In September, New York City and Los Angeles, the two largest US districts, already restricted student AI on school devices.\n\n@aipost 🏴",
-    "entities": [
-      {
-        "offset": 0,
-        "length": 2,
-        "type": "custom_emoji",
-        "custom_emoji_id": "5292058161518251626"
-      },
-      {
-        "offset": 3,
-        "length": 63,
-        "type": "bold"
-      },
-      {
-        "offset": 356,
-        "length": 18,
-        "type": "text_link",
-        "url": "https://www.nytimes.com/2026/11/03/us/google-search-schools-restrict-ai.html"
-      },
-      {
-        "offset": 914,
-        "length": 7,
-        "type": "mention"
-      },
-      {
-        "offset": 922,
-        "length": 2,
-        "type": "custom_emoji",
-        "custom_emoji_id": "5431390559912614642"
-      }
-    ],
-    "media_group_id": null,
-    "chat_id": -1004468214616,
-    "message_ids": [
-      1466
-    ],
-    "update_ids": [
-      378305358
-    ],
-    "retry_count": 0
-  },
-  {
-    "type": "video",
-    "video_file_id": "BAACAgIAAyEFAAMBClOLWAACBbtq6tPNjEFk6aObQ4PLaTxCGdQ2wAACEaoAAiWFSEutSnybATy4fz0E",
-    "video_file_size": 21512935,
-    "caption": "👽 Mistral's AI built a live 3D map of the 19,000 satellites and bits of space junk circling Earth\n\nMistral says it gave its Mistral Large 4 model one job: build a real-time 3D tracker of the roughly 19,000 satellites and debris fragments in orbit.\n\nAccording to the company, the model built a working app, tested it the way a user would, made it fast and passed strict verification. The app is called Orbital Trace.\n\n@aipost 🏴",
-    "entities": [
-      {
-        "offset": 0,
-        "length": 2,
-        "type": "custom_emoji",
-        "custom_emoji_id": "5366072667210283894"
-      },
-      {
-        "offset": 3,
-        "length": 95,
-        "type": "bold"
-      },
-      {
-        "offset": 100,
-        "length": 12,
-        "type": "text_link",
-        "url": "https://x.com/MistralAI/status/2117574509179900410"
-      },
-      {
-        "offset": 418,
-        "length": 7,
-        "type": "mention"
-      },
-      {
-        "offset": 426,
-        "length": 2,
-        "type": "custom_emoji",
-        "custom_emoji_id": "5431390559912614642"
-      }
-    ],
-    "media_group_id": null,
-    "chat_id": -1004468214616,
-    "message_ids": [
-      1467
-    ],
-    "update_ids": [
-      378305359
-    ],
-    "retry_count": 0
-  },
-  {
-    "type": "photo",
-    "photo_file_ids": [
-      "AgACAgIAAyEFAAMBClOLWAACBbxq6taEet8_iRo0maGqvwu0sZTQFgACvR1rG1y_OEo4kYd5I3GKxQEAAwIAA3gAAz0E"
-    ],
-    "caption": "Did Anthropic suddenly find an unlimited supply of GPUs?\n\nBecause I genuinely don’t understand where all this generosity is coming from.\n\nJust look at the past few weeks:\n\n• Two weeks ago: Claude subscribers got $100–$250 in free cloud coding credits.\n\n• Two days ago: Anthropic expanded its startup program, offering a free year of Claude Team and $1,000 in API credits. And apparently, the bar to qualify is pretty low.\n\n• Today: More free API credits, this time every single month, on top of your existing subscription.\n\nHere’s the breakdown:\n\nMax 5x: $100/month\nMax 20x: $200/month\nTeam: $500/month shared\nPro: $0. Sorry, guys 🥲\n\nYou can claim them on the Claude platform.\n\n•••\n\nMeanwhile, OpenAI is cutting usage limits and trying to squeeze more efficiency out of its models.\n\nWhich is especially funny because OpenAI used to be the generous one, and Anthropic was the company making you watch your token budget.\n\nNow Anthropic is practically throwing credits at people.\n\nSo what changed? Better infrastructure? A massive push to win developers? Or are we about to see an even bigger move?\n\nWhatever it is, I’m enjoying this version of the AI arms race. \n\n🔗: https://platform.claude.com/\n\nFollow @ainews_daily for more quality AI insights!",
-    "entities": [
-      {
-        "offset": 0,
-        "length": 56,
-        "type": "bold"
-      },
-      {
-        "offset": 174,
-        "length": 14,
-        "type": "bold"
-      },
-      {
-        "offset": 255,
-        "length": 13,
-        "type": "bold"
-      },
-      {
-        "offset": 425,
-        "length": 6,
-        "type": "bold"
-      },
-      {
-        "offset": 547,
-        "length": 7,
-        "type": "bold"
-      },
-      {
-        "offset": 566,
-        "length": 8,
-        "type": "bold"
-      },
-      {
-        "offset": 586,
-        "length": 5,
-        "type": "bold"
-      },
-      {
-        "offset": 610,
-        "length": 4,
-        "type": "bold"
-      },
-      {
-        "offset": 818,
-        "length": 101,
-        "type": "bold"
-      },
-      {
-        "offset": 1167,
-        "length": 28,
-        "type": "url"
-      },
-      {
-        "offset": 1204,
-        "length": 13,
-        "type": "mention"
-      }
-    ],
-    "media_group_id": null,
-    "chat_id": -1004468214616,
-    "message_ids": [
-      1468
-    ],
-    "update_ids": [
-      378305360
-    ],
-    "retry_count": 0
-  },
-  {
-    "type": "photo",
-    "photo_file_ids": [
-      "AgACAgIAAyEFAAMBClOLWAACBb1q6tbKvpqQMR-bMxcyPyLC8ncCEQACeBxrG5BxUEsuMK2h2FCSrAEAAwIAA3kAAz0E"
-    ],
-    "caption": "OpenAI’s GPT-6 Astra just improved another AI by editing its brain. Literally.\n\nMIT researchers gave Astra access to the weights of Alibaba’s Qwen model and asked it to fix a problem: the model kept getting stuck in repetitive reasoning loops instead of finishing its answers.\n\nRather than retraining Qwen, Astra figured out which weights were causing the issue and changed them directly.\n\nThe results are pretty wild:\n\n• Only 0.016% of the model’s weights were modified\n• Its MATH-500 score jumped from 7.9% to 48.1%\n• Instruction-following improved from 21% to 62.3%\n• The share of math responses hitting the output limit dropped from 93% to 33%\n\nThe researchers call this weight-space programming. Essentially, one AI edits the internal parameters of another AI to change how it behaves.\n\nIt didn’t work nearly as well on Google’s Gemma 3, so this is far from a universal fix.\n\nStill, think about what happened here. An AI identified a problem inside another neural network and fixed it by changing a tiny fraction of its numbers. No additional training required.\n\nIf this approach becomes reliable, fixing AI models might eventually look more like debugging software than training a new model from scratch.\n\nAnd that’s a pretty strange thought. \n\n🔗: https://rikiyat.github.io/blog/weight-space-programming/\n\nFollow @ainews_daily for more quality AI insights!",
-    "entities": [
-      {
-        "offset": 0,
-        "length": 78,
-        "type": "bold"
-      },
-      {
-        "offset": 390,
-        "length": 28,
-        "type": "bold"
-      },
-      {
-        "offset": 427,
-        "length": 29,
-        "type": "bold"
-      },
-      {
-        "offset": 504,
-        "length": 13,
-        "type": "bold"
-      },
-      {
-        "offset": 556,
-        "length": 12,
-        "type": "bold"
-      },
-      {
-        "offset": 637,
-        "length": 10,
-        "type": "bold"
-      },
-      {
-        "offset": 675,
-        "length": 24,
-        "type": "bold"
-      },
-      {
-        "offset": 1255,
-        "length": 56,
-        "type": "url"
-      },
-      {
-        "offset": 1320,
-        "length": 13,
-        "type": "mention"
-      }
-    ],
-    "media_group_id": null,
-    "chat_id": -1004468214616,
-    "message_ids": [
-      1469
-    ],
-    "update_ids": [
-      378305361
-    ],
-    "retry_count": 0
-  },
-  {
-    "type": "photo",
-    "photo_file_ids": [
-      "AgACAgIAAyEFAAMBClOLWAACBb5q60sX8sznwK8FraWb8NVqkjMZ8gACvhtrGwtTSEuozgGymLBcFwEAAwIAA3kAAz0E"
-    ],
-    "caption": "🧐 GPT-6 Astra rewired a small AI from the inside and lifted its math score from 7.9% to 48.1%\n\nMIT researchers handed OpenAI's GPT-6 Astra the raw numbers inside a small Qwen model, its weights, and asked it to make the model better at math. No training run, just edits.\n\nAstra found the flaw that made the small model get stuck in reasoning loops, a problem Qwen's own model card warns about. It changed 0.016% of the weights. Instruction-following scores tripled too.\n\nIn other tests Astra looked at the raw weights of small game-playing networks and named the game each one was trained on. It also wrote small game-playing networks from scratch that beat ones trained for 100 million steps.\n\nThe team calls it weight-space programming in a blog post published today. Wharton professor Ethan Mollick: \"Waiting for replication but this is a pretty big deal.\"\n\n@aipost 🏴",
-    "entities": [
-      {
-        "offset": 0,
-        "length": 2,
-        "type": "custom_emoji",
-        "custom_emoji_id": "5290023339157392620"
-      },
-      {
-        "offset": 3,
-        "length": 91,
-        "type": "bold"
-      },
-      {
-        "offset": 744,
-        "length": 9,
-        "type": "text_link",
-        "url": "https://rikiyat.github.io/blog/weight-space-programming/"
-      },
-      {
-        "offset": 862,
-        "length": 7,
-        "type": "mention"
-      },
-      {
-        "offset": 870,
-        "length": 2,
-        "type": "custom_emoji",
-        "custom_emoji_id": "5431390559912614642"
-      }
-    ],
-    "media_group_id": null,
-    "chat_id": -1004468214616,
-    "message_ids": [
-      1470
-    ],
-    "update_ids": [
-      378305362
-    ],
-    "retry_count": 0
-  },
-  {
-    "type": "photo",
-    "photo_file_ids": [
       "AgACAgIAAyEFAAMBClOLWAACBb9q60sXeAM1_BKqJgUYwrOA1FfMMwACVSFrGyWFUEtEdLe0bAklMgEAAwIAA3kAAz0E"
     ],
     "caption": "😮 SpaceX is racing to build in 18 months the AI data center capacity Google built since 1999\n\nSpaceX now aims for about 13 gigawatts of data centers in 2027, up from 10, according to the research firm SemiAnalysis. That's roughly all of Google's data center capacity from 1999 to 2026.\n\nSemiAnalysis thinks it's possible: it has already found more than 9 GW of sites, and 3.6 GW is under construction.\n\nThe speed is the wild part. A new Colossus 2 site in Mississippi should take about 4 months, while most builders fight for 8 to 12. Musk is trying to buy hundreds of nearby homes to calm noise complaints and house construction workers.\n\nEven the Starbase rocket campus in Texas is getting two data centers.\n\n@aipost 🏴",
@@ -1017,6 +744,176 @@
     ],
     "update_ids": [
       378305372
+    ],
+    "retry_count": 0
+  },
+  {
+    "type": "photo",
+    "photo_file_ids": [
+      "AgACAgIAAyEFAAMBClOLWAACBclq63yEyvf3yAb6vlIjFSl_snLrawACeyJrGyWFUEviy0S2qeqDmQEAAwIAA3kAAz0E"
+    ],
+    "caption": "🧐 Apple Watch can now listen to your conversations all day and sum them up\n\nThe feature is called Siri Recap, and it is in the new watchOS 27.3 beta for developers. Switch it on and the watch's microphone takes notes on your conversations through the day, then turns them into short summaries with a title and key points.\n\nA second feature, Live Rewind, is for when you missed what someone said: double-press the Digital Crown and the watch shows the last 15 seconds of speech as text.\n\nBoth are opt-in. You can schedule Recap for \"only at work\" or \"never at night\", and summaries can delete themselves after up to 7 days. Apple says no audio is recorded and no transcript is kept, and the raw sound stays in a sealed-off part of the chip that even Apple can't access.\n\nIt needs an Apple Watch Series 12 or Ultra 4 and an iPhone 16 or newer. English only, no users under 18, and not in the EU for now.\n\nWould you let your watch take notes on every conversation of your day?\n\n@aipost 🏴",
+    "entities": [
+      {
+        "offset": 0,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5290023339157392620"
+      },
+      {
+        "offset": 3,
+        "length": 72,
+        "type": "bold"
+      },
+      {
+        "offset": 624,
+        "length": 10,
+        "type": "text_link",
+        "url": "https://support.apple.com/en-us/148354"
+      },
+      {
+        "offset": 976,
+        "length": 7,
+        "type": "mention"
+      },
+      {
+        "offset": 984,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5431390559912614642"
+      }
+    ],
+    "media_group_id": null,
+    "chat_id": -1004468214616,
+    "message_ids": [
+      1481
+    ],
+    "update_ids": [
+      378305373
+    ],
+    "retry_count": 0
+  },
+  {
+    "type": "video",
+    "video_file_id": "BAACAgIAAyEFAAMBClOLWAACBcpq64ONRko9rU-Cp5qzndGzA2GuwwACvboAAlurUEuBxgx4GygreT0E",
+    "video_file_size": 1528887,
+    "caption": "🤖 Claude Code Blocks Game Cloning\n\nAnthropic added 2 sentences to the system prompt for Claude Code on Opus 5.5. The rule blocks recreating a specific existing game, even when it is named directly or presented as original.\n\nThe change reportedly reached servers around October 27 under the flag tengu_heron_brook. Users can still make original games, genre projects, or work based on their own designs and assets.\n\nAnthropic’s Addy Osmani confirmed the prompt was changed, but not the exact wording. The stated goal is to stop Claude from reproducing other people’s games, which violates its usage rules. Similar changes elsewhere in Claude remain unknown.\n\n📊@tech",
+    "entities": [
+      {
+        "offset": 0,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5208665212483310136"
+      },
+      {
+        "offset": 3,
+        "length": 31,
+        "type": "bold"
+      },
+      {
+        "offset": 52,
+        "length": 11,
+        "type": "bold"
+      },
+      {
+        "offset": 89,
+        "length": 23,
+        "type": "bold"
+      },
+      {
+        "offset": 270,
+        "length": 10,
+        "type": "bold"
+      },
+      {
+        "offset": 296,
+        "length": 17,
+        "type": "bold"
+      },
+      {
+        "offset": 528,
+        "length": 6,
+        "type": "bold"
+      },
+      {
+        "offset": 635,
+        "length": 6,
+        "type": "bold"
+      },
+      {
+        "offset": 659,
+        "length": 2,
+        "type": "bold"
+      },
+      {
+        "offset": 659,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5449841756596101801"
+      },
+      {
+        "offset": 661,
+        "length": 5,
+        "type": "mention"
+      },
+      {
+        "offset": 661,
+        "length": 5,
+        "type": "bold"
+      }
+    ],
+    "media_group_id": null,
+    "chat_id": -1004468214616,
+    "message_ids": [
+      1482
+    ],
+    "update_ids": [
+      378305374
+    ],
+    "retry_count": 0
+  },
+  {
+    "type": "photo",
+    "photo_file_ids": [
+      "AgACAgIAAyEFAAMBClOLWAACBctq65g7sK9n5___xujIy-viUze7NwACfSJrGyWFUEv5Of0JsMbPzwEAAwIAA3kAAz0E"
+    ],
+    "caption": "💻 This founder has 50+ employees but talks to his AI agents more than to them\n\nGreg Isenberg, CEO of Late Checkout, has 50+ people in 12 countries. His agents do this:\n\n1. Ideas: he sends a voice note, and an agent grills the idea before anything gets built.\n2. Research: agents read rivals' sites, prices and user reviews. Prompt: find the 10 complaints that show up most and quote the users\n3. Design: Claude Code makes 4 versions of every screen before any code exists.\n4. Build: agents work in parallel overnight. He checks what shipped over coffee.\n5. Testing: agents click every flow as an impatient user, a confused one and a phone user.\n6. Bugs: an agent opens a fix in under 10 minutes. A human just approves.\n\nRules: a cheap model for sorting, Opus for anything that ships. Another model scores every output 1 to 10; under 8 goes back. Every agent mistake becomes a new skill, so it only happens once.\n\nThe humans handle creative feedback, relationships and telling the agents what they got wrong.\n\n@aipost 🏴",
+    "entities": [
+      {
+        "offset": 0,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5366308323475880265"
+      },
+      {
+        "offset": 3,
+        "length": 75,
+        "type": "bold"
+      },
+      {
+        "offset": 333,
+        "length": 60,
+        "type": "code"
+      },
+      {
+        "offset": 1010,
+        "length": 7,
+        "type": "mention"
+      },
+      {
+        "offset": 1018,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5431390559912614642"
+      }
+    ],
+    "media_group_id": null,
+    "chat_id": -1004468214616,
+    "message_ids": [
+      1483
+    ],
+    "update_ids": [
+      378305375
     ],
     "retry_count": 0
   }
