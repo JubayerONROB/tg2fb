@@ -1,1 +1,1023 @@
-[]
+[
+  {
+    "type": "photo",
+    "photo_file_ids": [
+      "AgACAgIAAyEFAAMBClOLWAACBbpq6tPN80m_Zt_W6TGBDDczFy8GDwAC7R9rGyWFUEsnVja3Es7-wgEAAwIAA3kAAz0E"
+    ],
+    "caption": "😐 Schools that switch off Google's AI will lose Google Search too\n\nEarly next year, Google will turn its AI tools off by default for K-12 student accounts. Schools will have to switch them on themselves.\n\nBut a district that blocks the AI completely loses Search as well. \"Search and A.I. are deeply integrated,\" Google's education VP Chris Phillips told The New York Times. Students \"will not have access to search,\" he said, and will see a message from their school that it's not available.\n\nSchools that keep AI get two choices: regular Search with AI Overviews and AI chats, or a student mode called Guided Learning that walks kids through homework step by step instead of handing over the answer.\n\nThe move reverses an August change that turned AI on by default in Google Classroom. In September, New York City and Los Angeles, the two largest US districts, already restricted student AI on school devices.\n\n@aipost 🏴",
+    "entities": [
+      {
+        "offset": 0,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5292058161518251626"
+      },
+      {
+        "offset": 3,
+        "length": 63,
+        "type": "bold"
+      },
+      {
+        "offset": 356,
+        "length": 18,
+        "type": "text_link",
+        "url": "https://www.nytimes.com/2026/11/03/us/google-search-schools-restrict-ai.html"
+      },
+      {
+        "offset": 914,
+        "length": 7,
+        "type": "mention"
+      },
+      {
+        "offset": 922,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5431390559912614642"
+      }
+    ],
+    "media_group_id": null,
+    "chat_id": -1004468214616,
+    "message_ids": [
+      1466
+    ],
+    "update_ids": [
+      378305358
+    ],
+    "retry_count": 0
+  },
+  {
+    "type": "video",
+    "video_file_id": "BAACAgIAAyEFAAMBClOLWAACBbtq6tPNjEFk6aObQ4PLaTxCGdQ2wAACEaoAAiWFSEutSnybATy4fz0E",
+    "video_file_size": 21512935,
+    "caption": "👽 Mistral's AI built a live 3D map of the 19,000 satellites and bits of space junk circling Earth\n\nMistral says it gave its Mistral Large 4 model one job: build a real-time 3D tracker of the roughly 19,000 satellites and debris fragments in orbit.\n\nAccording to the company, the model built a working app, tested it the way a user would, made it fast and passed strict verification. The app is called Orbital Trace.\n\n@aipost 🏴",
+    "entities": [
+      {
+        "offset": 0,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5366072667210283894"
+      },
+      {
+        "offset": 3,
+        "length": 95,
+        "type": "bold"
+      },
+      {
+        "offset": 100,
+        "length": 12,
+        "type": "text_link",
+        "url": "https://x.com/MistralAI/status/2117574509179900410"
+      },
+      {
+        "offset": 418,
+        "length": 7,
+        "type": "mention"
+      },
+      {
+        "offset": 426,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5431390559912614642"
+      }
+    ],
+    "media_group_id": null,
+    "chat_id": -1004468214616,
+    "message_ids": [
+      1467
+    ],
+    "update_ids": [
+      378305359
+    ],
+    "retry_count": 0
+  },
+  {
+    "type": "photo",
+    "photo_file_ids": [
+      "AgACAgIAAyEFAAMBClOLWAACBbxq6taEet8_iRo0maGqvwu0sZTQFgACvR1rG1y_OEo4kYd5I3GKxQEAAwIAA3gAAz0E"
+    ],
+    "caption": "Did Anthropic suddenly find an unlimited supply of GPUs?\n\nBecause I genuinely don’t understand where all this generosity is coming from.\n\nJust look at the past few weeks:\n\n• Two weeks ago: Claude subscribers got $100–$250 in free cloud coding credits.\n\n• Two days ago: Anthropic expanded its startup program, offering a free year of Claude Team and $1,000 in API credits. And apparently, the bar to qualify is pretty low.\n\n• Today: More free API credits, this time every single month, on top of your existing subscription.\n\nHere’s the breakdown:\n\nMax 5x: $100/month\nMax 20x: $200/month\nTeam: $500/month shared\nPro: $0. Sorry, guys 🥲\n\nYou can claim them on the Claude platform.\n\n•••\n\nMeanwhile, OpenAI is cutting usage limits and trying to squeeze more efficiency out of its models.\n\nWhich is especially funny because OpenAI used to be the generous one, and Anthropic was the company making you watch your token budget.\n\nNow Anthropic is practically throwing credits at people.\n\nSo what changed? Better infrastructure? A massive push to win developers? Or are we about to see an even bigger move?\n\nWhatever it is, I’m enjoying this version of the AI arms race. \n\n🔗: https://platform.claude.com/\n\nFollow @ainews_daily for more quality AI insights!",
+    "entities": [
+      {
+        "offset": 0,
+        "length": 56,
+        "type": "bold"
+      },
+      {
+        "offset": 174,
+        "length": 14,
+        "type": "bold"
+      },
+      {
+        "offset": 255,
+        "length": 13,
+        "type": "bold"
+      },
+      {
+        "offset": 425,
+        "length": 6,
+        "type": "bold"
+      },
+      {
+        "offset": 547,
+        "length": 7,
+        "type": "bold"
+      },
+      {
+        "offset": 566,
+        "length": 8,
+        "type": "bold"
+      },
+      {
+        "offset": 586,
+        "length": 5,
+        "type": "bold"
+      },
+      {
+        "offset": 610,
+        "length": 4,
+        "type": "bold"
+      },
+      {
+        "offset": 818,
+        "length": 101,
+        "type": "bold"
+      },
+      {
+        "offset": 1167,
+        "length": 28,
+        "type": "url"
+      },
+      {
+        "offset": 1204,
+        "length": 13,
+        "type": "mention"
+      }
+    ],
+    "media_group_id": null,
+    "chat_id": -1004468214616,
+    "message_ids": [
+      1468
+    ],
+    "update_ids": [
+      378305360
+    ],
+    "retry_count": 0
+  },
+  {
+    "type": "photo",
+    "photo_file_ids": [
+      "AgACAgIAAyEFAAMBClOLWAACBb1q6tbKvpqQMR-bMxcyPyLC8ncCEQACeBxrG5BxUEsuMK2h2FCSrAEAAwIAA3kAAz0E"
+    ],
+    "caption": "OpenAI’s GPT-6 Astra just improved another AI by editing its brain. Literally.\n\nMIT researchers gave Astra access to the weights of Alibaba’s Qwen model and asked it to fix a problem: the model kept getting stuck in repetitive reasoning loops instead of finishing its answers.\n\nRather than retraining Qwen, Astra figured out which weights were causing the issue and changed them directly.\n\nThe results are pretty wild:\n\n• Only 0.016% of the model’s weights were modified\n• Its MATH-500 score jumped from 7.9% to 48.1%\n• Instruction-following improved from 21% to 62.3%\n• The share of math responses hitting the output limit dropped from 93% to 33%\n\nThe researchers call this weight-space programming. Essentially, one AI edits the internal parameters of another AI to change how it behaves.\n\nIt didn’t work nearly as well on Google’s Gemma 3, so this is far from a universal fix.\n\nStill, think about what happened here. An AI identified a problem inside another neural network and fixed it by changing a tiny fraction of its numbers. No additional training required.\n\nIf this approach becomes reliable, fixing AI models might eventually look more like debugging software than training a new model from scratch.\n\nAnd that’s a pretty strange thought. \n\n🔗: https://rikiyat.github.io/blog/weight-space-programming/\n\nFollow @ainews_daily for more quality AI insights!",
+    "entities": [
+      {
+        "offset": 0,
+        "length": 78,
+        "type": "bold"
+      },
+      {
+        "offset": 390,
+        "length": 28,
+        "type": "bold"
+      },
+      {
+        "offset": 427,
+        "length": 29,
+        "type": "bold"
+      },
+      {
+        "offset": 504,
+        "length": 13,
+        "type": "bold"
+      },
+      {
+        "offset": 556,
+        "length": 12,
+        "type": "bold"
+      },
+      {
+        "offset": 637,
+        "length": 10,
+        "type": "bold"
+      },
+      {
+        "offset": 675,
+        "length": 24,
+        "type": "bold"
+      },
+      {
+        "offset": 1255,
+        "length": 56,
+        "type": "url"
+      },
+      {
+        "offset": 1320,
+        "length": 13,
+        "type": "mention"
+      }
+    ],
+    "media_group_id": null,
+    "chat_id": -1004468214616,
+    "message_ids": [
+      1469
+    ],
+    "update_ids": [
+      378305361
+    ],
+    "retry_count": 0
+  },
+  {
+    "type": "photo",
+    "photo_file_ids": [
+      "AgACAgIAAyEFAAMBClOLWAACBb5q60sX8sznwK8FraWb8NVqkjMZ8gACvhtrGwtTSEuozgGymLBcFwEAAwIAA3kAAz0E"
+    ],
+    "caption": "🧐 GPT-6 Astra rewired a small AI from the inside and lifted its math score from 7.9% to 48.1%\n\nMIT researchers handed OpenAI's GPT-6 Astra the raw numbers inside a small Qwen model, its weights, and asked it to make the model better at math. No training run, just edits.\n\nAstra found the flaw that made the small model get stuck in reasoning loops, a problem Qwen's own model card warns about. It changed 0.016% of the weights. Instruction-following scores tripled too.\n\nIn other tests Astra looked at the raw weights of small game-playing networks and named the game each one was trained on. It also wrote small game-playing networks from scratch that beat ones trained for 100 million steps.\n\nThe team calls it weight-space programming in a blog post published today. Wharton professor Ethan Mollick: \"Waiting for replication but this is a pretty big deal.\"\n\n@aipost 🏴",
+    "entities": [
+      {
+        "offset": 0,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5290023339157392620"
+      },
+      {
+        "offset": 3,
+        "length": 91,
+        "type": "bold"
+      },
+      {
+        "offset": 744,
+        "length": 9,
+        "type": "text_link",
+        "url": "https://rikiyat.github.io/blog/weight-space-programming/"
+      },
+      {
+        "offset": 862,
+        "length": 7,
+        "type": "mention"
+      },
+      {
+        "offset": 870,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5431390559912614642"
+      }
+    ],
+    "media_group_id": null,
+    "chat_id": -1004468214616,
+    "message_ids": [
+      1470
+    ],
+    "update_ids": [
+      378305362
+    ],
+    "retry_count": 0
+  },
+  {
+    "type": "photo",
+    "photo_file_ids": [
+      "AgACAgIAAyEFAAMBClOLWAACBb9q60sXeAM1_BKqJgUYwrOA1FfMMwACVSFrGyWFUEtEdLe0bAklMgEAAwIAA3kAAz0E"
+    ],
+    "caption": "😮 SpaceX is racing to build in 18 months the AI data center capacity Google built since 1999\n\nSpaceX now aims for about 13 gigawatts of data centers in 2027, up from 10, according to the research firm SemiAnalysis. That's roughly all of Google's data center capacity from 1999 to 2026.\n\nSemiAnalysis thinks it's possible: it has already found more than 9 GW of sites, and 3.6 GW is under construction.\n\nThe speed is the wild part. A new Colossus 2 site in Mississippi should take about 4 months, while most builders fight for 8 to 12. Musk is trying to buy hundreds of nearby homes to calm noise complaints and house construction workers.\n\nEven the Starbase rocket campus in Texas is getting two data centers.\n\n@aipost 🏴",
+    "entities": [
+      {
+        "offset": 0,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5875419753740242762"
+      },
+      {
+        "offset": 3,
+        "length": 90,
+        "type": "bold"
+      },
+      {
+        "offset": 202,
+        "length": 12,
+        "type": "text_link",
+        "url": "https://newsletter.semianalysis.com/p/elon-is-doing-it-again-spacex-will"
+      },
+      {
+        "offset": 712,
+        "length": 7,
+        "type": "mention"
+      },
+      {
+        "offset": 720,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5431390559912614642"
+      }
+    ],
+    "media_group_id": null,
+    "chat_id": -1004468214616,
+    "message_ids": [
+      1471
+    ],
+    "update_ids": [
+      378305363
+    ],
+    "retry_count": 0
+  },
+  {
+    "type": "photo",
+    "photo_file_ids": [
+      "AgACAgQAAyEFAAMBClOLWAACBcBq60sXSdieO3k8VZfZmLvDlxy8UQACXQ9rG0E8YVPrSdanutHBQgEAAwIAA3kAAz0E"
+    ],
+    "caption": "✈️Telegram is testing a ChatGPT-style interface for AI agents\n\nTelegram is experimenting with a new “Compact Mode” in its Android beta that could make conversations with AI agents look much more like ChatGPT.\n\nThe feature is currently accessible only through the debug menu. However, Telegram plans to enable it automatically in chats with designated AI agent bots.\n\nThe difference is in how messages are displayed: your messages will remain in traditional chat bubbles, while the agent’s responses will appear as continuous blocks of text rather than separate bubbles.\n\nTelegram is also preparing an agent_bot_ids field in its AppConfig, which will contain the IDs of bots that automatically receive this interface.\n\nIt looks like Telegram is gradually adapting its traditional messaging experience for a future where AI agents become a bigger part of the platform.\n\n@aipost 🏴",
+    "entities": [
+      {
+        "offset": 0,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5852830669599674051"
+      },
+      {
+        "offset": 2,
+        "length": 59,
+        "type": "bold"
+      },
+      {
+        "offset": 868,
+        "length": 7,
+        "type": "mention"
+      },
+      {
+        "offset": 876,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5431390559912614642"
+      }
+    ],
+    "media_group_id": null,
+    "chat_id": -1004468214616,
+    "message_ids": [
+      1472
+    ],
+    "update_ids": [
+      378305364
+    ],
+    "retry_count": 0
+  },
+  {
+    "type": "photo",
+    "photo_file_ids": [
+      "AgACAgIAAyEFAAMBClOLWAACBcFq60tRY_Kdu_Gnr-VufS4gmoReLAACQh5rG-PBKEtVyIzh37ti9QEAAwIAA3kAAz0E"
+    ],
+    "caption": "🧠 Companies Reverse AI Layoffs\n\nFord hired or promoted 350 engineers after finding that neural networks could not handle the work. Klarna is hiring support staff again because its reliance on chatbots went too far.\n\nAI still needs people to monitor it, read emotions, and judge how serious a problem is. When employees return, they ask for higher pay and guarantees, while the invisible work lost with them turns out to have mattered.\n\n📊@tech",
+    "entities": [
+      {
+        "offset": 0,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5402230051255112379"
+      },
+      {
+        "offset": 3,
+        "length": 28,
+        "type": "bold"
+      },
+      {
+        "offset": 33,
+        "length": 4,
+        "type": "bold"
+      },
+      {
+        "offset": 56,
+        "length": 13,
+        "type": "bold"
+      },
+      {
+        "offset": 89,
+        "length": 41,
+        "type": "bold"
+      },
+      {
+        "offset": 132,
+        "length": 6,
+        "type": "bold"
+      },
+      {
+        "offset": 142,
+        "length": 26,
+        "type": "bold"
+      },
+      {
+        "offset": 226,
+        "length": 26,
+        "type": "bold"
+      },
+      {
+        "offset": 254,
+        "length": 13,
+        "type": "bold"
+      },
+      {
+        "offset": 273,
+        "length": 30,
+        "type": "bold"
+      },
+      {
+        "offset": 341,
+        "length": 25,
+        "type": "bold"
+      },
+      {
+        "offset": 378,
+        "length": 14,
+        "type": "bold"
+      },
+      {
+        "offset": 437,
+        "length": 2,
+        "type": "bold"
+      },
+      {
+        "offset": 437,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5449841756596101801"
+      },
+      {
+        "offset": 439,
+        "length": 5,
+        "type": "mention"
+      },
+      {
+        "offset": 439,
+        "length": 5,
+        "type": "bold"
+      }
+    ],
+    "media_group_id": null,
+    "chat_id": -1004468214616,
+    "message_ids": [
+      1473
+    ],
+    "update_ids": [
+      378305365
+    ],
+    "retry_count": 0
+  },
+  {
+    "type": "photo",
+    "photo_file_ids": [
+      "AgACAgIAAyEFAAMBClOLWAACBcJq60tRDUtUbA7cGFqINiSFZZgZegAC8x1rG8ldMUtZcXSWNi6fTAEAAwIAA3kAAz0E"
+    ],
+    "caption": "🤖 Anthropic drops the numbers from plans\n\nAnthropic’s paid plans have new names. Max 5x for $100 is now Max, while Max 20x for $200 is Ultra. The subscriptions product lead says the new names should be more informative.\n\nThe old numbers referred to usage limits, but not in the same way for every limit. Max 20x had a 20x five-hour limit and a weekly limit set at 10x Pro, which led some new users to read the name incorrectly.\n\nFor verified Ultra accounts, the five-hour limit is being removed. Sessions can continue without interruption, with only weekly limits remaining. The change follows complaints about the mismatch between plan names and actual limits.\n\n📊@tech",
+    "entities": [
+      {
+        "offset": 0,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5208665212483310136"
+      },
+      {
+        "offset": 3,
+        "length": 38,
+        "type": "bold"
+      },
+      {
+        "offset": 82,
+        "length": 15,
+        "type": "bold"
+      },
+      {
+        "offset": 116,
+        "length": 16,
+        "type": "bold"
+      },
+      {
+        "offset": 319,
+        "length": 19,
+        "type": "bold"
+      },
+      {
+        "offset": 365,
+        "length": 7,
+        "type": "bold"
+      },
+      {
+        "offset": 434,
+        "length": 23,
+        "type": "bold"
+      },
+      {
+        "offset": 463,
+        "length": 32,
+        "type": "bold"
+      },
+      {
+        "offset": 664,
+        "length": 2,
+        "type": "bold"
+      },
+      {
+        "offset": 664,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5449841756596101801"
+      },
+      {
+        "offset": 666,
+        "length": 5,
+        "type": "mention"
+      },
+      {
+        "offset": 666,
+        "length": 5,
+        "type": "bold"
+      }
+    ],
+    "media_group_id": null,
+    "chat_id": -1004468214616,
+    "message_ids": [
+      1474
+    ],
+    "update_ids": [
+      378305366
+    ],
+    "retry_count": 0
+  },
+  {
+    "type": "video",
+    "video_file_id": "BAACAgIAAyEFAAMBClOLWAACBcNq60tRkDhq0Z10uBClarPB1JQ2EQAChaUAA5EhS4OOfHEYVYmOPQQ",
+    "video_file_size": 12088275,
+    "caption": "🤩 Neuralink Prototype Launches Grok by Thought\n\nDuring a 72-hour hackathon, a participant in a speech-restoration study used a Neuralink brain implant to control a computer and communicate without speaking.\n\nThe prototype detects intent from neural signals. Thinking “Hey Neuralink” starts Grok as an AI agent that can perform computer actions.\n\nIt can also detect attempted speech, removing the button needed to start or stop recognition. Engineers tested real-time brain-activity visuals and Bloom, Neuralink’s communication app. These are early prototypes, not ready user features.\n\n📊@tech",
+    "entities": [
+      {
+        "offset": 0,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5870901224806552393"
+      },
+      {
+        "offset": 3,
+        "length": 44,
+        "type": "bold"
+      },
+      {
+        "offset": 58,
+        "length": 17,
+        "type": "bold"
+      },
+      {
+        "offset": 128,
+        "length": 9,
+        "type": "bold"
+      },
+      {
+        "offset": 138,
+        "length": 13,
+        "type": "bold"
+      },
+      {
+        "offset": 291,
+        "length": 4,
+        "type": "bold"
+      },
+      {
+        "offset": 302,
+        "length": 8,
+        "type": "bold"
+      },
+      {
+        "offset": 495,
+        "length": 5,
+        "type": "bold"
+      },
+      {
+        "offset": 543,
+        "length": 16,
+        "type": "bold"
+      },
+      {
+        "offset": 587,
+        "length": 2,
+        "type": "bold"
+      },
+      {
+        "offset": 587,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5449841756596101801"
+      },
+      {
+        "offset": 589,
+        "length": 5,
+        "type": "mention"
+      },
+      {
+        "offset": 589,
+        "length": 5,
+        "type": "bold"
+      }
+    ],
+    "media_group_id": null,
+    "chat_id": -1004468214616,
+    "message_ids": [
+      1475
+    ],
+    "update_ids": [
+      378305367
+    ],
+    "retry_count": 0
+  },
+  {
+    "type": "video",
+    "video_file_id": "BAACAgIAAyEFAAMBClOLWAACBcRq60tRP_KEDVTX0BH7yjnsYV94xgAC5aoAAlNfIEvMVAjEG3YJBz0E",
+    "video_file_size": 13019674,
+    "caption": "❤️ The World’s Largest Battery Ferry\n\nThe China Zorrilla now carries paying passengers between Buenos Aires and Colonia del Sacramento. The 130-meter aluminum catamaran takes up to 2100 passengers and 225 cars across 55 km in 75 minutes, with up to 4 trips a day.\n\nIts 43 MWh battery pack weighs about 286 tonnes and charges from 20% to 80% in 40 minutes at port. A 2300 m² duty-free store is a major part of the business, letting passengers avoid several taxes and duties.\n\nBattery power cuts the ferry’s speed to 25 knots, around 10 minutes slower than planned. Buquebus expects cheaper energy to repay the investment in 5-8 years.\n\n📊@tech",
+    "entities": [
+      {
+        "offset": 0,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5188629903012018835"
+      },
+      {
+        "offset": 3,
+        "length": 33,
+        "type": "bold"
+      },
+      {
+        "offset": 42,
+        "length": 14,
+        "type": "bold"
+      },
+      {
+        "offset": 181,
+        "length": 28,
+        "type": "bold"
+      },
+      {
+        "offset": 269,
+        "length": 19,
+        "type": "bold"
+      },
+      {
+        "offset": 515,
+        "length": 8,
+        "type": "bold"
+      },
+      {
+        "offset": 564,
+        "length": 8,
+        "type": "bold"
+      },
+      {
+        "offset": 623,
+        "length": 9,
+        "type": "bold"
+      },
+      {
+        "offset": 635,
+        "length": 2,
+        "type": "bold"
+      },
+      {
+        "offset": 635,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5449841756596101801"
+      },
+      {
+        "offset": 637,
+        "length": 5,
+        "type": "mention"
+      },
+      {
+        "offset": 637,
+        "length": 5,
+        "type": "bold"
+      }
+    ],
+    "media_group_id": null,
+    "chat_id": -1004468214616,
+    "message_ids": [
+      1476
+    ],
+    "update_ids": [
+      378305368
+    ],
+    "retry_count": 0
+  },
+  {
+    "type": "video",
+    "video_file_id": "BAACAgIAAyEFAAMBClOLWAACBcVq60tRAXsl1WmqUX_i2cIxTfzWYAACP6kAAtpBOEswF-A2KglWcD0E",
+    "video_file_size": 12227677,
+    "caption": "🌐 Reanimate Copies Web Animations Frame by Frame\n\nAn open-source GitHub tool lets a Claude Code agent reproduce an animation from a website, video, or GIF. It records the source, analyzes movement frame by frame, generates code, then compares the result with the original. Timing stays within 80 ms by default. Pixel-perfect mode targets a visual mismatch of no more than 2%.\n\nReanimate supports CSS animations and rendering through Canvas, WebGL or WebGPU, including 3D scenes and particle effects. When it finds differences, the agent corrects the code and checks again. Most animations reportedly need 2-5 cycles.\n\nIt runs locally through Bun, Playwright and FFmpeg, with no paid API. The source is open under the MIT license.\n\n📊@tech",
+    "entities": [
+      {
+        "offset": 0,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5776233299424843260"
+      },
+      {
+        "offset": 3,
+        "length": 46,
+        "type": "bold"
+      },
+      {
+        "offset": 54,
+        "length": 23,
+        "type": "text_link",
+        "url": "https://reanimate.niazmorshed.dev/?utm_source=chatgpt.com"
+      },
+      {
+        "offset": 54,
+        "length": 23,
+        "type": "bold"
+      },
+      {
+        "offset": 85,
+        "length": 11,
+        "type": "bold"
+      },
+      {
+        "offset": 103,
+        "length": 22,
+        "type": "bold"
+      },
+      {
+        "offset": 198,
+        "length": 14,
+        "type": "bold"
+      },
+      {
+        "offset": 294,
+        "length": 5,
+        "type": "bold"
+      },
+      {
+        "offset": 373,
+        "length": 2,
+        "type": "bold"
+      },
+      {
+        "offset": 397,
+        "length": 14,
+        "type": "bold"
+      },
+      {
+        "offset": 434,
+        "length": 23,
+        "type": "bold"
+      },
+      {
+        "offset": 469,
+        "length": 30,
+        "type": "bold"
+      },
+      {
+        "offset": 606,
+        "length": 10,
+        "type": "bold"
+      },
+      {
+        "offset": 622,
+        "length": 12,
+        "type": "bold"
+      },
+      {
+        "offset": 718,
+        "length": 11,
+        "type": "bold"
+      },
+      {
+        "offset": 732,
+        "length": 2,
+        "type": "bold"
+      },
+      {
+        "offset": 732,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5449841756596101801"
+      },
+      {
+        "offset": 734,
+        "length": 5,
+        "type": "mention"
+      },
+      {
+        "offset": 734,
+        "length": 5,
+        "type": "bold"
+      }
+    ],
+    "media_group_id": null,
+    "chat_id": -1004468214616,
+    "message_ids": [
+      1477
+    ],
+    "update_ids": [
+      378305369
+    ],
+    "retry_count": 0
+  },
+  {
+    "type": "video",
+    "video_file_id": "BAACAgIAAyEFAAMBClOLWAACBcZq60tRqMI7D7w0Le4XXJDz0TAWlwACvLoAAlurUEtIE0embrBYXz0E",
+    "video_file_size": 16584997,
+    "caption": "🤖 OpenAI Builds a Daily-Life Benchmark\n\nLifeVal checks AI usefulness on everyday tasks rather than math or coding. Researchers studied how people spend their time and surveyed 3,995 people to identify where AI help is most needed.\n\nOpenAI reports 100% for finding housing within a budget and commute time. Scores were 93.1% for choosing a kindergarten after a move and 90.4% for planning food and care for someone with diabetes.\n\nThe figures are OpenAI’s own results.\n\n📊@tech",
+    "entities": [
+      {
+        "offset": 0,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5397681122542893003"
+      },
+      {
+        "offset": 3,
+        "length": 36,
+        "type": "bold"
+      },
+      {
+        "offset": 56,
+        "length": 31,
+        "type": "bold"
+      },
+      {
+        "offset": 177,
+        "length": 12,
+        "type": "bold"
+      },
+      {
+        "offset": 248,
+        "length": 4,
+        "type": "bold"
+      },
+      {
+        "offset": 319,
+        "length": 5,
+        "type": "bold"
+      },
+      {
+        "offset": 370,
+        "length": 5,
+        "type": "bold"
+      },
+      {
+        "offset": 447,
+        "length": 20,
+        "type": "bold"
+      },
+      {
+        "offset": 470,
+        "length": 2,
+        "type": "bold"
+      },
+      {
+        "offset": 470,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5449841756596101801"
+      },
+      {
+        "offset": 472,
+        "length": 5,
+        "type": "mention"
+      },
+      {
+        "offset": 472,
+        "length": 5,
+        "type": "bold"
+      }
+    ],
+    "media_group_id": null,
+    "chat_id": -1004468214616,
+    "message_ids": [
+      1478
+    ],
+    "update_ids": [
+      378305370
+    ],
+    "retry_count": 0
+  },
+  {
+    "type": "photo",
+    "photo_file_ids": [
+      "AgACAgIAAyEFAAMBClOLWAACBcdq60tRVDFlvlFe7Vdku6Q0XG4ysAACtB1rG1-rUEuVIuYouDGI9AEAAwIAA3gAAz0E"
+    ],
+    "caption": "🛰️ AT&T and AST Test Satellite Handover\n\nOn October 21 in Washington state, an active connection moved between terrestrial and satellite networks serving ordinary phones. AT&T and AST SpaceMobile called it the industry’s first successful handover of this kind.\n\nAST’s BlueBird satellites already support voice calls and messaging on regular smartphones. Ericsson supplied AT&T’s radio and core systems, while Nokia provided satellite-side radio access and mobility software.\n\nThe aim is mobile coverage that extends to satellites without a new phone or manual setup. A beta service in real conditions is next, but commercial launch has no announced date.\n\n📊@tech",
+    "entities": [
+      {
+        "offset": 4,
+        "length": 36,
+        "type": "bold"
+      },
+      {
+        "offset": 172,
+        "length": 24,
+        "type": "bold"
+      },
+      {
+        "offset": 222,
+        "length": 25,
+        "type": "bold"
+      },
+      {
+        "offset": 269,
+        "length": 19,
+        "type": "bold"
+      },
+      {
+        "offset": 355,
+        "length": 8,
+        "type": "bold"
+      },
+      {
+        "offset": 410,
+        "length": 5,
+        "type": "bold"
+      },
+      {
+        "offset": 570,
+        "length": 31,
+        "type": "bold"
+      },
+      {
+        "offset": 657,
+        "length": 2,
+        "type": "bold"
+      },
+      {
+        "offset": 657,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5449841756596101801"
+      },
+      {
+        "offset": 659,
+        "length": 5,
+        "type": "mention"
+      },
+      {
+        "offset": 659,
+        "length": 5,
+        "type": "bold"
+      }
+    ],
+    "media_group_id": null,
+    "chat_id": -1004468214616,
+    "message_ids": [
+      1479
+    ],
+    "update_ids": [
+      378305371
+    ],
+    "retry_count": 0
+  },
+  {
+    "type": "photo",
+    "photo_file_ids": [
+      "AgACAgIAAyEFAAMBClOLWAACBchq61GzTw6fI5IdFdeTOk7BbTh2JgACeiJrGyWFUEvP9WLxrTDqUAEAAwIAA3kAAz0E"
+    ],
+    "caption": "📊 57% of American voters say AI will hurt society more than it helps\n\nOnly 24% think it will do more good, according to the NBC News exit poll of Tuesday's midterm elections.\n\nFor many it shaped the vote. 56% called AI and data centers a crucial or major factor in choosing whom to send to Congress. And 76% said they would oppose a new data center in their own community.\n\nVoters don't trust either side with it: 43% said neither party is better at handling AI, 29% picked Democrats and 27% Republicans.\n\nWall Street noticed. Stock futures fell overnight as Democratic wins were seen as a threat to the AI and data center boom, NBC reports. Elon Musk's reaction on X: \"Data centers in space looking pretty appealing right now\"\n\nEarly exit poll figures; they can still shift.\n\n@aipost 🏴",
+    "entities": [
+      {
+        "offset": 0,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5289720732941587857"
+      },
+      {
+        "offset": 3,
+        "length": 66,
+        "type": "bold"
+      },
+      {
+        "offset": 125,
+        "length": 18,
+        "type": "text_link",
+        "url": "https://www.nbcnews.com/politics/2026-elections/exit-polls"
+      },
+      {
+        "offset": 730,
+        "length": 46,
+        "type": "italic"
+      },
+      {
+        "offset": 778,
+        "length": 7,
+        "type": "mention"
+      },
+      {
+        "offset": 786,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5431390559912614642"
+      }
+    ],
+    "media_group_id": null,
+    "chat_id": -1004468214616,
+    "message_ids": [
+      1480
+    ],
+    "update_ids": [
+      378305372
+    ],
+    "retry_count": 0
+  }
+]
