@@ -2,39 +2,28 @@
   {
     "type": "photo",
     "photo_file_ids": [
-      "AgACAgIAAyEFAAMBClOLWAACBc5q7Eh6ZD2sJd-cMx7x4qvZhi62dAACsCJrGyWFWEtrsyOdV_QFvgEAAwIAA3kAAz0E"
+      "AgACAgIAAyEFAAMBClOLWAACBdRq7OQWOX2jmesm6zO76pm2OBVKygACrR1rG-vDYUu5M0_3xMnEFAEAAwIAA3kAAz0E"
     ],
-    "caption": "🤨 One AI model averages 7 em dashes per answer. Claude Opus uses almost none\n\nArtificial Analysis counted every em dash in every answer on its personality benchmark. Plenty of readers treat that dash as a sign a text was written by AI.\n\nThe heaviest user is GLM-5.3, from China's Z.ai, with 7.4 per response. Right behind: GLM-5.3-Flash and Meta's Muse Wonder (6.9 each), then Kimi K3 (6.7).\n\nAnthropic's models are split. Claude Fable 5.1 averages 6.4 per answer. Claude Opus 5.5 uses fewer than one every 40 answers, and Sonnet 5.5 and Haiku 5.5 come out at zero.\n\nSo does OpenAI's old GPT-3.5 Turbo.\n\n@aipost 🏴",
+    "caption": "📞 Grok Bot can now call your dentist for you\n\nElon Musk posted that Grok Bot can place phone calls. In one demo making the rounds, a bot dialed a dental office and asked whether they take a patient's insurance.\n\nThe bot stays on the line, talks to the person who picks up, and reports back in chat. Musk highlighted the feature with a simple line: it can call your dentist on the phone.\n\nWould you let a bot call a doctor's office for you?\n\n@aipost 🏴",
     "entities": [
       {
         "offset": 0,
         "length": 2,
         "type": "custom_emoji",
-        "custom_emoji_id": "5832395820795693898"
+        "custom_emoji_id": "5467539229468793355"
       },
       {
         "offset": 3,
-        "length": 74,
+        "length": 42,
         "type": "bold"
       },
       {
-        "offset": 79,
-        "length": 27,
-        "type": "text_link",
-        "url": "https://x.com/ArtificialAnlys/status/2118025481962590485"
-      },
-      {
-        "offset": 281,
-        "length": 4,
-        "type": "url"
-      },
-      {
-        "offset": 605,
+        "offset": 442,
         "length": 7,
         "type": "mention"
       },
       {
-        "offset": 613,
+        "offset": 450,
         "length": 2,
         "type": "custom_emoji",
         "custom_emoji_id": "5431390559912614642"
@@ -43,279 +32,81 @@
     "media_group_id": null,
     "chat_id": -1004468214616,
     "message_ids": [
-      1486
+      1492
     ],
     "update_ids": [
-      378305378
-    ],
-    "retry_count": 0
-  },
-  {
-    "type": "photo",
-    "photo_file_ids": [
-      "AgACAgIAAyEFAAMBClOLWAACBc9q7Eh6skcIQ84s3GGZo6_0yj45WgACsSJrGyWFWEuQIHzHaDYm4AEAAwIAA3kAAz0E"
-    ],
-    "caption": "🤖 A Chinese lab just let anyone download an AI that keeps up with Claude and GPT\n\nMoonshot AI posted the full weights of Kimi K3.1 Pro on Hugging Face. Anyone can now run the model on their own hardware.\n\nIt's enormous: 2.8 trillion parameters, with 104 billion active at a time, and it can read up to 1 million tokens at once.\n\nOn Moonshot's own tests it beats Claude Opus 5.5, Claude Fable 5.1 and GPT-6 Astra on the SWE Marathon coding benchmark: 51.7 against 46.3, 45.6 and 42.5. On Humanity's Last Exam with tools it scores 70.0, ahead of Opus at 67.7.\n\nIt still trails them elsewhere. On ExploitBench, a hacking test, Kimi gets 74.7. GPT-6 Astra gets 100.\n\n@aipost 🏴",
-    "entities": [
-      {
-        "offset": 0,
-        "length": 2,
-        "type": "custom_emoji",
-        "custom_emoji_id": "5384247104791148900"
-      },
-      {
-        "offset": 3,
-        "length": 78,
-        "type": "bold"
-      },
-      {
-        "offset": 95,
-        "length": 23,
-        "type": "text_link",
-        "url": "https://huggingface.co/moonshotai/Kimi-K3.1-Pro"
-      },
-      {
-        "offset": 664,
-        "length": 7,
-        "type": "mention"
-      },
-      {
-        "offset": 672,
-        "length": 2,
-        "type": "custom_emoji",
-        "custom_emoji_id": "5431390559912614642"
-      }
-    ],
-    "media_group_id": null,
-    "chat_id": -1004468214616,
-    "message_ids": [
-      1487
-    ],
-    "update_ids": [
-      378305379
-    ],
-    "retry_count": 0
-  },
-  {
-    "type": "album",
-    "photo_file_ids": [
-      "AgACAgQAAyEFAAMBClOLWAACBdBq7EirtpUhsDWhpffMeH7UWYcFpwACXw9rG0E8YVMECdy5FGavGQEAAwIAA3kAAz0E",
-      "AgACAgQAAyEFAAMBClOLWAACBdFq7EirrJkTRZxqbOgORX1C9UyOWwACYA9rG0E8YVOxRAGmN7R-pAEAAwIAA3cAAz0E"
-    ],
-    "caption": "🤣🤣\n\n@aipost 🏴",
-    "entities": [
-      {
-        "offset": 0,
-        "length": 2,
-        "type": "custom_emoji",
-        "custom_emoji_id": "5370712413005945913"
-      },
-      {
-        "offset": 2,
-        "length": 2,
-        "type": "custom_emoji",
-        "custom_emoji_id": "5370712413005945913"
-      },
-      {
-        "offset": 6,
-        "length": 7,
-        "type": "mention"
-      },
-      {
-        "offset": 14,
-        "length": 2,
-        "type": "custom_emoji",
-        "custom_emoji_id": "5431390559912614642"
-      }
-    ],
-    "media_group_id": "14350959964337565",
-    "chat_id": -1004468214616,
-    "message_ids": [
-      1488,
-      1489
-    ],
-    "update_ids": [
-      378305380,
-      378305381
+      378305384
     ],
     "retry_count": 0
   },
   {
     "type": "video",
-    "video_file_id": "BAACAgIAAyEFAAMBClOLWAACBdJq7IW67SMwm5pQwLQIm9nArrnWIQACKKIAAkeEYEsG5SzjPs-DAT0E",
-    "video_file_size": 2756799,
-    "caption": "🤖 OpenAI adds GIFs to ChatGPT Images\n\nChatGPT Images 2.6 can turn a text prompt or a picture into an animated GIF. Users can adjust playback speed and edit individual frames. Saved references for themselves, pets, or characters can be reused without uploading them again.\n\nFor developers, GPT-Image-2.6 Flare and Sunburst are available through the API. Image generation is 50% faster. Flare produces images in 6 seconds, while Sunburst delivers higher quality and keeps edits more consistent. Image markup and SVG export are also supported.\n\nImages 2.6 is available in ChatGPT and Codex on all plans. The 2 new models are available in the API.\n\n📊@tech",
+    "video_file_id": "BAACAgIAAyEFAAMBClOLWAACBdVq7OQWxxhX4SMAAaFC3MAhj4N7CNwAAp6zAALrw2lLxpp6KXX-wTA9BA",
+    "video_file_size": 3524294,
+    "caption": "🧠 ChatGPT and Claude can finally share one memory\n\nYour bots used to forget what the other already knew. Notion now lets ChatGPT, Claude and other connected apps read and write the same notes, preferences and skills in your workspace.\n\nThree steps:\n1. Connect the app in Notion's gallery, or inside the app itself\n2. Paste Notion's setup prompt so the bot checks those notes before answering and saves useful work back\n3. Drop the custom instructions it gives you into ChatGPT or Claude settings\n\nWithout that prompt, Notion says bots often ignore the connection. Everything lands in a Memories database you can edit. Run it once per bot.\n\nNotion MCP help\n\n@aipost 🏴",
     "entities": [
       {
         "offset": 0,
         "length": 2,
         "type": "custom_emoji",
-        "custom_emoji_id": "5397681122542893003"
+        "custom_emoji_id": "5237799019329105246"
       },
       {
         "offset": 3,
-        "length": 34,
+        "length": 47,
         "type": "bold"
       },
       {
-        "offset": 39,
-        "length": 18,
-        "type": "bold"
+        "offset": 641,
+        "length": 15,
+        "type": "text_link",
+        "url": "https://www.notion.com/help/notion-mcp"
       },
       {
-        "offset": 290,
-        "length": 19,
-        "type": "bold"
-      },
-      {
-        "offset": 314,
-        "length": 8,
-        "type": "bold"
-      },
-      {
-        "offset": 374,
-        "length": 10,
-        "type": "bold"
-      },
-      {
-        "offset": 411,
-        "length": 9,
-        "type": "bold"
-      },
-      {
-        "offset": 428,
-        "length": 8,
-        "type": "bold"
-      },
-      {
-        "offset": 543,
-        "length": 10,
-        "type": "bold"
-      },
-      {
-        "offset": 646,
-        "length": 2,
-        "type": "bold"
-      },
-      {
-        "offset": 646,
-        "length": 2,
-        "type": "custom_emoji",
-        "custom_emoji_id": "5449841756596101801"
-      },
-      {
-        "offset": 648,
-        "length": 5,
+        "offset": 658,
+        "length": 7,
         "type": "mention"
       },
       {
-        "offset": 648,
-        "length": 5,
-        "type": "bold"
+        "offset": 666,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5431390559912614642"
       }
     ],
     "media_group_id": null,
     "chat_id": -1004468214616,
     "message_ids": [
-      1490
+      1493
     ],
     "update_ids": [
-      378305382
+      378305385
     ],
     "retry_count": 0
   },
   {
-    "type": "photo",
-    "photo_file_ids": [
-      "AgACAgIAAyEFAAMBClOLWAACBdNq7IW6yxOGhPv3Yc1C9LuETw0eogACOCBrG0OWYUuUKbdxRDi_WgEAAwIAA3gAAz0E"
-    ],
-    "caption": "🪙 Binance explains the $6.3B theft\n\nA fake “recruiter” led to several interview rounds. In September, a test file replaced legitimate pyenv with a backdoored copy. Security tools missed the malware, described as a zero-day.\n\nBy 20 October, attackers controlled wallets through Binance’s internal AI tool. On 29 October, they reached a third employee’s computer. Hot-wallet transfers using MPC continued for almost 2 hours because no single private key could revoke the malicious EIP-7702 permissions.\n\nBinance says about $2.85 billion was frozen or intercepted. 98% of affected tokens has been reimbursed, users will not bear losses, and the FBI attributes the attack to North Korean group TraderTraitor.\n\n📊@tech",
+    "type": "text",
+    "caption": "✍️ Telegram is testing a way to rewrite your message after you hit send\n\nIn the Mac beta right now, you can turn on an AI Editor so that after you send a message it can fix typos, change the tone, or translate it — and the other person never sees an «edited» label.\n\nTelegram may land this update in the main app next.\n\n@aipost 🏴",
     "entities": [
       {
-        "offset": 0,
-        "length": 2,
-        "type": "custom_emoji",
-        "custom_emoji_id": "5397664333515732732"
-      },
-      {
-        "offset": 3,
-        "length": 32,
-        "type": "bold"
-      },
-      {
-        "offset": 135,
-        "length": 5,
-        "type": "bold"
-      },
-      {
-        "offset": 215,
-        "length": 8,
-        "type": "bold"
-      },
-      {
-        "offset": 229,
-        "length": 10,
-        "type": "bold"
-      },
-      {
-        "offset": 309,
-        "length": 10,
-        "type": "bold"
-      },
-      {
-        "offset": 390,
-        "length": 3,
-        "type": "bold"
-      },
-      {
-        "offset": 415,
+        "offset": 320,
         "length": 7,
-        "type": "bold"
-      },
-      {
-        "offset": 522,
-        "length": 13,
-        "type": "bold"
-      },
-      {
-        "offset": 563,
-        "length": 3,
-        "type": "bold"
-      },
-      {
-        "offset": 691,
-        "length": 13,
-        "type": "bold"
-      },
-      {
-        "offset": 707,
-        "length": 2,
-        "type": "bold"
-      },
-      {
-        "offset": 707,
-        "length": 2,
-        "type": "custom_emoji",
-        "custom_emoji_id": "5449841756596101801"
-      },
-      {
-        "offset": 709,
-        "length": 5,
         "type": "mention"
       },
       {
-        "offset": 709,
-        "length": 5,
-        "type": "bold"
+        "offset": 328,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5431390559912614642"
       }
     ],
     "media_group_id": null,
     "chat_id": -1004468214616,
     "message_ids": [
-      1491
+      1494
     ],
     "update_ids": [
-      378305383
+      378305386
     ],
     "retry_count": 0
   }
