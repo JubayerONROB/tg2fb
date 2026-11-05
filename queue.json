@@ -2,266 +2,6 @@
   {
     "type": "photo",
     "photo_file_ids": [
-      "AgACAgIAAyEFAAMBClOLWAACBclq63yEyvf3yAb6vlIjFSl_snLrawACeyJrGyWFUEviy0S2qeqDmQEAAwIAA3kAAz0E"
-    ],
-    "caption": "🧐 Apple Watch can now listen to your conversations all day and sum them up\n\nThe feature is called Siri Recap, and it is in the new watchOS 27.3 beta for developers. Switch it on and the watch's microphone takes notes on your conversations through the day, then turns them into short summaries with a title and key points.\n\nA second feature, Live Rewind, is for when you missed what someone said: double-press the Digital Crown and the watch shows the last 15 seconds of speech as text.\n\nBoth are opt-in. You can schedule Recap for \"only at work\" or \"never at night\", and summaries can delete themselves after up to 7 days. Apple says no audio is recorded and no transcript is kept, and the raw sound stays in a sealed-off part of the chip that even Apple can't access.\n\nIt needs an Apple Watch Series 12 or Ultra 4 and an iPhone 16 or newer. English only, no users under 18, and not in the EU for now.\n\nWould you let your watch take notes on every conversation of your day?\n\n@aipost 🏴",
-    "entities": [
-      {
-        "offset": 0,
-        "length": 2,
-        "type": "custom_emoji",
-        "custom_emoji_id": "5290023339157392620"
-      },
-      {
-        "offset": 3,
-        "length": 72,
-        "type": "bold"
-      },
-      {
-        "offset": 624,
-        "length": 10,
-        "type": "text_link",
-        "url": "https://support.apple.com/en-us/148354"
-      },
-      {
-        "offset": 976,
-        "length": 7,
-        "type": "mention"
-      },
-      {
-        "offset": 984,
-        "length": 2,
-        "type": "custom_emoji",
-        "custom_emoji_id": "5431390559912614642"
-      }
-    ],
-    "media_group_id": null,
-    "chat_id": -1004468214616,
-    "message_ids": [
-      1481
-    ],
-    "update_ids": [
-      378305373
-    ],
-    "retry_count": 0
-  },
-  {
-    "type": "video",
-    "video_file_id": "BAACAgIAAyEFAAMBClOLWAACBcpq64ONRko9rU-Cp5qzndGzA2GuwwACvboAAlurUEuBxgx4GygreT0E",
-    "video_file_size": 1528887,
-    "caption": "🤖 Claude Code Blocks Game Cloning\n\nAnthropic added 2 sentences to the system prompt for Claude Code on Opus 5.5. The rule blocks recreating a specific existing game, even when it is named directly or presented as original.\n\nThe change reportedly reached servers around October 27 under the flag tengu_heron_brook. Users can still make original games, genre projects, or work based on their own designs and assets.\n\nAnthropic’s Addy Osmani confirmed the prompt was changed, but not the exact wording. The stated goal is to stop Claude from reproducing other people’s games, which violates its usage rules. Similar changes elsewhere in Claude remain unknown.\n\n📊@tech",
-    "entities": [
-      {
-        "offset": 0,
-        "length": 2,
-        "type": "custom_emoji",
-        "custom_emoji_id": "5208665212483310136"
-      },
-      {
-        "offset": 3,
-        "length": 31,
-        "type": "bold"
-      },
-      {
-        "offset": 52,
-        "length": 11,
-        "type": "bold"
-      },
-      {
-        "offset": 89,
-        "length": 23,
-        "type": "bold"
-      },
-      {
-        "offset": 270,
-        "length": 10,
-        "type": "bold"
-      },
-      {
-        "offset": 296,
-        "length": 17,
-        "type": "bold"
-      },
-      {
-        "offset": 528,
-        "length": 6,
-        "type": "bold"
-      },
-      {
-        "offset": 635,
-        "length": 6,
-        "type": "bold"
-      },
-      {
-        "offset": 659,
-        "length": 2,
-        "type": "bold"
-      },
-      {
-        "offset": 659,
-        "length": 2,
-        "type": "custom_emoji",
-        "custom_emoji_id": "5449841756596101801"
-      },
-      {
-        "offset": 661,
-        "length": 5,
-        "type": "mention"
-      },
-      {
-        "offset": 661,
-        "length": 5,
-        "type": "bold"
-      }
-    ],
-    "media_group_id": null,
-    "chat_id": -1004468214616,
-    "message_ids": [
-      1482
-    ],
-    "update_ids": [
-      378305374
-    ],
-    "retry_count": 0
-  },
-  {
-    "type": "photo",
-    "photo_file_ids": [
-      "AgACAgIAAyEFAAMBClOLWAACBctq65g7sK9n5___xujIy-viUze7NwACfSJrGyWFUEv5Of0JsMbPzwEAAwIAA3kAAz0E"
-    ],
-    "caption": "💻 This founder has 50+ employees but talks to his AI agents more than to them\n\nGreg Isenberg, CEO of Late Checkout, has 50+ people in 12 countries. His agents do this:\n\n1. Ideas: he sends a voice note, and an agent grills the idea before anything gets built.\n2. Research: agents read rivals' sites, prices and user reviews. Prompt: find the 10 complaints that show up most and quote the users\n3. Design: Claude Code makes 4 versions of every screen before any code exists.\n4. Build: agents work in parallel overnight. He checks what shipped over coffee.\n5. Testing: agents click every flow as an impatient user, a confused one and a phone user.\n6. Bugs: an agent opens a fix in under 10 minutes. A human just approves.\n\nRules: a cheap model for sorting, Opus for anything that ships. Another model scores every output 1 to 10; under 8 goes back. Every agent mistake becomes a new skill, so it only happens once.\n\nThe humans handle creative feedback, relationships and telling the agents what they got wrong.\n\n@aipost 🏴",
-    "entities": [
-      {
-        "offset": 0,
-        "length": 2,
-        "type": "custom_emoji",
-        "custom_emoji_id": "5366308323475880265"
-      },
-      {
-        "offset": 3,
-        "length": 75,
-        "type": "bold"
-      },
-      {
-        "offset": 333,
-        "length": 60,
-        "type": "code"
-      },
-      {
-        "offset": 1010,
-        "length": 7,
-        "type": "mention"
-      },
-      {
-        "offset": 1018,
-        "length": 2,
-        "type": "custom_emoji",
-        "custom_emoji_id": "5431390559912614642"
-      }
-    ],
-    "media_group_id": null,
-    "chat_id": -1004468214616,
-    "message_ids": [
-      1483
-    ],
-    "update_ids": [
-      378305375
-    ],
-    "retry_count": 0
-  },
-  {
-    "type": "video",
-    "video_file_id": "BAACAgIAAyEFAAMBClOLWAACBcxq7Eh6El5TVThfrZq099wZqfazCAACi68AAiWFWEvrkXjLr_4Wwz0E",
-    "video_file_size": 2606632,
-    "caption": "🗣 “The titans of Silicon Valley dig bunkers for themselves”: Jon Ossoff's victory speech on AI\n\nJon Ossoff won reelection to the Senate in Georgia on Tuesday night, beating Republican Mike Collins. Midway through his victory speech, he went after the people building AI:\n\nMeanwhile, the titans of Silicon Valley dig bunkers for themselves and warn that the artificial intelligence they're creating risks human extinction.\n\nNear the end he talked about his two daughters. He said he refuses to accept that they \"will grow up with artificial friends and teachers.\"\n\nThis isn't new for him. At a rally in September, he called for inspectors inside frontier AI labs and an international AI treaty.\n\n@aipost 🏴",
-    "entities": [
-      {
-        "offset": 0,
-        "length": 2,
-        "type": "custom_emoji",
-        "custom_emoji_id": "5287468155738821335"
-      },
-      {
-        "offset": 3,
-        "length": 92,
-        "type": "bold"
-      },
-      {
-        "offset": 273,
-        "length": 149,
-        "type": "blockquote"
-      },
-      {
-        "offset": 696,
-        "length": 7,
-        "type": "mention"
-      },
-      {
-        "offset": 704,
-        "length": 2,
-        "type": "custom_emoji",
-        "custom_emoji_id": "5431390559912614642"
-      }
-    ],
-    "media_group_id": null,
-    "chat_id": -1004468214616,
-    "message_ids": [
-      1484
-    ],
-    "update_ids": [
-      378305376
-    ],
-    "retry_count": 0
-  },
-  {
-    "type": "photo",
-    "photo_file_ids": [
-      "AgACAgIAAyEFAAMBClOLWAACBc1q7Eh6qDgCBEmq7pqOC8lSwUxRHwACLyBrGyWFWEtc9Vyel59jygEAAwIAA3kAAz0E"
-    ],
-    "caption": "📢 Apple is letting every app plug into Siri AI, so you can just ask it to book or order\n\nAny developer can now connect an app to Siri AI, Apple announced on Tuesday. Ask in your own words, and Siri runs the app's own actions: check a delivery, book a reservation, place an order.\n\nApps can also teach Siri \"skills\" that chain several actions into one request. Apple's own apps go first: you can ask Siri to find a coffee shop you visited last week, or archive files you haven't opened in over a year.\n\nFor now it's a developer preview in the iOS 27.3 and macOS 27.3 betas. Apple says customers get it in a few months, with App Store submissions opening in spring. Siri AI isn't available in the EU on iPhone, iPad and Apple Watch yet.\n\n@aipost 🏴",
-    "entities": [
-      {
-        "offset": 0,
-        "length": 2,
-        "type": "custom_emoji",
-        "custom_emoji_id": "5289992252184100112"
-      },
-      {
-        "offset": 3,
-        "length": 85,
-        "type": "bold"
-      },
-      {
-        "offset": 145,
-        "length": 9,
-        "type": "text_link",
-        "url": "https://developer.apple.com/news/?id=gdk2umrf"
-      },
-      {
-        "offset": 737,
-        "length": 7,
-        "type": "mention"
-      },
-      {
-        "offset": 745,
-        "length": 2,
-        "type": "custom_emoji",
-        "custom_emoji_id": "5431390559912614642"
-      }
-    ],
-    "media_group_id": null,
-    "chat_id": -1004468214616,
-    "message_ids": [
-      1485
-    ],
-    "update_ids": [
-      378305377
-    ],
-    "retry_count": 0
-  },
-  {
-    "type": "photo",
-    "photo_file_ids": [
       "AgACAgIAAyEFAAMBClOLWAACBc5q7Eh6ZD2sJd-cMx7x4qvZhi62dAACsCJrGyWFWEtrsyOdV_QFvgEAAwIAA3kAAz0E"
     ],
     "caption": "🤨 One AI model averages 7 em dashes per answer. Claude Opus uses almost none\n\nArtificial Analysis counted every em dash in every answer on its personality benchmark. Plenty of readers treat that dash as a sign a text was written by AI.\n\nThe heaviest user is GLM-5.3, from China's Z.ai, with 7.4 per response. Right behind: GLM-5.3-Flash and Meta's Muse Wonder (6.9 each), then Kimi K3 (6.7).\n\nAnthropic's models are split. Claude Fable 5.1 averages 6.4 per answer. Claude Opus 5.5 uses fewer than one every 40 answers, and Sonnet 5.5 and Haiku 5.5 come out at zero.\n\nSo does OpenAI's old GPT-3.5 Turbo.\n\n@aipost 🏴",
@@ -397,6 +137,185 @@
     "update_ids": [
       378305380,
       378305381
+    ],
+    "retry_count": 0
+  },
+  {
+    "type": "video",
+    "video_file_id": "BAACAgIAAyEFAAMBClOLWAACBdJq7IW67SMwm5pQwLQIm9nArrnWIQACKKIAAkeEYEsG5SzjPs-DAT0E",
+    "video_file_size": 2756799,
+    "caption": "🤖 OpenAI adds GIFs to ChatGPT Images\n\nChatGPT Images 2.6 can turn a text prompt or a picture into an animated GIF. Users can adjust playback speed and edit individual frames. Saved references for themselves, pets, or characters can be reused without uploading them again.\n\nFor developers, GPT-Image-2.6 Flare and Sunburst are available through the API. Image generation is 50% faster. Flare produces images in 6 seconds, while Sunburst delivers higher quality and keeps edits more consistent. Image markup and SVG export are also supported.\n\nImages 2.6 is available in ChatGPT and Codex on all plans. The 2 new models are available in the API.\n\n📊@tech",
+    "entities": [
+      {
+        "offset": 0,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5397681122542893003"
+      },
+      {
+        "offset": 3,
+        "length": 34,
+        "type": "bold"
+      },
+      {
+        "offset": 39,
+        "length": 18,
+        "type": "bold"
+      },
+      {
+        "offset": 290,
+        "length": 19,
+        "type": "bold"
+      },
+      {
+        "offset": 314,
+        "length": 8,
+        "type": "bold"
+      },
+      {
+        "offset": 374,
+        "length": 10,
+        "type": "bold"
+      },
+      {
+        "offset": 411,
+        "length": 9,
+        "type": "bold"
+      },
+      {
+        "offset": 428,
+        "length": 8,
+        "type": "bold"
+      },
+      {
+        "offset": 543,
+        "length": 10,
+        "type": "bold"
+      },
+      {
+        "offset": 646,
+        "length": 2,
+        "type": "bold"
+      },
+      {
+        "offset": 646,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5449841756596101801"
+      },
+      {
+        "offset": 648,
+        "length": 5,
+        "type": "mention"
+      },
+      {
+        "offset": 648,
+        "length": 5,
+        "type": "bold"
+      }
+    ],
+    "media_group_id": null,
+    "chat_id": -1004468214616,
+    "message_ids": [
+      1490
+    ],
+    "update_ids": [
+      378305382
+    ],
+    "retry_count": 0
+  },
+  {
+    "type": "photo",
+    "photo_file_ids": [
+      "AgACAgIAAyEFAAMBClOLWAACBdNq7IW6yxOGhPv3Yc1C9LuETw0eogACOCBrG0OWYUuUKbdxRDi_WgEAAwIAA3gAAz0E"
+    ],
+    "caption": "🪙 Binance explains the $6.3B theft\n\nA fake “recruiter” led to several interview rounds. In September, a test file replaced legitimate pyenv with a backdoored copy. Security tools missed the malware, described as a zero-day.\n\nBy 20 October, attackers controlled wallets through Binance’s internal AI tool. On 29 October, they reached a third employee’s computer. Hot-wallet transfers using MPC continued for almost 2 hours because no single private key could revoke the malicious EIP-7702 permissions.\n\nBinance says about $2.85 billion was frozen or intercepted. 98% of affected tokens has been reimbursed, users will not bear losses, and the FBI attributes the attack to North Korean group TraderTraitor.\n\n📊@tech",
+    "entities": [
+      {
+        "offset": 0,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5397664333515732732"
+      },
+      {
+        "offset": 3,
+        "length": 32,
+        "type": "bold"
+      },
+      {
+        "offset": 135,
+        "length": 5,
+        "type": "bold"
+      },
+      {
+        "offset": 215,
+        "length": 8,
+        "type": "bold"
+      },
+      {
+        "offset": 229,
+        "length": 10,
+        "type": "bold"
+      },
+      {
+        "offset": 309,
+        "length": 10,
+        "type": "bold"
+      },
+      {
+        "offset": 390,
+        "length": 3,
+        "type": "bold"
+      },
+      {
+        "offset": 415,
+        "length": 7,
+        "type": "bold"
+      },
+      {
+        "offset": 522,
+        "length": 13,
+        "type": "bold"
+      },
+      {
+        "offset": 563,
+        "length": 3,
+        "type": "bold"
+      },
+      {
+        "offset": 691,
+        "length": 13,
+        "type": "bold"
+      },
+      {
+        "offset": 707,
+        "length": 2,
+        "type": "bold"
+      },
+      {
+        "offset": 707,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5449841756596101801"
+      },
+      {
+        "offset": 709,
+        "length": 5,
+        "type": "mention"
+      },
+      {
+        "offset": 709,
+        "length": 5,
+        "type": "bold"
+      }
+    ],
+    "media_group_id": null,
+    "chat_id": -1004468214616,
+    "message_ids": [
+      1491
+    ],
+    "update_ids": [
+      378305383
     ],
     "retry_count": 0
   }
