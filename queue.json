@@ -1,403 +1,5 @@
 [
   {
-    "type": "video",
-    "video_file_id": "BAACAgIAAyEFAAMBClOLWAACBcRq60tRP_KEDVTX0BH7yjnsYV94xgAC5aoAAlNfIEvMVAjEG3YJBz0E",
-    "video_file_size": 13019674,
-    "caption": "❤️ The World’s Largest Battery Ferry\n\nThe China Zorrilla now carries paying passengers between Buenos Aires and Colonia del Sacramento. The 130-meter aluminum catamaran takes up to 2100 passengers and 225 cars across 55 km in 75 minutes, with up to 4 trips a day.\n\nIts 43 MWh battery pack weighs about 286 tonnes and charges from 20% to 80% in 40 minutes at port. A 2300 m² duty-free store is a major part of the business, letting passengers avoid several taxes and duties.\n\nBattery power cuts the ferry’s speed to 25 knots, around 10 minutes slower than planned. Buquebus expects cheaper energy to repay the investment in 5-8 years.\n\n📊@tech",
-    "entities": [
-      {
-        "offset": 0,
-        "length": 2,
-        "type": "custom_emoji",
-        "custom_emoji_id": "5188629903012018835"
-      },
-      {
-        "offset": 3,
-        "length": 33,
-        "type": "bold"
-      },
-      {
-        "offset": 42,
-        "length": 14,
-        "type": "bold"
-      },
-      {
-        "offset": 181,
-        "length": 28,
-        "type": "bold"
-      },
-      {
-        "offset": 269,
-        "length": 19,
-        "type": "bold"
-      },
-      {
-        "offset": 515,
-        "length": 8,
-        "type": "bold"
-      },
-      {
-        "offset": 564,
-        "length": 8,
-        "type": "bold"
-      },
-      {
-        "offset": 623,
-        "length": 9,
-        "type": "bold"
-      },
-      {
-        "offset": 635,
-        "length": 2,
-        "type": "bold"
-      },
-      {
-        "offset": 635,
-        "length": 2,
-        "type": "custom_emoji",
-        "custom_emoji_id": "5449841756596101801"
-      },
-      {
-        "offset": 637,
-        "length": 5,
-        "type": "mention"
-      },
-      {
-        "offset": 637,
-        "length": 5,
-        "type": "bold"
-      }
-    ],
-    "media_group_id": null,
-    "chat_id": -1004468214616,
-    "message_ids": [
-      1476
-    ],
-    "update_ids": [
-      378305368
-    ],
-    "retry_count": 0
-  },
-  {
-    "type": "video",
-    "video_file_id": "BAACAgIAAyEFAAMBClOLWAACBcVq60tRAXsl1WmqUX_i2cIxTfzWYAACP6kAAtpBOEswF-A2KglWcD0E",
-    "video_file_size": 12227677,
-    "caption": "🌐 Reanimate Copies Web Animations Frame by Frame\n\nAn open-source GitHub tool lets a Claude Code agent reproduce an animation from a website, video, or GIF. It records the source, analyzes movement frame by frame, generates code, then compares the result with the original. Timing stays within 80 ms by default. Pixel-perfect mode targets a visual mismatch of no more than 2%.\n\nReanimate supports CSS animations and rendering through Canvas, WebGL or WebGPU, including 3D scenes and particle effects. When it finds differences, the agent corrects the code and checks again. Most animations reportedly need 2-5 cycles.\n\nIt runs locally through Bun, Playwright and FFmpeg, with no paid API. The source is open under the MIT license.\n\n📊@tech",
-    "entities": [
-      {
-        "offset": 0,
-        "length": 2,
-        "type": "custom_emoji",
-        "custom_emoji_id": "5776233299424843260"
-      },
-      {
-        "offset": 3,
-        "length": 46,
-        "type": "bold"
-      },
-      {
-        "offset": 54,
-        "length": 23,
-        "type": "text_link",
-        "url": "https://reanimate.niazmorshed.dev/?utm_source=chatgpt.com"
-      },
-      {
-        "offset": 54,
-        "length": 23,
-        "type": "bold"
-      },
-      {
-        "offset": 85,
-        "length": 11,
-        "type": "bold"
-      },
-      {
-        "offset": 103,
-        "length": 22,
-        "type": "bold"
-      },
-      {
-        "offset": 198,
-        "length": 14,
-        "type": "bold"
-      },
-      {
-        "offset": 294,
-        "length": 5,
-        "type": "bold"
-      },
-      {
-        "offset": 373,
-        "length": 2,
-        "type": "bold"
-      },
-      {
-        "offset": 397,
-        "length": 14,
-        "type": "bold"
-      },
-      {
-        "offset": 434,
-        "length": 23,
-        "type": "bold"
-      },
-      {
-        "offset": 469,
-        "length": 30,
-        "type": "bold"
-      },
-      {
-        "offset": 606,
-        "length": 10,
-        "type": "bold"
-      },
-      {
-        "offset": 622,
-        "length": 12,
-        "type": "bold"
-      },
-      {
-        "offset": 718,
-        "length": 11,
-        "type": "bold"
-      },
-      {
-        "offset": 732,
-        "length": 2,
-        "type": "bold"
-      },
-      {
-        "offset": 732,
-        "length": 2,
-        "type": "custom_emoji",
-        "custom_emoji_id": "5449841756596101801"
-      },
-      {
-        "offset": 734,
-        "length": 5,
-        "type": "mention"
-      },
-      {
-        "offset": 734,
-        "length": 5,
-        "type": "bold"
-      }
-    ],
-    "media_group_id": null,
-    "chat_id": -1004468214616,
-    "message_ids": [
-      1477
-    ],
-    "update_ids": [
-      378305369
-    ],
-    "retry_count": 0
-  },
-  {
-    "type": "video",
-    "video_file_id": "BAACAgIAAyEFAAMBClOLWAACBcZq60tRqMI7D7w0Le4XXJDz0TAWlwACvLoAAlurUEtIE0embrBYXz0E",
-    "video_file_size": 16584997,
-    "caption": "🤖 OpenAI Builds a Daily-Life Benchmark\n\nLifeVal checks AI usefulness on everyday tasks rather than math or coding. Researchers studied how people spend their time and surveyed 3,995 people to identify where AI help is most needed.\n\nOpenAI reports 100% for finding housing within a budget and commute time. Scores were 93.1% for choosing a kindergarten after a move and 90.4% for planning food and care for someone with diabetes.\n\nThe figures are OpenAI’s own results.\n\n📊@tech",
-    "entities": [
-      {
-        "offset": 0,
-        "length": 2,
-        "type": "custom_emoji",
-        "custom_emoji_id": "5397681122542893003"
-      },
-      {
-        "offset": 3,
-        "length": 36,
-        "type": "bold"
-      },
-      {
-        "offset": 56,
-        "length": 31,
-        "type": "bold"
-      },
-      {
-        "offset": 177,
-        "length": 12,
-        "type": "bold"
-      },
-      {
-        "offset": 248,
-        "length": 4,
-        "type": "bold"
-      },
-      {
-        "offset": 319,
-        "length": 5,
-        "type": "bold"
-      },
-      {
-        "offset": 370,
-        "length": 5,
-        "type": "bold"
-      },
-      {
-        "offset": 447,
-        "length": 20,
-        "type": "bold"
-      },
-      {
-        "offset": 470,
-        "length": 2,
-        "type": "bold"
-      },
-      {
-        "offset": 470,
-        "length": 2,
-        "type": "custom_emoji",
-        "custom_emoji_id": "5449841756596101801"
-      },
-      {
-        "offset": 472,
-        "length": 5,
-        "type": "mention"
-      },
-      {
-        "offset": 472,
-        "length": 5,
-        "type": "bold"
-      }
-    ],
-    "media_group_id": null,
-    "chat_id": -1004468214616,
-    "message_ids": [
-      1478
-    ],
-    "update_ids": [
-      378305370
-    ],
-    "retry_count": 0
-  },
-  {
-    "type": "photo",
-    "photo_file_ids": [
-      "AgACAgIAAyEFAAMBClOLWAACBcdq60tRVDFlvlFe7Vdku6Q0XG4ysAACtB1rG1-rUEuVIuYouDGI9AEAAwIAA3gAAz0E"
-    ],
-    "caption": "🛰️ AT&T and AST Test Satellite Handover\n\nOn October 21 in Washington state, an active connection moved between terrestrial and satellite networks serving ordinary phones. AT&T and AST SpaceMobile called it the industry’s first successful handover of this kind.\n\nAST’s BlueBird satellites already support voice calls and messaging on regular smartphones. Ericsson supplied AT&T’s radio and core systems, while Nokia provided satellite-side radio access and mobility software.\n\nThe aim is mobile coverage that extends to satellites without a new phone or manual setup. A beta service in real conditions is next, but commercial launch has no announced date.\n\n📊@tech",
-    "entities": [
-      {
-        "offset": 4,
-        "length": 36,
-        "type": "bold"
-      },
-      {
-        "offset": 172,
-        "length": 24,
-        "type": "bold"
-      },
-      {
-        "offset": 222,
-        "length": 25,
-        "type": "bold"
-      },
-      {
-        "offset": 269,
-        "length": 19,
-        "type": "bold"
-      },
-      {
-        "offset": 355,
-        "length": 8,
-        "type": "bold"
-      },
-      {
-        "offset": 410,
-        "length": 5,
-        "type": "bold"
-      },
-      {
-        "offset": 570,
-        "length": 31,
-        "type": "bold"
-      },
-      {
-        "offset": 657,
-        "length": 2,
-        "type": "bold"
-      },
-      {
-        "offset": 657,
-        "length": 2,
-        "type": "custom_emoji",
-        "custom_emoji_id": "5449841756596101801"
-      },
-      {
-        "offset": 659,
-        "length": 5,
-        "type": "mention"
-      },
-      {
-        "offset": 659,
-        "length": 5,
-        "type": "bold"
-      }
-    ],
-    "media_group_id": null,
-    "chat_id": -1004468214616,
-    "message_ids": [
-      1479
-    ],
-    "update_ids": [
-      378305371
-    ],
-    "retry_count": 0
-  },
-  {
-    "type": "photo",
-    "photo_file_ids": [
-      "AgACAgIAAyEFAAMBClOLWAACBchq61GzTw6fI5IdFdeTOk7BbTh2JgACeiJrGyWFUEvP9WLxrTDqUAEAAwIAA3kAAz0E"
-    ],
-    "caption": "📊 57% of American voters say AI will hurt society more than it helps\n\nOnly 24% think it will do more good, according to the NBC News exit poll of Tuesday's midterm elections.\n\nFor many it shaped the vote. 56% called AI and data centers a crucial or major factor in choosing whom to send to Congress. And 76% said they would oppose a new data center in their own community.\n\nVoters don't trust either side with it: 43% said neither party is better at handling AI, 29% picked Democrats and 27% Republicans.\n\nWall Street noticed. Stock futures fell overnight as Democratic wins were seen as a threat to the AI and data center boom, NBC reports. Elon Musk's reaction on X: \"Data centers in space looking pretty appealing right now\"\n\nEarly exit poll figures; they can still shift.\n\n@aipost 🏴",
-    "entities": [
-      {
-        "offset": 0,
-        "length": 2,
-        "type": "custom_emoji",
-        "custom_emoji_id": "5289720732941587857"
-      },
-      {
-        "offset": 3,
-        "length": 66,
-        "type": "bold"
-      },
-      {
-        "offset": 125,
-        "length": 18,
-        "type": "text_link",
-        "url": "https://www.nbcnews.com/politics/2026-elections/exit-polls"
-      },
-      {
-        "offset": 730,
-        "length": 46,
-        "type": "italic"
-      },
-      {
-        "offset": 778,
-        "length": 7,
-        "type": "mention"
-      },
-      {
-        "offset": 786,
-        "length": 2,
-        "type": "custom_emoji",
-        "custom_emoji_id": "5431390559912614642"
-      }
-    ],
-    "media_group_id": null,
-    "chat_id": -1004468214616,
-    "message_ids": [
-      1480
-    ],
-    "update_ids": [
-      378305372
-    ],
-    "retry_count": 0
-  },
-  {
     "type": "photo",
     "photo_file_ids": [
       "AgACAgIAAyEFAAMBClOLWAACBclq63yEyvf3yAb6vlIjFSl_snLrawACeyJrGyWFUEviy0S2qeqDmQEAAwIAA3kAAz0E"
@@ -564,6 +166,237 @@
     ],
     "update_ids": [
       378305375
+    ],
+    "retry_count": 0
+  },
+  {
+    "type": "video",
+    "video_file_id": "BAACAgIAAyEFAAMBClOLWAACBcxq7Eh6El5TVThfrZq099wZqfazCAACi68AAiWFWEvrkXjLr_4Wwz0E",
+    "video_file_size": 2606632,
+    "caption": "🗣 “The titans of Silicon Valley dig bunkers for themselves”: Jon Ossoff's victory speech on AI\n\nJon Ossoff won reelection to the Senate in Georgia on Tuesday night, beating Republican Mike Collins. Midway through his victory speech, he went after the people building AI:\n\nMeanwhile, the titans of Silicon Valley dig bunkers for themselves and warn that the artificial intelligence they're creating risks human extinction.\n\nNear the end he talked about his two daughters. He said he refuses to accept that they \"will grow up with artificial friends and teachers.\"\n\nThis isn't new for him. At a rally in September, he called for inspectors inside frontier AI labs and an international AI treaty.\n\n@aipost 🏴",
+    "entities": [
+      {
+        "offset": 0,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5287468155738821335"
+      },
+      {
+        "offset": 3,
+        "length": 92,
+        "type": "bold"
+      },
+      {
+        "offset": 273,
+        "length": 149,
+        "type": "blockquote"
+      },
+      {
+        "offset": 696,
+        "length": 7,
+        "type": "mention"
+      },
+      {
+        "offset": 704,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5431390559912614642"
+      }
+    ],
+    "media_group_id": null,
+    "chat_id": -1004468214616,
+    "message_ids": [
+      1484
+    ],
+    "update_ids": [
+      378305376
+    ],
+    "retry_count": 0
+  },
+  {
+    "type": "photo",
+    "photo_file_ids": [
+      "AgACAgIAAyEFAAMBClOLWAACBc1q7Eh6qDgCBEmq7pqOC8lSwUxRHwACLyBrGyWFWEtc9Vyel59jygEAAwIAA3kAAz0E"
+    ],
+    "caption": "📢 Apple is letting every app plug into Siri AI, so you can just ask it to book or order\n\nAny developer can now connect an app to Siri AI, Apple announced on Tuesday. Ask in your own words, and Siri runs the app's own actions: check a delivery, book a reservation, place an order.\n\nApps can also teach Siri \"skills\" that chain several actions into one request. Apple's own apps go first: you can ask Siri to find a coffee shop you visited last week, or archive files you haven't opened in over a year.\n\nFor now it's a developer preview in the iOS 27.3 and macOS 27.3 betas. Apple says customers get it in a few months, with App Store submissions opening in spring. Siri AI isn't available in the EU on iPhone, iPad and Apple Watch yet.\n\n@aipost 🏴",
+    "entities": [
+      {
+        "offset": 0,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5289992252184100112"
+      },
+      {
+        "offset": 3,
+        "length": 85,
+        "type": "bold"
+      },
+      {
+        "offset": 145,
+        "length": 9,
+        "type": "text_link",
+        "url": "https://developer.apple.com/news/?id=gdk2umrf"
+      },
+      {
+        "offset": 737,
+        "length": 7,
+        "type": "mention"
+      },
+      {
+        "offset": 745,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5431390559912614642"
+      }
+    ],
+    "media_group_id": null,
+    "chat_id": -1004468214616,
+    "message_ids": [
+      1485
+    ],
+    "update_ids": [
+      378305377
+    ],
+    "retry_count": 0
+  },
+  {
+    "type": "photo",
+    "photo_file_ids": [
+      "AgACAgIAAyEFAAMBClOLWAACBc5q7Eh6ZD2sJd-cMx7x4qvZhi62dAACsCJrGyWFWEtrsyOdV_QFvgEAAwIAA3kAAz0E"
+    ],
+    "caption": "🤨 One AI model averages 7 em dashes per answer. Claude Opus uses almost none\n\nArtificial Analysis counted every em dash in every answer on its personality benchmark. Plenty of readers treat that dash as a sign a text was written by AI.\n\nThe heaviest user is GLM-5.3, from China's Z.ai, with 7.4 per response. Right behind: GLM-5.3-Flash and Meta's Muse Wonder (6.9 each), then Kimi K3 (6.7).\n\nAnthropic's models are split. Claude Fable 5.1 averages 6.4 per answer. Claude Opus 5.5 uses fewer than one every 40 answers, and Sonnet 5.5 and Haiku 5.5 come out at zero.\n\nSo does OpenAI's old GPT-3.5 Turbo.\n\n@aipost 🏴",
+    "entities": [
+      {
+        "offset": 0,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5832395820795693898"
+      },
+      {
+        "offset": 3,
+        "length": 74,
+        "type": "bold"
+      },
+      {
+        "offset": 79,
+        "length": 27,
+        "type": "text_link",
+        "url": "https://x.com/ArtificialAnlys/status/2118025481962590485"
+      },
+      {
+        "offset": 281,
+        "length": 4,
+        "type": "url"
+      },
+      {
+        "offset": 605,
+        "length": 7,
+        "type": "mention"
+      },
+      {
+        "offset": 613,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5431390559912614642"
+      }
+    ],
+    "media_group_id": null,
+    "chat_id": -1004468214616,
+    "message_ids": [
+      1486
+    ],
+    "update_ids": [
+      378305378
+    ],
+    "retry_count": 0
+  },
+  {
+    "type": "photo",
+    "photo_file_ids": [
+      "AgACAgIAAyEFAAMBClOLWAACBc9q7Eh6skcIQ84s3GGZo6_0yj45WgACsSJrGyWFWEuQIHzHaDYm4AEAAwIAA3kAAz0E"
+    ],
+    "caption": "🤖 A Chinese lab just let anyone download an AI that keeps up with Claude and GPT\n\nMoonshot AI posted the full weights of Kimi K3.1 Pro on Hugging Face. Anyone can now run the model on their own hardware.\n\nIt's enormous: 2.8 trillion parameters, with 104 billion active at a time, and it can read up to 1 million tokens at once.\n\nOn Moonshot's own tests it beats Claude Opus 5.5, Claude Fable 5.1 and GPT-6 Astra on the SWE Marathon coding benchmark: 51.7 against 46.3, 45.6 and 42.5. On Humanity's Last Exam with tools it scores 70.0, ahead of Opus at 67.7.\n\nIt still trails them elsewhere. On ExploitBench, a hacking test, Kimi gets 74.7. GPT-6 Astra gets 100.\n\n@aipost 🏴",
+    "entities": [
+      {
+        "offset": 0,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5384247104791148900"
+      },
+      {
+        "offset": 3,
+        "length": 78,
+        "type": "bold"
+      },
+      {
+        "offset": 95,
+        "length": 23,
+        "type": "text_link",
+        "url": "https://huggingface.co/moonshotai/Kimi-K3.1-Pro"
+      },
+      {
+        "offset": 664,
+        "length": 7,
+        "type": "mention"
+      },
+      {
+        "offset": 672,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5431390559912614642"
+      }
+    ],
+    "media_group_id": null,
+    "chat_id": -1004468214616,
+    "message_ids": [
+      1487
+    ],
+    "update_ids": [
+      378305379
+    ],
+    "retry_count": 0
+  },
+  {
+    "type": "album",
+    "photo_file_ids": [
+      "AgACAgQAAyEFAAMBClOLWAACBdBq7EirtpUhsDWhpffMeH7UWYcFpwACXw9rG0E8YVMECdy5FGavGQEAAwIAA3kAAz0E",
+      "AgACAgQAAyEFAAMBClOLWAACBdFq7EirrJkTRZxqbOgORX1C9UyOWwACYA9rG0E8YVOxRAGmN7R-pAEAAwIAA3cAAz0E"
+    ],
+    "caption": "🤣🤣\n\n@aipost 🏴",
+    "entities": [
+      {
+        "offset": 0,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5370712413005945913"
+      },
+      {
+        "offset": 2,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5370712413005945913"
+      },
+      {
+        "offset": 6,
+        "length": 7,
+        "type": "mention"
+      },
+      {
+        "offset": 14,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5431390559912614642"
+      }
+    ],
+    "media_group_id": "14350959964337565",
+    "chat_id": -1004468214616,
+    "message_ids": [
+      1488,
+      1489
+    ],
+    "update_ids": [
+      378305380,
+      378305381
     ],
     "retry_count": 0
   }
