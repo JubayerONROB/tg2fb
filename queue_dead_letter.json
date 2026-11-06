@@ -7062,5 +7062,56 @@
       378305359
     ],
     "retry_count": 0
+  },
+  {
+    "type": "video",
+    "video_file_id": "BAACAgIAAyEFAAMBClOLWAACBddq7WJqvjGbP79U4FkaEHobODqQEgACW7IAAuvDaUsdkYyx5Xw6yT0E",
+    "video_file_size": 21107471,
+    "caption": "💰 Claude can now read your bank account — but it can't touch the money\n\nAnthropic is rolling out Personal Finance in Claude as a US beta for Pro, Max and Ultra. You link the accounts you choose through Plaid, then ask everyday questions like where the money went this month.\n\nAccess is read-only. Claude can see bank names, balances, credit limits and up to two years of transactions. It cannot move, manage or invest your money, and Anthropic says it isn't built to give investment advice. Money chats are not used to train its models.\n\nChatGPT launched a similar Plaid link-up earlier this year. Same pitch: the AI sees the numbers so you don't have to dig through statements.\n\nClaude · The Verge\n\n@aipost 🏴",
+    "entities": [
+      {
+        "offset": 0,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5832384984593206481"
+      },
+      {
+        "offset": 3,
+        "length": 68,
+        "type": "bold"
+      },
+      {
+        "offset": 681,
+        "length": 6,
+        "type": "text_link",
+        "url": "https://x.com/claudeai/status/2118403114890137895"
+      },
+      {
+        "offset": 690,
+        "length": 9,
+        "type": "text_link",
+        "url": "https://www.theverge.com/ai-artificial-intelligence/1027652/anthropic-claude-plaid-personal-finance"
+      },
+      {
+        "offset": 701,
+        "length": 7,
+        "type": "mention"
+      },
+      {
+        "offset": 709,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5431390559912614642"
+      }
+    ],
+    "media_group_id": null,
+    "chat_id": -1004468214616,
+    "message_ids": [
+      1495
+    ],
+    "update_ids": [
+      378305387
+    ],
+    "retry_count": 0
   }
 ]
