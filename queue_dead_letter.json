@@ -7113,5 +7113,74 @@
       378305387
     ],
     "retry_count": 0
+  },
+  {
+    "type": "video",
+    "video_file_id": "BAACAgIAAyEFAAMBClOLWAACBedq9GeAEsUQNdh-8SkgLarOWT4LCgACMKoAAvPKmEvyie496zEN-z0E",
+    "video_file_size": 24213460,
+    "caption": "🤖 OpenAI Adds a $200 Retro Console\n\nThe ModRetro Chromatic Codex Edition costs $200 and reads Game Boy and Game Boy Color cartridges. It includes a rewritable cartridge for custom games.\n\nWith the ModRetro plugin, users can describe a game in Codex, then have it build levels and animate sprites. A demo snowboard level ran on the Chromatic.\n\nGames can be tested in a built-in emulator, then written to the cartridge after a firmware update and developer mode switch. OpenAI also published browser-playable demos and downloadable ROMs.\n\n📊@tech",
+    "entities": [
+      {
+        "offset": 0,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5397681122542893003"
+      },
+      {
+        "offset": 3,
+        "length": 32,
+        "type": "bold"
+      },
+      {
+        "offset": 41,
+        "length": 43,
+        "type": "bold"
+      },
+      {
+        "offset": 149,
+        "length": 37,
+        "type": "bold"
+      },
+      {
+        "offset": 198,
+        "length": 15,
+        "type": "bold"
+      },
+      {
+        "offset": 369,
+        "length": 17,
+        "type": "bold"
+      },
+      {
+        "offset": 538,
+        "length": 2,
+        "type": "bold"
+      },
+      {
+        "offset": 538,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5449841756596101801"
+      },
+      {
+        "offset": 540,
+        "length": 5,
+        "type": "mention"
+      },
+      {
+        "offset": 540,
+        "length": 5,
+        "type": "bold"
+      }
+    ],
+    "media_group_id": null,
+    "chat_id": -1004468214616,
+    "message_ids": [
+      1511
+    ],
+    "update_ids": [
+      378305403
+    ],
+    "retry_count": 0
   }
 ]
