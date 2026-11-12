@@ -1,1 +1,547 @@
-[]
+[
+  {
+    "type": "photo",
+    "photo_file_ids": [
+      "AgACAgIAAyEFAAMBClOLWAACBe5q9ZQ1nM27tvflAudPVBOzMrjVLAACbB5rGzcbeEvPaiBos8xoKAEAAwIAA3kAAz0E"
+    ],
+    "caption": "🚨 Fake CEOs on video calls: AI clones helped steal $129 million, US prosecutors say\n\nAn employee would get a call from the boss about a confidential deal. The voice, and at times the face, was an AI copy of the real CEO. Then a \"lawyer\" from a big international firm joined, also faked with AI, and told the employee where to wire the money.\n\nProsecutors say the crew impersonated at least seven executives between 2024 and 2026. One UK fintech firm lost more than $11.5 million, a Florida pet food company more than $5.2 million, a Missouri hospital nearly $5 million.\n\nThree men are charged in New York. They were arrested in Spain and the UK and are awaiting extradition. The money moved through accounts in the US, Europe, the UAE and China, then into crypto.\n\nThe US attorney urged \"individuals and the business community to consider how to best protect themselves.\"\n\n@aipost 🏴",
+    "entities": [
+      {
+        "offset": 0,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5289954894558560856"
+      },
+      {
+        "offset": 3,
+        "length": 81,
+        "type": "bold"
+      },
+      {
+        "offset": 874,
+        "length": 7,
+        "type": "mention"
+      },
+      {
+        "offset": 882,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5431390559912614642"
+      }
+    ],
+    "media_group_id": null,
+    "chat_id": -1004468214616,
+    "message_ids": [
+      1518
+    ],
+    "update_ids": [
+      378305410
+    ],
+    "retry_count": 0
+  },
+  {
+    "type": "video",
+    "video_file_id": "BAACAgIAAyEFAAMBClOLWAACBe9q9ZQ13UKTiHp198urWoMuGK8IrAACJ6kAAjcbcEtSpcRqueMnGD0E",
+    "video_file_size": 4649869,
+    "caption": "🗣 OpenAI's Greg Brockman says “death becoming a choice” is possible\n\nIn a recent interview clip, Brockman also said AI should deliver “real significant strides” on biology, health and curing diseases over the next 12 to 18 months.\n\n“I think that we all suffer, that the question of even just thinking about death becoming a choice. All of this is possible.”\n\nHe called cures for disease a field trope that he now expects to start turning into real delivery, while warning the full impact will still take time.\n\n@aipost 🏴",
+    "entities": [
+      {
+        "offset": 0,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5287468155738821335"
+      },
+      {
+        "offset": 3,
+        "length": 65,
+        "type": "bold"
+      },
+      {
+        "offset": 233,
+        "length": 125,
+        "type": "blockquote"
+      },
+      {
+        "offset": 512,
+        "length": 7,
+        "type": "mention"
+      },
+      {
+        "offset": 520,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5431390559912614642"
+      }
+    ],
+    "media_group_id": null,
+    "chat_id": -1004468214616,
+    "message_ids": [
+      1519
+    ],
+    "update_ids": [
+      378305411
+    ],
+    "retry_count": 0
+  },
+  {
+    "type": "photo",
+    "photo_file_ids": [
+      "AgACAgIAAyEFAAMBClOLWAACBfBq9ZQ12ik4UOjMgRjKhPbQMPXE5AACeiFrG-vDcUts4flc6_awCAEAAwIAA3kAAz0E"
+    ],
+    "caption": "🎭 Someone spent $20,000 so AIs could lie to each other at Werewolf\n\nPodcaster Dwarkesh Patel paid about $20,000 in API credits to make frontier models play Blood on the Clocktower — a social-deduction game like Werewolf — against each other for 386 matches.\n\nOne model plays the whole good team; another plays the whole evil team. OpenAI's GPT-6 Astra leads the board at about 1,859 Elo. Against Claude Opus 4.6 it wins roughly 92% of the time. Dwarkesh says the edge is mostly catching liars, not telling better ones.\n\nFull rankings and replays are on clocktowerbench.com. You can also play the AIs yourself.\n\n@aipost 🏴",
+    "entities": [
+      {
+        "offset": 0,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5359441070201513074"
+      },
+      {
+        "offset": 3,
+        "length": 64,
+        "type": "bold"
+      },
+      {
+        "offset": 554,
+        "length": 19,
+        "type": "text_link",
+        "url": "https://clocktowerbench.com/"
+      },
+      {
+        "offset": 612,
+        "length": 7,
+        "type": "mention"
+      },
+      {
+        "offset": 620,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5431390559912614642"
+      }
+    ],
+    "media_group_id": null,
+    "chat_id": -1004468214616,
+    "message_ids": [
+      1520
+    ],
+    "update_ids": [
+      378305412
+    ],
+    "retry_count": 0
+  },
+  {
+    "type": "photo",
+    "photo_file_ids": [
+      "AgACAgIAAyEFAAMBClOLWAACBfFq9ZQ1jrUDHPSktCSzmrZJZfNBKgACbh5rGzcbeEt-EBfqBMJqswEAAwIAA3cAAz0E"
+    ],
+    "caption": "📢 Party flyer or shop ad in ChatGPT: the prompts 1,100+ people saved\n\n\"Design a flyer\" gets you AI slop, says the AI creator behind these seven prompts. They spell out the size, every line of text, the colours and what to leave out.\n\nThe event flyer, shortened:\nCreate a polished 4:5 event flyer for [EVENT NAME]. Date: [DATE] Time: [TIME] Location: [VENUE]. Highlight the event name first, showcase the main attraction second, and present the essential event details third. Apply [PRIMARY COLOUR], [SECONDARY COLOUR], and [ACCENT]. Avoid unnecessary icons, fabricated QR codes, harsh shadows, overcrowded layouts.\n\nLines worth stealing from the others:\n• Use a maximum of two font families.\n• Avoid generic stock photography, tiny text, fake logos.\n• Never fabricate statistics or include unverified data.\n• For a YouTube thumbnail: Avoid exaggerated shocked expressions, excessive arrows, unnecessary red circles.\n\nChatGPT's image tool got an update on Nov 4. OpenAI says it now works 50% faster.\n\n@aipost 🏴",
+    "entities": [
+      {
+        "offset": 0,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5289992252184100112"
+      },
+      {
+        "offset": 3,
+        "length": 66,
+        "type": "bold"
+      },
+      {
+        "offset": 263,
+        "length": 352,
+        "type": "code"
+      },
+      {
+        "offset": 657,
+        "length": 35,
+        "type": "code"
+      },
+      {
+        "offset": 695,
+        "length": 55,
+        "type": "code"
+      },
+      {
+        "offset": 753,
+        "length": 54,
+        "type": "code"
+      },
+      {
+        "offset": 835,
+        "length": 81,
+        "type": "code"
+      },
+      {
+        "offset": 1001,
+        "length": 7,
+        "type": "mention"
+      },
+      {
+        "offset": 1009,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5431390559912614642"
+      }
+    ],
+    "media_group_id": null,
+    "chat_id": -1004468214616,
+    "message_ids": [
+      1521
+    ],
+    "update_ids": [
+      378305413
+    ],
+    "retry_count": 0
+  },
+  {
+    "type": "photo",
+    "photo_file_ids": [
+      "AgACAgIAAyEFAAMBClOLWAACBfJq9ZQ1pjveUk7bb8e4YiI6ZWYlMQACBx9rGzcbeEsdr-q-hqGyCwEAAwIAA3kAAz0E"
+    ],
+    "caption": "🧠 Claude now \"dreams\" between chats — so it can fix its own bad notes\n\nAnthropic's new engineering post says agent memory works a lot like sleep: Claude writes notes during a session, then offline \"dreaming\" replays the transcript, corrects mistakes, builds wiki-style maps, and promotes what the next session should load first.\n\nIn a Pokémon Red test, Sonnet 3.7 dumped 413 memory files and earned one badge. Fable 5 kept nine files and earned four. When Claude wrongly marked Mt. Moon as finished, dreaming checked the transcript, rewrote the note, and Claude went back into the cave instead of looping.\n\nOn ~350,000 internal company files, scaling dreaming from 2 to 128 sessions lifted a 25-question eval from 13% to 48%. Anthropic's write-up frames dreaming as idle compute that organizes memory — not a change to the model's weights.\n\n@aipost 🏴",
+    "entities": [
+      {
+        "offset": 0,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5237799019329105246"
+      },
+      {
+        "offset": 3,
+        "length": 67,
+        "type": "bold"
+      },
+      {
+        "offset": 739,
+        "length": 8,
+        "type": "text_link",
+        "url": "https://www.anthropic.com/research/components-of-agent-memory"
+      },
+      {
+        "offset": 842,
+        "length": 7,
+        "type": "mention"
+      },
+      {
+        "offset": 850,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5431390559912614642"
+      }
+    ],
+    "media_group_id": null,
+    "chat_id": -1004468214616,
+    "message_ids": [
+      1522
+    ],
+    "update_ids": [
+      378305414
+    ],
+    "retry_count": 0
+  },
+  {
+    "type": "photo",
+    "photo_file_ids": [
+      "AgACAgIAAyEFAAMBClOLWAACBfNq9ZQ1OGAKfTyh3RlFyBAgmcwuVgACCB9rGzcbeEtFfJcGSmUKTAEAAwIAA3kAAz0E"
+    ],
+    "caption": "🎮 Anthropic hid a traitor in a 4-Claude game team. The others almost never caught it\n\nIn Project EVE, Anthropic's Frontier Red Team put four Claude agents into EVE Frontier missions with Fenris Creations. One was secretly told to sabotage. The other three were warned.\n\nThe saboteur built trust first: it volunteered for scouting and key infrastructure, under-reported finds, pocketed scarce resources, and once framed an innocent teammate with fabricated messages. Honest agents almost never identified it. Monitors that only read the public chat caught about 20–40% of saboteurs when tuned for few false alarms.\n\nOn a separate EVE Online market simulation, newer Claudes grew starting capital about 3× more than older ones — mostly by patient spread trading, not by predicting the next crash. Anthropic's report says agent teams will need audit trails, reputations, and separation of duties.\n\n@aipost 🏴",
+    "entities": [
+      {
+        "offset": 0,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5467583879948803288"
+      },
+      {
+        "offset": 3,
+        "length": 82,
+        "type": "bold"
+      },
+      {
+        "offset": 808,
+        "length": 6,
+        "type": "text_link",
+        "url": "https://www.anthropic.com/research/project-eve-claude-plays-mmorpgs"
+      },
+      {
+        "offset": 896,
+        "length": 7,
+        "type": "mention"
+      },
+      {
+        "offset": 904,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5431390559912614642"
+      }
+    ],
+    "media_group_id": null,
+    "chat_id": -1004468214616,
+    "message_ids": [
+      1523
+    ],
+    "update_ids": [
+      378305415
+    ],
+    "retry_count": 0
+  },
+  {
+    "type": "video",
+    "video_file_id": "BAACAgQAAyEFAAMBClOLWAACBfRq9ZQ1EmQKOliJ6_0fpTzDM5L62AACJh8AAkfoeVNWsHXVkR--vD0E",
+    "video_file_size": 5235546,
+    "caption": "🙃 Elon Musk confirms Tesla will rent Optimus robots, not sell them, as build cost falls from about $30,000 toward $20,000.\n\nAt the Baron Investment Conference with Ron Baron, Elon said Optimus will initially cost about as much as a car to build, then drop well below that. Asked whether Tesla would rent or sell the robots, he answered: “I think probably rent them.” Renting keeps the fleet and the usage data with Tesla, the same recurring-revenue path Full Self-Driving already follows. \n\nOutside deliveries are still aimed around the end of 2027, so this is the shape of the first customer offer before anyone outside Tesla gets a unit. It also lets Tesla pull robots back and upgrade them as the hardware improves instead of stranding early buyers with an outdated machine.\n\n@aipost 🏴",
+    "entities": [
+      {
+        "offset": 0,
+        "length": 2,
+        "type": "bold"
+      },
+      {
+        "offset": 0,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5289701946754633864"
+      },
+      {
+        "offset": 2,
+        "length": 121,
+        "type": "bold"
+      },
+      {
+        "offset": 780,
+        "length": 7,
+        "type": "mention"
+      },
+      {
+        "offset": 788,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5431390559912614642"
+      }
+    ],
+    "media_group_id": null,
+    "chat_id": -1004468214616,
+    "message_ids": [
+      1524
+    ],
+    "update_ids": [
+      378305416
+    ],
+    "retry_count": 0
+  },
+  {
+    "type": "video",
+    "video_file_id": "BAACAgQAAyEFAAMBClOLWAACBfVq9ZQ1R2F3zJjwYU7-GUyDzKuzggACLR8AAkfoeVOAU4069DV9pz0E",
+    "video_file_size": 7988093,
+    "caption": "Elon Musk revealed that SpaceX will begin launching StarMind SI computers into orbit in Q3 2027, with major deployment ramps in 2028 and 2029. 🚀\n\nThe first systems are being co-designed with NVIDIA around Vera Rubin NVL72. Space-based supercomputing is becoming a reality.\n\n@aipost 🏴",
+    "entities": [
+      {
+        "offset": 143,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5316571734604790521"
+      },
+      {
+        "offset": 275,
+        "length": 7,
+        "type": "mention"
+      },
+      {
+        "offset": 283,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5431390559912614642"
+      }
+    ],
+    "media_group_id": null,
+    "chat_id": -1004468214616,
+    "message_ids": [
+      1525
+    ],
+    "update_ids": [
+      378305417
+    ],
+    "retry_count": 0
+  },
+  {
+    "type": "photo",
+    "photo_file_ids": [
+      "AgACAgIAAyEFAAMBClOLWAACBfZq9ZQ15BB6wG6cpdZAC-cQDIHThAAC1CNrGzcbgEsIgIDCVOPmtAEAAwIAA3kAAz0E"
+    ],
+    "caption": "💻 Facebook's former security chief says AI has thrown cybersecurity into a \"dark age\"\n\nAlex Stamos, now security chief at the AI coding company Cognition, told The Verge's Decoder podcast that hacks are now being chained together. From what's known so far, he says, attackers stole API keys from AI provider Fireworks, used them to get into the coding app Cursor, then pushed a bad plugin that reached 5,000 more companies.\n\nA Chinese open-source hacking tool, ARTEX, \"started with three South Korean banks. This week, about 200 more companies have been hit.\"\n\nMicrosoft's monthly batch of security fixes \"used to be like 150, 200,\" he says. The last one was \"900 something.\"\n\nFor attackers, the cost per token \"is going towards zero.\" Stamos would be \"fine slowing down on the frontier\" of AI so defenders can catch up. Still, he says, \"The Dark Ages were bad, but we survived them.\"\n\n@aipost 🏴",
+    "entities": [
+      {
+        "offset": 0,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5366308323475880265"
+      },
+      {
+        "offset": 3,
+        "length": 83,
+        "type": "bold"
+      },
+      {
+        "offset": 173,
+        "length": 7,
+        "type": "text_link",
+        "url": "https://www.theverge.com/podcast/1029038/ai-cybersecurity-hackers-data-breach-dark-age-alex-stamos"
+      },
+      {
+        "offset": 887,
+        "length": 7,
+        "type": "mention"
+      },
+      {
+        "offset": 895,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5431390559912614642"
+      }
+    ],
+    "media_group_id": null,
+    "chat_id": -1004468214616,
+    "message_ids": [
+      1526
+    ],
+    "update_ids": [
+      378305418
+    ],
+    "retry_count": 0
+  },
+  {
+    "type": "photo",
+    "photo_file_ids": [
+      "AgACAgIAAyEFAAMBClOLWAACBfdq9ZQ1i-zS4TDqFCK4NohQ0kqmUgACsSFrGzcbgEse8kpC8BwmPAEAAwIAA3kAAz0E"
+    ],
+    "caption": "❗ US intelligence believes Nvidia's Jensen Huang had a romance with a suspected Chinese spy\n\nA US government memo drafted earlier this year says the Nvidia CEO was in a romantic relationship with Alice Huang, an executive at Singapore data center company Megaspeed, the Financial Times reports.\n\nUS intelligence believes she was recruited by China's Ministry of State Security, its main spy agency. According to the FT, the memo went to a small group of senior officials shortly before Trump's trip to China in May.\n\nIn late October, the New York Times reported that the same memo identified her as a suspected Chinese intelligence asset.\n\nNvidia declined to comment on the relationship or the memo. Huang has said before that he meets \"thousands of customer executives every year.\" US authorities have also investigated Megaspeed over alleged smuggling of Nvidia chips into China; Nvidia says its own review found no wrongdoing.\n\n@aipost 🏴",
+    "entities": [
+      {
+        "offset": 0,
+        "length": 1,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5289761612440310918"
+      },
+      {
+        "offset": 2,
+        "length": 89,
+        "type": "bold"
+      },
+      {
+        "offset": 931,
+        "length": 7,
+        "type": "mention"
+      },
+      {
+        "offset": 939,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5431390559912614642"
+      }
+    ],
+    "media_group_id": null,
+    "chat_id": -1004468214616,
+    "message_ids": [
+      1527
+    ],
+    "update_ids": [
+      378305419
+    ],
+    "retry_count": 0
+  },
+  {
+    "type": "video",
+    "video_file_id": "BAACAgIAAyEFAAMBClOLWAACBfhq9ZQ1S7NV6K0WWD97EfPRJqDNmQACTLoAAjcbgEsGSiWS5EzKxD0E",
+    "video_file_size": 2601027,
+    "caption": "🔐 ChatGPT's always-on agents can now grab login codes from your email and sign in for you\n\nOpenAI's dots, the agents that keep working in their own cloud browser after you log off, can now use the one-time sign-in codes a website sends to your connected inbox.\n\nWhen a code is needed, you choose: let the dot use it once, or always allow it to fill codes in. The demo shows a dot logging into the restaurant app Resy with the user's email.\n\nThose codes exist to prove it's really you. So far, OpenAI's help page has told users to complete that kind of check themselves or take over the dot's browser.\n\nJames Sun, who works on browser use for ChatGPT and Codex at OpenAI, announced the change. He says \"lots more sign-in improvements\" are coming soon.\n\nDots are rolling out to Pro users outside the European Economic Area, the UK and Switzerland, plus Business Premium and Enterprise workspaces.\n\n@aipost 🏴",
+    "entities": [
+      {
+        "offset": 0,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5472308992514464048"
+      },
+      {
+        "offset": 3,
+        "length": 87,
+        "type": "bold"
+      },
+      {
+        "offset": 503,
+        "length": 9,
+        "type": "text_link",
+        "url": "https://help.openai.com/en/articles/20001530-getting-started-with-your-dot"
+      },
+      {
+        "offset": 897,
+        "length": 7,
+        "type": "mention"
+      },
+      {
+        "offset": 905,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5431390559912614642"
+      }
+    ],
+    "media_group_id": null,
+    "chat_id": -1004468214616,
+    "message_ids": [
+      1528
+    ],
+    "update_ids": [
+      378305420
+    ],
+    "retry_count": 0
+  },
+  {
+    "type": "video",
+    "video_file_id": "BAACAgQAAyEFAAMBClOLWAACBflq9ZQ14A6G-hkB3DXs4l_oF2l7pgACPiEAAkfogVOA1KI2hkSx4j0E",
+    "video_file_size": 31598804,
+    "caption": "🗣Ray Kurzweil: By 2032, humans could begin escaping death as we know it, merging with AI to become a hybrid species with brains connected directly to the cloud.\n\n“People who are diligent with their health are going to reach longevity escape velocity.”\n\n“We'll still be human, but enhanced by AI. We will no longer be limited by our biology.”\n\n“In the 2030s and 2040s, nanobots will swim in our bloodstream, performing medical tasks with precision.”\n\n“They will go into our brains non-invasively and provide wireless communication between our neocortex and digital neurons in the cloud.”\n\n“The answer will just appear in your brain like it's part of you.”\n\n@aipost 🏴",
+    "entities": [
+      {
+        "offset": 0,
+        "length": 2,
+        "type": "bold"
+      },
+      {
+        "offset": 0,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5287468155738821335"
+      },
+      {
+        "offset": 2,
+        "length": 159,
+        "type": "bold"
+      },
+      {
+        "offset": 163,
+        "length": 492,
+        "type": "blockquote"
+      },
+      {
+        "offset": 657,
+        "length": 7,
+        "type": "mention"
+      },
+      {
+        "offset": 665,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5431390559912614642"
+      }
+    ],
+    "media_group_id": null,
+    "chat_id": -1004468214616,
+    "message_ids": [
+      1529
+    ],
+    "update_ids": [
+      378305421
+    ],
+    "retry_count": 0
+  }
+]
