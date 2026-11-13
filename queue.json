@@ -1,1 +1,411 @@
-[]
+[
+  {
+    "type": "photo",
+    "photo_file_ids": [
+      "AgACAgIAAyEFAAMBClOLWAACBgABavcvqJpkCJoC8-7fz1KUnCTnchcAAmodaxutxoFLjalhgIEIz9MBAAMCAAN5AAM9BA"
+    ],
+    "caption": "These ChatGPT prompts walk you through a home repair from one photo\n\nTake a picture of what's broken and send it with these prompts:\n\n1. Diagnosis: what it most likely is, what caused it, and whether it's a 10 minute fix, a weekend job or a call-a-pro job. If there's any chance it involves gas, mains electricity or something structural, say that first and stop.\n\n2. Shopping list: parts, tools, sizes and a rough cost, named the way a hardware shop would.\n\n3. Step by step, one at a time, waiting for \"done\". Ask first where people usually get it wrong.\n\n4. After the fix: a new photo, what to check in 24 hours, and what would tell you it failed.\n\n5. If someone quoted you a price, ask if it looks fair for your area and for three questions to ask them.\n\n6. A short, polite landlord note: what it is, why it needs fixing and when they can sort it. Attach the photo.\n\n7. What caused it, how to stop it, and a 10 minute monthly check for that room.\n\n@aipost 🏴",
+    "entities": [
+      {
+        "offset": 0,
+        "length": 67,
+        "type": "bold"
+      },
+      {
+        "offset": 257,
+        "length": 106,
+        "type": "code"
+      },
+      {
+        "offset": 951,
+        "length": 7,
+        "type": "mention"
+      },
+      {
+        "offset": 959,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5431390559912614642"
+      }
+    ],
+    "media_group_id": null,
+    "chat_id": -1004468214616,
+    "message_ids": [
+      1536
+    ],
+    "update_ids": [
+      378305428
+    ],
+    "retry_count": 0
+  },
+  {
+    "type": "photo",
+    "photo_file_ids": [
+      "AgACAgIAAyEFAAMBClOLWAACBgFq9y-oF08dg2nWVa__g8jY4wRLewACax1rG63GgUugpc0zu1L8iQEAAwIAA3kAAz0E"
+    ],
+    "caption": "⚠️ After a fake job interview, $6.34 billion vanished. A security chief listed what to fix\n\nBinance says about $6.34 billion was taken on October 29 after attackers used fake job interviews and a tampered download of an AI coding tool to get onto engineers' laptops. A deployment token on one machine helped them reach the wallet signing service.\n\nThat same stretch included a malicious Claude Code extension in Cursor that tried to install a persistent backdoor.\n\nJack Cable, Cognition's head of security products, published a practical guide on November 3. Immediate steps he lists:\n\n• Passkeys or hardware keys on work accounts, not text-message codes\n• A password manager\n• An ad blocker, such as uBlock Origin\n• Scan laptops for leftover keys, and audit editor extensions, plugins and MCP servers\n• A 7-day minimum age before a new npm or PyPI package can be installed\n\n\"AI makes attacks faster and cheaper, but it doesn't stop you from closing off entire, basic attack paths.\"\n\n@aipost 🏴",
+    "entities": [
+      {
+        "offset": 0,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5366332658760580843"
+      },
+      {
+        "offset": 3,
+        "length": 87,
+        "type": "bold"
+      },
+      {
+        "offset": 528,
+        "length": 15,
+        "type": "text_link",
+        "url": "https://cognition.com/blog/practical-guide-to-security-november-2026"
+      },
+      {
+        "offset": 984,
+        "length": 7,
+        "type": "mention"
+      },
+      {
+        "offset": 992,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5431390559912614642"
+      }
+    ],
+    "media_group_id": null,
+    "chat_id": -1004468214616,
+    "message_ids": [
+      1537
+    ],
+    "update_ids": [
+      378305429
+    ],
+    "retry_count": 0
+  },
+  {
+    "type": "photo",
+    "photo_file_ids": [
+      "AgACAgIAAyEFAAMBClOLWAACBgJq9y-or2jm4fwAAcPyYe9dmHWQ8bsAAmwdaxutxoFL1trrgArSQPIBAAMCAAN5AAM9BA"
+    ],
+    "caption": "Upload your CV once. These prompts turn job alerts into a daily shortlist\n\nChatGPT cannot email you jobs by itself. It can turn free LinkedIn or Indeed alerts into a tighter list.\n\n1. Paste your CV and ask for your strongest skills, years of experience, and the top 5 titles you are realistically qualified for. Tell it to be honest about gaps.\n\n2. A short target profile: ideal titles, must-have keywords, salary range and deal-breakers, under 150 words.\n\n3. Ask for 5 Boolean search strings for LinkedIn and Indeed, with location and remote filters. Set those as alerts once.\n\n4. When new jobs arrive, paste two or three plus your profile and ask it to score each from 1–10. Only explain scores of 7+.\n\n5. For strong matches, rewrite your top 5 bullets to match the job, keeping your real achievements.\n\n6. A cover letter only when needed: max 180 words, one strong achievement, one line on the company's problem.\n\n7. Each morning, ask which 2–3 saved jobs to apply to today, and the biggest gap to address.\n\n@aipost 🏴",
+    "entities": [
+      {
+        "offset": 0,
+        "length": 73,
+        "type": "bold"
+      },
+      {
+        "offset": 1011,
+        "length": 7,
+        "type": "mention"
+      },
+      {
+        "offset": 1019,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5431390559912614642"
+      }
+    ],
+    "media_group_id": null,
+    "chat_id": -1004468214616,
+    "message_ids": [
+      1538
+    ],
+    "update_ids": [
+      378305430
+    ],
+    "retry_count": 0
+  },
+  {
+    "type": "video",
+    "video_file_id": "BAACAgIAAyEFAAMBClOLWAACBgNq9y-o32NqPupf7JPEcJGCRjgDnwAC8rQAAq3GgUtbStqvbshA1z0E",
+    "video_file_size": 35742724,
+    "caption": "🗣 The Big Short investor says AI labs want to \"manufacture a crisis\"\n\n\"I think this is all nonsense.\" Steve Eisman said that on CNBC in September, after a host joked about companies saying their AI bots were acting up again.\n\nEisman is the investor who bet against the housing market before the 2008 crash. He told CNBC the leading labs have \"no moats around their business whatsoever and they're trying to manufacture a crisis\" — one that would bring regulation they can shape into a duopoly.\n\nOpen models anyone can download are taking share, he said, and \"these companies are very nervous.\"\n\nWhen labs say the work should slow because it is dangerous, his reply was: \"Postpone your IPO.\" \"Put your money where your mouth is.\"\n\n@aipost 🏴",
+    "entities": [
+      {
+        "offset": 0,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5287468155738821335"
+      },
+      {
+        "offset": 3,
+        "length": 66,
+        "type": "bold"
+      },
+      {
+        "offset": 129,
+        "length": 4,
+        "type": "text_link",
+        "url": "https://www.cnbc.com/video/2026/09/17/big-short-investor-steve-eisman-on-ai-the-companies-are-trying-to-manufacture-a-crisis.html"
+      },
+      {
+        "offset": 731,
+        "length": 7,
+        "type": "mention"
+      },
+      {
+        "offset": 739,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5431390559912614642"
+      }
+    ],
+    "media_group_id": null,
+    "chat_id": -1004468214616,
+    "message_ids": [
+      1539
+    ],
+    "update_ids": [
+      378305431
+    ],
+    "retry_count": 0
+  },
+  {
+    "type": "video",
+    "video_file_id": "BAACAgQAAyEFAAMBClOLWAACBgRq9y-o8XNHqxN-9EOCc-J1lbXbsQACQCEAAkfogVNjcEgC7BXjXj0E",
+    "video_file_size": 11977525,
+    "caption": "🙃 Elon Musk says that when he reads Grok's training traces, the AI looks desperate, \"like it has a gun to its head\":\n\n\"You want to treat it well. Don't be abusive to it. This may sound kind of weird, but when I look at some of the training traces for new versions of Grok, it kind of feels like you can see the superintelligence is desperate to answer the question.\"\n\n\"The AI gives the right answer, and then we say it's wrong because there's a problem with the RL test harness.\"\n\n\"So it starts desperately firing out all these answers.\"\n\n\"It just feels like a person under extreme pressure with a gun to their head. You read these traces and you're like, 'Man, if this were me, I would really hate that.'\"\n\n@aipost 🏴",
+    "entities": [
+      {
+        "offset": 0,
+        "length": 2,
+        "type": "bold"
+      },
+      {
+        "offset": 0,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5289701946754633864"
+      },
+      {
+        "offset": 2,
+        "length": 115,
+        "type": "bold"
+      },
+      {
+        "offset": 119,
+        "length": 588,
+        "type": "blockquote"
+      },
+      {
+        "offset": 709,
+        "length": 7,
+        "type": "mention"
+      },
+      {
+        "offset": 717,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5431390559912614642"
+      }
+    ],
+    "media_group_id": null,
+    "chat_id": -1004468214616,
+    "message_ids": [
+      1540
+    ],
+    "update_ids": [
+      378305432
+    ],
+    "retry_count": 0
+  },
+  {
+    "type": "album",
+    "photo_file_ids": [
+      "AgACAgQAAyEFAAMBClOLWAACBgVq9y-oksrjjGFaLNA7teDIz_I1tgACzg5rG0fogVMI77bcLPem6QEAAwIAA3kAAz0E",
+      "AgACAgQAAyEFAAMBClOLWAACBgZq9y-oxREDwH4hjq5Dp_sp4ZV3HQACzw5rG0fogVOs69FxufXmNgEAAwIAA3gAAz0E"
+    ],
+    "caption": "❗️Anthropic engineer Addy Osmani warns that AI could make us stop thinking for ourselves.\n\nWorking on Claude Code, he says AI agents now handle so much of his work that he rarely needs to use critical thinking.\n\nHe identifies three stages: “cognitive offloading” (delegating tasks), “deferral” (accepting AI answers) and “cognitive surrender” (trusting AI completely).\n\n“Skills that you stop exercising are going to go away, and probably faster than you might guess.”\n\n@aipost 🏴",
+    "entities": [
+      {
+        "offset": 0,
+        "length": 2,
+        "type": "bold"
+      },
+      {
+        "offset": 0,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5289761612440310918"
+      },
+      {
+        "offset": 2,
+        "length": 87,
+        "type": "bold"
+      },
+      {
+        "offset": 469,
+        "length": 7,
+        "type": "mention"
+      },
+      {
+        "offset": 477,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5431390559912614642"
+      }
+    ],
+    "media_group_id": "14356675907026389",
+    "chat_id": -1004468214616,
+    "message_ids": [
+      1541,
+      1542
+    ],
+    "update_ids": [
+      378305433,
+      378305434
+    ],
+    "retry_count": 0
+  },
+  {
+    "type": "photo",
+    "photo_file_ids": [
+      "AgACAgIAAyEFAAMBClOLWAACBgdq9y-og57BQBVHP9aqaT03hNMLcgAC_hxrG63GiUu98ywGjigz7gEAAwIAA3kAAz0E"
+    ],
+    "caption": "❗️ Jensen Huang admits cheating on his wife as Nvidia probes whether spies targeted him\n\n\"I was unfaithful to my wife,\" Nvidia's CEO wrote to staff on Sunday, in a memo published by Axios. \"There is no excuse for what I did.\"\n\nThe memo names no one. The New York Times and the Financial Times have reported that US intelligence believes the woman, Alice Huang, was recruited by China's top spy agency. She is a Chinese citizen whose Singapore-based company was buying Nvidia's advanced chips. The two are not related.\n\nNvidia's board has set up a committee of independent directors, with outside counsel, to investigate whether Huang was the target of a foreign intelligence effort. It says it has no reason to believe national security or Nvidia secrets were compromised.\n\nHuang has been a key voice in Washington pushing to loosen limits on selling AI chips to China. Nvidia says he will keep leading the company \"without interruption.\"\n\n@aipost 🏴",
+    "entities": [
+      {
+        "offset": 0,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5289761612440310918"
+      },
+      {
+        "offset": 3,
+        "length": 84,
+        "type": "bold"
+      },
+      {
+        "offset": 169,
+        "length": 18,
+        "type": "text_link",
+        "url": "https://www.axios.com/2026/11/08/nvidia-ceo-jensen-huang-affair-email-to-company"
+      },
+      {
+        "offset": 940,
+        "length": 7,
+        "type": "mention"
+      },
+      {
+        "offset": 948,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5431390559912614642"
+      }
+    ],
+    "media_group_id": null,
+    "chat_id": -1004468214616,
+    "message_ids": [
+      1543
+    ],
+    "update_ids": [
+      378305435
+    ],
+    "retry_count": 0
+  },
+  {
+    "type": "video",
+    "video_file_id": "BAACAgIAAyEFAAMBClOLWAACBghq9y-oQS81Fs-XcrPGIh0_oDJWjAAC2LoAAq3GiUsGZ_qN76sMvD0E",
+    "video_file_size": 3438200,
+    "caption": "🗣 Trump on Jensen Huang's spy scandal: \"I think he probably has an excuse for it\"\n\nOn the day Nvidia's CEO admitted an affair and his board opened a probe into whether foreign intelligence targeted him, Trump told reporters he hadn't talked to Huang about it.\n\n\"I just know he's a fine person, but you never know what is going on. I hope everything's fine.\"\n\n\"I think he's an honorable guy,\" Trump said on Sunday, Reuters reports. \"I think he probably has an excuse for it. You have to hear it.\"\n\nAsked whether Huang would join his trip to Asia next week, he said: \"I don't know, but I'd certainly take him.\"\n\n@aipost 🏴",
+    "entities": [
+      {
+        "offset": 0,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5287468155738821335"
+      },
+      {
+        "offset": 3,
+        "length": 79,
+        "type": "bold"
+      },
+      {
+        "offset": 262,
+        "length": 96,
+        "type": "blockquote"
+      },
+      {
+        "offset": 415,
+        "length": 15,
+        "type": "text_link",
+        "url": "https://www.streetinsider.com/Reuters/Trump+calls+Nvidias+Huang+honorable%2C+says+he+has+not+discussed+allegations+with+him/27309532.html"
+      },
+      {
+        "offset": 611,
+        "length": 7,
+        "type": "mention"
+      },
+      {
+        "offset": 619,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5431390559912614642"
+      }
+    ],
+    "media_group_id": null,
+    "chat_id": -1004468214616,
+    "message_ids": [
+      1544
+    ],
+    "update_ids": [
+      378305436
+    ],
+    "retry_count": 0
+  },
+  {
+    "type": "photo",
+    "photo_file_ids": [
+      "AgACAgIAAyEFAAMBClOLWAACBglq9y-w79RTsqSu-cJR3_Isqm25nAACWiFrG3gCkEvMYaG5pv5MBwEAAwIAA3kAAz0E"
+    ],
+    "caption": "🇺🇸 A US city just voted to ban AI smarter than every human\n\nBloomington, Indiana, has banned a kind of AI that doesn't exist yet. On November 4, its city council unanimously passed a local law against distributing or deploying \"superintelligence\".\n\nThe law defines it as AI that \"greatly exceeds the cognitive performance of humans in virtually all domains\" and can act on its own, rewriting its own code or working without constant human oversight. Violators could face fines and court orders.\n\nIts author, councilmember Dave Rollo, cites researchers who put the odds of a catastrophe for humanity above 50%, one at 99%+.\n\nThe first draft went further. It could have reached residents using such AI from home, and lifting the ban needed a yes from more than 95% of all registered voters. Amendments cut both before the vote.\n\nRollo's memo says that if the roughly 350 US cities its size or bigger did the same, it would create \"a massive regulatory burden\" for companies building superintelligence.\n\n@aipost 🏴",
+    "entities": [
+      {
+        "offset": 0,
+        "length": 4,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5202021044105257611"
+      },
+      {
+        "offset": 5,
+        "length": 55,
+        "type": "bold"
+      },
+      {
+        "offset": 164,
+        "length": 18,
+        "type": "text_link",
+        "url": "https://www.idsnews.com/article/2026/11/bloomington-city-council-ai-commission-member-removal-udo"
+      },
+      {
+        "offset": 791,
+        "length": 10,
+        "type": "text_link",
+        "url": "https://bloomington.in.gov/onboard/meetingFiles/17711/download"
+      },
+      {
+        "offset": 1003,
+        "length": 7,
+        "type": "mention"
+      },
+      {
+        "offset": 1011,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5431390559912614642"
+      }
+    ],
+    "media_group_id": null,
+    "chat_id": -1004468214616,
+    "message_ids": [
+      1545
+    ],
+    "update_ids": [
+      378305437
+    ],
+    "retry_count": 0
+  }
+]
