@@ -7182,5 +7182,54 @@
       378305403
     ],
     "retry_count": 0
+  },
+  {
+    "type": "video",
+    "video_file_id": "BAACAgQAAyEFAAMBClOLWAACBflq9ZQ14A6G-hkB3DXs4l_oF2l7pgACPiEAAkfogVOA1KI2hkSx4j0E",
+    "video_file_size": 31598804,
+    "caption": "🗣Ray Kurzweil: By 2032, humans could begin escaping death as we know it, merging with AI to become a hybrid species with brains connected directly to the cloud.\n\n“People who are diligent with their health are going to reach longevity escape velocity.”\n\n“We'll still be human, but enhanced by AI. We will no longer be limited by our biology.”\n\n“In the 2030s and 2040s, nanobots will swim in our bloodstream, performing medical tasks with precision.”\n\n“They will go into our brains non-invasively and provide wireless communication between our neocortex and digital neurons in the cloud.”\n\n“The answer will just appear in your brain like it's part of you.”\n\n@aipost 🏴",
+    "entities": [
+      {
+        "offset": 0,
+        "length": 2,
+        "type": "bold"
+      },
+      {
+        "offset": 0,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5287468155738821335"
+      },
+      {
+        "offset": 2,
+        "length": 159,
+        "type": "bold"
+      },
+      {
+        "offset": 163,
+        "length": 492,
+        "type": "blockquote"
+      },
+      {
+        "offset": 657,
+        "length": 7,
+        "type": "mention"
+      },
+      {
+        "offset": 665,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5431390559912614642"
+      }
+    ],
+    "media_group_id": null,
+    "chat_id": -1004468214616,
+    "message_ids": [
+      1529
+    ],
+    "update_ids": [
+      378305421
+    ],
+    "retry_count": 0
   }
 ]
