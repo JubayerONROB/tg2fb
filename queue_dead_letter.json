@@ -7231,5 +7231,50 @@
       378305421
     ],
     "retry_count": 0
+  },
+  {
+    "type": "video",
+    "video_file_id": "BAACAgIAAyEFAAMBClOLWAACBgNq9y-o32NqPupf7JPEcJGCRjgDnwAC8rQAAq3GgUtbStqvbshA1z0E",
+    "video_file_size": 35742724,
+    "caption": "🗣 The Big Short investor says AI labs want to \"manufacture a crisis\"\n\n\"I think this is all nonsense.\" Steve Eisman said that on CNBC in September, after a host joked about companies saying their AI bots were acting up again.\n\nEisman is the investor who bet against the housing market before the 2008 crash. He told CNBC the leading labs have \"no moats around their business whatsoever and they're trying to manufacture a crisis\" — one that would bring regulation they can shape into a duopoly.\n\nOpen models anyone can download are taking share, he said, and \"these companies are very nervous.\"\n\nWhen labs say the work should slow because it is dangerous, his reply was: \"Postpone your IPO.\" \"Put your money where your mouth is.\"\n\n@aipost 🏴",
+    "entities": [
+      {
+        "offset": 0,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5287468155738821335"
+      },
+      {
+        "offset": 3,
+        "length": 66,
+        "type": "bold"
+      },
+      {
+        "offset": 129,
+        "length": 4,
+        "type": "text_link",
+        "url": "https://www.cnbc.com/video/2026/09/17/big-short-investor-steve-eisman-on-ai-the-companies-are-trying-to-manufacture-a-crisis.html"
+      },
+      {
+        "offset": 731,
+        "length": 7,
+        "type": "mention"
+      },
+      {
+        "offset": 739,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5431390559912614642"
+      }
+    ],
+    "media_group_id": null,
+    "chat_id": -1004468214616,
+    "message_ids": [
+      1539
+    ],
+    "update_ids": [
+      378305431
+    ],
+    "retry_count": 0
   }
 ]
