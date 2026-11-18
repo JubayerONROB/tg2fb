@@ -7326,5 +7326,111 @@
       378305442
     ],
     "retry_count": 0
+  },
+  {
+    "type": "video",
+    "video_file_id": "BAACAgIAAyEFAAMBClOLWAACBhBq_U8aNN7AeQZLzNUTTYknb76vXQACwbcAAngCkEsPgXEqL-ZOGT0E",
+    "video_file_size": 40716839,
+    "caption": "💻 Describe a map app in plain words and Gemini builds it, with real Google Maps inside\n\nGoogle AI Studio can now plug Google Maps straight into the apps Gemini writes. You type something like \"Build an interactive 3D tour of NYC showcasing iconic landmarks\", and a live, working map loads in the preview.\n\nThe apps can use real map data: 3D buildings, Street View, places, routes, weather and air quality. Google's own examples include a store finder, a road-trip planner and a route planner for a mobile pet-grooming business.\n\nSetup takes one click and no credit card. Free use is capped at 100 calls a day for each Maps API. Launching a real app means linking a paid Google Cloud account.\n\n@aipost 🏴",
+    "entities": [
+      {
+        "offset": 0,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5366308323475880265"
+      },
+      {
+        "offset": 3,
+        "length": 84,
+        "type": "bold"
+      },
+      {
+        "offset": 114,
+        "length": 16,
+        "type": "text_link",
+        "url": "https://developers.googleblog.com/from-prompt-to-app-build-with-google-maps-in-ai-studio/"
+      },
+      {
+        "offset": 193,
+        "length": 65,
+        "type": "italic"
+      },
+      {
+        "offset": 694,
+        "length": 7,
+        "type": "mention"
+      },
+      {
+        "offset": 702,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5431390559912614642"
+      }
+    ],
+    "media_group_id": null,
+    "chat_id": -1004468214616,
+    "message_ids": [
+      1552
+    ],
+    "update_ids": [
+      378305444
+    ],
+    "retry_count": 0
+  },
+  {
+    "type": "video",
+    "video_file_id": "BAACAgIAAyEFAAMBClOLWAACBhNq_U8aBNBhJ65IOE8SGMgVZEkzFQAClawAAv9RkEsBCgUMCC3Caj0E",
+    "video_file_size": 47284686,
+    "caption": "😳 WTF. THIS AI PERSONA REACTS WHILE YOU'RE STILL TALKING\n\nMeet Emma from Nuance Labs, with a face and voice licensed from a real actress. Its reply timing overlapped a real speaker 89% of the time, versus 35% for the next best.\n\nMost AI personas stare blankly while you talk. Emma reacts while you’re still speaking.\n\nAI is coming 🐺",
+    "entities": [
+      {
+        "offset": 0,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5326037211164978005"
+      },
+      {
+        "offset": 3,
+        "length": 54,
+        "type": "bold"
+      },
+      {
+        "offset": 109,
+        "length": 28,
+        "type": "text_link",
+        "url": "https://home.nuancelabs.ai/research/meet-emma-the-first-nuplex-persona"
+      },
+      {
+        "offset": 182,
+        "length": 3,
+        "type": "bold"
+      },
+      {
+        "offset": 230,
+        "length": 87,
+        "type": "blockquote"
+      },
+      {
+        "offset": 319,
+        "length": 12,
+        "type": "text_link",
+        "url": "https://t.me/headlines"
+      },
+      {
+        "offset": 332,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5199939501090163829"
+      }
+    ],
+    "media_group_id": null,
+    "chat_id": -1004468214616,
+    "message_ids": [
+      1555
+    ],
+    "update_ids": [
+      378305447
+    ],
+    "retry_count": 0
   }
 ]
