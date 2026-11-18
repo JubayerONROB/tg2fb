@@ -7276,5 +7276,55 @@
       378305431
     ],
     "retry_count": 0
+  },
+  {
+    "type": "video",
+    "video_file_id": "BAACAgIAAyEFAAMBClOLWAACBg5q_U8aQNNbzmb28HN9QiaMOc4HVAAC0rUAAngCkEvm-B-INcnyTT0E",
+    "video_file_size": 30475370,
+    "caption": "🗣 Demis Hassabis thinks his dog is conscious. Today's AI, he says, is not\n\nThe Google DeepMind co-founder says today's AI is very smart, yet he doesn't feel it is \"at all conscious yet\". His dog is the reverse:\n\n\"My pet dog — he's lovely, and he's pretty conscious, I think. He dreams and everything, but he's not that smart.\"\n\nSo intelligence and consciousness can exist apart, he told Reid Hoffman at the Masters of Scale Summit in October. He wants labs to build intelligent tools, not conscious beings. An AI with a will of its own could refuse when people tell it to stop or switch itself off, he argues.\n\nHe would first use AI to study the brain and find out what consciousness is, which he thinks may take five or 10 years. Society isn't ready for the other questions yet, he says: \"Do we need to worry about what we are doing with them in this box? Are they slaves of some sort?\"\n\n@aipost 🏴",
+    "entities": [
+      {
+        "offset": 0,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5287468155738821335"
+      },
+      {
+        "offset": 3,
+        "length": 71,
+        "type": "bold"
+      },
+      {
+        "offset": 213,
+        "length": 114,
+        "type": "blockquote"
+      },
+      {
+        "offset": 408,
+        "length": 23,
+        "type": "text_link",
+        "url": "https://mastersofscale.com/demis-hassabis-society-is-not-ready-for-the-ai-future/"
+      },
+      {
+        "offset": 890,
+        "length": 7,
+        "type": "mention"
+      },
+      {
+        "offset": 898,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5431390559912614642"
+      }
+    ],
+    "media_group_id": null,
+    "chat_id": -1004468214616,
+    "message_ids": [
+      1550
+    ],
+    "update_ids": [
+      378305442
+    ],
+    "retry_count": 0
   }
 ]
