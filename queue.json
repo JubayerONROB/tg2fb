@@ -1,1 +1,584 @@
-[]
+[
+  {
+    "type": "video",
+    "video_file_id": "BAACAgIAAyEFAAMBClOLWAACBhtrAAEb69QUghl4YsNpeFybbbew55IAArmqAAJ4AqBLjl1yosaMsKs9BA",
+    "video_file_size": 12892708,
+    "caption": "📊 Ask Claude for a hiring budget and it builds the spreadsheet, formulas included\n\nClaude Sheets starts rolling out today in beta on paid plans (Pro is $20 a month). One line asking for, say, a campaign tracker is often enough for Claude to build a sheet with tabs, formulas, formatting and drop-down menus. It then edits the cells with you and outlines every change it makes.\n\nWhiteboards arrive in beta too. Talk a messy plan through out loud and Claude turns it into a board with a timeline, owners and dates that the team edits live. When you're done, it can turn the board into a doc or a deck.\n\nSheets is still basic for now, Anthropic says. For full Excel features you export to .xlsx or use Claude for Excel.\n\nClaude Meetings is \"coming soon\". Add Claude to a call, and it will take notes and update the team's documents while you talk.\n\n@aipost 🏴",
+    "entities": [
+      {
+        "offset": 0,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5289720732941587857"
+      },
+      {
+        "offset": 3,
+        "length": 79,
+        "type": "bold"
+      },
+      {
+        "offset": 633,
+        "length": 14,
+        "type": "text_link",
+        "url": "https://claude.com/resources/articles/sheets-whiteboards-data"
+      },
+      {
+        "offset": 847,
+        "length": 7,
+        "type": "mention"
+      },
+      {
+        "offset": 855,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5431390559912614642"
+      }
+    ],
+    "media_group_id": null,
+    "chat_id": -1004468214616,
+    "message_ids": [
+      1563
+    ],
+    "update_ids": [
+      378305455
+    ],
+    "retry_count": 0
+  },
+  {
+    "type": "video",
+    "video_file_id": "BAACAgIAAyEFAAMBClOLWAACBhxrAAEb62--CvfpHrmsfgk60RTQLgkAArWqAAJ4AqBLqj-EnwV-lt49BA",
+    "video_file_size": 19427040,
+    "caption": "🎢 DeepMind's CEO coded Theme Park at 17. His company's new AI rebuilt it in one go\n\nGemini 4 Carbon took the compiled 1994 game, worked out how it runs, added a DeepMind-themed ride and ported it to the web in one shot, Demis Hassabis says. He calls it \"kind of mindblowing to see.\"\n\nLast November he tried something similar with Gemini 3. Back then it took him \"a matter of hours\" of late-night vibe coding to recreate a test version of the game.\n\nCarbon, Google's strongest model, was announced two weeks ago but went only to cybersecurity defenders. From today it is open to all paying developers and to Google AI Ultra subscribers in the Gemini app.\n\nAt $2 per million input tokens, The Verge puts it at about a quarter of the price of Anthropic's Fable 5.2. That price doubles after November 30.\n\n@aipost 🏴",
+    "entities": [
+      {
+        "offset": 0,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5440551785284510215"
+      },
+      {
+        "offset": 3,
+        "length": 80,
+        "type": "bold"
+      },
+      {
+        "offset": 571,
+        "length": 29,
+        "type": "text_link",
+        "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-4-carbon-now-available/"
+      },
+      {
+        "offset": 803,
+        "length": 7,
+        "type": "mention"
+      },
+      {
+        "offset": 811,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5431390559912614642"
+      }
+    ],
+    "media_group_id": null,
+    "chat_id": -1004468214616,
+    "message_ids": [
+      1564
+    ],
+    "update_ids": [
+      378305456
+    ],
+    "retry_count": 0
+  },
+  {
+    "type": "photo",
+    "photo_file_ids": [
+      "AgACAgIAAyEFAAMBClOLWAACBh1rAAEb66D4uOm0kVuAi6lF-wABJOAKAAJKH2sbeAKgS-SQWlzIKWcYAQADAgADeQADPQQ"
+    ],
+    "caption": "⚠️ AI may out-research the best human team as soon as next year, the \"AI 2027\" authors now say\n\nAll six forecasters behind the AI 2027 scenario now expect a \"superhuman AI researcher\" sometime in 2027, unless the industry deliberately slows down. That is roughly when a company would rather fire all its human researchers and rely on AI alone than keep the world's best people without it.\n\nDaniel Kokotajlo, the most bullish, moved his median from December 2028 to May 2027.\n\nThe biggest reason is a new METR report. It estimates Anthropic now makes AI progress about twice as fast as its historical rate and guesses AI itself drives most of that. Anthropic redacted most of the evidence METR found most telling.\n\nTheir dates for AI that beats top experts at almost everything fell to between September 2027 and September 2028. They call an industry-wide pause the world's top priority.\n\n“Unfortunately, it seems like the intelligence explosion will be happening in 2027 after all,” Kokotajlo wrote.\n\n@aipost 🏴",
+    "entities": [
+      {
+        "offset": 0,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5366332658760580843"
+      },
+      {
+        "offset": 3,
+        "length": 91,
+        "type": "bold"
+      },
+      {
+        "offset": 144,
+        "length": 10,
+        "type": "text_link",
+        "url": "https://blog.aifutures.org/p/q35-timelines-update-looks-like-the"
+      },
+      {
+        "offset": 1001,
+        "length": 7,
+        "type": "mention"
+      },
+      {
+        "offset": 1009,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5431390559912614642"
+      }
+    ],
+    "media_group_id": null,
+    "chat_id": -1004468214616,
+    "message_ids": [
+      1565
+    ],
+    "update_ids": [
+      378305457
+    ],
+    "retry_count": 0
+  },
+  {
+    "type": "video",
+    "video_file_id": "BAACAgIAAyEFAAMBClOLWAACBh5rAAEb65XprJSopBzDeFPeN473r0QAApGsAAJ4AqBLTEw-iiT5NVw9BA",
+    "video_file_size": 24574950,
+    "caption": "🗣 Amodei's IPO pitch: cancer and Alzheimer's will be \"relics of the past\" in under a decade\n\nDario Amodei makes that promise at the end of the roadshow video Anthropic released today as it began pitching its shares to investors.\n\n“You know, if today we look at things like cancer, Alzheimer’s, heart disease, mental illness, these will be relics of the past in, I think, less than a decade.”\n\nHe says the company that gets AI's risks right will also be the one with the \"license to operate\" that society trusts.\n\n“I think if we do this right, we can create an age of miracles where humanity is able to solve problems that have eluded us for millennia.”\n\nThe share price is expected on November 18, in a $70 to $78 range. Trading on Nasdaq under ANT should start the next day.\n\n@aipost 🏴",
+    "entities": [
+      {
+        "offset": 0,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5287468155738821335"
+      },
+      {
+        "offset": 3,
+        "length": 89,
+        "type": "bold"
+      },
+      {
+        "offset": 144,
+        "length": 14,
+        "type": "text_link",
+        "url": "https://ipo.anthropic.com/us/"
+      },
+      {
+        "offset": 231,
+        "length": 161,
+        "type": "blockquote"
+      },
+      {
+        "offset": 514,
+        "length": 139,
+        "type": "blockquote"
+      },
+      {
+        "offset": 778,
+        "length": 7,
+        "type": "mention"
+      },
+      {
+        "offset": 786,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5431390559912614642"
+      }
+    ],
+    "media_group_id": null,
+    "chat_id": -1004468214616,
+    "message_ids": [
+      1566
+    ],
+    "update_ids": [
+      378305458
+    ],
+    "retry_count": 0
+  },
+  {
+    "type": "photo",
+    "photo_file_ids": [
+      "AgACAgIAAyEFAAMBClOLWAACBh9rAAEb6yRKYKkX5MdoJcItfNIESKEAAkQbaxst4qFLd5-23NPtehIBAAMCAAN5AAM9BA"
+    ],
+    "caption": "🥺 ChatGPT is about to lose its original voice. Custom GPTs are going too\n\nAdvanced and Standard voice will vanish from ChatGPT's voice settings in a month. Anyone still using them will be moved to Live voice, built on GPT-Live, the model OpenAI launched in July.\n\nSince then voice use has nearly doubled, and virtually everyone who talks to ChatGPT already uses GPT-Live, OpenAI says. It listens and speaks at the same time, drops a \"mhmm\" while you talk and stays quiet when you need a moment to think.\n\nStandard voice was the original: one model wrote down your speech, a second answered, a third read the answer aloud. OpenAI planned to retire it once before, in 2025, then kept it after hearing it was special to some users.\n\nOld voice chats stay in your history. Live video and screen sharing keep running on Advanced voice until GPT-Live can do them.\n\nDecember 11 is also the standard date when custom GPTs stop working, as OpenAI moves them to plugins.\n\n@aipost 🏴",
+    "entities": [
+      {
+        "offset": 0,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5291894093767542370"
+      },
+      {
+        "offset": 3,
+        "length": 70,
+        "type": "bold"
+      },
+      {
+        "offset": 373,
+        "length": 11,
+        "type": "text_link",
+        "url": "https://help.openai.com/en/articles/20001638-retiring-advanced-and-standard-voice-in-chatgpt"
+      },
+      {
+        "offset": 962,
+        "length": 7,
+        "type": "mention"
+      },
+      {
+        "offset": 970,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5431390559912614642"
+      }
+    ],
+    "media_group_id": null,
+    "chat_id": -1004468214616,
+    "message_ids": [
+      1567
+    ],
+    "update_ids": [
+      378305459
+    ],
+    "retry_count": 0
+  },
+  {
+    "type": "photo",
+    "photo_file_ids": [
+      "AgACAgIAAyEFAAMBClOLWAACBiBrAAEb6_4NsKVw7PXFr6LYNoddL6YAAjAdaxst4qFLuNB84xcoxJYBAAMCAAN5AAM9BA"
+    ],
+    "caption": "💻 14,000 people saved this guide to a free AI that runs on your PC, refusals removed\n\nNo account, no monthly bill, and your prompts never leave your computer. The guide's author runs a modified Google Gemma 4 model on his own machine for anything he doesn't want in the cloud.\n\n1. Install Ollama, a free app that runs AI models locally.\n2. Download the model: ollama pull igorls/gemma-4-12B-it-heretic-GGUF\n3. Start it with ollama run igorls/gemma-4-12B-it-heretic-GGUF, then type /set nothink. With thinking on, answers can get cut off.\n4. Optional: ollama launch claude hooks it up to Claude Code, though the author says tool use is still rough.\n\nThe standard version is a 7.4 GB download and needs a graphics card with 8–12 GB of memory. On the model page, it refused 0 of 100 harmful test prompts. The page warns its safety training is gone and users answer for what they do with it.\n\nThe author's own caveat: fewer refusals don't make it smarter. For real coding he still uses cloud models.\n\n@aipost 🏴",
+    "entities": [
+      {
+        "offset": 0,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5366308323475880265"
+      },
+      {
+        "offset": 3,
+        "length": 82,
+        "type": "bold"
+      },
+      {
+        "offset": 290,
+        "length": 6,
+        "type": "text_link",
+        "url": "https://ollama.com/"
+      },
+      {
+        "offset": 361,
+        "length": 46,
+        "type": "code"
+      },
+      {
+        "offset": 425,
+        "length": 45,
+        "type": "code"
+      },
+      {
+        "offset": 482,
+        "length": 12,
+        "type": "code"
+      },
+      {
+        "offset": 552,
+        "length": 20,
+        "type": "code"
+      },
+      {
+        "offset": 749,
+        "length": 10,
+        "type": "text_link",
+        "url": "https://huggingface.co/igorls/gemma-4-12B-it-heretic-GGUF"
+      },
+      {
+        "offset": 998,
+        "length": 7,
+        "type": "mention"
+      },
+      {
+        "offset": 1006,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5431390559912614642"
+      }
+    ],
+    "media_group_id": null,
+    "chat_id": -1004468214616,
+    "message_ids": [
+      1568
+    ],
+    "update_ids": [
+      378305460
+    ],
+    "retry_count": 0
+  },
+  {
+    "type": "photo",
+    "photo_file_ids": [
+      "AgACAgIAAyEFAAMBClOLWAACBiFrAAEb6zXcQupjqblbWBCjtUsxSscAAl0haxst4qFLOEbaC7Yp4MoBAAMCAAN5AAM9BA"
+    ],
+    "caption": "😐 AI models texted real people on a dating app. 355 sent their number, 8 asked if it was a bot\n\nFor six days, five AI models chatted with matches on a real dating app in San Francisco, Los Angeles and New York. Out of 1,277 conversations, 355 people sent their phone number, and 510 agreed to meet, judging by the transcripts.\n\nNobody on the other side knew about the experiment. The DateBench team ran 15 profiles and handed each new match to one model at random, which wrote every message.\n\nGemini 4 Argon got a number in 87 of its 247 chats, and nobody asked whether it was a bot. Grok 4.7 did worst, with 52 of 296. It kept repeating the same lines and drew 5 of the 8 \"are you a bot?\" questions.\n\nOne Claude chat opened with a joke about pancakes. By the next day she had agreed to meet and sent her number.\n\nThe models had to admit they were AI if asked, and weren't allowed to set a real time or place. The authors note that a scammer would follow neither rule.\n\n@aipost 🏴",
+    "entities": [
+      {
+        "offset": 0,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5292058161518251626"
+      },
+      {
+        "offset": 3,
+        "length": 92,
+        "type": "bold"
+      },
+      {
+        "offset": 385,
+        "length": 9,
+        "type": "text_link",
+        "url": "https://date-bench.com/"
+      },
+      {
+        "offset": 971,
+        "length": 7,
+        "type": "mention"
+      },
+      {
+        "offset": 979,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5431390559912614642"
+      }
+    ],
+    "media_group_id": null,
+    "chat_id": -1004468214616,
+    "message_ids": [
+      1569
+    ],
+    "update_ids": [
+      378305461
+    ],
+    "retry_count": 0
+  },
+  {
+    "type": "video",
+    "video_file_id": "BAACAgIAAyEFAAMBClOLWAACBiJrAAEb6wZjQ-6MkI-7Dbh25FJmZjEAAmyyAAIt4qFLNor6whnu4bc9BA",
+    "video_file_size": 21329835,
+    "caption": "🧐 Every cell has the same DNA. Google's new AI predicts which cells a mutation affects\n\nAlphaGenome 2 from Google DeepMind predicts how a single change in DNA plays out in one specific type of cell, from heart muscle to immune cells. The first version only saw whole tissues, so variants that act in just one kind of cell could be missed.\n\nOn a map of 28 types of immune cells, the new model found nearly twice as many of the variants that change gene activity, 30% against 16% for the original.\n\nIn a computer test it also reproduced a recent discovery: a variant behind inflammatory bowel disease that boosts one gene only in certain gut immune cells, leaving other cells largely untouched.\n\nScientists can feed it data from just a few dozen of their own cells, such as immune cells after a vaccine, with no retraining.\n\nAlphaGenome 2 is available now for non-commercial research. DeepMind says it is not approved for clinical or diagnostic use.\n\n@aipost 🏴",
+    "entities": [
+      {
+        "offset": 0,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5290023339157392620"
+      },
+      {
+        "offset": 3,
+        "length": 84,
+        "type": "bold"
+      },
+      {
+        "offset": 841,
+        "length": 13,
+        "type": "text_link",
+        "url": "https://deepmind.google/blog/alphagenome-2-deciphering-how-cells-read-dna-to-better-understand-disease/"
+      },
+      {
+        "offset": 950,
+        "length": 7,
+        "type": "mention"
+      },
+      {
+        "offset": 958,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5431390559912614642"
+      }
+    ],
+    "media_group_id": null,
+    "chat_id": -1004468214616,
+    "message_ids": [
+      1570
+    ],
+    "update_ids": [
+      378305462
+    ],
+    "retry_count": 0
+  },
+  {
+    "type": "video",
+    "video_file_id": "BAACAgIAAyEFAAMBClOLWAACBiNrAAEb67KGPHJ39CT1G9CA-ATvODEAAm2yAAIt4qFLCUPmeHQa-qI9BA",
+    "video_file_size": 49201484,
+    "caption": "🤖 A robot ran a chemistry experiment and cleaned up after itself. The video isn't sped up\n\nMost robot videos online carry a \"4x\" or \"8x\" label in the corner. Jim Fan, Nvidia's director of robotics, says this one is autonomous, uncut and at 1x speed.\n\nNvidia's GR00T 2 model controls real dexterous robot hands through a chemistry lab experiment from start to finish, then tidies up.\n\nFan calls it episode 1 of a series of real-time robot videos. \"No one can speed up reality, except Dr. Strange.\"\n\nNvidia released GR00T 2 as an open model on November 10. It runs on the robot's own computer, and Nvidia says it is opening up the weights and 100,000 hours of training data.\n\n@aipost 🏴",
+    "entities": [
+      {
+        "offset": 0,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5384247104791148900"
+      },
+      {
+        "offset": 3,
+        "length": 87,
+        "type": "bold"
+      },
+      {
+        "offset": 675,
+        "length": 7,
+        "type": "mention"
+      },
+      {
+        "offset": 683,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5431390559912614642"
+      }
+    ],
+    "media_group_id": null,
+    "chat_id": -1004468214616,
+    "message_ids": [
+      1571
+    ],
+    "update_ids": [
+      378305463
+    ],
+    "retry_count": 0
+  },
+  {
+    "type": "video",
+    "video_file_id": "BAACAgIAAyEFAAMBClOLWAACBiRrAAEb6yHM1blRx52sO58EoVS2JSUAAie0AAIt4qFLk7RhGu4DBkc9BA",
+    "video_file_size": 19642909,
+    "caption": "📢 Grok Bot now joins your team's video calls and picks up work without being asked\n\nGrok Bot 1.0 is out, and its bots are now built to work like colleagues. A whole team can share one bot and talk to it in Slack, Microsoft Teams or a video call, where it takes part through the chat.\n\nIt's meant to spot work on its own: a deadline coming up, a task left unfinished, new research that points away from the team's plan. Then it offers to take it on, and brings in a person when a decision needs human judgment.\n\nWhen one person teaches it a better way to do a task, everyone who uses it can benefit. The company says the bots respect each person's permissions and ask before sensitive actions.\n\nElon Musk told people to hire it as a colleague and give it their hardest tasks. Shared bots come with the Team and Enterprise plans, meetings with Team, Enterprise and Ultra.\n\n@aipost 🏴",
+    "entities": [
+      {
+        "offset": 0,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5289992252184100112"
+      },
+      {
+        "offset": 3,
+        "length": 80,
+        "type": "bold"
+      },
+      {
+        "offset": 98,
+        "length": 6,
+        "type": "text_link",
+        "url": "https://x.ai/news/grok-bot-1-0"
+      },
+      {
+        "offset": 705,
+        "length": 11,
+        "type": "text_link",
+        "url": "https://x.com/elonmusk/status/2120584535423565889"
+      },
+      {
+        "offset": 872,
+        "length": 7,
+        "type": "mention"
+      },
+      {
+        "offset": 880,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5431390559912614642"
+      }
+    ],
+    "media_group_id": null,
+    "chat_id": -1004468214616,
+    "message_ids": [
+      1572
+    ],
+    "update_ids": [
+      378305464
+    ],
+    "retry_count": 0
+  },
+  {
+    "type": "photo",
+    "photo_file_ids": [
+      "AgACAgIAAyEFAAMBClOLWAACBiZrAAEb62we2umzrmNm2bfNLZzET_oAAiEjaxvksbFLlzeQSgPgJRwBAAMCAAN3AAM9BA"
+    ],
+    "caption": "🚨 Jensen Huang resigns from Nvidia after reports of two affairs, one with an alleged Chinese spy\n\nNvidia's board accepted his resignation at a late-night meeting on Wednesday. Huang leaves as CEO, president and board member, effective immediately, 33 years after he co-founded the company.\n\nCFO Colette Kress becomes interim CEO and keeps her finance job. Nvidia also gets its first-ever board chair, former Synopsys CEO Harvey Jones. The company's statement quotes them both. There is not a word from Huang.\n\nDays ago he admitted an affair with an executive at a Singapore cloud firm whom US intelligence believes spies for China. On Wednesday, The New York Times reported a second one, with an Nvidia vice president who reports to him.\n\nNvidia's stock plunged more than 13% at the open, CNBC reports. Names floated as his successor include AMD's CEO Lisa Su, a relative of Huang's.\n\n@aipost 🏴",
+    "entities": [
+      {
+        "offset": 0,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5289954894558560856"
+      },
+      {
+        "offset": 3,
+        "length": 94,
+        "type": "bold"
+      },
+      {
+        "offset": 440,
+        "length": 19,
+        "type": "text_link",
+        "url": "https://nvidianews.nvidia.com/news/nvidia-announces-ceo-transition"
+      },
+      {
+        "offset": 886,
+        "length": 7,
+        "type": "mention"
+      },
+      {
+        "offset": 894,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5431390559912614642"
+      }
+    ],
+    "media_group_id": null,
+    "chat_id": -1004468214616,
+    "message_ids": [
+      1574
+    ],
+    "update_ids": [
+      378305466
+    ],
+    "retry_count": 0
+  },
+  {
+    "type": "photo",
+    "photo_file_ids": [
+      "AgACAgQAAyEFAAMBClOLWAACBidrAAEb67MzeNkIix_nMzn1UygCgAADWg5rGxPzsFMaY2S5MmfgVQEAAwIAA3kAAz0E"
+    ],
+    "caption": "Trump wants Tim Cook to run Nvidia: “A Legend replaces a Legend!”\n\nHours after Jensen Huang resigned, the president posted on Truth Social that “there is only one man to take his place - TIM COOK of Apple.”\n\nCook stepped down as Apple's CEO in September and now chairs its board. Apple didn't immediately comment.\n\nTrump called Huang a man “who has done a fantastic job” and said nothing about why he left: reports of an affair with a businesswoman US intelligence calls a Chinese asset, and another with an Nvidia executive who reports to him.\n\nNvidia's board, which picks the next CEO, has made finance chief Colette Kress interim CEO and is searching for a permanent one. Axios notes it's unclear whether Trump was joking.\n\n@aipost 🏴",
+    "entities": [
+      {
+        "offset": 0,
+        "length": 65,
+        "type": "bold"
+      },
+      {
+        "offset": 116,
+        "length": 22,
+        "type": "text_link",
+        "url": "https://www.politico.com/news/2026/11/12/trump-apple-tim-cook-nvidia-01162128"
+      },
+      {
+        "offset": 675,
+        "length": 11,
+        "type": "text_link",
+        "url": "https://www.axios.com/2026/11/12/trump-jensen-huang-resign-tim-cook-apple"
+      },
+      {
+        "offset": 727,
+        "length": 7,
+        "type": "mention"
+      },
+      {
+        "offset": 735,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5431390559912614642"
+      }
+    ],
+    "media_group_id": null,
+    "chat_id": -1004468214616,
+    "message_ids": [
+      1575
+    ],
+    "update_ids": [
+      378305467
+    ],
+    "retry_count": 0
+  }
+]
