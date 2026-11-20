@@ -7432,5 +7432,60 @@
       378305447
     ],
     "retry_count": 0
+  },
+  {
+    "type": "video",
+    "video_file_id": "BAACAgIAAyEFAAMBClOLWAACBh5rAAEb65XprJSopBzDeFPeN473r0QAApGsAAJ4AqBLTEw-iiT5NVw9BA",
+    "video_file_size": 24574950,
+    "caption": "🗣 Amodei's IPO pitch: cancer and Alzheimer's will be \"relics of the past\" in under a decade\n\nDario Amodei makes that promise at the end of the roadshow video Anthropic released today as it began pitching its shares to investors.\n\n“You know, if today we look at things like cancer, Alzheimer’s, heart disease, mental illness, these will be relics of the past in, I think, less than a decade.”\n\nHe says the company that gets AI's risks right will also be the one with the \"license to operate\" that society trusts.\n\n“I think if we do this right, we can create an age of miracles where humanity is able to solve problems that have eluded us for millennia.”\n\nThe share price is expected on November 18, in a $70 to $78 range. Trading on Nasdaq under ANT should start the next day.\n\n@aipost 🏴",
+    "entities": [
+      {
+        "offset": 0,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5287468155738821335"
+      },
+      {
+        "offset": 3,
+        "length": 89,
+        "type": "bold"
+      },
+      {
+        "offset": 144,
+        "length": 14,
+        "type": "text_link",
+        "url": "https://ipo.anthropic.com/us/"
+      },
+      {
+        "offset": 231,
+        "length": 161,
+        "type": "blockquote"
+      },
+      {
+        "offset": 514,
+        "length": 139,
+        "type": "blockquote"
+      },
+      {
+        "offset": 778,
+        "length": 7,
+        "type": "mention"
+      },
+      {
+        "offset": 786,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5431390559912614642"
+      }
+    ],
+    "media_group_id": null,
+    "chat_id": -1004468214616,
+    "message_ids": [
+      1566
+    ],
+    "update_ids": [
+      378305458
+    ],
+    "retry_count": 0
   }
 ]
