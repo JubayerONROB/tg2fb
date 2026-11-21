@@ -7571,5 +7571,109 @@
       378305463
     ],
     "retry_count": 0
+  },
+  {
+    "type": "video",
+    "video_file_id": "BAACAgIAAyEFAAMBClOLWAACBjJrAXD8jbc8wspFa1gk4IyKtf4pwgACjK4AAsPLyEtXyohw3QPw-j0E",
+    "video_file_size": 28508241,
+    "caption": "🚀 SpaceX Catches Starship Ship 42\n\nAfter a roughly 22.5-hour flight from launch, Ship 42 returned from orbit and settled into Mechazilla’s arms at Starbase. It was SpaceX’s first tower catch of a spacecraft returning from orbit.\n\nSpaceX had already caught Super Heavy boosters 3 times, but had never tried to catch the ship. On Flight 15, launched on the evening of Nov 13, the booster received a low-fuel warning and splashed down in the Gulf of Mexico. The planned double catch will have to wait.\n\nA caught stage can be checked and sent back into the sky faster. SpaceX says that turnaround is key to its planned launch rate, with Starlink V3 expected to reach 100,000 satellites. Musk also promises Starmind, orbital AI data centers for 1 million spacecraft.\n\n📊@tech",
+    "entities": [
+      {
+        "offset": 0,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5425096654707521936"
+      },
+      {
+        "offset": 3,
+        "length": 31,
+        "type": "bold"
+      },
+      {
+        "offset": 52,
+        "length": 16,
+        "type": "bold"
+      },
+      {
+        "offset": 82,
+        "length": 7,
+        "type": "bold"
+      },
+      {
+        "offset": 174,
+        "length": 17,
+        "type": "bold"
+      },
+      {
+        "offset": 278,
+        "length": 7,
+        "type": "bold"
+      },
+      {
+        "offset": 329,
+        "length": 9,
+        "type": "bold"
+      },
+      {
+        "offset": 398,
+        "length": 16,
+        "type": "bold"
+      },
+      {
+        "offset": 468,
+        "length": 12,
+        "type": "bold"
+      },
+      {
+        "offset": 634,
+        "length": 11,
+        "type": "bold"
+      },
+      {
+        "offset": 664,
+        "length": 18,
+        "type": "bold"
+      },
+      {
+        "offset": 703,
+        "length": 8,
+        "type": "bold"
+      },
+      {
+        "offset": 741,
+        "length": 20,
+        "type": "bold"
+      },
+      {
+        "offset": 764,
+        "length": 2,
+        "type": "bold"
+      },
+      {
+        "offset": 764,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5449841756596101801"
+      },
+      {
+        "offset": 766,
+        "length": 5,
+        "type": "mention"
+      },
+      {
+        "offset": 766,
+        "length": 5,
+        "type": "bold"
+      }
+    ],
+    "media_group_id": null,
+    "chat_id": -1004468214616,
+    "message_ids": [
+      1586
+    ],
+    "update_ids": [
+      378305478
+    ],
+    "retry_count": 0
   }
 ]
