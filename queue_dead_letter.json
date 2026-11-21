@@ -7487,5 +7487,89 @@
       378305458
     ],
     "retry_count": 0
+  },
+  {
+    "type": "video",
+    "video_file_id": "BAACAgIAAyEFAAMBClOLWAACBiJrAAEb6wZjQ-6MkI-7Dbh25FJmZjEAAmyyAAIt4qFLNor6whnu4bc9BA",
+    "video_file_size": 21329835,
+    "caption": "🧐 Every cell has the same DNA. Google's new AI predicts which cells a mutation affects\n\nAlphaGenome 2 from Google DeepMind predicts how a single change in DNA plays out in one specific type of cell, from heart muscle to immune cells. The first version only saw whole tissues, so variants that act in just one kind of cell could be missed.\n\nOn a map of 28 types of immune cells, the new model found nearly twice as many of the variants that change gene activity, 30% against 16% for the original.\n\nIn a computer test it also reproduced a recent discovery: a variant behind inflammatory bowel disease that boosts one gene only in certain gut immune cells, leaving other cells largely untouched.\n\nScientists can feed it data from just a few dozen of their own cells, such as immune cells after a vaccine, with no retraining.\n\nAlphaGenome 2 is available now for non-commercial research. DeepMind says it is not approved for clinical or diagnostic use.\n\n@aipost 🏴",
+    "entities": [
+      {
+        "offset": 0,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5290023339157392620"
+      },
+      {
+        "offset": 3,
+        "length": 84,
+        "type": "bold"
+      },
+      {
+        "offset": 841,
+        "length": 13,
+        "type": "text_link",
+        "url": "https://deepmind.google/blog/alphagenome-2-deciphering-how-cells-read-dna-to-better-understand-disease/"
+      },
+      {
+        "offset": 950,
+        "length": 7,
+        "type": "mention"
+      },
+      {
+        "offset": 958,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5431390559912614642"
+      }
+    ],
+    "media_group_id": null,
+    "chat_id": -1004468214616,
+    "message_ids": [
+      1570
+    ],
+    "update_ids": [
+      378305462
+    ],
+    "retry_count": 0
+  },
+  {
+    "type": "video",
+    "video_file_id": "BAACAgIAAyEFAAMBClOLWAACBiNrAAEb67KGPHJ39CT1G9CA-ATvODEAAm2yAAIt4qFLCUPmeHQa-qI9BA",
+    "video_file_size": 49201484,
+    "caption": "🤖 A robot ran a chemistry experiment and cleaned up after itself. The video isn't sped up\n\nMost robot videos online carry a \"4x\" or \"8x\" label in the corner. Jim Fan, Nvidia's director of robotics, says this one is autonomous, uncut and at 1x speed.\n\nNvidia's GR00T 2 model controls real dexterous robot hands through a chemistry lab experiment from start to finish, then tidies up.\n\nFan calls it episode 1 of a series of real-time robot videos. \"No one can speed up reality, except Dr. Strange.\"\n\nNvidia released GR00T 2 as an open model on November 10. It runs on the robot's own computer, and Nvidia says it is opening up the weights and 100,000 hours of training data.\n\n@aipost 🏴",
+    "entities": [
+      {
+        "offset": 0,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5384247104791148900"
+      },
+      {
+        "offset": 3,
+        "length": 87,
+        "type": "bold"
+      },
+      {
+        "offset": 675,
+        "length": 7,
+        "type": "mention"
+      },
+      {
+        "offset": 683,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5431390559912614642"
+      }
+    ],
+    "media_group_id": null,
+    "chat_id": -1004468214616,
+    "message_ids": [
+      1571
+    ],
+    "update_ids": [
+      378305463
+    ],
+    "retry_count": 0
   }
 ]
