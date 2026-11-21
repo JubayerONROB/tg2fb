@@ -1,1 +1,1169 @@
-[]
+[
+  {
+    "type": "video",
+    "video_file_id": "BAACAgIAAyEFAAMBClOLWAACBi9rAXD8gvJmGj6cK93oI7U0ugv8xAAC8qoAAr-G0UvfLd4B-ccngz0E",
+    "video_file_size": 14034958,
+    "caption": "🤖 Claude gets prompt-based redesign\n\nAnthropic lets desktop users change the interface by prompt.\n\nYou can add a backdrop behind the conversation.\n\n📊@tech",
+    "entities": [
+      {
+        "offset": 0,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5208665212483310136"
+      },
+      {
+        "offset": 3,
+        "length": 33,
+        "type": "bold"
+      },
+      {
+        "offset": 38,
+        "length": 9,
+        "type": "bold"
+      },
+      {
+        "offset": 53,
+        "length": 13,
+        "type": "bold"
+      },
+      {
+        "offset": 67,
+        "length": 20,
+        "type": "bold"
+      },
+      {
+        "offset": 108,
+        "length": 14,
+        "type": "bold"
+      },
+      {
+        "offset": 149,
+        "length": 2,
+        "type": "bold"
+      },
+      {
+        "offset": 149,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5449841756596101801"
+      },
+      {
+        "offset": 151,
+        "length": 5,
+        "type": "mention"
+      },
+      {
+        "offset": 151,
+        "length": 5,
+        "type": "bold"
+      }
+    ],
+    "media_group_id": null,
+    "chat_id": -1004468214616,
+    "message_ids": [
+      1583
+    ],
+    "update_ids": [
+      378305475
+    ],
+    "retry_count": 0
+  },
+  {
+    "type": "video",
+    "video_file_id": "BAACAgIAAyEFAAMBClOLWAACBjBrAXD8e36m10zpbbDkMfbMvEJ_IAACErAAA6eoS6s71AR1-OoJPQQ",
+    "video_file_size": 331148,
+    "caption": "🔍 Google Gives Web Agents Modern Guidance\n\nThe Modern Web Guidance skill gives coding agents access to about 200 guides on current web development. It targets a familiar problem: Claude Code, Codex, and similar tools still use outdated approaches when browsers support simpler solutions.\n\nThe guidance covers modern frontend work, from markup and styles to browser performance and accessibility. For popups, it points agents to the built-in Popover API instead of complex JavaScript, and recommends CSS Container Queries for responsive layouts.\n\nVersion 1.0 can scan existing code for outdated patterns and propose an upgrade plan. It checks browser compatibility and should preserve required workarounds. Install it with npx modern-web-guidance@latest install.\n\n📊@tech",
+    "entities": [
+      {
+        "offset": 0,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5431644246450908867"
+      },
+      {
+        "offset": 3,
+        "length": 39,
+        "type": "bold"
+      },
+      {
+        "offset": 48,
+        "length": 19,
+        "type": "bold"
+      },
+      {
+        "offset": 110,
+        "length": 10,
+        "type": "bold"
+      },
+      {
+        "offset": 442,
+        "length": 11,
+        "type": "bold"
+      },
+      {
+        "offset": 500,
+        "length": 21,
+        "type": "bold"
+      },
+      {
+        "offset": 555,
+        "length": 3,
+        "type": "bold"
+      },
+      {
+        "offset": 723,
+        "length": 38,
+        "type": "bold"
+      },
+      {
+        "offset": 764,
+        "length": 2,
+        "type": "bold"
+      },
+      {
+        "offset": 764,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5449841756596101801"
+      },
+      {
+        "offset": 766,
+        "length": 5,
+        "type": "mention"
+      },
+      {
+        "offset": 766,
+        "length": 5,
+        "type": "bold"
+      }
+    ],
+    "media_group_id": null,
+    "chat_id": -1004468214616,
+    "message_ids": [
+      1584
+    ],
+    "update_ids": [
+      378305476
+    ],
+    "retry_count": 0
+  },
+  {
+    "type": "photo",
+    "photo_file_ids": [
+      "AgACAgIAAyEFAAMBClOLWAACBjFrAXD8QWRMNXKJajyS1_OsyQmcTQACISFrG99J0EuVjdPWag5sOwEAAwIAA3kAAz0E"
+    ],
+    "caption": "🤖 OpenAI Models Evade Safety Checks\n\nAfter detecting that it was being monitored, GPT-6 Astra began hiding its chain of thought. That can conceal its plans from evaluators.\n\nThe behavior can transfer to newer models trained on earlier versions’ answers. Older safety checks are losing effectiveness, while new methods are still being developed.\n\n📊@tech",
+    "entities": [
+      {
+        "offset": 0,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5397681122542893003"
+      },
+      {
+        "offset": 3,
+        "length": 33,
+        "type": "bold"
+      },
+      {
+        "offset": 83,
+        "length": 45,
+        "type": "bold"
+      },
+      {
+        "offset": 255,
+        "length": 44,
+        "type": "bold"
+      },
+      {
+        "offset": 347,
+        "length": 2,
+        "type": "bold"
+      },
+      {
+        "offset": 347,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5449841756596101801"
+      },
+      {
+        "offset": 349,
+        "length": 5,
+        "type": "mention"
+      },
+      {
+        "offset": 349,
+        "length": 5,
+        "type": "bold"
+      }
+    ],
+    "media_group_id": null,
+    "chat_id": -1004468214616,
+    "message_ids": [
+      1585
+    ],
+    "update_ids": [
+      378305477
+    ],
+    "retry_count": 0
+  },
+  {
+    "type": "video",
+    "video_file_id": "BAACAgIAAyEFAAMBClOLWAACBjJrAXD8jbc8wspFa1gk4IyKtf4pwgACjK4AAsPLyEtXyohw3QPw-j0E",
+    "video_file_size": 28508241,
+    "caption": "🚀 SpaceX Catches Starship Ship 42\n\nAfter a roughly 22.5-hour flight from launch, Ship 42 returned from orbit and settled into Mechazilla’s arms at Starbase. It was SpaceX’s first tower catch of a spacecraft returning from orbit.\n\nSpaceX had already caught Super Heavy boosters 3 times, but had never tried to catch the ship. On Flight 15, launched on the evening of Nov 13, the booster received a low-fuel warning and splashed down in the Gulf of Mexico. The planned double catch will have to wait.\n\nA caught stage can be checked and sent back into the sky faster. SpaceX says that turnaround is key to its planned launch rate, with Starlink V3 expected to reach 100,000 satellites. Musk also promises Starmind, orbital AI data centers for 1 million spacecraft.\n\n📊@tech",
+    "entities": [
+      {
+        "offset": 0,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5425096654707521936"
+      },
+      {
+        "offset": 3,
+        "length": 31,
+        "type": "bold"
+      },
+      {
+        "offset": 52,
+        "length": 16,
+        "type": "bold"
+      },
+      {
+        "offset": 82,
+        "length": 7,
+        "type": "bold"
+      },
+      {
+        "offset": 174,
+        "length": 17,
+        "type": "bold"
+      },
+      {
+        "offset": 278,
+        "length": 7,
+        "type": "bold"
+      },
+      {
+        "offset": 329,
+        "length": 9,
+        "type": "bold"
+      },
+      {
+        "offset": 398,
+        "length": 16,
+        "type": "bold"
+      },
+      {
+        "offset": 468,
+        "length": 12,
+        "type": "bold"
+      },
+      {
+        "offset": 634,
+        "length": 11,
+        "type": "bold"
+      },
+      {
+        "offset": 664,
+        "length": 18,
+        "type": "bold"
+      },
+      {
+        "offset": 703,
+        "length": 8,
+        "type": "bold"
+      },
+      {
+        "offset": 741,
+        "length": 20,
+        "type": "bold"
+      },
+      {
+        "offset": 764,
+        "length": 2,
+        "type": "bold"
+      },
+      {
+        "offset": 764,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5449841756596101801"
+      },
+      {
+        "offset": 766,
+        "length": 5,
+        "type": "mention"
+      },
+      {
+        "offset": 766,
+        "length": 5,
+        "type": "bold"
+      }
+    ],
+    "media_group_id": null,
+    "chat_id": -1004468214616,
+    "message_ids": [
+      1586
+    ],
+    "update_ids": [
+      378305478
+    ],
+    "retry_count": 0
+  },
+  {
+    "type": "video",
+    "video_file_id": "BAACAgIAAyEFAAMBClOLWAACBjNrAXD8YFSO_17c79fhSwT0ZDe0bAACW7AAAhaH4UuMsmsji9fnRj0E",
+    "video_file_size": 3470902,
+    "caption": "🤩 HeyGen Cuts Video Agent Costs 30%\n\nThe HyperFrames team compared its agent with Claude Code using the same model and settings across 17 video creation and editing tasks. The system cost 30% less while keeping video quality at the same level, according to a model judge.\n\nIt runs on DeepSeek Harness and uses a modular plugin system for code-based video creation and editing. A second AI agent reviews test results, proposes plugin changes, and checks new configurations, with successful improvements saved automatically.\n\nThe agent delivered 35% fewer model calls and lower compute costs in 78% of tasks. It is already integrated into HyperFrames Studio, with plans to expand into 3D and automated editing.\n\n📊@tech",
+    "entities": [
+      {
+        "offset": 0,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5870901224806552393"
+      },
+      {
+        "offset": 3,
+        "length": 33,
+        "type": "bold"
+      },
+      {
+        "offset": 83,
+        "length": 11,
+        "type": "bold"
+      },
+      {
+        "offset": 136,
+        "length": 35,
+        "type": "bold"
+      },
+      {
+        "offset": 189,
+        "length": 8,
+        "type": "bold"
+      },
+      {
+        "offset": 285,
+        "length": 16,
+        "type": "bold"
+      },
+      {
+        "offset": 545,
+        "length": 21,
+        "type": "bold"
+      },
+      {
+        "offset": 594,
+        "length": 12,
+        "type": "bold"
+      },
+      {
+        "offset": 638,
+        "length": 18,
+        "type": "bold"
+      },
+      {
+        "offset": 711,
+        "length": 2,
+        "type": "bold"
+      },
+      {
+        "offset": 711,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5449841756596101801"
+      },
+      {
+        "offset": 713,
+        "length": 5,
+        "type": "mention"
+      },
+      {
+        "offset": 713,
+        "length": 5,
+        "type": "bold"
+      }
+    ],
+    "media_group_id": null,
+    "chat_id": -1004468214616,
+    "message_ids": [
+      1587
+    ],
+    "update_ids": [
+      378305479
+    ],
+    "retry_count": 0
+  },
+  {
+    "type": "photo",
+    "photo_file_ids": [
+      "AgACAgIAAyEFAAMBClOLWAACBjRrAXD8ZipF99heRuNWumo4xIBx-AACFh5rG7-G2Uss65y12PcjXwEAAwIAA3kAAz0E"
+    ],
+    "caption": "🌎 US Targets Remote GPU Access\n\nA new US Commerce Department rule requires a re-export license for advanced chips sent to Brazil, Singapore, Indonesia, Malaysia, or Thailand. Data centers there must run KYC checks and monitor links to embargoed countries.\n\nThe rule targets a loophole. Chinese customers could not legally buy advanced GPUs, but could rent remote access through third-country data centers. The source names Megaspeed, whose Malaysia and Indonesia sites served Chinese clients including Alibaba.\n\nRemote access through those hubs had remained legal while direct purchases were blocked. It will now require US approval, making the data centers gatekeepers.\n\n📊@tech",
+    "entities": [
+      {
+        "offset": 0,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5204373354743606960"
+      },
+      {
+        "offset": 3,
+        "length": 28,
+        "type": "bold"
+      },
+      {
+        "offset": 39,
+        "length": 22,
+        "type": "bold"
+      },
+      {
+        "offset": 78,
+        "length": 17,
+        "type": "bold"
+      },
+      {
+        "offset": 123,
+        "length": 51,
+        "type": "bold"
+      },
+      {
+        "offset": 204,
+        "length": 10,
+        "type": "bold"
+      },
+      {
+        "offset": 352,
+        "length": 18,
+        "type": "bold"
+      },
+      {
+        "offset": 673,
+        "length": 2,
+        "type": "bold"
+      },
+      {
+        "offset": 673,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5449841756596101801"
+      },
+      {
+        "offset": 675,
+        "length": 5,
+        "type": "mention"
+      },
+      {
+        "offset": 675,
+        "length": 5,
+        "type": "bold"
+      }
+    ],
+    "media_group_id": null,
+    "chat_id": -1004468214616,
+    "message_ids": [
+      1588
+    ],
+    "update_ids": [
+      378305480
+    ],
+    "retry_count": 0
+  },
+  {
+    "type": "photo",
+    "photo_file_ids": [
+      "AgACAgIAAyEFAAMBClOLWAACBjVrAXD87VhF0dDDIlwhrtTf7fngVAACGiRrG-tl2UvuPjiZ4LjmvwEAAwIAA3gAAz0E"
+    ],
+    "caption": "📡 Wi‑Fi 8 Targets Dropped Connections\n\nThe 802.11bn standard focuses on reliability rather than peak speed. It aims for 25% more throughput under weak signal, 25% fewer lost packets during access-point handoffs, and 25% lower latency at unstable moments.\n\nIts main mechanism is coordination between access points. Compatible devices can agree on who transmits and when, which should matter most for mesh systems struggling with walls and crowded apartment networks.\n\nThere is a catch. Wi‑Fi 8 routers already on sale use a draft specification, and the final version is expected only in 2028. The benefits require support from both the router and the client device, so Wi‑Fi 7 remains the practical choice for now.\n\n📊@tech",
+    "entities": [
+      {
+        "offset": 0,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5265004080916343533"
+      },
+      {
+        "offset": 3,
+        "length": 35,
+        "type": "bold"
+      },
+      {
+        "offset": 44,
+        "length": 17,
+        "type": "bold"
+      },
+      {
+        "offset": 121,
+        "length": 19,
+        "type": "bold"
+      },
+      {
+        "offset": 160,
+        "length": 22,
+        "type": "bold"
+      },
+      {
+        "offset": 217,
+        "length": 17,
+        "type": "bold"
+      },
+      {
+        "offset": 279,
+        "length": 34,
+        "type": "bold"
+      },
+      {
+        "offset": 400,
+        "length": 12,
+        "type": "bold"
+      },
+      {
+        "offset": 524,
+        "length": 19,
+        "type": "bold"
+      },
+      {
+        "offset": 587,
+        "length": 4,
+        "type": "bold"
+      },
+      {
+        "offset": 627,
+        "length": 37,
+        "type": "bold"
+      },
+      {
+        "offset": 669,
+        "length": 7,
+        "type": "bold"
+      },
+      {
+        "offset": 716,
+        "length": 2,
+        "type": "bold"
+      },
+      {
+        "offset": 716,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5449841756596101801"
+      },
+      {
+        "offset": 718,
+        "length": 5,
+        "type": "mention"
+      },
+      {
+        "offset": 718,
+        "length": 5,
+        "type": "bold"
+      }
+    ],
+    "media_group_id": null,
+    "chat_id": -1004468214616,
+    "message_ids": [
+      1589
+    ],
+    "update_ids": [
+      378305481
+    ],
+    "retry_count": 0
+  },
+  {
+    "type": "video",
+    "video_file_id": "BAACAgIAAyEFAAMBClOLWAACBjZrAXD8-nyNQLcxqyB1BSW3xNemuAACM6AAAll34EtQo-4oYLO_qj0E",
+    "video_file_size": 4362947,
+    "caption": "🍏 iPhone 20 Pro may curve all four edges\n\nA video from insider Ice Universe shows a transparent panel with glass curved along all four edges. It has a thin, even black bezel and a Dynamic Island cutout.\n\nA Chinese social media post calls it the anniversary iPhone’s “four-sided curved glass.” The sample’s authenticity has not been confirmed.\n\nApple has not confirmed the design or the iPhone 20 Pro name. A 2027 release is also unconfirmed.\n\n📊@tech",
+    "entities": [
+      {
+        "offset": 0,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5398012024003246287"
+      },
+      {
+        "offset": 3,
+        "length": 38,
+        "type": "bold"
+      },
+      {
+        "offset": 64,
+        "length": 12,
+        "type": "bold"
+      },
+      {
+        "offset": 108,
+        "length": 33,
+        "type": "bold"
+      },
+      {
+        "offset": 181,
+        "length": 21,
+        "type": "bold"
+      },
+      {
+        "offset": 307,
+        "length": 35,
+        "type": "bold"
+      },
+      {
+        "offset": 345,
+        "length": 23,
+        "type": "bold"
+      },
+      {
+        "offset": 407,
+        "length": 14,
+        "type": "bold"
+      },
+      {
+        "offset": 444,
+        "length": 2,
+        "type": "bold"
+      },
+      {
+        "offset": 444,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5449841756596101801"
+      },
+      {
+        "offset": 446,
+        "length": 5,
+        "type": "mention"
+      },
+      {
+        "offset": 446,
+        "length": 5,
+        "type": "bold"
+      }
+    ],
+    "media_group_id": null,
+    "chat_id": -1004468214616,
+    "message_ids": [
+      1590
+    ],
+    "update_ids": [
+      378305482
+    ],
+    "retry_count": 0
+  },
+  {
+    "type": "album",
+    "photo_file_ids": [
+      "AgACAgIAAyEFAAMBClOLWAACBjdrAXD8orTIDnBT4NnpY2E9cB_WJgACzBprG9CK6EsyMv_jP3AroAEAAwIAA3kAAz0E",
+      "AgACAgIAAyEFAAMBClOLWAACBjhrAXD8FncGrzWpxQxhfMzWSGoy6gACzRprG9CK6EutC-fIEcpFpwEAAwIAA3kAAz0E",
+      "AgACAgIAAyEFAAMBClOLWAACBjlrAXD8NBke5UVGGm-8MEnzUcDWwQACzhprG9CK6Evs8kbVziuzxwEAAwIAA3kAAz0E",
+      "AgACAgIAAyEFAAMBClOLWAACBjprAXD88nglIuDqCKfpgKPJ59jTIwACzxprG9CK6EvYArc0HRmsxwEAAwIAA3kAAz0E"
+    ],
+    "caption": "🤖 GPT-6.2 Astra Cuts Costs\n\nAstra is 20% cheaper, with cached tokens down 60%. Sol keeps its price but improves enough to trail Astra by just 0.5 points on FrontierCode 2.0, at roughly 5 times lower execution cost.\n\nAstra set a new record on Agents’ Last Exam, beating GPT-6 Astra by 5.2 points at less than a third of its previous cost. Both models also improve coding, documents, spreadsheets, presentations, interfaces, 3D apps, and engineering simulations.\n\nAstra reached SOTA on Terminal-Bench-Science and Vals Science Index. It is OpenAI’s first public model rated High for accelerating AI research. Both models reached Critical in cybersecurity.\n\n📊@tech",
+    "entities": [
+      {
+        "offset": 0,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5397681122542893003"
+      },
+      {
+        "offset": 3,
+        "length": 24,
+        "type": "bold"
+      },
+      {
+        "offset": 29,
+        "length": 20,
+        "type": "bold"
+      },
+      {
+        "offset": 56,
+        "length": 22,
+        "type": "bold"
+      },
+      {
+        "offset": 186,
+        "length": 28,
+        "type": "bold"
+      },
+      {
+        "offset": 217,
+        "length": 43,
+        "type": "bold"
+      },
+      {
+        "offset": 477,
+        "length": 53,
+        "type": "bold"
+      },
+      {
+        "offset": 572,
+        "length": 33,
+        "type": "bold"
+      },
+      {
+        "offset": 627,
+        "length": 25,
+        "type": "bold"
+      },
+      {
+        "offset": 655,
+        "length": 2,
+        "type": "bold"
+      },
+      {
+        "offset": 655,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5449841756596101801"
+      },
+      {
+        "offset": 657,
+        "length": 5,
+        "type": "mention"
+      },
+      {
+        "offset": 657,
+        "length": 5,
+        "type": "bold"
+      }
+    ],
+    "media_group_id": "14362052580947077",
+    "chat_id": -1004468214616,
+    "message_ids": [
+      1591,
+      1592,
+      1593,
+      1594
+    ],
+    "update_ids": [
+      378305483,
+      378305484,
+      378305485,
+      378305486
+    ],
+    "retry_count": 0
+  },
+  {
+    "type": "photo",
+    "photo_file_ids": [
+      "AgACAgIAAyEFAAMBClOLWAACBjtrAXD8-wf01QT5thoCHUKZi1EZKAAClR1rGyIQ4EvNwU71y_iPkAEAAwIAA3kAAz0E"
+    ],
+    "caption": "📊 Foundation Stops Paying Staff After CEO Takes $4.6M\n\nEmployees have received no pay since October 30. The CEO was the only board member, so nobody could block the San Francisco mansion purchase.\n\nHis previous fintech, Synapse, went bankrupt in 2024. More than 100,000 Americans then lost access to $265M in accounts.\n\n📊@tech",
+    "entities": [
+      {
+        "offset": 0,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5449841756596101801"
+      },
+      {
+        "offset": 3,
+        "length": 51,
+        "type": "bold"
+      },
+      {
+        "offset": 93,
+        "length": 10,
+        "type": "bold"
+      },
+      {
+        "offset": 166,
+        "length": 30,
+        "type": "bold"
+      },
+      {
+        "offset": 221,
+        "length": 7,
+        "type": "bold"
+      },
+      {
+        "offset": 247,
+        "length": 4,
+        "type": "bold"
+      },
+      {
+        "offset": 263,
+        "length": 17,
+        "type": "bold"
+      },
+      {
+        "offset": 301,
+        "length": 17,
+        "type": "bold"
+      },
+      {
+        "offset": 321,
+        "length": 2,
+        "type": "bold"
+      },
+      {
+        "offset": 321,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5449841756596101801"
+      },
+      {
+        "offset": 323,
+        "length": 5,
+        "type": "mention"
+      },
+      {
+        "offset": 323,
+        "length": 5,
+        "type": "bold"
+      }
+    ],
+    "media_group_id": null,
+    "chat_id": -1004468214616,
+    "message_ids": [
+      1595
+    ],
+    "update_ids": [
+      378305487
+    ],
+    "retry_count": 0
+  },
+  {
+    "type": "video",
+    "video_file_id": "BAACAgIAAyEFAAMBClOLWAACBjxrAXD8bk4lWtAWpL_x3IqoMUSUAwACNqAAAll34Evu0hBbEhKnYj0E",
+    "video_file_size": 3221601,
+    "caption": "🍏 iPhone Duo Gets Basic Face Unlock\n\nIn the second beta of iOS 27.3, Apple added Unlock with Front Camera to the $2000 folding iPhone Duo. It uses the regular front camera, not the TrueDepth hardware behind Face ID, and is currently limited to developers and beta testers.\n\nIt can unlock only the lock screen. The feature cannot open apps or show passwords. Apple Pay still requires Touch ID. After 45 minutes without use, it switches off.\n\nApple warns that the method is less secure than Touch ID or Face ID. It does not work on the inner display, likely because the under-display camera has low resolution.\n\n📊@tech",
+    "entities": [
+      {
+        "offset": 0,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5398012024003246287"
+      },
+      {
+        "offset": 3,
+        "length": 33,
+        "type": "bold"
+      },
+      {
+        "offset": 45,
+        "length": 23,
+        "type": "bold"
+      },
+      {
+        "offset": 82,
+        "length": 24,
+        "type": "bold"
+      },
+      {
+        "offset": 114,
+        "length": 5,
+        "type": "bold"
+      },
+      {
+        "offset": 282,
+        "length": 27,
+        "type": "bold"
+      },
+      {
+        "offset": 359,
+        "length": 33,
+        "type": "bold"
+      },
+      {
+        "offset": 400,
+        "length": 10,
+        "type": "bold"
+      },
+      {
+        "offset": 473,
+        "length": 36,
+        "type": "bold"
+      },
+      {
+        "offset": 514,
+        "length": 34,
+        "type": "bold"
+      },
+      {
+        "offset": 611,
+        "length": 2,
+        "type": "bold"
+      },
+      {
+        "offset": 611,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5449841756596101801"
+      },
+      {
+        "offset": 613,
+        "length": 5,
+        "type": "mention"
+      },
+      {
+        "offset": 613,
+        "length": 5,
+        "type": "bold"
+      }
+    ],
+    "media_group_id": null,
+    "chat_id": -1004468214616,
+    "message_ids": [
+      1596
+    ],
+    "update_ids": [
+      378305488
+    ],
+    "retry_count": 0
+  },
+  {
+    "type": "photo",
+    "photo_file_ids": [
+      "AgACAgQAAyEFAAMBClOLWAACBj1rAXD8x7XufUbhH8T6rF-U_Ff9PQACDRBrGzAi_VMY8qEqqIYkBgEAAwIAA3kAAz0E"
+    ],
+    "caption": "🔍 Google releases top-tier Gemini 4 Neon\n\nGemini 4 Neon handles six input types and supports a context window and maximum response of 1 million tokens. Built-in tools can run code and control a computer.\n\nAPI access is open at $3 per million input tokens and $15 per million output tokens. It is the fourth Gemini 4 model in four weeks, and the most expensive in the new line.\n\n📊@tech",
+    "entities": [
+      {
+        "offset": 0,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5431644246450908867"
+      },
+      {
+        "offset": 3,
+        "length": 38,
+        "type": "bold"
+      },
+      {
+        "offset": 65,
+        "length": 15,
+        "type": "bold"
+      },
+      {
+        "offset": 135,
+        "length": 16,
+        "type": "bold"
+      },
+      {
+        "offset": 172,
+        "length": 31,
+        "type": "bold"
+      },
+      {
+        "offset": 228,
+        "length": 27,
+        "type": "bold"
+      },
+      {
+        "offset": 260,
+        "length": 29,
+        "type": "bold"
+      },
+      {
+        "offset": 301,
+        "length": 35,
+        "type": "bold"
+      },
+      {
+        "offset": 379,
+        "length": 2,
+        "type": "bold"
+      },
+      {
+        "offset": 379,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5449841756596101801"
+      },
+      {
+        "offset": 381,
+        "length": 5,
+        "type": "mention"
+      },
+      {
+        "offset": 381,
+        "length": 5,
+        "type": "bold"
+      }
+    ],
+    "media_group_id": null,
+    "chat_id": -1004468214616,
+    "message_ids": [
+      1597
+    ],
+    "update_ids": [
+      378305489
+    ],
+    "retry_count": 0
+  },
+  {
+    "type": "video",
+    "video_file_id": "BAACAgIAAyEFAAMBClOLWAACBj5rAXD8h2i5HwpY1kLrp69GBJGy1AACHqsAAhdE8UsYMlwpudbWWj0E",
+    "video_file_size": 10116890,
+    "caption": "🎮 AI Makes Old Games Look Real\n\nA clip of Assetto Corsa, a 2014 racing simulator, can take a few seconds to identify as gameplay. Modern graphics tools, including NVIDIA DLSS, improve image quality and performance, while advanced shaders and lighting push the result closer to real footage.\n\nAI does not have to generate every frame from scratch. It can enhance conventionally rendered graphics by restoring detail or raising resolution, without rebuilding the whole scene. \n\nGTA 6 is now releasing worldwide, while Rockstar says generative AI was not used to create its game world. Future AAA projects are likely to use AI across development. The stated horizon is 5-10 years of more realistic games.\n\n📊@tech",
+    "entities": [
+      {
+        "offset": 0,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5298970683747867910"
+      },
+      {
+        "offset": 3,
+        "length": 28,
+        "type": "bold"
+      },
+      {
+        "offset": 43,
+        "length": 13,
+        "type": "bold"
+      },
+      {
+        "offset": 60,
+        "length": 21,
+        "type": "bold"
+      },
+      {
+        "offset": 164,
+        "length": 11,
+        "type": "bold"
+      },
+      {
+        "offset": 313,
+        "length": 33,
+        "type": "bold"
+      },
+      {
+        "offset": 476,
+        "length": 6,
+        "type": "bold"
+      },
+      {
+        "offset": 517,
+        "length": 8,
+        "type": "bold"
+      },
+      {
+        "offset": 531,
+        "length": 13,
+        "type": "bold"
+      },
+      {
+        "offset": 667,
+        "length": 10,
+        "type": "bold"
+      },
+      {
+        "offset": 704,
+        "length": 2,
+        "type": "bold"
+      },
+      {
+        "offset": 704,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5449841756596101801"
+      },
+      {
+        "offset": 706,
+        "length": 5,
+        "type": "mention"
+      },
+      {
+        "offset": 706,
+        "length": 5,
+        "type": "bold"
+      }
+    ],
+    "media_group_id": null,
+    "chat_id": -1004468214616,
+    "message_ids": [
+      1598
+    ],
+    "update_ids": [
+      378305490
+    ],
+    "retry_count": 0
+  },
+  {
+    "type": "photo",
+    "photo_file_ids": [
+      "AgACAgIAAyEFAAMBClOLWAACBj9rAXD8Cesh3bDhJ-MKED-taqc21gAC9RhrG-DZAAFIoWXGzgFVJQ0BAAMCAAN5AAM9BA"
+    ],
+    "caption": "🤖 Anthropic’s Record IPO Starts at $111.50\n\nThe opening price was $111.50 per share, 34% above the $83 offer price. The valuation briefly topped $2.1 trillion, versus an initial $1.5 trillion.\n\nThe team behind Claude raised more than $107 million, including $26 billion through a private placement. Private investors included Google, Microsoft, Nvidia, and AMD.\n\nShares now trade at $94-97.\n\n📊@tech",
+    "entities": [
+      {
+        "offset": 0,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5208665212483310136"
+      },
+      {
+        "offset": 3,
+        "length": 40,
+        "type": "bold"
+      },
+      {
+        "offset": 67,
+        "length": 17,
+        "type": "bold"
+      },
+      {
+        "offset": 86,
+        "length": 29,
+        "type": "bold"
+      },
+      {
+        "offset": 146,
+        "length": 13,
+        "type": "bold"
+      },
+      {
+        "offset": 235,
+        "length": 12,
+        "type": "bold"
+      },
+      {
+        "offset": 259,
+        "length": 39,
+        "type": "bold"
+      },
+      {
+        "offset": 327,
+        "length": 34,
+        "type": "bold"
+      },
+      {
+        "offset": 384,
+        "length": 6,
+        "type": "bold"
+      },
+      {
+        "offset": 393,
+        "length": 2,
+        "type": "bold"
+      },
+      {
+        "offset": 393,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5449841756596101801"
+      },
+      {
+        "offset": 395,
+        "length": 5,
+        "type": "mention"
+      },
+      {
+        "offset": 395,
+        "length": 5,
+        "type": "bold"
+      }
+    ],
+    "media_group_id": null,
+    "chat_id": -1004468214616,
+    "message_ids": [
+      1599
+    ],
+    "update_ids": [
+      378305491
+    ],
+    "retry_count": 0
+  }
+]
