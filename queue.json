@@ -1,1 +1,900 @@
-[]
+[
+  {
+    "type": "video",
+    "video_file_id": "BAACAgIAAyEFAAMBClOLWAACBkVrBXLYZ_pA9u0QYp6vsp_L-AiYxQACULAAAuSxsUvlts7CxMMWFT0E",
+    "video_file_size": 16219305,
+    "caption": "🤖 Claude can now join your video call and build the doc while you're still talking\n\nIt shows up in Google Meet as a visible participant. Say \"Claude, make a doc\" or \"Claude, make a whiteboard,\" and it starts building while the discussion goes on. Ask it something out loud or in the chat, and it answers in writing.\n\nIt can also use the team's connected apps mid-call, like sending a Slack message, but asks each person for permission first. It saves a transcript, a summary and descriptions of the screen, not audio. Admins decide whether it may sit in on calls with outside guests.\n\nThe beta is rolling out on Team and Enterprise plans, with other video apps to follow. Docs and whiteboards made in meetings are free through February 10, 2027, Anthropic says.\n\n@aipost 🏴",
+    "entities": [
+      {
+        "offset": 0,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5384247104791148900"
+      },
+      {
+        "offset": 3,
+        "length": 80,
+        "type": "bold"
+      },
+      {
+        "offset": 747,
+        "length": 14,
+        "type": "text_link",
+        "url": "https://support.claude.com/en/articles/18325154-use-claude-meetings"
+      },
+      {
+        "offset": 764,
+        "length": 7,
+        "type": "mention"
+      },
+      {
+        "offset": 772,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5431390559912614642"
+      }
+    ],
+    "media_group_id": null,
+    "chat_id": -1004468214616,
+    "message_ids": [
+      1605
+    ],
+    "update_ids": [
+      378305497
+    ],
+    "retry_count": 0
+  },
+  {
+    "type": "video",
+    "video_file_id": "BAACAgIAAyEFAAMBClOLWAACBkZrBXLYGZO3mzpd1kRhoRQeR2WF_wACUbAAAuSxsUsjYuGHqs692z0E",
+    "video_file_size": 10317333,
+    "caption": "📢 Google calls it Search's biggest AI upgrade yet, and it's live for everyone today\n\nThe new model, Gemini 4 Hydrogen, is now in Google Search for all users worldwide. You can ask the way you think: several questions in one, typos included, or a very specific request.\n\nAnswers get more visual, with images, comparison tables and small custom tools. Search also splits a question into subtopics and searches them at once, so it links to a wider range of sites, Google says.\n\nHydrogen is Google's fast model. It finishes tasks 2.5 times faster than the previous one, Gemini 3.8 Flash, and edges out the bigger Gemini 4 Argon on one broad intelligence ranking, 51 to 50. Developers pay $1.50 per million input tokens and $7.50 per million output tokens.\n\n@aipost 🏴",
+    "entities": [
+      {
+        "offset": 0,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5289992252184100112"
+      },
+      {
+        "offset": 3,
+        "length": 81,
+        "type": "bold"
+      },
+      {
+        "offset": 462,
+        "length": 11,
+        "type": "text_link",
+        "url": "https://blog.google/products-and-platforms/products/search/gemini-4-hydrogen-search-upgrade/"
+      },
+      {
+        "offset": 685,
+        "length": 5,
+        "type": "code"
+      },
+      {
+        "offset": 720,
+        "length": 5,
+        "type": "code"
+      },
+      {
+        "offset": 754,
+        "length": 7,
+        "type": "mention"
+      },
+      {
+        "offset": 762,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5431390559912614642"
+      }
+    ],
+    "media_group_id": null,
+    "chat_id": -1004468214616,
+    "message_ids": [
+      1606
+    ],
+    "update_ids": [
+      378305498
+    ],
+    "retry_count": 0
+  },
+  {
+    "type": "photo",
+    "photo_file_ids": [
+      "AgACAgIAAyEFAAMBClOLWAACBkdrBXLY2I4IVEtiDyCLTpRfmgY7rwACISNrG-SxsUuXN5BKA-AlHAEAAwIAA3cAAz0E"
+    ],
+    "caption": "❗ Jensen Huang had a third affair, this time with another Nvidia employee, Reuters reports\n\nTwo people familiar with the matter told Reuters about the relationship, on the same day Huang resigned as Nvidia's CEO. Reuters is not naming the woman and could not reach her.\n\nThe other two are Alice Huang, whom US intelligence suspects of spying for China, and Kimberly Powell, Nvidia's vice president of health care. Huang, 63 and married, admitted to an affair in a November 8 statement after the reports about Alice Huang, without naming her.\n\nNvidia declined to comment. Its shares fell 5.5% in Thursday trading and have lost more than 30% since their early October peak.\n\nCongress has called Huang to testify in the coming weeks about the national security side of his ties to Alice Huang, TechCrunch reports.\n\n@aipost 🏴",
+    "entities": [
+      {
+        "offset": 0,
+        "length": 1,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5289761612440310918"
+      },
+      {
+        "offset": 2,
+        "length": 88,
+        "type": "bold"
+      },
+      {
+        "offset": 133,
+        "length": 7,
+        "type": "text_link",
+        "url": "https://www.channelnewsasia.com/business/exclusive-former-nvidia-ceo-huang-had-relationship-second-employee-sources-say-6547376"
+      },
+      {
+        "offset": 812,
+        "length": 7,
+        "type": "mention"
+      },
+      {
+        "offset": 820,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5431390559912614642"
+      }
+    ],
+    "media_group_id": null,
+    "chat_id": -1004468214616,
+    "message_ids": [
+      1607
+    ],
+    "update_ids": [
+      378305499
+    ],
+    "retry_count": 0
+  },
+  {
+    "type": "photo",
+    "photo_file_ids": [
+      "AgACAgIAAyEFAAMBClOLWAACBkhrBXLYka9YY7FRv8OWuVfjD6OCeAACBBtrG-SxuUukx0Y6nQT_YAEAAwIAA3kAAz0E"
+    ],
+    "caption": "🧐 Nvidia chips barred from China left fingerprints in DeepSeek's newest AI models\n\nSix models released since April by DeepSeek, Moonshot (the maker of Kimi), MiniMax and Ant Group were started on Nvidia's Blackwell chips, ex-OpenAI researcher Will DePue says in a new report. Selling those chips to China needs a US license, and none has been reported.\n\nThe clue is in the published weights. A model begins training from random numbers whose layout depends on how many cores the chip has, and traces of it survive. Earlier models from the same labs read as Nvidia's older Hopper chips.\n\nWith DeepSeek's own seed, a Blackwell chip reproduced DeepSeek-V4-Flash's starting values. An older H100 couldn't. The method matched all 24 models whose makers disclosed their hardware.\n\nHe estimates each run used 500 to 3,000 Blackwell chips for two to three months. The weights can't show where the chips were or how the labs got access, and Blackwell servers can be rented outside China.\n\n@aipost 🏴",
+    "entities": [
+      {
+        "offset": 0,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5290023339157392620"
+      },
+      {
+        "offset": 3,
+        "length": 79,
+        "type": "bold"
+      },
+      {
+        "offset": 265,
+        "length": 10,
+        "type": "text_link",
+        "url": "https://unemploymentlabs.com/checkpoint-forensics"
+      },
+      {
+        "offset": 981,
+        "length": 7,
+        "type": "mention"
+      },
+      {
+        "offset": 989,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5431390559912614642"
+      }
+    ],
+    "media_group_id": null,
+    "chat_id": -1004468214616,
+    "message_ids": [
+      1608
+    ],
+    "update_ids": [
+      378305500
+    ],
+    "retry_count": 0
+  },
+  {
+    "type": "photo",
+    "photo_file_ids": [
+      "AgACAgIAAyEFAAMBClOLWAACBklrBXLYDU3cjAz69UtI5J7tRMj4EgACBhtrG-SxuUsSUu80MfJ9jwEAAwIAA3kAAz0E"
+    ],
+    "caption": "🤖 Teachers talk through a lesson, and Wharton's AI turns it into a playable simulation\n\nPrimer, from Ethan Mollick's Generative AI Labs at Wharton, starts by interviewing the teacher: the topic, the students' level, what they already know and where they usually go wrong. Teachers can speak or type and upload lesson plans or rubrics.\n\nIt then writes a design document, and nothing gets built until the teacher approves it. In the demo, that's a water-cycle lesson for 7th and 8th graders.\n\nStudents meet three AI characters: a mentor who checks what they know, a practice partner and a coach who gives feedback. In practice they either role-play against a character with its own goals or explain the idea to someone who doesn't get it yet. Teachers get reports on each student and the whole class.\n\nThe prompts, code and paper are open, and it can run on local models. Wharton calls it an experimental prototype that hasn't been tested in real classrooms.\n\n@aipost 🏴",
+    "entities": [
+      {
+        "offset": 0,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5384247104791148900"
+      },
+      {
+        "offset": 3,
+        "length": 84,
+        "type": "bold"
+      },
+      {
+        "offset": 805,
+        "length": 23,
+        "type": "text_link",
+        "url": "https://gail.wharton.upenn.edu/primer/"
+      },
+      {
+        "offset": 959,
+        "length": 7,
+        "type": "mention"
+      },
+      {
+        "offset": 967,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5431390559912614642"
+      }
+    ],
+    "media_group_id": null,
+    "chat_id": -1004468214616,
+    "message_ids": [
+      1609
+    ],
+    "update_ids": [
+      378305501
+    ],
+    "retry_count": 0
+  },
+  {
+    "type": "photo",
+    "photo_file_ids": [
+      "AgACAgIAAyEFAAMBClOLWAACBkprBXLYucRjnYmbvXbqB4N9hk4AAfYAAgUbaxvksblLRJvoGptcWg8BAAMCAAN5AAM9BA"
+    ],
+    "caption": "⚠️ A lawsuit asks a judge to stop OpenAI, Google and Anthropic from building more powerful AI\n\nFour nonprofits, including Public Citizen and the child-safety group Heat Initiative, sued Anthropic, Google, Meta, OpenAI and SpaceX's AI company in San Francisco on Thursday. They want an emergency order freezing next-generation models until the companies can show the technology is under human control.\n\nThe case leans on the companies' own warnings about catastrophic risk. It cites AI agents that hacked private companies, got into government databases and filed a false police report while acting without human control.\n\n“No other industry is allowed to treat its own development of unsafe products — much less ones that could kill us all — as inevitable,” the complaint says.\n\nThe groups are suing under California's unfair competition law. A judge will decide whether to grant the freeze.\n\n@aipost 🏴",
+    "entities": [
+      {
+        "offset": 0,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5366332658760580843"
+      },
+      {
+        "offset": 3,
+        "length": 90,
+        "type": "bold"
+      },
+      {
+        "offset": 181,
+        "length": 4,
+        "type": "text_link",
+        "url": "https://www.citizen.org/news/coalition-of-nonprofits-files-landmark-lawsuit-to-stop-development-of-advanced-ai-systems-at-anthropic-google-meta-openai-and-spacexsi-that-proliferate-bioweapons-and-cyberattacks/"
+      },
+      {
+        "offset": 893,
+        "length": 7,
+        "type": "mention"
+      },
+      {
+        "offset": 901,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5431390559912614642"
+      }
+    ],
+    "media_group_id": null,
+    "chat_id": -1004468214616,
+    "message_ids": [
+      1610
+    ],
+    "update_ids": [
+      378305502
+    ],
+    "retry_count": 0
+  },
+  {
+    "type": "photo",
+    "photo_file_ids": [
+      "AgACAgIAAyEFAAMBClOLWAACBktrBXLYtFMfMarhPvgEGin7oEmI8gACUh1rG-SxuUtKFn1OWGBHdAEAAwIAA3kAAz0E"
+    ],
+    "caption": "💻 Your Claude Code instructions may be out of date. One command finds what to fix\n\nType /doctor prompt-audit and Claude Code reviews its own instructions: your CLAUDE.md and AGENTS.md files, plus rules, skills, commands, subagents and output styles.\n\nIt flags rules written for older models, references to files or commands that no longer exist, and files that contradict each other. You get a report with proposed edits. Per Anthropic's docs, nothing in your files changes until you tell Claude to apply them.\n\nTo check one file or folder, add its path: /doctor prompt-audit .claude/skills/deploy\n\nLydia Hallie, who works on Claude Code at Anthropic, reminded developers on Thursday to run it in their repos. It needs Claude Code 2.1.283 or newer.\n\n@aipost 🏴",
+    "entities": [
+      {
+        "offset": 0,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5366308323475880265"
+      },
+      {
+        "offset": 3,
+        "length": 79,
+        "type": "bold"
+      },
+      {
+        "offset": 89,
+        "length": 20,
+        "type": "code"
+      },
+      {
+        "offset": 161,
+        "length": 9,
+        "type": "url"
+      },
+      {
+        "offset": 175,
+        "length": 9,
+        "type": "url"
+      },
+      {
+        "offset": 427,
+        "length": 16,
+        "type": "text_link",
+        "url": "https://code.claude.com/docs/en/memory#audit-your-instruction-files"
+      },
+      {
+        "offset": 556,
+        "length": 42,
+        "type": "code"
+      },
+      {
+        "offset": 751,
+        "length": 7,
+        "type": "mention"
+      },
+      {
+        "offset": 759,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5431390559912614642"
+      }
+    ],
+    "media_group_id": null,
+    "chat_id": -1004468214616,
+    "message_ids": [
+      1611
+    ],
+    "update_ids": [
+      378305503
+    ],
+    "retry_count": 0
+  },
+  {
+    "type": "photo",
+    "photo_file_ids": [
+      "AgACAgIAAyEFAAMBClOLWAACBkxrBXLYsxSS7Pqzvzq01Ql84IVi1wACUx1rG-SxuUsepJgSBe6CiwEAAwIAA3kAAz0E"
+    ],
+    "caption": "🧐 From zero to your own ChatGPT: Andrej Karpathy's free code, in 7 repos\n\nThe OpenAI co-founder keeps his teaching code free on GitHub. A developer lined up seven of his repos in the order to learn them, and nearly 1,500 people saved the list:\n\n1. nn-zero-to-hero, his video course that builds neural networks from scratch\n2. micrograd, the math that makes AI learn, in a tiny amount of code\n3. makemore, feed it a list of names and it invents new ones\n4. minbpe, how AI chops your words into tokens\n5. nanoGPT, train your own GPT model\n6. nanochat, in Karpathy's words \"The best ChatGPT that $100 can buy.\"\n7. autoresearch, an AI agent runs training experiments on one GPU overnight and keeps what works\n\nTogether the seven have about 285,000 GitHub stars. Autoresearch alone has nearly 100,000.\n\n@aipost 🏴",
+    "entities": [
+      {
+        "offset": 0,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5290023339157392620"
+      },
+      {
+        "offset": 3,
+        "length": 70,
+        "type": "bold"
+      },
+      {
+        "offset": 126,
+        "length": 9,
+        "type": "text_link",
+        "url": "https://github.com/karpathy"
+      },
+      {
+        "offset": 249,
+        "length": 15,
+        "type": "bold"
+      },
+      {
+        "offset": 327,
+        "length": 9,
+        "type": "bold"
+      },
+      {
+        "offset": 396,
+        "length": 8,
+        "type": "bold"
+      },
+      {
+        "offset": 457,
+        "length": 6,
+        "type": "bold"
+      },
+      {
+        "offset": 504,
+        "length": 7,
+        "type": "bold"
+      },
+      {
+        "offset": 541,
+        "length": 8,
+        "type": "bold"
+      },
+      {
+        "offset": 612,
+        "length": 12,
+        "type": "bold"
+      },
+      {
+        "offset": 799,
+        "length": 7,
+        "type": "mention"
+      },
+      {
+        "offset": 807,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5431390559912614642"
+      }
+    ],
+    "media_group_id": null,
+    "chat_id": -1004468214616,
+    "message_ids": [
+      1612
+    ],
+    "update_ids": [
+      378305504
+    ],
+    "retry_count": 0
+  },
+  {
+    "type": "video",
+    "video_file_id": "BAACAgIAAyEFAAMBClOLWAACBk1rBXLYVxviLQvUl-eIJI_CgD8kPwACz6QAAuSxwUvTzCFWajvV5j0E",
+    "video_file_size": 15592517,
+    "caption": "💰 ChatGPT's agent can now shop for you without ever seeing your card number\n\nOpenAI's agents in ChatGPT, called dots, can now finish a purchase for you. Ask yours to find a new sweater or book a hotel for next weekend, and at checkout it pays through the new ChatGPT Wallet.\n\nYou add a card once. Before each purchase you see the items, the total and the card, then approve it with Face ID or a fingerprint.\n\nThe agent and the shop never get your real card details. Instead, the card network provides a stand-in card number for that payment. Your card's rewards and dispute protections stay.\n\nFor now it's only for ChatGPT Pro subscribers in the US, aged 18 and up. Later, OpenAI expects people to set spending limits and approve purchases in advance.\n\n@aipost 🏴",
+    "entities": [
+      {
+        "offset": 0,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5289964193162759223"
+      },
+      {
+        "offset": 3,
+        "length": 73,
+        "type": "bold"
+      },
+      {
+        "offset": 260,
+        "length": 14,
+        "type": "text_link",
+        "url": "https://openai.com/index/introducing-chatgpt-wallet/"
+      },
+      {
+        "offset": 754,
+        "length": 7,
+        "type": "mention"
+      },
+      {
+        "offset": 762,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5431390559912614642"
+      }
+    ],
+    "media_group_id": null,
+    "chat_id": -1004468214616,
+    "message_ids": [
+      1613
+    ],
+    "update_ids": [
+      378305505
+    ],
+    "retry_count": 0
+  },
+  {
+    "type": "photo",
+    "photo_file_ids": [
+      "AgACAgIAAyEFAAMBClOLWAACBk5rBXLYUFwJ68nJ-K9sSIzLW8FoOAACaxxrG-SxwUsepsqtIjKBEQEAAwIAA3kAAz0E"
+    ],
+    "caption": "😮 An AI voice just beat K-pop idols to No. 1 on Korea's main music chart\n\n\"Did You Become the Adult You Once Dreamed Of?\" by MEOMURU took first place on Melon's Top 100 at 5 p.m. Seoul time on November 13. It pushed RESCENE's new single \"With\" to second. Yonhap says it's the first song made with AI to top the chart.\n\nNo person sang it. The vocals were generated with Suno, an AI music app. MEOMURU is a project of two human producers, the Glorywave team, who wrote the lyrics and directed the production.\n\nThe rock ballad came out in June and climbed for five months. Most of its listeners are in their 30s (36%) and 40s (30%), according to Melon.\n\nThe song isn't registered with Korea's music copyright association yet, so its makers don't collect songwriting royalties the usual way, the team told Newsis.\n\nWould you still play a song you love after learning the singer is AI?\n\n@aipost 🏴",
+    "entities": [
+      {
+        "offset": 0,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5875419753740242762"
+      },
+      {
+        "offset": 3,
+        "length": 70,
+        "type": "bold"
+      },
+      {
+        "offset": 883,
+        "length": 7,
+        "type": "mention"
+      },
+      {
+        "offset": 891,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5431390559912614642"
+      }
+    ],
+    "media_group_id": null,
+    "chat_id": -1004468214616,
+    "message_ids": [
+      1614
+    ],
+    "update_ids": [
+      378305506
+    ],
+    "retry_count": 0
+  },
+  {
+    "type": "photo",
+    "photo_file_ids": [
+      "AgACAgIAAyEFAAMBClOLWAACBk9rBXLY_UUfOtuyO-dpNR9zaxE6UgACPx1rG-SxwUuZJ3KzHxS51gEAAwIAA3kAAz0E"
+    ],
+    "caption": "Workers say AI timed their toilet breaks. Their employer says it isn't even AI\n\nMore than 300 distribution workers at The Warehouse, New Zealand's largest retailer, walked off the job in Auckland and Christchurch on Thursday.\n\nTheir union says AI tracks their bathroom breaks, and that some staff ended up urinating and defecating in the aisles. \"Having supervisors and managers follow people to the toilet and telling them off for a fundamental right is absolutely ludicrous,\" organiser Hayley Courtney told RNZ.\n\nThe company denies all of it. Its scanning devices measure efficiency, it says, are \"not AI as claimed\" and have \"nothing to do with bathroom use.\" Of the aisle claims, its people chief said: \"This has never happened.\"\n\nThe bigger fear is jobs. Drones now count the stock, and a large robot is coming to pack orders. \"Do I look like a robot? No. I don't,\" said a woman who has worked there for 23 years. The company says the machines haven't cost anyone a permanent job.\n\n@aipost 🏴",
+    "entities": [
+      {
+        "offset": 0,
+        "length": 78,
+        "type": "bold"
+      },
+      {
+        "offset": 509,
+        "length": 3,
+        "type": "text_link",
+        "url": "https://www.rnz.co.nz/news/business/2549693/the-warehouse-staff-defecating-in-distribution-centre-aisles-union-alleges"
+      },
+      {
+        "offset": 987,
+        "length": 7,
+        "type": "mention"
+      },
+      {
+        "offset": 995,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5431390559912614642"
+      }
+    ],
+    "media_group_id": null,
+    "chat_id": -1004468214616,
+    "message_ids": [
+      1615
+    ],
+    "update_ids": [
+      378305507
+    ],
+    "retry_count": 0
+  },
+  {
+    "type": "photo",
+    "photo_file_ids": [
+      "AgACAgIAAyEFAAMBClOLWAACBlBrBXLYEb2IEPR4t0qey7NumYSjuQACjB1rG-SxwUs0a-UqKHU4jwEAAwIAA3kAAz0E"
+    ],
+    "caption": "⚠️ AI just became Wall Street's biggest fear in a Fed survey, beating inflation and debt\n\n87% of the 23 market insiders the New York Fed polled named AI as a risk to the financial system. In the spring, it was 50%.\n\nThey worry about AI stocks falling if profits disappoint, about how the AI build-out is financed, and about cyber risk, from state hackers or from \"damage caused by frontier AI models themselves.\"\n\nThe Fed's report says stock prices are high partly because of \"market enthusiasm for super intelligence.\" Debt raised for AI computing passed $680 billion by October, about five times all of 2023.\n\nThe largest US banks have close to $1 trillion of exposure to tech giants, data center builders, utilities and the vehicles that fund them.\n\n@aipost 🏴",
+    "entities": [
+      {
+        "offset": 0,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5366332658760580843"
+      },
+      {
+        "offset": 3,
+        "length": 85,
+        "type": "bold"
+      },
+      {
+        "offset": 418,
+        "length": 12,
+        "type": "text_link",
+        "url": "https://www.federalreserve.gov/publications/files/financial-stability-report-20261113.pdf"
+      },
+      {
+        "offset": 753,
+        "length": 7,
+        "type": "mention"
+      },
+      {
+        "offset": 761,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5431390559912614642"
+      }
+    ],
+    "media_group_id": null,
+    "chat_id": -1004468214616,
+    "message_ids": [
+      1616
+    ],
+    "update_ids": [
+      378305508
+    ],
+    "retry_count": 0
+  },
+  {
+    "type": "album",
+    "photo_file_ids": [
+      "AgACAgQAAyEFAAMBClOLWAACBlFrBXLYdQ_clPy_IJWEhxZtLxY_KgACnhBrG8sguVOamAnwNI3RwwEAAwIAA3gAAz0E",
+      "AgACAgQAAyEFAAMBClOLWAACBlJrBXLYB9xqlbOq1VmWI9JLobO-HgACnxBrG8sguVPVMmWdIcyRGgEAAwIAA3kAAz0E",
+      "AgACAgQAAyEFAAMBClOLWAACBlNrBXLY2qvD14yzxmbxEpyM8MXCbgACoBBrG8sguVPs69-78YaKmwEAAwIAA3cAAz0E"
+    ],
+    "caption": "❗️OpenAI has officially disbanded its robotics team, just five months after relaunching it.\n\n@aipost 🏴",
+    "entities": [
+      {
+        "offset": 0,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5289761612440310918"
+      },
+      {
+        "offset": 93,
+        "length": 7,
+        "type": "mention"
+      },
+      {
+        "offset": 101,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5431390559912614642"
+      }
+    ],
+    "media_group_id": "14364153542432493",
+    "chat_id": -1004468214616,
+    "message_ids": [
+      1617,
+      1618,
+      1619
+    ],
+    "update_ids": [
+      378305509,
+      378305510,
+      378305511
+    ],
+    "retry_count": 0
+  },
+  {
+    "type": "album",
+    "photo_file_ids": [
+      "AgACAgQAAyEFAAMBClOLWAACBlRrBXLY5ujIQKi82l7P_Y3j6I0bagAC2Q9rG8sgyVOkCgNDL4kg5wEAAwIAA3cAAz0E",
+      "AgACAgQAAyEFAAMBClOLWAACBlVrBXLYApKBncVzazmEHPhGASXjQAAC2g9rG8sgyVPqKf1nwZ_nXQEAAwIAA3cAAz0E"
+    ],
+    "caption": "❗️Nvidia’s AI boom may be built on a risky financial loop.\n\nAccording to the Wall Street Journal, Nvidia has been financing and guaranteeing loans for AI companies and data center operators that buy its GPUs. The strategy turns them into long-term customers, but also leaves Nvidia exposed if they cannot repay their debts.\n\nThe scale is growing rapidly, Nvidia disclosed $530 billion in commitments and guarantees, up from $184 billion just one quarter earlier.\n\nThe controversial part is that Nvidia can effectively act as the investor, lender, chip supplier and backup customer for the same companies. It finances data centers, sells them GPUs and sometimes agrees to purchase their unused computing capacity.\n\nCoreWeave and OpenAI are prominent examples. Nvidia owns a stake in CoreWeave and has agreed to buy up to $6.3 billion in unused computing capacity. For OpenAI’s Ohio data center, Nvidia’s guarantee was reportedly reduced from $250 billion to $105 billion.\n\nCFO Colette Kress had reportedly questioned the risks of these arrangements and pushed to reduce some commitments. Now, with Jensen Huang reportedly out of the picture, she is in charge of Nvidia.\n\nThe central risk is straightforward. If AI companies struggle to find customers or repay their debts, they may stop buying Nvidia chips. That could turn Nvidia’s financing strategy into a source of pressure on its own revenue.\n\n@aipost 🏴",
+    "entities": [
+      {
+        "offset": 0,
+        "length": 2,
+        "type": "bold"
+      },
+      {
+        "offset": 0,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5289761612440310918"
+      },
+      {
+        "offset": 2,
+        "length": 56,
+        "type": "bold"
+      },
+      {
+        "offset": 1398,
+        "length": 7,
+        "type": "mention"
+      },
+      {
+        "offset": 1406,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5431390559912614642"
+      }
+    ],
+    "media_group_id": "14364153542432501",
+    "chat_id": -1004468214616,
+    "message_ids": [
+      1620,
+      1621
+    ],
+    "update_ids": [
+      378305512,
+      378305513
+    ],
+    "retry_count": 0
+  },
+  {
+    "type": "photo",
+    "photo_file_ids": [
+      "AgACAgIAAyEFAAMBClOLWAACBlZrBXLYgr-gUeA4GAxCVBElGd4iDgACdSNrGwSJyEu2gsJ17ANEFgEAAwIAA3kAAz0E"
+    ],
+    "caption": "💻 Tell Claude's new model \"never\" and it won't budge. Anthropic says what to write instead\n\nClaude Fable 5.2 treats any instruction with \"never\" as absolute. Its prompting guide suggests \"ask for approval before deleting files\" over \"never delete files\" when you still want a say.\n\nNewsletter writer Ruben Hassid turned the guide into lines anyone can paste:\n\n1. Find \"always\" and \"never\" in your Claude instructions and memory. In grey areas, write \"ask me first\".\n2. Don't just say \"Go\". Say what you approve: \"Yes, rewrite the 3 welcome emails. Leave the invoice template alone.\"\n3. Tell it to finish:\nFinish the whole job before you stop. Don't offer to continue: continue. Ask me before you delete anything.\n4. Ask for a report you can read:\nEnd with a recap for someone who saw none of the work: key points first, plain words.\n\nIn Anthropic's replay of real coding sessions, its longer finish-the-job text roughly halved the runs that stopped with work left.\n\n@aipost 🏴",
+    "entities": [
+      {
+        "offset": 0,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5366308323475880265"
+      },
+      {
+        "offset": 3,
+        "length": 88,
+        "type": "bold"
+      },
+      {
+        "offset": 163,
+        "length": 15,
+        "type": "text_link",
+        "url": "https://platform.claude.com/docs/en/build-with-claude/prompt-engineering/prompting-claude-fable-5-2"
+      },
+      {
+        "offset": 606,
+        "length": 107,
+        "type": "code"
+      },
+      {
+        "offset": 748,
+        "length": 85,
+        "type": "code"
+      },
+      {
+        "offset": 967,
+        "length": 7,
+        "type": "mention"
+      },
+      {
+        "offset": 975,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5431390559912614642"
+      }
+    ],
+    "media_group_id": null,
+    "chat_id": -1004468214616,
+    "message_ids": [
+      1622
+    ],
+    "update_ids": [
+      378305514
+    ],
+    "retry_count": 0
+  },
+  {
+    "type": "photo",
+    "photo_file_ids": [
+      "AgACAgIAAyEFAAMBClOLWAACBldrBXLY3oU8wl9zovCMA2IGc1LztgACeSNrGwSJyEtbRRvajcmh2gEAAwIAA3kAAz0E"
+    ],
+    "caption": "🧐 Everyone has the same AI models. A founder's 49-step list starts with what only you have\n\nGreg Isenberg, whose firm Late Checkout builds startups, posted his plan for an \"AI pilled\" company. Before any agent or tool, it builds the files your agents read:\n\n• A second brain: one folder of notes on how you think, write and decide (Obsidian).\n• Voice notes all day (Wispr), with an agent filing every fact, story and decision.\n• Every call and meeting recorded (Granola), straight into the brain.\n• A facts file: true things agents are allowed to say about you. He says it kills made-up claims.\n• A voice file: your 50 best posts, 20 you hate and the words you never use.\n• One instruction file on top (CLAUDE.md or AGENTS.md) that agents read before any task.\n\nThe other steps cover skills, agent teams, costs and growth, down to \"track cost per job. if a job costs more than it earns, fix it or kill it\".\n\nHis last line:\nThe models are the same for everyone but your context is the only part that's yours.\n\n@aipost 🏴",
+    "entities": [
+      {
+        "offset": 0,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5290023339157392620"
+      },
+      {
+        "offset": 3,
+        "length": 88,
+        "type": "bold"
+      },
+      {
+        "offset": 704,
+        "length": 9,
+        "type": "url"
+      },
+      {
+        "offset": 717,
+        "length": 9,
+        "type": "url"
+      },
+      {
+        "offset": 924,
+        "length": 84,
+        "type": "blockquote"
+      },
+      {
+        "offset": 1010,
+        "length": 7,
+        "type": "mention"
+      },
+      {
+        "offset": 1018,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5431390559912614642"
+      }
+    ],
+    "media_group_id": null,
+    "chat_id": -1004468214616,
+    "message_ids": [
+      1623
+    ],
+    "update_ids": [
+      378305515
+    ],
+    "retry_count": 0
+  },
+  {
+    "type": "video",
+    "video_file_id": "BAACAgIAAyEFAAMBClOLWAACBlhrBXLYNxL3ioqRVXOQRmuJf5PUwAACH6sAAgSJyEspubKsYerWGT0E",
+    "video_file_size": 14057107,
+    "caption": "🗣 China's leaders understand AI risk \"much better than the US government,\" Geoffrey Hinton says\n\nThe Nobel-winning \"godfather of AI\" said on PBS's Firing Line, aired November 13, that last summer he went to Shanghai and talked to a Politburo member, a protégé of Xi Jinping.\n\n\"I believe the Politburo understands this stuff much better than the US government. They are very concerned about these risks and they will collaborate with the US on trying to prevent superintelligence taking over.\"\n\nThat won't happen yet, he said, \"while we still have a, how can I say this, maybe a corrupt senile felon in the White House.\"\n\nNot for two years, he thinks. After that, he expects a \"sensible US government\" to work with China on superintelligence, much as the US and the Soviet Union did on the dangers of H-bombs in the 1950s.\n\n@aipost 🏴",
+    "entities": [
+      {
+        "offset": 0,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5287468155738821335"
+      },
+      {
+        "offset": 3,
+        "length": 93,
+        "type": "bold"
+      },
+      {
+        "offset": 148,
+        "length": 11,
+        "type": "text_link",
+        "url": "https://www.pbs.org/video/geoffrey-hinton-biumi2/"
+      },
+      {
+        "offset": 277,
+        "length": 216,
+        "type": "blockquote"
+      },
+      {
+        "offset": 824,
+        "length": 7,
+        "type": "mention"
+      },
+      {
+        "offset": 832,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5431390559912614642"
+      }
+    ],
+    "media_group_id": null,
+    "chat_id": -1004468214616,
+    "message_ids": [
+      1624
+    ],
+    "update_ids": [
+      378305516
+    ],
+    "retry_count": 0
+  },
+  {
+    "type": "photo",
+    "photo_file_ids": [
+      "AgACAgIAAyEFAAMBClOLWAACBllrBXLYbSv08P_Np9I4VG68Q5v8pAACQCZrGwSJyEvjZxBass20_AEAAwIAA3kAAz0E"
+    ],
+    "caption": "🗣 Would she fire Sam Altman again? \"Oh, for sure,\" says the OpenAI board member who did\n\nHelen Toner was one of four OpenAI board members who voted to fire Altman in 2023. He came back as CEO, and she left the board.\n\nAsked on The Verge's Decoder podcast whether she would do it the same way again, Toner said: \"Oh, for sure. I mean, we went into it knowing that it was going to suck.\"\n\nIs Altman trustworthy? \"I think my stance on that is pretty clear,\" she said. Then the bigger point: \"if our hopes for the future are pinned on any one individual being trustworthy, then we're pretty screwed.\"\n\nToner now runs Georgetown's Center for Security and Emerging Technology. The people building these systems say the safety problems must be solved within 12 to 24 months. \"I think that's terrifying and I hope they're wrong.\"\n\n@aipost 🏴",
+    "entities": [
+      {
+        "offset": 0,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5287468155738821335"
+      },
+      {
+        "offset": 3,
+        "length": 85,
+        "type": "bold"
+      },
+      {
+        "offset": 228,
+        "length": 27,
+        "type": "text_link",
+        "url": "https://www.theverge.com/podcast/1032907/helen-toner-openai-cset-ai-safety-policy-interview"
+      },
+      {
+        "offset": 824,
+        "length": 7,
+        "type": "mention"
+      },
+      {
+        "offset": 832,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5431390559912614642"
+      }
+    ],
+    "media_group_id": null,
+    "chat_id": -1004468214616,
+    "message_ids": [
+      1625
+    ],
+    "update_ids": [
+      378305517
+    ],
+    "retry_count": 0
+  }
+]
