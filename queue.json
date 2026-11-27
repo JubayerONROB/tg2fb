@@ -1,1 +1,198 @@
-[]
+[
+  {
+    "type": "photo",
+    "photo_file_ids": [
+      "AgACAgIAAyEFAAMBClOLWAACBmBrCUkjs6nsZiwQGfTiBDMRfRB0YQAC0B1rGwSJ0EsySn8uPeTtcwEAAwIAA3kAAz0E"
+    ],
+    "caption": "🤖 One prompt makes Claude argue as five advisors before it answers you\n\nIt isn't a new feature, whatever the viral \"BREAKING\" posts say. Paste this into a Claude Project's instructions (or any chat), and every question gets five quick takes, the biggest disagreement and one verdict:\n\nFor each request, play five advisors. The Strategist checks what best serves my goal. The Skeptic tests the weakest assumption. The Creative Advisor suggests an overlooked option. The Audience Advocate explains how the people affected might react. The Operator checks what I can actually do with my time and resources. Give each advisor one or two sentences. Then show the biggest disagreement and let one advisor respond to the strongest objection. End with one verdict, the first action I should take, and what could change your recommendation. Label assumptions. If a missing detail could change the verdict, ask me one focused question first.\n\n@aipost 🏴",
+    "entities": [
+      {
+        "offset": 0,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5384247104791148900"
+      },
+      {
+        "offset": 3,
+        "length": 68,
+        "type": "bold"
+      },
+      {
+        "offset": 286,
+        "length": 646,
+        "type": "expandable_blockquote"
+      },
+      {
+        "offset": 286,
+        "length": 646,
+        "type": "code"
+      },
+      {
+        "offset": 934,
+        "length": 7,
+        "type": "mention"
+      },
+      {
+        "offset": 942,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5431390559912614642"
+      }
+    ],
+    "media_group_id": null,
+    "chat_id": -1004468214616,
+    "message_ids": [
+      1632
+    ],
+    "update_ids": [
+      378305524
+    ],
+    "retry_count": 0
+  },
+  {
+    "type": "video",
+    "video_file_id": "BAACAgIAAyEFAAMBClOLWAACBmFrCUkjZbATa8pc7rgOSVoCyUPk-gAC6KoAAt4U0UvjGxdG64a7hz0E",
+    "video_file_size": 12749861,
+    "caption": "🗣 Brilliant but a jerk? Anthropic won't hire you, Dario Amodei says\n\nAnthropic has been \"very disciplined about turning down people who are deeply technically talented\" but don't fit its culture, Amodei told JPMorgan CEO Jamie Dimon on November 13, ahead of the company's IPO.\n\n\"We don't want people who are jerks. We don't want people who try to steal the show and don't work well with others. We don't want people who aren't oriented towards the public benefit.\"\n\nHe says he spends 40% to 50% of his time on talent and culture. According to Amodei, two major product employees left and came back after two weeks, saying: \"Sorry, we didn't appreciate what we had.\"\n\n@aipost 🏴",
+    "entities": [
+      {
+        "offset": 0,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5287468155738821335"
+      },
+      {
+        "offset": 3,
+        "length": 65,
+        "type": "bold"
+      },
+      {
+        "offset": 204,
+        "length": 29,
+        "type": "text_link",
+        "url": "https://www.businessinsider.com/anthropic-dario-amodei-types-workers-hiring-culture-retention-2026-11"
+      },
+      {
+        "offset": 279,
+        "length": 186,
+        "type": "blockquote"
+      },
+      {
+        "offset": 668,
+        "length": 7,
+        "type": "mention"
+      },
+      {
+        "offset": 676,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5431390559912614642"
+      }
+    ],
+    "media_group_id": null,
+    "chat_id": -1004468214616,
+    "message_ids": [
+      1633
+    ],
+    "update_ids": [
+      378305525
+    ],
+    "retry_count": 0
+  },
+  {
+    "type": "photo",
+    "photo_file_ids": [
+      "AgACAgIAAyEFAAMBClOLWAACBmJrCUkjl3ptsBJzpoZaBJqSayfiZwACpyFrG94U0UsNGBo4gkqTnQEAAwIAA3kAAz0E"
+    ],
+    "caption": "💰 Gemini can now look through your bank transactions and catch subscription price hikes\n\nAsk “what subscriptions am I still paying for, and did any of them go up in price this year?” and Gemini finds the recurring charges across your linked accounts and flags the ones that got more expensive.\n\nGoogle started rolling this out on November 13 to everyone using the Gemini app in the US, on Android, iOS and the web. You connect Google Wallet and can also link your bank and credit card accounts to it through Plaid.\n\nOther uses Google lists: charts of where your money goes, and a holiday budget built from what you actually spent on gifts and travel last year.\n\nIt can only read the accounts. Google says it can't move, manage or invest your money, and you can switch the connection off at any time.\n\nWould you let a chatbot read your bank transactions to catch a forgotten subscription?\n\n@aipost 🏴",
+    "entities": [
+      {
+        "offset": 0,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5289964193162759223"
+      },
+      {
+        "offset": 3,
+        "length": 85,
+        "type": "bold"
+      },
+      {
+        "offset": 303,
+        "length": 24,
+        "type": "text_link",
+        "url": "https://blog.google/innovation-and-ai/products/gemini-app/google-wallet-gemini-app/"
+      },
+      {
+        "offset": 890,
+        "length": 7,
+        "type": "mention"
+      },
+      {
+        "offset": 898,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5431390559912614642"
+      }
+    ],
+    "media_group_id": null,
+    "chat_id": -1004468214616,
+    "message_ids": [
+      1634
+    ],
+    "update_ids": [
+      378305526
+    ],
+    "retry_count": 0
+  },
+  {
+    "type": "video",
+    "video_file_id": "BAACAgIAAyEFAAMBClOLWAACBmNrCUkj_k9ib8nhpkoc-HoZC1Bi7wAC6qoAAt4U0UsWr3GUfXeRYD0E",
+    "video_file_size": 3885579,
+    "caption": "🗣 Hinton: Amodei took a hit for saying no to the military. Altman stepped in a day later\n\n\"Don't look at what people say, look at what people do,\" Geoffrey Hinton told PBS's Firing Line in an episode aired November 13.\n\nIn his telling, the US military wanted to be allowed to use Claude to spy on US citizens. Dario Amodei said no and \"took a big hit for that.\" Sam Altman first said OpenAI agreed with him, Hinton says, then said OpenAI would do it about a day after the military dropped Claude.\n\n\"So, Dario was willing to take a hit in order to do what he thought was right. That's much more convincing than anything they say.\"\n\nHinton still calls Amodei's position \"very difficult\": if he walks away, the technology gets built by people who are less cautious.\n\n@aipost 🏴",
+    "entities": [
+      {
+        "offset": 0,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5287468155738821335"
+      },
+      {
+        "offset": 3,
+        "length": 86,
+        "type": "bold"
+      },
+      {
+        "offset": 175,
+        "length": 11,
+        "type": "text_link",
+        "url": "https://www.pbs.org/video/geoffrey-hinton-biumi2/"
+      },
+      {
+        "offset": 499,
+        "length": 131,
+        "type": "blockquote"
+      },
+      {
+        "offset": 765,
+        "length": 7,
+        "type": "mention"
+      },
+      {
+        "offset": 773,
+        "length": 2,
+        "type": "custom_emoji",
+        "custom_emoji_id": "5431390559912614642"
+      }
+    ],
+    "media_group_id": null,
+    "chat_id": -1004468214616,
+    "message_ids": [
+      1635
+    ],
+    "update_ids": [
+      378305527
+    ],
+    "retry_count": 0
+  }
+]
